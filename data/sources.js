@@ -119,6 +119,8 @@ export const files = {
         "Short obligatory prayer, to be recited once in twenty‑four hours, at noon.",
         "Medium obligatory prayer, to be recited daily, in the morning, at noon, and in the evening.",
         "Long obligatory prayer, to be recited once in twenty‑four hours.",
+        "The Tablet of Visitation.",
+        "Prayer for the Dead.",
       ],
     },
     "additional-prayers-revealed-bahaullah": {
@@ -160,6 +162,8 @@ export const files = {
         "To be recited once in twenty‑four hours, at noon",
         "To be recited daily, in the morning, at noon, and in the evening",
         "To be recited once in twenty‑four hours",
+        "(This Tablet is read at the Shrines of Bahá’u’lláh and the Báb. It is also frequently used in commemorating Their anniversaries.)",
+        "(This prayer, revealed by ‘Abdu’l‑Bahá, is read at His Shrine. It is also used in private prayer.)",
       ],
       sections: {
         "Obligatory Prayers": 1,

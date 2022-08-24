@@ -29,7 +29,7 @@
               </a>
             :
               <a
-                size={16}
+                size={isInfo ? 16 : 17}
                 italic={isInfo}
                 pad={[0, isInfo && 20]}
                 indent={!isInfo && 20}
