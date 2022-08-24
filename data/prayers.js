@@ -35,8 +35,6 @@ import { readJSON, removeDuplicates, writeData } from "./utils.js";
     .filter(
       (p) =>
         ![
-          "prayers-bahai-prayers-2",
-          "prayers-bahai-prayers-3",
           "abdul-baha-additional-prayers-revealed-abdul-baha-13",
           "prayers-bahai-prayers-115",
           "prayers-bahai-prayers-181",

@@ -116,6 +116,9 @@ export const files = {
         /^— .* —$/,
         "by Bahá’u’lláh",
         "Translated by Shoghi Effendi from the original Persian and Arabic",
+        "Short obligatory prayer, to be recited once in twenty‑four hours, at noon.",
+        "Medium obligatory prayer, to be recited daily, in the morning, at noon, and in the evening.",
+        "Long obligatory prayer, to be recited once in twenty‑four hours.",
       ],
     },
     "additional-prayers-revealed-bahaullah": {
@@ -154,6 +157,9 @@ export const files = {
       splitAfter: ["The period of the Fast is March 2 through March 20."],
       ignore: [
         "A Selection of Prayers Revealed by Bahá’u’lláh, the Báb, and ‘Abdu’l‑Bahá",
+        "To be recited once in twenty‑four hours, at noon",
+        "To be recited daily, in the morning, at noon, and in the evening",
+        "To be recited once in twenty‑four hours",
       ],
       sections: {
         "Obligatory Prayers": 1,
