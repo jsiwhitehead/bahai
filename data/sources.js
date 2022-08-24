@@ -131,6 +131,27 @@ export const files = {
         "Qur’án 21:89",
       ],
     },
+    "hidden-words": {
+      type: "Writings",
+      splitBr: true,
+      splitBefore: [
+        /^(?!(?:20\.|37\.|48\.)$)\d+\.$/,
+        "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:",
+        "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:",
+        "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:",
+      ],
+      ignore: [
+        /^\d+\.$/,
+        "Bahá’u’lláh",
+        "Translated by Shoghi Effendi with the assistance of some English friends",
+        "From the Arabic",
+        "From the Persian",
+      ],
+      sections: {
+        "Part One": 1,
+        "Part Two": 1,
+      },
+    },
   },
   "abdul-baha": {
     "prayers-abdul-baha": {

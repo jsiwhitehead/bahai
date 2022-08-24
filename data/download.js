@@ -15,7 +15,6 @@ const findNode = (node, test) => {
 
 const inline = [
   "span",
-  "br",
   "wbr",
   "u",
   "b",
@@ -35,13 +34,21 @@ const fetchHtml = async (url) => {
   }
 };
 
-const getParagraphs = (html, rootNodeTest = (n) => n.tagName === "body") => {
+const getParagraphs = (
+  html,
+  splitBr,
+  rootNodeTest = (n) => n.tagName === "body"
+) => {
   const paras = [""];
   const walk = (node) => {
     if (node.nodeName === "#text") {
       paras[paras.length - 1] = paras[paras.length - 1] + node.value;
     } else if (node.tagName && !["a", "script"].includes(node.tagName)) {
-      if (!inline.includes(node.tagName)) paras.push("");
+      if (
+        !(inline.includes(node.tagName) || (node.tagName === "br" && !splitBr))
+      ) {
+        paras.push("");
+      }
       node.childNodes.forEach((n) => walk(n));
     }
   };
@@ -59,6 +66,7 @@ const getParagraphs = (html, rootNodeTest = (n) => n.tagName === "body") => {
   for (const author of Object.keys(files)) {
     await Promise.all(
       Object.keys(files[author]).map(async (file) => {
+        const { splitBr } = files[author][file];
         const html = await fetchHtml(
           `https://www.bahai.org/library/${
             [
@@ -69,7 +77,11 @@ const getParagraphs = (html, rootNodeTest = (n) => n.tagName === "body") => {
               : "authoritative-texts"
           }/${author}/${file}/${file}.xhtml`
         );
-        await writeData("download", `${author}-${file}`, getParagraphs(html));
+        await writeData(
+          "download",
+          `${author}-${file}`,
+          getParagraphs(html, splitBr)
+        );
       })
     );
   }
