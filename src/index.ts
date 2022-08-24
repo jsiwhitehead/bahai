@@ -7,6 +7,7 @@ import render from "./render";
 
 import collections from "./data/collections.json";
 import prayers from "./data/prayers.json";
+import readers from "./data/readers.json";
 
 import "./style.css";
 
@@ -59,6 +60,7 @@ run(
       }),
       {}
     ),
+    readers,
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),

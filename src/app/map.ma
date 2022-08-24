@@ -40,7 +40,7 @@
       focus::{onfocus && true}
       focus::{onblur && false}
     />,
-    nextInline: x.items.some(y=> type(y) !== "object" && ("" + y).trim()),
+    nextInline: x.items.some(y=> y && type(y) !== "object" && ("" + y).trim()),
     content:
       nextInline ?
         x.items.map(y=> map(
@@ -50,7 +50,7 @@
             y
         ))
       :
-        x.items.filter(y=> type(y) !== "string" || y.trim()).map(y=> map(
+        x.items.filter(y=> y && (type(y) !== "string" || y.trim())).map(y=> map(
           <a {...y} size={y.size || size} line={y.line || line} {...context} />
         )),
     span ?

@@ -6,7 +6,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "download": "node ./data/download.js",
-    "process": "node ./data/process.js"
+    "process": "node ./data/process.js",
+    "prayers": "node ./data/prayers.js"
   },
   "devDependencies": {
     "fs-extra": "^10.1.0",

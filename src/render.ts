@@ -106,9 +106,9 @@ const updateNode = (node, data) => {
     next.__updateChildren ||
     effect(() => {
       next.replaceChildren(
-        ...next.__data.items.map((d, i) =>
-          updateNode(next.childNodes[i], resolve(d))
-        )
+        ...next.__data.items
+          .map((d, i) => updateNode(next.childNodes[i], resolve(d)))
+          .filter((x) => x)
       );
     });
   next.__updateChildren.get();

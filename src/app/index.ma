@@ -4,6 +4,7 @@
     <a
       stack={25}
       align="justify"
+      {readers[p.id] && <a align="center" italic color="darkred">({readers[p.id]})</a>}
       {...p.paragraphs.map((p, i)=>
         i ?
           <a style={{ clear: "both" }} indent={20}>{p}</a>
@@ -63,7 +64,7 @@
             />
             <a stack={15}
               <a size={20} bold "People" />
-              {...["Marriage", "Babies and Infants", "Children and Youth", "Departed"].map(k=>
+              {...["Children and Youth", "Babies and Infants", "Marriage", "Departed"].map(k=>
                 <a color="blue" underline={hover} link={"/collection/" + k} {k + " »"} />
               )}
             />

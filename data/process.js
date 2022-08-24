@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { hash, readJSON, removeDuplicates, writeData } from "./utils.js";
+import { readJSON, writeData } from "./utils.js";
 
 const test = (options, value, index) =>
   options.some((x) => {
@@ -90,7 +90,6 @@ const process = (
 (async () => {
   fs.emptyDirSync("./data/process");
 
-  const allPrayers = [];
   for (const author of Object.keys(files)) {
     await Promise.all(
       Object.keys(files[author]).map(async (file) => {
@@ -102,39 +101,7 @@ const process = (
           ...info,
         });
         await writeData("process", id, data);
-        allPrayers.push(
-          ...data.items
-            .filter((x) => x.type === "Prayer")
-            .map((p, i) => ({
-              id: `${id}-${i + 1}`,
-              author: p.author || data.author,
-              paragraphs: p.paragraphs,
-              length: p.paragraphs.reduce((res, p) => res + p.length, 0),
-            }))
-        );
       })
     );
   }
-
-  const prayers = removeDuplicates(
-    allPrayers,
-    (p) => p.paragraphs.join(" "),
-    (a, b) => a.author === b.author
-  )
-    .sort((a, b) => a.length - b.length)
-    .filter(
-      (p) =>
-        ![
-          "prayers-bahai-prayers-2",
-          "prayers-bahai-prayers-3",
-          "abdul-baha-additional-prayers-revealed-abdul-baha-13",
-          "prayers-bahai-prayers-115",
-          "prayers-bahai-prayers-181",
-          "prayers-bahai-prayers-109",
-          "prayers-bahai-prayers-214",
-          "bahaullah-prayers-meditations-167",
-        ].includes(p.id)
-    );
-
-  await writeData("process", "prayers", prayers);
 })();
