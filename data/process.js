@@ -7,6 +7,7 @@ const test = (options, value, index) =>
   options.some((x) => {
     if (typeof x === "string") return x === value;
     if (typeof x === "number") return x === index;
+    if (typeof x === "function") return x(value, index);
     return x.test(value);
   });
 
@@ -37,6 +38,7 @@ const process = (
     splitBefore = [],
     splitAfter = [],
     ignore = [],
+    lines,
     sections: sectionsInfo = {},
   }
 ) => {
@@ -75,12 +77,21 @@ const process = (
       const author = paras[paras.length - 1].startsWith("—")
         ? paras.pop()
         : undefined;
+      const itemLines = typeof lines === "function" ? lines(i) : lines?.[i];
+      const paraLines =
+        typeof itemLines === "function"
+          ? paras.reduce(
+              (res, _, i) => ({ ...res, [i]: itemLines(i) || undefined }),
+              {}
+            )
+          : itemLines;
       return {
         type: typeof type === "string" ? type : type(i),
         author: author
           ?.replace(/^—/, "")
           .replace(/\[\d+\]$/, "")
           .trim(),
+        lines: paraLines || undefined,
         paragraphs: paras,
       };
     }),

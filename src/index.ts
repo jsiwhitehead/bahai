@@ -8,7 +8,6 @@ import render from "./render";
 import collections from "./data/collections.json";
 import prayers from "./data/prayers.json";
 import readers from "./data/readers.json";
-import infos from "./data/infos.json";
 import hiddenWords from "./data/bahaullah-hidden-words.json";
 
 import "./style.css";
@@ -63,7 +62,6 @@ run(
       {}
     ),
     readers,
-    infos,
     hiddenWords,
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()

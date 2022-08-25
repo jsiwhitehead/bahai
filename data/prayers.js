@@ -15,11 +15,12 @@ import { readJSON, removeDuplicates, writeData } from "./utils.js";
         allPrayers.push(
           ...data.items
             .filter((x) => x.type === "Prayer")
-            .map((p, i) => ({
+            .map(({ author, lines, paragraphs }, i) => ({
               id: `${id}-${i + 1}`,
-              author: p.author || data.author,
-              paragraphs: p.paragraphs,
-              length: p.paragraphs.reduce((res, p) => res + p.length, 0),
+              author: author || data.author,
+              lines,
+              paragraphs,
+              length: paragraphs.reduce((res, p) => res + p.length, 0),
             }))
         );
       })

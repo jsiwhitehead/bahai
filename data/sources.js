@@ -122,6 +122,10 @@ export const files = {
         "The Tablet of Visitation.",
         "Prayer for the Dead.",
       ],
+      lines: {
+        181: (i) => i % 2 === 0 && "info",
+        182: (i) => i % 2 === 0 && "info",
+      },
     },
     "additional-prayers-revealed-bahaullah": {
       type: "Prayer",
@@ -135,10 +139,11 @@ export const files = {
       type: "Writings",
       splitBr: true,
       splitBefore: [
-        /^(?!(?:20\.|37\.|48\.)$)\d+\.$/,
+        (p, i) => /^\d+\.$/.test(p) && ![280, 332, 366].includes(i),
         "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:",
         "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:",
         "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:",
+        471,
       ],
       ignore: [
         /^\d+\.$/,
@@ -147,6 +152,14 @@ export const files = {
         "From the Arabic",
         "From the Persian",
       ],
+      lines: (i) =>
+        ({
+          0: { 0: "call" },
+          92: { 0: "info", 1: "call" },
+          109: { 0: "info", 1: "call" },
+          120: { 0: "info", 1: "call" },
+          155: false,
+        }[i] ?? { 0: "call" }),
       sections: {
         "Part One": 1,
         "Part Two": 1,
@@ -186,6 +199,21 @@ export const files = {
         "(This Tablet is read at the Shrines of Bahá’u’lláh and the Báb. It is also frequently used in commemorating Their anniversaries.)",
         "(This prayer, revealed by ‘Abdu’l‑Bahá, is read at His Shrine. It is also used in private prayer.)",
       ],
+      lines: {
+        29: { 0: "info", 3: "info", 10: "info" },
+        51: { 0: "info" },
+        72: { 0: "info" },
+        163: { 0: "info" },
+        164: { 0: "info" },
+        166: { 0: "info" },
+        167: { 0: "info" },
+        168: { 0: "info" },
+        169: { 0: "info" },
+        171: { 0: "info" },
+        221: { 0: "info" },
+        222: { 0: "info" },
+        223: { 0: "info" },
+      },
       sections: {
         "Obligatory Prayers": 1,
         "Short Obligatory Prayer": 2,
