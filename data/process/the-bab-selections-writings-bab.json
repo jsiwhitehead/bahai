@@ -11,7 +11,7 @@
       "title": "Tablets and Addresses",
       "level": 1,
       "start": 0,
-      "end": 8
+      "end": 9
     },
     {
       "title": "A Tablet Addressed to “Him Who Will Be Made Manifest”",
@@ -22,55 +22,55 @@
     {
       "title": "A Second Tablet Addressed to “Him Who Will Be Made Manifest”",
       "level": 2,
-      "start": 0,
-      "end": 1
-    },
-    {
-      "title": "Tablet to the First Letter of the Living",
-      "level": 2,
       "start": 1,
       "end": 2
     },
     {
-      "title": "Extracts from an Epistle to Muḥammad Sháh",
+      "title": "Tablet to the First Letter of the Living",
       "level": 2,
       "start": 2,
       "end": 3
     },
     {
-      "title": "Extracts from Another Epistle to Muḥammad Sháh",
+      "title": "Extracts from an Epistle to Muḥammad Sháh",
       "level": 2,
       "start": 3,
       "end": 4
     },
     {
-      "title": "Extracts from a Further Epistle to Muḥammad Sháh",
+      "title": "Extracts from Another Epistle to Muḥammad Sháh",
       "level": 2,
       "start": 4,
       "end": 5
     },
     {
-      "title": "Extracts from a Tablet Containing Words Addressed to the Sherif of Mecca",
+      "title": "Extracts from a Further Epistle to Muḥammad Sháh",
       "level": 2,
       "start": 5,
       "end": 6
     },
     {
-      "title": "Address to a Muslim Divine",
+      "title": "Extracts from a Tablet Containing Words Addressed to the Sherif of Mecca",
       "level": 2,
       "start": 6,
       "end": 7
     },
     {
-      "title": "Address to Sulaymán, One of the Muslim Divines in the Land of Masqaṭ",
+      "title": "Address to a Muslim Divine",
       "level": 2,
       "start": 7,
       "end": 8
     },
     {
+      "title": "Address to Sulaymán, One of the Muslim Divines in the Land of Masqaṭ",
+      "level": 2,
+      "start": 8,
+      "end": 9
+    },
+    {
       "title": "Excerpts from the Qayyúmu’l‑Asmá’",
       "level": 1,
-      "start": 8,
+      "start": 9,
       "end": 67
     },
     {
@@ -80,13 +80,13 @@
       "end": 106
     },
     {
-      "title": "Excerpts from the Dalá’il‑i‑Sab‘ih",
+      "title": "Excerpts from the Dalá’il‑i‑Sab‘ih (The Seven Proofs)",
       "level": 1,
       "start": 106,
       "end": 116
     },
     {
-      "title": "Excerpts from the Kitáb‑i‑Asmá’",
+      "title": "Excerpts from the Kitáb‑i‑Asmá’ (The Book of Names)",
       "level": 1,
       "start": 116,
       "end": 137
