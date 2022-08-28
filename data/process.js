@@ -54,11 +54,13 @@ const process = (
   const sections = [{ title: paras[0], level: 0, start: 0 }];
   paras.slice(1).forEach((p, i) => {
     if (
-      sectionsInfo[p] === null &&
+      (sectionsInfo[p] === null || p === sections[sections.length - 1].title) &&
       items[items.length - 1].length === 0 &&
       sections[sections.length - 1].start === items.length - 1
     ) {
-      sections[sections.length - 1].title += (p[0] === "(" ? " " : ": ") + p;
+      if (sectionsInfo[p] === null) {
+        sections[sections.length - 1].title += (p[0] === "(" ? " " : ": ") + p;
+      }
     } else if (sectionsInfo[p]) {
       addItem();
       for (const s of sections) {
