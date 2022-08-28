@@ -53,24 +53,22 @@ const process = (
   };
   const sections = [{ title: paras[0], level: 0, start: 0 }];
   paras.slice(1).forEach((p, i) => {
-    if (sectionsInfo[p] !== undefined) {
-      if (
-        items[items.length - 1].length === 0 &&
-        sections[sections.length - 1].level === sectionsInfo[p] &&
-        sections[sections.length - 1].start === items.length - 1
-      ) {
-        sections[sections.length - 1].title += (p[0] === "(" ? " " : ": ") + p;
-      } else {
-        addItem();
-        for (const s of sections) {
-          if (!s.end && s.level >= sectionsInfo[p]) s.end = items.length - 1;
-        }
-        sections.push({
-          title: p,
-          level: sectionsInfo[p],
-          start: items.length - 1,
-        });
+    if (
+      sectionsInfo[p] === null &&
+      items[items.length - 1].length === 0 &&
+      sections[sections.length - 1].start === items.length - 1
+    ) {
+      sections[sections.length - 1].title += (p[0] === "(" ? " " : ": ") + p;
+    } else if (sectionsInfo[p]) {
+      addItem();
+      for (const s of sections) {
+        if (!s.end && s.level >= sectionsInfo[p]) s.end = items.length - 1;
       }
+      sections.push({
+        title: p,
+        level: sectionsInfo[p],
+        start: items.length - 1,
+      });
     } else {
       if (test(splitBefore, p, i)) addItem();
       if (!test(ignore, p, i)) items[items.length - 1].push(p);
