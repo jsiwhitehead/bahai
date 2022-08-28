@@ -33,6 +33,7 @@ const sliceParas = (
 const process = (
   paras,
   {
+    title,
     author,
     type,
     splitBefore = [],
@@ -51,8 +52,8 @@ const process = (
       }
     }
   };
-  const sections = [{ title: paras[0], level: 0, start: 0 }];
-  paras.slice(1).forEach((p, i) => {
+  const sections = [{ title: title ? title : paras[0], level: 0, start: 0 }];
+  paras.slice(title ? 0 : 1).forEach((p, i) => {
     if (
       (sectionsInfo[p] === null || p === sections[sections.length - 1].title) &&
       items[items.length - 1].length === 0 &&
@@ -111,6 +112,91 @@ const process = (
   };
 };
 
+const idToDate = (id) =>
+  new Date(
+    parseInt(id.slice(0, 4), 10),
+    parseInt(id.slice(4, 6), 10) - 1,
+    parseInt(id.slice(6, 8), 10)
+  ).getTime();
+const lowerFirstLetter = (s) => s.charAt(0).toLowerCase() + s.slice(1);
+const getMessageTo = (addressee) => {
+  const lower = addressee.toLowerCase();
+  if (lower.includes("local spiritual assembly")) {
+    return "to a Local Assembly";
+  } else if (lower.includes("spiritual assembly")) {
+    return "to a National Assembly";
+  } else if (
+    lower.includes(
+      "continental boards of counsellors and national spiritual assemblies"
+    )
+  ) {
+    return "to the Counsellors and National Assemblies";
+  } else if (lower.includes("counsellors")) {
+    return "to the Counsellors";
+  } else if (lower.includes("national spiritual assemblies")) {
+    if (["in", "selected"].some((s) => lower.includes(s))) {
+      return "to selected National Assemblies";
+    } else {
+      return "to all National Assemblies";
+    }
+  } else if (lower.includes("auxiliary board members")) {
+    return "to the Auxiliary Board members";
+  } else if (
+    ["individuals", "three believers"].some((s) => lower.includes(s))
+  ) {
+    return "to selected individuals";
+  } else if (["individual", "mr"].some((s) => lower.includes(s))) {
+    return "to an individual";
+  } else if (
+    [
+      "gathered",
+      "assembled",
+      "congress",
+      "conference",
+      "convention",
+      "meeting",
+      "participants",
+    ].some((s) => lower.includes(s))
+  ) {
+    return "to those gathered";
+  } else if (lower.includes("iranian")) {
+    return "to Iranian Bahá’ís outside Iran";
+  } else if (
+    ["iran", "cradle", "lovers of the most great beauty"].some((s) =>
+      lower.includes(s)
+    )
+  ) {
+    if (lower.includes("youth")) {
+      return "to Bahá’í youth in Iran";
+    } else if (lower.includes("students")) {
+      return "to Bahá’í students in Iran";
+    } else {
+      return "to the Bahá’ís of Iran";
+    }
+  } else if (lower.includes("youth")) {
+    return "to Bahá’í Youth";
+  } else if (
+    lower.includes("followers of bahá’u’lláh in") &&
+    !lower.includes("every land")
+  ) {
+    return "to the Bahá’ís of a Nation";
+  } else if (
+    lower.includes("followers of bahá’u’lláh") ||
+    lower.includes("on the occasion")
+  ) {
+    return "to the Bahá’ís of the World";
+  } else if (["all who", "peoples"].some((s) => lower.includes(s))) {
+    return "to the Peoples of the World";
+  } else if (lower.includes("bahá’ís of")) {
+    if (["world", "east and west"].some((s) => lower.includes(s))) {
+      return "to the Bahá’ís of the World";
+    } else {
+      return "to the Bahá’ís of a Nation";
+    }
+  }
+  return lowerFirstLetter(addressee);
+};
+
 (async () => {
   fs.emptyDirSync("./data/process");
 
@@ -128,4 +214,25 @@ const process = (
       })
     );
   }
+
+  const messages = await readJSON(
+    "download",
+    "the-universal-house-of-justice-messages"
+  );
+  await writeData(
+    "process",
+    "the-universal-house-of-justice-messages",
+    messages.map(({ id, title, summary, addressee, paragraphs, ...d }) => ({
+      date: idToDate(id),
+      title: title.startsWith("Riḍván")
+        ? `${summary} ${getMessageTo(addressee)}`
+        : `Letter dated ${title} ${getMessageTo(addressee)}`,
+      summary,
+      items: process(sliceParas(paragraphs), {
+        author: "The Universal House of Justice",
+        type: "Letter",
+        title: "Letter",
+      }).items,
+    }))
+  );
 })();
