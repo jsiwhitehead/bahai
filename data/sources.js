@@ -1024,9 +1024,44 @@ export const files = {
       },
     },
   },
+  "the-universal-house-of-justice": {
+    "the-institution-of-the-counsellors": {
+      type: "Document",
+      ignore: ["A Document Prepared by the Universal House of Justice"],
+      sections: {
+        INTRODUCTION: 1,
+        "INTERNATIONAL AND CONTINENTAL COUNSELLORS AND THE AUXILIARY BOARDS": 1,
+        "Historical Perspective": 2,
+        "The International Teaching Centre": 2,
+        "The Continental Boards of Counsellors": 2,
+        "The Auxiliary Boards": 2,
+        "Assistants to Auxiliary Board Members": 2,
+        "Service on National, Regional and Local Administrative Bodies": 2,
+        "Duties of the Continental Counsellors and Their Auxiliaries": 2,
+        "Collaboration with National Spiritual Assemblies": 2,
+        "Mode of Interaction": 2,
+        "Involvement with Institutes": 2,
+        "The Individual and the Community": 2,
+        "Formulation and Implementation of Plans": 2,
+        "The Fund": 2,
+        "Protection of the Cause": 2,
+        "Coordination and the Provision of Resources": 2,
+        "SOME SPECIFIC ASPECTS OF THE FUNCTIONING OF THE INSTITUTION": 1,
+        "The International Teaching Centre": 2,
+        "Continental Counsellors": 2,
+        "Auxiliary Board Members": 2,
+        Assistants: 2,
+        "Interactions with National, Regional and Local Administrative Bodies": 2,
+        "Elections and Conventions": 2,
+        Conferences: 2,
+        "Budgets, Subvention Funds and Properties": 2,
+        "The Continental Fund": 2,
+      },
+    },
+  },
   "official-statements-commentaries": {
     "century-light": {
-      type: "Commentary",
+      type: "Document",
       end: "Notes",
       splitBefore: ["* * *"],
       ignore: ["* * *"],
@@ -1048,7 +1083,7 @@ export const files = {
       },
     },
     "one-common-faith": {
-      type: "Commentary",
+      type: "Document",
       end: "References",
       splitBefore: ["* * *"],
       ignore: ["* * *"],
@@ -1058,7 +1093,7 @@ export const files = {
       },
     },
     "prosperity-humankind": {
-      type: "Commentary",
+      type: "Document",
       splitBefore: [71],
       ignore: [
         "A statement prepared by the Bahá’í International Community Office of Public Information, Haifa",
@@ -1074,7 +1109,7 @@ export const files = {
       },
     },
     bahaullah: {
-      type: "Commentary",
+      type: "Document",
       end: "Notes",
       ignore: [
         "A statement prepared by the Bahá’í International Community Office of Public Information, New York",
@@ -1097,7 +1132,7 @@ export const files = {
       },
     },
     "turning-point-all-nations": {
-      type: "Commentary",
+      type: "Document",
       end: "Notes",
       splitBefore: [/^\d+\./],
       ignore: [

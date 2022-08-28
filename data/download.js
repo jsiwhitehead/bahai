@@ -87,3 +87,44 @@ const getParagraphs = (
     );
   }
 })();
+
+// const messagesTable = await fetchHtml(
+//   "https://www.bahai.org/library/authoritative-texts/the-universal-house-of-justice/messages/"
+// );
+// const messages = await Promise.all(
+//   selectAll("[tagName=tr]", messagesTable)
+//     .filter((row: any) => row.properties.id)
+//     .map(async (row: any) => {
+//       const [title, addressee, summary] = selectAll(
+//         "[tagName=td] text",
+//         row
+//       ).map((d: any) => d.value);
+//       const id = row.properties.id;
+//       const html = await fetchHtml(
+//         `https://www.bahai.org/library/authoritative-texts/the-universal-house-of-justice/messages/${id}/${id}.xhtml`
+//       );
+//       const blocks = getBlocks(html);
+//       return {
+//         id,
+//         title: correctSpelling(
+//           {
+//             "Riḍván 150": "Riḍván 1993",
+//             "Riḍván 151": "Riḍván 1994",
+//             "Riḍván 152": "Riḍván 1995",
+//             "Riḍván 153": "Riḍván 1996",
+//             "Riḍván 154": "Riḍván 1997",
+//             "Riḍván 155": "Riḍván 1998",
+//             "Riḍván 156": "Riḍván 1999",
+//           }[title] || title
+//         ),
+//         addressee: correctSpelling(addressee),
+//         summary: correctSpelling(summary),
+//         blocks,
+//       };
+//     })
+// );
+// await fs.promises.writeFile(
+//   `./data/download/the-universal-house-of-justice-messages.json`,
+//   JSON.stringify(messages, null, 2),
+//   "utf-8"
+// );
