@@ -50,8 +50,9 @@ export const files = {
       splitBefore: [
         "In the name of the peerless and ever‑loving Lord!",
         "O thou lion‑hearted soul, Even as a lion roar, That thy roaring may perchance To the seventh heaven soar!",
+        "* * *",
       ],
-      ignore: [/^\d+$/, "Selected Mystical Works of Bahá’u’lláh"],
+      ignore: [/^\d+$/, "Selected Mystical Works of Bahá’u’lláh", "* * *"],
       sections: {
         Preface: 1,
         "Rashḥ‑i‑‘Amá": 1,
@@ -140,6 +141,7 @@ export const files = {
         /^\(Tablets/,
         /^\(Prayers/,
         /^\d+\.$/,
+        "* * *",
       ],
       splitBefore: [/^\d+\./],
       sections: {
@@ -168,6 +170,7 @@ export const files = {
         "By Bahá’u’lláh",
         "Translated by Shoghi Effendi",
         /^END/,
+        "* * *",
       ],
       sections: {
         Foreword: 1,
@@ -178,8 +181,8 @@ export const files = {
     "summons-lord-hosts": {
       type: "Writings",
       end: "Notes",
-      splitBefore: [301],
-      ignore: ["Tablets of Bahá’u’lláh"],
+      splitBefore: ["* * *"],
+      ignore: ["Tablets of Bahá’u’lláh", "* * *"],
       sections: {
         Introduction: 1,
         "Súriy‑i‑Haykal": 1,
@@ -213,10 +216,14 @@ export const files = {
       type: "Writings",
       end: "Passages Translated by Shoghi Effendi",
       splitBefore: [
-        595, 601, 605, 610, 612, 618, 624, 634, 645, 652, 657, 663, 664, 668,
-        672, 676, 679, 689, 692, 698, 706, 716,
+        "* * *",
+        ...[
+          601, 607, 611, 616, 618, 624, 630, 640, 651, 658, 663, 669, 670, 674,
+          678, 682, 685, 695, 698, 704, 712, 722,
+        ],
       ],
       ignore: [
+        "* * *",
         "revealed after the Kitáb‑i‑Aqdas",
         "Compiled by the Research Department of the Universal House of Justice and translated by Habib Taherzadeh with the assistance of a Committee at the Bahá’í World Centre",
         "References to the Qur’án",
@@ -306,16 +313,18 @@ export const files = {
       type: "Writings",
       splitBr: true,
       splitBefore: [
-        (p, i) => /^\d+\.$/.test(p) && ![280, 332, 366].includes(i),
+        (p, i) => /^\d+\.$/.test(p) && ![281, 333, 367].includes(i),
         "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:",
         "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:",
         "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:",
-        471,
+        "* * *",
       ],
       ignore: [
         /^\d+\.$/,
         "Bahá’u’lláh",
         "Translated by Shoghi Effendi with the assistance of some English friends",
+        /^Last modified:/,
+        "* * *",
       ],
       lines: (i) =>
         ({
@@ -700,12 +709,14 @@ export const files = {
       end: "Notes",
       ignore: [
         "Original Persian text first published Cairo 1922. This translation taken from The Bahá’í World, Vol. XV, pp. 37—43.",
+        "* * *",
       ],
     },
     "tablets-divine-plan": {
       type: "Writings",
       end: "Notes",
-      ignore: ["‘Abdu’l‑Bahá", /^\d+$/],
+      ignore: ["‘Abdu’l‑Bahá", /^\d+$/, "* * *"],
+      splitBefore: ["* * *"],
       sections: {
         "Tablet to the Bahá’ís of the Northeastern States": 1,
         "Tablet to the Bahá’ís of the Southern States": 1,
@@ -718,6 +729,8 @@ export const files = {
     "tablets-hague-abdul-baha": {
       type: "Writings",
       end: "Notes",
+      ignore: ["* * *"],
+      splitBefore: ["* * *"],
       sections: {
         "First Tablet to The Hague": 1,
         "Second Tablet to The Hague": 1,
@@ -753,6 +766,8 @@ export const files = {
     },
     "will-testament-abdul-baha": {
       type: "Writings",
+      ignore: ["* * *"],
+      splitBefore: ["* * *"],
       sections: {
         "Part One": 1,
         "Part Two": 1,
@@ -785,7 +800,7 @@ export const files = {
     },
     "bahai-administration": {
       type: "Writings",
-      splitBefore: [/^Letter of /],
+      splitBefore: [6, 7, 8, 9, 23, 25, 26, 28, /^Letter of /],
       ignore: [
         "Selected Messages 1922—1932",
         "Shoghi Effendi",
@@ -992,6 +1007,7 @@ export const files = {
         "Selected Letters",
         "by Shoghi Effendi",
         "The World Order of Bahá’u’lláh Further Considerations",
+        "* * *",
       ],
       sections: {
         "The World Order of Bahá’u’lláh": 1,
@@ -1005,6 +1021,103 @@ export const files = {
         "‘Abdu’l‑Bahá": 2,
         "The Administrative Order": 2,
         "The Unfoldment of World Civilization": 1,
+      },
+    },
+  },
+  "official-statements-commentaries": {
+    "century-light": {
+      type: "Commentary",
+      end: "Notes",
+      splitBefore: ["* * *"],
+      ignore: ["* * *"],
+      sections: {
+        Foreword: 1,
+        "Century of Light": 1,
+        I: 2,
+        II: 2,
+        III: 2,
+        IV: 2,
+        V: 2,
+        VI: 2,
+        VII: 2,
+        VIII: 2,
+        IX: 2,
+        X: 2,
+        XI: 2,
+        XII: 2,
+      },
+    },
+    "one-common-faith": {
+      type: "Commentary",
+      end: "References",
+      splitBefore: ["* * *"],
+      ignore: ["* * *"],
+      sections: {
+        Foreword: 1,
+        "One Common Faith": 1,
+      },
+    },
+    "prosperity-humankind": {
+      type: "Commentary",
+      splitBefore: [71],
+      ignore: [
+        "A statement prepared by the Bahá’í International Community Office of Public Information, Haifa",
+      ],
+      sections: {
+        I: 1,
+        II: 1,
+        III: 1,
+        IV: 1,
+        V: 1,
+        VI: 1,
+        VII: 1,
+      },
+    },
+    bahaullah: {
+      type: "Commentary",
+      end: "Notes",
+      ignore: [
+        "A statement prepared by the Bahá’í International Community Office of Public Information, New York",
+      ],
+      sections: {
+        "Bahá’u’lláh": 1,
+        "Birth of a New Revelation": 2,
+        Exile: 2,
+        "The Declaration in the Riḍván Garden": 2,
+        "“The Changeless Faith of God. . .”": 2,
+        "The Manifestation of God": 2,
+        "“An Ever‑Advancing Civilisation. . .”": 2,
+        "The Day of God": 2,
+        "Announcement to the Kings": 2,
+        "Arrival in the Holy Land": 2,
+        "Religion as Light and Darkness": 2,
+        "World Peace": 2,
+        "“Not of Mine Own Volition”": 2,
+        "The Covenant of God with Humankind": 2,
+      },
+    },
+    "turning-point-all-nations": {
+      type: "Commentary",
+      end: "Notes",
+      splitBefore: [/^\d+\./],
+      ignore: [
+        "A statement prepared by the Bahá’í International Community United Nations Office, New York",
+      ],
+      sections: {
+        "Turning Point for All Nations": 1,
+        "I. Overview: An Opportunity for Reflection": 2,
+        "II. Recognising the Historical Context:": 2,
+        "A Call to World Leaders": null,
+        "III. Defining a Role for the UN Within the Emerging International Order": 2,
+        "A. Resuscitating the General Assembly": 3,
+        "B. Developing a Meaningful Executive Function": 3,
+        "C. A Strengthened World Court": 3,
+        "IV. Releasing the Power of the Individual: A Critical Challenge of the Emerging International Order": 2,
+        "A. Promoting Economic Development": 3,
+        "B. Protecting Fundamental Human Rights": 3,
+        "C. Advancing the Status of Women": 3,
+        "D. Emphasising Moral Development": 3,
+        "V. A Turning Point for All Nations: A Call to World Leaders": 2,
       },
     },
   },

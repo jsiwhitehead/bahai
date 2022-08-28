@@ -49,7 +49,8 @@ const getParagraphs = (
       ) {
         paras.push("");
       }
-      node.childNodes.forEach((n) => walk(n));
+      if (node.tagName === "hr") paras[paras.length - 1] = "* * *";
+      else node.childNodes.forEach((n) => walk(n));
     }
   };
   walk(findNode(html, rootNodeTest));

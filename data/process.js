@@ -59,7 +59,9 @@ const process = (
       sections[sections.length - 1].start === items.length - 1
     ) {
       if (sectionsInfo[p] === null) {
-        sections[sections.length - 1].title += (p[0] === "(" ? " " : ": ") + p;
+        const prev = sections[sections.length - 1].title;
+        sections[sections.length - 1].title +=
+          (p[0] === "(" || prev[prev.length - 1] === ":" ? " " : ": ") + p;
       }
     } else if (sectionsInfo[p]) {
       addItem();
