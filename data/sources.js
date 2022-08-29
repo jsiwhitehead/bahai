@@ -1,6 +1,7 @@
 export const files = {
   "the-bab": {
     "selections-writings-bab": {
+      years: [1844, 1850],
       type: (i) => (i >= 153 ? "Prayer" : "Writings"),
       end: "Key to Passages Translated by Shoghi Effendi",
       splitAfter: [
@@ -41,10 +42,21 @@ export const files = {
         "Excerpts from Various Writings": 1,
         "Prayers and Meditations": 1,
       },
+      collections: [
+        "Selections from the Writings of the Báb",
+        "Tablets and Addresses",
+        "Excerpts from the Qayyúmu’l‑Asmá’",
+        "Excerpts from the Persian Bayán",
+        "Excerpts from the Dalá’il‑i‑Sab‘ih (The Seven Proofs)",
+        "Excerpts from the Kitáb‑i‑Asmá’ (The Book of Names)",
+        "Excerpts from Various Writings",
+        "Prayers and Meditations",
+      ],
     },
   },
   bahaullah: {
     "call-divine-beloved": {
+      years: [1852, 1863],
       type: "Writings",
       end: "Notes",
       splitBefore: [
@@ -62,8 +74,10 @@ export const files = {
         "Three Other Tablets": 1,
         "The Four Valleys": 1,
       },
+      collections: ["The Call of the Divine Beloved", "Three Other Tablets"],
     },
     "days-remembrance": {
+      years: [1857, 1868],
       type: "Writings",
       end: "Notes",
       splitBefore: [/^—/],
@@ -113,12 +127,24 @@ export const files = {
         "Lawḥ‑i‑Mawlúd": 2,
         "(Tablet of the Birth)": null,
       },
+      collections: [
+        "Days of Remembrance",
+        "Naw‑Rúz",
+        "Riḍván",
+        "Declaration of the Báb",
+        "Ascension of Bahá’u’lláh",
+        "Martyrdom of the Báb",
+        "Birth of the Báb",
+        "Birth of Bahá’u’lláh",
+      ],
     },
     "epistle-son-wolf": {
+      years: [1891, 1891],
       type: "Writings",
       ignore: ["by Bahá’u’lláh", "Translated by Shoghi Effendi"],
     },
     "gems-divine-mysteries": {
+      years: [1857, 1863],
       type: "Writings",
       end: "Notes",
       ignore: ["Javáhiru’l‑Asrár", "by Bahá’u’lláh"],
@@ -131,8 +157,47 @@ export const files = {
       type: "Writings",
       splitBefore: [/^—/],
       ignore: ["Translated By Shoghi Effendi", /^— .* —$/],
+      collections: ["Gleanings from the Writings of Bahá’u’lláh"],
+    },
+    "hidden-words": {
+      years: [1857, 1858],
+      type: "Writings",
+      splitBr: true,
+      splitBefore: [
+        (p, i) => /^\d+\.$/.test(p) && ![281, 333, 367].includes(i),
+        "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:",
+        "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:",
+        "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:",
+        "* * *",
+      ],
+      ignore: [
+        /^\d+\.$/,
+        "Bahá’u’lláh",
+        "Translated by Shoghi Effendi with the assistance of some English friends",
+        /^Last modified:/,
+        "* * *",
+      ],
+      lines: (i) =>
+        ({
+          92: [{ 0: "info", 1: "call" }],
+          109: [{ 0: "info", 1: "call" }],
+          120: [{ 0: "info", 1: "call" }],
+          155: false,
+        }[i] ?? [{ 0: "call" }]),
+      sections: {
+        "Part One": 1,
+        "From the Arabic": null,
+        "Part Two": 1,
+        "From the Persian": null,
+      },
+      collections: [
+        "The Hidden Words",
+        "Part One: From the Arabic",
+        "Part Two: From the Persian",
+      ],
     },
     "kitab-i-aqdas": {
+      years: [1873, 1873],
       type: "Writings",
       end: "Key to Passages Translated by Shoghi Effendi",
       ignore: [
@@ -145,7 +210,6 @@ export const files = {
       ],
       splitBefore: [/^\d+\./],
       sections: {
-        "": 2,
         Preface: 1,
         Introduction: 1,
         "A Description of the Kitáb‑i‑Aqdas by Shoghi Effendi": 1,
@@ -161,8 +225,13 @@ export const files = {
         "Short Obligatory Prayer": 2,
         "Prayer for the Dead": 2,
       },
+      collections: [
+        "The Kitáb‑i‑Aqdas",
+        "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas",
+      ],
     },
     "kitab-i-iqan": {
+      years: [1862, 1862],
       type: "Writings",
       end: "Notes",
       ignore: [
@@ -177,8 +246,10 @@ export const files = {
         "Part One": 1,
         "Part Two": 1,
       },
+      collections: ["The Kitáb‑i‑Íqán"],
     },
     "summons-lord-hosts": {
+      years: [1867, 1869],
       type: "Writings",
       end: "Notes",
       splitBefore: ["* * *"],
@@ -196,8 +267,10 @@ export const files = {
         "Lawḥ‑i‑Fu’ád": 1,
         "Súriy‑i‑Mulúk": 1,
       },
+      collections: ["The Summons of the Lord of Hosts"],
     },
     "tabernacle-unity": {
+      years: [1870, 1877],
       type: "Writings",
       end: "Notes",
       ignore: ["Bahá’u’lláh", /^\d+$/, /^— .* —$/],
@@ -211,8 +284,10 @@ export const files = {
         "(Lawḥ‑i‑Haft Pursish)": null,
         "Two Other Tablets": 1,
       },
+      collections: ["The Tabernacle of Unity", "Two Other Tablets"],
     },
     "tablets-bahaullah": {
+      years: [1877, 1891],
       type: "Writings",
       end: "Passages Translated by Shoghi Effendi",
       splitBefore: [
@@ -265,6 +340,7 @@ export const files = {
         "(Tablet of the Land of Bá)": null,
         "Excerpts from Other Tablets": 1,
       },
+      collections: ["Tablets of Bahá’u’lláh", "Excerpts from Other Tablets"],
     },
     "additional-tablets-extracts-from-tablets-revealed-bahaullah": {
       type: "Writings",
@@ -281,6 +357,9 @@ export const files = {
         "Mírzá Hádí Dawlat‑Ábádí",
         "Mírzá Yaḥyá",
       ],
+      collections: [
+        "Additional Tablets and Extracts from Tablets Revealed by Bahá’u’lláh",
+      ],
     },
     "prayers-meditations": {
       type: "Prayer",
@@ -296,9 +375,10 @@ export const files = {
         "Prayer for the Dead.",
       ],
       lines: {
-        181: (i) => i % 2 === 0 && "info",
-        182: (i) => i % 2 === 0 && "info",
+        181: [(i) => i % 2 === 0 && "info"],
+        182: [(i) => i % 2 === 0 && "info"],
       },
+      collections: ["Prayers and Meditations"],
     },
     "additional-prayers-revealed-bahaullah": {
       type: "Prayer",
@@ -308,38 +388,7 @@ export const files = {
         "Revealed for the recipient on the occasion of the birth of his daughter.",
         "Qur’án 21:89",
       ],
-    },
-    "hidden-words": {
-      type: "Writings",
-      splitBr: true,
-      splitBefore: [
-        (p, i) => /^\d+\.$/.test(p) && ![281, 333, 367].includes(i),
-        "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:",
-        "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:",
-        "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:",
-        "* * *",
-      ],
-      ignore: [
-        /^\d+\.$/,
-        "Bahá’u’lláh",
-        "Translated by Shoghi Effendi with the assistance of some English friends",
-        /^Last modified:/,
-        "* * *",
-      ],
-      lines: (i) =>
-        ({
-          0: { 0: "call" },
-          92: { 0: "info", 1: "call" },
-          109: { 0: "info", 1: "call" },
-          120: { 0: "info", 1: "call" },
-          155: false,
-        }[i] ?? { 0: "call" }),
-      sections: {
-        "Part One": 1,
-        "From the Arabic": null,
-        "Part Two": 1,
-        "From the Persian": null,
-      },
+      collections: ["Additional Prayers Revealed by Bahá’u’lláh"],
     },
   },
   "abdul-baha": {
@@ -352,8 +401,10 @@ export const files = {
         "": 1,
         Preface: 1,
       },
+      collections: ["Light of the World: Selected Tablets of ‘Abdu’l‑Bahá"],
     },
     "memorials-faithful": {
+      years: [1914, 1915],
       type: "Writings",
       end: "Notes",
       ignore: [
@@ -432,8 +483,10 @@ export const files = {
         "Shamsu’ḍ‑Ḍuḥá": 1,
         Ṭáhirih: 1,
       },
+      collections: ["Memorials of the Faithful"],
     },
     "paris-talks": {
+      years: [1911, 1913],
       type: "Writings",
       end: "Notes",
       ignore: [/^— .* —$/, "Addresses Given by ‘Abdu’l‑Bahá in 1911"],
@@ -502,8 +555,10 @@ export const files = {
         "The Four Kinds of Love": 2,
         "Tablet Revealed by ‘Abdu’l‑Bahá": 2,
       },
+      collections: ["Paris Talks", "Part One", "Part Two", "Part Three"],
     },
     "promulgation-universal-peace": {
+      years: [1912, 1912],
       type: "Writings",
       end: "Notes",
       splitBefore: [/^— .* —$/],
@@ -567,8 +622,37 @@ export const files = {
         "Talks ‘Abdu’l‑Bahá Delivered in New York": 1,
         "15 November ‑ 5 December 1912": null,
       },
+      collections: [
+        "The Promulgation of Universal Peace",
+        "Talks ‘Abdu’l‑Bahá Delivered in New York and Brooklyn: 11—19 April 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Washington, D.C.: 20—25 April 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Chicago, Wilmette, and Evanston: 30 April—5 May 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Cleveland: 6 May 1912: 6 May 1912",
+        "Talk ‘Abdu’l‑Bahá Delivered in Pittsburgh: 7 May 1912: 7 May 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in New York, Montclair, and Jersey City: 11—20 May 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Cambridge and Boston: 22—25 May 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in New York and Fanwood: 26 May ‑ 8 June 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Philadelphia: 9 June 1912: 9 June 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in New York and Brooklyn: 11‑20 June 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Montclair and West Englewood, New Jersey: 23‑29 June 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in New York: 1‑15 July 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Boston: 23‑25 July 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Dublin: 5‑6 August 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Boston and Malden: 23‑25 July 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Montreal: 1‑5 September 1912",
+        "Talk ‘Abdu’l‑Bahá Delivered in Chicago: 16 September 1912: 16 September 1912",
+        "Talk ‘Abdu’l‑Bahá Delivered in Minneapolis: 20 September 1912: 20 September 1912",
+        "Talk ‘Abdu’l‑Bahá Delivered in St. Paul: 20 September 1912: 20 September 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Denver: 24‑25 September 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Oakland, Palo Alto, San Francisco, and Sacramento: 7‑26 October 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Chicago: 31 October ‑ 1 November 1912",
+        "Talk ‘Abdu’l‑Bahá Delivered in Cincinnati: 5 November 1912: 5 November 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in Washington, D.C.: 6‑10 November 1912",
+        "Talks ‘Abdu’l‑Bahá Delivered in New York: 15 November ‑ 5 December 1912",
+      ],
     },
     "secret-divine-civilization": {
+      years: [1875, 1875],
       type: "Writings",
       end: "Notes",
       splitBefore: [
@@ -595,8 +679,13 @@ export const files = {
         Preface: 1,
         "Selections from the Writings of ‘Abdu’l‑Bahá": 1,
       },
+      collections: [
+        "Selections from the Writings of ‘Abdu’l‑Bahá",
+        "Selections from the Writings of ‘Abdu’l‑Bahá",
+      ],
     },
     "some-answered-questions": {
+      years: [1904, 1906],
       type: "Writings",
       end: "Notes",
       ignore: [
@@ -703,8 +792,17 @@ export const files = {
         "The Four Criteria of Comprehension": 2,
         "Good Deeds and Their Spiritual Prerequisites": 2,
       },
+      collections: [
+        "Some Answered Questions",
+        "Part 1",
+        "Part 2",
+        "Part 3",
+        "Part 4",
+        "Part 5",
+      ],
     },
     "tablet-august-forel": {
+      years: [1921, 1921],
       type: "Writings",
       end: "Notes",
       ignore: [
@@ -713,6 +811,7 @@ export const files = {
       ],
     },
     "tablets-divine-plan": {
+      years: [1916, 1917],
       type: "Writings",
       end: "Notes",
       ignore: ["‘Abdu’l‑Bahá", /^\d+$/, "* * *"],
@@ -725,8 +824,10 @@ export const files = {
         "Tablet to the Bahá’ís of Canada and Greenland": 1,
         "Tablet to the Bahá’ís of the United States and Canada": 1,
       },
+      collections: ["Tablets of the Divine Plan"],
     },
     "tablets-hague-abdul-baha": {
+      years: [1919, 1920],
       type: "Writings",
       end: "Notes",
       ignore: ["* * *"],
@@ -735,8 +836,10 @@ export const files = {
         "First Tablet to The Hague": 1,
         "Second Tablet to The Hague": 1,
       },
+      collections: ["‘Abdu’l‑Bahá’s Tablets to The Hague"],
     },
     "travelers-narrative": {
+      years: [1886, 1886],
       type: "Writings",
       end: "Notes",
       ignore: [
@@ -746,6 +849,7 @@ export const files = {
       ],
     },
     "twelve-table-talks-abdul-baha": {
+      years: [1904, 1907],
       type: "Writings",
       end: "Notes",
       ignore: [/^— .* —$/],
@@ -763,8 +867,10 @@ export const files = {
         "The Declaration of Bahá’u’lláh": 1,
         "Christ and Bahá’u’lláh": 1,
       },
+      collections: ["Twelve Table Talks given by ‘Abdu’l‑Bahá in ‘Akká"],
     },
     "will-testament-abdul-baha": {
+      years: [1901, 1908],
       type: "Writings",
       ignore: ["* * *"],
       splitBefore: ["* * *"],
@@ -779,6 +885,7 @@ export const files = {
       end: "Notes",
       splitAfter: [/^\[/],
       ignore: [/^\[\d+\]$/, "March 2021"],
+      collections: ["Prayers of ‘Abdu’l‑Bahá"],
     },
     "additional-prayers-revealed-abdul-baha": {
       type: "Prayer",
@@ -790,15 +897,18 @@ export const files = {
         "‘Alí‑Akbar",
         "Revealed for the recipient on the occasion of the death of his newborn child.",
       ],
+      collections: ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     },
   },
   "shoghi-effendi": {
     "advent-divine-justice": {
+      years: [1938, 1938],
       type: "Writings",
       splitBefore: [30, 65, 105, 118],
       ignore: ["by Shoghi Effendi"],
     },
     "bahai-administration": {
+      years: [1922, 1932],
       type: "Writings",
       splitBefore: [6, 7, 8, 9, 23, 25, 26, 28, /^Letter of /],
       ignore: [
@@ -813,8 +923,14 @@ export const files = {
         "Part Two": 1,
         "Letters from Shoghi Effendi": null,
       },
+      collections: [
+        "Bahá’í Administration",
+        "Part One: Excerpts from the Will and Testament of ‘Abdu’l‑Bahá",
+        "Part Two: Letters from Shoghi Effendi",
+      ],
     },
     "citadel-faith": {
+      years: [1947, 1957],
       type: "Writings",
       end: "Notes",
       ignore: ["Messages to America 1947—1957", "Shoghi Effendi"],
@@ -873,8 +989,10 @@ export const files = {
       sections: {
         "In Memoriam": 1,
       },
+      collections: ["Citadel of Faith", "In Memoriam"],
     },
     "god-passes-by": {
+      years: [1944, 1944],
       type: "Writings",
       splitBr: true,
       ignore: [
@@ -951,6 +1069,7 @@ export const files = {
       },
     },
     "promised-day-come": {
+      years: [1941, 1941],
       type: "Writings",
       ignore: ["By Shoghi Effendi"],
       sections: {
@@ -991,6 +1110,7 @@ export const files = {
       },
     },
     "decisive-hour": {
+      years: [1932, 1946],
       type: "Writings",
       end: "Notes",
       splitBefore: [/^— .* —$/],
@@ -999,8 +1119,10 @@ export const files = {
         "Shoghi Effendi",
         /^— .* —$/,
       ],
+      collections: ["This Decisive Hour"],
     },
     "world-order-bahaullah": {
+      years: [1938, 1938],
       type: "Writings",
       end: "Notes",
       ignore: [
@@ -1020,12 +1142,17 @@ export const files = {
         "The Báb": 2,
         "‘Abdu’l‑Bahá": 2,
         "The Administrative Order": 2,
-        "The Unfoldment of World Civilization": 1,
+        "The Unfoldment of World Civilisation": 1,
       },
+      collections: [
+        "The World Order of Bahá’u’lláh",
+        "The Dispensation of Bahá’u’lláh",
+      ],
     },
   },
   "the-universal-house-of-justice": {
     "the-institution-of-the-counsellors": {
+      years: [2001, 2001],
       type: "Document",
       ignore: ["A Document Prepared by the Universal House of Justice"],
       sections: {
@@ -1061,6 +1188,7 @@ export const files = {
   },
   "official-statements-commentaries": {
     "century-light": {
+      years: [2001, 2001],
       type: "Document",
       end: "Notes",
       splitBefore: ["* * *"],
@@ -1083,6 +1211,7 @@ export const files = {
       },
     },
     "one-common-faith": {
+      years: [2005, 2005],
       type: "Document",
       end: "References",
       splitBefore: ["* * *"],
@@ -1093,6 +1222,7 @@ export const files = {
       },
     },
     "prosperity-humankind": {
+      years: [1995, 1995],
       type: "Document",
       splitBefore: [71],
       ignore: [
@@ -1109,6 +1239,7 @@ export const files = {
       },
     },
     bahaullah: {
+      years: [1992, 1992],
       type: "Document",
       end: "Notes",
       ignore: [
@@ -1132,6 +1263,7 @@ export const files = {
       },
     },
     "turning-point-all-nations": {
+      years: [1995, 1995],
       type: "Document",
       end: "Notes",
       splitBefore: [/^\d+\./],
@@ -1173,19 +1305,19 @@ export const files = {
         "(This prayer, revealed by ‘Abdu’l‑Bahá, is read at His Shrine. It is also used in private prayer.)",
       ],
       lines: {
-        29: { 0: "info", 3: "info", 10: "info" },
-        51: { 0: "info" },
-        72: { 0: "info" },
-        163: { 0: "info" },
-        164: { 0: "info" },
-        166: { 0: "info" },
-        167: { 0: "info" },
-        168: { 0: "info" },
-        169: { 0: "info" },
-        171: { 0: "info" },
-        221: { 0: "info" },
-        222: { 0: "info" },
-        223: { 0: "info" },
+        29: [{ 0: "info", 3: "info", 10: "info" }],
+        51: [{ 0: "info" }],
+        72: [{ 0: "info" }],
+        163: [{ 0: "info" }],
+        164: [{ 0: "info" }],
+        166: [{ 0: "info" }],
+        167: [{ 0: "info" }],
+        168: [{ 0: "info" }],
+        169: [{ 0: "info" }],
+        171: [{ 0: "info" }],
+        221: [{ 0: "info" }],
+        222: [{ 0: "info" }],
+        223: [{ 0: "info" }],
       },
       sections: {
         "Obligatory Prayers": 1,
@@ -1253,6 +1385,67 @@ export const files = {
         "Tablet of the Holy Mariner": 2,
         "Tablets of Visitation": 2,
       },
+      collections: [
+        "Bahá’í Prayers",
+        "Obligatory Prayers",
+        "Short Obligatory Prayer",
+        "Medium Obligatory Prayer",
+        "Long Obligatory Prayer",
+        "General Prayers",
+        "Aid and Assistance",
+        "America",
+        "Children",
+        "Infants",
+        "The Departed",
+        "Prayer for the Dead",
+        "General Prayers for the Departed",
+        "For Women",
+        "Detachment",
+        "Evening",
+        "Midnight",
+        "Families",
+        "Parents",
+        "Husbands",
+        "Firmness in the Covenant",
+        "Forgiveness",
+        "The Fund",
+        "Gatherings",
+        "The Nineteen Day Feast",
+        "Healing",
+        "For Women",
+        "For Infants",
+        "The Long Healing Prayer",
+        "Humanity",
+        "Marriage",
+        "Morning",
+        "Nearness to God",
+        "Praise and Gratitude",
+        "Protection",
+        "Service",
+        "Spiritual Growth",
+        "Steadfastness",
+        "Teaching",
+        "General Prayers for Teaching",
+        "Prayers for Teaching from the Tablets of the Divine Plan",
+        "Tests and Difficulties",
+        "Triumph of the Cause",
+        "Unity",
+        "Women",
+        "Expectant Mothers",
+        "Youth",
+        "Occasional Prayers",
+        "The Fast",
+        "Ḥuqúqu’lláh: The Right of God",
+        "Intercalary Days",
+        "Martyrs and Their Families",
+        "Naw‑Rúz",
+        "Spiritual Assembly",
+        "Special Tablets",
+        "Tablet of Aḥmad",
+        "Fire Tablet",
+        "Tablet of the Holy Mariner",
+        "Tablets of Visitation",
+      ],
     },
     "bahai-prayers-tablets-children": {
       type: (i) => ([37].includes(i) ? "Writings" : "Prayer"),
@@ -1260,6 +1453,7 @@ export const files = {
       ignore: [
         "A Compilation Prepared by the Research Department of the Universal House of Justice",
       ],
+      collections: ["Bahá’í Prayers and Tablets for Children"],
     },
   },
 };

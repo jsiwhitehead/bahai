@@ -13,15 +13,18 @@ import { readJSON, removeDuplicates, writeData } from "./utils.js";
         const id = `${author}-${file}`;
         const data = await readJSON("process", id);
         allPrayers.push(
-          ...data.items
+          ...data
             .filter((x) => x.type === "Prayer")
-            .map(({ author, lines, paragraphs }, i) => ({
-              id: `${id}-${i + 1}`,
-              author: author || data.author,
-              lines,
-              paragraphs,
-              length: paragraphs.reduce((res, p) => res + p.length, 0),
-            }))
+            .map((prayer, i) => {
+              const { author, lines, paragraphs } = prayer.items[0];
+              return {
+                id: `${id}-${i + 1}`,
+                author: author || prayer.author,
+                lines,
+                paragraphs,
+                length: paragraphs.reduce((res, p) => res + p.length, 0),
+              };
+            })
         );
       })
     );
