@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { readJSON, writeData } from "./utils.js";
+import { readJSON, removeDuplicates, writeData } from "./utils.js";
 
 const test = (options, value, index) =>
   options.some((x) => {
@@ -261,6 +261,7 @@ const getMessageTo = (addressee) => {
 (async () => {
   fs.emptyDirSync("./data/process");
 
+  const allPrayers = [];
   for (const author of Object.keys(files)) {
     await Promise.all(
       Object.keys(files[author]).map(async (file) => {
@@ -271,10 +272,47 @@ const getMessageTo = (addressee) => {
           author: infoAuthor || authors[author],
           ...info,
         });
-        await writeData("process", id, data);
+        allPrayers.push(
+          ...data
+            .filter((d) => d.type === "Prayer")
+            .map((prayer, i) => {
+              const { author, lines, paragraphs } = prayer.items[0];
+              return {
+                id: `${id}-${i + 1}`,
+                author: author || prayer.author,
+                lines,
+                paragraphs,
+                length: paragraphs.reduce((res, p) => res + p.length, 0),
+              };
+            })
+        );
+        const nonPrayers = data.filter((d) => d.type !== "Prayer");
+        if (nonPrayers.length > 0) {
+          await writeData("process", id, nonPrayers);
+        }
       })
     );
   }
+
+  const prayers = removeDuplicates(
+    allPrayers,
+    (p) => p.paragraphs.join(" "),
+    (a, b) => a.author === b.author
+  )
+    .sort((a, b) => a.length - b.length)
+    .filter(
+      (p) =>
+        ![
+          "abdul-baha-additional-prayers-revealed-abdul-baha-13",
+          "prayers-bahai-prayers-115",
+          "prayers-bahai-prayers-181",
+          "prayers-bahai-prayers-109",
+          "prayers-bahai-prayers-214",
+          "bahaullah-prayers-meditations-167",
+          "prayers-bahai-prayers-196",
+        ].includes(p.id)
+    );
+  await writeData("process", "prayers", prayers);
 
   const messages = await readJSON(
     "download",
