@@ -311,7 +311,8 @@ const getMessageTo = (addressee) => {
           "bahaullah-prayers-meditations-167",
           "prayers-bahai-prayers-196",
         ].includes(p.id)
-    );
+    )
+    .map((p, i) => ({ index: i, ...p }));
   await writeData("process", "prayers", prayers);
 
   const messages = await readJSON(

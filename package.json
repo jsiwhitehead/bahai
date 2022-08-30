@@ -7,8 +7,7 @@
     "preview": "vite preview",
     "download": "node ./data/download.js",
     "process": "node ./data/process.js",
-    "link": "node ./data/link.js",
-    "prayers": "node ./data/prayers.js"
+    "link": "node ./data/link.js"
   },
   "devDependencies": {
     "fs-extra": "^10.1.0",
