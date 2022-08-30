@@ -379,6 +379,12 @@ export const files = {
         182: [(i) => i % 2 === 0 && "info"],
       },
       collections: ["Prayers and Meditations"],
+      replace: {
+        "and to deny them not": "and deny them not",
+        "Ayyám‑i‑Há (the Days of Há, Intercalary Days)": "Ayyám‑i‑Há",
+        "what Thou hadst commanded": "what Thou hast commanded",
+        "Lord of the worlds and the Desire": "Lord of the world and the Desire",
+      },
     },
     "additional-prayers-revealed-bahaullah": {
       type: "Prayer",
@@ -1303,6 +1309,7 @@ export const files = {
         "To be recited once in twenty‑four hours",
         "(This Tablet is read at the Shrines of Bahá’u’lláh and the Báb. It is also frequently used in commemorating Their anniversaries.)",
         "(This prayer, revealed by ‘Abdu’l‑Bahá, is read at His Shrine. It is also used in private prayer.)",
+        "(The Intercalary Days, February 26 to March 1, inclusive, should be days of preparation for the Fast, days of hospitality, charity, and the giving of presents.)",
       ],
       lines: {
         29: [{ 0: "info", 3: "info", 10: "info" }],
@@ -1446,6 +1453,18 @@ export const files = {
         "Tablet of the Holy Mariner",
         "Tablets of Visitation",
       ],
+      replace: {
+        "in the most wondrous tones": "in most wondrous tones",
+        "outpourings from the clouds of the all‑glorious Kingdom":
+          "outpourings of the clouds of the Abhá Kingdom",
+        "My Lord! My Lord! I praise Thee and I thank Thee for that whereby Thou hast favoured Thine humble maidservant, Thy slave beseeching and supplicating Thee, because Thou hast verily guided her unto Thine obvious Kingdom and caused her to hear Thine exalted Call in the contingent world and to behold Thy Signs which prove the appearance of Thy victorious reign over all things.":
+          "O Lord, my Lord! I praise Thee and thank Thee for the favour Thou hast bestowed upon this feeble handmaiden of Thine, Thy maidservant who is supplicating and praying fervently to Thee, inasmuch as Thou hast guided her unto Thy Straight Path, led her to Thy luminous Kingdom, inclined her ears to Thy most sublime Call in the midmost heart of the world, and unveiled to her eyes Thy signs which testify to the revelation of Thy supreme dominion over all things.",
+        "O my Lord, I dedicate that which is in my womb unto Thee. Then cause it to be a praiseworthy child in Thy Kingdom and a fortunate one by Thy favour and Thy generosity; to develop and to grow up under the charge of Thine education. Verily, Thou art the Gracious! Verily, Thou art the Lord of Great Favour!":
+          "O my Lord! I dedicate that which is in my womb to Thee. Grant that this child may be praised in Thy Kingdom, may be blessed by Thy grace and bounty, and may grow and develop within the stronghold of Thine education. Verily, Thou art the Most Generous, the Lord of grace abounding.",
+        "irrevocable decree in the Books":
+          "irrevocable decree and in the Books",
+        "child may become a more mature": "child may become a mature",
+      },
     },
     "bahai-prayers-tablets-children": {
       type: (i) => ([37].includes(i) ? "Writings" : "Prayer"),
@@ -1454,6 +1473,9 @@ export const files = {
         "A Compilation Prepared by the Research Department of the Universal House of Justice",
       ],
       collections: ["Bahá’í Prayers and Tablets for Children"],
+      replace: {
+        "from whatever is obnoxious": "from whatsoever is obnoxious",
+      },
     },
   },
 };

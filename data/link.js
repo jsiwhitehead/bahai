@@ -1,9 +1,7 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { readJSON, writeData } from "./utils.js";
-
-const simplifyText = (s) => s.replace(/\W/g, "").toLowerCase();
+import { readJSON, simplifyText, writeData } from "./utils.js";
 
 (async () => {
   fs.emptyDirSync("./data/link");
