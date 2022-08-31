@@ -15,7 +15,7 @@
       <a
         stack={25}
         align="justify"
-        {readers[p.id] && <a align="center" size={16} italic color="#999">({readers[p.id]})</a>}
+        {p.reader && <a align="center" size={16} italic color="#999">({p.reader})</a>}
         {...p.paragraphs.map((s, i)=>
           (
             i === firstLine ?

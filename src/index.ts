@@ -5,9 +5,8 @@ import run, { atom, resolve } from "reactivejs";
 
 import render from "./render";
 
-import collections from "./data/collections.json";
+import categories from "./data/categories.json";
 import prayers from "./data/prayers.json";
-import readers from "./data/readers.json";
 import hiddenWords from "./data/bahaullah-hidden-words.json";
 
 import "./style.css";
@@ -52,16 +51,15 @@ run(
     tick,
     url,
     decodeURIComponent,
-    collections: Object.keys(collections).reduce(
-      (res, k) => ({
+    collections: categories.reduce(
+      (res, { category, reader }, i) => ({
         ...res,
-        [k]: collections[k]
-          .map((id) => prayers.find((p) => p.id === id))
-          .sort((a, b) => a.length - b.length),
+        [category]: [...(res[category] || []), { ...prayers[i], reader }].sort(
+          (a, b) => a.length - b.length
+        ),
       }),
       {}
     ),
-    readers,
     hiddenWords,
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
