@@ -226,7 +226,7 @@ const process = (
     (a, b) =>
       a.length - b.length ||
       a.paragraphs.length - b.paragraphs.length ||
-      a.simplified.localeCompare(b.simplified)
+      a.paragraphs.join(" ").localeCompare(b.paragraphs.join(" "))
   );
   const prayers = allPrayers
     .filter((a, i) => {

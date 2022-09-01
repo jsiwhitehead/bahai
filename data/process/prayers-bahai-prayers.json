@@ -104,33 +104,5 @@
         ]
       }
     ]
-  },
-  {
-    "years": [0, 5000],
-    "type": "Writings",
-    "path": ["Bahá’í Prayers", "Special Tablets", "Tablet of Aḥmad"],
-    "sections": [],
-    "items": [
-      {
-        "author": "From a letter written on behalf of Shoghi Effendi",
-        "paragraphs": [
-          "“These daily obligatory prayers, together with a few other specific ones, such as the Healing Prayer, the Tablet of Aḥmad, have been invested by Bahá’u’lláh with a special potency and significance, and should therefore be accepted as such and be recited by the believers with unquestioning faith and confidence, that through them they may enter into a much closer communion with God, and identify themselves more fully with His laws and precepts.”"
-        ]
-      }
-    ]
-  },
-  {
-    "years": [0, 5000],
-    "type": "Writings",
-    "path": ["Bahá’í Prayers", "Special Tablets", "Tablet of the Holy Mariner"],
-    "sections": [],
-    "items": [
-      {
-        "author": "‘Abdu’l‑Bahá",
-        "paragraphs": [
-          "“Study the Tablet of the Holy Mariner that ye may know the truth, and consider that the Blessed Beauty hath fully foretold future events. Let them who perceive, take warning!”"
-        ]
-      }
-    ]
   }
 ]
