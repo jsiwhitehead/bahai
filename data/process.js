@@ -196,11 +196,17 @@ const process = (
         allPrayers.push(
           ...data
             .filter((d) => d.type === "Prayer")
-            .map((prayer, i) => {
+            .map((prayer) => {
               const { author, lines, paragraphs } = prayer.items[0];
+              const path =
+                prayer.path?.[0] === "Bahá’í Prayers"
+                  ? prayer.path.filter(
+                      (s) => !["Bahá’í Prayers", "General Prayers"].includes(s)
+                    )
+                  : [];
               return {
-                id: [`${id}-${i + 1}`],
                 author: author || prayer.author,
+                path: path.length > 0 ? path : undefined,
                 lines,
                 paragraphs,
                 simplified: simplifyText(paragraphs.join(" ")),
@@ -227,10 +233,7 @@ const process = (
       const p = allPrayers
         .slice(i + 1)
         .find((b) => b.simplified.includes(a.simplified));
-      if (p) {
-        p.id.push(...a.id);
-        p.id.sort();
-      }
+      if (p) p.path = p.path || a.path;
       return !p;
     })
     .map(({ simplified, ...p }, i) => ({ index: i, ...p }));
