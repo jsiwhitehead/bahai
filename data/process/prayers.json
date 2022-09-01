@@ -62,7 +62,8 @@
   {
     "index": 7,
     "author": "Bahá’u’lláh",
-    "path": ["Obligatory Prayers", "Short Obligatory Prayer"],
+    "path": ["Obligatory Prayers"],
+    "title": "Short Obligatory Prayer",
     "paragraphs": [
       "I bear witness, O my God, that Thou hast created me to know Thee and to worship Thee. I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth.",
       "There is none other God but Thee, the Help in Peril, the Self‑Subsisting."
@@ -126,7 +127,7 @@
   {
     "index": 14,
     "author": "‘Abdu’l‑Bahá",
-    "path": ["Teaching", "General Prayers for Teaching"],
+    "path": ["Teaching"],
     "paragraphs": [
       "O my God, aid Thou Thy servant to raise up the Word, and to refute what is vain and false, to establish the truth, to spread the sacred verses abroad, reveal the splendours, and make the morning’s light to dawn in the hearts of the righteous.",
       "Thou art, verily, the Generous, the Forgiving."
@@ -200,7 +201,7 @@
   {
     "index": 22,
     "author": "‘Abdu’l‑Bahá",
-    "path": ["Teaching", "General Prayers for Teaching"],
+    "path": ["Teaching"],
     "paragraphs": [
       "O God, my God! Aid Thou Thy trusted servants to have loving and tender hearts. Help them to spread, amongst all the nations of the earth, the light of guidance that cometh from the Company on high. Verily, Thou art the Strong, the Powerful, the Mighty, the All‑Subduing, the Ever‑Giving. Verily, Thou art the Generous, the Gentle, the Tender, the Most Bountiful."
     ],
@@ -379,7 +380,7 @@
   {
     "index": 41,
     "author": "‘Abdu’l‑Bahá",
-    "path": ["The Departed", "General Prayers for the Departed"],
+    "path": ["The Departed"],
     "paragraphs": [
       "O my God! O Thou forgiver of sins, bestower of gifts, dispeller of afflictions!",
       "Verily, I beseech Thee to forgive the sins of such as have abandoned the physical garment and have ascended to the spiritual world.",
@@ -850,9 +851,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of Canada"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of Canada",
     "paragraphs": [
       "Praise be to Thee, O my God! These are Thy servants who are attracted by the fragrances of Thy mercifulness, are enkindled by the fire burning in the tree of Thy singleness, and whose eyes are brightened by beholding the splendours of the light shining in the Sinai of Thy oneness.",
       "O Lord! Loose their tongues to make mention of Thee amongst Thy people, suffer them to speak forth Thy praise through Thy grace and loving‑kindness, assist them with the cohorts of Thine angels, strengthen their loins in Thy service, and make them the signs of Thy guidance amongst Thy creatures.",
@@ -924,9 +925,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of the United States and Canada"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of the United States and Canada",
     "paragraphs": [
       "O Thou incomparable God! O Thou Lord of the Kingdom! These souls are Thy heavenly army. Assist them and, with the cohorts of the Supreme Concourse, make them victorious, so that each one of them may become like unto a regiment and conquer these countries through the love of God and the illumination of divine teachings.",
       "O God! Be Thou their supporter and their helper, and in the wilderness, the mountain, the valley, the forests, the prairies and the seas, be Thou their confidant—so that they may cry out through the power of the Kingdom and the breath of the Holy Spirit.",
@@ -937,7 +938,7 @@
   {
     "index": 98,
     "author": "‘Abdu’l‑Bahá",
-    "path": ["The Departed", "General Prayers for the Departed"],
+    "path": ["The Departed"],
     "paragraphs": [
       "O Thou forgiving Lord!",
       "Although some souls have spent the days of their lives in ignorance, and became estranged and contumacious, yet, with one wave from the ocean of Thy forgiveness, all those encompassed by sin will be set free. Whomsoever Thou willest Thou makest a confidant, and whosoever is not the object of Thy choice is accounted a transgressor. Shouldst Thou deal with us with Thy justice, we are all naught but sinners and deserving to be shut out from Thee, but shouldst Thou uphold mercy, every sinner would be made pure and every stranger a friend. Bestow, then, Thy forgiveness and pardon, and grant Thy mercy unto all.",
@@ -1435,9 +1436,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of the Western States"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of the Western States",
     "lines": {
       "0": "info"
     },
@@ -1549,9 +1550,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of Canada"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of Canada",
     "lines": {
       "0": "info"
     },
@@ -1569,9 +1570,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of the Southern States"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of the Southern States",
     "lines": {
       "0": "info"
     },
@@ -1585,7 +1586,7 @@
   {
     "index": 159,
     "author": "‘Abdu’l‑Bahá",
-    "path": ["The Departed", "General Prayers for the Departed"],
+    "path": ["The Departed"],
     "paragraphs": [
       "O my God! O my God! Verily, Thy servant, humble before the majesty of Thy divine supremacy, lowly at the door of Thy oneness, hath believed in Thee and in Thy verses, hath testified to Thy word, hath been enkindled with the fire of Thy love, hath been immersed in the depths of the ocean of Thy knowledge, hath been attracted by Thy breezes, hath relied upon Thee, hath turned his face to Thee, hath offered his supplications to Thee, and hath been assured of Thy pardon and forgiveness. He hath abandoned this mortal life and hath flown to the kingdom of immortality, yearning for the favour of meeting Thee.",
       "O Lord, glorify his station, shelter him under the pavilion of Thy supreme mercy, cause him to enter Thy glorious paradise, and perpetuate his existence in Thine exalted rose garden, that he may plunge into the sea of light in the world of mysteries.",
@@ -1702,7 +1703,7 @@
   {
     "index": 171,
     "author": "‘Abdu’l‑Bahá",
-    "path": ["Teaching", "General Prayers for Teaching"],
+    "path": ["Teaching"],
     "paragraphs": [
       "Thou knowest, O God, and art my witness that I have no desire in my heart save to attain Thy good pleasure, to be confirmed in servitude unto Thee, to consecrate myself in Thy service, to labour in Thy great vineyard and to sacrifice all in Thy path. Thou art the All‑Knowing and the All‑Seeing. I have no wish save to turn my steps, in my love for Thee, towards the mountains and the deserts to loudly proclaim the advent of Thy Kingdom, and to raise Thy call amidst all men. O God! Open Thou the way for this helpless one, grant Thou the remedy to this ailing one and bestow Thy healing upon this afflicted one. With burning heart and tearful eyes I supplicate Thee at Thy Threshold.",
       "O God! I am prepared to endure any ordeal in Thy path and desire with all my heart and soul to meet any hardship.",
@@ -1928,9 +1929,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of the Central States"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of the Central States",
     "lines": {
       "0": "info"
     },
@@ -2110,7 +2111,7 @@
   {
     "index": 210,
     "author": "Bahá’u’lláh",
-    "path": ["Teaching", "General Prayers for Teaching"],
+    "path": ["Teaching"],
     "paragraphs": [
       "Say: Magnified be Thy Name, O Lord my God! I beseech Thee by Thy Name through which the splendour of the light of wisdom shone resplendent when the heavens of divine utterance were set in motion amidst mankind, to graciously aid me by Thy heavenly confirmations and enable me to extol Thy Name amongst Thy servants.",
       "O Lord! Unto Thee have I turned my face, detached from all save Thee and holding fast to the hem of the robe of Thy manifold blessings. Unloose my tongue therefore to proclaim that which will captivate the minds of men and will rejoice their souls and spirits. Strengthen me then in Thy Cause in such wise that I may not be hindered by the ascendancy of the oppressors among Thy creatures nor withheld by the onslaught of the disbelievers amidst those who dwell in Thy realm. Make me as a lamp shining throughout Thy lands that those in whose hearts the light of Thy knowledge gloweth and the yearning for Thy love lingereth may be guided by its radiance.",
@@ -2269,7 +2270,7 @@
   {
     "index": 225,
     "author": "Bahá’u’lláh",
-    "path": ["Teaching", "General Prayers for Teaching"],
+    "path": ["Teaching"],
     "paragraphs": [
       "Praise be to Thee, O Lord my God! I implore Thee, by Thy Name which none hath befittingly recognised, and whose import no soul hath fathomed; I beseech Thee, by Him Who is the Fountainhead of Thy Revelation and the Dayspring of Thy signs, to make my heart to be a receptacle of Thy love and of remembrance of Thee. Knit it, then, to Thy most great Ocean, that from it may flow out the living waters of Thy wisdom and the crystal streams of Thy glorification and praise.",
       "The limbs of my body testify to Thy unity, and the hair of my head declareth the power of Thy sovereignty and might. I have stood at the door of Thy grace with utter self‑effacement and complete abnegation, and clung to the hem of Thy bounty, and fixed mine eyes upon the horizon of Thy gifts.",
@@ -2373,7 +2374,7 @@
   {
     "index": 234,
     "author": "Bahá’u’lláh",
-    "path": ["Teaching", "General Prayers for Teaching"],
+    "path": ["Teaching"],
     "paragraphs": [
       "O God, Who art the Author of all Manifestations, the Source of all Sources, the Fountainhead of all Revelations, and the Wellspring of all Lights! I testify that by Thy Name the heaven of understanding hath been adorned, and the ocean of utterance hath surged, and the dispensations of Thy providence have been promulgated unto the followers of all religions.",
       "I beseech Thee so to enrich me as to dispense with all save Thee, and be made independent of any one except Thyself. Rain down, then, upon me out of the clouds of Thy bounty that which shall profit me in every world of Thy worlds. Assist me, then, through Thy strengthening grace, so to serve Thy Cause amidst Thy servants that I may show forth what will cause me to be remembered as long as Thine own kingdom endureth and Thy dominion will last.",
@@ -2395,7 +2396,7 @@
   {
     "index": 236,
     "author": "Bahá’u’lláh",
-    "path": ["The Departed", "General Prayers for the Departed"],
+    "path": ["The Departed"],
     "paragraphs": [
       "Glory be to Thee, O Lord my God! Abase not him whom Thou hast exalted through the power of Thine everlasting sovereignty, and remove not far from Thee him whom Thou hast caused to enter the tabernacle of Thine eternity. Wilt Thou cast away, O my God, him whom Thou hast overshadowed with Thy Lordship, and wilt Thou turn away from Thee, O my Desire, him to whom Thou hast been a refuge? Canst Thou degrade him whom Thou hast uplifted, or forget him whom Thou didst enable to remember Thee?",
       "Glorified, immensely glorified art Thou! Thou art He Who from everlasting hath been the King of the entire creation and its Prime Mover, and Thou wilt to everlasting remain the Lord of all created things and their Ordainer. Glorified art Thou, O my God! If Thou ceasest to be merciful unto Thy servants, who, then, will show mercy unto them; and if Thou refusest to succour Thy loved ones, who is there that can succour them?",
@@ -2418,9 +2419,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of the United States and Canada"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of the United States and Canada",
     "lines": {
       "0": "info"
     },
@@ -2849,7 +2850,7 @@
   {
     "index": 276,
     "author": "Bahá’u’lláh",
-    "path": ["Teaching", "General Prayers for Teaching"],
+    "path": ["Teaching"],
     "paragraphs": [
       "Magnified be Thy name, O my God, for that Thou hast manifested the Day which is the King of Days, the Day which Thou didst announce unto Thy chosen Ones and Thy Prophets in Thy most excellent Tablets, the Day whereon Thou didst shed the splendour of the glory of all Thy names upon all created things. Great is his blessedness whosoever hath set himself towards Thee, and entered Thy presence, and caught the accents of Thy voice.",
       "I beseech Thee, O my Lord, by the name of Him round Whom circleth in adoration the kingdom of Thy names, that Thou wilt graciously assist them that are dear to Thee to glorify Thy word among Thy servants, and to shed abroad Thy praise amidst Thy creatures, so that the ecstasies of Thy revelation may fill the souls of all the dwellers of Thine earth.",
@@ -2884,7 +2885,7 @@
   {
     "index": 279,
     "author": "Bahá’u’lláh",
-    "path": ["Teaching", "General Prayers for Teaching"],
+    "path": ["Teaching"],
     "paragraphs": [
       "Glory be unto Thee, O Lord of the world and Desire of the nations, O Thou Who hast become manifest in the Greatest Name, whereby the pearls of wisdom and utterance have appeared from the shells of the great sea of Thy knowledge, and the heavens of divine revelation have been adorned with the light of the appearance of the sun of Thy countenance.",
       "I beg of Thee, by that Word through which Thy proof was perfected among Thy creatures and Thy testimony was fulfilled amidst Thy servants, to strengthen Thy people in that whereby the face of the Cause will radiate in Thy dominion, the standards of Thy power will be planted among Thy servants, and the banners of Thy guidance will be raised throughout Thy dominions.",
@@ -3021,7 +3022,7 @@
   {
     "index": 291,
     "author": "‘Abdu’l‑Bahá",
-    "path": ["Teaching", "General Prayers for Teaching"],
+    "path": ["Teaching"],
     "paragraphs": [
       "Thou seest me, O my God, bowed down in lowliness, humbling myself before Thy commandments, submitting to Thy sovereignty, trembling at the might of Thy dominion, fleeing from Thy wrath, entreating Thy grace, relying upon Thy forgiveness, shaking with awe at Thy fury. I implore Thee with a throbbing heart, with streaming tears and a yearning soul, and in complete detachment from all things, to make Thy lovers as rays of light across Thy realms, and to aid Thy chosen servants to exalt Thy Word, that their faces may turn beauteous and bright with splendour, that their hearts may be filled with mysteries, and that every soul may lay down its burden of sin. Guard them then from the aggressor, from him who hath become a shameless and blasphemous doer of wrong.",
       "Verily, Thy lovers thirst, O my Lord; lead them to the wellspring of bounty and grace. Verily, they hunger; send down unto them Thy heavenly table. Verily, they are naked; robe them in the garments of learning and knowledge.",
@@ -3149,9 +3150,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of the Northeastern States"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of the Northeastern States",
     "lines": {
       "0": "info"
     },
@@ -3232,7 +3233,8 @@
   {
     "index": 309,
     "author": "Bahá’u’lláh",
-    "path": ["The Departed", "Prayer for the Dead"],
+    "path": ["The Departed"],
+    "title": "Prayer for the Dead",
     "lines": {
       "0": "info",
       "3": "info",
@@ -3313,9 +3315,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of the United States and Canada"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of the United States and Canada",
     "lines": {
       "0": "info"
     },
@@ -3920,7 +3922,8 @@
   {
     "index": 366,
     "author": "Bahá’u’lláh",
-    "path": ["Obligatory Prayers", "Medium Obligatory Prayer"],
+    "path": ["Obligatory Prayers"],
+    "title": "Medium Obligatory Prayer",
     "paragraphs": [
       "Whoso wisheth to pray, let him wash his hands, and while he washeth, let him say:",
       "Strengthen my hand, O my God, that it may take hold of Thy Book with such steadfastness that the hosts of the world shall have no power over it. Guard it, then, from meddling with whatsoever doth not belong unto it. Thou art, verily, the Almighty, the Most Powerful.",
@@ -4007,7 +4010,7 @@
   {
     "index": 372,
     "author": "Bahá’u’lláh",
-    "path": ["The Departed", "General Prayers for the Departed"],
+    "path": ["The Departed"],
     "paragraphs": [
       "He is God, exalted is He, the Lord of loving‑kindness and bounty!",
       "Glory be unto Thee, Thou, O my God, the Lord Omnipotent. I testify to Thine omnipotence and Thy might, Thy sovereignty and Thy loving‑kindness, Thy grace and Thy power, the oneness of Thy Being and the unity of Thine Essence, Thy sanctity and exaltation above the world of being and all that is therein.",
@@ -4133,9 +4136,9 @@
     "author": "‘Abdu’l‑Bahá",
     "path": [
       "Teaching",
-      "Prayers for Teaching from the Tablets of the Divine Plan",
-      "Revealed to the Bahá’ís of the United States and Canada"
+      "Prayers for Teaching from the Tablets of the Divine Plan"
     ],
+    "title": "Revealed to the Bahá’ís of the United States and Canada",
     "paragraphs": [
       "O God, my God! Thou seest how black darkness is enshrouding all regions, how all countries are burning with the flame of dissension, and the fire of war and carnage is blazing throughout the East and the West. Blood is flowing, corpses bestrew the ground, and severed heads are fallen on the dust of the battlefield.",
       "O Lord! Have pity on these ignorant ones, and look upon them with the eye of forgiveness and pardon. Extinguish this fire, so that these dense clouds which obscure the horizon may be scattered, the Sun of Reality shine forth with the rays of conciliation, this intense gloom be dispelled and the resplendent light of peace shed its radiance upon all countries.",
@@ -4258,7 +4261,8 @@
   {
     "index": 390,
     "author": "Bahá’u’lláh",
-    "path": ["Special Tablets", "Tablet of Aḥmad"],
+    "path": ["Special Tablets"],
+    "title": "Tablet of Aḥmad",
     "paragraphs": [
       "He is the King, the All‑Knowing, the Wise!",
       "Lo, the Nightingale of Paradise singeth upon the twigs of the Tree of Eternity, with holy and sweet melodies, proclaiming to the sincere ones the glad tidings of the nearness of God, calling the believers in the Divine Unity to the court of the Presence of the Generous One, informing the severed ones of the message which hath been revealed by God, the King, the Glorious, the Peerless, guiding the lovers to the seat of sanctity and to this resplendent Beauty.",
@@ -4570,7 +4574,8 @@
   {
     "index": 410,
     "author": "Bahá’u’lláh",
-    "path": ["Special Tablets", "Fire Tablet"],
+    "path": ["Special Tablets"],
+    "title": "Fire Tablet",
     "paragraphs": [
       "In the Name of God, the Most Ancient, the Most Great.",
       "Indeed the hearts of the sincere are consumed in the fire of separation: Where is the gleaming of the light of Thy Countenance, O Beloved of the worlds?",
@@ -4647,7 +4652,8 @@
   {
     "index": 412,
     "author": "Bahá’u’lláh",
-    "path": ["Healing", "The Long Healing Prayer"],
+    "path": ["Healing"],
+    "title": "The Long Healing Prayer",
     "paragraphs": [
       "He is the Healer, the Sufficer, the Helper, the All‑Forgiving, the All‑Merciful.",
       "I call on Thee O Exalted One, O Faithful One, O Glorious One! Thou the Sufficing, Thou the Healing, Thou the Abiding, O Thou Abiding One!",
@@ -4702,7 +4708,8 @@
   {
     "index": 413,
     "author": "Bahá’u’lláh",
-    "path": ["Special Tablets", "Tablet of the Holy Mariner"],
+    "path": ["Special Tablets"],
+    "title": "Tablet of the Holy Mariner",
     "paragraphs": [
       "He is the Gracious, the Well‑Beloved!",
       "O Holy Mariner!",
@@ -4848,7 +4855,8 @@
   {
     "index": 415,
     "author": "Bahá’u’lláh",
-    "path": ["Obligatory Prayers", "Long Obligatory Prayer"],
+    "path": ["Obligatory Prayers"],
+    "title": "Long Obligatory Prayer",
     "lines": {
       "0": "info",
       "2": "info",

@@ -201,12 +201,16 @@ const process = (
               const path =
                 prayer.path?.[0] === "Bahá’í Prayers"
                   ? prayer.path.filter(
-                      (s) => !["Bahá’í Prayers", "General Prayers"].includes(s)
+                      (s) =>
+                        !["Bahá’í Prayers", "General Prayers"].some((x) =>
+                          s.includes(x)
+                        )
                     )
                   : [];
               return {
                 author: author || prayer.author,
                 path: path.length > 0 ? path : undefined,
+                title: prayer.title,
                 lines,
                 paragraphs,
                 simplified: simplifyText(paragraphs.join(" ")),
@@ -233,7 +237,10 @@ const process = (
       const p = allPrayers
         .slice(i + 1)
         .find((b) => b.simplified.includes(a.simplified));
-      if (p) p.path = p.path || a.path;
+      if (p) {
+        p.path = p.path || a.path;
+        p.title = p.title || a.title;
+      }
       return !p;
     })
     .map(({ simplified, ...p }, i) => ({ index: i, ...p }));
