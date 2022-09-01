@@ -202,9 +202,12 @@ const process = (
                 prayer.path?.[0] === "Bahá’í Prayers"
                   ? prayer.path.filter(
                       (s) =>
-                        !["Bahá’í Prayers", "General Prayers"].some((x) =>
-                          s.includes(x)
-                        )
+                        ![
+                          "Bahá’í Prayers",
+                          "General Prayers",
+                          "Occasional Prayers",
+                          "Special Tablets",
+                        ].some((x) => s.includes(x))
                     )
                   : [];
               return {
