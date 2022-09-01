@@ -1301,7 +1301,9 @@ export const files = {
   prayers: {
     "bahai-prayers": {
       type: (i) =>
-        [1, 2, 3, 93, 94, 206, 215].includes(i) ? "Writings" : "Prayer",
+        [1, 2, 3, 93, 94, 206, 215, 224, 225, 226].includes(i)
+          ? "Writings"
+          : "Prayer",
       end: "Notes",
       splitAfter: [/^—/, "The period of the Fast is March 2 through March 20."],
       ignore: [
