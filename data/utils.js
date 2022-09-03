@@ -69,6 +69,8 @@ export const correctSpelling = (s) =>
     .replace(/…/g, "...")
     .replace(/\.\.\.\./g, ". . . .")
     .replace(/\.\.\./g, ". . .")
+    .replace(/\. \. \. \./g, ". . . .")
+    .replace(/\. \. \./g, ". . .")
     .replace(/-/g, "‑")
     .replace(/–/g, "—")
     .replace(/─/g, "—")

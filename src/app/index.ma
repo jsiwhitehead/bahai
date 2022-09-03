@@ -78,9 +78,9 @@
               {...collection.map(renderItem)}
             />
           )
-        : url[0] === "iqan" ?
+        :
           (
-            doc: documents.find(d=> d.id === "bahaullah-kitab-i-iqan-0"),
+            doc: documents.find(d=> d.id === url[0]),
             <a
               stack={60}
               <a stack={20}>
@@ -98,25 +98,6 @@
               )}
             />
           )
-        : url[0] === "hidden-words" ?
-          <a
-            stack={60}
-            <a stack={20}>
-              <a size={40} bold underline "The Hidden Words" />
-              <a color="blue" underline={hover} link="/" "« Back" />
-            </a>
-            <a size={30} bold align="center" "Part One: From the Arabic" />
-            {renderItem(hiddenWords.items[0], null, hiddenWords.author)}
-            <a align="center" "⭑ ⭑ ⭑" />
-            {...hiddenWords.items.slice(1, 72).map((x, i)=> renderItem(x, i, hiddenWords.author))}
-            <a size={30} bold align="center" "Part Two: From the Persian" />
-            {renderItem(hiddenWords.items[72], null, hiddenWords.author)}
-            {...hiddenWords.items.slice(73, 155).map((x, i)=> renderItem(x, i, hiddenWords.author))}
-            <a align="center" "⭑ ⭑ ⭑" />
-            {renderItem(hiddenWords.items[155], null, hiddenWords.author)}
-          />
-        :
-          null
       }
     />
   )
