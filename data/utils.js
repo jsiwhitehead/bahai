@@ -4,7 +4,12 @@ import distance from "js-levenshtein";
 
 import spellingsBase from "./spellings.json" assert { type: "json" };
 
-export const simplifyText = (s) => s.replace(/\W/g, "").toLowerCase();
+export const simplifyText = (s) =>
+  s
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\W/g, "")
+    .toLowerCase();
 
 export const replaceInText = (text, replace) =>
   Object.keys(replace).reduce(
@@ -136,10 +141,15 @@ export const correctSpelling = (s) =>
 
 const prettify = (s, format) => prettier.format(s, { parser: format });
 
-export const readJSON = async (category, id) =>
-  JSON.parse(
-    await fs.promises.readFile(`./data/${category}/${id}.json`, "utf-8")
-  );
+export const readJSON = async (category, id) => {
+  try {
+    return JSON.parse(
+      await fs.promises.readFile(`./data/${category}/${id}.json`, "utf-8")
+    );
+  } catch {
+    return null;
+  }
+};
 
 export const writeData = (category, id, data) =>
   fs.promises.writeFile(

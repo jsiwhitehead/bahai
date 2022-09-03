@@ -211,6 +211,7 @@ const process = (
                     )
                   : [];
               return {
+                years: authorYears[author || prayer.author],
                 author: author || prayer.author,
                 path: path.length > 0 ? path : undefined,
                 title: prayer.title,
