@@ -1314,9 +1314,7 @@ export const files = {
         "(This Tablet is read at the Shrines of Bahá’u’lláh and the Báb. It is also frequently used in commemorating Their anniversaries.)",
         "(This prayer, revealed by ‘Abdu’l‑Bahá, is read at His Shrine. It is also used in private prayer.)",
         "(The Intercalary Days, February 26 to March 1, inclusive, should be days of preparation for the Fast, days of hospitality, charity, and the giving of presents.)",
-        "“These daily obligatory prayers, together with a few other specific ones, such as the Healing Prayer, the Tablet of Aḥmad, have been invested by Bahá’u’lláh with a special potency and significance, and should therefore be accepted as such and be recited by the believers with unquestioning faith and confidence, that through them they may enter into a much closer communion with God, and identify themselves more fully with His laws and precepts.”",
         1065,
-        "“Study the Tablet of the Holy Mariner that ye may know the truth, and consider that the Blessed Beauty hath fully foretold future events. Let them who perceive, take warning!”",
         1139,
       ],
       lines: {

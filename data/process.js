@@ -149,7 +149,7 @@ const process = (
     .map((d, i) => {
       const docLines = typeof lines === "function" ? lines(i) : lines?.[i];
       return {
-        years: years || authorYears[author] || [0, 5000],
+        years: years || authorYears[author],
         author,
         type: typeof type === "string" ? type : type(i),
         ...d,
