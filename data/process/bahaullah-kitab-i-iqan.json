@@ -5,26 +5,26 @@
     "type": "Writings",
     "path": [],
     "title": "The Kitáb‑i‑Íqán",
-    "sections": [
-      {
+    "sections": {
+      "1": {
         "title": "Foreword",
         "level": 1,
         "start": 1,
         "end": 2
       },
-      {
+      "2": {
         "title": "Part One",
         "level": 1,
         "start": 2,
         "end": 3
       },
-      {
+      "3": {
         "title": "Part Two",
         "level": 1,
         "start": 3,
         "end": 4
       }
-    ],
+    },
     "items": [
       {
         "author": "Bahá’u’lláh",
@@ -39,6 +39,10 @@
         ]
       },
       {
+        "lines": {
+          "0": "call",
+          "1": "info"
+        },
         "paragraphs": [
           "IN THE NAME OF OUR LORD, THE EXALTED, THE MOST HIGH.",
           "No man shall attain the shores of the ocean of true understanding except he be detached from all that is in heaven and on earth. Sanctify your souls, O ye peoples of the world, that haply ye may attain that station which God hath destined for you and enter thus the tabernacle which, according to the dispensations of Providence, hath been raised in the firmament of the Bayán.",
@@ -145,6 +149,9 @@
         ]
       },
       {
+        "lines": {
+          "0": "info"
+        },
         "paragraphs": [
           "Verily He Who is the Daystar of Truth and Revealer of the Supreme Being holdeth, for all time, undisputed sovereignty over all that is in heaven and on earth, though no man be found on earth to obey Him. He verily is independent of all earthly dominion, though He be utterly destitute. Thus We reveal unto thee the mysteries of the Cause of God, and bestow upon thee the gems of divine wisdom, that haply thou mayest soar on the wings of renunciation to those heights that are veiled from the eyes of men.",
           "The significance and essential purpose underlying these words is to reveal and demonstrate unto the pure in heart and the sanctified in spirit that they Who are the Luminaries of truth and the Mirrors reflecting the light of divine Unity, in whatever age and cycle they are sent down from their invisible habitations of ancient glory unto this world, to educate the souls of men and endue with grace all created things, are invariably endowed with an all‑compelling power, and invested with invincible sovereignty. For these hidden Gems, these concealed and invisible Treasures, in themselves manifest and vindicate the reality of these holy words: “Verily God doeth whatsoever He willeth, and ordaineth whatsoever He pleaseth.”",

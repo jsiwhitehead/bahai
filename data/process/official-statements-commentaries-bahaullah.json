@@ -5,92 +5,92 @@
     "type": "Document",
     "path": [],
     "title": "Bahá’u’lláh",
-    "sections": [
-      {
+    "sections": {
+      "1": {
         "title": "Bahá’u’lláh",
         "level": 1,
         "start": 1,
         "end": 15
       },
-      {
+      "2": {
         "title": "Birth of a New Revelation",
         "level": 2,
         "start": 2,
         "end": 3
       },
-      {
+      "3": {
         "title": "Exile",
         "level": 2,
         "start": 3,
         "end": 4
       },
-      {
+      "4": {
         "title": "The Declaration in the Riḍván Garden",
         "level": 2,
         "start": 4,
         "end": 5
       },
-      {
+      "5": {
         "title": "“The Changeless Faith of God. . .”",
         "level": 2,
         "start": 5,
         "end": 6
       },
-      {
+      "6": {
         "title": "The Manifestation of God",
         "level": 2,
         "start": 6,
         "end": 7
       },
-      {
+      "7": {
         "title": "“An Ever‑Advancing Civilisation. . .”",
         "level": 2,
         "start": 7,
         "end": 8
       },
-      {
+      "8": {
         "title": "The Day of God",
         "level": 2,
         "start": 8,
         "end": 9
       },
-      {
+      "9": {
         "title": "Announcement to the Kings",
         "level": 2,
         "start": 9,
         "end": 10
       },
-      {
+      "10": {
         "title": "Arrival in the Holy Land",
         "level": 2,
         "start": 10,
         "end": 11
       },
-      {
+      "11": {
         "title": "Religion as Light and Darkness",
         "level": 2,
         "start": 11,
         "end": 12
       },
-      {
+      "12": {
         "title": "World Peace",
         "level": 2,
         "start": 12,
         "end": 13
       },
-      {
+      "13": {
         "title": "“Not of Mine Own Volition”",
         "level": 2,
         "start": 13,
         "end": 14
       },
-      {
+      "14": {
         "title": "The Covenant of God with Humankind",
         "level": 2,
         "start": 14,
         "end": 15
       }
-    ],
+    },
     "items": [
       {
         "paragraphs": [

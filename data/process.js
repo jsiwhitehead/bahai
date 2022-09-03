@@ -153,6 +153,7 @@ const process = (
         author,
         type: typeof type === "string" ? type : type(i),
         ...d,
+        sections: d.sections.reduce((res, s) => ({ ...res, [s.start]: s }), {}),
         items: d.items.map((paras, j) => {
           const author = paras[paras.length - 1].startsWith("—")
             ? paras.pop()

@@ -5,80 +5,80 @@
     "type": "Document",
     "path": [],
     "title": "Turning Point for All Nations",
-    "sections": [
-      {
+    "sections": {
+      "1": {
         "title": "I. Overview: An Opportunity for Reflection",
         "level": 2,
         "start": 1,
         "end": 2
       },
-      {
+      "2": {
         "title": "II. Recognising the Historical Context: A Call to World Leaders",
         "level": 2,
         "start": 2,
         "end": 3
       },
-      {
+      "3": {
         "title": "III. Defining a Role for the UN Within the Emerging International Order",
         "level": 2,
         "start": 3,
         "end": 18
       },
-      {
+      "4": {
         "title": "A. Resuscitating the General Assembly",
         "level": 3,
         "start": 4,
         "end": 10
       },
-      {
+      "10": {
         "title": "B. Developing a Meaningful Executive Function",
         "level": 3,
         "start": 10,
         "end": 15
       },
-      {
+      "15": {
         "title": "C. A Strengthened World Court",
         "level": 3,
         "start": 15,
         "end": 18
       },
-      {
+      "18": {
         "title": "IV. Releasing the Power of the Individual: A Critical Challenge of the Emerging International Order",
         "level": 2,
         "start": 18,
         "end": 31
       },
-      {
+      "19": {
         "title": "A. Promoting Economic Development",
         "level": 3,
         "start": 19,
         "end": 21
       },
-      {
+      "21": {
         "title": "B. Protecting Fundamental Human Rights",
         "level": 3,
         "start": 21,
         "end": 25
       },
-      {
+      "25": {
         "title": "C. Advancing the Status of Women",
         "level": 3,
         "start": 25,
         "end": 29
       },
-      {
+      "29": {
         "title": "D. Emphasising Moral Development",
         "level": 3,
         "start": 29,
         "end": 31
       },
-      {
+      "31": {
         "title": "V. A Turning Point for All Nations: A Call to World Leaders",
         "level": 2,
         "start": 31,
         "end": 32
       }
-    ],
+    },
     "items": [
       {
         "paragraphs": [

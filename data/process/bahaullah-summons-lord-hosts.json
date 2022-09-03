@@ -5,7 +5,7 @@
     "type": "Writings",
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Introduction",
-    "sections": [],
+    "sections": {},
     "items": [
       {
         "paragraphs": [
@@ -35,38 +35,38 @@
     "type": "Writings",
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Súriy‑i‑Haykal",
-    "sections": [
-      {
+    "sections": {
+      "1": {
         "title": "Pope Pius IX",
         "level": 2,
         "start": 1,
         "end": 2
       },
-      {
+      "2": {
         "title": "Napoleon III",
         "level": 2,
         "start": 2,
         "end": 3
       },
-      {
+      "3": {
         "title": "Czar Alexander II",
         "level": 2,
         "start": 3,
         "end": 4
       },
-      {
+      "4": {
         "title": "Queen Victoria",
         "level": 2,
         "start": 4,
         "end": 5
       },
-      {
+      "5": {
         "title": "Náṣiri’d‑Dín Sháh",
         "level": 2,
         "start": 5,
         "end": 7
       }
-    ],
+    },
     "items": [
       {
         "paragraphs": [
@@ -382,7 +382,7 @@
     "type": "Writings",
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Súriy‑i‑Ra’ís",
-    "sections": [],
+    "sections": {},
     "items": [
       {
         "paragraphs": [
@@ -438,7 +438,7 @@
     "type": "Writings",
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Lawḥ‑i‑Ra’ís",
-    "sections": [],
+    "sections": {},
     "items": [
       {
         "paragraphs": [
@@ -482,7 +482,7 @@
     "type": "Writings",
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Lawḥ‑i‑Fu’ád",
-    "sections": [],
+    "sections": {},
     "items": [
       {
         "paragraphs": [
@@ -518,7 +518,7 @@
     "type": "Writings",
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Súriy‑i‑Mulúk",
-    "sections": [],
+    "sections": {},
     "items": [
       {
         "paragraphs": [

@@ -7,7 +7,7 @@ import render from "./render";
 
 import categories from "./data/categories.json";
 import prayers from "./data/prayers.json";
-import hiddenWords from "./data/bahaullah-hidden-words.json";
+import documents from "./data/documents.json";
 
 import "./style.css";
 
@@ -60,7 +60,7 @@ run(
       }),
       {}
     ),
-    hiddenWords,
+    documents,
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),

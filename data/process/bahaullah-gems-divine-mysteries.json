@@ -5,20 +5,20 @@
     "type": "Writings",
     "path": [],
     "title": "Gems of Divine Mysteries",
-    "sections": [
-      {
+    "sections": {
+      "0": {
         "title": "Introduction",
         "level": 1,
         "start": 0,
         "end": 1
       },
-      {
+      "1": {
         "title": "Gems of Divine Mysteries",
         "level": 1,
         "start": 1,
         "end": 2
       }
-    ],
+    },
     "items": [
       {
         "paragraphs": [

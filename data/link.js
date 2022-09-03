@@ -1,13 +1,11 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { readJSON, simplifyText, writeData } from "./utils.js";
+import { prettify, readJSON, simplifyText } from "./utils.js";
 
 const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
 
 (async () => {
-  fs.emptyDirSync("./data/link");
-
   const documents = (
     await readJSON("process", "the-universal-house-of-justice-messages")
   ).map((d, i) => ({
@@ -88,5 +86,9 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
     if (Object.keys(sources).length > 0) doc.sources = sources;
   }
 
-  await writeData("link", "documents", documents);
+  await fs.promises.writeFile(
+    `./src/data/documents.json`,
+    prettify(JSON.stringify(documents, null, 2), "json"),
+    "utf-8"
+  );
 })();

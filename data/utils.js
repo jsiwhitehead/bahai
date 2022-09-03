@@ -139,7 +139,7 @@ export const correctSpelling = (s) =>
 //     .replace(/‑I‑/g, "‑i‑")
 //     .replace(/\([IVX]+\)/g, (m) => m.toLowerCase());
 
-const prettify = (s, format) => prettier.format(s, { parser: format });
+export const prettify = (s, format) => prettier.format(s, { parser: format });
 
 export const readJSON = async (category, id) => {
   try {

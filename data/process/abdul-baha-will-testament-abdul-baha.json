@@ -5,26 +5,26 @@
     "type": "Writings",
     "path": [],
     "title": "Will and Testament of ‘Abdu’l‑Bahá",
-    "sections": [
-      {
+    "sections": {
+      "0": {
         "title": "Part One",
         "level": 1,
         "start": 0,
         "end": 2
       },
-      {
+      "2": {
         "title": "Part Two",
         "level": 1,
         "start": 2,
         "end": 3
       },
-      {
+      "3": {
         "title": "Part Three",
         "level": 1,
         "start": 3,
         "end": 4
       }
-    ],
+    },
     "items": [
       {
         "paragraphs": [

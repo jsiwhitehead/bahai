@@ -78,6 +78,26 @@
               {...collection.map(renderItem)}
             />
           )
+        : url[0] === "iqan" ?
+          (
+            doc: documents.find(d=> d.id === "bahaullah-kitab-i-iqan-0"),
+            <a
+              stack={60}
+              <a stack={20}>
+                <a size={40} bold underline {doc.title} />
+                <a color="blue" underline={hover} link="/" "« Back" />
+              </a>
+              {...doc.items.map((x, i)=>
+                doc.sections[i] ?
+                  <a stack={60}>
+                    <a size={30} bold align="center">{doc.sections[i].title}</a>
+                    <a>{renderItem(x, i, doc.author)}</a>
+                  </a>
+                :
+                  renderItem(x, i, doc.author)
+              )}
+            />
+          )
         : url[0] === "hidden-words" ?
           <a
             stack={60}

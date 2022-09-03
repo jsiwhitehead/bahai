@@ -5,50 +5,50 @@
     "type": "Document",
     "path": [],
     "title": "The Prosperity of Humankind",
-    "sections": [
-      {
+    "sections": {
+      "1": {
         "title": "I",
         "level": 1,
         "start": 1,
         "end": 2
       },
-      {
+      "2": {
         "title": "II",
         "level": 1,
         "start": 2,
         "end": 3
       },
-      {
+      "3": {
         "title": "III",
         "level": 1,
         "start": 3,
         "end": 4
       },
-      {
+      "4": {
         "title": "IV",
         "level": 1,
         "start": 4,
         "end": 5
       },
-      {
+      "5": {
         "title": "V",
         "level": 1,
         "start": 5,
         "end": 6
       },
-      {
+      "6": {
         "title": "VI",
         "level": 1,
         "start": 6,
         "end": 7
       },
-      {
+      "7": {
         "title": "VII",
         "level": 1,
         "start": 7,
         "end": 9
       }
-    ],
+    },
     "items": [
       {
         "paragraphs": [

@@ -282,6 +282,12 @@ export const files = {
         "Part One": 1,
         "Part Two": 1,
       },
+      lines: [
+        {
+          2: { 0: "call", 1: "info" },
+          3: { 0: "info" },
+        },
+      ],
       replace: {
         "the Bearers of a new Message": "the Revealers of a new Message",
         "to them the same attribute": "to them the same attributes",
