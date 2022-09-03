@@ -17,39 +17,42 @@
             >
               {index + 1}.{i + 1}
             </a>
-            {(
-              i === firstLine ?
-                <a>
-                  <a
-                    size={17 * 3}
-                    line={1}
-                    color={color}
-                    pad={{ right: 8 }}
-                    style={{ float: "left", width: "auto" }}
-                  >
-                    {s.slice(0,1)}
+            <a stack={15}>
+              {(
+                i === firstLine ?
+                  <a>
+                    <a
+                      size={17 * 3}
+                      line={1}
+                      color={color}
+                      pad={{ right: 8 }}
+                      style={{ float: "left", width: "auto" }}
+                    >
+                      {s.slice(0,1)}
+                    </a>
+                    {s.slice(1)}
                   </a>
-                  {s.slice(1)}
-                </a>
-              : p.lines?.[i] === "info" ?
-                <a
-                  size={16}
-                  italic
-                  pad={[0, 20]}
-                  color="#999"
-                  style={{ clear: "both" }}
-                  {s}
-                />
-              : p.lines?.[i] === "call" ?
-                <a
-                  size={17}
-                  uppercase
-                  style={{ clear: "both" }}
-                  {s}
-                />
-              :
-                <a size={17} indent={20} style={{ clear: "both" }} {s.replace(/\. \. \./g, '. . .')} />
-            )}
+                : p.lines?.[i] === "info" ?
+                  <a
+                    size={16}
+                    italic
+                    pad={[0, 20]}
+                    color="#999"
+                    style={{ clear: "both" }}
+                    {s}
+                  />
+                : p.lines?.[i] === "call" ?
+                  <a
+                    size={17}
+                    uppercase
+                    style={{ clear: "both" }}
+                    {s}
+                  />
+                :
+                  <a size={17} indent={20} style={{ clear: "both" }} {s.replace(/\. \. \./g, '. . .')} />
+              )}
+              {p.sources?.[i] && <a italic align="right">({p.sources[i][0]})</a>}
+            </a>
           </a>
         )}
         {p.author && <a align="right" italic color={color} style={{ clear: "both" }} {"— " + p.author}/>}

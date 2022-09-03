@@ -66,8 +66,8 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
   );
 
   for (const doc of documents) {
-    const sources = {};
-    doc.items.forEach((item, i) => {
+    doc.items.forEach((item) => {
+      const sources = {};
       item.paragraphs.forEach((para, j) => {
         if (para.length >= 100) {
           const simplified = simplifyText(para);
@@ -82,8 +82,8 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
           }
         }
       });
+      if (Object.keys(sources).length > 0) item.sources = sources;
     });
-    if (Object.keys(sources).length > 0) doc.sources = sources;
   }
 
   await fs.promises.writeFile(
