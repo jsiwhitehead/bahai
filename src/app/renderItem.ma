@@ -48,8 +48,10 @@
                     style={{ clear: "both" }}
                     {s}
                   />
+                : p.sources?.[i] ?
+                  <a size={17} pad={[0, 20]} style={{ clear: "both" }} {s} />
                 :
-                  <a size={17} indent={20} style={{ clear: "both" }} {s.replace(/\. \. \./g, '. . .')} />
+                  <a size={17} indent={20} style={{ clear: "both" }} {s} />
               )}
               {p.sources?.[i] && <a italic align="right">({p.sources[i][0]})</a>}
             </a>

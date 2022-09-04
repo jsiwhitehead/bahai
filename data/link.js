@@ -35,7 +35,7 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
   for (const doc of gleanings) {
     const docParas = flatten(
       doc.items[0].paragraphs.map((text) =>
-        text.split(/\. \. \./g).map((s) => simplifyText(s))
+        text.split(/\. \. \./g).map((s) => simplifyText(s))
       )
     );
     const source = bahaullahDocs.some((text) =>
@@ -45,12 +45,10 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
   }
 
   documents.sort((a, b) => (a.years[0] || 0) - (b.years[0] || 0));
-  const paragraphs = documents.reduce(
-    (res, doc) => [
-      ...res,
-      ...doc.items.reduce(
-        (res, item, i) => [
-          ...res,
+  const paragraphs = flatten(
+    documents.map((doc) =>
+      flatten(
+        doc.items.map((item, i) => [
           ...item.paragraphs.map((text, j) => ({
             years: doc.years,
             id: doc.id,
@@ -58,27 +56,33 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
             para: j,
             text: simplifyText(text),
           })),
-        ],
-        []
-      ),
-    ],
-    []
+          {
+            years: doc.years,
+            id: doc.id,
+            item: i,
+            text: simplifyText(item.paragraphs.join(" ")),
+          },
+        ])
+      )
+    )
   );
 
   for (const doc of documents) {
     doc.items.forEach((item) => {
       const sources = {};
-      item.paragraphs.forEach((para, j) => {
-        if (para.length >= 100) {
-          const simplified = simplifyText(para);
+      item.paragraphs.forEach((text, j) => {
+        if (text.length >= 100) {
+          const simplified = text
+            .split(/\. \. \./g)
+            .map((s) => simplifyText(s));
           const source = paragraphs.find(
             (p) =>
               p.id !== doc.id &&
               p.years[0] <= doc.years[1] &&
-              p.text.includes(simplified)
+              simplified.every((s) => p.text.includes(s))
           );
           if (source) {
-            sources[j] = [source.id, source.item, source.para];
+            sources[j] = [source.id, source.item, source.para].filter((x) => x);
           }
         }
       });

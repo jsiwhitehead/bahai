@@ -62,10 +62,14 @@ export const correctSpelling = (s) =>
           return spellings[k];
         }),
       s
+        .replace(/\u200E/g, "")
+        .replace(/\u00AD/g, "")
+        .replace(/\u035F/g, "")
+        .replace(/á/g, "á")
+        .replace(/Á/g, "Á")
+        .replace(/í/g, "í")
+        .replace(/Í/g, "Í")
     )
-    .replace(/\u200E/g, "")
-    .replace(/\u00AD/g, "")
-    .replace(/\u035F/g, "")
     .replace(/-/g, "‑")
     .replace(/–/g, "—")
     .replace(/─/g, "—")
@@ -81,10 +85,8 @@ export const correctSpelling = (s) =>
     .replace(/([,!?”’]) \. \. \. \./g, (_, m) => `${m}\. \. \. \.`)
     .replace(/\. \. \. \./g, ". . . .")
     .replace(/\. \. \./g, ". . .")
-    .replace(/á/g, "á")
-    .replace(/Á/g, "Á")
-    .replace(/í/g, "í")
-    .replace(/Í/g, "Í");
+    .replace(/ Iráq/g, " ‘Iráq")
+    .replace(/ IRÁQ/g, " ‘IRÁQ");
 
 // const ignoreTitle = [
 //   "the",
