@@ -7,7 +7,7 @@ import {
   readJSON,
   replaceInText,
   simplifyText,
-  writeData,
+  writeJSON,
 } from "./utils.js";
 
 const test = (options, value, index) =>
@@ -189,7 +189,7 @@ const process = (
       Object.keys(files[author]).map(async (file) => {
         const id = `${author}-${file}`;
         const { start, end, author: infoAuthor, ...info } = files[author][file];
-        const paras = await readJSON("download", id);
+        const paras = await readJSON("spellings", id);
         const data = process(sliceParas(paras, start, end), {
           author: infoAuthor || authors[author],
           ...info,
@@ -225,7 +225,7 @@ const process = (
         );
         const nonPrayers = data.filter((d) => d.type !== "Prayer");
         if (nonPrayers.length > 0) {
-          await writeData("process", id, nonPrayers);
+          await writeJSON("process", id, nonPrayers);
         }
       })
     );
@@ -249,13 +249,13 @@ const process = (
       return !p;
     })
     .map(({ simplified, ...p }, i) => ({ index: i, ...p }));
-  await writeData("process", "prayers", prayers);
+  await writeJSON("process", "prayers", prayers);
 
   const messages = await readJSON(
-    "download",
+    "spellings",
     "the-universal-house-of-justice-messages"
   );
-  await writeData(
+  await writeJSON(
     "process",
     "the-universal-house-of-justice-messages",
     messages.map(({ id, title, summary, addressee, paragraphs }) => ({

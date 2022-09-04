@@ -1,8 +1,5 @@
 import fs from "fs-extra";
 import * as prettier from "prettier";
-import distance from "js-levenshtein";
-
-import spellingsBase from "./spellings.json" assert { type: "json" };
 
 export const simplifyText = (s) =>
   s
@@ -19,74 +16,7 @@ export const replaceInText = (text, replace) =>
 
 export const intersects = (a, b) => a.some((x) => b.includes(x));
 
-const flatten = (arrs) => arrs.reduce((res, a) => [...res, ...a], []);
-const merge = (objs) => objs.reduce((res, o) => ({ ...res, ...o }), {});
-
 export const last = (x) => x[x.length - 1];
-
-const capitalise = (s) => s.charAt(0).toUpperCase() + s.slice(1);
-
-const spellings = {
-  ...spellingsBase.main,
-  ...merge(
-    flatten(
-      spellingsBase.sets.map(({ changes, roots, adjust = {} }) =>
-        roots.map((r) =>
-          merge(
-            Object.keys(changes).map((original) => {
-              const changed = changes[original];
-              if (!adjust[r]) return { [`${r}${original}`]: `${r}${changed}` };
-              return {
-                [`${r}${original}`]: `${adjust[r]}${changed}`,
-                [`${adjust[r]}${original}`]: `${adjust[r]}${changed}`,
-                [`${r}${changed}`]: `${adjust[r]}${changed}`,
-              };
-            })
-          )
-        )
-      )
-    )
-  ),
-};
-const spellKeys = Object.keys(spellings);
-export const correctSpelling = (s) =>
-  spellKeys
-    .reduce(
-      (res, k) =>
-        res.replace(new RegExp(`\\b${k}\\b`, "ig"), (m) => {
-          if ([...m].every((s) => s === s.toUpperCase())) {
-            return spellings[k].toUpperCase();
-          } else if (m[0] === m[0].toUpperCase()) {
-            return capitalise(spellings[k]);
-          }
-          return spellings[k];
-        }),
-      s
-        .replace(/\u200E/g, "")
-        .replace(/\u00AD/g, "")
-        .replace(/\u035F/g, "")
-        .replace(/á/g, "á")
-        .replace(/Á/g, "Á")
-        .replace(/í/g, "í")
-        .replace(/Í/g, "Í")
-    )
-    .replace(/-/g, "‑")
-    .replace(/–/g, "—")
-    .replace(/─/g, "—")
-    .replace(/ \\"/g, " “")
-    .replace(/\\" /g, "” ")
-    .replace(/ '/g, " ‘")
-    .replace(/“'/g, "“‘")
-    .replace(/'/g, "’")
-    .replace(/…/g, "...")
-    .replace(/\.\.\.\./g, ". . . .")
-    .replace(/\.\.\./g, ". . .")
-    .replace(/([,!?”’])\. \. \./g, (_, m) => `${m} \. \. \.`)
-    .replace(/([,!?”’]) \. \. \. \./g, (_, m) => `${m}\. \. \. \.`)
-    .replace(/\. \. \. \./g, ". . . .")
-    .replace(/\. \. \./g, ". . .")
-    .replace(/ Iráq/g, " ‘Iráq")
-    .replace(/ IRÁQ/g, " ‘IRÁQ");
 
 // const ignoreTitle = [
 //   "the",
@@ -156,69 +86,12 @@ export const readJSON = async (category, id) => {
   }
 };
 
-export const writeData = (category, id, data) =>
+export const writeJSON = (category, id, data) =>
   fs.promises.writeFile(
     `./data/${category}/${id}.json`,
-    prettify(
-      typeof data === "string" ? data : JSON.stringify(data, null, 2),
-      "json"
-    ),
+    prettify(JSON.stringify(data, null, 2), "json"),
     "utf-8"
   );
-
-export const removeDuplicates = (items, getText, doCompare = () => true) => {
-  const data = items
-    .map((item) => {
-      const text = getText(item)
-        .toLowerCase()
-        .replace(/(\. \. \. \.|\. \. \.)/g, "…")
-        .replace(/\(.+\)/g, "")
-        .replace(/[^a-z…]/g, "");
-      return {
-        item,
-        text,
-        length: text.length,
-        chunks: text
-          .split("…")
-          .map((s) =>
-            Array.from({
-              length: Math.ceil(s.length / 20),
-            }).map((_, i) => s.slice(i * 20, (i + 1) * 20))
-          )
-          .reduce((res, x) => [...res, ...x], []),
-      };
-    })
-    .sort((a, b) => {
-      const result = b.length - a.length;
-      if (result) return result;
-      return a.text.localeCompare(b.text);
-    });
-
-  data.forEach((a, i) => {
-    data.slice(i + 1).forEach((b) => {
-      if (
-        doCompare(a, b) &&
-        Math.abs(a.length - b.length) / (a.length + b.length) < 0.1 &&
-        (a.text === b.text ||
-          a.text.includes(b.text) ||
-          b.text.includes(a.text) ||
-          distance(a.text, b.text) / (a.length + b.length) < 0.1)
-      ) {
-        if (
-          a.text === "O God, my God, my Beloved, my heart’s Desire." ||
-          (b.text === a.text) ===
-            "O God, my God, my Beloved, my heart’s Desire."
-        ) {
-          console.log(a.text);
-          console.log(b.text);
-        }
-        b.duplicate = true;
-      }
-    });
-  });
-
-  return data.filter((d) => !d.duplicate).map((d) => d.item);
-};
 
 export const getYearsFromId = (id) => {
   const v = parseFloat(id.slice(0, 4) + "." + id.slice(4, 6) + id.slice(6, 8));

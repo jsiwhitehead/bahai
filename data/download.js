@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 import { parse } from "parse5";
 
 import { files } from "./sources.js";
-import { correctSpelling, writeData } from "./utils.js";
+import { writeJSON } from "./utils.js";
 
 const findNode = (node, test) => {
   if (test(node)) return node;
@@ -50,11 +50,7 @@ const getParagraphs = (root, splitBr) => {
     }
   };
   walk(root);
-  return correctSpelling(
-    JSON.stringify(
-      paras.map((p) => p.replace(/\s+/g, " ").trim()).filter((p) => p)
-    )
-  );
+  return paras.map((p) => p.replace(/\s+/g, " ").trim()).filter((p) => p);
 };
 
 (async () => {
@@ -74,7 +70,7 @@ const getParagraphs = (root, splitBr) => {
               : "authoritative-texts"
           }/${author}/${file}/${file}.xhtml`
         );
-        await writeData(
+        await writeJSON(
           "download",
           `${author}-${file}`,
           getParagraphs(
@@ -105,7 +101,7 @@ const getParagraphs = (root, splitBr) => {
       );
       return {
         id,
-        title: correctSpelling(
+        title:
           {
             "Riḍván 150": "Riḍván 1993",
             "Riḍván 151": "Riḍván 1994",
@@ -114,17 +110,14 @@ const getParagraphs = (root, splitBr) => {
             "Riḍván 154": "Riḍván 1997",
             "Riḍván 155": "Riḍván 1998",
             "Riḍván 156": "Riḍván 1999",
-          }[title] || title
-        ),
-        addressee: correctSpelling(addressee),
-        summary: correctSpelling(summary),
-        paragraphs: JSON.parse(
-          getParagraphs(findNode(html, (n) => n.tagName === "body"))
-        ),
+          }[title] || title,
+        addressee,
+        summary,
+        paragraphs: getParagraphs(findNode(html, (n) => n.tagName === "body")),
       };
     })
   );
-  await writeData(
+  await writeJSON(
     "download",
     "the-universal-house-of-justice-messages",
     messages
