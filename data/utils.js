@@ -139,19 +139,19 @@ export const getMessageTo = (addressee) => {
     ].some((s) => lower.includes(s))
   ) {
     return "to those gathered";
-  } else if (lower.includes("iranian")) {
-    return "to Iranian Bahá’ís outside Iran";
+  } else if (lower.includes("íránian")) {
+    return "to Íránian Bahá’ís outside Írán";
   } else if (
-    ["iran", "cradle", "lovers of the most great beauty"].some((s) =>
+    ["írán", "cradle", "lovers of the most great beauty"].some((s) =>
       lower.includes(s)
     )
   ) {
     if (lower.includes("youth")) {
-      return "to Bahá’í youth in Iran";
+      return "to Bahá’í youth in Írán";
     } else if (lower.includes("students")) {
-      return "to Bahá’í students in Iran";
+      return "to Bahá’í students in Írán";
     } else {
-      return "to the Bahá’ís of Iran";
+      return "to the Bahá’ís of Írán";
     }
   } else if (lower.includes("youth")) {
     return "to Bahá’í Youth";

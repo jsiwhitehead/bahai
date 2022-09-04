@@ -5,6 +5,18 @@ import { writeJSON } from "./utils.js";
 
 import spellingsBase from "./spellings.json" assert { type: "json" };
 
+// const mapping = {};
+// const addToMapping = (s) => {
+//   for (const word of s
+//     .toLowerCase()
+//     .normalize("NFD")
+//     .split(/[^‘’‑-\w\u0300-\u036f]/g)) {
+//     const plain = word.replace(/[\u0300-\u036f]/g, "");
+//     mapping[plain] = mapping[plain] || new Set();
+//     mapping[plain].add(word.normalize("NFC"));
+//   }
+// };
+
 const flatten = (arrs) => arrs.reduce((res, a) => [...res, ...a], []);
 const merge = (objs) => objs.reduce((res, o) => ({ ...res, ...o }), {});
 
@@ -70,7 +82,18 @@ const correctSpelling = (s) =>
     .replace(/\. \. \. \./g, ". . . .")
     .replace(/\. \. \./g, ". . .")
     .replace(/ Iráq/g, " ‘Iráq")
-    .replace(/ IRÁQ/g, " ‘IRÁQ");
+    .replace(/ IRÁQ/g, " ‘IRÁQ")
+    .replace(/Ataollah/g, "‘Aṭá’u’lláh")
+    .replace(/Ruhollah/g, "Rúḥu’lláh")
+    .replace(/’i\b/g, "’í")
+    .replace(/\bprë/g, "pre")
+    .replace(/\bpreë/g, "pree")
+    .replace(/\bre‑/g, "re")
+    .replace(/\bpre‑/g, "pre")
+    .replace(/\bco‑/g, "co")
+    .replace(/\bRe‑/g, "Re")
+    .replace(/\bPre‑/g, "Pre")
+    .replace(/Co‑operation/g, "Cooperation");
 
 (async () => {
   fs.emptyDirSync("./data/spellings");
@@ -104,4 +127,15 @@ const correctSpelling = (s) =>
       )
     )
   );
+
+  // fs.emptyDirSync("./data/mapping");
+  // const singles = [];
+  // const multiples = [];
+  // for (const plain of Object.keys(mapping)) {
+  //   const values = [...mapping[plain]];
+  //   if (values.length === 1 && values[0] !== plain) singles.push(values[0]);
+  //   if (values.length > 1) multiples.push(values);
+  // }
+  // singles.sort();
+  // await writeJSON("mapping", "mapping", { multiples, singles });
 })();
