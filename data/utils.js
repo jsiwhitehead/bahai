@@ -3,6 +3,8 @@ import * as prettier from "prettier";
 
 export const simplifyText = (s) =>
   s
+    .replace(/\([^\)]*\)/g, "")
+    .replace(/\[[^\]]*\]/g, "")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/\W/g, "")

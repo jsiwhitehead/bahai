@@ -69,7 +69,7 @@
                     {text.slice(1)}
                   </a>
                 : doc.sources?.[i] ?
-                  <a size={17} pad={{ left: 20 }} style={{ clear: "both" }} {text} />
+                  <a size={17} pad={{ left: 20 }} bold color="black" style={{ clear: "both" }} {text} />
                 :
                   <a size={17} indent={20} style={{ clear: "both" }} {text} />
               )}
@@ -78,7 +78,7 @@
                   size={16}
                   italic
                   align="right"
-                  color="blue"
+                  color={colors.link[documents[doc.sources[i][0]].author]}
                   underline={hover}
                   link={"/doc/" + doc.sources[i].join('#')}
                 >

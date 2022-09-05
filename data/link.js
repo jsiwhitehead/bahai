@@ -60,28 +60,26 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
           }))
         )
       ),
-      // {
-      //   years: doc.years,
-      //   id: doc.id,
-      //   text: simplifyText(doc.paragraphs.join(" ")),
-      // },
+      {
+        years: doc.years,
+        id: doc.id,
+        text: simplifyText(doc.paragraphs.join(" ")),
+      },
     ])
   );
 
   for (const doc of documents) {
     const sources = {};
     doc.paragraphs.forEach((text, i) => {
-      if (text.length >= 100) {
-        const simplified = text.split(/\. \. \./g).map((s) => simplifyText(s));
+      const simplified = text.split(/\. \. \./g).map((s) => simplifyText(s));
+      if (simplified.join("").length >= 80) {
         const source = paragraphs.find(
           (p) =>
             p.id !== doc.id &&
             p.years[0] <= doc.years[1] &&
             simplified.every((s) => p.text.includes(s))
         );
-        if (source) {
-          sources[i] = [source.id, source.para].filter((x) => x);
-        }
+        if (source) sources[i] = [source.id, source.para].filter((x) => x);
       }
     });
     if (Object.keys(sources).length > 0) doc.sources = sources;
