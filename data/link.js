@@ -71,7 +71,7 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
             simplified.every((s) => p.text.includes(s))
         );
         if (source) {
-          sources[i] = [source.id, source.para].filter((x) => x);
+          sources[i] = [source.id, source.para].filter((x) => x !== undefined);
         }
       }
     });

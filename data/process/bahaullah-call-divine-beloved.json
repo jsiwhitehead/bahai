@@ -5,6 +5,9 @@
     "type": "Writings",
     "path": ["The Call of the Divine Beloved"],
     "title": "Preface",
+    "lines": {
+      "0": "first"
+    },
     "paragraphs": [
       "“At one time We spoke in the language of the lawgiver”, Bahá’u’lláh writes in the Epistle to the Son of the Wolf, “at another in that of the truth‑seeker and the mystic”. The present volume brings together a selection of His Tablets which were revealed in the language of the mystic. Some are widely known; others are published here for the first time in English translation.",
       "Although most of the Tablets in this collection were revealed during Bahá’u’lláh’s sojourn in ‘Iráq (1853—1863), the first, the poem known as “Rashḥ‑i‑‘Amá”, was written in 1852 in the Síyáh‑Chál and is among the few He revealed while in His native land of Persia, and in verse. Bahá’u’lláh recounts: “During the days I lay in the prison of Ṭihrán, though the galling weight of the chains and the stench‑filled air allowed Me but little sleep, still in those infrequent moments of slumber I felt as if something flowed from the crown of My head over My breast, even as a mighty torrent that precipitateth itself upon the earth from the summit of a lofty mountain. Every limb of My body would, as a result, be set afire. At such moments My tongue recited what no man could bear to hear.” The poetic reflection of that experience, as conveyed in Rashḥ‑i‑‘Amá, can perhaps never be adequately rendered into another language, yet the present translation is an initial attempt to impart a glimpse of its power and momentous themes.",
@@ -25,6 +28,9 @@
     "type": "Writings",
     "path": ["The Call of the Divine Beloved"],
     "title": "Rashḥ‑i‑‘Amá (The Clouds of the Realms Above)",
+    "lines": {
+      "0": "first"
+    },
     "paragraphs": [
       "’Tis from Our rapture that the clouds of realms above are raining down; ’Tis from Our anthem that the mysteries of faith are raining down.",
       "Upon the Eastern wind Cathay’s entrancing musk doth waft; This sweetly scented breeze from Our curling locks is raining down.",
@@ -61,6 +67,10 @@
           "end": 95
         }
       ]
+    },
+    "lines": {
+      "0": "first",
+      "120": "first"
     },
     "paragraphs": [
       "An exposition of the mysteries enshrined in the stages of ascent for them that seek to journey unto God, the Almighty, the Ever‑Forgiving",
@@ -166,6 +176,9 @@
     "type": "Writings",
     "path": ["The Call of the Divine Beloved"],
     "title": "From the Letter Bá’ to the Letter Há’",
+    "lines": {
+      "0": "first"
+    },
     "paragraphs": [
       "In the name of our Lord, the Most Exalted, the Most High!",
       "I addressed unto thee aforetime an Epistle in the lucid Arabian tongue, and I now reveal for thee this Tablet in wondrous Persian prose, that thou mayest hear, in the glorious accents of the Nightingale of ‘Iráq, the sweet melodies of the nearness of the heavenly Paradise that had, ere this, been intoned in the language of Ḥijáz. Perchance thou mayest become pure spirit; attain, without taking a single step, the loftiest stations of mystic ascent; and explore, without leaving thine outward habitation, the furthermost reaches of the worlds of inner significance. Thereupon wouldst thou, with a divine rapture, experience true spiritual attraction, lay down thy life in the path of the Friend, and sacrifice thy soul in the wilderness of His love. This indeed is the meaning of stillness in flight and flight in stillness, of fluidity in solidity and solidity in fluidity.",
@@ -184,6 +197,9 @@
     "author": "Bahá’u’lláh",
     "type": "Writings",
     "path": ["The Call of the Divine Beloved", "Three Other Tablets"],
+    "lines": {
+      "0": "first"
+    },
     "paragraphs": [
       "In the name of our Lord, the Most Exalted, the Most High!",
       "O friend! Many a day hath passed, and still the sweet fragrance of thy faithfulness hath failed to reach Us. Hast thou forgotten the One Who forgetteth thee not, and forsaketh thee not, and neglecteth thee not, even as thou hast forgotten, forsaken, and neglected Him?",
@@ -204,6 +220,9 @@
     "author": "Bahá’u’lláh",
     "type": "Writings",
     "path": ["The Call of the Divine Beloved", "Three Other Tablets"],
+    "lines": {
+      "0": "first"
+    },
     "paragraphs": [
       "In the name of the peerless and ever‑loving Lord!",
       "O Shams! Hearken with all thy heart unto the nightingale song of the Beloved, that perchance thou mayest abandon the habitation of self and desire and step into the placeless realm of eternal glory, forsake thine own life, and commune with Him Who is the life of thy life. Wert thou to traverse the limitless reaches of the spirit, thou wouldst of a certainty rend asunder the garment of patience and forbearance, hasten to offer up thy soul, renounce the dross of this fleeting world, and find repose upon the throne of ancient glory.",
@@ -218,6 +237,9 @@
     "author": "Bahá’u’lláh",
     "type": "Writings",
     "path": ["The Call of the Divine Beloved", "Three Other Tablets"],
+    "lines": {
+      "0": "first"
+    },
     "paragraphs": [
       "O thou lion‑hearted soul, Even as a lion roar, That thy roaring may perchance To the seventh heaven soar!",
       "Praise be to Him Whose Essence is immeasurably exalted above the strivings of human hearts, however pure, to soar into the atmosphere of His nearness, and Whose Being is immensely sanctified beyond the exertions of human minds, however lofty, to ascend unto the heaven of His presence. From time immemorial He hath been exalted above the description of aught save Himself, and He will forever continue to be sanctified beyond the praise of all created things. The hearts of them that have recognised Him are sore perplexed before the tokens of His everlasting handiwork, and the minds of them that have attained His court are bewildered by the wondrous evidences of the Revealers of His oneness. He, verily, is the All‑Possessing, the Almighty, the Most Glorious, the Help in Peril, the Self‑Subsisting.",
@@ -238,6 +260,9 @@
     "type": "Writings",
     "path": ["The Call of the Divine Beloved"],
     "title": "The Four Valleys",
+    "lines": {
+      "0": "first"
+    },
     "paragraphs": [
       "He is the Ever‑Living.",
       "O light of truth and sword of faith And soul of generosity! No prince hath sky or earth begot Who fain could hope to rival thee!",

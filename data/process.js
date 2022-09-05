@@ -157,7 +157,14 @@ const process = (
           };
         }, {})
       ),
-      lines: paraLines || undefined,
+      lines: {
+        ...(paraLines || {}),
+        ...[{ start: 0 }, ...sections].reduce((res, s) => {
+          const first =
+            s.start + paras.slice(s.start).findIndex((_, i) => !paraLines?.[i]);
+          return { ...res, [first]: "first" };
+        }, {}),
+      },
       paragraphs: paras,
     };
   });

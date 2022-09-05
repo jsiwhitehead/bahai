@@ -87,15 +87,7 @@
                 <a color="blue" underline={hover} link="/" "« Back" />
                 <a size={40} bold underline align="center" {doc.title} />
               </a>
-              {...doc.items.map((x, i)=>
-                doc.sections[i] ?
-                  <a stack={40}>
-                    <a size={30} bold align="center">{doc.sections[i].title}</a>
-                    <a>{renderItem(x, i, doc.author)}</a>
-                  </a>
-                :
-                  renderItem(x, i, doc.author)
-              )}
+              {renderDoc(doc)}
             />
           )
       }
