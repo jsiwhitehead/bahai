@@ -51,6 +51,15 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
         para: i + 1,
         text: simplifyText(text),
       })),
+      ...flatten(
+        Object.keys(doc.lines || {}).map((k) =>
+          doc.lines[k].map((line) => ({
+            years: doc.years,
+            id: doc.id,
+            text: simplifyText(line.text),
+          }))
+        )
+      ),
       // {
       //   years: doc.years,
       //   id: doc.id,

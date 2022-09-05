@@ -1,6 +1,25 @@
 (doc, index)=>
   (
     color: colors.link[doc.author],
+    renderLine: (line, wide)=>
+      line.type === "info" ?
+        <a
+          size={16}
+          italic
+          pad={wide ? 0 : [0, 20]}
+          color="#888"
+          style={{ clear: "both" }}
+          {line.text}
+        />
+      : line.type === "call" ?
+        <a
+          size={17}
+          uppercase
+          style={{ clear: "both" }}
+          {line.text}
+        />
+      :
+        null,
     <a
       stack={25}
       align="justify"
@@ -15,24 +34,7 @@
             </a>
           }
           {...(doc.lines?.[i] || []).map((line, j)=>
-            line.type === "info" ?
-              <a
-                size={16}
-                italic
-                pad={i === 0 || i === doc.paragraphs.length - 1 || doc.sections?.[i] ? 0 : [0, 20]}
-                color="#888"
-                style={{ clear: "both" }}
-                {line.text}
-              />
-            : line.type === "call" ?
-              <a
-                size={17}
-                uppercase
-                style={{ clear: "both" }}
-                {line.text}
-              />
-            :
-              null
+            renderLine(line, i === 0 || doc.sections?.[i])
           )}
           <a id={i + 1} style={{ position: "relative" }}>
             {(index === null || i === 0) &&
@@ -77,13 +79,16 @@
                   align="right"
                   color="blue"
                   underline={hover}
-                  link={"/" + doc.sources[i].join('#')}
+                  link={"/doc/" + doc.sources[i].join('#')}
                 >
                   ({doc.sources[i].join(', ')})
                 </a>
               }
             </a>
           </a>
+          {...(i === doc.paragraphs.length - 1 ? doc.lines?.[i + 1] || [] : []).map((line, j)=>
+            renderLine(line, true)
+          )}
         </a>
       )}
       {doc.type === "Prayer" && doc.author &&

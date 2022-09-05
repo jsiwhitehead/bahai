@@ -71,7 +71,9 @@ const process = (
 ) => {
   const replaced = paras.map((p) => replaceInText(p, replace || {}));
   const paragraphs = [];
-  const parts = [{ level: 0, title: title ? title : replaced[0], start: 0 }];
+  const parts = [
+    { level: 0, title: title ? title : replaced[0], start: 0, lines: {} },
+  ];
   const addPart = (level, title) => {
     for (const p of parts) {
       if (p.end === undefined && p.level >= level) p.end = paragraphs.length;
@@ -232,7 +234,17 @@ const process = (
       if (p) {
         p.path = p.path || a.path;
         p.title = p.title || a.title;
-        p.lines = p.lines || a.lines;
+        p.lines =
+          Object.keys(p.lines || {}).reduce(
+            (res, k) => res + p.lines[k].length,
+            0
+          ) >
+          Object.keys(a.lines || {}).reduce(
+            (res, k) => res + a.lines[k].length,
+            0
+          )
+            ? p.lines
+            : a.lines;
       }
       return !p;
     })

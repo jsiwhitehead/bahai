@@ -1,4 +1,6 @@
 const obligatoryLines = {
+  "To be recited once in twenty‑four hours, at noon": "info",
+  "To be recited daily, in the morning, at noon, and in the evening": "info",
   "Whoso wisheth to pray, let him wash his hands, and while he washeth, let him say:":
     "info",
   "And while washing his face, let him say:": "info",
@@ -10,6 +12,7 @@ const obligatoryLines = {
   "Let him, then, be seated and say:": "info",
   "(If anyone choose to recite instead of the long verse these words: “God testifieth that there is none other God but Him, the Help in Peril, the Self‑Subsisting,” it would be sufficient. And likewise, it would suffice were he, while seated, to choose to recite these words: “I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.”)":
     "info",
+  "To be recited once in twenty‑four hours": "info",
   "Whoso wisheth to recite this prayer, let him stand up and turn unto God, and, as he standeth in his place, let him gaze to the right and to the left, as if awaiting the mercy of his Lord, the Most Merciful, the Compassionate. Then let him say:":
     "info",
   "Let him then raise his hands in supplication toward God—blessed and exalted be He—and say:":
@@ -32,6 +35,12 @@ const obligatoryLines = {
   "Let him then repeat the Greatest Name thrice, and kneel with his forehead to the ground, and say:":
     "info",
   "Let him then raise his head, and seat himself, and say:": "info",
+  "Let him, then, repeat six times the greeting “Alláh‑u‑Abhá,” and then repeat nineteen times each of the following verses:":
+    "info",
+  "(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc. . . .)":
+    "info",
+  "(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc. . .)":
+    "info",
 };
 
 export const files = {
@@ -101,6 +110,14 @@ export const files = {
         "* * *",
       ],
       ignore: [/^\d+$/, "Selected Mystical Works of Bahá’u’lláh", "* * *"],
+      lines: {
+        "An exposition of the mysteries enshrined in the stages of ascent for them that seek to journey unto God, the Almighty, the Ever‑Forgiving":
+          "info",
+        "In the Name of God, the Merciful, the Compassionate!": "call",
+        "In the name of our Lord, the Most Exalted, the Most High!": "call",
+        "In the name of the peerless and ever‑loving Lord!": "call",
+        "He is the Ever‑Living.": "call",
+      },
       sections: {
         Preface: 1,
         "Rashḥ‑i‑‘Amá": 1,
@@ -178,6 +195,10 @@ export const files = {
       years: [1891, 1891],
       type: "Writings",
       ignore: ["by Bahá’u’lláh", "Translated by Shoghi Effendi"],
+      lines: {
+        "In the name of God, the One, the Incomparable, the All‑Powerful, the All‑Knowing, the All‑Wise.":
+          "call",
+      },
       replace: {
         "this sublime and momentous": "this most sublime and momentous",
         "are rays of one Light": "are the rays of one Light",
@@ -188,10 +209,16 @@ export const files = {
       type: "Writings",
       end: "Notes",
       ignore: ["Javáhiru’l‑Asrár", "by Bahá’u’lláh"],
+      lines: {
+        "The essence of the divine mysteries in the journeys of ascent set forth for those who long to draw nigh unto God, the Almighty, the Ever‑Forgiving—blessed be the righteous that quaff from these crystal streams!":
+          "info",
+        "He is the Exalted, the Most High!": "call",
+      },
       sections: {
         Introduction: 1,
         "Gems of Divine Mysteries": 1,
       },
+      collections: ["Gems of Divine Mysteries"],
     },
     "gleanings-writings-bahaullah": {
       type: "Writings",
@@ -277,6 +304,11 @@ export const files = {
         "* * *",
       ],
       splitBefore: [/^\d+\./],
+      lines: {
+        "In the name of Him Who is the Supreme Ruler over all that hath been and all that is to be":
+          "call",
+        ...obligatoryLines,
+      },
       sections: {
         Preface: 1,
         Introduction: 1,
@@ -367,6 +399,13 @@ export const files = {
       end: "Endnotes",
       splitBefore: ["* * *"],
       ignore: ["Tablets of Bahá’u’lláh", "* * *"],
+      lines: {
+        "He is the Most Wondrous, the All‑Glorious!": "call",
+        "In His name, the All‑Glorious!": "call",
+        "He is in His own Right the Supreme Ruler!": "call",
+        "He is the Most Holy, the Most Glorious!": "call",
+        "He is the Almighty!": "call",
+      },
       sections: {
         Introduction: 1,
         "Súriy‑i‑Haykal": 1,
@@ -388,6 +427,12 @@ export const files = {
       end: "Notes",
       ignore: ["Bahá’u’lláh", /^\d+$/, /^— .* —$/],
       splitBefore: [/^— .* —$/],
+      lines: {
+        "IN THE NAME OF THE ONE TRUE GOD": "call",
+        "IN THE NAME OF THE LORD OF UTTERANCE, THE ALL‑WISE": "call",
+        "THE BEGINNING OF ALL UTTERANCE IS THE PRAISE OF GOD": "call",
+        "THE BEGINNING OF EVERY ACCOUNT IS THE NAME OF GOD": "call",
+      },
       sections: {
         Introduction: 1,
         "Tablet to Mánikchí Ṣáḥib": 1,
@@ -1413,22 +1458,18 @@ export const files = {
       splitAfter: [/^—/, "The period of the Fast is March 2 through March 20."],
       ignore: [
         "A Selection of Prayers Revealed by Bahá’u’lláh, the Báb, and ‘Abdu’l‑Bahá",
-        "To be recited once in twenty‑four hours, at noon",
-        "To be recited daily, in the morning, at noon, and in the evening",
-        "To be recited once in twenty‑four hours",
-        "(This Tablet is read at the Shrines of Bahá’u’lláh and the Báb. It is also frequently used in commemorating Their anniversaries.)",
-        "(This prayer, revealed by ‘Abdu’l‑Bahá, is read at His Shrine. It is also used in private prayer.)",
-        "(The Intercalary Days, February 26 to March 1, inclusive, should be days of preparation for the Fast, days of hospitality, charity, and the giving of presents.)",
         1065,
         1139,
       ],
       lines: {
         ...obligatoryLines,
+        "(This Tablet is read at the Shrines of Bahá’u’lláh and the Báb. It is also frequently used in commemorating Their anniversaries.)":
+          "info",
+        "(This prayer, revealed by ‘Abdu’l‑Bahá, is read at His Shrine. It is also used in private prayer.)":
+          "info",
+        "(The Intercalary Days, February 26 to March 1, inclusive, should be days of preparation for the Fast, days of hospitality, charity, and the giving of presents.)":
+          "info",
         "(The Prayer for the Dead is the only Bahá’í obligatory prayer that is to be recited in congregation; it is to be recited by one believer while all present stand in silence. Bahá’u’lláh has clarified that this prayer is required only when the deceased is over the age of fifteen, that its recital must precede interment, and that there is no requirement to face the Qiblih during its recitation. “Alláh‑u‑Abhá” is said once; then the first of the six verses is recited nineteen times. Then “Alláh‑u‑Abhá” is said again, followed by the second verse, which is recited nineteen times, and so on.)":
-          "info",
-        "Let him, then, repeat six times the greeting “Alláh‑u‑Abhá,” and then repeat nineteen times each of the following verses:":
-          "info",
-        "(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc. . . .)":
           "info",
         "O seeker of Truth! If thou desirest that God may open thine eye, thou must supplicate unto God, pray to and commune with Him at midnight, saying:":
           "info",
