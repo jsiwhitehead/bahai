@@ -75,13 +75,19 @@
               )}
               {doc.sources?.[i] &&
                 <a
+                  size={16}
                   italic
                   align="right"
                   color="blue"
                   underline={hover}
                   link={"/doc/" + doc.sources[i].join('#')}
                 >
-                  ({doc.sources[i].join(', ')})
+                  ({join([
+                    documents[doc.sources[i][0]].author,
+                    ...documents[doc.sources[i][0]].path,
+                    documents[doc.sources[i][0]].title,
+                    doc.sources[i][1] && "para. " + doc.sources[i][1],
+                  ], ", ")})
                 </a>
               }
             </a>

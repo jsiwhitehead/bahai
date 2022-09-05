@@ -54,6 +54,7 @@ history.listen(({ location }) => {
 
 run(
   {
+    join: (arr, join) => (arr || []).filter((x) => x).join(join),
     tick,
     url,
     decodeURIComponent,
@@ -67,7 +68,15 @@ run(
       }),
       {}
     ),
-    library,
+    library: library.map((group) => ({
+      ...group,
+      items: group.items.sort(
+        (a, b) =>
+          documents[a].years[0] +
+          documents[a].years[1] -
+          (documents[b].years[0] + documents[b].years[1])
+      ),
+    })),
     documents,
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()

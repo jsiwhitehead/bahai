@@ -16,7 +16,9 @@
               <a stack={15}>
                 <a size={20} bold {group.title} />
                 {...group.items.map(k=>
-                  <a color="blue" underline={hover} link={"/doc/" + k} {(documents[k]?.title || k) + " »"} />
+                  <a color="blue" underline={hover} link={"/doc/" + k}>
+                    {documents[k].title || k} »
+                  </a>
                 )}
               </a>
             )}

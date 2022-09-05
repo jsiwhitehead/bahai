@@ -101,7 +101,8 @@ export const files = {
   },
   bahaullah: {
     "call-divine-beloved": {
-      years: [1852, 1863],
+      years: (i) => (i === 0 ? [2019, 2019] : [1852, 1863]),
+      author: (i) => i === 0 && "The Universal House of Justice",
       type: "Writings",
       end: "Notes",
       splitBefore: [
@@ -130,7 +131,8 @@ export const files = {
       collections: ["The Call of the Divine Beloved", "Three Other Tablets"],
     },
     "days-remembrance": {
-      years: [1857, 1868],
+      years: (i) => (i == 0 ? [2017, 2017] : [1857, 1868]),
+      author: (i) => i === 0 && "The Universal House of Justice",
       type: "Writings",
       end: "Notes",
       splitBefore: [/^—/],
@@ -205,7 +207,8 @@ export const files = {
       },
     },
     "gems-divine-mysteries": {
-      years: [1857, 1863],
+      years: (i) => (i === 0 ? [2002, 2002] : [1857, 1863]),
+      author: (i) => i === 0 && "The Universal House of Justice",
       type: "Writings",
       end: "Notes",
       ignore: ["Javáhiru’l‑Asrár", "by Bahá’u’lláh"],
@@ -292,7 +295,26 @@ export const files = {
       collections: ["The Hidden Words"],
     },
     "kitab-i-aqdas": {
-      years: [1873, 1873],
+      years: (i) =>
+        ({
+          0: [1992, 1992],
+          1: [1992, 1992],
+          2: [1944, 1944],
+          3: [1873, 1873],
+          4: [1992, 1992],
+          10: [1873, 1873],
+          11: [1973, 1973],
+          12: [1992, 1992],
+        }[i]),
+      author: (i) =>
+        ({
+          0: "The Universal House of Justice",
+          1: "The Universal House of Justice",
+          2: "Shoghi Effendi",
+          4: "The Universal House of Justice",
+          11: "Shoghi Effendi",
+          12: "The Universal House of Justice",
+        }[i]),
       type: "Writings",
       end: "Key to Passages Translated by Shoghi Effendi",
       ignore: [
@@ -331,7 +353,7 @@ export const files = {
       ],
     },
     "kitab-i-iqan": {
-      years: [1862, 1862],
+      years: (i) => (i === 1 ? [1931, 1931] : [1862, 1862]),
       type: "Writings",
       end: "Notes",
       ignore: [
@@ -341,10 +363,12 @@ export const files = {
         /^END/,
         "* * *",
       ],
+      splitBefore: ["* * *"],
       sections: {
+        "": 1,
         Foreword: 1,
-        "Part One": 1,
-        "Part Two": 1,
+        "Part One": 2,
+        "Part Two": 2,
       },
       lines: {
         "IN THE NAME OF OUR LORD, THE EXALTED, THE MOST HIGH.": "call",
@@ -353,6 +377,7 @@ export const files = {
         "Verily He Who is the Daystar of Truth and Revealer of the Supreme Being holdeth, for all time, undisputed sovereignty over all that is in heaven and on earth, though no man be found on earth to obey Him. He verily is independent of all earthly dominion, though He be utterly destitute. Thus We reveal unto thee the mysteries of the Cause of God, and bestow upon thee the gems of divine wisdom, that haply thou mayest soar on the wings of renunciation to those heights that are veiled from the eyes of men.":
           "info",
       },
+      collections: ["The Kitáb‑i‑Íqán"],
       replace: {
         "the Bearers of a new Message": "the Revealers of a new Message",
         "to them the same attribute": "to them the same attributes",
@@ -394,7 +419,8 @@ export const files = {
       },
     },
     "summons-lord-hosts": {
-      years: [1867, 1869],
+      years: (i) => (i === 0 ? [2002, 2002] : [1867, 1869]),
+      author: (i) => i === 0 && "The Universal House of Justice",
       type: "Writings",
       end: "Endnotes",
       splitBefore: ["* * *"],
@@ -422,7 +448,8 @@ export const files = {
       collections: ["The Summons of the Lord of Hosts"],
     },
     "tabernacle-unity": {
-      years: [1870, 1877],
+      years: (i) => (i === 0 ? [2006, 2006] : [1870, 1877]),
+      author: (i) => i === 0 && "The Universal House of Justice",
       type: "Writings",
       end: "Notes",
       ignore: ["Bahá’u’lláh", /^\d+$/, /^— .* —$/],
@@ -1450,6 +1477,7 @@ export const files = {
   prayers: {
     "bahai-prayers": {
       years: [1844, 1921],
+      author: "Bahá’u’lláh",
       type: (i) =>
         [1, 2, 3, 93, 94, 206, 215, 224, 225, 226].includes(i)
           ? "Writings"

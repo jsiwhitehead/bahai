@@ -38,7 +38,7 @@ const authors = {
 // "The Constitution of the Universal House of Justice": [1972, 1972]
 const authorYears = {
   "The Báb": [1844, 1850],
-  "Bahá’u’lláh": [1844, 1850],
+  "Bahá’u’lláh": [1852, 1892],
   "‘Abdu’l‑Bahá": [1875, 1921],
   "Shoghi Effendi": [1922, 1957],
 };
@@ -59,6 +59,7 @@ const process = (
     years,
     title,
     author,
+    baseAuthor,
     type,
     replace,
     splitBefore = [],
@@ -135,15 +136,28 @@ const process = (
   return documents.map(({ path, title, start, end, sections, lines }, i) => {
     const levelBase = Math.min(...sections.map((s) => s.level)) - 1;
     const paras = paragraphs.slice(start, end);
+    const docAuthor = last(paras).startsWith("—")
+      ? paras
+          .pop()
+          .replace(/^—/, "")
+          .replace(/\[\d+\]$/, "")
+          .trim()
+      : (typeof author === "function" ? author(i) : author) || baseAuthor;
+    const docPath = [...new Set(path)];
+    const docTitle =
+      docPath?.length === 1 &&
+      docPath[0] === "The Kitáb‑i‑Íqán" &&
+      paras.length > 1
+        ? docPath.pop()
+        : title;
     return {
-      years: years || authorYears[author],
-      author: (last(paragraphs).startsWith("—") ? paras.pop() : author)
-        .replace(/^—/, "")
-        .replace(/\[\d+\]$/, "")
-        .trim(),
+      years:
+        (typeof years === "function" ? years(i) : years) ||
+        authorYears[docAuthor],
+      author: docAuthor,
       type: typeof type === "string" ? type : type(i),
-      path: notEmpty([...new Set(path)]),
-      title,
+      path: notEmpty(docPath),
+      title: docTitle,
       sections: notEmpty(
         sections.reduce((res, s) => {
           const index = s.start - start;
@@ -180,11 +194,11 @@ const process = (
     await Promise.all(
       Object.keys(files[author]).map(async (file) => {
         const id = `${author}-${file}`;
-        const { start, end, author: infoAuthor, ...info } = files[author][file];
+        const { start, end, ...info } = files[author][file];
         const paras = await readJSON("spellings", id);
         const data = process(sliceParas(paras, start, end), {
-          author: infoAuthor || authors[author],
           ...info,
+          baseAuthor: authors[author],
         });
         allPrayers.push(
           ...data
