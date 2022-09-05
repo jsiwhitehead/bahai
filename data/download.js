@@ -24,6 +24,7 @@ const inline = [
   "sup",
   "sub",
   "cite",
+  "br",
 ];
 
 const fetchHtml = async (url) => {
@@ -38,19 +39,25 @@ const getParagraphs = (root, splitBr) => {
   const paras = [""];
   const walk = (node) => {
     if (node.nodeName === "#text") {
-      paras[paras.length - 1] = paras[paras.length - 1] + node.value;
+      paras[paras.length - 1] += node.value;
+    } else if (node.tagName === "br" && splitBr) {
+      paras[paras.length - 1] += "\n";
+    } else if (node.tagName === "hr") {
+      paras.push("* * *");
     } else if (node.tagName && !["a", "script"].includes(node.tagName)) {
-      if (
-        !(inline.includes(node.tagName) || (node.tagName === "br" && !splitBr))
-      ) {
-        paras.push("");
-      }
-      if (node.tagName === "hr") paras[paras.length - 1] = "* * *";
-      else node.childNodes.forEach((n) => walk(n));
+      if (!inline.includes(node.tagName)) paras.push("");
+      node.childNodes.forEach((n) => walk(n));
     }
   };
   walk(root);
-  return paras.map((p) => p.replace(/\s+/g, " ").trim()).filter((p) => p);
+  return paras
+    .map((p) =>
+      p
+        .replace(/[^\S\n]+/g, " ")
+        .replace(/\s*\n\s*/g, "\n")
+        .trim()
+    )
+    .filter((p) => p);
 };
 
 (async () => {

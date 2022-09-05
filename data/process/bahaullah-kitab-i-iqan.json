@@ -16,33 +16,40 @@
         {
           "level": 1,
           "title": "Part One",
-          "end": 106
+          "end": 104
         }
       ],
-      "106": [
+      "104": [
         {
           "level": 1,
           "title": "Part Two",
-          "end": 295
+          "end": 292
         }
       ]
     },
     "lines": {
-      "0": "first",
-      "2": "first",
-      "4": "call",
-      "5": "info",
-      "6": "first",
-      "106": "info",
-      "107": "first"
+      "4": [
+        {
+          "type": "call",
+          "text": "IN THE NAME OF OUR LORD, THE EXALTED, THE MOST HIGH."
+        },
+        {
+          "type": "info",
+          "text": "No man shall attain the shores of the ocean of true understanding except he be detached from all that is in heaven and on earth. Sanctify your souls, O ye peoples of the world, that haply ye may attain that station which God hath destined for you and enter thus the tabernacle which, according to the dispensations of Providence, hath been raised in the firmament of the Bayán."
+        }
+      ],
+      "104": [
+        {
+          "type": "info",
+          "text": "Verily He Who is the Daystar of Truth and Revealer of the Supreme Being holdeth, for all time, undisputed sovereignty over all that is in heaven and on earth, though no man be found on earth to obey Him. He verily is independent of all earthly dominion, though He be utterly destitute. Thus We reveal unto thee the mysteries of the Cause of God, and bestow upon thee the gems of divine wisdom, that haply thou mayest soar on the wings of renunciation to those heights that are veiled from the eyes of men."
+        }
+      ]
     },
     "paragraphs": [
       "This is the Day in which the testimony of the Lord hath been fulfilled, the Day in which the Word of God hath been made manifest, and His evidence firmly established. His voice is calling you unto that which shall profit you, and enjoineth you to observe that which shall draw you nigh unto God, the Lord of Revelation.",
       "—Bahá’u’lláh",
       "This is one more attempt to introduce to the West, in language however inadequate, this book of unsurpassed preeminence among the writings of the Author of the Bahá’í Revelation. The hope is that it may assist others in their efforts to approach what must always be regarded as the unattainable goal—a befitting rendering of Bahá’u’lláh’s matchless utterance.",
       "—Shoghi",
-      "IN THE NAME OF OUR LORD, THE EXALTED, THE MOST HIGH.",
-      "No man shall attain the shores of the ocean of true understanding except he be detached from all that is in heaven and on earth. Sanctify your souls, O ye peoples of the world, that haply ye may attain that station which God hath destined for you and enter thus the tabernacle which, according to the dispensations of Providence, hath been raised in the firmament of the Bayán.",
       "The essence of these words is this: they that tread the path of faith, they that thirst for the wine of certitude, must cleanse themselves of all that is earthly—their ears from idle talk, their minds from vain imaginings, their hearts from worldly affections, their eyes from that which perisheth. They should put their trust in God, and, holding fast unto Him, follow in His way. Then will they be made worthy of the effulgent glories of the sun of divine knowledge and understanding, and become the recipients of a grace that is infinite and unseen, inasmuch as man can never hope to attain unto the knowledge of the All‑Glorious, can never quaff from the stream of divine knowledge and wisdom, can never enter the abode of immortality, nor partake of the cup of divine nearness and favour, unless and until he ceases to regard the words and deeds of mortal men as a standard for the true understanding and recognition of God and His Prophets.",
       "Consider the past. How many, both high and low, have, at all times, yearningly awaited the advent of the Manifestations of God in the sanctified persons of His chosen Ones. How often have they expected His coming, how frequently have they prayed that the breeze of divine mercy might blow, and the promised Beauty step forth from behind the veil of concealment, and be made manifest to all the world. And whensoever the portals of grace did open, and the clouds of divine bounty did rain upon mankind, and the light of the Unseen did shine above the horizon of celestial might, they all denied Him, and turned away from His face—the face of God Himself. Refer ye, to verify this truth, to that which hath been recorded in every sacred Book.",
       "Ponder for a moment, and reflect upon that which hath been the cause of such denial on the part of those who have searched with such earnestness and longing. Their attack hath been more fierce than tongue or pen can describe. Not one single Manifestation of Holiness hath appeared but He was afflicted by the denials, the repudiation, and the vehement opposition of the people around Him. Thus it hath been revealed: “O the misery of men! No Messenger cometh unto them but they laugh Him to scorn.” Again He saith: “Each nation hath plotted darkly against their Messenger to lay violent hold on Him, and disputed with vain words to invalidate the truth.”",
@@ -143,7 +150,6 @@
       "Dear friend! Now when the light of God’s everlasting Morn is breaking; when the radiance of His holy words: “God is the light of the heavens and of the earth” is shedding illumination upon all mankind; when the inviolability of His tabernacle is being proclaimed by His sacred utterance: “God hath willed to perfect His light”; and the Hand of omnipotence, bearing His testimony: “In His grasp He holdeth the kingdom of all things,” is being outstretched unto all the peoples and kindreds of the earth; it behoveth us to gird up the loins of endeavour, that haply, by the grace and bounty of God, we may enter the celestial City: “Verily, we are God’s,” and abide within the exalted habitation: “And unto Him we do return.” It is incumbent upon thee, by the permission of God, to cleanse the eye of thine heart from the things of the world, that thou mayest realise the infinitude of divine knowledge, and mayest behold Truth so clearly that thou wilt need no proof to demonstrate His reality, nor any evidence to bear witness unto His testimony.",
       "O affectionate seeker! Shouldst thou soar in the holy realm of the spirit, thou wouldst recognise God manifest and exalted above all things, in such wise that thine eyes would behold none else but Him. “God was alone; there was none else besides Him.” So lofty is this station that no testimony can bear it witness, neither evidence do justice to its truth. Wert thou to explore the sacred domain of truth, thou wilt find that all things are known only by the light of His recognition, that He hath ever been, and will continue forever to be, known through Himself. And if thou dwellest in the land of testimony, content thyself with that which He, Himself, hath revealed: “Is it not enough for them that We have sent down unto Thee the Book?” This is the testimony which He, Himself, hath ordained; greater proof than this there is none, nor ever will be: “This proof is His Word; His own Self, the testimony of His truth.”",
       "And now, We beseech the people of the Bayán, all the learned, the sages, the divines, and witnesses amongst them, not to forget the wishes and admonitions revealed in their Book. Let them, at all times, fix their gaze upon the essentials of His Cause, lest when He, Who is the Quintessence of truth, the inmost Reality of all things, the Source of all light, is made manifest, they cling unto certain passages of the Book, and inflict upon Him that which was inflicted in the Dispensation of the Qur’án. For, verily, powerful is He, the King of divine might, to extinguish with one letter of His wondrous words, the breath of life in the whole of the Bayán and the people thereof, and with one letter bestow upon them a new and everlasting life, and cause them to arise and speed out of the sepulchres of their vain and selfish desires. Take heed, and be watchful; and remember that all things have their consummation in belief in Him, in attainment unto His day, and in the realisation of His divine presence. “There is no piety in turning your faces toward the east or toward the west, but he is pious who believeth in God and the Last Day.” Give ear, O people of the Bayán, unto the truth whereunto We have admonished you, that haply ye may seek the shelter of the shadow extended, in the Day of God, upon all mankind.",
-      "Verily He Who is the Daystar of Truth and Revealer of the Supreme Being holdeth, for all time, undisputed sovereignty over all that is in heaven and on earth, though no man be found on earth to obey Him. He verily is independent of all earthly dominion, though He be utterly destitute. Thus We reveal unto thee the mysteries of the Cause of God, and bestow upon thee the gems of divine wisdom, that haply thou mayest soar on the wings of renunciation to those heights that are veiled from the eyes of men.",
       "The significance and essential purpose underlying these words is to reveal and demonstrate unto the pure in heart and the sanctified in spirit that they Who are the Luminaries of truth and the Mirrors reflecting the light of divine Unity, in whatever age and cycle they are sent down from their invisible habitations of ancient glory unto this world, to educate the souls of men and endue with grace all created things, are invariably endowed with an all‑compelling power, and invested with invincible sovereignty. For these hidden Gems, these concealed and invisible Treasures, in themselves manifest and vindicate the reality of these holy words: “Verily God doeth whatsoever He willeth, and ordaineth whatsoever He pleaseth.”",
       "To every discerning and illumined heart it is evident that God, the unknowable Essence, the divine Being, is immensely exalted beyond every human attribute, such as corporeal existence, ascent and descent, egress and regress. Far be it from His glory that human tongue should adequately recount His praise, or that human heart comprehend His fathomless mystery. He is and hath ever been veiled in the ancient eternity of His Essence, and will remain in His Reality everlastingly hidden from the sight of men. “No vision taketh in Him, but He taketh in all vision; He is the Subtile, the All‑Perceiving.” No tie of direct intercourse can possibly bind Him to His creatures. He standeth exalted beyond and above all separation and union, all proximity and remoteness. No sign can indicate His presence or His absence; inasmuch as by a word of His command all that are in heaven and on earth have come to exist, and by His wish, which is the Primal Will itself, all have stepped out of utter nothingness into the realm of being, the world of the visible.",
       "Gracious God! How could there be conceived any existing relationship or possible connection between His Word and they that are created of it? The verse: “God would have you beware of Himself” unmistakably beareth witness to the reality of Our argument, and the words: “God was alone; there was none else besides Him” are a sure testimony of its truth. All the Prophets of God and their chosen Ones, all the divines, the sages, and the wise of every generation, unanimously recognise their inability to attain unto the comprehension of that Quintessence of all truth, and confess their incapacity to grasp Him, Who is the inmost Reality of all things.",

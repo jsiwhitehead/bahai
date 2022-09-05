@@ -1,3 +1,39 @@
+const obligatoryLines = {
+  "Whoso wisheth to pray, let him wash his hands, and while he washeth, let him say:":
+    "info",
+  "And while washing his face, let him say:": "info",
+  "Then let him stand up, and facing the Qiblih (Point of Adoration, i.e., Bahjí, ‘Akká), let him say:":
+    "info",
+  "Let him, then, bend down, with hands resting on the knees, and say:": "info",
+  "Then, standing with open hands, palms upward toward the face, let him say:":
+    "info",
+  "Let him, then, be seated and say:": "info",
+  "(If anyone choose to recite instead of the long verse these words: “God testifieth that there is none other God but Him, the Help in Peril, the Self‑Subsisting,” it would be sufficient. And likewise, it would suffice were he, while seated, to choose to recite these words: “I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.”)":
+    "info",
+  "Whoso wisheth to recite this prayer, let him stand up and turn unto God, and, as he standeth in his place, let him gaze to the right and to the left, as if awaiting the mercy of his Lord, the Most Merciful, the Compassionate. Then let him say:":
+    "info",
+  "Let him then raise his hands in supplication toward God—blessed and exalted be He—and say:":
+    "info",
+  "Let him then kneel, and bowing his forehead to the ground, let him say:":
+    "info",
+  "Let him then stand and say:": "info",
+  "Let him again raise his hands in supplication, and say:": "info",
+  "Let him then raise his hands, and repeat three times the Greatest Name. Let him then bend down with hands resting on the knees before God—blessed and exalted be He—and say:":
+    "info",
+  "Let him then stand and raise his hands twice in supplication, and say:":
+    "info",
+  "Let him then raise his hands thrice, and say:": "info",
+  "Let him then kneel and, bowing his forehead to the ground, say:": "info",
+  "Let him then seat himself and say:": "info",
+  "Let him then stand erect and say:": "info",
+  "Let him then repeat the Greatest Name thrice, and bend down with hands resting on the knees, and say:":
+    "info",
+  "Let him then rise and say:": "info",
+  "Let him then repeat the Greatest Name thrice, and kneel with his forehead to the ground, and say:":
+    "info",
+  "Let him then raise his head, and seat himself, and say:": "info",
+};
+
 export const files = {
   "the-bab": {
     "selections-writings-bab": {
@@ -199,13 +235,6 @@ export const files = {
       years: [1857, 1858],
       type: "Writings",
       splitBr: true,
-      splitBefore: [
-        (p, i) => /^\d+\.$/.test(p) && ![281, 333, 367].includes(i),
-        "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:",
-        "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:",
-        "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:",
-        "* * *",
-      ],
       ignore: [
         /^\d+\.$/,
         "Bahá’u’lláh",
@@ -213,24 +242,27 @@ export const files = {
         /^Last modified:/,
         "* * *",
       ],
-      lines: (i) =>
-        ({
-          92: { 0: "info", 1: "call" },
-          109: { 0: "info", 1: "call" },
-          120: { 0: "info", 1: "call" },
-          155: false,
-        }[i] ?? { 0: "call" }),
+      lines: {
+        "He Is the Glory of Glories": "call",
+        "This is that which hath descended from the realm of glory, uttered by the tongue of power and might, and revealed unto the Prophets of old. We have taken the inner essence thereof and clothed it in the garment of brevity, as a token of grace unto the righteous, that they may stand faithful unto the Covenant of God, may fulfil in their lives His trust, and in the realm of spirit obtain the gem of divine virtue.":
+          "info",
+        "In the Name of the Lord of Utterance, the Mighty.": "info",
+        "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:":
+          "info",
+        "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:":
+          "info",
+        "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:":
+          "info",
+        "The mystic and wondrous Bride, hidden ere this beneath the veiling of utterance, hath now, by the grace of God and His divine favour, been made manifest even as the resplendent light shed by the beauty of the Beloved. I bear witness, O friends! that the favour is complete, the argument fulfilled, the proof manifest and the evidence established. Let it now be seen what your endeavours in the path of detachment will reveal. In this wise hath the divine favour been fully vouchsafed unto you and unto them that are in heaven and on earth. All praise to God, the Lord of all Worlds.":
+          "info",
+      },
       sections: {
         "Part One": 1,
         "From the Arabic": null,
         "Part Two": 1,
         "From the Persian": null,
       },
-      collections: [
-        "The Hidden Words",
-        "Part One: From the Arabic",
-        "Part Two: From the Persian",
-      ],
+      collections: ["The Hidden Words"],
     },
     "kitab-i-aqdas": {
       years: [1873, 1873],
@@ -282,13 +314,13 @@ export const files = {
         "Part One": 1,
         "Part Two": 1,
       },
-      lines: [
-        {
-          4: "call",
-          5: "info",
-          106: "info",
-        },
-      ],
+      lines: {
+        "IN THE NAME OF OUR LORD, THE EXALTED, THE MOST HIGH.": "call",
+        "No man shall attain the shores of the ocean of true understanding except he be detached from all that is in heaven and on earth. Sanctify your souls, O ye peoples of the world, that haply ye may attain that station which God hath destined for you and enter thus the tabernacle which, according to the dispensations of Providence, hath been raised in the firmament of the Bayán.":
+          "info",
+        "Verily He Who is the Daystar of Truth and Revealer of the Supreme Being holdeth, for all time, undisputed sovereignty over all that is in heaven and on earth, though no man be found on earth to obey Him. He verily is independent of all earthly dominion, though He be utterly destitute. Thus We reveal unto thee the mysteries of the Cause of God, and bestow upon thee the gems of divine wisdom, that haply thou mayest soar on the wings of renunciation to those heights that are veiled from the eyes of men.":
+          "info",
+      },
       replace: {
         "the Bearers of a new Message": "the Revealers of a new Message",
         "to them the same attribute": "to them the same attributes",
@@ -455,10 +487,7 @@ export const files = {
         "The Tablet of Visitation.",
         "Prayer for the Dead.",
       ],
-      lines: {
-        181: (i) => i % 2 === 0 && "info",
-        182: (i) => i % 2 === 0 && "info",
-      },
+      lines: obligatoryLines,
       collections: ["Prayers and Meditations"],
       replace: {
         "and to deny them not": "and deny them not",
@@ -1117,16 +1146,14 @@ export const files = {
       ],
       sections: {
         Foreword: 1,
-        "First Period": 1,
-        "The Ministry of the Báb": null,
+        "First Period\nThe Ministry of the Báb": 1,
         "1844—1853": null,
         "The Birth of the Bábí Revelation": 2,
         "The Báb’s Captivity in Ádhirbáyján": 2,
         "Upheavals in Mázindarán, Nayríz and Zanján": 2,
         "The Execution of the Báb": 2,
         "The Attempt on the Life of the Sháh and its Consequences": 2,
-        "Second Period": 1,
-        "The Ministry of Bahá’u’lláh": null,
+        "Second Period\nThe Ministry of Bahá’u’lláh": 1,
         "1853—1892": null,
         "The Birth of the Bahá’í Revelation": 2,
         "Bahá’u’lláh’s Banishment to ‘Iráq": 2,
@@ -1136,8 +1163,7 @@ export const files = {
         "Bahá’u’lláh’s Incarceration in ‘Akká": 2,
         "Bahá’u’lláh’s Incarceration in ‘Akká (Continued)": 2,
         "Ascension of Bahá’u’lláh": 2,
-        "Third Period": 1,
-        "The Ministry of ‘Abdu’l‑Bahá": null,
+        "Third Period\nThe Ministry of ‘Abdu’l‑Bahá": 1,
         "1892—1921": null,
         "The Covenant of Bahá’u’lláh": 2,
         "The Rebellion of Mírzá Muḥammad‑‘Alí": 2,
@@ -1147,10 +1173,7 @@ export const files = {
         "‘Abdu’l‑Bahá’s Travels in Europe and America": 2,
         "Growth and Expansion of the Faith in East and West": 2,
         "The Passing of ‘Abdu’l‑Bahá": 2,
-        "Fourth Period": 1,
-        "The Inception of": null,
-        "the Formative Age": null,
-        "of the Bahá’í Faith": null,
+        "Fourth Period\nThe Inception of\nthe Formative Age\nof the Bahá’í Faith": 1,
         "1921—1944": null,
         "The Rise and Establishment of the Administrative Order": 2,
         "Attacks on Bahá’í Institutions": 2,
@@ -1400,19 +1423,36 @@ export const files = {
         1139,
       ],
       lines: {
-        29: { 0: "info", 3: "info", 10: "info" },
-        51: { 0: "info" },
-        72: { 0: "info" },
-        163: { 0: "info" },
-        164: { 0: "info" },
-        166: { 0: "info" },
-        167: { 0: "info" },
-        168: { 0: "info" },
-        169: { 0: "info" },
-        171: { 0: "info" },
-        221: { 0: "info" },
-        222: { 0: "info" },
-        223: { 0: "info" },
+        ...obligatoryLines,
+        "(The Prayer for the Dead is the only Bahá’í obligatory prayer that is to be recited in congregation; it is to be recited by one believer while all present stand in silence. Bahá’u’lláh has clarified that this prayer is required only when the deceased is over the age of fifteen, that its recital must precede interment, and that there is no requirement to face the Qiblih during its recitation. “Alláh‑u‑Abhá” is said once; then the first of the six verses is recited nineteen times. Then “Alláh‑u‑Abhá” is said again, followed by the second verse, which is recited nineteen times, and so on.)":
+          "info",
+        "Let him, then, repeat six times the greeting “Alláh‑u‑Abhá,” and then repeat nineteen times each of the following verses:":
+          "info",
+        "(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc. . . .)":
+          "info",
+        "O seeker of Truth! If thou desirest that God may open thine eye, thou must supplicate unto God, pray to and commune with Him at midnight, saying:":
+          "info",
+        "Come ye together in gladness unalloyed, and at the beginning of the meeting, recite ye this prayer:":
+          "info",
+        "The following commune is to be read . . . every day:": "info",
+        "The spreaders of the fragrances of God should recite this prayer every morning:":
+          "info",
+        "Every soul who travels through the cities, villages and hamlets of these States and is engaged in the diffusion of the fragrances of God, should peruse this commune every morning:":
+          "info",
+        "Let the spreaders of the fragrances of God recite this prayer every morning:":
+          "info",
+        "Whoever sets out on a teaching journey to any place, let him recite this prayer day and night during his travels in foreign lands.":
+          "info",
+        "Prayer to be said at the close of the meeting of the Spiritual Assembly.":
+          "info",
+        "All the friends of God . . . should contribute to the extent possible, however modest their offering may be. God doth not burden a soul beyond its capacity. Such contributions must come from all centres and all believers. . . . O Friends of God! Be ye assured that in place of these contributions, your agriculture, your industry, and your commerce will be blessed by manifold increases, with goodly gifts and bestowals. He who cometh with one goodly deed will receive a tenfold reward. There is no doubt that the living Lord will abundantly confirm those who expend their wealth in His path.":
+          "info",
+        "Whenever ye enter the council‑chamber, recite this prayer with a heart throbbing with the love of God and a tongue purified from all but His remembrance, that the All‑Powerful may graciously aid you to achieve supreme victory.":
+          "info",
+        "The following supplication is to be read by the teachers and friends daily:":
+          "info",
+        "Let whosoever travels to different parts to teach, peruse over mountain, desert, land and sea this supplication.":
+          "info",
       },
       sections: {
         "Obligatory Prayers": 1,

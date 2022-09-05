@@ -76,7 +76,7 @@ const process = (
     for (const p of parts) {
       if (p.end === undefined && p.level >= level) p.end = paragraphs.length;
     }
-    parts.push({ level, title, start: paragraphs.length });
+    parts.push({ level, title, start: paragraphs.length, lines: {} });
   };
   const colls = [...collections];
   const checkCollection = () => {
@@ -99,7 +99,14 @@ const process = (
       const splitLevel =
         sections[""] || last(parts).level + (last(parts).title ? 1 : 0);
       if (test(splitBefore, s, i)) addPart(splitLevel);
-      if (!test(ignore, s, i)) paragraphs.push(s);
+      if (lines?.[s])
+        last(parts).lines[paragraphs.length] = [
+          ...(last(parts).lines[paragraphs.length] || []),
+          { type: lines[s], text: s },
+        ];
+      else if (!test(ignore, s, i)) {
+        paragraphs.push(s);
+      }
       if (test(splitAfter, s, i)) addPart(splitLevel);
     }
   });
@@ -117,21 +124,15 @@ const process = (
     } else if (p.level === path.length) {
       documents.push({ path, ...p, sections: [] });
     } else {
-      last(documents).sections.push(p);
+      const { lines: pLines, ...rest } = p;
+      last(documents).sections.push(rest);
+      last(documents).lines = { ...last(documents).lines, ...pLines };
     }
   }
 
-  return documents.map(({ path, title, start, end, sections }, i) => {
+  return documents.map(({ path, title, start, end, sections, lines }, i) => {
     const levelBase = Math.min(...sections.map((s) => s.level)) - 1;
     const paras = paragraphs.slice(start, end);
-    const docLines = typeof lines === "function" ? lines(i) : lines?.[i];
-    const paraLines =
-      typeof docLines === "function"
-        ? paras.reduce(
-            (res, _, j) => ({ ...res, [j]: docLines(j) || undefined }),
-            {}
-          )
-        : docLines;
     return {
       years: years || authorYears[author],
       author: (last(paragraphs).startsWith("—") ? paras.pop() : author)
@@ -150,22 +151,20 @@ const process = (
               ...(res[index] || []),
               {
                 level: s.level - levelBase,
-                title: s.title,
+                title: s.title
+                  ?.replace("Period\n", "Period: ")
+                  .replace(/\n/g, " "),
                 end: Math.min(s.end - start, paras.length),
               },
             ],
           };
         }, {})
       ),
-      lines: {
-        ...(paraLines || {}),
-        ...[{ start: 0 }, ...sections].reduce((res, s) => {
-          const first =
-            s.start +
-            paras.slice(s.start).findIndex((_, i) => !paraLines?.[s.start + i]);
-          return { ...res, [first]: "first" };
-        }, {}),
-      },
+      lines: notEmpty(
+        Object.keys(lines || {})
+          .map((k) => parseInt(k, 10))
+          .reduce((res, i) => ({ ...res, [i - start]: lines[i] }), {})
+      ),
       paragraphs: paras,
     };
   });
@@ -233,10 +232,7 @@ const process = (
       if (p) {
         p.path = p.path || a.path;
         p.title = p.title || a.title;
-        p.lines =
-          Object.keys(p.lines).length >= Object.keys(a.lines).length
-            ? p.lines
-            : a.lines;
+        p.lines = p.lines || a.lines;
       }
       return !p;
     })

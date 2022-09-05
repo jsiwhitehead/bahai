@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { prettify, readJSON, simplifyText } from "./utils.js";
+import { prettify, readJSON, simplifyText, writeJSON } from "./utils.js";
 
 const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
 
@@ -48,14 +48,14 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
       ...doc.paragraphs.map((text, i) => ({
         years: doc.years,
         id: doc.id,
-        para: i,
+        para: i + 1,
         text: simplifyText(text),
       })),
-      {
-        years: doc.years,
-        id: doc.id,
-        text: simplifyText(doc.paragraphs.join(" ")),
-      },
+      // {
+      //   years: doc.years,
+      //   id: doc.id,
+      //   text: simplifyText(doc.paragraphs.join(" ")),
+      // },
     ])
   );
 
@@ -71,7 +71,7 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
             simplified.every((s) => p.text.includes(s))
         );
         if (source) {
-          sources[i] = [source.id, source.para].filter((x) => x !== undefined);
+          sources[i] = [source.id, source.para].filter((x) => x);
         }
       }
     });
@@ -89,5 +89,10 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
       "json"
     ),
     "utf-8"
+  );
+
+  await fs.promises.copyFile(
+    "./data/process/prayers.json",
+    "./src/data/prayers.json"
   );
 })();
