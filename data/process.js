@@ -4,11 +4,17 @@ import { files } from "./sources.js";
 import {
   getMessageTo,
   getYearsFromId,
+  last,
   readJSON,
   replaceInText,
   simplifyText,
   writeJSON,
 } from "./utils.js";
+
+const notEmpty = (x) => {
+  if (Array.isArray(x)) return x.length > 0 ? x : undefined;
+  return Object.keys(x).length > 0 ? x : undefined;
+};
 
 const test = (options, value, index) =>
   options.some((x) => {
@@ -59,125 +65,102 @@ const process = (
     splitAfter = [],
     ignore = [],
     lines,
-    sections: sectionsInfo = {},
+    sections = {},
     collections = [],
   }
 ) => {
-  const items = [[]];
-  const addItem = () => {
-    if (items[items.length - 1].length > 0) items.push([]);
-    if (sectionsInfo[""]) {
-      for (const s of sections) {
-        if (!s.end && s.level >= sectionsInfo[""]) s.end = items.length - 1;
-      }
+  const replaced = paras.map((p) => replaceInText(p, replace || {}));
+  const paragraphs = [];
+  const parts = [{ level: 0, title: title ? title : replaced[0], start: 0 }];
+  const addPart = (level, title) => {
+    for (const p of parts) {
+      if (p.end === undefined && p.level >= level) p.end = paragraphs.length;
+    }
+    parts.push({ level, title, start: paragraphs.length });
+  };
+  const colls = [...collections];
+  const checkCollection = () => {
+    if (colls.includes(last(parts).title)) {
+      colls.shift();
+      addPart(last(parts).level + 1);
     }
   };
-  const replaced = paras.map((p) => replaceInText(p, replace || {}));
-  const sections = [{ title: title ? title : replaced[0], level: 0, start: 0 }];
-  replaced.slice(title ? 0 : 1).forEach((p, i) => {
-    if (
-      (sectionsInfo[p] === null || p === sections[sections.length - 1].title) &&
-      items[items.length - 1].length === 0 &&
-      sections[sections.length - 1].start === items.length - 1
-    ) {
-      if (sectionsInfo[p] === null) {
-        const prev = sections[sections.length - 1].title;
-        sections[sections.length - 1].title +=
-          (p[0] === "(" || prev[prev.length - 1] === ":" ? " " : ": ") + p;
-      }
-    } else if (sectionsInfo[p]) {
-      addItem();
-      for (const s of sections) {
-        if (!s.end && s.level >= sectionsInfo[p]) s.end = items.length - 1;
-      }
-      sections.push({
-        title: p,
-        level: sectionsInfo[p],
-        start: items.length - 1,
-      });
+  checkCollection();
+  replaced.slice(title ? 0 : 1).forEach((s, i) => {
+    if (sections[s] === null && last(parts).start === paragraphs.length) {
+      const prev = last(parts).title;
+      last(parts).title +=
+        (s[0] === "(" || last(prev || "") === ":" ? " " : ": ") + s;
+      checkCollection();
+    } else if (sections[s]) {
+      addPart(sections[s], s);
+      checkCollection();
     } else {
-      if (test(splitBefore, p, i)) addItem();
-      if (!test(ignore, p, i)) items[items.length - 1].push(p);
-      if (test(splitAfter, p, i)) addItem();
+      const splitLevel =
+        sections[""] || last(parts).level + (last(parts).title ? 1 : 0);
+      if (test(splitBefore, s, i)) addPart(splitLevel);
+      if (!test(ignore, s, i)) paragraphs.push(s);
+      if (test(splitAfter, s, i)) addPart(splitLevel);
     }
   });
-  if (items[items.length - 1].length === 0) items.pop();
-  for (const s of sections) {
-    if (!s.end) s.end = items.length;
+  for (const p of parts) {
+    if (p.end === undefined) p.end = paragraphs.length;
   }
 
   let path = [];
-  let j = 0;
-  let base = 0;
   const documents = [];
-  items.forEach((item, i) => {
-    if (sections[j]?.start !== i) {
-      if (
-        !documents[documents.length - 1].title ||
-        sectionsInfo[""] === path.length
-      ) {
-        documents.push({ path, sections: [], items: [] });
-        base = i;
-      }
+  for (const p of parts.filter((p) => p.start < p.end)) {
+    if (p.level < path.length) path = path.slice(0, p.level);
+    if (collections.includes(p.title)) {
+      collections.shift();
+      path = [...path, p.title];
+    } else if (p.level === path.length) {
+      documents.push({ path, ...p, sections: [] });
+    } else {
+      last(documents).sections.push(p);
     }
-    while (sections[j]?.start === i) {
-      const s = sections[j];
-      if (s.level < path.length) path = path.slice(0, s.level);
-      if (collections.includes(s.title)) {
-        collections.shift();
-        path = [...path, s.title];
-        documents.push({ path, sections: [], items: [] });
-        base = i;
-      } else if (s.level === path.length) {
-        documents.push({ path, title: s.title, sections: [], items: [] });
-        base = i;
-      } else {
-        documents[documents.length - 1].sections.push({
-          title: s.title,
-          level: s.level,
-          start: s.start - base,
-          end: s.end - base,
-        });
-      }
-      j++;
-    }
-    documents[documents.length - 1].items.push(item);
-  });
+  }
 
-  return documents
-    .filter((d) => d.items.length > 0)
-    .map((d, i) => {
-      const docLines = typeof lines === "function" ? lines(i) : lines?.[i];
-      return {
-        years: years || authorYears[author],
-        author,
-        type: typeof type === "string" ? type : type(i),
-        ...d,
-        sections: d.sections.reduce((res, s) => ({ ...res, [s.start]: s }), {}),
-        items: d.items.map((paras, j) => {
-          const author = paras[paras.length - 1].startsWith("—")
-            ? paras.pop()
-            : undefined;
-          const itemLines =
-            typeof docLines === "function" ? docLines(j) : docLines?.[j];
-          const paraLines =
-            typeof itemLines === "function"
-              ? paras.reduce(
-                  (res, _, k) => ({ ...res, [k]: itemLines(k) || undefined }),
-                  {}
-                )
-              : itemLines;
+  return documents.map(({ path, title, start, end, sections }, i) => {
+    const levelBase = Math.min(...sections.map((s) => s.level)) - 1;
+    const paras = paragraphs.slice(start, end);
+    const docLines = typeof lines === "function" ? lines(i) : lines?.[i];
+    const paraLines =
+      typeof docLines === "function"
+        ? paras.reduce(
+            (res, _, j) => ({ ...res, [j]: docLines(j) || undefined }),
+            {}
+          )
+        : docLines;
+    return {
+      years: years || authorYears[author],
+      author: (last(paragraphs).startsWith("—") ? paras.pop() : author)
+        .replace(/^—/, "")
+        .replace(/\[\d+\]$/, "")
+        .trim(),
+      type: typeof type === "string" ? type : type(i),
+      path: notEmpty([...new Set(path)]),
+      title,
+      sections: notEmpty(
+        sections.reduce((res, s) => {
+          const index = s.start - start;
           return {
-            author: author
-              ?.replace(/^—/, "")
-              .replace(/\[\d+\]$/, "")
-              .trim(),
-            lines: paraLines || undefined,
-            paragraphs: paras,
+            ...res,
+            [index]: [
+              ...(res[index] || []),
+              {
+                level: s.level - levelBase,
+                title: s.title,
+                end: Math.min(s.end - start, paras.length),
+              },
+            ],
           };
-        }),
-      };
-    });
+        }, {})
+      ),
+      lines: paraLines || undefined,
+      paragraphs: paras,
+    };
+  });
 };
 
 (async () => {
@@ -197,11 +180,12 @@ const process = (
         allPrayers.push(
           ...data
             .filter((d) => d.type === "Prayer")
-            .map((prayer) => {
-              const { author, lines, paragraphs } = prayer.items[0];
-              const path =
-                prayer.path?.[0] === "Bahá’í Prayers"
-                  ? prayer.path.filter(
+            .map(({ author, path, title, lines, paragraphs }) => ({
+              years: authorYears[author],
+              author,
+              path: notEmpty(
+                path?.[0] === "Bahá’í Prayers"
+                  ? path.filter(
                       (s) =>
                         ![
                           "Bahá’í Prayers",
@@ -210,18 +194,14 @@ const process = (
                           "Special Tablets",
                         ].some((x) => s.includes(x))
                     )
-                  : [];
-              return {
-                years: authorYears[author || prayer.author],
-                author: author || prayer.author,
-                path: path.length > 0 ? path : undefined,
-                title: prayer.title,
-                lines,
-                paragraphs,
-                simplified: simplifyText(paragraphs.join(" ")),
-                length: paragraphs.join(" ").length,
-              };
-            })
+                  : []
+              ),
+              title,
+              lines,
+              paragraphs,
+              simplified: simplifyText(paragraphs.join(" ")),
+              length: paragraphs.join(" ").length,
+            }))
         );
         const nonPrayers = data.filter((d) => d.type !== "Prayer");
         if (nonPrayers.length > 0) {
@@ -259,17 +239,15 @@ const process = (
     "process",
     "the-universal-house-of-justice-messages",
     messages.map(({ id, title, summary, addressee, paragraphs }) => ({
-      years: getYearsFromId(id),
-      author: "The Universal House of Justice",
-      type: "Letter",
-      title: title.startsWith("Riḍván")
-        ? `${summary} ${getMessageTo(addressee)}`
-        : `Letter dated ${title} ${getMessageTo(addressee)}`,
       summary,
-      items: process(sliceParas(paragraphs), {
+      ...process(sliceParas(paragraphs), {
+        years: getYearsFromId(id),
         type: "Letter",
-        title: "Letter",
-      })[0].items,
+        author: "The Universal House of Justice",
+        title: title.startsWith("Riḍván")
+          ? `${summary} ${getMessageTo(addressee)}`
+          : `Letter dated ${title} ${getMessageTo(addressee)}`,
+      })[0],
     }))
   );
 })();

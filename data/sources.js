@@ -215,11 +215,11 @@ export const files = {
       ],
       lines: (i) =>
         ({
-          92: [{ 0: "info", 1: "call" }],
-          109: [{ 0: "info", 1: "call" }],
-          120: [{ 0: "info", 1: "call" }],
+          92: { 0: "info", 1: "call" },
+          109: { 0: "info", 1: "call" },
+          120: { 0: "info", 1: "call" },
           155: false,
-        }[i] ?? [{ 0: "call" }]),
+        }[i] ?? { 0: "call" }),
       sections: {
         "Part One": 1,
         "From the Arabic": null,
@@ -284,8 +284,9 @@ export const files = {
       },
       lines: [
         {
-          2: { 0: "call", 1: "info" },
-          3: { 0: "info" },
+          4: "call",
+          5: "info",
+          106: "info",
         },
       ],
       replace: {
@@ -455,8 +456,8 @@ export const files = {
         "Prayer for the Dead.",
       ],
       lines: {
-        181: [(i) => i % 2 === 0 && "info"],
-        182: [(i) => i % 2 === 0 && "info"],
+        181: (i) => i % 2 === 0 && "info",
+        182: (i) => i % 2 === 0 && "info",
       },
       collections: ["Prayers and Meditations"],
       replace: {
@@ -1399,19 +1400,19 @@ export const files = {
         1139,
       ],
       lines: {
-        29: [{ 0: "info", 3: "info", 10: "info" }],
-        51: [{ 0: "info" }],
-        72: [{ 0: "info" }],
-        163: [{ 0: "info" }],
-        164: [{ 0: "info" }],
-        166: [{ 0: "info" }],
-        167: [{ 0: "info" }],
-        168: [{ 0: "info" }],
-        169: [{ 0: "info" }],
-        171: [{ 0: "info" }],
-        221: [{ 0: "info" }],
-        222: [{ 0: "info" }],
-        223: [{ 0: "info" }],
+        29: { 0: "info", 3: "info", 10: "info" },
+        51: { 0: "info" },
+        72: { 0: "info" },
+        163: { 0: "info" },
+        164: { 0: "info" },
+        166: { 0: "info" },
+        167: { 0: "info" },
+        168: { 0: "info" },
+        169: { 0: "info" },
+        171: { 0: "info" },
+        221: { 0: "info" },
+        222: { 0: "info" },
+        223: { 0: "info" },
       },
       sections: {
         "Obligatory Prayers": 1,

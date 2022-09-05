@@ -29,12 +29,10 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
 
   const bahaullahDocs = documents
     .filter((d) => d.author === "Bahá’u’lláh")
-    .map((doc) =>
-      simplifyText(flatten(doc.items.map((item) => item.paragraphs)).join(" "))
-    );
+    .map((doc) => simplifyText(doc.paragraphs.join(" ")));
   for (const doc of gleanings) {
     const docParas = flatten(
-      doc.items[0].paragraphs.map((text) =>
+      doc.paragraphs.map((text) =>
         text.split(/\. \. \./g).map((s) => simplifyText(s))
       )
     );
@@ -46,48 +44,38 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
 
   documents.sort((a, b) => (a.years[0] || 0) - (b.years[0] || 0));
   const paragraphs = flatten(
-    documents.map((doc) =>
-      flatten(
-        doc.items.map((item, i) => [
-          ...item.paragraphs.map((text, j) => ({
-            years: doc.years,
-            id: doc.id,
-            item: i,
-            para: j,
-            text: simplifyText(text),
-          })),
-          {
-            years: doc.years,
-            id: doc.id,
-            item: i,
-            text: simplifyText(item.paragraphs.join(" ")),
-          },
-        ])
-      )
-    )
+    documents.map((doc) => [
+      ...doc.paragraphs.map((text, i) => ({
+        years: doc.years,
+        id: doc.id,
+        para: i,
+        text: simplifyText(text),
+      })),
+      {
+        years: doc.years,
+        id: doc.id,
+        text: simplifyText(doc.paragraphs.join(" ")),
+      },
+    ])
   );
 
   for (const doc of documents) {
-    doc.items.forEach((item) => {
-      const sources = {};
-      item.paragraphs.forEach((text, j) => {
-        if (text.length >= 100) {
-          const simplified = text
-            .split(/\. \. \./g)
-            .map((s) => simplifyText(s));
-          const source = paragraphs.find(
-            (p) =>
-              p.id !== doc.id &&
-              p.years[0] <= doc.years[1] &&
-              simplified.every((s) => p.text.includes(s))
-          );
-          if (source) {
-            sources[j] = [source.id, source.item, source.para].filter((x) => x);
-          }
+    const sources = {};
+    doc.paragraphs.forEach((text, i) => {
+      if (text.length >= 100) {
+        const simplified = text.split(/\. \. \./g).map((s) => simplifyText(s));
+        const source = paragraphs.find(
+          (p) =>
+            p.id !== doc.id &&
+            p.years[0] <= doc.years[1] &&
+            simplified.every((s) => p.text.includes(s))
+        );
+        if (source) {
+          sources[i] = [source.id, source.para].filter((x) => x);
         }
-      });
-      if (Object.keys(sources).length > 0) item.sources = sources;
+      }
     });
+    if (Object.keys(sources).length > 0) doc.sources = sources;
   }
 
   await fs.promises.writeFile(
