@@ -73,7 +73,10 @@ const updateNode = (node, data) => {
           {}
         );
       const props = { ...values, ...setters };
-      for (const key in props) next[key] = props[key];
+      for (const key in props) {
+        if (props[key] === null || props[key] === undefined) delete next[key];
+        else next[key] = props[key];
+      }
 
       const styles = resolve(dataStyle);
       const style = Object.keys(styles)

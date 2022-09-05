@@ -44,6 +44,11 @@ const history = createBrowserHistory();
 const url = atom(history.location.pathname.split(/\//g).filter((x) => x));
 history.listen(({ location }) => {
   url.set(location.pathname.split(/\//g).filter((x) => x));
+  if (location.hash) {
+    setTimeout(() => {
+      document.getElementById(location.hash)!.scrollIntoView();
+    });
+  }
 });
 
 run(
@@ -54,9 +59,10 @@ run(
     collections: categories.reduce(
       (res, { category, reader }, i) => ({
         ...res,
-        [category]: [...(res[category] || []), { ...prayers[i], reader }].sort(
-          (a, b) => a.length - b.length
-        ),
+        [category]: [
+          ...(res[category] || []),
+          { type: "Prayer", ...prayers[i], reader },
+        ].sort((a, b) => a.length - b.length),
       }),
       {}
     ),

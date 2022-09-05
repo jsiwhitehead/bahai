@@ -1,4 +1,4 @@
-(doc)=>
+(doc, index)=>
   (
     color: colors.link[doc.author],
     <a
@@ -14,13 +14,15 @@
               {...doc.sections[i].map(s=><a>{s.title}</a>)}
             </a>
           }
-          <a style={{ position: "relative" }}>
-            <a
-              color="#999"
-              align="center"
-              style={{ position: "absolute", top: 0, left: "-80px", width: "50px" }}
-              {i + 1}
-            />
+          <a id={i} style={{ position: "relative" }}>
+            {(index === undefined || i === 0) &&
+              <a
+                color="#999"
+                align="center"
+                style={{ position: "absolute", top: 0, left: "-80px", width: "50px" }}
+                {(index ?? i) + 1}
+              />
+            }
             <a stack={15}>
               {(
                 doc.lines?.[i] === "first" ?
@@ -53,12 +55,20 @@
                     {text}
                   />
                 : doc.sources?.[i] ?
-                  <a size={17} pad={[0, 20]} style={{ clear: "both" }} {text} />
+                  <a size={17} pad={{ left: 20 }} style={{ clear: "both" }} {text} />
                 :
                   <a size={17} indent={20} style={{ clear: "both" }} {text} />
               )}
               {doc.sources?.[i] &&
-                <a italic align="right">({doc.sources[i].join(', ')})</a>
+                <a
+                  italic
+                  align="right"
+                  color="blue"
+                  underline={hover}
+                  link={"/" + doc.sources[i].join('#')}
+                >
+                  ({doc.sources[i].join(', ')})
+                </a>
               }
             </a>
           </a>

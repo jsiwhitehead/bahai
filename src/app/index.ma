@@ -75,7 +75,7 @@
                 <a size={40} bold underline {name} />
                 <a color="blue" underline={hover} link="/" "« Back" />
               </a>
-              {...collection.map(renderItem)}
+              {...collection.map(renderDoc)}
             />
           )
         :

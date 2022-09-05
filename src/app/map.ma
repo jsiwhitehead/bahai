@@ -54,11 +54,11 @@
           <a {...y} size={y.size || size} line={y.line || line} {...context} />
         )),
     span ?
-      <span style={style} {...events}>{...content}</span>
+      <span id={id} style={style} {...events}>{...content}</span>
     : input ?
       (
         val: value,
-        <div style={style} {...events}>
+        <div id={id} style={style} {...events}>
           <div style={{ padding: "1px 0", min-height: px(size) }}>
             <div style={{ margin-top: px(-gap), margin-bottom: px(-gap) }}>
               <select style={{ height: px(lineHeight) }} val::{oninput && oninput.target.value}>
@@ -84,9 +84,9 @@
         :
           content,
       link ?
-        <a style={style} {...events} href={link} {...inner} />
+        <a id={id} style={style} {...events} href={link} {...inner} />
       :
-        <div style={style} {...events} href={link} {...inner} />
+        <div id={id} style={style} {...events} href={link} {...inner} />
     )
   ),
   map,
