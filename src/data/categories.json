@@ -357,7 +357,11 @@
   { "index": 271, "category": "Forgiveness and Healing" },
   { "index": 272, "category": "Praise and Glorification" },
   { "index": 273, "category": "Forgiveness and Healing" },
-  { "index": 274, "category": "Forgiveness and Healing" },
+  {
+    "index": 274,
+    "category": "Forgiveness and Healing",
+    "reader": "To be read for a woman"
+  },
   { "index": 275, "category": "Individual Growth" },
   { "index": 276, "category": "Advancing the Cause" },
   { "index": 277, "category": "Individual Growth" },

@@ -80,7 +80,14 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
 
   await fs.promises.writeFile(
     `./src/data/documents.json`,
-    prettify(JSON.stringify(documents, null, 2), "json"),
+    prettify(
+      JSON.stringify(
+        documents.reduce((res, { id, ...d }) => ({ ...res, [id]: d }), {}),
+        null,
+        2
+      ),
+      "json"
+    ),
     "utf-8"
   );
 })();

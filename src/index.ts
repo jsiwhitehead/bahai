@@ -6,6 +6,7 @@ import run, { atom, resolve } from "reactivejs";
 import render from "./render";
 
 import categories from "./data/categories.json";
+import library from "./data/library.json";
 import prayers from "./data/prayers.json";
 import documents from "./data/documents.json";
 
@@ -66,6 +67,7 @@ run(
       }),
       {}
     ),
+    library,
     documents,
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()

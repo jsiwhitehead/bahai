@@ -9,87 +9,92 @@
       style={{ max-width: "700px", margin: "0 auto" }}
       {
         url.length === 0 ?
-          <a stack={50}>
+          <a stack={60}>
             <a size={40} bold underline "Bahá’í Library" />
+            <a color="blue" underline={hover} link="/prayers" "Prayers »" />
+            {...library.map(group=>
+              <a stack={15}>
+                <a size={20} bold {group.title} />
+                {...group.items.map(k=>
+                  <a color="blue" underline={hover} link={"/doc/" + k} {k + " »"} />
+                )}
+              </a>
+            )}
+          </a>
+        : url[0]=== "prayers" && !url[1] ?
+          <a stack={60}>
+            <a stack={20}>
+              <a color="blue" underline={hover} link="/" "« Back" />
+              <a size={40} bold underline align="center" "Bahá’í Prayers" />
+            </a>
             <a
               stack={40}
-              <a color="blue" underline={hover} link="/hidden-words" {"The Hidden Words" + " »"} />
-              <a color="blue" underline={hover} link={"/collection/" + "Learning"} {"Learning" + " »"} />
               <a stack={15}
                 <a size={20} bold "Praise" />
                 {...["Praise and Glorification", "Draw Hearts to Thee"].map(k=>
-                  <a color="blue" underline={hover} link={"/collection/" + k} {k + " »"} />
+                  <a color="blue" underline={hover} link={"/prayers/" + k} {k + " »"} />
                 )}
               />
               <a stack={15}
                 <a size={20} bold "Individual" />
                 {...["Individual Growth", "Service and Teaching"].map(k=>
-                  <a color="blue" underline={hover} link={"/collection/" + k} {k + " »"} />
+                  <a color="blue" underline={hover} link={"/prayers/" + k} {k + " »"} />
                 )}
               />
               <a stack={15}
                 <a size={20} bold "Community" />
                 {...["Collective Growth", "Advancing the Cause"].map(k=>
-                  <a color="blue" underline={hover} link={"/collection/" + k} {k + " »"} />
+                  <a color="blue" underline={hover} link={"/prayers/" + k} {k + " »"} />
                 )}
               />
               <a stack={15}
                 <a size={20} bold "Assistance" />
                 {...["Forgiveness and Healing", "Tests and Difficulties"].map(k=>
-                  <a color="blue" underline={hover} link={"/collection/" + k} {k + " »"} />
+                  <a color="blue" underline={hover} link={"/prayers/" + k} {k + " »"} />
                 )}
               />
               <a stack={15}
                 <a size={20} bold "People" />
                 {...["Children and Youth", "Babies and Infants", "Marriage", "Departed"].map(k=>
-                  <a color="blue" underline={hover} link={"/collection/" + k} {k + " »"} />
+                  <a color="blue" underline={hover} link={"/prayers/" + k} {k + " »"} />
                 )}
               />
               <a stack={15}
                 <a size={20} bold "Occasion" />
                 {...["Gathering", "Morning", "Evening", "Calendar", "The Fast"].map(k=>
-                  <a color="blue" underline={hover} link={"/collection/" + k} {k + " »"} />
+                  <a color="blue" underline={hover} link={"/prayers/" + k} {k + " »"} />
                 )}
               />
               <a stack={15}
                 <a size={20} bold "Special" />
                 {...["Obligatory Prayers", "Special", "Government", "Narrative"].map(k=>
-                  <a color="blue" underline={hover} link={"/collection/" + k} {k + " »"} />
-                )}
-              />
-              <a stack={15}
-                <a size={20} bold "Ruhi" />
-                {...["Children’s Classes: Prayers for Children", "Children’s Classes: Prayers for Teachers", "Glimmerings of Hope"].map(k=>
-                  <a color="blue" underline={hover} link={"/collection/" + k} {k + " »"} />
+                  <a color="blue" underline={hover} link={"/prayers/" + k} {k + " »"} />
                 )}
               />
             />
           </a>
-        : url[0]=== "collection" ?
+        : url[0]=== "prayers" && url[1] ?
           (
             name: decodeURIComponent(url[1]),
             collection: collections[name],
             <a
               stack={60}
               <a stack={20}>
-                <a size={40} bold underline {name} />
-                <a color="blue" underline={hover} link="/" "« Back" />
+                <a color="blue" underline={hover} link="/prayers" "« Back" />
+                <a size={40} bold underline align="center" {name} />
               </a>
-              {...collection.map(renderDoc)}
+              {...collection.map(render)}
             />
           )
         :
-          (
-            doc: documents.find(d=> d.id === url[0]),
-            <a
-              stack={60}
-              <a stack={20}>
-                <a color="blue" underline={hover} link="/" "« Back" />
-                <a size={40} bold underline align="center" {doc.title} />
-              </a>
-              {renderDoc(doc)}
-            />
-          )
+          <a
+            stack={60}
+            <a stack={20}>
+              <a color="blue" underline={hover} link="/" "« Back" />
+              <a size={40} bold underline align="center" {documents[url[1]].title} />
+            </a>
+            {render(documents[url[1]])}
+          />
       }
     />
   )

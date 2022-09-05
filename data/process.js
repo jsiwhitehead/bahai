@@ -161,7 +161,8 @@ const process = (
         ...(paraLines || {}),
         ...[{ start: 0 }, ...sections].reduce((res, s) => {
           const first =
-            s.start + paras.slice(s.start).findIndex((_, i) => !paraLines?.[i]);
+            s.start +
+            paras.slice(s.start).findIndex((_, i) => !paraLines?.[s.start + i]);
           return { ...res, [first]: "first" };
         }, {}),
       },
@@ -232,6 +233,10 @@ const process = (
       if (p) {
         p.path = p.path || a.path;
         p.title = p.title || a.title;
+        p.lines =
+          Object.keys(p.lines).length >= Object.keys(a.lines).length
+            ? p.lines
+            : a.lines;
       }
       return !p;
     })

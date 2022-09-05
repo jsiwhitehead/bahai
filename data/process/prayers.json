@@ -5364,7 +5364,14 @@
     "path": ["Obligatory Prayers"],
     "title": "Medium Obligatory Prayer",
     "lines": {
-      "0": "first"
+      "0": "info",
+      "1": "first",
+      "2": "info",
+      "4": "info",
+      "6": "info",
+      "8": "info",
+      "10": "info",
+      "12": "info"
     },
     "paragraphs": [
       "Whoso wisheth to pray, let him wash his hands, and while he washeth, let him say:",
