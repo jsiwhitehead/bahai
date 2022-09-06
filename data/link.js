@@ -14,6 +14,7 @@ const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
     ...d,
   }));
   const gleanings = [];
+  const selections = [];
   for (const author of Object.keys(files)) {
     await Promise.all(
       Object.keys(files[author]).map(async (file) => {
@@ -21,6 +22,8 @@ const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
         const docs = (await readJSON("process", id)) || [];
         if (id === "bahaullah-gleanings-writings-bahaullah") {
           gleanings.push(...docs.map((d, i) => ({ id: getId(id, i), ...d })));
+        } else if (id === "abdul-baha-selections-writings-abdul-baha") {
+          selections.push(...docs.map((d, i) => ({ id: getId(id, i), ...d })));
         } else {
           documents.push(...docs.map((d, i) => ({ id: getId(id, i), ...d })));
         }
@@ -38,6 +41,21 @@ const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
       )
     );
     const source = bahaullahDocs.some((text) =>
+      docParas.every((p) => text.includes(p))
+    );
+    if (!source) documents.push(doc);
+  }
+
+  const abdulbahaDocs = documents
+    .filter((d) => d.author === "‘Abdu’l‑Bahá")
+    .map((doc) => simplifyText(doc.paragraphs.join(" ")));
+  for (const doc of selections) {
+    const docParas = flatten(
+      doc.paragraphs.map((text) =>
+        text.split(/\. \. \./g).map((s) => simplifyText(s))
+      )
+    );
+    const source = abdulbahaDocs.some((text) =>
       docParas.every((p) => text.includes(p))
     );
     if (!source) documents.push(doc);

@@ -550,10 +550,6 @@ export const files = {
         "and to deny them not": "and deny them not",
         "what Thou hadst commanded": "what Thou hast commanded",
         "Lord of the worlds and the Desire": "Lord of the world and the Desire",
-        "Thy Love and Thy remembrance": "Thy love and Thy remembrance",
-        "Great Name through Which Thou": "Great Name through which Thou",
-        "by the Manifestation of Thy Name": "by the Manifestation of Thy name",
-        "in the ways of Thy good‑pleasure": "in the ways of Thy good pleasure",
       },
     },
     "additional-prayers-revealed-bahaullah": {
