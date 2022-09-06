@@ -1,15 +1,16 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { prettify, readJSON, simplifyText, writeJSON } from "./utils.js";
+import { prettify, readJSON, simplifyText } from "./utils.js";
 
 const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
+const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
 
 (async () => {
   const documents = (
     await readJSON("process", "the-universal-house-of-justice-messages")
   ).map((d, i) => ({
-    id: `the-universal-house-of-justice-messages-${i}`,
+    id: getId("the-universal-house-of-justice-messages", i),
     ...d,
   }));
   const gleanings = [];
@@ -19,9 +20,9 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
         const id = `${author}-${file}`;
         const docs = (await readJSON("process", id)) || [];
         if (id === "bahaullah-gleanings-writings-bahaullah") {
-          gleanings.push(...docs.map((d, i) => ({ id: `${id}-${i}`, ...d })));
+          gleanings.push(...docs.map((d, i) => ({ id: getId(id, i), ...d })));
         } else {
-          documents.push(...docs.map((d, i) => ({ id: `${id}-${i}`, ...d })));
+          documents.push(...docs.map((d, i) => ({ id: getId(id, i), ...d })));
         }
       })
     );
@@ -42,7 +43,9 @@ const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
     if (!source) documents.push(doc);
   }
 
-  documents.sort((a, b) => (a.years[0] || 0) - (b.years[0] || 0));
+  documents.sort(
+    (a, b) => (a.years[0] || 0) - (b.years[0] || 0) || a.id.localeCompare(b.id)
+  );
   const paragraphs = flatten(
     documents.map((doc) => [
       ...doc.paragraphs.map((text, i) => ({

@@ -5,6 +5,9 @@ export const simplifyText = (s) =>
   s
     .replace(/\([^\)]*\)/g, "")
     .replace(/\[[^\]]*\]/g, "")
+    .replace(/\bye\b/gi, "you")
+    .replace(/\byea\b/gi, "yes")
+    .replace(/\bnay\b/gi, "no")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/\W/g, "")
