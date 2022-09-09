@@ -3,7 +3,7 @@
     "years": [1992, 1992],
     "author": "The Universal House of Justice",
     "type": "Writings",
-    "path": ["The Kitáb‑i‑Aqdas"],
+    "path": ["The Most Holy Book"],
     "title": "Preface",
     "paragraphs": [
       "In 1953 Shoghi Effendi, the Guardian of the Bahá’í Faith, included as one of the goals of his Ten Year Plan the preparation of a Synopsis and Codification of the Laws and Ordinances of the Kitáb‑i‑Aqdas as an essential prelude to its translation. He himself worked on the codification, but had not finished it when he died in 1957. The task was continued on the basis of his work, and the resulting volume was released in 1973. That publication included, in addition to the Synopsis and Codification itself and explanatory notes, a compilation of the passages from the Kitáb‑i‑Aqdas which had already been translated by Shoghi Effendi and published in various books. The Synopsis and Codification covered the text of both the Kitáb‑i‑Aqdas and the Questions and Answers which constitutes an appendix to the Aqdas. In 1986 the Universal House of Justice decided that the time had come when the preparation of an English translation of the complete text of the Most Holy Book was both possible and essential and made its accomplishment a goal of the Six Year Plan 1986—1992. Its publication in English will be followed by translations in other languages.",
@@ -19,7 +19,7 @@
     "years": [1992, 1992],
     "author": "The Universal House of Justice",
     "type": "Writings",
-    "path": ["The Kitáb‑i‑Aqdas"],
+    "path": ["The Most Holy Book"],
     "title": "Introduction",
     "paragraphs": [
       "This year, the 149th of the Bahá’í era, marks the Centenary of the Ascension of Bahá’u’lláh, Bearer of the universal Revelation of God destined to lead humanity to its collective coming of age. That this occasion should be observed by a community of believers representing a cross‑section of the entire human race and established, in the course of a century and a half, in the most remote corners of the globe, is a token of the forces of unity released by Bahá’u’lláh’s advent. A further testimony to the operation of these same forces can be seen in the extent to which Bahá’u’lláh’s vision has prefigured contemporary human experience in so many of its aspects. It is a propitious moment for the publication of this first authorised translation into English of the Mother Book of His Revelation, His “Most Holy Book,” the Book in which He sets forth the Laws of God for a Dispensation destined to endure for no less than a thousand years.",
@@ -58,7 +58,7 @@
     "years": [1944, 1944],
     "author": "Shoghi Effendi",
     "type": "Writings",
-    "path": ["The Kitáb‑i‑Aqdas"],
+    "path": ["The Most Holy Book"],
     "title": "A Description of the Kitáb‑i‑Aqdas by Shoghi Effendi",
     "paragraphs": [
       "Taken from God Passes By, his history of the first Bahá’í century",
@@ -75,8 +75,9 @@
     "years": [1873, 1873],
     "author": "Bahá’u’lláh",
     "type": "Writings",
-    "path": ["The Kitáb‑i‑Aqdas"],
-    "title": "The Kitáb‑i‑Aqdas",
+    "path": ["The Most Holy Book"],
+    "title": "The Most Holy Book",
+    "translated": "Kitáb‑i‑Aqdas",
     "lines": {
       "0": [
         {
@@ -283,7 +284,7 @@
     "author": "The Universal House of Justice",
     "type": "Writings",
     "path": [
-      "The Kitáb‑i‑Aqdas",
+      "The Most Holy Book",
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
     "paragraphs": [
@@ -295,10 +296,11 @@
     "author": "Bahá’u’lláh",
     "type": "Writings",
     "path": [
-      "The Kitáb‑i‑Aqdas",
+      "The Most Holy Book",
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
-    "title": "The Tablet of Ishráqát: The Eighth Ishráq",
+    "title": "Splendours",
+    "translated": "Ishráqát",
     "paragraphs": [
       "This passage, now written by the Pen of Glory, is accounted as part of the Most Holy Book: The men of God’s House of Justice have been charged with the affairs of the people. They, in truth, are the Trustees of God among His servants and the daysprings of authority in His countries.",
       "O people of God! That which traineth the world is Justice, for it is upheld by two pillars, reward and punishment. These two pillars are the sources of life to the world. Inasmuch as for each day there is a new problem and for every problem an expedient solution, such affairs should be referred to the House of Justice that the members thereof may act according to the needs and requirements of the time. They that, for the sake of God, arise to serve His Cause, are the recipients of divine inspiration from the unseen Kingdom. It is incumbent upon all to be obedient unto them. All matters of State should be referred to the House of Justice, but acts of worship must be observed according to that which God hath revealed in His Book.",
@@ -310,7 +312,7 @@
     "author": "Bahá’u’lláh",
     "type": "Writings",
     "path": [
-      "The Kitáb‑i‑Aqdas",
+      "The Most Holy Book",
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
     "title": "Long Obligatory Prayer",
@@ -433,7 +435,7 @@
     "author": "Bahá’u’lláh",
     "type": "Writings",
     "path": [
-      "The Kitáb‑i‑Aqdas",
+      "The Most Holy Book",
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
     "title": "Medium Obligatory Prayer",
@@ -494,7 +496,7 @@
     "author": "Bahá’u’lláh",
     "type": "Writings",
     "path": [
-      "The Kitáb‑i‑Aqdas",
+      "The Most Holy Book",
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
     "title": "Short Obligatory Prayer",
@@ -516,7 +518,7 @@
     "author": "Bahá’u’lláh",
     "type": "Writings",
     "path": [
-      "The Kitáb‑i‑Aqdas",
+      "The Most Holy Book",
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
     "title": "Prayer for the Dead",
@@ -544,7 +546,7 @@
     "years": [1873, 1873],
     "author": "Bahá’u’lláh",
     "type": "Writings",
-    "path": ["The Kitáb‑i‑Aqdas"],
+    "path": ["The Most Holy Book"],
     "title": "Questions and Answers",
     "sections": {
       "0": [
@@ -1407,7 +1409,7 @@
     "years": [1973, 1973],
     "author": "Shoghi Effendi",
     "type": "Writings",
-    "path": ["The Kitáb‑i‑Aqdas"],
+    "path": ["The Most Holy Book"],
     "title": "Synopsis and Codification of the Laws and Ordinances of the Kitáb‑i‑Aqdas",
     "sections": {
       "112": [
@@ -1793,7 +1795,7 @@
     "years": [1992, 1992],
     "author": "The Universal House of Justice",
     "type": "Writings",
-    "path": ["The Kitáb‑i‑Aqdas"],
+    "path": ["The Most Holy Book"],
     "title": "Notes",
     "sections": {
       "0": [

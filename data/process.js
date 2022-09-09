@@ -43,6 +43,83 @@ const authorYears = {
   "Shoghi Effendi": [1922, 1957],
 };
 
+const titleTranslations = {
+  "Qayyúmu’l‑Asmá’": "Commentary on the Súrih of Joseph",
+  "Persian Bayán": "Persian Utterance",
+  "Dalá’il‑i‑Sab‘ih": "Seven Proofs",
+  "Kitáb‑i‑Asmá’": "Book of Names",
+  "Rashḥ‑i‑‘Amá": "The Clouds of the Realms Above",
+  "Ḥúr‑i‑‘Ujáb": "Tablet of the Wondrous Maiden",
+  "Lawḥ‑i‑‘Áshiq va Ma‘shúq": "Tablet of the Lover and the Beloved",
+  "Súriy‑i‑Qalam": "Tablet of the Pen",
+  "Lawḥ‑i‑Náqús": "Tablet of the Bell",
+  "Lawḥ‑i‑Ghulámu’l‑Khuld": "Tablet of the Immortal Youth",
+  "Súriy‑i‑Ghuṣn": "Tablet of the Branch",
+  "Lawḥ‑i‑Rasúl": "Tablet to Rasúl",
+  "Lawḥ‑i‑Maryam": "Tablet to Maryam",
+  "Kitáb‑i‑‘Ahd": "Book of the Covenant",
+  "Súriy‑i‑Nuṣḥ": "Tablet of Counsel",
+  "Súriy‑i‑Múlúk": "Tablet of the Kings",
+  "Lawḥ‑i‑Salmán I": "Tablet to Salmán I",
+  "Súriy‑i‑Dhikr": "Tablet of Remembrance",
+  "Súriy‑i‑Aḥzán": "Tablet of Sorrows",
+  "Lawḥ‑i‑Mawlúd": "Tablet of the Birth",
+  "Javáhiru’l‑Asrár": "Gems of Divine Mysteries",
+  "Kitáb‑i‑Íqán": "The Book of Certitude",
+  "Súriy‑i‑Haykal": "Tablet of the Temple",
+  "Súriy‑i‑Ra’ís": "Tablet of the Chief",
+  "Lawḥ‑i‑Ra’ís": "Tablet of the Chief",
+  "Lawḥ‑i‑Fu’ád": "Tablet of Fu’ád Páshá",
+  "Súriy‑i‑Múlúk": "Tablet of Kings",
+  "Lawḥ‑i‑Mánikchí‑Ṣáḥib": "Tablet to Mánikchí Ṣáḥib",
+  "Lawḥ‑i‑Haft Pursish": "Tablet of the Seven Questions",
+  "Lawḥ‑i‑Karmil": "Tablet of Carmel",
+  "Lawḥ‑i‑Aqdas": "The Most Holy Tablet",
+  Bishárát: "Glad‑Tidings",
+  Ṭarázát: "Ornaments",
+  Tajallíyát: "Effulgences",
+  "Kalimát‑i‑Firdawsíyyih": "Words of Paradise",
+  "Lawḥ‑i‑Dunyá": "Tablet of the World",
+  Ishráqát: "Splendours",
+  "Lawḥ‑i‑Ḥikmat": "Tablet of Wisdom",
+  "Aṣl‑i‑Kullu’l‑Khayr": "Words of Wisdom",
+  "Lawḥ‑i‑Maqṣúd": "Tablet of Maqṣúd",
+  "Súriy‑i‑Vafá": "Tablet to Vafá",
+  "Lawḥ‑i‑Síyyid‑i‑Mihdíy‑i‑Dahají": "Tablet to Siyyid Mihdíy‑i‑Dahají",
+  "Lawḥ‑i‑Burhán": "Tablet of the Proof",
+  "Kitáb‑i‑‘Ahd": "Book of the Covenant",
+  "Lawḥ‑i‑Arḍ‑i‑Bá": "Tablet of the Land of Bá",
+};
+const getTitle = (title) => {
+  if (title === "The Kitáb‑i‑Aqdas") {
+    return { title: "The Most Holy Book", translated: "Kitáb‑i‑Aqdas" };
+  }
+  for (const translated of Object.keys(titleTranslations)) {
+    if (
+      title?.includes(translated) ||
+      title?.includes(titleTranslations[translated])
+    ) {
+      if (title.toLowerCase().includes("excerpts")) {
+        return {
+          title: `Excerpts from the ${titleTranslations[translated]}`,
+          translated,
+        };
+      } else if (title.toLowerCase().includes("excerpt")) {
+        return {
+          title: `Excerpt from the ${titleTranslations[translated]}`,
+          translated,
+        };
+      } else {
+        return {
+          title: titleTranslations[translated],
+          translated,
+        };
+      }
+    }
+  }
+  return { title };
+};
+
 const sliceParas = (
   paras,
   start,
@@ -156,8 +233,8 @@ const process = (
         authorYears[docAuthor],
       author: docAuthor,
       type: typeof type === "string" ? type : type(i),
-      path: notEmpty(docPath),
-      title: docTitle,
+      path: notEmpty(docPath)?.map((t) => getTitle(t).title),
+      ...getTitle(docTitle),
       sections: notEmpty(
         sections.reduce((res, s) => {
           const index = s.start - start;
