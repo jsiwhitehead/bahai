@@ -2,6 +2,7 @@ import fs from "fs-extra";
 
 import { files } from "./sources.js";
 import {
+  capitalise,
   getMessageTo,
   getYearsFromId,
   last,
@@ -43,6 +44,15 @@ const authorYears = {
   "Shoghi Effendi": [1922, 1957],
 };
 
+const titleReplaces = {
+  "The Promised Day is Come": "The Promised Day Is Come",
+  "THE INSTITUTION OF THE COUNSELLORS": "The Institution of the Counsellors",
+  INTRODUCTION: "Introduction",
+  "INTERNATIONAL AND CONTINENTAL COUNSELLORS AND THE AUXILIARY BOARDS":
+    "International and Continental Counsellors and the Auxiliary Boards",
+  "SOME SPECIFIC ASPECTS OF THE FUNCTIONING OF THE INSTITUTION":
+    "Some Specific Aspects of the Functioning of the Institution",
+};
 const titleTranslations = {
   "Qayyúmu’l‑Asmá’": "Commentary on the Súrih of Joseph",
   "Persian Bayán": "Persian Utterance",
@@ -91,6 +101,7 @@ const titleTranslations = {
   "Lawḥ‑i‑Arḍ‑i‑Bá": "Tablet of the Land of Bá",
 };
 const getTitle = (title) => {
+  if (titleReplaces[title]) return { title: titleReplaces[title] };
   if (title === "The Kitáb‑i‑Aqdas") {
     return { title: "The Most Holy Book", translated: "Kitáb‑i‑Aqdas" };
   }
@@ -244,9 +255,9 @@ const process = (
               ...(res[index] || []),
               {
                 level: s.level - levelBase,
-                title: s.title
-                  ?.replace("Period\n", "Period: ")
-                  .replace(/\n/g, " "),
+                title:
+                  titleReplaces[s.title] ||
+                  s.title?.replace("Period\n", "Period: ").replace(/\n/g, " "),
                 end: Math.min(s.end - start, paras.length),
               },
             ],
@@ -355,10 +366,11 @@ const process = (
         years: getYearsFromId(id),
         type: "Letter",
         author: "The Universal House of Justice",
-        title: title.startsWith("Riḍván")
-          ? `${summary} ${getMessageTo(addressee)}`
-          : `Letter dated ${title} ${getMessageTo(addressee)}`,
+        title: "A",
       })[0],
+      title: title.startsWith("Riḍván")
+        ? `${summary} ${getMessageTo(addressee)}`
+        : `Letter dated ${title} ${getMessageTo(addressee)}`,
     }))
   );
 })();

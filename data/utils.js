@@ -1,6 +1,11 @@
 import fs from "fs-extra";
 import * as prettier from "prettier";
 
+export const capitalise = (s) =>
+  ["‘", "“"].includes(s[0])
+    ? s.slice(0, 2).toUpperCase() + s.slice(2)
+    : s.slice(0, 1).toUpperCase() + s.slice(1);
+
 export const simplifyText = (s) =>
   s
     .replace(/\([^\)]*\)/g, "")
@@ -22,62 +27,6 @@ export const replaceInText = (text, replace) =>
 export const intersects = (a, b) => a.some((x) => b.includes(x));
 
 export const last = (x) => x[x.length - 1];
-
-// const ignoreTitle = [
-//   "the",
-//   "and",
-//   "upon",
-//   "him",
-//   "far",
-//   "towards",
-//   "toward",
-//   "for",
-//   "without",
-//   "between",
-//   "before",
-//   "after",
-//   "across",
-//   "against",
-//   "through",
-//   "near",
-//   "about",
-//   "but",
-//   "within",
-//   "into",
-//   "unto",
-//   "yet",
-//   "those",
-//   "who",
-//   "are",
-//   "not",
-//   "that",
-//   "evening",
-//   "morning",
-//   "afternoon",
-//   "with",
-//   "from",
-//   "shúq",
-//   "its",
-//   "lláh",
-//   "lláhu",
-// ];
-// export const titleCase = (str) =>
-//   (/[a-z]/.test(str.replace(/\([^)]+\)/g, "")) ? str : str.toLowerCase())
-//     .split(/([ \(\)‑—‘’,:])/g)
-//     .map((s) => (/^[ivxIVX]+$/.test(s) ? s.toUpperCase() : s))
-//     .map((s) =>
-//       /[^ \(\)‑—‘’,:]/.test(s) &&
-//       !ignoreTitle.includes(s) &&
-//       (s.length > 2 || s === "ad")
-//         ? capitalise(s)
-//         : s
-//     )
-//     .join("")
-//     .split(/([(:—] ?)/g)
-//     .map((s) => (/[^(:— ]/.test(s) ? capitalise(s) : s))
-//     .join("")
-//     .replace(/‑I‑/g, "‑i‑")
-//     .replace(/\([IVX]+\)/g, (m) => m.toLowerCase());
 
 export const prettify = (s, format) => prettier.format(s, { parser: format });
 

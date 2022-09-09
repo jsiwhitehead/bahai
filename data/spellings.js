@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { writeJSON } from "./utils.js";
+import { capitalise, writeJSON } from "./utils.js";
 
 import spellingsBase from "./spellings.json" assert { type: "json" };
 
@@ -19,8 +19,6 @@ import spellingsBase from "./spellings.json" assert { type: "json" };
 
 const flatten = (arrs) => arrs.reduce((res, a) => [...res, ...a], []);
 const merge = (objs) => objs.reduce((res, o) => ({ ...res, ...o }), {});
-
-const capitalise = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
 const spellings = {
   ...spellingsBase.main,
