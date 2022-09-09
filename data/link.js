@@ -25,7 +25,21 @@ const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
         } else if (id === "abdul-baha-selections-writings-abdul-baha") {
           selections.push(...docs.map((d, i) => ({ id: getId(id, i), ...d })));
         } else {
-          documents.push(...docs.map((d, i) => ({ id: getId(id, i), ...d })));
+          documents.push(
+            ...docs
+              .map((d, i) => ({ id: getId(id, i), ...d }))
+              .filter(
+                (d) =>
+                  !d.path?.includes(
+                    "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
+                  ) &&
+                  ![
+                    "bahaullah-days-remembrance-032",
+                    "bahaullah-days-remembrance-036",
+                    "bahaullah-tablets-bahaullah-017",
+                  ].includes(d.id)
+              )
+          );
         }
       })
     );
@@ -67,6 +81,7 @@ const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
   const paragraphs = flatten(
     documents.map((doc) => [
       ...doc.paragraphs.map((text, i) => ({
+        author: doc.author,
         years: doc.years,
         id: doc.id,
         para: i + 1,
@@ -75,6 +90,7 @@ const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
       ...flatten(
         Object.keys(doc.lines || {}).map((k) =>
           doc.lines[k].map((line) => ({
+            author: doc.author,
             years: doc.years,
             id: doc.id,
             text: simplifyText(line.text),
@@ -82,6 +98,7 @@ const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
         )
       ),
       {
+        author: doc.author,
         years: doc.years,
         id: doc.id,
         text: simplifyText(doc.paragraphs.join(" ")),
@@ -97,6 +114,8 @@ const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
         const source = paragraphs.find(
           (p) =>
             p.id !== doc.id &&
+            (p.author !== doc.author ||
+              doc.author === "The Universal House of Justice") &&
             p.years[0] <= doc.years[1] &&
             simplified.every((s) => p.text.includes(s))
         );

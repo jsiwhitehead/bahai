@@ -1288,7 +1288,8 @@ export const files = {
       collections: ["This Decisive Hour"],
     },
     "world-order-bahaullah": {
-      years: [1938, 1938],
+      years: (i) => (i === 0 ? [1873, 1873] : [1938, 1938]),
+      author: (i) => i === 0 && "Bahá’u’lláh",
       type: "Writings",
       end: "Notes",
       ignore: [
