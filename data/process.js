@@ -45,6 +45,14 @@ const authorYears = {
 };
 
 const titleReplaces = {
+  "Talks ‘Abdu’l‑Bahá Delivered in Boston":
+    "Talks ‘Abdu’l‑Bahá Delivered in Boston: 23‑25 July 1912",
+  "Talks ‘Abdu’l‑Bahá Delivered in Boston and Malden":
+    "Talks ‘Abdu’l‑Bahá Delivered in Boston and Malden: 23‑25 July 1912",
+  "Talk ‘Abdu’l‑Bahá Delivered in Minneapolis":
+    "Talk ‘Abdu’l‑Bahá Delivered in Minneapolis: 20 September 1912",
+  "Talk ‘Abdu’l‑Bahá Delivered in St. Paul":
+    "Talk ‘Abdu’l‑Bahá Delivered in St. Paul: 20 September 1912",
   "The Promised Day is Come": "The Promised Day Is Come",
   "THE INSTITUTION OF THE COUNSELLORS": "The Institution of the Counsellors",
   INTRODUCTION: "Introduction",
@@ -183,6 +191,7 @@ const process = (
       last(parts).title +=
         (s[0] === "(" || last(prev || "") === ":" ? " " : ": ") + s;
       checkCollection();
+      delete sections[s];
     } else if (sections[s]) {
       addPart(sections[s], s);
       checkCollection();
