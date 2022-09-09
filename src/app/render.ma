@@ -34,7 +34,7 @@
             </a>
           }
           {...(doc.lines?.[i] || []).map((line, j)=>
-            renderLine(line, i === 0 || doc.sections?.[i])
+            renderLine(line, i === 0 || doc.sections?.[i] || doc.path?.[0] === "The Hidden Words")
           )}
           <a id={i + 1} style={{ position: "relative" }}>
             {(index === null || i === 0) &&
@@ -81,12 +81,12 @@
                   color={colors.link[documents[doc.sources[i][0]].author]}
                   underline={hover}
                   link={"/doc/" + doc.sources[i].join('#')}
+                  style={{ width: '75%', margin: '0 0 0 auto' }}
                 >
                   ({join([
                     documents[doc.sources[i][0]].author,
                     ...documents[doc.sources[i][0]].path,
                     documents[doc.sources[i][0]].title,
-                    doc.sources[i][1] && "para. " + doc.sources[i][1],
                   ], ", ")})
                 </a>
               }

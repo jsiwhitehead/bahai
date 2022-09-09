@@ -6,7 +6,7 @@
       font="PT Serif"
       color="#333"
       pad={50}
-      style={{ max-width: "700px", margin: "0 auto" }}
+      style={{ max-width: "720px", margin: "0 auto" }}
       {
         url.length === 0 ?
           <a stack={60}>

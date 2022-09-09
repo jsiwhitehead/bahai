@@ -33,6 +33,7 @@
         :
           px(pad),
       background: fill,
+      display: span ? 'inline' : 'block',
     },
     events: <a
       hover::{onmouseenter && true}
