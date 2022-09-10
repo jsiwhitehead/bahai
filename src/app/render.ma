@@ -36,7 +36,7 @@
           {...(doc.lines?.[i] || []).map((line, j)=>
             renderLine(line, i === 0 || doc.sections?.[i] || doc.path?.[0] === "The Hidden Words")
           )}
-          <a id={i + 1} style={{ position: "relative" }}>
+          <a id={i} style={{ position: "relative" }}>
             {(index === null || i === 0) &&
               <a
                 color="#888"
@@ -73,20 +73,29 @@
                 :
                   <a size={17} indent={20} style={{ clear: "both" }} {text} />
               )}
+              {doc.sources?.[i]?.chunks &&
+                <a size={17} color="red" pad={{ left: 20 }} bold
+                  {join(doc.sources?.[i]?.chunks.map(c=>(
+                    source: doc.sources[i].source,
+                    para: documents[source[0]].paragraphs[source[1]],
+                    para?.slice?.(c[0], c[1])
+                  )), " . . . ").trim()}
+                />
+              }
               {doc.sources?.[i] &&
                 <a
                   size={16}
                   italic
                   align="right"
-                  color={colors.link[documents[doc.sources[i][0]].author]}
+                  color={colors.link[documents[doc.sources[i].source[0]].author]}
                   underline={hover}
-                  link={"/doc/" + doc.sources[i].join('#')}
+                  link={"/doc/" + doc.sources[i].source.join('#')}
                   style={{ width: '75%', margin: '0 0 0 auto' }}
                 >
                   ({join([
-                    documents[doc.sources[i][0]].author,
-                    ...documents[doc.sources[i][0]].path,
-                    documents[doc.sources[i][0]].title,
+                    documents[doc.sources[i].source[0]].author,
+                    ...documents[doc.sources[i].source[0]].path,
+                    documents[doc.sources[i].source[0]].title,
                   ], ", ")})
                 </a>
               }
