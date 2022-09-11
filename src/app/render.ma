@@ -36,7 +36,7 @@
           {...(doc.lines?.[i] || []).map((line, j)=>
             renderLine(line, i === 0 || doc.sections?.[i] || doc.path?.[0] === "The Hidden Words")
           )}
-          <a id={i} style={{ position: "relative" }}>
+          <a id={i + 1} style={{ position: "relative" }}>
             {(index === null || i === 0) &&
               <a
                 color="#888"
@@ -75,10 +75,11 @@
           </a>
           {...(doc.quotes?.[i] || []).map(quote=>
             <a stack={15}>
-              <a size={17} color="red" pad={{ left: 20 }} bold
-                {join(quote.parts.map(part=>
-                  documents[quote.id].paragraphs[part.paragraph].slice(part.start, part.end)
-                ), " . . . ").trim()}
+              <a size={17} color="black" pad={{ left: 20 }} bold
+                {join(quote.parts.map((part, i)=>
+                  type(part) === "string" ? part :
+                    documents[quote.id].paragraphs[part.paragraph].slice(part.start, part.end)
+                ), " ")}
               />
               <a
                 size={16}
@@ -86,14 +87,16 @@
                 align="right"
                 color={colors.link[documents[quote.id].author]}
                 underline={hover}
-                link={"/doc/" + quote.id}
+                link={"/doc/" + quote.id + "#" + (quote.paragraphs[0] + 1)}
                 style={{ width: '75%', margin: '0 0 0 auto' }}
               >
                 ({join([
                   documents[quote.id].author,
                   ...documents[quote.id].path,
                   documents[quote.id].title,
-                ], ", ")})
+                  (quote.paragraphs.length === 1 ? "para " : "paras ") +
+                    join(quote.paragraphs.map(p => p + 1), ", "),
+                ].filter(x => x), ", ")})
               </a>
             </a>
           )}

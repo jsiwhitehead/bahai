@@ -6,18 +6,10 @@ export const notEmpty = (x) => {
   return Object.keys(x).length > 0 ? x : undefined;
 };
 
-const capitalise = (s) =>
-  ["‘", "“"].includes(s[0])
-    ? s.slice(0, 2).toUpperCase() + s.slice(2)
-    : s.slice(0, 1).toUpperCase() + s.slice(1);
-
 export const simplifyText = (s) =>
   s
     .replace(/\([^\)]*\)/g, "")
     .replace(/\[[^\]]*\]/g, "")
-    .replace(/\bye\b/gi, "you")
-    .replace(/\byea\b/gi, "yes")
-    .replace(/\bnay\b/gi, "no")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/\W/g, "")

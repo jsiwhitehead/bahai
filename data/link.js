@@ -21,7 +21,7 @@ const getMappedIndices = (s) => {
     id: "the-universal-house-of-justice-messages-" + `${i}`.padStart(3, "0"),
     ...d,
     paragraphs: d.paragraphs.map((text) => {
-      const parts = text.split(/\s*\. \. \.\s*/g);
+      const parts = text.split(/\s*(\. \. \.|\[[^\]]*\])\s*/g);
       return { text, parts, simplified: parts.map((s) => simplifyText(s)) };
     }),
   }));
@@ -35,7 +35,7 @@ const getMappedIndices = (s) => {
           id: id + "-" + `${i}`.padStart(3, "0"),
           ...d,
           paragraphs: d.paragraphs.map((text) => {
-            const parts = text.split(/\s*\. \. \.\s*/g);
+            const parts = text.split(/\s*(\. \. \.|\[[^\]]*\])\s*/g);
             return {
               text,
               parts,
@@ -132,56 +132,66 @@ const getMappedIndices = (s) => {
       const allPara = source.paragraphs.findIndex((p) =>
         simplified.every((s) => p.simplified.some((t) => t.includes(s)))
       );
+      const quoteParts = simplified
+        .map((s, i) => {
+          if (i % 2 === 1) return parts[i];
+          if (s === "") return "";
+          const para =
+            allPara !== -1
+              ? allPara
+              : source.paragraphs.findIndex((p) =>
+                  p.simplified.some((t) => t.includes(s))
+                );
+          const sourcePara = source.paragraphs[para];
+          if (sourcePara.text.includes(parts[i])) {
+            const start = sourcePara.text.indexOf(parts[i]);
+            return {
+              paragraph: para,
+              start,
+              end: start + parts[i].length,
+            };
+          }
+          if (s === sourcePara.simplified.join("")) {
+            return {
+              paragraph: para,
+              start: 0,
+              end: sourcePara.text.length,
+            };
+          }
+          sourcePara.indices =
+            sourcePara.indices || getMappedIndices(sourcePara.text);
+          const start = sourcePara.simplified.join("").indexOf(s);
+          const startIndices = sourcePara.indices[start];
+          const endIndices = [
+            ...sourcePara.indices[start + s.length],
+          ].reverse();
+          return {
+            paragraph: para,
+            start:
+              startIndices.find((j) => sourcePara.text[j] === parts[i][0]) ??
+              startIndices.find((j) => !/^\W+ /.test(sourcePara.text.slice(j))),
+            end:
+              endIndices.find(
+                (j) => sourcePara.text[j - 1] === last(parts[i])
+              ) ??
+              endIndices.find(
+                (j) => !/ \W+$/.test(sourcePara.text.slice(0, j))
+              ),
+          };
+        })
+        .filter((s) => s);
       result[index] = [
         ...(result[index] || []),
         {
           id: source.id,
-          parts: simplified.map((s, i) => {
-            const para =
-              allPara !== -1
-                ? allPara
-                : source.paragraphs.findIndex((p) =>
-                    p.simplified.some((t) => t.includes(s))
-                  );
-            const sourcePara = source.paragraphs[para];
-            if (sourcePara.text.includes(parts[i])) {
-              const start = sourcePara.text.indexOf(parts[i]);
-              return {
-                paragraph: para,
-                start,
-                end: start + parts[i].length,
-              };
-            }
-            if (s === sourcePara.simplified.join("")) {
-              return {
-                paragraph: para,
-                start: 0,
-                end: sourcePara.text.length,
-              };
-            }
-            sourcePara.indices =
-              sourcePara.indices || getMappedIndices(sourcePara.text);
-            const start = sourcePara.simplified.join("").indexOf(s);
-            const startIndices = sourcePara.indices[start];
-            const endIndices = [
-              ...sourcePara.indices[start + s.length],
-            ].reverse();
-            return {
-              paragraph: para,
-              start:
-                startIndices.find((j) => sourcePara.text[j] === parts[i][0]) ??
-                startIndices.find(
-                  (j) => !/^\W+ /.test(sourcePara.text.slice(j))
-                ),
-              end:
-                endIndices.find(
-                  (j) => sourcePara.text[j - 1] === last(parts[i])
-                ) ??
-                endIndices.find(
-                  (j) => !/ \W+$/.test(sourcePara.text.slice(0, j))
-                ),
-            };
-          }),
+          paragraphs: [
+            ...new Set(
+              quoteParts
+                .filter((s) => typeof s !== "string")
+                .map((c) => c.paragraph)
+            ),
+          ].sort((a, b) => a - b),
+          parts: quoteParts,
         },
       ];
     }
