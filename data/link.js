@@ -1,7 +1,14 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { last, notEmpty, prettify, readJSON, simplifyText } from "./utils.js";
+import {
+  last,
+  mapObject,
+  notEmpty,
+  prettify,
+  readJSON,
+  simplifyText,
+} from "./utils.js";
 
 const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
 
@@ -198,16 +205,66 @@ const getMappedIndices = (s) => {
     doc.quotes = notEmpty(result);
   }
 
+  const documentMap = documents.reduce(
+    (res, { paragraphs, ...d }) => ({
+      ...res,
+      [d.id]: { ...d, paragraphs: paragraphs.map((p) => p.text) },
+    }),
+    {}
+  );
   await fs.promises.writeFile(
     `./src/data/documents.json`,
+    prettify(JSON.stringify(documentMap, null, 2), "json"),
+    "utf-8"
+  );
+
+  const allQuotes = flatten(
+    flatten(
+      documents
+        .filter((d) => d.quotes)
+        .map((d) =>
+          Object.keys(d.quotes).map((k) =>
+            d.quotes[k].map((q) => ({
+              ref: { id: d.id, paragraph: parseInt(k, 10) },
+              ...q,
+            }))
+          )
+        )
+    )
+  ).reduce((res, { id, ref, parts }) => {
+    res[id] = res[id] || {};
+    for (const { paragraph, start, end } of parts.filter(
+      (p) => typeof p !== "string"
+    )) {
+      res[id][paragraph] = [...(res[id][paragraph] || []), { ref, start, end }];
+    }
+    return res;
+  }, {});
+  await fs.promises.writeFile(
+    `./src/data/quotes.json`,
     prettify(
       JSON.stringify(
-        documents.reduce(
-          (res, { id, paragraphs, ...d }) => ({
-            ...res,
-            [id]: { ...d, paragraphs: paragraphs.map((p) => p.text) },
-          }),
-          {}
+        mapObject(allQuotes, (quotes) =>
+          mapObject(quotes, (parts) => {
+            const splits = [
+              ...new Set(flatten(parts.map((p) => [p.start, p.end]))),
+            ].sort((a, b) => a - b);
+            return {
+              refs: parts.map((p) => p.ref),
+              parts: splits
+                .slice(0, -1)
+                .map((start, i) => {
+                  const end = splits[i + 1];
+                  return {
+                    start,
+                    end,
+                    count: parts.filter((p) => p.start <= start && p.end >= end)
+                      .length,
+                  };
+                })
+                .filter((x) => x.count),
+            };
+          })
         ),
         null,
         2

@@ -1,6 +1,9 @@
 import fs from "fs-extra";
 import * as prettier from "prettier";
 
+export const mapObject = (obj, map) =>
+  Object.keys(obj).reduce((res, k) => ({ ...res, [k]: map(obj[k]) }), {});
+
 export const notEmpty = (x) => {
   if (Array.isArray(x)) return x.length > 0 ? x : undefined;
   return Object.keys(x).length > 0 ? x : undefined;

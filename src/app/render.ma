@@ -36,41 +36,60 @@
           {...(doc.lines?.[i] || []).map((line, j)=>
             renderLine(line, i === 0 || doc.sections?.[i] || doc.path?.[0] === "The Hidden Words")
           )}
-          <a id={i + 1} style={{ position: "relative" }}>
-            {(index === null || i === 0) &&
+          <a stack={15}>
+            <a id={i + 1} style={{ position: "relative" }}>
+              {(index === null || i === 0) &&
+                <a
+                  color="#888"
+                  align="center"
+                  style={{ position: "absolute", top: 0, left: "-80px", width: "50px" }}
+                  {(index ?? i) + 1}
+                />
+              }
+              {(
+                doc.path?.[0] === "The Hidden Words" ?
+                  (
+                    parts: text.split('\n'),
+                    <a stack={17 / 2}>
+                      <a size={17} uppercase {parts[0]} />
+                      <a size={17} {parts[1]} />
+                    </a>
+                  )
+                : i === 0 || doc.sections?.[i] ?
+                  <a>
+                    <a
+                      size={17 * 3}
+                      line={1}
+                      color={color}
+                      pad={{ right: 8 }}
+                      style={{ float: "left", width: "auto" }}
+                    >
+                      {text.slice(0,1)}
+                    </a>
+                    {text.slice(1)}
+                  </a>
+                : doc.sources?.[i] ?
+                  <a size={17} pad={{ left: 20 }} bold color="black" style={{ clear: "both" }} {text} />
+                :
+                  <a size={17} indent={20} style={{ clear: "both" }} {text} />
+              )}
+            </a>
+            {...(quotes[doc.id]?.[i]?.refs || []).map(r =>
               <a
-                color="#888"
-                align="center"
-                style={{ position: "absolute", top: 0, left: "-80px", width: "50px" }}
-                {(index ?? i) + 1}
-              />
-            }
-            {(
-              doc.path?.[0] === "The Hidden Words" ?
-                (
-                  parts: text.split('\n'),
-                  <a stack={17 / 2}>
-                    <a size={17} uppercase {parts[0]} />
-                    <a size={17} {parts[1]} />
-                  </a>
-                )
-              : i === 0 || doc.sections?.[i] ?
-                <a>
-                  <a
-                    size={17 * 3}
-                    line={1}
-                    color={color}
-                    pad={{ right: 8 }}
-                    style={{ float: "left", width: "auto" }}
-                  >
-                    {text.slice(0,1)}
-                  </a>
-                  {text.slice(1)}
-                </a>
-              : doc.sources?.[i] ?
-                <a size={17} pad={{ left: 20 }} bold color="black" style={{ clear: "both" }} {text} />
-              :
-                <a size={17} indent={20} style={{ clear: "both" }} {text} />
+                size={16}
+                italic
+                color={colors.link[documents[r.id].author]}
+                underline={hover}
+                link={"/doc/" + r.id + "#" + (r.paragraph + 1)}
+                style={{ width: '75%', margin: '0 auto 0 0' }}
+              >
+                ({join([
+                  documents[r.id].author,
+                  ...documents[r.id].path,
+                  documents[r.id].title,
+                  "para " + (r.paragraph + 1),
+                ].filter(x => x), ", ")})
+              </a>
             )}
           </a>
           {...(doc.quotes?.[i] || []).map(quote=>

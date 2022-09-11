@@ -9,6 +9,7 @@ import categories from "./data/categories.json";
 import library from "./data/library.json";
 import prayers from "./data/prayers.json";
 import documents from "./data/documents.json";
+import quotes from "./data/quotes.json";
 
 import "./style.css";
 
@@ -78,6 +79,7 @@ run(
       ),
     })),
     documents,
+    quotes,
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),
