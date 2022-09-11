@@ -2,20 +2,15 @@ import fs from "fs-extra";
 
 import { files } from "./sources.js";
 import {
-  capitalise,
   getMessageTo,
   getYearsFromId,
   last,
+  notEmpty,
   readJSON,
   replaceInText,
   simplifyText,
   writeJSON,
 } from "./utils.js";
-
-const notEmpty = (x) => {
-  if (Array.isArray(x)) return x.length > 0 ? x : undefined;
-  return Object.keys(x).length > 0 ? x : undefined;
-};
 
 const test = (options, value, index) =>
   options.some((x) => {

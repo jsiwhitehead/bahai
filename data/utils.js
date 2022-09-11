@@ -1,7 +1,12 @@
 import fs from "fs-extra";
 import * as prettier from "prettier";
 
-export const capitalise = (s) =>
+export const notEmpty = (x) => {
+  if (Array.isArray(x)) return x.length > 0 ? x : undefined;
+  return Object.keys(x).length > 0 ? x : undefined;
+};
+
+const capitalise = (s) =>
   ["‘", "“"].includes(s[0])
     ? s.slice(0, 2).toUpperCase() + s.slice(2)
     : s.slice(0, 1).toUpperCase() + s.slice(1);

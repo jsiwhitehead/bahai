@@ -1,10 +1,9 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { last, prettify, readJSON, simplifyText } from "./utils.js";
+import { last, notEmpty, prettify, readJSON, simplifyText } from "./utils.js";
 
 const flatten = (arr) => arr.reduce((res, x) => [...res, ...x], []);
-const getId = (base, index) => base + "-" + `${index}`.padStart(3, "0");
 
 const getMappedIndices = (s) => {
   const result = {};
@@ -19,8 +18,12 @@ const getMappedIndices = (s) => {
   const documents = (
     await readJSON("process", "the-universal-house-of-justice-messages")
   ).map((d, i) => ({
-    id: getId("the-universal-house-of-justice-messages", i),
+    id: "the-universal-house-of-justice-messages-" + `${i}`.padStart(3, "0"),
     ...d,
+    paragraphs: d.paragraphs.map((text) => {
+      const parts = text.split(/\s*\. \. \.\s*/g);
+      return { text, parts, simplified: parts.map((s) => simplifyText(s)) };
+    }),
   }));
   const gleanings = [];
   const selections = [];
@@ -28,26 +31,36 @@ const getMappedIndices = (s) => {
     await Promise.all(
       Object.keys(files[author]).map(async (file) => {
         const id = `${author}-${file}`;
-        const docs = (await readJSON("process", id)) || [];
+        const docs = ((await readJSON("process", id)) || []).map((d, i) => ({
+          id: id + "-" + `${i}`.padStart(3, "0"),
+          ...d,
+          paragraphs: d.paragraphs.map((text) => {
+            const parts = text.split(/\s*\. \. \.\s*/g);
+            return {
+              text,
+              parts,
+              simplified: parts.map((s) => simplifyText(s)),
+            };
+          }),
+        }));
         if (id === "bahaullah-gleanings-writings-bahaullah") {
-          gleanings.push(...docs.map((d, i) => ({ id: getId(id, i), ...d })));
+          gleanings.push(...docs);
         } else if (id === "abdul-baha-selections-writings-abdul-baha") {
-          selections.push(...docs.map((d, i) => ({ id: getId(id, i), ...d })));
+          selections.push(...docs);
         } else {
           documents.push(
-            ...docs
-              .map((d, i) => ({ id: getId(id, i), ...d }))
-              .filter(
-                (d) =>
-                  !d.path?.includes(
-                    "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
-                  ) &&
-                  ![
-                    "bahaullah-days-remembrance-032",
-                    "bahaullah-days-remembrance-036",
-                    "bahaullah-tablets-bahaullah-017",
-                  ].includes(d.id)
-              )
+            ...docs.filter(
+              (d) =>
+                ![
+                  "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas",
+                  "Part One: Excerpts from the Will and Testament of ‘Abdu’l‑Bahá",
+                ].some((x) => d.path?.includes(x)) &&
+                ![
+                  "bahaullah-days-remembrance-032",
+                  "bahaullah-days-remembrance-036",
+                  "bahaullah-tablets-bahaullah-017",
+                ].includes(d.id)
+            )
           );
         }
       })
@@ -56,30 +69,19 @@ const getMappedIndices = (s) => {
 
   const bahaullahDocs = documents
     .filter((d) => d.author === "Bahá’u’lláh")
-    .map((doc) => simplifyText(doc.paragraphs.join(" ")));
+    .map((doc) => flatten(doc.paragraphs.map((p) => p.simplified)).join(""));
   for (const doc of gleanings) {
-    const docParas = flatten(
-      doc.paragraphs.map((text) =>
-        text.split(/\. \. \./g).map((s) => simplifyText(s))
-      )
-    );
-    const source = bahaullahDocs.some((text) =>
-      docParas.every((p) => text.includes(p))
+    const source = bahaullahDocs.some((full) =>
+      doc.paragraphs.every((p) => p.simplified.every((s) => full.includes(s)))
     );
     if (!source) documents.push(doc);
   }
-
   const abdulbahaDocs = documents
     .filter((d) => d.author === "‘Abdu’l‑Bahá")
-    .map((doc) => simplifyText(doc.paragraphs.join(" ")));
+    .map((doc) => flatten(doc.paragraphs.map((p) => p.simplified)).join(""));
   for (const doc of selections) {
-    const docParas = flatten(
-      doc.paragraphs.map((text) =>
-        text.split(/\. \. \./g).map((s) => simplifyText(s))
-      )
-    );
-    const source = abdulbahaDocs.some((text) =>
-      docParas.every((p) => text.includes(p))
+    const source = abdulbahaDocs.some((full) =>
+      doc.paragraphs.every((p) => p.simplified.every((s) => full.includes(s)))
     );
     if (!source) documents.push(doc);
   }
@@ -87,94 +89,116 @@ const getMappedIndices = (s) => {
   documents.sort(
     (a, b) => (a.years[0] || 0) - (b.years[0] || 0) || a.id.localeCompare(b.id)
   );
-  const paragraphs = flatten(
-    documents.map((doc) => [
-      ...doc.paragraphs.map((text, i) => ({
-        author: doc.author,
-        years: doc.years,
-        id: doc.id,
-        para: i,
-        text,
-        simplified: simplifyText(text),
-      })),
-      ...flatten(
-        Object.keys(doc.lines || {}).map((k) =>
-          doc.lines[k].map((line) => ({
-            author: doc.author,
-            years: doc.years,
-            id: doc.id,
-            text: line.text,
-            simplified: simplifyText(line.text),
-          }))
-        )
-      ),
-      {
-        author: doc.author,
-        years: doc.years,
-        id: doc.id,
-        text: doc.paragraphs.join(" "),
-        simplified: simplifyText(doc.paragraphs.join(" ")),
-      },
-    ])
-  );
-  let counter = 0;
+  //     ...flatten(
+  //       Object.keys(doc.lines || {}).map((k) =>
+  //         doc.lines[k].map((line) => ({
+  //           author: doc.author,
+  //           years: doc.years,
+  //           id: doc.id,
+  //           text: line.text,
+  //           simplified: simplifyText(line.text),
+  //         }))
+  //       )
+
   for (const doc of documents) {
-    const sources = {};
-    doc.paragraphs.forEach((text, i) => {
-      const chunks = text.split(/\s*\. \. \.\s*/g);
-      const simplified = chunks.map((s) => simplifyText(s));
-      if (simplified.join("").length >= 80) {
-        const source = paragraphs.find(
-          (p) =>
-            p.id !== doc.id &&
-            (p.author !== doc.author ||
+    const quotes = [];
+    let counter = -1;
+    doc.paragraphs = doc.paragraphs.filter((paragraph) => {
+      if (paragraph.simplified.join("").length >= 80) {
+        const source = documents.find(
+          (d) =>
+            d.id !== doc.id &&
+            (d.author !== doc.author ||
               doc.author === "The Universal House of Justice") &&
-            p.years[0] <= doc.years[1] &&
-            simplified.every((s) => p.simplified.includes(s))
+            d.years[0] <= doc.years[1] &&
+            paragraph.simplified.every((s) =>
+              d.paragraphs.some((p) => p.simplified.some((t) => t.includes(s)))
+            )
         );
         if (source) {
-          sources[i] = {
-            source: [source.id, source.para].filter((x) => x !== undefined),
-            chunks: simplified.map((s, i) => {
-              if (!chunks[i]) return [0, 0];
-              if (source.text.includes(chunks[i])) {
-                const start = source.text.indexOf(chunks[i]);
-                return [start, start + chunks[i].length];
-              }
-              if (s === source.simplified) {
-                return [0, source.text.length];
-              }
-              if (source.para === undefined) return [];
-              console.log(counter++);
-              source.indices = source.indices || getMappedIndices(source.text);
-              const start = source.simplified.indexOf(s);
-              return [
-                source.indices[start].find(
-                  (j) => source.text[j] === chunks[i][0]
-                ) ??
-                  source.indices[start].find(
-                    (j) => !/^\W+ /.test(source.text.slice(j))
-                  ),
-                [...source.indices[start + s.length]]
-                  .reverse()
-                  .find((j) => source.text[j - 1] === last(chunks[i])) ??
-                  [...source.indices[start + s.length]]
-                    .reverse()
-                    .find((j) => !/ \W+$/.test(source.text.slice(0, j))),
-              ];
-            }),
-          };
+          quotes.push({ index: counter, source, ...paragraph });
+          return false;
         }
       }
+      counter++;
+      return true;
     });
-    if (Object.keys(sources).length > 0) doc.sources = sources;
+    doc.quotes = quotes;
+  }
+
+  for (const doc of documents) {
+    const result = {};
+    for (const { index, source, simplified, parts } of doc.quotes) {
+      const allPara = source.paragraphs.findIndex((p) =>
+        simplified.every((s) => p.simplified.some((t) => t.includes(s)))
+      );
+      result[index] = [
+        ...(result[index] || []),
+        {
+          id: source.id,
+          parts: simplified.map((s, i) => {
+            const para =
+              allPara !== -1
+                ? allPara
+                : source.paragraphs.findIndex((p) =>
+                    p.simplified.some((t) => t.includes(s))
+                  );
+            const sourcePara = source.paragraphs[para];
+            if (sourcePara.text.includes(parts[i])) {
+              const start = sourcePara.text.indexOf(parts[i]);
+              return {
+                paragraph: para,
+                start,
+                end: start + parts[i].length,
+              };
+            }
+            if (s === sourcePara.simplified.join("")) {
+              return {
+                paragraph: para,
+                start: 0,
+                end: sourcePara.text.length,
+              };
+            }
+            sourcePara.indices =
+              sourcePara.indices || getMappedIndices(sourcePara.text);
+            const start = sourcePara.simplified.join("").indexOf(s);
+            const startIndices = sourcePara.indices[start];
+            const endIndices = [
+              ...sourcePara.indices[start + s.length],
+            ].reverse();
+            return {
+              paragraph: para,
+              start:
+                startIndices.find((j) => sourcePara.text[j] === parts[i][0]) ??
+                startIndices.find(
+                  (j) => !/^\W+ /.test(sourcePara.text.slice(j))
+                ),
+              end:
+                endIndices.find(
+                  (j) => sourcePara.text[j - 1] === last(parts[i])
+                ) ??
+                endIndices.find(
+                  (j) => !/ \W+$/.test(sourcePara.text.slice(0, j))
+                ),
+            };
+          }),
+        },
+      ];
+    }
+    doc.quotes = notEmpty(result);
   }
 
   await fs.promises.writeFile(
     `./src/data/documents.json`,
     prettify(
       JSON.stringify(
-        documents.reduce((res, { id, ...d }) => ({ ...res, [id]: d }), {}),
+        documents.reduce(
+          (res, { id, paragraphs, ...d }) => ({
+            ...res,
+            [id]: { ...d, paragraphs: paragraphs.map((p) => p.text) },
+          }),
+          {}
+        ),
         null,
         2
       ),

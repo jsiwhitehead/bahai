@@ -173,15 +173,22 @@
     "path": ["Bahá’í Prayers", "Special Tablets"],
     "title": "Tablet of the Holy Mariner",
     "sections": {
-      "1": [
+      "0": [
         {
           "level": 1,
-          "end": 117
+          "end": 116
+        }
+      ]
+    },
+    "lines": {
+      "0": [
+        {
+          "type": "info",
+          "text": "“Study the Tablet of the Holy Mariner that ye may know the truth, and consider that the Blessed Beauty hath fully foretold future events. Let them who perceive, take warning!”"
         }
       ]
     },
     "paragraphs": [
-      "“Study the Tablet of the Holy Mariner that ye may know the truth, and consider that the Blessed Beauty hath fully foretold future events. Let them who perceive, take warning!”",
       "He is the Gracious, the Well‑Beloved!",
       "O Holy Mariner!",
       "Bid thine ark of eternity appear before the Celestial Concourse,",

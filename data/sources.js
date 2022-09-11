@@ -1509,6 +1509,8 @@ export const files = {
           "info",
         "Let whosoever travels to different parts to teach, peruse over mountain, desert, land and sea this supplication.":
           "info",
+        "“Study the Tablet of the Holy Mariner that ye may know the truth, and consider that the Blessed Beauty hath fully foretold future events. Let them who perceive, take warning!”":
+          "info",
       },
       sections: {
         "Obligatory Prayers": 1,

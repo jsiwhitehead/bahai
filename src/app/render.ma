@@ -45,62 +45,58 @@
                 {(index ?? i) + 1}
               />
             }
-            <a stack={15}>
-              {(
-                doc.path?.[0] === "The Hidden Words" ?
-                  (
-                    parts: text.split('\n'),
-                    <a stack={17 / 2}>
-                      <a size={17} uppercase {parts[0]} />
-                      <a size={17} {parts[1]} />
-                    </a>
-                  )
-                : i === 0 || doc.sections?.[i] ?
-                  <a>
-                    <a
-                      size={17 * 3}
-                      line={1}
-                      color={color}
-                      pad={{ right: 8 }}
-                      style={{ float: "left", width: "auto" }}
-                    >
-                      {text.slice(0,1)}
-                    </a>
-                    {text.slice(1)}
+            {(
+              doc.path?.[0] === "The Hidden Words" ?
+                (
+                  parts: text.split('\n'),
+                  <a stack={17 / 2}>
+                    <a size={17} uppercase {parts[0]} />
+                    <a size={17} {parts[1]} />
                   </a>
-                : doc.sources?.[i] ?
-                  <a size={17} pad={{ left: 20 }} bold color="black" style={{ clear: "both" }} {text} />
-                :
-                  <a size={17} indent={20} style={{ clear: "both" }} {text} />
-              )}
-              {doc.sources?.[i]?.chunks &&
-                <a size={17} color="red" pad={{ left: 20 }} bold
-                  {join(doc.sources?.[i]?.chunks.map(c=>(
-                    source: doc.sources[i].source,
-                    para: documents[source[0]].paragraphs[source[1]],
-                    para?.slice?.(c[0], c[1])
-                  )), " . . . ").trim()}
-                />
-              }
-              {doc.sources?.[i] &&
-                <a
-                  size={16}
-                  italic
-                  align="right"
-                  color={colors.link[documents[doc.sources[i].source[0]].author]}
-                  underline={hover}
-                  link={"/doc/" + doc.sources[i].source.join('#')}
-                  style={{ width: '75%', margin: '0 0 0 auto' }}
-                >
-                  ({join([
-                    documents[doc.sources[i].source[0]].author,
-                    ...documents[doc.sources[i].source[0]].path,
-                    documents[doc.sources[i].source[0]].title,
-                  ], ", ")})
+                )
+              : i === 0 || doc.sections?.[i] ?
+                <a>
+                  <a
+                    size={17 * 3}
+                    line={1}
+                    color={color}
+                    pad={{ right: 8 }}
+                    style={{ float: "left", width: "auto" }}
+                  >
+                    {text.slice(0,1)}
+                  </a>
+                  {text.slice(1)}
                 </a>
-              }
-            </a>
+              : doc.sources?.[i] ?
+                <a size={17} pad={{ left: 20 }} bold color="black" style={{ clear: "both" }} {text} />
+              :
+                <a size={17} indent={20} style={{ clear: "both" }} {text} />
+            )}
           </a>
+          {...(doc.quotes?.[i] || []).map(quote=>
+            <a stack={15}>
+              <a size={17} color="red" pad={{ left: 20 }} bold
+                {join(quote.parts.map(part=>
+                  documents[quote.id].paragraphs[part.paragraph].slice(part.start, part.end)
+                ), " . . . ").trim()}
+              />
+              <a
+                size={16}
+                italic
+                align="right"
+                color={colors.link[documents[quote.id].author]}
+                underline={hover}
+                link={"/doc/" + quote.id}
+                style={{ width: '75%', margin: '0 0 0 auto' }}
+              >
+                ({join([
+                  documents[quote.id].author,
+                  ...documents[quote.id].path,
+                  documents[quote.id].title,
+                ], ", ")})
+              </a>
+            </a>
+          )}
           {...(i === doc.paragraphs.length - 1 ? doc.lines?.[i + 1] || [] : []).map((line, j)=>
             renderLine(line, true)
           )}
