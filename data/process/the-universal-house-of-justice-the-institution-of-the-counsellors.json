@@ -4,193 +4,170 @@
     "author": "The Universal House of Justice",
     "type": "Document",
     "title": "The Institution of the Counsellors",
-    "sections": {
-      "0": [
-        {
-          "level": 1,
-          "title": "Introduction",
-          "end": 8
-        }
-      ],
-      "8": [
-        {
-          "level": 1,
-          "title": "International and Continental Counsellors and the Auxiliary Boards",
-          "end": 81
-        },
-        {
-          "level": 2,
-          "title": "Historical Perspective",
-          "end": 17
-        }
-      ],
-      "17": [
-        {
-          "level": 2,
-          "title": "The International Teaching Centre",
-          "end": 20
-        }
-      ],
-      "20": [
-        {
-          "level": 2,
-          "title": "The Continental Boards of Counsellors",
-          "end": 24
-        }
-      ],
-      "24": [
-        {
-          "level": 2,
-          "title": "The Auxiliary Boards",
-          "end": 28
-        }
-      ],
-      "28": [
-        {
-          "level": 2,
-          "title": "Assistants to Auxiliary Board Members",
-          "end": 30
-        }
-      ],
-      "30": [
-        {
-          "level": 2,
-          "title": "Service on National, Regional and Local Administrative Bodies",
-          "end": 36
-        }
-      ],
-      "36": [
-        {
-          "level": 2,
-          "title": "Duties of the Continental Counsellors and Their Auxiliaries",
-          "end": 41
-        }
-      ],
-      "41": [
-        {
-          "level": 2,
-          "title": "Collaboration with National Spiritual Assemblies",
-          "end": 48
-        }
-      ],
-      "48": [
-        {
-          "level": 2,
-          "title": "Mode of Interaction",
-          "end": 53
-        }
-      ],
-      "53": [
-        {
-          "level": 2,
-          "title": "Involvement with Institutes",
-          "end": 54
-        }
-      ],
-      "54": [
-        {
-          "level": 2,
-          "title": "The Individual and the Community",
-          "end": 65
-        }
-      ],
-      "65": [
-        {
-          "level": 2,
-          "title": "Formulation and Implementation of Plans",
-          "end": 71
-        }
-      ],
-      "71": [
-        {
-          "level": 2,
-          "title": "The Fund",
-          "end": 74
-        }
-      ],
-      "74": [
-        {
-          "level": 2,
-          "title": "Protection of the Cause",
-          "end": 78
-        }
-      ],
-      "78": [
-        {
-          "level": 2,
-          "title": "Coordination and the Provision of Resources",
-          "end": 81
-        }
-      ],
-      "81": [
-        {
-          "level": 1,
-          "title": "Some Specific Aspects of the Functioning of the Institution",
-          "end": 160
-        },
-        {
-          "level": 2,
-          "title": "The International Teaching Centre",
-          "end": 86
-        }
-      ],
-      "86": [
-        {
-          "level": 2,
-          "title": "Continental Counsellors",
-          "end": 101
-        }
-      ],
-      "101": [
-        {
-          "level": 2,
-          "title": "Auxiliary Board Members",
-          "end": 111
-        }
-      ],
-      "111": [
-        {
-          "level": 2,
-          "title": "Assistants",
-          "end": 117
-        }
-      ],
-      "117": [
-        {
-          "level": 2,
-          "title": "Interactions with National, Regional and Local Administrative Bodies",
-          "end": 140
-        }
-      ],
-      "140": [
-        {
-          "level": 2,
-          "title": "Elections and Conventions",
-          "end": 144
-        }
-      ],
-      "144": [
-        {
-          "level": 2,
-          "title": "Conferences",
-          "end": 148
-        }
-      ],
-      "148": [
-        {
-          "level": 2,
-          "title": "Budgets, Subvention Funds and Properties",
-          "end": 152
-        }
-      ],
-      "152": [
-        {
-          "level": 2,
-          "title": "The Continental Fund",
-          "end": 160
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "title": "Introduction",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "level": 1,
+        "title": "International and Continental Counsellors and the Auxiliary Boards",
+        "start": 8,
+        "end": 81
+      },
+      {
+        "level": 2,
+        "title": "Historical Perspective",
+        "start": 8,
+        "end": 17
+      },
+      {
+        "level": 2,
+        "title": "The International Teaching Centre",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "level": 2,
+        "title": "The Continental Boards of Counsellors",
+        "start": 20,
+        "end": 24
+      },
+      {
+        "level": 2,
+        "title": "The Auxiliary Boards",
+        "start": 24,
+        "end": 28
+      },
+      {
+        "level": 2,
+        "title": "Assistants to Auxiliary Board Members",
+        "start": 28,
+        "end": 30
+      },
+      {
+        "level": 2,
+        "title": "Service on National, Regional and Local Administrative Bodies",
+        "start": 30,
+        "end": 36
+      },
+      {
+        "level": 2,
+        "title": "Duties of the Continental Counsellors and Their Auxiliaries",
+        "start": 36,
+        "end": 41
+      },
+      {
+        "level": 2,
+        "title": "Collaboration with National Spiritual Assemblies",
+        "start": 41,
+        "end": 48
+      },
+      {
+        "level": 2,
+        "title": "Mode of Interaction",
+        "start": 48,
+        "end": 53
+      },
+      {
+        "level": 2,
+        "title": "Involvement with Institutes",
+        "start": 53,
+        "end": 54
+      },
+      {
+        "level": 2,
+        "title": "The Individual and the Community",
+        "start": 54,
+        "end": 65
+      },
+      {
+        "level": 2,
+        "title": "Formulation and Implementation of Plans",
+        "start": 65,
+        "end": 71
+      },
+      {
+        "level": 2,
+        "title": "The Fund",
+        "start": 71,
+        "end": 74
+      },
+      {
+        "level": 2,
+        "title": "Protection of the Cause",
+        "start": 74,
+        "end": 78
+      },
+      {
+        "level": 2,
+        "title": "Coordination and the Provision of Resources",
+        "start": 78,
+        "end": 81
+      },
+      {
+        "level": 1,
+        "title": "Some Specific Aspects of the Functioning of the Institution",
+        "start": 81,
+        "end": 160
+      },
+      {
+        "level": 2,
+        "title": "The International Teaching Centre",
+        "start": 81,
+        "end": 86
+      },
+      {
+        "level": 2,
+        "title": "Continental Counsellors",
+        "start": 86,
+        "end": 101
+      },
+      {
+        "level": 2,
+        "title": "Auxiliary Board Members",
+        "start": 101,
+        "end": 111
+      },
+      {
+        "level": 2,
+        "title": "Assistants",
+        "start": 111,
+        "end": 117
+      },
+      {
+        "level": 2,
+        "title": "Interactions with National, Regional and Local Administrative Bodies",
+        "start": 117,
+        "end": 140
+      },
+      {
+        "level": 2,
+        "title": "Elections and Conventions",
+        "start": 140,
+        "end": 144
+      },
+      {
+        "level": 2,
+        "title": "Conferences",
+        "start": 144,
+        "end": 148
+      },
+      {
+        "level": 2,
+        "title": "Budgets, Subvention Funds and Properties",
+        "start": 148,
+        "end": 152
+      },
+      {
+        "level": 2,
+        "title": "The Continental Fund",
+        "start": 152,
+        "end": 160
+      }
+    ],
     "paragraphs": [
       "More than three decades have passed since the establishment, in 1968, of the Continental Boards of Counsellors. During this time the institution has accumulated invaluable experience, and its influence is being ever more strongly felt throughout the Bahá’í world. The occupation by the International Teaching Centre of its seat on Mount Carmel offers a propitious occasion for a document to be issued that describes the operations of the institution of the Counsellors. Accordingly, we have prepared a digest of the guidance previously given on this subject, which we hope will increase the friends’ understanding of not only the responsibilities of the Counsellors and their auxiliaries but also the workings of the Administrative Order in general.",
       "The document consists of two parts. In the first, we provide an overview of the various components of the institution and their duties. The second part is a list of statements addressing specific aspects of its functioning.",

@@ -31,57 +31,54 @@
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Tablet of the Temple",
     "translated": "Súriy‑i‑Haykal",
-    "sections": {
-      "101": [
-        {
-          "level": 1,
-          "title": "Pope Pius IX",
-          "end": 130
-        }
-      ],
-      "130": [
-        {
-          "level": 1,
-          "title": "Napoleon III",
-          "end": 157
-        }
-      ],
-      "157": [
-        {
-          "level": 1,
-          "title": "Czar Alexander II",
-          "end": 170
-        }
-      ],
-      "170": [
-        {
-          "level": 1,
-          "title": "Queen Victoria",
-          "end": 185
-        }
-      ],
-      "185": [
-        {
-          "level": 1,
-          "title": "Náṣiri’d‑Dín Sháh",
-          "end": 277
-        }
-      ],
-      "276": [
-        {
-          "level": 2,
-          "end": 277
-        }
-      ]
-    },
-    "lines": {
-      "0": [
-        {
-          "type": "call",
-          "text": "He is the Most Wondrous, the All‑Glorious!"
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "title": "Pope Pius IX",
+        "start": 101,
+        "end": 130
+      },
+      {
+        "level": 1,
+        "title": "Napoleon III",
+        "start": 130,
+        "end": 157
+      },
+      {
+        "level": 1,
+        "title": "Czar Alexander II",
+        "start": 157,
+        "end": 170
+      },
+      {
+        "level": 1,
+        "title": "Queen Victoria",
+        "start": 170,
+        "end": 185
+      },
+      {
+        "level": 1,
+        "title": "Náṣiri’d‑Dín Sháh",
+        "start": 185,
+        "end": 277
+      },
+      {
+        "level": 2,
+        "start": 276,
+        "end": 277
+      }
+    ],
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "call",
+            "text": "He is the Most Wondrous, the All‑Glorious!"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "Glorified is He Who hath revealed His verses to those who understand. Glorified is He Who revealeth His verses to those who perceive. Glorified is He Who guideth whomsoever He pleaseth unto His path. Say: I, verily, am the Path of God unto all who are in the heavens and all who are on the earth; well is it with them that hasten thereunto!",
       "Glorified is He Who sendeth down His verses to those who comprehend. Glorified is He Who speaketh forth from the Kingdom of His Revelation, and Who remaineth unknown to all save His honoured servants. Glorified is He Who quickeneth whomsoever He willeth by virtue of His word “Be”, and it is! Glorified is He Who causeth whomsoever He willeth to ascend unto the heaven of grace, and sendeth down therefrom whatsoever He desireth according to a prescribed measure.",
@@ -369,14 +366,17 @@
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Tablet of the Chief",
     "translated": "Súriy‑i‑Ra’ís",
-    "lines": {
-      "0": [
-        {
-          "type": "call",
-          "text": "In His name, the All‑Glorious!"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "call",
+            "text": "In His name, the All‑Glorious!"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "Hearken, O Chief, to the voice of God, the Sovereign, the Help in Peril, the Self‑Subsisting. He, verily, calleth aloud between heaven and earth, summoning all mankind unto the scene of transcendent glory. Neither thy grunting, nor the barking of those around thee, nor the opposition of the hosts of the world can withhold the Almighty from achieving His purpose. The whole world hath been set ablaze by the Word of thy Lord, the All‑Glorious, a Word softer than the morning breeze. It hath been manifested in the form of the human temple, and through it God hath quickened the souls of the sincere among His servants. In its inner essence, this Word is the living water by which God hath purified the hearts of such as have turned unto Him and forgotten every other mention, and through which He draweth them nigh unto the seat of His mighty Name. We have sprinkled it upon the people of the graves, and lo, they have risen up, with their gaze fixed upon the shining and resplendent Beauty of their Lord.",
       "Thou hast, O Chief, committed that which hath caused Muḥammad, the Apostle of God, to lament in the most sublime Paradise. The world hath made thee proud, so much so that thou hast turned away from the Face through Whose brightness the Concourse on high hath been illumined. Soon thou shalt find thyself in manifest loss! Thou didst conspire with the Persian Ambassador to harm Me, though I had come unto you from the source of majesty and grandeur with a Revelation that hath solaced the eyes of the favoured ones of God.",
@@ -428,14 +428,17 @@
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Tablet of the Chief",
     "translated": "Lawḥ‑i‑Ra’ís",
-    "lines": {
-      "0": [
-        {
-          "type": "call",
-          "text": "He is in His own Right the Supreme Ruler!"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "call",
+            "text": "He is in His own Right the Supreme Ruler!"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "The Pen of the Most High proclaimeth: O thou who hast imagined thyself to be the most exalted of men and who hast regarded as the lowliest of all creatures this divine Youth, through Whom the eyes of the Concourse on high have been illumined and made radiant! This Youth hath sought nothing from thee or from such as are like unto thee, inasmuch as from time immemorial, whenever the Manifestations of the All‑Merciful and the Exponents of His unfading glory have stepped out of the Realm of eternity into this mortal world and revealed themselves to revive the dead, men such as thee have considered these sanctified Souls and Temples of Divine Oneness, upon Whom must needs depend the rehabilitation of the peoples of the earth, to be stirrers of mischief and worthy of blame. These men, verily, have all returned unto dust. Thou, too, shalt erelong take abode therein and find thyself in grievous loss.",
       "Even if this Lifegiver and World Reformer be in thine estimation guilty of sedition and strife, what crime could have been committed by a group of women, children, and suckling mothers that they should be thus afflicted with the scourge of thine anger and wrath? No faith or religion hath ever held children responsible. The Pen of divine Command hath exempted them, yet the fire of thy tyranny and oppression encompasseth all. If thou bearest allegiance to any faith or religion, then thou shouldst know that, according to all the heavenly Books and all the divinely inspired and weighty Scriptures, children are not to be held accountable. Aside from this, not even those who disbelieve in God have perpetrated such unseemly acts. Since from every thing an effect becometh manifest, a fact that none can deny save those who are bereft of reason and understanding, it is certain that the sighs of these children and the cries of these wronged ones will have their due consequence.",
@@ -475,14 +478,17 @@
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Tablet of Fu’ád Páshá",
     "translated": "Lawḥ‑i‑Fu’ád",
-    "lines": {
-      "0": [
-        {
-          "type": "call",
-          "text": "He is the Most Holy, the Most Glorious!"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "call",
+            "text": "He is the Most Holy, the Most Glorious!"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "Káf. Ẓá’. We call unto thee from beyond the sea of grandeur, upon the crimson land, above the horizon of tribulation. Verily, no God is there save Him, the Almighty, the Most Generous. Walk thou steadfastly in My Cause and follow not the ways of those who, upon attaining unto the object of their desire, denied God, the Lord of Lords. Erelong shall He lay hold upon them in His wrath, and He, verily, is the All‑Powerful, the All‑Subduing.",
       "Know thou that, through the power of His sovereign might, God hath seized him who was the foremost amongst them that passed judgement against Us. When he saw his torment approaching, he fled to Paris to seek recourse to physicians.",
@@ -514,14 +520,17 @@
     "path": ["The Summons of the Lord of Hosts"],
     "title": "Tablet of Kings",
     "translated": "Súriy‑i‑Múlúk",
-    "lines": {
-      "0": [
-        {
-          "type": "call",
-          "text": "He is the Almighty!"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "call",
+            "text": "He is the Almighty!"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "This is a Tablet from this Servant, who is called Ḥusayn in the kingdom of names, to the concourse of the kings of the earth. Haply they may approach it in a spirit of open‑mindedness, discover from its message the mysteries of divine providence, and be of those that comprehend its meaning, and perchance they may forsake all they possess, turn towards the retreats of holiness, and draw nigh unto God, the All‑Glorious, the Incomparable.",
       "O kings of the earth! Give ear unto the Voice of God, calling from this sublime, this fruit‑laden Tree, that hath sprung out of the Crimson Hill, upon the holy Plain, intoning the words: “There is none other God but He, the Mighty, the All‑Powerful, the All‑Wise.” This is a Spot which hath been sanctified by God for those who approach it, a Spot wherein His Voice may be heard from the celestial Tree of Holiness. Fear God, O concourse of kings, and suffer not yourselves to be deprived of this most sublime grace. Fling away, then, the things ye possess, and take fast hold on the Handle of God, the Exalted, the Great. Set your hearts towards the Face of God, and abandon that which your desires have bidden you to follow, and be not of those who perish.",

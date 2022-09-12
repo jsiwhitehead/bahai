@@ -4,217 +4,194 @@
     "author": "Shoghi Effendi",
     "type": "Writings",
     "title": "God Passes By",
-    "sections": {
-      "0": [
-        {
-          "level": 1,
-          "title": "Foreword",
-          "end": 11
-        }
-      ],
-      "11": [
-        {
-          "level": 1,
-          "title": "First Period: The Ministry of the Báb: 1844—1853",
-          "end": 131
-        },
-        {
-          "level": 2,
-          "title": "The Birth of the Bábí Revelation",
-          "end": 34
-        }
-      ],
-      "34": [
-        {
-          "level": 2,
-          "title": "The Báb’s Captivity in Ádhirbáyján",
-          "end": 67
-        }
-      ],
-      "67": [
-        {
-          "level": 2,
-          "title": "Upheavals in Mázindarán, Nayríz and Zanján",
-          "end": 81
-        }
-      ],
-      "81": [
-        {
-          "level": 2,
-          "title": "The Execution of the Báb",
-          "end": 98
-        }
-      ],
-      "98": [
-        {
-          "level": 2,
-          "title": "The Attempt on the Life of the Sháh and its Consequences",
-          "end": 131
-        }
-      ],
-      "131": [
-        {
-          "level": 1,
-          "title": "Second Period: The Ministry of Bahá’u’lláh: 1853—1892",
-          "end": 449
-        },
-        {
-          "level": 2,
-          "title": "The Birth of the Bahá’í Revelation",
-          "end": 162
-        }
-      ],
-      "162": [
-        {
-          "level": 2,
-          "title": "Bahá’u’lláh’s Banishment to ‘Iráq",
-          "end": 210
-        }
-      ],
-      "210": [
-        {
-          "level": 2,
-          "title": "Bahá’u’lláh’s Banishment to ‘Iráq (Continued)",
-          "end": 256
-        }
-      ],
-      "256": [
-        {
-          "level": 2,
-          "title": "The Declaration of Bahá’u’lláh’s Mission and His Journey to Constantinople",
-          "end": 280
-        }
-      ],
-      "280": [
-        {
-          "level": 2,
-          "title": "The Rebellion of Mírzá Yaḥyá and the Proclamation of Bahá’u’lláh’s Mission in Adrianople",
-          "end": 325
-        }
-      ],
-      "325": [
-        {
-          "level": 2,
-          "title": "Bahá’u’lláh’s Incarceration in ‘Akká",
-          "end": 359
-        }
-      ],
-      "359": [
-        {
-          "level": 2,
-          "title": "Bahá’u’lláh’s Incarceration in ‘Akká (Continued)",
-          "end": 418
-        }
-      ],
-      "418": [
-        {
-          "level": 2,
-          "title": "Ascension of Bahá’u’lláh",
-          "end": 449
-        }
-      ],
-      "449": [
-        {
-          "level": 1,
-          "title": "Third Period: The Ministry of ‘Abdu’l‑Bahá: 1892—1921",
-          "end": 612
-        },
-        {
-          "level": 2,
-          "title": "The Covenant of Bahá’u’lláh",
-          "end": 461
-        }
-      ],
-      "461": [
-        {
-          "level": 2,
-          "title": "The Rebellion of Mírzá Muḥammad‑‘Alí",
-          "end": 476
-        }
-      ],
-      "476": [
-        {
-          "level": 2,
-          "title": "The Rise and Establishment of the Faith in the West",
-          "end": 496
-        }
-      ],
-      "496": [
-        {
-          "level": 2,
-          "title": "Renewal of ‘Abdu’l‑Bahá’s Incarceration",
-          "end": 519
-        }
-      ],
-      "519": [
-        {
-          "level": 2,
-          "title": "Entombment of the Báb’s Remains on Mt. Carmel",
-          "end": 532
-        }
-      ],
-      "532": [
-        {
-          "level": 2,
-          "title": "‘Abdu’l‑Bahá’s Travels in Europe and America",
-          "end": 558
-        }
-      ],
-      "558": [
-        {
-          "level": 2,
-          "title": "Growth and Expansion of the Faith in East and West",
-          "end": 586
-        }
-      ],
-      "586": [
-        {
-          "level": 2,
-          "title": "The Passing of ‘Abdu’l‑Bahá",
-          "end": 612
-        }
-      ],
-      "612": [
-        {
-          "level": 1,
-          "title": "Fourth Period: The Inception of the Formative Age of the Bahá’í Faith: 1921—1944",
-          "end": 771
-        },
-        {
-          "level": 2,
-          "title": "The Rise and Establishment of the Administrative Order",
-          "end": 663
-        }
-      ],
-      "663": [
-        {
-          "level": 2,
-          "title": "Attacks on Bahá’í Institutions",
-          "end": 686
-        }
-      ],
-      "686": [
-        {
-          "level": 2,
-          "title": "Emancipation and Recognition of the Faith and its Institutions",
-          "end": 713
-        }
-      ],
-      "713": [
-        {
-          "level": 2,
-          "title": "International Expansion of Teaching Activities",
-          "end": 771
-        }
-      ],
-      "771": [
-        {
-          "level": 1,
-          "title": "Retrospect and Prospect",
-          "end": 786
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "title": "Foreword",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "level": 1,
+        "title": "First Period: The Ministry of the Báb: 1844—1853",
+        "start": 11,
+        "end": 131
+      },
+      {
+        "level": 2,
+        "title": "The Birth of the Bábí Revelation",
+        "start": 11,
+        "end": 34
+      },
+      {
+        "level": 2,
+        "title": "The Báb’s Captivity in Ádhirbáyján",
+        "start": 34,
+        "end": 67
+      },
+      {
+        "level": 2,
+        "title": "Upheavals in Mázindarán, Nayríz and Zanján",
+        "start": 67,
+        "end": 81
+      },
+      {
+        "level": 2,
+        "title": "The Execution of the Báb",
+        "start": 81,
+        "end": 98
+      },
+      {
+        "level": 2,
+        "title": "The Attempt on the Life of the Sháh and its Consequences",
+        "start": 98,
+        "end": 131
+      },
+      {
+        "level": 1,
+        "title": "Second Period: The Ministry of Bahá’u’lláh: 1853—1892",
+        "start": 131,
+        "end": 449
+      },
+      {
+        "level": 2,
+        "title": "The Birth of the Bahá’í Revelation",
+        "start": 131,
+        "end": 162
+      },
+      {
+        "level": 2,
+        "title": "Bahá’u’lláh’s Banishment to ‘Iráq",
+        "start": 162,
+        "end": 210
+      },
+      {
+        "level": 2,
+        "title": "Bahá’u’lláh’s Banishment to ‘Iráq (Continued)",
+        "start": 210,
+        "end": 256
+      },
+      {
+        "level": 2,
+        "title": "The Declaration of Bahá’u’lláh’s Mission and His Journey to Constantinople",
+        "start": 256,
+        "end": 280
+      },
+      {
+        "level": 2,
+        "title": "The Rebellion of Mírzá Yaḥyá and the Proclamation of Bahá’u’lláh’s Mission in Adrianople",
+        "start": 280,
+        "end": 325
+      },
+      {
+        "level": 2,
+        "title": "Bahá’u’lláh’s Incarceration in ‘Akká",
+        "start": 325,
+        "end": 359
+      },
+      {
+        "level": 2,
+        "title": "Bahá’u’lláh’s Incarceration in ‘Akká (Continued)",
+        "start": 359,
+        "end": 418
+      },
+      {
+        "level": 2,
+        "title": "Ascension of Bahá’u’lláh",
+        "start": 418,
+        "end": 449
+      },
+      {
+        "level": 1,
+        "title": "Third Period: The Ministry of ‘Abdu’l‑Bahá: 1892—1921",
+        "start": 449,
+        "end": 612
+      },
+      {
+        "level": 2,
+        "title": "The Covenant of Bahá’u’lláh",
+        "start": 449,
+        "end": 461
+      },
+      {
+        "level": 2,
+        "title": "The Rebellion of Mírzá Muḥammad‑‘Alí",
+        "start": 461,
+        "end": 476
+      },
+      {
+        "level": 2,
+        "title": "The Rise and Establishment of the Faith in the West",
+        "start": 476,
+        "end": 496
+      },
+      {
+        "level": 2,
+        "title": "Renewal of ‘Abdu’l‑Bahá’s Incarceration",
+        "start": 496,
+        "end": 519
+      },
+      {
+        "level": 2,
+        "title": "Entombment of the Báb’s Remains on Mt. Carmel",
+        "start": 519,
+        "end": 532
+      },
+      {
+        "level": 2,
+        "title": "‘Abdu’l‑Bahá’s Travels in Europe and America",
+        "start": 532,
+        "end": 558
+      },
+      {
+        "level": 2,
+        "title": "Growth and Expansion of the Faith in East and West",
+        "start": 558,
+        "end": 586
+      },
+      {
+        "level": 2,
+        "title": "The Passing of ‘Abdu’l‑Bahá",
+        "start": 586,
+        "end": 612
+      },
+      {
+        "level": 1,
+        "title": "Fourth Period: The Inception of the Formative Age of the Bahá’í Faith: 1921—1944",
+        "start": 612,
+        "end": 771
+      },
+      {
+        "level": 2,
+        "title": "The Rise and Establishment of the Administrative Order",
+        "start": 612,
+        "end": 663
+      },
+      {
+        "level": 2,
+        "title": "Attacks on Bahá’í Institutions",
+        "start": 663,
+        "end": 686
+      },
+      {
+        "level": 2,
+        "title": "Emancipation and Recognition of the Faith and its Institutions",
+        "start": 686,
+        "end": 713
+      },
+      {
+        "level": 2,
+        "title": "International Expansion of Teaching Activities",
+        "start": 713,
+        "end": 771
+      },
+      {
+        "level": 1,
+        "title": "Retrospect and Prospect",
+        "start": 771,
+        "end": 786
+      }
+    ],
     "paragraphs": [
       "On the 23rd of May of this auspicious year the Bahá’í world will celebrate the centennial anniversary of the founding of the Faith of Bahá’u’lláh. It will commemorate at once the hundredth anniversary of the inception of the Bábí Dispensation, of the inauguration of the Bahá’í Era, of the commencement of the Bahá’í Cycle, and of the birth of ‘Abdu’l‑Bahá. The weight of the potentialities with which this Faith, possessing no peer or equal in the world’s spiritual history, and marking the culmination of a universal prophetic cycle, has been endowed, staggers our imagination. The brightness of the millennial glory which it must shed in the fullness of time dazzles our eyes. The magnitude of the shadow which its Author will continue to cast on successive Prophets destined to be raised up after Him eludes our calculation.",
       "Already in the space of less than a century the operation of the mysterious processes generated by its creative spirit has provoked a tumult in human society such as no mind can fathom. Itself undergoing a period of incubation during its primitive age, it has, through the emergence of its slowly‑crystallising system, induced a fermentation in the general life of mankind designed to shake the very foundations of a disordered society, to purify its life‑blood, to reorientate and reconstruct its institutions, and shape its final destiny.",

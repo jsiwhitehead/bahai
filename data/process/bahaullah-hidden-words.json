@@ -5,18 +5,21 @@
     "type": "Writings",
     "path": ["The Hidden Words"],
     "title": "Part One: From the Arabic",
-    "lines": {
-      "0": [
-        {
-          "type": "call",
-          "text": "He Is the Glory of Glories"
-        },
-        {
-          "type": "info",
-          "text": "This is that which hath descended from the realm of glory, uttered by the tongue of power and might, and revealed unto the Prophets of old. We have taken the inner essence thereof and clothed it in the garment of brevity, as a token of grace unto the righteous, that they may stand faithful unto the Covenant of God, may fulfil in their lives His trust, and in the realm of spirit obtain the gem of divine virtue."
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "call",
+            "text": "He Is the Glory of Glories"
+          },
+          {
+            "type": "info",
+            "text": "This is that which hath descended from the realm of glory, uttered by the tongue of power and might, and revealed unto the Prophets of old. We have taken the inner essence thereof and clothed it in the garment of brevity, as a token of grace unto the righteous, that they may stand faithful unto the Covenant of God, may fulfil in their lives His trust, and in the realm of spirit obtain the gem of divine virtue."
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "O Son of Spirit!\nMy first counsel is this: Possess a pure, kindly and radiant heart, that thine may be a sovereignty ancient, imperishable and everlasting.",
       "O Son of Spirit!\nThe best beloved of all things in My sight is Justice; turn not away therefrom if thou desirest Me, and neglect it not that I may confide in thee. By its aid thou shalt see with thine own eyes and not through the eyes of others, and shalt know of thine own knowledge and not through the knowledge of thy neighbour. Ponder this in thy heart; how it behoveth thee to be. Verily justice is My gift to thee and the sign of My loving‑kindness. Set it then before thine eyes.",
@@ -97,38 +100,53 @@
     "type": "Writings",
     "path": ["The Hidden Words"],
     "title": "Part Two: From the Persian",
-    "lines": {
-      "0": [
-        {
-          "type": "info",
-          "text": "In the Name of the Lord of Utterance, the Mighty."
-        }
-      ],
-      "19": [
-        {
-          "type": "info",
-          "text": "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:"
-        }
-      ],
-      "36": [
-        {
-          "type": "info",
-          "text": "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:"
-        }
-      ],
-      "47": [
-        {
-          "type": "info",
-          "text": "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:"
-        }
-      ],
-      "82": [
-        {
-          "type": "info",
-          "text": "The mystic and wondrous Bride, hidden ere this beneath the veiling of utterance, hath now, by the grace of God and His divine favour, been made manifest even as the resplendent light shed by the beauty of the Beloved. I bear witness, O friends! that the favour is complete, the argument fulfilled, the proof manifest and the evidence established. Let it now be seen what your endeavours in the path of detachment will reveal. In this wise hath the divine favour been fully vouchsafed unto you and unto them that are in heaven and on earth. All praise to God, the Lord of all Worlds."
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "info",
+            "text": "In the Name of the Lord of Utterance, the Mighty."
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "lines": [
+          {
+            "type": "info",
+            "text": "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "lines": [
+          {
+            "type": "info",
+            "text": "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:"
+          }
+        ]
+      },
+      {
+        "index": 47,
+        "lines": [
+          {
+            "type": "info",
+            "text": "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:"
+          }
+        ]
+      },
+      {
+        "index": 82,
+        "lines": [
+          {
+            "type": "info",
+            "text": "The mystic and wondrous Bride, hidden ere this beneath the veiling of utterance, hath now, by the grace of God and His divine favour, been made manifest even as the resplendent light shed by the beauty of the Beloved. I bear witness, O friends! that the favour is complete, the argument fulfilled, the proof manifest and the evidence established. Let it now be seen what your endeavours in the path of detachment will reveal. In this wise hath the divine favour been fully vouchsafed unto you and unto them that are in heaven and on earth. All praise to God, the Lord of all Worlds."
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "O Ye People that Have Minds to Know and Ears to Hear!\nThe first call of the Beloved is this: O mystic nightingale! Abide not but in the rose garden of the spirit. O messenger of the Solomon of love! Seek thou no shelter except in the Sheba of the well‑beloved, and O immortal phoenix! dwell not save on the mount of faithfulness. Therein is thy habitation, if on the wings of thy soul thou soarest to the realm of the infinite and seekest to attain thy goal.",
       "O Son of Spirit!\nThe bird seeketh its nest; the nightingale the charm of the rose; whilst those birds, the hearts of men, content with transient dust, have strayed far from their eternal nest, and with eyes turned towards the slough of heedlessness are bereft of the glory of the divine presence. Alas! How strange and pitiful; for a mere cupful, they have turned away from the billowing seas of the Most High, and remained far from the most effulgent horizon.",

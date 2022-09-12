@@ -78,14 +78,17 @@
     "path": ["The Most Holy Book"],
     "title": "The Most Holy Book",
     "translated": "Kitáb‑i‑Aqdas",
-    "lines": {
-      "0": [
-        {
-          "type": "call",
-          "text": "In the name of Him Who is the Supreme Ruler over all that hath been and all that is to be"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "call",
+            "text": "In the name of Him Who is the Supreme Ruler over all that hath been and all that is to be"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "The first duty prescribed by God for His servants is the recognition of Him Who is the Dayspring of His Revelation and the Fountain of His laws, Who representeth the Godhead in both the Kingdom of His Cause and the world of creation. Whoso achieveth this duty hath attained unto all good; and whoso is deprived thereof hath gone astray, though he be the author of every righteous deed. It behoveth everyone who reacheth this most sublime station, this summit of transcendent glory, to observe every ordinance of Him Who is the Desire of the world. These twin duties are inseparable. Neither is acceptable without the other. Thus hath it been decreed by Him Who is the Source of Divine inspiration.",
       "They whom God hath endued with insight will readily recognise that the precepts laid down by God constitute the highest means for the maintenance of order in the world and the security of its peoples. He that turneth away from them is accounted among the abject and foolish. We, verily, have commanded you to refuse the dictates of your evil passions and corrupt desires, and not to transgress the bounds which the Pen of the Most High hath fixed, for these are the breath of life unto all created things. The seas of Divine wisdom and Divine utterance have risen under the breath of the breeze of the All‑Merciful. Hasten to drink your fill, O men of understanding! They that have violated the Covenant of God by breaking His commandments, and have turned back on their heels, these have erred grievously in the sight of God, the All‑Possessing, the Most High.",
@@ -316,102 +319,147 @@
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
     "title": "Long Obligatory Prayer",
-    "lines": {
-      "0": [
-        {
-          "type": "info",
-          "text": "To be recited once in twenty‑four hours"
-        },
-        {
-          "type": "info",
-          "text": "Whoso wisheth to recite this prayer, let him stand up and turn unto God, and, as he standeth in his place, let him gaze to the right and to the left, as if awaiting the mercy of his Lord, the Most Merciful, the Compassionate. Then let him say:"
-        }
-      ],
-      "1": [
-        {
-          "type": "info",
-          "text": "Let him then raise his hands in supplication toward God—blessed and exalted be He—and say:"
-        }
-      ],
-      "2": [
-        {
-          "type": "info",
-          "text": "Let him then kneel, and bowing his forehead to the ground, let him say:"
-        }
-      ],
-      "3": [
-        {
-          "type": "info",
-          "text": "Let him then stand and say:"
-        }
-      ],
-      "4": [
-        {
-          "type": "info",
-          "text": "Let him again raise his hands in supplication, and say:"
-        }
-      ],
-      "5": [
-        {
-          "type": "info",
-          "text": "Let him then raise his hands, and repeat three times the Greatest Name. Let him then bend down with hands resting on the knees before God—blessed and exalted be He—and say:"
-        }
-      ],
-      "6": [
-        {
-          "type": "info",
-          "text": "Let him then stand and raise his hands twice in supplication, and say:"
-        }
-      ],
-      "7": [
-        {
-          "type": "info",
-          "text": "Let him then raise his hands thrice, and say:"
-        }
-      ],
-      "8": [
-        {
-          "type": "info",
-          "text": "Let him then kneel and, bowing his forehead to the ground, say:"
-        }
-      ],
-      "9": [
-        {
-          "type": "info",
-          "text": "Let him then seat himself and say:"
-        }
-      ],
-      "10": [
-        {
-          "type": "info",
-          "text": "Let him then stand erect and say:"
-        }
-      ],
-      "11": [
-        {
-          "type": "info",
-          "text": "Let him then repeat the Greatest Name thrice, and bend down with hands resting on the knees, and say:"
-        }
-      ],
-      "12": [
-        {
-          "type": "info",
-          "text": "Let him then rise and say:"
-        }
-      ],
-      "13": [
-        {
-          "type": "info",
-          "text": "Let him then repeat the Greatest Name thrice, and kneel with his forehead to the ground, and say:"
-        }
-      ],
-      "14": [
-        {
-          "type": "info",
-          "text": "Let him then raise his head, and seat himself, and say:"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "info",
+            "text": "To be recited once in twenty‑four hours"
+          },
+          {
+            "type": "info",
+            "text": "Whoso wisheth to recite this prayer, let him stand up and turn unto God, and, as he standeth in his place, let him gaze to the right and to the left, as if awaiting the mercy of his Lord, the Most Merciful, the Compassionate. Then let him say:"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then raise his hands in supplication toward God—blessed and exalted be He—and say:"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then kneel, and bowing his forehead to the ground, let him say:"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then stand and say:"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him again raise his hands in supplication, and say:"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then raise his hands, and repeat three times the Greatest Name. Let him then bend down with hands resting on the knees before God—blessed and exalted be He—and say:"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then stand and raise his hands twice in supplication, and say:"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then raise his hands thrice, and say:"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then kneel and, bowing his forehead to the ground, say:"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then seat himself and say:"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then stand erect and say:"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then repeat the Greatest Name thrice, and bend down with hands resting on the knees, and say:"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then rise and say:"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then repeat the Greatest Name thrice, and kneel with his forehead to the ground, and say:"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him then raise his head, and seat himself, and say:"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "O Thou Who art the Lord of all names and the Maker of the heavens! I beseech Thee by them Who are the Daysprings of Thine invisible Essence, the Most Exalted, the All‑Glorious, to make of my prayer a fire that will burn away the veils which have shut me out from Thy beauty, and a light that will lead me unto the ocean of Thy Presence.",
       "O Thou the Desire of the world and the Beloved of the nations! Thou seest me turning toward Thee, and rid of all attachment to anyone save Thee, and clinging to Thy cord, through whose movement the whole creation hath been stirred up. I am Thy servant, O my Lord, and the son of Thy servant. Behold me standing ready to do Thy will and Thy desire, and wishing naught else except Thy good pleasure. I implore Thee by the Ocean of Thy mercy and the Daystar of Thy grace to do with Thy servant as Thou willest and pleasest. By Thy might which is far above all mention and praise! Whatsoever is revealed by Thee is the desire of my heart and the beloved of my soul. O God, my God! Look not upon my hopes and my doings, nay rather look upon Thy will that hath encompassed the heavens and the earth. By Thy Most Great Name, O Thou Lord of all nations! I have desired only what Thou didst desire, and love only what Thou dost love.",
@@ -439,48 +487,66 @@
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
     "title": "Medium Obligatory Prayer",
-    "lines": {
-      "0": [
-        {
-          "type": "info",
-          "text": "To be recited daily, in the morning, at noon, and in the evening"
-        },
-        {
-          "type": "info",
-          "text": "Whoso wisheth to pray, let him wash his hands, and while he washeth, let him say:"
-        }
-      ],
-      "1": [
-        {
-          "type": "info",
-          "text": "And while washing his face, let him say:"
-        }
-      ],
-      "4": [
-        {
-          "type": "info",
-          "text": "Let him, then, bend down, with hands resting on the knees, and say:"
-        }
-      ],
-      "5": [
-        {
-          "type": "info",
-          "text": "Then, standing with open hands, palms upward toward the face, let him say:"
-        }
-      ],
-      "6": [
-        {
-          "type": "info",
-          "text": "Let him, then, be seated and say:"
-        }
-      ],
-      "7": [
-        {
-          "type": "info",
-          "text": "(If anyone choose to recite instead of the long verse these words: “God testifieth that there is none other God but Him, the Help in Peril, the Self‑Subsisting,” it would be sufficient. And likewise, it would suffice were he, while seated, to choose to recite these words: “I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.”)"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "info",
+            "text": "To be recited daily, in the morning, at noon, and in the evening"
+          },
+          {
+            "type": "info",
+            "text": "Whoso wisheth to pray, let him wash his hands, and while he washeth, let him say:"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "lines": [
+          {
+            "type": "info",
+            "text": "And while washing his face, let him say:"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him, then, bend down, with hands resting on the knees, and say:"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Then, standing with open hands, palms upward toward the face, let him say:"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him, then, be seated and say:"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "lines": [
+          {
+            "type": "info",
+            "text": "(If anyone choose to recite instead of the long verse these words: “God testifieth that there is none other God but Him, the Help in Peril, the Self‑Subsisting,” it would be sufficient. And likewise, it would suffice were he, while seated, to choose to recite these words: “I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.”)"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "Strengthen my hand, O my God, that it may take hold of Thy Book with such steadfastness that the hosts of the world shall have no power over it. Guard it, then, from meddling with whatsoever doth not belong unto it. Thou art, verily, the Almighty, the Most Powerful.",
       "I have turned my face unto Thee, O my Lord! Illumine it with the light of Thy countenance. Protect it, then, from turning to anyone but Thee.",
@@ -500,14 +566,17 @@
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
     "title": "Short Obligatory Prayer",
-    "lines": {
-      "0": [
-        {
-          "type": "info",
-          "text": "To be recited once in twenty‑four hours, at noon"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "info",
+            "text": "To be recited once in twenty‑four hours, at noon"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "I bear witness, O my God, that Thou hast created me to know Thee and to worship Thee. I testify, at this moment, to my powerlessness and to Thy might, to my poverty and to Thy wealth.",
       "There is none other God but Thee, the Help in Peril, the Self‑Subsisting."
@@ -522,20 +591,26 @@
       "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas"
     ],
     "title": "Prayer for the Dead",
-    "lines": {
-      "2": [
-        {
-          "type": "info",
-          "text": "Let him, then, repeat six times the greeting “Alláh‑u‑Abhá,” and then repeat nineteen times each of the following verses:"
-        }
-      ],
-      "3": [
-        {
-          "type": "info",
-          "text": "(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc. . .)"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 2,
+        "lines": [
+          {
+            "type": "info",
+            "text": "Let him, then, repeat six times the greeting “Alláh‑u‑Abhá,” and then repeat nineteen times each of the following verses:"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "lines": [
+          {
+            "type": "info",
+            "text": "(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc. . .)"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "O my God! This is Thy servant and the son of Thy servant who hath believed in Thee and in Thy signs, and set his face towards Thee, wholly detached from all except Thee. Thou art, verily, of those who show mercy the most merciful.",
       "Deal with him, O Thou Who forgivest the sins of men and concealest their faults, as beseemeth the heaven of Thy bounty and the ocean of Thy grace. Grant him admission within the precincts of Thy transcendent mercy that was before the foundation of earth and heaven. There is no God but Thee, the Ever‑Forgiving, the Most Generous.",
@@ -548,650 +623,543 @@
     "type": "Writings",
     "path": ["The Most Holy Book"],
     "title": "Questions and Answers",
-    "sections": {
-      "0": [
-        {
-          "level": 1,
-          "end": 2
-        }
-      ],
-      "2": [
-        {
-          "level": 1,
-          "end": 4
-        }
-      ],
-      "4": [
-        {
-          "level": 1,
-          "end": 6
-        }
-      ],
-      "6": [
-        {
-          "level": 1,
-          "end": 8
-        }
-      ],
-      "8": [
-        {
-          "level": 1,
-          "end": 10
-        }
-      ],
-      "10": [
-        {
-          "level": 1,
-          "end": 12
-        }
-      ],
-      "12": [
-        {
-          "level": 1,
-          "end": 14
-        }
-      ],
-      "14": [
-        {
-          "level": 1,
-          "end": 16
-        }
-      ],
-      "16": [
-        {
-          "level": 1,
-          "end": 18
-        }
-      ],
-      "18": [
-        {
-          "level": 1,
-          "end": 20
-        }
-      ],
-      "20": [
-        {
-          "level": 1,
-          "end": 22
-        }
-      ],
-      "22": [
-        {
-          "level": 1,
-          "end": 24
-        }
-      ],
-      "24": [
-        {
-          "level": 1,
-          "end": 26
-        }
-      ],
-      "26": [
-        {
-          "level": 1,
-          "end": 28
-        }
-      ],
-      "28": [
-        {
-          "level": 1,
-          "end": 30
-        }
-      ],
-      "30": [
-        {
-          "level": 1,
-          "end": 32
-        }
-      ],
-      "32": [
-        {
-          "level": 1,
-          "end": 34
-        }
-      ],
-      "34": [
-        {
-          "level": 1,
-          "end": 36
-        }
-      ],
-      "36": [
-        {
-          "level": 1,
-          "end": 38
-        }
-      ],
-      "38": [
-        {
-          "level": 1,
-          "end": 40
-        }
-      ],
-      "40": [
-        {
-          "level": 1,
-          "end": 42
-        }
-      ],
-      "42": [
-        {
-          "level": 1,
-          "end": 44
-        }
-      ],
-      "44": [
-        {
-          "level": 1,
-          "end": 46
-        }
-      ],
-      "46": [
-        {
-          "level": 1,
-          "end": 48
-        }
-      ],
-      "48": [
-        {
-          "level": 1,
-          "end": 50
-        }
-      ],
-      "50": [
-        {
-          "level": 1,
-          "end": 52
-        }
-      ],
-      "52": [
-        {
-          "level": 1,
-          "end": 54
-        }
-      ],
-      "54": [
-        {
-          "level": 1,
-          "end": 56
-        }
-      ],
-      "56": [
-        {
-          "level": 1,
-          "end": 58
-        }
-      ],
-      "58": [
-        {
-          "level": 1,
-          "end": 60
-        }
-      ],
-      "60": [
-        {
-          "level": 1,
-          "end": 62
-        }
-      ],
-      "62": [
-        {
-          "level": 1,
-          "end": 64
-        }
-      ],
-      "64": [
-        {
-          "level": 1,
-          "end": 66
-        }
-      ],
-      "66": [
-        {
-          "level": 1,
-          "end": 68
-        }
-      ],
-      "68": [
-        {
-          "level": 1,
-          "end": 70
-        }
-      ],
-      "70": [
-        {
-          "level": 1,
-          "end": 72
-        }
-      ],
-      "72": [
-        {
-          "level": 1,
-          "end": 74
-        }
-      ],
-      "74": [
-        {
-          "level": 1,
-          "end": 76
-        }
-      ],
-      "76": [
-        {
-          "level": 1,
-          "end": 78
-        }
-      ],
-      "78": [
-        {
-          "level": 1,
-          "end": 80
-        }
-      ],
-      "80": [
-        {
-          "level": 1,
-          "end": 82
-        }
-      ],
-      "82": [
-        {
-          "level": 1,
-          "end": 84
-        }
-      ],
-      "84": [
-        {
-          "level": 1,
-          "end": 86
-        }
-      ],
-      "86": [
-        {
-          "level": 1,
-          "end": 88
-        }
-      ],
-      "88": [
-        {
-          "level": 1,
-          "end": 90
-        }
-      ],
-      "90": [
-        {
-          "level": 1,
-          "end": 92
-        }
-      ],
-      "92": [
-        {
-          "level": 1,
-          "end": 94
-        }
-      ],
-      "94": [
-        {
-          "level": 1,
-          "end": 96
-        }
-      ],
-      "96": [
-        {
-          "level": 1,
-          "end": 98
-        }
-      ],
-      "98": [
-        {
-          "level": 1,
-          "end": 100
-        }
-      ],
-      "100": [
-        {
-          "level": 1,
-          "end": 102
-        }
-      ],
-      "102": [
-        {
-          "level": 1,
-          "end": 104
-        }
-      ],
-      "104": [
-        {
-          "level": 1,
-          "end": 106
-        }
-      ],
-      "106": [
-        {
-          "level": 1,
-          "end": 108
-        }
-      ],
-      "108": [
-        {
-          "level": 1,
-          "end": 110
-        }
-      ],
-      "110": [
-        {
-          "level": 1,
-          "end": 112
-        }
-      ],
-      "112": [
-        {
-          "level": 1,
-          "end": 114
-        }
-      ],
-      "114": [
-        {
-          "level": 1,
-          "end": 116
-        }
-      ],
-      "116": [
-        {
-          "level": 1,
-          "end": 118
-        }
-      ],
-      "118": [
-        {
-          "level": 1,
-          "end": 120
-        }
-      ],
-      "120": [
-        {
-          "level": 1,
-          "end": 122
-        }
-      ],
-      "122": [
-        {
-          "level": 1,
-          "end": 124
-        }
-      ],
-      "124": [
-        {
-          "level": 1,
-          "end": 126
-        }
-      ],
-      "126": [
-        {
-          "level": 1,
-          "end": 128
-        }
-      ],
-      "128": [
-        {
-          "level": 1,
-          "end": 130
-        }
-      ],
-      "130": [
-        {
-          "level": 1,
-          "end": 132
-        }
-      ],
-      "132": [
-        {
-          "level": 1,
-          "end": 134
-        }
-      ],
-      "134": [
-        {
-          "level": 1,
-          "end": 136
-        }
-      ],
-      "136": [
-        {
-          "level": 1,
-          "end": 138
-        }
-      ],
-      "138": [
-        {
-          "level": 1,
-          "end": 140
-        }
-      ],
-      "140": [
-        {
-          "level": 1,
-          "end": 142
-        }
-      ],
-      "142": [
-        {
-          "level": 1,
-          "end": 144
-        }
-      ],
-      "144": [
-        {
-          "level": 1,
-          "end": 146
-        }
-      ],
-      "146": [
-        {
-          "level": 1,
-          "end": 148
-        }
-      ],
-      "148": [
-        {
-          "level": 1,
-          "end": 150
-        }
-      ],
-      "150": [
-        {
-          "level": 1,
-          "end": 152
-        }
-      ],
-      "152": [
-        {
-          "level": 1,
-          "end": 154
-        }
-      ],
-      "154": [
-        {
-          "level": 1,
-          "end": 156
-        }
-      ],
-      "156": [
-        {
-          "level": 1,
-          "end": 158
-        }
-      ],
-      "158": [
-        {
-          "level": 1,
-          "end": 160
-        }
-      ],
-      "160": [
-        {
-          "level": 1,
-          "end": 162
-        }
-      ],
-      "162": [
-        {
-          "level": 1,
-          "end": 164
-        }
-      ],
-      "164": [
-        {
-          "level": 1,
-          "end": 166
-        }
-      ],
-      "166": [
-        {
-          "level": 1,
-          "end": 168
-        }
-      ],
-      "168": [
-        {
-          "level": 1,
-          "end": 170
-        }
-      ],
-      "170": [
-        {
-          "level": 1,
-          "end": 172
-        }
-      ],
-      "172": [
-        {
-          "level": 1,
-          "end": 174
-        }
-      ],
-      "174": [
-        {
-          "level": 1,
-          "end": 176
-        }
-      ],
-      "176": [
-        {
-          "level": 1,
-          "end": 178
-        }
-      ],
-      "178": [
-        {
-          "level": 1,
-          "end": 180
-        }
-      ],
-      "180": [
-        {
-          "level": 1,
-          "end": 182
-        }
-      ],
-      "182": [
-        {
-          "level": 1,
-          "end": 184
-        }
-      ],
-      "184": [
-        {
-          "level": 1,
-          "end": 186
-        }
-      ],
-      "186": [
-        {
-          "level": 1,
-          "end": 188
-        }
-      ],
-      "188": [
-        {
-          "level": 1,
-          "end": 190
-        }
-      ],
-      "190": [
-        {
-          "level": 1,
-          "end": 192
-        }
-      ],
-      "192": [
-        {
-          "level": 1,
-          "end": 194
-        }
-      ],
-      "194": [
-        {
-          "level": 1,
-          "end": 196
-        }
-      ],
-      "196": [
-        {
-          "level": 1,
-          "end": 198
-        }
-      ],
-      "198": [
-        {
-          "level": 1,
-          "end": 200
-        }
-      ],
-      "200": [
-        {
-          "level": 1,
-          "end": 202
-        }
-      ],
-      "202": [
-        {
-          "level": 1,
-          "end": 204
-        }
-      ],
-      "204": [
-        {
-          "level": 1,
-          "end": 206
-        }
-      ],
-      "206": [
-        {
-          "level": 1,
-          "end": 207
-        }
-      ],
-      "207": [
-        {
-          "level": 1,
-          "end": 208
-        }
-      ],
-      "208": [
-        {
-          "level": 1,
-          "end": 209
-        }
-      ],
-      "209": [
-        {
-          "level": 1,
-          "end": 210
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "start": 0,
+        "end": 2
+      },
+      {
+        "level": 1,
+        "start": 2,
+        "end": 4
+      },
+      {
+        "level": 1,
+        "start": 4,
+        "end": 6
+      },
+      {
+        "level": 1,
+        "start": 6,
+        "end": 8
+      },
+      {
+        "level": 1,
+        "start": 8,
+        "end": 10
+      },
+      {
+        "level": 1,
+        "start": 10,
+        "end": 12
+      },
+      {
+        "level": 1,
+        "start": 12,
+        "end": 14
+      },
+      {
+        "level": 1,
+        "start": 14,
+        "end": 16
+      },
+      {
+        "level": 1,
+        "start": 16,
+        "end": 18
+      },
+      {
+        "level": 1,
+        "start": 18,
+        "end": 20
+      },
+      {
+        "level": 1,
+        "start": 20,
+        "end": 22
+      },
+      {
+        "level": 1,
+        "start": 22,
+        "end": 24
+      },
+      {
+        "level": 1,
+        "start": 24,
+        "end": 26
+      },
+      {
+        "level": 1,
+        "start": 26,
+        "end": 28
+      },
+      {
+        "level": 1,
+        "start": 28,
+        "end": 30
+      },
+      {
+        "level": 1,
+        "start": 30,
+        "end": 32
+      },
+      {
+        "level": 1,
+        "start": 32,
+        "end": 34
+      },
+      {
+        "level": 1,
+        "start": 34,
+        "end": 36
+      },
+      {
+        "level": 1,
+        "start": 36,
+        "end": 38
+      },
+      {
+        "level": 1,
+        "start": 38,
+        "end": 40
+      },
+      {
+        "level": 1,
+        "start": 40,
+        "end": 42
+      },
+      {
+        "level": 1,
+        "start": 42,
+        "end": 44
+      },
+      {
+        "level": 1,
+        "start": 44,
+        "end": 46
+      },
+      {
+        "level": 1,
+        "start": 46,
+        "end": 48
+      },
+      {
+        "level": 1,
+        "start": 48,
+        "end": 50
+      },
+      {
+        "level": 1,
+        "start": 50,
+        "end": 52
+      },
+      {
+        "level": 1,
+        "start": 52,
+        "end": 54
+      },
+      {
+        "level": 1,
+        "start": 54,
+        "end": 56
+      },
+      {
+        "level": 1,
+        "start": 56,
+        "end": 58
+      },
+      {
+        "level": 1,
+        "start": 58,
+        "end": 60
+      },
+      {
+        "level": 1,
+        "start": 60,
+        "end": 62
+      },
+      {
+        "level": 1,
+        "start": 62,
+        "end": 64
+      },
+      {
+        "level": 1,
+        "start": 64,
+        "end": 66
+      },
+      {
+        "level": 1,
+        "start": 66,
+        "end": 68
+      },
+      {
+        "level": 1,
+        "start": 68,
+        "end": 70
+      },
+      {
+        "level": 1,
+        "start": 70,
+        "end": 72
+      },
+      {
+        "level": 1,
+        "start": 72,
+        "end": 74
+      },
+      {
+        "level": 1,
+        "start": 74,
+        "end": 76
+      },
+      {
+        "level": 1,
+        "start": 76,
+        "end": 78
+      },
+      {
+        "level": 1,
+        "start": 78,
+        "end": 80
+      },
+      {
+        "level": 1,
+        "start": 80,
+        "end": 82
+      },
+      {
+        "level": 1,
+        "start": 82,
+        "end": 84
+      },
+      {
+        "level": 1,
+        "start": 84,
+        "end": 86
+      },
+      {
+        "level": 1,
+        "start": 86,
+        "end": 88
+      },
+      {
+        "level": 1,
+        "start": 88,
+        "end": 90
+      },
+      {
+        "level": 1,
+        "start": 90,
+        "end": 92
+      },
+      {
+        "level": 1,
+        "start": 92,
+        "end": 94
+      },
+      {
+        "level": 1,
+        "start": 94,
+        "end": 96
+      },
+      {
+        "level": 1,
+        "start": 96,
+        "end": 98
+      },
+      {
+        "level": 1,
+        "start": 98,
+        "end": 100
+      },
+      {
+        "level": 1,
+        "start": 100,
+        "end": 102
+      },
+      {
+        "level": 1,
+        "start": 102,
+        "end": 104
+      },
+      {
+        "level": 1,
+        "start": 104,
+        "end": 106
+      },
+      {
+        "level": 1,
+        "start": 106,
+        "end": 108
+      },
+      {
+        "level": 1,
+        "start": 108,
+        "end": 110
+      },
+      {
+        "level": 1,
+        "start": 110,
+        "end": 112
+      },
+      {
+        "level": 1,
+        "start": 112,
+        "end": 114
+      },
+      {
+        "level": 1,
+        "start": 114,
+        "end": 116
+      },
+      {
+        "level": 1,
+        "start": 116,
+        "end": 118
+      },
+      {
+        "level": 1,
+        "start": 118,
+        "end": 120
+      },
+      {
+        "level": 1,
+        "start": 120,
+        "end": 122
+      },
+      {
+        "level": 1,
+        "start": 122,
+        "end": 124
+      },
+      {
+        "level": 1,
+        "start": 124,
+        "end": 126
+      },
+      {
+        "level": 1,
+        "start": 126,
+        "end": 128
+      },
+      {
+        "level": 1,
+        "start": 128,
+        "end": 130
+      },
+      {
+        "level": 1,
+        "start": 130,
+        "end": 132
+      },
+      {
+        "level": 1,
+        "start": 132,
+        "end": 134
+      },
+      {
+        "level": 1,
+        "start": 134,
+        "end": 136
+      },
+      {
+        "level": 1,
+        "start": 136,
+        "end": 138
+      },
+      {
+        "level": 1,
+        "start": 138,
+        "end": 140
+      },
+      {
+        "level": 1,
+        "start": 140,
+        "end": 142
+      },
+      {
+        "level": 1,
+        "start": 142,
+        "end": 144
+      },
+      {
+        "level": 1,
+        "start": 144,
+        "end": 146
+      },
+      {
+        "level": 1,
+        "start": 146,
+        "end": 148
+      },
+      {
+        "level": 1,
+        "start": 148,
+        "end": 150
+      },
+      {
+        "level": 1,
+        "start": 150,
+        "end": 152
+      },
+      {
+        "level": 1,
+        "start": 152,
+        "end": 154
+      },
+      {
+        "level": 1,
+        "start": 154,
+        "end": 156
+      },
+      {
+        "level": 1,
+        "start": 156,
+        "end": 158
+      },
+      {
+        "level": 1,
+        "start": 158,
+        "end": 160
+      },
+      {
+        "level": 1,
+        "start": 160,
+        "end": 162
+      },
+      {
+        "level": 1,
+        "start": 162,
+        "end": 164
+      },
+      {
+        "level": 1,
+        "start": 164,
+        "end": 166
+      },
+      {
+        "level": 1,
+        "start": 166,
+        "end": 168
+      },
+      {
+        "level": 1,
+        "start": 168,
+        "end": 170
+      },
+      {
+        "level": 1,
+        "start": 170,
+        "end": 172
+      },
+      {
+        "level": 1,
+        "start": 172,
+        "end": 174
+      },
+      {
+        "level": 1,
+        "start": 174,
+        "end": 176
+      },
+      {
+        "level": 1,
+        "start": 176,
+        "end": 178
+      },
+      {
+        "level": 1,
+        "start": 178,
+        "end": 180
+      },
+      {
+        "level": 1,
+        "start": 180,
+        "end": 182
+      },
+      {
+        "level": 1,
+        "start": 182,
+        "end": 184
+      },
+      {
+        "level": 1,
+        "start": 184,
+        "end": 186
+      },
+      {
+        "level": 1,
+        "start": 186,
+        "end": 188
+      },
+      {
+        "level": 1,
+        "start": 188,
+        "end": 190
+      },
+      {
+        "level": 1,
+        "start": 190,
+        "end": 192
+      },
+      {
+        "level": 1,
+        "start": 192,
+        "end": 194
+      },
+      {
+        "level": 1,
+        "start": 194,
+        "end": 196
+      },
+      {
+        "level": 1,
+        "start": 196,
+        "end": 198
+      },
+      {
+        "level": 1,
+        "start": 198,
+        "end": 200
+      },
+      {
+        "level": 1,
+        "start": 200,
+        "end": 202
+      },
+      {
+        "level": 1,
+        "start": 202,
+        "end": 204
+      },
+      {
+        "level": 1,
+        "start": 204,
+        "end": 206
+      },
+      {
+        "level": 1,
+        "start": 206,
+        "end": 207
+      },
+      {
+        "level": 1,
+        "start": 207,
+        "end": 208
+      },
+      {
+        "level": 1,
+        "start": 208,
+        "end": 209
+      },
+      {
+        "level": 1,
+        "start": 209,
+        "end": 210
+      }
+    ],
     "paragraphs": [
       "Question: Concerning the Most Great Festival.",
       "Answer: The Most Great Festival commenceth late in the afternoon of the thirteenth day of the second month of the year according to the Bayán. On the first, ninth and twelfth days of this Festival, work is forbidden.",
@@ -1411,50 +1379,43 @@
     "type": "Writings",
     "path": ["The Most Holy Book"],
     "title": "Synopsis and Codification of the Laws and Ordinances of the Kitáb‑i‑Aqdas",
-    "sections": {
-      "112": [
-        {
-          "level": 1,
-          "end": 117
-        }
-      ],
-      "117": [
-        {
-          "level": 1,
-          "end": 122
-        }
-      ],
-      "122": [
-        {
-          "level": 1,
-          "end": 127
-        }
-      ],
-      "127": [
-        {
-          "level": 1,
-          "end": 132
-        }
-      ],
-      "132": [
-        {
-          "level": 1,
-          "end": 137
-        }
-      ],
-      "137": [
-        {
-          "level": 1,
-          "end": 142
-        }
-      ],
-      "142": [
-        {
-          "level": 1,
-          "end": 333
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "start": 112,
+        "end": 117
+      },
+      {
+        "level": 1,
+        "start": 117,
+        "end": 122
+      },
+      {
+        "level": 1,
+        "start": 122,
+        "end": 127
+      },
+      {
+        "level": 1,
+        "start": 127,
+        "end": 132
+      },
+      {
+        "level": 1,
+        "start": 132,
+        "end": 137
+      },
+      {
+        "level": 1,
+        "start": 137,
+        "end": 142
+      },
+      {
+        "level": 1,
+        "start": 142,
+        "end": 333
+      }
+    ],
     "paragraphs": [
       "Summary of Contents",
       "The Appointment of ‘Abdu’l‑Bahá as the Successor of Bahá’u’lláh and Interpreter of His Teachings",
@@ -1797,1172 +1758,978 @@
     "type": "Writings",
     "path": ["The Most Holy Book"],
     "title": "Notes",
-    "sections": {
-      "0": [
-        {
-          "level": 1,
-          "end": 3
-        }
-      ],
-      "3": [
-        {
-          "level": 1,
-          "end": 8
-        }
-      ],
-      "8": [
-        {
-          "level": 1,
-          "end": 14
-        }
-      ],
-      "14": [
-        {
-          "level": 1,
-          "end": 19
-        }
-      ],
-      "19": [
-        {
-          "level": 1,
-          "end": 22
-        }
-      ],
-      "22": [
-        {
-          "level": 1,
-          "end": 26
-        }
-      ],
-      "26": [
-        {
-          "level": 1,
-          "end": 30
-        }
-      ],
-      "30": [
-        {
-          "level": 1,
-          "end": 34
-        }
-      ],
-      "34": [
-        {
-          "level": 1,
-          "end": 37
-        }
-      ],
-      "37": [
-        {
-          "level": 1,
-          "end": 40
-        }
-      ],
-      "40": [
-        {
-          "level": 1,
-          "end": 42
-        }
-      ],
-      "42": [
-        {
-          "level": 1,
-          "end": 44
-        }
-      ],
-      "44": [
-        {
-          "level": 1,
-          "end": 46
-        }
-      ],
-      "46": [
-        {
-          "level": 1,
-          "end": 49
-        }
-      ],
-      "49": [
-        {
-          "level": 1,
-          "end": 51
-        }
-      ],
-      "51": [
-        {
-          "level": 1,
-          "end": 54
-        }
-      ],
-      "54": [
-        {
-          "level": 1,
-          "end": 56
-        }
-      ],
-      "56": [
-        {
-          "level": 1,
-          "end": 58
-        }
-      ],
-      "58": [
-        {
-          "level": 1,
-          "end": 63
-        }
-      ],
-      "63": [
-        {
-          "level": 1,
-          "end": 68
-        }
-      ],
-      "68": [
-        {
-          "level": 1,
-          "end": 72
-        }
-      ],
-      "72": [
-        {
-          "level": 1,
-          "end": 74
-        }
-      ],
-      "74": [
-        {
-          "level": 1,
-          "end": 84
-        }
-      ],
-      "84": [
-        {
-          "level": 1,
-          "end": 86
-        }
-      ],
-      "86": [
-        {
-          "level": 1,
-          "end": 93
-        }
-      ],
-      "93": [
-        {
-          "level": 1,
-          "end": 97
-        }
-      ],
-      "97": [
-        {
-          "level": 1,
-          "end": 99
-        }
-      ],
-      "99": [
-        {
-          "level": 1,
-          "end": 102
-        }
-      ],
-      "102": [
-        {
-          "level": 1,
-          "end": 104
-        }
-      ],
-      "104": [
-        {
-          "level": 1,
-          "end": 107
-        }
-      ],
-      "107": [
-        {
-          "level": 1,
-          "end": 109
-        }
-      ],
-      "109": [
-        {
-          "level": 1,
-          "end": 111
-        }
-      ],
-      "111": [
-        {
-          "level": 1,
-          "end": 117
-        }
-      ],
-      "117": [
-        {
-          "level": 1,
-          "end": 123
-        }
-      ],
-      "123": [
-        {
-          "level": 1,
-          "end": 125
-        }
-      ],
-      "125": [
-        {
-          "level": 1,
-          "end": 127
-        }
-      ],
-      "127": [
-        {
-          "level": 1,
-          "end": 129
-        }
-      ],
-      "129": [
-        {
-          "level": 1,
-          "end": 144
-        }
-      ],
-      "144": [
-        {
-          "level": 1,
-          "end": 146
-        }
-      ],
-      "146": [
-        {
-          "level": 1,
-          "end": 149
-        }
-      ],
-      "149": [
-        {
-          "level": 1,
-          "end": 151
-        }
-      ],
-      "151": [
-        {
-          "level": 1,
-          "end": 154
-        }
-      ],
-      "154": [
-        {
-          "level": 1,
-          "end": 156
-        }
-      ],
-      "156": [
-        {
-          "level": 1,
-          "end": 159
-        }
-      ],
-      "159": [
-        {
-          "level": 1,
-          "end": 161
-        }
-      ],
-      "161": [
-        {
-          "level": 1,
-          "end": 163
-        }
-      ],
-      "163": [
-        {
-          "level": 1,
-          "end": 165
-        }
-      ],
-      "165": [
-        {
-          "level": 1,
-          "end": 168
-        }
-      ],
-      "168": [
-        {
-          "level": 1,
-          "end": 173
-        }
-      ],
-      "173": [
-        {
-          "level": 1,
-          "end": 175
-        }
-      ],
-      "175": [
-        {
-          "level": 1,
-          "end": 177
-        }
-      ],
-      "177": [
-        {
-          "level": 1,
-          "end": 180
-        }
-      ],
-      "180": [
-        {
-          "level": 1,
-          "end": 182
-        }
-      ],
-      "182": [
-        {
-          "level": 1,
-          "end": 185
-        }
-      ],
-      "185": [
-        {
-          "level": 1,
-          "end": 188
-        }
-      ],
-      "188": [
-        {
-          "level": 1,
-          "end": 194
-        }
-      ],
-      "194": [
-        {
-          "level": 1,
-          "end": 196
-        }
-      ],
-      "196": [
-        {
-          "level": 1,
-          "end": 201
-        }
-      ],
-      "201": [
-        {
-          "level": 1,
-          "end": 203
-        }
-      ],
-      "203": [
-        {
-          "level": 1,
-          "end": 205
-        }
-      ],
-      "205": [
-        {
-          "level": 1,
-          "end": 207
-        }
-      ],
-      "207": [
-        {
-          "level": 1,
-          "end": 210
-        }
-      ],
-      "210": [
-        {
-          "level": 1,
-          "end": 212
-        }
-      ],
-      "212": [
-        {
-          "level": 1,
-          "end": 214
-        }
-      ],
-      "214": [
-        {
-          "level": 1,
-          "end": 216
-        }
-      ],
-      "216": [
-        {
-          "level": 1,
-          "end": 219
-        }
-      ],
-      "219": [
-        {
-          "level": 1,
-          "end": 221
-        }
-      ],
-      "221": [
-        {
-          "level": 1,
-          "end": 223
-        }
-      ],
-      "223": [
-        {
-          "level": 1,
-          "end": 225
-        }
-      ],
-      "225": [
-        {
-          "level": 1,
-          "end": 227
-        }
-      ],
-      "227": [
-        {
-          "level": 1,
-          "end": 229
-        }
-      ],
-      "229": [
-        {
-          "level": 1,
-          "end": 231
-        }
-      ],
-      "231": [
-        {
-          "level": 1,
-          "end": 233
-        }
-      ],
-      "233": [
-        {
-          "level": 1,
-          "end": 235
-        }
-      ],
-      "235": [
-        {
-          "level": 1,
-          "end": 238
-        }
-      ],
-      "238": [
-        {
-          "level": 1,
-          "end": 240
-        }
-      ],
-      "240": [
-        {
-          "level": 1,
-          "end": 244
-        }
-      ],
-      "244": [
-        {
-          "level": 1,
-          "end": 247
-        }
-      ],
-      "247": [
-        {
-          "level": 1,
-          "end": 250
-        }
-      ],
-      "250": [
-        {
-          "level": 1,
-          "end": 252
-        }
-      ],
-      "252": [
-        {
-          "level": 1,
-          "end": 254
-        }
-      ],
-      "254": [
-        {
-          "level": 1,
-          "end": 259
-        }
-      ],
-      "259": [
-        {
-          "level": 1,
-          "end": 261
-        }
-      ],
-      "261": [
-        {
-          "level": 1,
-          "end": 263
-        }
-      ],
-      "263": [
-        {
-          "level": 1,
-          "end": 265
-        }
-      ],
-      "265": [
-        {
-          "level": 1,
-          "end": 272
-        }
-      ],
-      "272": [
-        {
-          "level": 1,
-          "end": 274
-        }
-      ],
-      "274": [
-        {
-          "level": 1,
-          "end": 277
-        }
-      ],
-      "277": [
-        {
-          "level": 1,
-          "end": 281
-        }
-      ],
-      "281": [
-        {
-          "level": 1,
-          "end": 283
-        }
-      ],
-      "283": [
-        {
-          "level": 1,
-          "end": 285
-        }
-      ],
-      "285": [
-        {
-          "level": 1,
-          "end": 288
-        }
-      ],
-      "288": [
-        {
-          "level": 1,
-          "end": 292
-        }
-      ],
-      "292": [
-        {
-          "level": 1,
-          "end": 294
-        }
-      ],
-      "294": [
-        {
-          "level": 1,
-          "end": 300
-        }
-      ],
-      "300": [
-        {
-          "level": 1,
-          "end": 302
-        }
-      ],
-      "302": [
-        {
-          "level": 1,
-          "end": 305
-        }
-      ],
-      "305": [
-        {
-          "level": 1,
-          "end": 307
-        }
-      ],
-      "307": [
-        {
-          "level": 1,
-          "end": 309
-        }
-      ],
-      "309": [
-        {
-          "level": 1,
-          "end": 313
-        }
-      ],
-      "313": [
-        {
-          "level": 1,
-          "end": 315
-        }
-      ],
-      "315": [
-        {
-          "level": 1,
-          "end": 317
-        }
-      ],
-      "317": [
-        {
-          "level": 1,
-          "end": 319
-        }
-      ],
-      "319": [
-        {
-          "level": 1,
-          "end": 321
-        }
-      ],
-      "321": [
-        {
-          "level": 1,
-          "end": 323
-        }
-      ],
-      "323": [
-        {
-          "level": 1,
-          "end": 325
-        }
-      ],
-      "325": [
-        {
-          "level": 1,
-          "end": 328
-        }
-      ],
-      "328": [
-        {
-          "level": 1,
-          "end": 331
-        }
-      ],
-      "331": [
-        {
-          "level": 1,
-          "end": 336
-        }
-      ],
-      "336": [
-        {
-          "level": 1,
-          "end": 339
-        }
-      ],
-      "339": [
-        {
-          "level": 1,
-          "end": 341
-        }
-      ],
-      "341": [
-        {
-          "level": 1,
-          "end": 343
-        }
-      ],
-      "343": [
-        {
-          "level": 1,
-          "end": 345
-        }
-      ],
-      "345": [
-        {
-          "level": 1,
-          "end": 348
-        }
-      ],
-      "348": [
-        {
-          "level": 1,
-          "end": 350
-        }
-      ],
-      "350": [
-        {
-          "level": 1,
-          "end": 353
-        }
-      ],
-      "353": [
-        {
-          "level": 1,
-          "end": 355
-        }
-      ],
-      "355": [
-        {
-          "level": 1,
-          "end": 359
-        }
-      ],
-      "359": [
-        {
-          "level": 1,
-          "end": 361
-        }
-      ],
-      "361": [
-        {
-          "level": 1,
-          "end": 364
-        }
-      ],
-      "364": [
-        {
-          "level": 1,
-          "end": 367
-        }
-      ],
-      "367": [
-        {
-          "level": 1,
-          "end": 369
-        }
-      ],
-      "369": [
-        {
-          "level": 1,
-          "end": 371
-        }
-      ],
-      "371": [
-        {
-          "level": 1,
-          "end": 373
-        }
-      ],
-      "373": [
-        {
-          "level": 1,
-          "end": 378
-        }
-      ],
-      "378": [
-        {
-          "level": 1,
-          "end": 380
-        }
-      ],
-      "380": [
-        {
-          "level": 1,
-          "end": 382
-        }
-      ],
-      "382": [
-        {
-          "level": 1,
-          "end": 384
-        }
-      ],
-      "384": [
-        {
-          "level": 1,
-          "end": 386
-        }
-      ],
-      "386": [
-        {
-          "level": 1,
-          "end": 390
-        }
-      ],
-      "390": [
-        {
-          "level": 1,
-          "end": 392
-        }
-      ],
-      "392": [
-        {
-          "level": 1,
-          "end": 394
-        }
-      ],
-      "394": [
-        {
-          "level": 1,
-          "end": 397
-        }
-      ],
-      "397": [
-        {
-          "level": 1,
-          "end": 403
-        }
-      ],
-      "403": [
-        {
-          "level": 1,
-          "end": 405
-        }
-      ],
-      "405": [
-        {
-          "level": 1,
-          "end": 408
-        }
-      ],
-      "408": [
-        {
-          "level": 1,
-          "end": 410
-        }
-      ],
-      "410": [
-        {
-          "level": 1,
-          "end": 413
-        }
-      ],
-      "413": [
-        {
-          "level": 1,
-          "end": 416
-        }
-      ],
-      "416": [
-        {
-          "level": 1,
-          "end": 418
-        }
-      ],
-      "418": [
-        {
-          "level": 1,
-          "end": 420
-        }
-      ],
-      "420": [
-        {
-          "level": 1,
-          "end": 422
-        }
-      ],
-      "422": [
-        {
-          "level": 1,
-          "end": 424
-        }
-      ],
-      "424": [
-        {
-          "level": 1,
-          "end": 429
-        }
-      ],
-      "429": [
-        {
-          "level": 1,
-          "end": 431
-        }
-      ],
-      "431": [
-        {
-          "level": 1,
-          "end": 434
-        }
-      ],
-      "434": [
-        {
-          "level": 1,
-          "end": 436
-        }
-      ],
-      "436": [
-        {
-          "level": 1,
-          "end": 438
-        }
-      ],
-      "438": [
-        {
-          "level": 1,
-          "end": 442
-        }
-      ],
-      "442": [
-        {
-          "level": 1,
-          "end": 444
-        }
-      ],
-      "444": [
-        {
-          "level": 1,
-          "end": 448
-        }
-      ],
-      "448": [
-        {
-          "level": 1,
-          "end": 451
-        }
-      ],
-      "451": [
-        {
-          "level": 1,
-          "end": 453
-        }
-      ],
-      "453": [
-        {
-          "level": 1,
-          "end": 456
-        }
-      ],
-      "456": [
-        {
-          "level": 1,
-          "end": 460
-        }
-      ],
-      "460": [
-        {
-          "level": 1,
-          "end": 462
-        }
-      ],
-      "462": [
-        {
-          "level": 1,
-          "end": 464
-        }
-      ],
-      "464": [
-        {
-          "level": 1,
-          "end": 467
-        }
-      ],
-      "467": [
-        {
-          "level": 1,
-          "end": 469
-        }
-      ],
-      "469": [
-        {
-          "level": 1,
-          "end": 481
-        }
-      ],
-      "481": [
-        {
-          "level": 1,
-          "end": 484
-        }
-      ],
-      "484": [
-        {
-          "level": 1,
-          "end": 487
-        }
-      ],
-      "487": [
-        {
-          "level": 1,
-          "end": 489
-        }
-      ],
-      "489": [
-        {
-          "level": 1,
-          "end": 491
-        }
-      ],
-      "491": [
-        {
-          "level": 1,
-          "end": 494
-        }
-      ],
-      "494": [
-        {
-          "level": 1,
-          "end": 496
-        }
-      ],
-      "496": [
-        {
-          "level": 1,
-          "end": 498
-        }
-      ],
-      "498": [
-        {
-          "level": 1,
-          "end": 501
-        }
-      ],
-      "501": [
-        {
-          "level": 1,
-          "end": 504
-        }
-      ],
-      "504": [
-        {
-          "level": 1,
-          "end": 514
-        }
-      ],
-      "514": [
-        {
-          "level": 1,
-          "end": 516
-        }
-      ],
-      "516": [
-        {
-          "level": 1,
-          "end": 519
-        }
-      ],
-      "519": [
-        {
-          "level": 1,
-          "end": 523
-        }
-      ],
-      "523": [
-        {
-          "level": 1,
-          "end": 525
-        }
-      ],
-      "525": [
-        {
-          "level": 1,
-          "end": 528
-        }
-      ],
-      "528": [
-        {
-          "level": 1,
-          "end": 530
-        }
-      ],
-      "530": [
-        {
-          "level": 1,
-          "end": 532
-        }
-      ],
-      "532": [
-        {
-          "level": 1,
-          "end": 535
-        }
-      ],
-      "535": [
-        {
-          "level": 1,
-          "end": 537
-        }
-      ],
-      "537": [
-        {
-          "level": 1,
-          "end": 539
-        }
-      ],
-      "539": [
-        {
-          "level": 1,
-          "end": 542
-        }
-      ],
-      "542": [
-        {
-          "level": 1,
-          "end": 545
-        }
-      ],
-      "545": [
-        {
-          "level": 1,
-          "end": 550
-        }
-      ],
-      "550": [
-        {
-          "level": 1,
-          "end": 552
-        }
-      ],
-      "552": [
-        {
-          "level": 1,
-          "end": 556
-        }
-      ],
-      "556": [
-        {
-          "level": 1,
-          "end": 558
-        }
-      ],
-      "558": [
-        {
-          "level": 1,
-          "end": 560
-        }
-      ],
-      "560": [
-        {
-          "level": 1,
-          "end": 563
-        }
-      ],
-      "563": [
-        {
-          "level": 1,
-          "end": 567
-        }
-      ],
-      "567": [
-        {
-          "level": 1,
-          "end": 569
-        }
-      ],
-      "569": [
-        {
-          "level": 1,
-          "end": 571
-        }
-      ],
-      "571": [
-        {
-          "level": 1,
-          "end": 575
-        }
-      ],
-      "575": [
-        {
-          "level": 1,
-          "end": 577
-        }
-      ],
-      "577": [
-        {
-          "level": 1,
-          "end": 583
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "start": 0,
+        "end": 3
+      },
+      {
+        "level": 1,
+        "start": 3,
+        "end": 8
+      },
+      {
+        "level": 1,
+        "start": 8,
+        "end": 14
+      },
+      {
+        "level": 1,
+        "start": 14,
+        "end": 19
+      },
+      {
+        "level": 1,
+        "start": 19,
+        "end": 22
+      },
+      {
+        "level": 1,
+        "start": 22,
+        "end": 26
+      },
+      {
+        "level": 1,
+        "start": 26,
+        "end": 30
+      },
+      {
+        "level": 1,
+        "start": 30,
+        "end": 34
+      },
+      {
+        "level": 1,
+        "start": 34,
+        "end": 37
+      },
+      {
+        "level": 1,
+        "start": 37,
+        "end": 40
+      },
+      {
+        "level": 1,
+        "start": 40,
+        "end": 42
+      },
+      {
+        "level": 1,
+        "start": 42,
+        "end": 44
+      },
+      {
+        "level": 1,
+        "start": 44,
+        "end": 46
+      },
+      {
+        "level": 1,
+        "start": 46,
+        "end": 49
+      },
+      {
+        "level": 1,
+        "start": 49,
+        "end": 51
+      },
+      {
+        "level": 1,
+        "start": 51,
+        "end": 54
+      },
+      {
+        "level": 1,
+        "start": 54,
+        "end": 56
+      },
+      {
+        "level": 1,
+        "start": 56,
+        "end": 58
+      },
+      {
+        "level": 1,
+        "start": 58,
+        "end": 63
+      },
+      {
+        "level": 1,
+        "start": 63,
+        "end": 68
+      },
+      {
+        "level": 1,
+        "start": 68,
+        "end": 72
+      },
+      {
+        "level": 1,
+        "start": 72,
+        "end": 74
+      },
+      {
+        "level": 1,
+        "start": 74,
+        "end": 84
+      },
+      {
+        "level": 1,
+        "start": 84,
+        "end": 86
+      },
+      {
+        "level": 1,
+        "start": 86,
+        "end": 93
+      },
+      {
+        "level": 1,
+        "start": 93,
+        "end": 97
+      },
+      {
+        "level": 1,
+        "start": 97,
+        "end": 99
+      },
+      {
+        "level": 1,
+        "start": 99,
+        "end": 102
+      },
+      {
+        "level": 1,
+        "start": 102,
+        "end": 104
+      },
+      {
+        "level": 1,
+        "start": 104,
+        "end": 107
+      },
+      {
+        "level": 1,
+        "start": 107,
+        "end": 109
+      },
+      {
+        "level": 1,
+        "start": 109,
+        "end": 111
+      },
+      {
+        "level": 1,
+        "start": 111,
+        "end": 117
+      },
+      {
+        "level": 1,
+        "start": 117,
+        "end": 123
+      },
+      {
+        "level": 1,
+        "start": 123,
+        "end": 125
+      },
+      {
+        "level": 1,
+        "start": 125,
+        "end": 127
+      },
+      {
+        "level": 1,
+        "start": 127,
+        "end": 129
+      },
+      {
+        "level": 1,
+        "start": 129,
+        "end": 144
+      },
+      {
+        "level": 1,
+        "start": 144,
+        "end": 146
+      },
+      {
+        "level": 1,
+        "start": 146,
+        "end": 149
+      },
+      {
+        "level": 1,
+        "start": 149,
+        "end": 151
+      },
+      {
+        "level": 1,
+        "start": 151,
+        "end": 154
+      },
+      {
+        "level": 1,
+        "start": 154,
+        "end": 156
+      },
+      {
+        "level": 1,
+        "start": 156,
+        "end": 159
+      },
+      {
+        "level": 1,
+        "start": 159,
+        "end": 161
+      },
+      {
+        "level": 1,
+        "start": 161,
+        "end": 163
+      },
+      {
+        "level": 1,
+        "start": 163,
+        "end": 165
+      },
+      {
+        "level": 1,
+        "start": 165,
+        "end": 168
+      },
+      {
+        "level": 1,
+        "start": 168,
+        "end": 173
+      },
+      {
+        "level": 1,
+        "start": 173,
+        "end": 175
+      },
+      {
+        "level": 1,
+        "start": 175,
+        "end": 177
+      },
+      {
+        "level": 1,
+        "start": 177,
+        "end": 180
+      },
+      {
+        "level": 1,
+        "start": 180,
+        "end": 182
+      },
+      {
+        "level": 1,
+        "start": 182,
+        "end": 185
+      },
+      {
+        "level": 1,
+        "start": 185,
+        "end": 188
+      },
+      {
+        "level": 1,
+        "start": 188,
+        "end": 194
+      },
+      {
+        "level": 1,
+        "start": 194,
+        "end": 196
+      },
+      {
+        "level": 1,
+        "start": 196,
+        "end": 201
+      },
+      {
+        "level": 1,
+        "start": 201,
+        "end": 203
+      },
+      {
+        "level": 1,
+        "start": 203,
+        "end": 205
+      },
+      {
+        "level": 1,
+        "start": 205,
+        "end": 207
+      },
+      {
+        "level": 1,
+        "start": 207,
+        "end": 210
+      },
+      {
+        "level": 1,
+        "start": 210,
+        "end": 212
+      },
+      {
+        "level": 1,
+        "start": 212,
+        "end": 214
+      },
+      {
+        "level": 1,
+        "start": 214,
+        "end": 216
+      },
+      {
+        "level": 1,
+        "start": 216,
+        "end": 219
+      },
+      {
+        "level": 1,
+        "start": 219,
+        "end": 221
+      },
+      {
+        "level": 1,
+        "start": 221,
+        "end": 223
+      },
+      {
+        "level": 1,
+        "start": 223,
+        "end": 225
+      },
+      {
+        "level": 1,
+        "start": 225,
+        "end": 227
+      },
+      {
+        "level": 1,
+        "start": 227,
+        "end": 229
+      },
+      {
+        "level": 1,
+        "start": 229,
+        "end": 231
+      },
+      {
+        "level": 1,
+        "start": 231,
+        "end": 233
+      },
+      {
+        "level": 1,
+        "start": 233,
+        "end": 235
+      },
+      {
+        "level": 1,
+        "start": 235,
+        "end": 238
+      },
+      {
+        "level": 1,
+        "start": 238,
+        "end": 240
+      },
+      {
+        "level": 1,
+        "start": 240,
+        "end": 244
+      },
+      {
+        "level": 1,
+        "start": 244,
+        "end": 247
+      },
+      {
+        "level": 1,
+        "start": 247,
+        "end": 250
+      },
+      {
+        "level": 1,
+        "start": 250,
+        "end": 252
+      },
+      {
+        "level": 1,
+        "start": 252,
+        "end": 254
+      },
+      {
+        "level": 1,
+        "start": 254,
+        "end": 259
+      },
+      {
+        "level": 1,
+        "start": 259,
+        "end": 261
+      },
+      {
+        "level": 1,
+        "start": 261,
+        "end": 263
+      },
+      {
+        "level": 1,
+        "start": 263,
+        "end": 265
+      },
+      {
+        "level": 1,
+        "start": 265,
+        "end": 272
+      },
+      {
+        "level": 1,
+        "start": 272,
+        "end": 274
+      },
+      {
+        "level": 1,
+        "start": 274,
+        "end": 277
+      },
+      {
+        "level": 1,
+        "start": 277,
+        "end": 281
+      },
+      {
+        "level": 1,
+        "start": 281,
+        "end": 283
+      },
+      {
+        "level": 1,
+        "start": 283,
+        "end": 285
+      },
+      {
+        "level": 1,
+        "start": 285,
+        "end": 288
+      },
+      {
+        "level": 1,
+        "start": 288,
+        "end": 292
+      },
+      {
+        "level": 1,
+        "start": 292,
+        "end": 294
+      },
+      {
+        "level": 1,
+        "start": 294,
+        "end": 300
+      },
+      {
+        "level": 1,
+        "start": 300,
+        "end": 302
+      },
+      {
+        "level": 1,
+        "start": 302,
+        "end": 305
+      },
+      {
+        "level": 1,
+        "start": 305,
+        "end": 307
+      },
+      {
+        "level": 1,
+        "start": 307,
+        "end": 309
+      },
+      {
+        "level": 1,
+        "start": 309,
+        "end": 313
+      },
+      {
+        "level": 1,
+        "start": 313,
+        "end": 315
+      },
+      {
+        "level": 1,
+        "start": 315,
+        "end": 317
+      },
+      {
+        "level": 1,
+        "start": 317,
+        "end": 319
+      },
+      {
+        "level": 1,
+        "start": 319,
+        "end": 321
+      },
+      {
+        "level": 1,
+        "start": 321,
+        "end": 323
+      },
+      {
+        "level": 1,
+        "start": 323,
+        "end": 325
+      },
+      {
+        "level": 1,
+        "start": 325,
+        "end": 328
+      },
+      {
+        "level": 1,
+        "start": 328,
+        "end": 331
+      },
+      {
+        "level": 1,
+        "start": 331,
+        "end": 336
+      },
+      {
+        "level": 1,
+        "start": 336,
+        "end": 339
+      },
+      {
+        "level": 1,
+        "start": 339,
+        "end": 341
+      },
+      {
+        "level": 1,
+        "start": 341,
+        "end": 343
+      },
+      {
+        "level": 1,
+        "start": 343,
+        "end": 345
+      },
+      {
+        "level": 1,
+        "start": 345,
+        "end": 348
+      },
+      {
+        "level": 1,
+        "start": 348,
+        "end": 350
+      },
+      {
+        "level": 1,
+        "start": 350,
+        "end": 353
+      },
+      {
+        "level": 1,
+        "start": 353,
+        "end": 355
+      },
+      {
+        "level": 1,
+        "start": 355,
+        "end": 359
+      },
+      {
+        "level": 1,
+        "start": 359,
+        "end": 361
+      },
+      {
+        "level": 1,
+        "start": 361,
+        "end": 364
+      },
+      {
+        "level": 1,
+        "start": 364,
+        "end": 367
+      },
+      {
+        "level": 1,
+        "start": 367,
+        "end": 369
+      },
+      {
+        "level": 1,
+        "start": 369,
+        "end": 371
+      },
+      {
+        "level": 1,
+        "start": 371,
+        "end": 373
+      },
+      {
+        "level": 1,
+        "start": 373,
+        "end": 378
+      },
+      {
+        "level": 1,
+        "start": 378,
+        "end": 380
+      },
+      {
+        "level": 1,
+        "start": 380,
+        "end": 382
+      },
+      {
+        "level": 1,
+        "start": 382,
+        "end": 384
+      },
+      {
+        "level": 1,
+        "start": 384,
+        "end": 386
+      },
+      {
+        "level": 1,
+        "start": 386,
+        "end": 390
+      },
+      {
+        "level": 1,
+        "start": 390,
+        "end": 392
+      },
+      {
+        "level": 1,
+        "start": 392,
+        "end": 394
+      },
+      {
+        "level": 1,
+        "start": 394,
+        "end": 397
+      },
+      {
+        "level": 1,
+        "start": 397,
+        "end": 403
+      },
+      {
+        "level": 1,
+        "start": 403,
+        "end": 405
+      },
+      {
+        "level": 1,
+        "start": 405,
+        "end": 408
+      },
+      {
+        "level": 1,
+        "start": 408,
+        "end": 410
+      },
+      {
+        "level": 1,
+        "start": 410,
+        "end": 413
+      },
+      {
+        "level": 1,
+        "start": 413,
+        "end": 416
+      },
+      {
+        "level": 1,
+        "start": 416,
+        "end": 418
+      },
+      {
+        "level": 1,
+        "start": 418,
+        "end": 420
+      },
+      {
+        "level": 1,
+        "start": 420,
+        "end": 422
+      },
+      {
+        "level": 1,
+        "start": 422,
+        "end": 424
+      },
+      {
+        "level": 1,
+        "start": 424,
+        "end": 429
+      },
+      {
+        "level": 1,
+        "start": 429,
+        "end": 431
+      },
+      {
+        "level": 1,
+        "start": 431,
+        "end": 434
+      },
+      {
+        "level": 1,
+        "start": 434,
+        "end": 436
+      },
+      {
+        "level": 1,
+        "start": 436,
+        "end": 438
+      },
+      {
+        "level": 1,
+        "start": 438,
+        "end": 442
+      },
+      {
+        "level": 1,
+        "start": 442,
+        "end": 444
+      },
+      {
+        "level": 1,
+        "start": 444,
+        "end": 448
+      },
+      {
+        "level": 1,
+        "start": 448,
+        "end": 451
+      },
+      {
+        "level": 1,
+        "start": 451,
+        "end": 453
+      },
+      {
+        "level": 1,
+        "start": 453,
+        "end": 456
+      },
+      {
+        "level": 1,
+        "start": 456,
+        "end": 460
+      },
+      {
+        "level": 1,
+        "start": 460,
+        "end": 462
+      },
+      {
+        "level": 1,
+        "start": 462,
+        "end": 464
+      },
+      {
+        "level": 1,
+        "start": 464,
+        "end": 467
+      },
+      {
+        "level": 1,
+        "start": 467,
+        "end": 469
+      },
+      {
+        "level": 1,
+        "start": 469,
+        "end": 481
+      },
+      {
+        "level": 1,
+        "start": 481,
+        "end": 484
+      },
+      {
+        "level": 1,
+        "start": 484,
+        "end": 487
+      },
+      {
+        "level": 1,
+        "start": 487,
+        "end": 489
+      },
+      {
+        "level": 1,
+        "start": 489,
+        "end": 491
+      },
+      {
+        "level": 1,
+        "start": 491,
+        "end": 494
+      },
+      {
+        "level": 1,
+        "start": 494,
+        "end": 496
+      },
+      {
+        "level": 1,
+        "start": 496,
+        "end": 498
+      },
+      {
+        "level": 1,
+        "start": 498,
+        "end": 501
+      },
+      {
+        "level": 1,
+        "start": 501,
+        "end": 504
+      },
+      {
+        "level": 1,
+        "start": 504,
+        "end": 514
+      },
+      {
+        "level": 1,
+        "start": 514,
+        "end": 516
+      },
+      {
+        "level": 1,
+        "start": 516,
+        "end": 519
+      },
+      {
+        "level": 1,
+        "start": 519,
+        "end": 523
+      },
+      {
+        "level": 1,
+        "start": 523,
+        "end": 525
+      },
+      {
+        "level": 1,
+        "start": 525,
+        "end": 528
+      },
+      {
+        "level": 1,
+        "start": 528,
+        "end": 530
+      },
+      {
+        "level": 1,
+        "start": 530,
+        "end": 532
+      },
+      {
+        "level": 1,
+        "start": 532,
+        "end": 535
+      },
+      {
+        "level": 1,
+        "start": 535,
+        "end": 537
+      },
+      {
+        "level": 1,
+        "start": 537,
+        "end": 539
+      },
+      {
+        "level": 1,
+        "start": 539,
+        "end": 542
+      },
+      {
+        "level": 1,
+        "start": 542,
+        "end": 545
+      },
+      {
+        "level": 1,
+        "start": 545,
+        "end": 550
+      },
+      {
+        "level": 1,
+        "start": 550,
+        "end": 552
+      },
+      {
+        "level": 1,
+        "start": 552,
+        "end": 556
+      },
+      {
+        "level": 1,
+        "start": 556,
+        "end": 558
+      },
+      {
+        "level": 1,
+        "start": 558,
+        "end": 560
+      },
+      {
+        "level": 1,
+        "start": 560,
+        "end": 563
+      },
+      {
+        "level": 1,
+        "start": 563,
+        "end": 567
+      },
+      {
+        "level": 1,
+        "start": 567,
+        "end": 569
+      },
+      {
+        "level": 1,
+        "start": 569,
+        "end": 571
+      },
+      {
+        "level": 1,
+        "start": 571,
+        "end": 575
+      },
+      {
+        "level": 1,
+        "start": 575,
+        "end": 577
+      },
+      {
+        "level": 1,
+        "start": 577,
+        "end": 583
+      }
+    ],
     "paragraphs": [
       "1. the sweet‑smelling savour of My garment",
       "This is an allusion to the story of Joseph in the Qur’án and the Old Testament, in which Joseph’s garment, brought by his brothers to Jacob, their father, enabled Jacob to identify his beloved long‑lost son. The metaphor of the fragrant “garment” is frequently used in the Bahá’í Writings to refer to the recognition of the Manifestation of God and His Revelation.",

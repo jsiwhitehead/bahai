@@ -4,106 +4,92 @@
     "author": "The Universal House of Justice",
     "type": "Document",
     "title": "Bahá’u’lláh",
-    "sections": {
-      "2": [
-        {
-          "level": 1,
-          "title": "Bahá’u’lláh",
-          "end": 168
-        }
-      ],
-      "8": [
-        {
-          "level": 2,
-          "title": "Birth of a New Revelation",
-          "end": 20
-        }
-      ],
-      "20": [
-        {
-          "level": 2,
-          "title": "Exile",
-          "end": 39
-        }
-      ],
-      "39": [
-        {
-          "level": 2,
-          "title": "The Declaration in the Riḍván Garden",
-          "end": 52
-        }
-      ],
-      "52": [
-        {
-          "level": 2,
-          "title": "“The Changeless Faith of God. . .”",
-          "end": 70
-        }
-      ],
-      "70": [
-        {
-          "level": 2,
-          "title": "The Manifestation of God",
-          "end": 80
-        }
-      ],
-      "80": [
-        {
-          "level": 2,
-          "title": "“An Ever‑Advancing Civilisation. . .”",
-          "end": 90
-        }
-      ],
-      "90": [
-        {
-          "level": 2,
-          "title": "The Day of God",
-          "end": 102
-        }
-      ],
-      "102": [
-        {
-          "level": 2,
-          "title": "Announcement to the Kings",
-          "end": 118
-        }
-      ],
-      "118": [
-        {
-          "level": 2,
-          "title": "Arrival in the Holy Land",
-          "end": 130
-        }
-      ],
-      "130": [
-        {
-          "level": 2,
-          "title": "Religion as Light and Darkness",
-          "end": 141
-        }
-      ],
-      "141": [
-        {
-          "level": 2,
-          "title": "World Peace",
-          "end": 151
-        }
-      ],
-      "151": [
-        {
-          "level": 2,
-          "title": "“Not of Mine Own Volition”",
-          "end": 161
-        }
-      ],
-      "161": [
-        {
-          "level": 2,
-          "title": "The Covenant of God with Humankind",
-          "end": 168
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "title": "Bahá’u’lláh",
+        "start": 2,
+        "end": 168
+      },
+      {
+        "level": 2,
+        "title": "Birth of a New Revelation",
+        "start": 8,
+        "end": 20
+      },
+      {
+        "level": 2,
+        "title": "Exile",
+        "start": 20,
+        "end": 39
+      },
+      {
+        "level": 2,
+        "title": "The Declaration in the Riḍván Garden",
+        "start": 39,
+        "end": 52
+      },
+      {
+        "level": 2,
+        "title": "“The Changeless Faith of God. . .”",
+        "start": 52,
+        "end": 70
+      },
+      {
+        "level": 2,
+        "title": "The Manifestation of God",
+        "start": 70,
+        "end": 80
+      },
+      {
+        "level": 2,
+        "title": "“An Ever‑Advancing Civilisation. . .”",
+        "start": 80,
+        "end": 90
+      },
+      {
+        "level": 2,
+        "title": "The Day of God",
+        "start": 90,
+        "end": 102
+      },
+      {
+        "level": 2,
+        "title": "Announcement to the Kings",
+        "start": 102,
+        "end": 118
+      },
+      {
+        "level": 2,
+        "title": "Arrival in the Holy Land",
+        "start": 118,
+        "end": 130
+      },
+      {
+        "level": 2,
+        "title": "Religion as Light and Darkness",
+        "start": 130,
+        "end": 141
+      },
+      {
+        "level": 2,
+        "title": "World Peace",
+        "start": 141,
+        "end": 151
+      },
+      {
+        "level": 2,
+        "title": "“Not of Mine Own Volition”",
+        "start": 151,
+        "end": 161
+      },
+      {
+        "level": 2,
+        "title": "The Covenant of God with Humankind",
+        "start": 161,
+        "end": 168
+      }
+    ],
     "paragraphs": [
       "May 29, 1992, marks the centenary of the passing of Bahá’u’lláh. His vision of humanity as one people and of the earth as a common homeland, dismissed out of hand by the world leaders to whom it was first enunciated over a hundred years ago, has today become the focus of human hope. Equally inescapable is the collapse of moral and social order, which this same declaration foresaw with awesome clarity.",
       "The occasion has encouraged publication of this brief introduction to Bahá’u’lláh’s life and work. Prepared at the request of the Universal House of Justice, trustee of the global undertaking which the events of a century ago set in motion, it offers a perspective on the feeling of confidence with which Bahá’ís the world over contemplate the future of our planet and our race.",

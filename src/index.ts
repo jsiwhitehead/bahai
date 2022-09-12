@@ -13,7 +13,7 @@ import quotes from "./data/quotes.json";
 
 import "./style.css";
 
-webfont.load({ google: { families: ["PT Serif"] } });
+webfont.load({ google: { families: ["Atkinson Hyperlegible"] } });
 
 const set = (obj, path, value) =>
   path.reduce(

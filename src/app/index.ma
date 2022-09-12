@@ -3,7 +3,7 @@
   map(
     <a
       size={size}
-      font="PT Serif"
+      font="Atkinson Hyperlegible"
       color="#333"
       pad={50}
       style={{ max-width: "720px", margin: "0 auto" }}

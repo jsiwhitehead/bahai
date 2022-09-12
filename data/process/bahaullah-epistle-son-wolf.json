@@ -4,14 +4,17 @@
     "author": "Bahá’u’lláh",
     "type": "Writings",
     "title": "Epistle to the Son of the Wolf",
-    "lines": {
-      "0": [
-        {
-          "type": "call",
-          "text": "In the name of God, the One, the Incomparable, the All‑Powerful, the All‑Knowing, the All‑Wise."
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "call",
+            "text": "In the name of God, the One, the Incomparable, the All‑Powerful, the All‑Knowing, the All‑Wise."
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "Praise be to God, the Eternal that perisheth not, the Everlasting that declineth not, the Self‑Subsisting that altereth not. He it is Who is transcendent in His sovereignty, Who is manifest through His signs, and is hidden through His mysteries. He it is at Whose bidding the standard of the Most Exalted Word hath been lifted up in the world of creation, and the banner of “He doeth whatsoever He willeth” raised amidst all peoples. He it is Who hath revealed His Cause for the guidance of His creatures, and sent down His verses to demonstrate His Proof and His Testimony, and embellished the preface of the Book of Man with the ornament of utterance through His saying: “The God of Mercy hath taught the Qur’án, hath created man, and taught him articulate speech.” No God is there but Him, the One, the Peerless, the Powerful, the Mighty, the Beneficent.",
       "The light that is shed from the heaven of bounty, and the benediction that shineth from the dawning‑place of the will of God, the Lord of the Kingdom of Names, rest upon Him Who is the Supreme Mediator, the Most Exalted Pen, Him Whom God hath made the Dawning‑Place of His most excellent names and the Dayspring of His most exalted attributes. Through Him the light of unity hath shone forth above the horizon of the world, and the law of oneness hath been revealed amidst the nations, who, with radiant faces, have turned towards the Supreme Horizon, and acknowledged that which the Tongue of Utterance hath spoken in the kingdom of His knowledge: “Earth and heaven, glory and dominion, are God’s, the Omnipotent, the Almighty, the Lord of grace abounding!”",

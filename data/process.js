@@ -251,27 +251,19 @@ const process = (
       path: notEmpty(docPath)?.map((t) => getTitle(t).title),
       ...getTitle(docTitle),
       sections: notEmpty(
-        sections.reduce((res, s) => {
-          const index = s.start - start;
-          return {
-            ...res,
-            [index]: [
-              ...(res[index] || []),
-              {
-                level: s.level - levelBase,
-                title:
-                  titleReplaces[s.title] ||
-                  s.title?.replace("Period\n", "Period: ").replace(/\n/g, " "),
-                end: Math.min(s.end - start, paras.length),
-              },
-            ],
-          };
-        }, {})
+        sections.map((s) => ({
+          level: s.level - levelBase,
+          title:
+            titleReplaces[s.title] ||
+            s.title?.replace("Period\n", "Period: ").replace(/\n/g, " "),
+          start: s.start - start,
+          end: Math.min(s.end - start, paras.length),
+        }))
       ),
       lines: notEmpty(
         Object.keys(lines || {})
           .map((k) => parseInt(k, 10))
-          .reduce((res, i) => ({ ...res, [i - start]: lines[i] }), {})
+          .map((i) => ({ index: i - start, lines: lines[i] }))
       ),
       paragraphs: paras,
     };
@@ -341,14 +333,8 @@ const process = (
         p.path = p.path || a.path;
         p.title = p.title || a.title;
         p.lines =
-          Object.keys(p.lines || {}).reduce(
-            (res, k) => res + p.lines[k].length,
-            0
-          ) >
-          Object.keys(a.lines || {}).reduce(
-            (res, k) => res + a.lines[k].length,
-            0
-          )
+          (p.lines || []).reduce((res, x) => res + x.lines.length, 0) >
+          (a.lines || []).reduce((res, x) => res + x.lines.length, 0)
             ? p.lines
             : a.lines;
       }

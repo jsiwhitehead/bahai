@@ -4,35 +4,31 @@
     "author": "‘Abdu’l‑Bahá",
     "type": "Writings",
     "title": "Will and Testament of ‘Abdu’l‑Bahá",
-    "sections": {
-      "0": [
-        {
-          "level": 1,
-          "title": "Part One",
-          "end": 31
-        }
-      ],
-      "30": [
-        {
-          "level": 2,
-          "end": 31
-        }
-      ],
-      "31": [
-        {
-          "level": 1,
-          "title": "Part Two",
-          "end": 46
-        }
-      ],
-      "46": [
-        {
-          "level": 1,
-          "title": "Part Three",
-          "end": 60
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "title": "Part One",
+        "start": 0,
+        "end": 31
+      },
+      {
+        "level": 2,
+        "start": 30,
+        "end": 31
+      },
+      {
+        "level": 1,
+        "title": "Part Two",
+        "start": 31,
+        "end": 46
+      },
+      {
+        "level": 1,
+        "title": "Part Three",
+        "start": 46,
+        "end": 60
+      }
+    ],
     "paragraphs": [
       "Herein Follow the Tablets and Testament of ‘Abdu’l‑Bahá",
       "All‑praise to Him Who, by the Shield of His Covenant, hath guarded the Temple of His Cause from the darts of doubtfulness, Who by the Hosts of His Testament hath preserved the Sanctuary of His most Beneficent Law and protected His Straight and Luminous Path, staying thereby the onslaught of the company of Covenant‑breakers, that have threatened to subvert His Divine Edifice; Who hath watched over His Mighty Stronghold and All‑Glorious Faith, through the aid of men whom the slander of the slanderer affect not, whom no earthly calling, glory and power can turn aside from the Covenant of God and His Testament, established firmly by His clear and manifest words, writ and revealed by His All‑Glorious Pen and recorded in the Preserved Tablet.",

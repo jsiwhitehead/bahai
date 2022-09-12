@@ -4,32 +4,28 @@
     "author": "Shoghi Effendi",
     "type": "Writings",
     "title": "The Advent of Divine Justice",
-    "sections": {
-      "29": [
-        {
-          "level": 1,
-          "end": 64
-        }
-      ],
-      "64": [
-        {
-          "level": 1,
-          "end": 104
-        }
-      ],
-      "104": [
-        {
-          "level": 1,
-          "end": 117
-        }
-      ],
-      "117": [
-        {
-          "level": 1,
-          "end": 128
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "start": 29,
+        "end": 64
+      },
+      {
+        "level": 1,
+        "start": 64,
+        "end": 104
+      },
+      {
+        "level": 1,
+        "start": 104,
+        "end": 117
+      },
+      {
+        "level": 1,
+        "start": 117,
+        "end": 128
+      }
+    ],
     "paragraphs": [
       "To the beloved of God and the handmaids of the Merciful throughout the United States and Canada.",
       "Best‑beloved brothers and sisters in the love of Bahá’u’lláh:",

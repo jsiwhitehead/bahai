@@ -4,246 +4,212 @@
     "author": "Shoghi Effendi",
     "type": "Writings",
     "title": "The Promised Day Is Come",
-    "sections": {
-      "0": [
-        {
-          "level": 1,
-          "title": "The Promised Day Is Come",
-          "end": 5
-        }
-      ],
-      "5": [
-        {
-          "level": 1,
-          "title": "This Judgement of God",
-          "end": 9
-        }
-      ],
-      "9": [
-        {
-          "level": 1,
-          "title": "What Response to His Call?",
-          "end": 23
-        }
-      ],
-      "23": [
-        {
-          "level": 1,
-          "title": "Features of This Moving Drama",
-          "end": 31
-        }
-      ],
-      "31": [
-        {
-          "level": 1,
-          "title": "A World Receded from Him",
-          "end": 35
-        }
-      ],
-      "35": [
-        {
-          "level": 1,
-          "title": "Recipients of the Message",
-          "end": 40
-        }
-      ],
-      "40": [
-        {
-          "level": 1,
-          "title": "Tablets to the Kings",
-          "end": 52
-        }
-      ],
-      "52": [
-        {
-          "level": 1,
-          "title": "The Most Great Law Revealed",
-          "end": 70
-        }
-      ],
-      "70": [
-        {
-          "level": 1,
-          "title": "Revealed to the Pope",
-          "end": 93
-        }
-      ],
-      "93": [
-        {
-          "level": 1,
-          "title": "Let the Oppressor Desist",
-          "end": 107
-        }
-      ],
-      "107": [
-        {
-          "level": 1,
-          "title": "God’s Vicar on Earth",
-          "end": 118
-        }
-      ],
-      "118": [
-        {
-          "level": 1,
-          "title": "Humiliation Immediate and Complete",
-          "end": 135
-        }
-      ],
-      "135": [
-        {
-          "level": 1,
-          "title": "The Rise of Bolshevism",
-          "end": 146
-        }
-      ],
-      "146": [
-        {
-          "level": 1,
-          "title": "End of the Holy Roman Empire",
-          "end": 148
-        }
-      ],
-      "148": [
-        {
-          "level": 1,
-          "title": "What of Turkey and Persia?",
-          "end": 157
-        }
-      ],
-      "157": [
-        {
-          "level": 1,
-          "title": "The Doom of Imperial Turkey",
-          "end": 162
-        }
-      ],
-      "162": [
-        {
-          "level": 1,
-          "title": "Divine Retribution on the Qájár Dynasty",
-          "end": 173
-        }
-      ],
-      "173": [
-        {
-          "level": 1,
-          "title": "The Decline in the Fortunes of Royalty",
-          "end": 175
-        }
-      ],
-      "175": [
-        {
-          "level": 1,
-          "title": "Recognition of Kingship",
-          "end": 186
-        }
-      ],
-      "186": [
-        {
-          "level": 1,
-          "title": "The Crumbling of Religious Orthodoxy",
-          "end": 209
-        }
-      ],
-      "209": [
-        {
-          "level": 1,
-          "title": "Words Addressed to Muslim Ecclesiastics",
-          "end": 226
-        }
-      ],
-      "226": [
-        {
-          "level": 1,
-          "title": "The Falling Fortunes of Shí‘ih Islám",
-          "end": 237
-        }
-      ],
-      "237": [
-        {
-          "level": 1,
-          "title": "The Collapse of the Caliphate",
-          "end": 247
-        }
-      ],
-      "247": [
-        {
-          "level": 1,
-          "title": "A Warning Unto All Nations",
-          "end": 250
-        }
-      ],
-      "250": [
-        {
-          "level": 1,
-          "title": "His Messages to Christian Leaders",
-          "end": 259
-        }
-      ],
-      "259": [
-        {
-          "level": 1,
-          "title": "Christian Nations against Christian Nations",
-          "end": 264
-        }
-      ],
-      "264": [
-        {
-          "level": 1,
-          "title": "The Continuity of Revelation",
-          "end": 275
-        }
-      ],
-      "275": [
-        {
-          "level": 1,
-          "title": "The Three False Gods",
-          "end": 279
-        }
-      ],
-      "279": [
-        {
-          "level": 1,
-          "title": "The Weakened Pillars of Religion",
-          "end": 285
-        }
-      ],
-      "285": [
-        {
-          "level": 1,
-          "title": "God’s Purpose",
-          "end": 288
-        }
-      ],
-      "288": [
-        {
-          "level": 1,
-          "title": "The Great Age to Come",
-          "end": 292
-        }
-      ],
-      "292": [
-        {
-          "level": 1,
-          "title": "Religion and Social Evolution",
-          "end": 298
-        }
-      ],
-      "298": [
-        {
-          "level": 1,
-          "title": "The Wider, Inclusive Loyalty",
-          "end": 300
-        }
-      ],
-      "300": [
-        {
-          "level": 1,
-          "title": "World Commonwealth",
-          "end": 307
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "title": "The Promised Day Is Come",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "level": 1,
+        "title": "This Judgement of God",
+        "start": 5,
+        "end": 9
+      },
+      {
+        "level": 1,
+        "title": "What Response to His Call?",
+        "start": 9,
+        "end": 23
+      },
+      {
+        "level": 1,
+        "title": "Features of This Moving Drama",
+        "start": 23,
+        "end": 31
+      },
+      {
+        "level": 1,
+        "title": "A World Receded from Him",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "level": 1,
+        "title": "Recipients of the Message",
+        "start": 35,
+        "end": 40
+      },
+      {
+        "level": 1,
+        "title": "Tablets to the Kings",
+        "start": 40,
+        "end": 52
+      },
+      {
+        "level": 1,
+        "title": "The Most Great Law Revealed",
+        "start": 52,
+        "end": 70
+      },
+      {
+        "level": 1,
+        "title": "Revealed to the Pope",
+        "start": 70,
+        "end": 93
+      },
+      {
+        "level": 1,
+        "title": "Let the Oppressor Desist",
+        "start": 93,
+        "end": 107
+      },
+      {
+        "level": 1,
+        "title": "God’s Vicar on Earth",
+        "start": 107,
+        "end": 118
+      },
+      {
+        "level": 1,
+        "title": "Humiliation Immediate and Complete",
+        "start": 118,
+        "end": 135
+      },
+      {
+        "level": 1,
+        "title": "The Rise of Bolshevism",
+        "start": 135,
+        "end": 146
+      },
+      {
+        "level": 1,
+        "title": "End of the Holy Roman Empire",
+        "start": 146,
+        "end": 148
+      },
+      {
+        "level": 1,
+        "title": "What of Turkey and Persia?",
+        "start": 148,
+        "end": 157
+      },
+      {
+        "level": 1,
+        "title": "The Doom of Imperial Turkey",
+        "start": 157,
+        "end": 162
+      },
+      {
+        "level": 1,
+        "title": "Divine Retribution on the Qájár Dynasty",
+        "start": 162,
+        "end": 173
+      },
+      {
+        "level": 1,
+        "title": "The Decline in the Fortunes of Royalty",
+        "start": 173,
+        "end": 175
+      },
+      {
+        "level": 1,
+        "title": "Recognition of Kingship",
+        "start": 175,
+        "end": 186
+      },
+      {
+        "level": 1,
+        "title": "The Crumbling of Religious Orthodoxy",
+        "start": 186,
+        "end": 209
+      },
+      {
+        "level": 1,
+        "title": "Words Addressed to Muslim Ecclesiastics",
+        "start": 209,
+        "end": 226
+      },
+      {
+        "level": 1,
+        "title": "The Falling Fortunes of Shí‘ih Islám",
+        "start": 226,
+        "end": 237
+      },
+      {
+        "level": 1,
+        "title": "The Collapse of the Caliphate",
+        "start": 237,
+        "end": 247
+      },
+      {
+        "level": 1,
+        "title": "A Warning Unto All Nations",
+        "start": 247,
+        "end": 250
+      },
+      {
+        "level": 1,
+        "title": "His Messages to Christian Leaders",
+        "start": 250,
+        "end": 259
+      },
+      {
+        "level": 1,
+        "title": "Christian Nations against Christian Nations",
+        "start": 259,
+        "end": 264
+      },
+      {
+        "level": 1,
+        "title": "The Continuity of Revelation",
+        "start": 264,
+        "end": 275
+      },
+      {
+        "level": 1,
+        "title": "The Three False Gods",
+        "start": 275,
+        "end": 279
+      },
+      {
+        "level": 1,
+        "title": "The Weakened Pillars of Religion",
+        "start": 279,
+        "end": 285
+      },
+      {
+        "level": 1,
+        "title": "God’s Purpose",
+        "start": 285,
+        "end": 288
+      },
+      {
+        "level": 1,
+        "title": "The Great Age to Come",
+        "start": 288,
+        "end": 292
+      },
+      {
+        "level": 1,
+        "title": "Religion and Social Evolution",
+        "start": 292,
+        "end": 298
+      },
+      {
+        "level": 1,
+        "title": "The Wider, Inclusive Loyalty",
+        "start": 298,
+        "end": 300
+      },
+      {
+        "level": 1,
+        "title": "World Commonwealth",
+        "start": 300,
+        "end": 307
+      }
+    ],
     "paragraphs": [
       "Friends and fellow‑heirs of the Kingdom of Bahá’u’lláh:",
       "A tempest, unprecedented in its violence, unpredictable in its course, catastrophic in its immediate effects, unimaginably glorious in its ultimate consequences, is at present sweeping the face of the earth. Its driving power is remorselessly gaining in range and momentum. Its cleansing force, however much undetected, is increasing with every passing day. Humanity, gripped in the clutches of its devastating power, is smitten by the evidences of its resistless fury. It can neither perceive its origin, nor probe its significance, nor discern its outcome. Bewildered, agonised and helpless, it watches this great and mighty wind of God invading the remotest and fairest regions of the earth, rocking its foundations, deranging its equilibrium, sundering its nations, disrupting the homes of its peoples, wasting its cities, driving into exile its kings, pulling down its bulwarks, uprooting its institutions, dimming its light, and harrowing up the souls of its inhabitants.",

@@ -4,63 +4,55 @@
     "author": "The Universal House of Justice",
     "type": "Document",
     "title": "The Prosperity of Humankind",
-    "sections": {
-      "12": [
-        {
-          "level": 1,
-          "title": "I",
-          "end": 17
-        }
-      ],
-      "17": [
-        {
-          "level": 1,
-          "title": "II",
-          "end": 28
-        }
-      ],
-      "28": [
-        {
-          "level": 1,
-          "title": "III",
-          "end": 34
-        }
-      ],
-      "34": [
-        {
-          "level": 1,
-          "title": "IV",
-          "end": 43
-        }
-      ],
-      "43": [
-        {
-          "level": 1,
-          "title": "V",
-          "end": 53
-        }
-      ],
-      "53": [
-        {
-          "level": 1,
-          "title": "VI",
-          "end": 60
-        }
-      ],
-      "60": [
-        {
-          "level": 1,
-          "title": "VII",
-          "end": 66
-        }
-      ],
-      "63": [
-        {
-          "level": 2,
-          "end": 66
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "title": "I",
+        "start": 12,
+        "end": 17
+      },
+      {
+        "level": 1,
+        "title": "II",
+        "start": 17,
+        "end": 28
+      },
+      {
+        "level": 1,
+        "title": "III",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "level": 1,
+        "title": "IV",
+        "start": 34,
+        "end": 43
+      },
+      {
+        "level": 1,
+        "title": "V",
+        "start": 43,
+        "end": 53
+      },
+      {
+        "level": 1,
+        "title": "VI",
+        "start": 53,
+        "end": 60
+      },
+      {
+        "level": 1,
+        "title": "VII",
+        "start": 60,
+        "end": 66
+      },
+      {
+        "level": 2,
+        "start": 63,
+        "end": 66
+      }
+    ],
     "paragraphs": [
       "To an extent unimaginable a decade ago, the ideal of world peace is taking on form and substance. Obstacles that long seemed immovable have collapsed in humanity’s path; apparently irreconcilable conflicts have begun to surrender to processes of consultation and resolution; a willingness to counter military aggression through unified international action is emerging. The effect has been to awaken in both the masses of humanity and many world leaders a degree of hopefulness about the future of our planet that had been nearly extinguished.",
       "Throughout the world, immense intellectual and spiritual energies are seeking expression, energies whose gathering pressure is in direct proportion to the frustrations of recent decades. Everywhere the signs multiply that the earth’s peoples yearn for an end to conflict and to the suffering and ruin from which no land is any longer immune. These rising impulses for change must be seized upon and channelled into overcoming the remaining barriers that block realisation of the age‑old dream of global peace. The effort of will required for such a task cannot be summoned up merely by appeals for action against the countless ills afflicting society. It must be galvanised by a vision of human prosperity in the fullest sense of the term—an awakening to the possibilities of the spiritual and material well‑being now brought within grasp. Its beneficiaries must be all of the planet’s inhabitants, without distinction, without the imposition of conditions unrelated to the fundamental goals of such a reorganisation of human affairs.",

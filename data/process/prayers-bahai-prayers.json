@@ -77,14 +77,13 @@
     "type": "Writings",
     "path": ["Bahá’í Prayers", "Special Tablets"],
     "title": "Tablet of Aḥmad",
-    "sections": {
-      "1": [
-        {
-          "level": 1,
-          "end": 18
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "start": 1,
+        "end": 18
+      }
+    ],
     "paragraphs": [
       "“These daily obligatory prayers, together with a few other specific ones, such as the Healing Prayer, the Tablet of Aḥmad, have been invested by Bahá’u’lláh with a special potency and significance, and should therefore be accepted as such and be recited by the believers with unquestioning faith and confidence, that through them they may enter into a much closer communion with God, and identify themselves more fully with His laws and precepts.”",
       "He is the King, the All‑Knowing, the Wise!",
@@ -172,22 +171,24 @@
     "type": "Writings",
     "path": ["Bahá’í Prayers", "Special Tablets"],
     "title": "Tablet of the Holy Mariner",
-    "sections": {
-      "0": [
-        {
-          "level": 1,
-          "end": 116
-        }
-      ]
-    },
-    "lines": {
-      "0": [
-        {
-          "type": "info",
-          "text": "“Study the Tablet of the Holy Mariner that ye may know the truth, and consider that the Blessed Beauty hath fully foretold future events. Let them who perceive, take warning!”"
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "start": 0,
+        "end": 116
+      }
+    ],
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "info",
+            "text": "“Study the Tablet of the Holy Mariner that ye may know the truth, and consider that the Blessed Beauty hath fully foretold future events. Let them who perceive, take warning!”"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "He is the Gracious, the Well‑Beloved!",
       "O Holy Mariner!",

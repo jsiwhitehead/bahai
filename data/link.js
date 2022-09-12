@@ -109,10 +109,11 @@ const getMappedIndices = (s) => {
 
   for (const doc of documents) {
     const quotes = [];
-    let counter = -1;
-    doc.paragraphs = doc.paragraphs.filter((paragraph) => {
-      if (paragraph.simplified.join("").length >= 80) {
-        const source = documents.find(
+    const paras = [];
+    doc.paragraphs.forEach((paragraph, i) => {
+      const source =
+        paragraph.simplified.join("").length >= 80 &&
+        documents.find(
           (d) =>
             d.id !== doc.id &&
             (d.author !== doc.author ||
@@ -122,15 +123,21 @@ const getMappedIndices = (s) => {
               d.paragraphs.some((p) => p.simplified.some((t) => t.includes(s)))
             )
         );
-        if (source) {
-          quotes.push({ index: counter, source, ...paragraph });
-          return false;
+      if (source) {
+        quotes.push({ index: paras.length - 1, source, ...paragraph });
+        for (const s of doc.sections || []) {
+          if (s.start > paras.length) s.start--;
+          if (s.end > paras.length) s.end--;
         }
+        for (const l of doc.lines || []) {
+          if (l.index > paras.length) l.index--;
+        }
+      } else {
+        paras.push(paragraph);
       }
-      counter++;
-      return true;
     });
     doc.quotes = quotes;
+    doc.paragraphs = paras;
   }
 
   for (const doc of documents) {
@@ -206,9 +213,24 @@ const getMappedIndices = (s) => {
   }
 
   const documentMap = documents.reduce(
-    (res, { paragraphs, ...d }) => ({
+    (res, { paragraphs, sections, lines, quotes, ...d }) => ({
       ...res,
-      [d.id]: { ...d, paragraphs: paragraphs.map((p) => p.text) },
+      [d.id]: {
+        ...d,
+        sections: sections?.reduce(
+          (res, { start, ...s }) => ({
+            ...res,
+            [start]: [...(res[start] || []), s],
+          }),
+          {}
+        ),
+        lines: lines?.reduce(
+          (res, { index, lines }) => ({ ...res, [index]: lines }),
+          {}
+        ),
+        quotes,
+        paragraphs: paragraphs.map((p) => p.text),
+      },
     }),
     {}
   );
@@ -250,7 +272,9 @@ const getMappedIndices = (s) => {
               ...new Set(flatten(parts.map((p) => [p.start, p.end]))),
             ].sort((a, b) => a - b);
             return {
-              refs: parts.map((p) => p.ref),
+              refs: [...new Set(parts.map((p) => JSON.stringify(p.ref)))].map(
+                (s) => JSON.parse(s)
+              ),
               parts: splits
                 .slice(0, -1)
                 .map((start, i) => {
@@ -274,8 +298,25 @@ const getMappedIndices = (s) => {
     "utf-8"
   );
 
-  await fs.promises.copyFile(
-    "./data/process/prayers.json",
-    "./src/data/prayers.json"
+  await fs.promises.writeFile(
+    `./src/data/prayers.json`,
+    prettify(
+      JSON.stringify(
+        (
+          await readJSON("process", "prayers")
+        ).map(({ lines, paragraphs, ...d }) => ({
+          ...d,
+          lines: lines?.reduce(
+            (res, { index, lines }) => ({ ...res, [index]: lines }),
+            {}
+          ),
+          paragraphs,
+        })),
+        null,
+        2
+      ),
+      "json"
+    ),
+    "utf-8"
   );
 })();

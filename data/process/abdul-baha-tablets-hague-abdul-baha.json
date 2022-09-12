@@ -5,14 +5,13 @@
     "type": "Writings",
     "path": ["‘Abdu’l‑Bahá’s Tablets to The Hague"],
     "title": "First Tablet to The Hague",
-    "sections": {
-      "45": [
-        {
-          "level": 1,
-          "end": 52
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "start": 45,
+        "end": 52
+      }
+    ],
     "paragraphs": [
       "17 December 1919",
       "O ye esteemed ones who are pioneers among the well‑wishers of the world of humanity!",

@@ -4,213 +4,181 @@
     "author": "The Universal House of Justice",
     "type": "Document",
     "title": "Turning Point for All Nations",
-    "sections": {
-      "0": [
-        {
-          "level": 1,
-          "title": "Turning Point for All Nations",
-          "end": 170
-        }
-      ],
-      "3": [
-        {
-          "level": 2,
-          "title": "I. Overview: An Opportunity for Reflection",
-          "end": 20
-        }
-      ],
-      "20": [
-        {
-          "level": 2,
-          "title": "II. Recognising the Historical Context: A Call to World Leaders",
-          "end": 35
-        }
-      ],
-      "35": [
-        {
-          "level": 2,
-          "title": "III. Defining a Role for the UN Within the Emerging International Order",
-          "end": 98
-        }
-      ],
-      "43": [
-        {
-          "level": 3,
-          "title": "A. Resuscitating the General Assembly",
-          "end": 69
-        }
-      ],
-      "49": [
-        {
-          "level": 4,
-          "end": 53
-        }
-      ],
-      "53": [
-        {
-          "level": 4,
-          "end": 57
-        }
-      ],
-      "57": [
-        {
-          "level": 4,
-          "end": 61
-        }
-      ],
-      "61": [
-        {
-          "level": 4,
-          "end": 66
-        }
-      ],
-      "66": [
-        {
-          "level": 4,
-          "end": 69
-        }
-      ],
-      "69": [
-        {
-          "level": 3,
-          "title": "B. Developing a Meaningful Executive Function",
-          "end": 86
-        }
-      ],
-      "73": [
-        {
-          "level": 4,
-          "end": 76
-        }
-      ],
-      "76": [
-        {
-          "level": 4,
-          "end": 80
-        }
-      ],
-      "80": [
-        {
-          "level": 4,
-          "end": 83
-        }
-      ],
-      "83": [
-        {
-          "level": 4,
-          "end": 86
-        }
-      ],
-      "86": [
-        {
-          "level": 3,
-          "title": "C. A Strengthened World Court",
-          "end": 98
-        }
-      ],
-      "93": [
-        {
-          "level": 4,
-          "end": 95
-        }
-      ],
-      "95": [
-        {
-          "level": 4,
-          "end": 98
-        }
-      ],
-      "98": [
-        {
-          "level": 2,
-          "title": "IV. Releasing the Power of the Individual: A Critical Challenge of the Emerging International Order",
-          "end": 160
-        }
-      ],
-      "104": [
-        {
-          "level": 3,
-          "title": "A. Promoting Economic Development",
-          "end": 118
-        }
-      ],
-      "114": [
-        {
-          "level": 4,
-          "end": 118
-        }
-      ],
-      "118": [
-        {
-          "level": 3,
-          "title": "B. Protecting Fundamental Human Rights",
-          "end": 135
-        }
-      ],
-      "125": [
-        {
-          "level": 4,
-          "end": 128
-        }
-      ],
-      "128": [
-        {
-          "level": 4,
-          "end": 130
-        }
-      ],
-      "130": [
-        {
-          "level": 4,
-          "end": 135
-        }
-      ],
-      "135": [
-        {
-          "level": 3,
-          "title": "C. Advancing the Status of Women",
-          "end": 151
-        }
-      ],
-      "144": [
-        {
-          "level": 4,
-          "end": 146
-        }
-      ],
-      "146": [
-        {
-          "level": 4,
-          "end": 148
-        }
-      ],
-      "148": [
-        {
-          "level": 4,
-          "end": 151
-        }
-      ],
-      "151": [
-        {
-          "level": 3,
-          "title": "D. Emphasising Moral Development",
-          "end": 160
-        }
-      ],
-      "155": [
-        {
-          "level": 4,
-          "end": 160
-        }
-      ],
-      "160": [
-        {
-          "level": 2,
-          "title": "V. A Turning Point for All Nations: A Call to World Leaders",
-          "end": 170
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "title": "Turning Point for All Nations",
+        "start": 0,
+        "end": 170
+      },
+      {
+        "level": 2,
+        "title": "I. Overview: An Opportunity for Reflection",
+        "start": 3,
+        "end": 20
+      },
+      {
+        "level": 2,
+        "title": "II. Recognising the Historical Context: A Call to World Leaders",
+        "start": 20,
+        "end": 35
+      },
+      {
+        "level": 2,
+        "title": "III. Defining a Role for the UN Within the Emerging International Order",
+        "start": 35,
+        "end": 98
+      },
+      {
+        "level": 3,
+        "title": "A. Resuscitating the General Assembly",
+        "start": 43,
+        "end": 69
+      },
+      {
+        "level": 4,
+        "start": 49,
+        "end": 53
+      },
+      {
+        "level": 4,
+        "start": 53,
+        "end": 57
+      },
+      {
+        "level": 4,
+        "start": 57,
+        "end": 61
+      },
+      {
+        "level": 4,
+        "start": 61,
+        "end": 66
+      },
+      {
+        "level": 4,
+        "start": 66,
+        "end": 69
+      },
+      {
+        "level": 3,
+        "title": "B. Developing a Meaningful Executive Function",
+        "start": 69,
+        "end": 86
+      },
+      {
+        "level": 4,
+        "start": 73,
+        "end": 76
+      },
+      {
+        "level": 4,
+        "start": 76,
+        "end": 80
+      },
+      {
+        "level": 4,
+        "start": 80,
+        "end": 83
+      },
+      {
+        "level": 4,
+        "start": 83,
+        "end": 86
+      },
+      {
+        "level": 3,
+        "title": "C. A Strengthened World Court",
+        "start": 86,
+        "end": 98
+      },
+      {
+        "level": 4,
+        "start": 93,
+        "end": 95
+      },
+      {
+        "level": 4,
+        "start": 95,
+        "end": 98
+      },
+      {
+        "level": 2,
+        "title": "IV. Releasing the Power of the Individual: A Critical Challenge of the Emerging International Order",
+        "start": 98,
+        "end": 160
+      },
+      {
+        "level": 3,
+        "title": "A. Promoting Economic Development",
+        "start": 104,
+        "end": 118
+      },
+      {
+        "level": 4,
+        "start": 114,
+        "end": 118
+      },
+      {
+        "level": 3,
+        "title": "B. Protecting Fundamental Human Rights",
+        "start": 118,
+        "end": 135
+      },
+      {
+        "level": 4,
+        "start": 125,
+        "end": 128
+      },
+      {
+        "level": 4,
+        "start": 128,
+        "end": 130
+      },
+      {
+        "level": 4,
+        "start": 130,
+        "end": 135
+      },
+      {
+        "level": 3,
+        "title": "C. Advancing the Status of Women",
+        "start": 135,
+        "end": 151
+      },
+      {
+        "level": 4,
+        "start": 144,
+        "end": 146
+      },
+      {
+        "level": 4,
+        "start": 146,
+        "end": 148
+      },
+      {
+        "level": 4,
+        "start": 148,
+        "end": 151
+      },
+      {
+        "level": 3,
+        "title": "D. Emphasising Moral Development",
+        "start": 151,
+        "end": 160
+      },
+      {
+        "level": 4,
+        "start": 155,
+        "end": 160
+      },
+      {
+        "level": 2,
+        "title": "V. A Turning Point for All Nations: A Call to World Leaders",
+        "start": 160,
+        "end": 170
+      }
+    ],
     "paragraphs": [
       "A Statement of the Bahá’í International Community on the Occasion of the 50th Anniversary of the United Nations",
       "“Unification of the whole of mankind is the hall‑mark of the stage which human society is now approaching. Unity of family, of tribe, of city‑state, and nation have been successively attempted and fully established. World unity is the goal towards which a harassed humanity is striving. Nation‑building has come to an end. The anarchy inherent in state sovereignty is moving towards a climax. A world, growing to maturity, must abandon this fetish, recognise the oneness and wholeness of human relationships, and establish once for all the machinery that can best incarnate this fundamental principle of its life.”",

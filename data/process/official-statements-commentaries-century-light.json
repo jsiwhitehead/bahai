@@ -4,244 +4,207 @@
     "author": "The Universal House of Justice",
     "type": "Document",
     "title": "Century of Light",
-    "sections": {
-      "0": [
-        {
-          "level": 1,
-          "title": "Foreword",
-          "end": 4
-        }
-      ],
-      "4": [
-        {
-          "level": 1,
-          "title": "Century of Light",
-          "end": 379
-        }
-      ],
-      "7": [
-        {
-          "level": 2,
-          "title": "I",
-          "end": 18
-        }
-      ],
-      "10": [
-        {
-          "level": 3,
-          "end": 18
-        }
-      ],
-      "18": [
-        {
-          "level": 2,
-          "title": "II",
-          "end": 46
-        }
-      ],
-      "43": [
-        {
-          "level": 3,
-          "end": 46
-        }
-      ],
-      "46": [
-        {
-          "level": 2,
-          "title": "III",
-          "end": 110
-        }
-      ],
-      "56": [
-        {
-          "level": 3,
-          "end": 74
-        }
-      ],
-      "74": [
-        {
-          "level": 3,
-          "end": 87
-        }
-      ],
-      "87": [
-        {
-          "level": 3,
-          "end": 105
-        }
-      ],
-      "105": [
-        {
-          "level": 3,
-          "end": 110
-        }
-      ],
-      "110": [
-        {
-          "level": 2,
-          "title": "IV",
-          "end": 122
-        }
-      ],
-      "122": [
-        {
-          "level": 2,
-          "title": "V",
-          "end": 176
-        }
-      ],
-      "138": [
-        {
-          "level": 3,
-          "end": 150
-        }
-      ],
-      "150": [
-        {
-          "level": 3,
-          "end": 165
-        }
-      ],
-      "165": [
-        {
-          "level": 3,
-          "end": 176
-        }
-      ],
-      "176": [
-        {
-          "level": 2,
-          "title": "VI",
-          "end": 226
-        }
-      ],
-      "193": [
-        {
-          "level": 3,
-          "end": 206
-        }
-      ],
-      "206": [
-        {
-          "level": 3,
-          "end": 220
-        }
-      ],
-      "220": [
-        {
-          "level": 3,
-          "end": 226
-        }
-      ],
-      "226": [
-        {
-          "level": 2,
-          "title": "VII",
-          "end": 237
-        }
-      ],
-      "237": [
-        {
-          "level": 2,
-          "title": "VIII",
-          "end": 262
-        }
-      ],
-      "246": [
-        {
-          "level": 3,
-          "end": 262
-        }
-      ],
-      "262": [
-        {
-          "level": 2,
-          "title": "IX",
-          "end": 297
-        }
-      ],
-      "297": [
-        {
-          "level": 2,
-          "title": "X",
-          "end": 330
-        }
-      ],
-      "307": [
-        {
-          "level": 3,
-          "end": 317
-        }
-      ],
-      "317": [
-        {
-          "level": 3,
-          "end": 319
-        }
-      ],
-      "319": [
-        {
-          "level": 3,
-          "end": 326
-        }
-      ],
-      "326": [
-        {
-          "level": 3,
-          "end": 330
-        }
-      ],
-      "330": [
-        {
-          "level": 2,
-          "title": "XI",
-          "end": 355
-        }
-      ],
-      "337": [
-        {
-          "level": 3,
-          "end": 342
-        }
-      ],
-      "342": [
-        {
-          "level": 3,
-          "end": 350
-        }
-      ],
-      "350": [
-        {
-          "level": 3,
-          "end": 355
-        }
-      ],
-      "355": [
-        {
-          "level": 2,
-          "title": "XII",
-          "end": 379
-        }
-      ],
-      "361": [
-        {
-          "level": 3,
-          "end": 366
-        }
-      ],
-      "366": [
-        {
-          "level": 3,
-          "end": 373
-        }
-      ],
-      "373": [
-        {
-          "level": 3,
-          "end": 379
-        }
-      ]
-    },
+    "sections": [
+      {
+        "level": 1,
+        "title": "Foreword",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "level": 1,
+        "title": "Century of Light",
+        "start": 4,
+        "end": 379
+      },
+      {
+        "level": 2,
+        "title": "I",
+        "start": 7,
+        "end": 18
+      },
+      {
+        "level": 3,
+        "start": 10,
+        "end": 18
+      },
+      {
+        "level": 2,
+        "title": "II",
+        "start": 18,
+        "end": 46
+      },
+      {
+        "level": 3,
+        "start": 43,
+        "end": 46
+      },
+      {
+        "level": 2,
+        "title": "III",
+        "start": 46,
+        "end": 110
+      },
+      {
+        "level": 3,
+        "start": 56,
+        "end": 74
+      },
+      {
+        "level": 3,
+        "start": 74,
+        "end": 87
+      },
+      {
+        "level": 3,
+        "start": 87,
+        "end": 105
+      },
+      {
+        "level": 3,
+        "start": 105,
+        "end": 110
+      },
+      {
+        "level": 2,
+        "title": "IV",
+        "start": 110,
+        "end": 122
+      },
+      {
+        "level": 2,
+        "title": "V",
+        "start": 122,
+        "end": 176
+      },
+      {
+        "level": 3,
+        "start": 138,
+        "end": 150
+      },
+      {
+        "level": 3,
+        "start": 150,
+        "end": 165
+      },
+      {
+        "level": 3,
+        "start": 165,
+        "end": 176
+      },
+      {
+        "level": 2,
+        "title": "VI",
+        "start": 176,
+        "end": 226
+      },
+      {
+        "level": 3,
+        "start": 193,
+        "end": 206
+      },
+      {
+        "level": 3,
+        "start": 206,
+        "end": 220
+      },
+      {
+        "level": 3,
+        "start": 220,
+        "end": 226
+      },
+      {
+        "level": 2,
+        "title": "VII",
+        "start": 226,
+        "end": 237
+      },
+      {
+        "level": 2,
+        "title": "VIII",
+        "start": 237,
+        "end": 262
+      },
+      {
+        "level": 3,
+        "start": 246,
+        "end": 262
+      },
+      {
+        "level": 2,
+        "title": "IX",
+        "start": 262,
+        "end": 297
+      },
+      {
+        "level": 2,
+        "title": "X",
+        "start": 297,
+        "end": 330
+      },
+      {
+        "level": 3,
+        "start": 307,
+        "end": 317
+      },
+      {
+        "level": 3,
+        "start": 317,
+        "end": 319
+      },
+      {
+        "level": 3,
+        "start": 319,
+        "end": 326
+      },
+      {
+        "level": 3,
+        "start": 326,
+        "end": 330
+      },
+      {
+        "level": 2,
+        "title": "XI",
+        "start": 330,
+        "end": 355
+      },
+      {
+        "level": 3,
+        "start": 337,
+        "end": 342
+      },
+      {
+        "level": 3,
+        "start": 342,
+        "end": 350
+      },
+      {
+        "level": 3,
+        "start": 350,
+        "end": 355
+      },
+      {
+        "level": 2,
+        "title": "XII",
+        "start": 355,
+        "end": 379
+      },
+      {
+        "level": 3,
+        "start": 361,
+        "end": 366
+      },
+      {
+        "level": 3,
+        "start": 366,
+        "end": 373
+      },
+      {
+        "level": 3,
+        "start": 373,
+        "end": 379
+      }
+    ],
     "paragraphs": [
       "The conclusion of the twentieth century provides Bahá’ís with a unique vantage point. During the past hundred years our world underwent changes far more profound than any in its preceding history, changes that are, for the most part, little understood by the present generation. These same hundred years saw the Bahá’í Cause emerge from obscurity, demonstrating on a global scale the unifying power with which its Divine origin has endowed it. As the century drew to its close, the convergence of these two historical developments became increasingly apparent.",
       "Century of Light, prepared under our supervision, reviews these two processes and the relationship between them, in the context of the Bahá’í Teachings. We commend it to the thoughtful study of the friends, in the confidence that the perspectives it opens up will prove both spiritually enriching and of practical help in sharing with others the challenging implications of the Revelation brought by Bahá’u’lláh.",

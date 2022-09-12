@@ -22,18 +22,21 @@
     "path": ["Gems of Divine Mysteries"],
     "title": "Gems of Divine Mysteries",
     "translated": "Javáhiru’l‑Asrár",
-    "lines": {
-      "0": [
-        {
-          "type": "info",
-          "text": "The essence of the divine mysteries in the journeys of ascent set forth for those who long to draw nigh unto God, the Almighty, the Ever‑Forgiving—blessed be the righteous that quaff from these crystal streams!"
-        },
-        {
-          "type": "call",
-          "text": "He is the Exalted, the Most High!"
-        }
-      ]
-    },
+    "lines": [
+      {
+        "index": 0,
+        "lines": [
+          {
+            "type": "info",
+            "text": "The essence of the divine mysteries in the journeys of ascent set forth for those who long to draw nigh unto God, the Almighty, the Ever‑Forgiving—blessed be the righteous that quaff from these crystal streams!"
+          },
+          {
+            "type": "call",
+            "text": "He is the Exalted, the Most High!"
+          }
+        ]
+      }
+    ],
     "paragraphs": [
       "O thou who treadest the path of justice and beholdest the countenance of mercy! Thine epistle was received, thy question was noted, and the sweet accents of thy soul were heard from the inmost chambers of thy heart. Whereupon the clouds of the Divine Will were raised to rain upon thee the outpourings of heavenly wisdom, to divest thee of all that thou hadst acquired aforetime, to draw thee from the realms of contradiction unto the retreats of oneness, and to lead thee to the sacred streams of His Law. Perchance thou mayest quaff therefrom, repose therein, quench thy thirst, refresh thy soul, and be numbered with those whom the light of God hath guided aright in this day.",
       "Encompassed as I am at this time by the dogs of the earth and the beasts of every land, concealed as I remain in the hidden habitation of Mine inner Being, forbidden as I may be from divulging that which God hath bestowed upon Me of the wonders of His knowledge, the gems of His wisdom, and the tokens of His power, yet am I loth to frustrate the hopes of one who hath approached the sanctuary of grandeur, sought to enter within the precincts of eternity, and aspired to soar in the immensity of this creation at the dawning of the divine decree. I shall therefore relate unto thee certain truths from among those which God hath vouchsafed unto Me, this only to the extent that souls can bear and minds endure, lest the malicious raise a clamour or the dissemblers hoist their banners. I implore God to graciously aid Me in this, for unto such as beseech Him, He is the All‑Bounteous, and of those who show mercy, He is the Most Merciful.",
