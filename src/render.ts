@@ -43,7 +43,10 @@ const updateNode = (node, data) => {
   if (!data) return null;
 
   if (!isObject(data) || !data.items) {
-    const text = typeof data === "string" ? data : print(resolve(data, true));
+    const text = (typeof data === "string" ? data : print(resolve(data, true)))
+      .normalize("NFD")
+      .replace(/\u0323/g, "")
+      .normalize("NFC");
     const next =
       node?.nodeName === "#text" ? node : document.createTextNode(text);
     next.textContent = text;

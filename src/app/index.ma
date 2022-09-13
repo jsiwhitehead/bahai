@@ -17,7 +17,7 @@
                 <a size={20} bold {group.title} />
                 {...group.items.map(k=>
                   <a color="blue" underline={hover} link={"/doc/" + k}>
-                    {documents[k].title || k} »
+                    {documents[k].title}{documents[k].translated && (" (" + documents[k].translated + ")")} »
                   </a>
                 )}
               </a>
@@ -94,6 +94,9 @@
             <a stack={20}>
               <a color="blue" underline={hover} link="/" "« Back" />
               <a size={40} bold underline align="center" {documents[url[1]].title} />
+              {documents[url[1]].translated &&
+                <a size={30} bold align="center" {"(" + documents[url[1]].translated + ")"} />
+              }
             </a>
             {render(documents[url[1]])}
           />

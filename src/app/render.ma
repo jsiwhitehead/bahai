@@ -64,7 +64,7 @@
                       pad={{ right: 8 }}
                       style={{ float: "left", width: "auto" }}
                     >
-                      {text.slice(0,1)}
+                      {text.slice(0, 1)}
                     </a>
                     {text.slice(1)}
                   </a>
