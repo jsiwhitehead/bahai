@@ -55,7 +55,6 @@ history.listen(({ location }) => {
 
 run(
   {
-    join: (arr, join) => (arr || []).join(join),
     tick,
     url,
     decodeURIComponent,

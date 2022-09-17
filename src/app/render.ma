@@ -33,7 +33,7 @@
               {...doc.sections[i].map(s=><a size={s.title ? 30 : 20}>{s.title || "* * *"}</a>)}
             </a>
           }
-          {...(doc.lines?.[i] || []).map((line, j)=>
+          {...(doc.lines?.[i] || []).map(line=>
             renderLine(line, i === 0 || doc.sections?.[i] || doc.path?.[0] === "The Hidden Words")
           )}
           <a stack={15}>
@@ -83,22 +83,22 @@
                 link={"/doc/" + r.id + "#" + (r.paragraph + 1)}
                 style={{ width: '75%', margin: '0 auto 0 0' }}
               >
-                ({join([
+                ({[
                   documents[r.id].author,
                   ...documents[r.id].path,
                   documents[r.id].title,
                   "para " + (r.paragraph + 1),
-                ].filter(x => x), ", ")})
+                ].filter(x => x).join(", ")})
               </a>
             )}
           </a>
           {...(doc.quotes?.[i] || []).map(quote=>
             <a stack={15}>
               <a size={17} color="black" pad={{ left: 20 }} bold
-                {join(quote.parts.map((part, i)=>
+                {quote.parts.map((part, i)=>
                   type(part) === "string" ? part :
                     documents[quote.id].paragraphs[part.paragraph].slice(part.start, part.end)
-                ), " ")}
+                ).join(" ")}
               />
               <a
                 size={16}
@@ -109,13 +109,13 @@
                 link={"/doc/" + quote.id + "#" + (quote.paragraphs[0] + 1)}
                 style={{ width: '75%', margin: '0 0 0 auto' }}
               >
-                ({join([
+                ({[
                   documents[quote.id].author,
                   ...documents[quote.id].path,
                   documents[quote.id].title,
-                  (quote.paragraphs.length === 1 ? "para " : "paras ") +
-                    join(quote.paragraphs.map(p => p + 1), ", "),
-                ].filter(x => x), ", ")})
+                  (quote.paragraphs.length === 1 ? "para " : "paras ") +
+                    quote.paragraphs.map(p => p + 1).join(", "),
+                ].filter(x => x).join(", ")})
               </a>
             </a>
           )}
