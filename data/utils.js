@@ -30,16 +30,15 @@ export const last = (x) => x[x.length - 1];
 
 export const prettify = (s, format) => prettier.format(s, { parser: format });
 
-export const readJSON = async (category, id) => {
-  try {
-    return JSON.parse(
-      await fs.promises.readFile(`./data/${category}/${id}.json`, "utf-8")
-    );
-  } catch {
-    return null;
-  }
-};
+export const readText = (category, id) =>
+  fs.promises.readFile(`./data/${category}/${id}.txt`, "utf-8");
+export const readJSON = async (category, id) =>
+  JSON.parse(
+    await fs.promises.readFile(`./data/${category}/${id}.json`, "utf-8")
+  );
 
+export const writeText = (category, id, data) =>
+  fs.promises.writeFile(`./data/${category}/${id}.txt`, data, "utf-8");
 export const writeJSON = (category, id, data) =>
   fs.promises.writeFile(
     `./data/${category}/${id}.json`,

@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 import { parse } from "parse5";
 
 import { files } from "./sources.js";
-import { writeJSON } from "./utils.js";
+import { writeJSON, writeText } from "./utils.js";
 
 const findNode = (node, test) => {
   if (test(node)) return node;
@@ -35,29 +35,23 @@ const fetchHtml = async (url) => {
   }
 };
 
-const getParagraphs = (root, splitBr) => {
-  const paras = [""];
+const getText = (root) => {
+  let result = "";
   const walk = (node) => {
     if (node.nodeName === "#text") {
-      paras[paras.length - 1] += node.value;
-    } else if (node.tagName === "br" && splitBr) {
-      paras[paras.length - 1] += "\n";
+      result += node.value;
     } else if (node.tagName === "hr") {
-      paras.push("* * *");
+      result += "\n***\n";
     } else if (node.tagName && !["a", "script"].includes(node.tagName)) {
-      if (!inline.includes(node.tagName)) paras.push("");
+      if (!inline.includes(node.tagName)) result += "\n";
       node.childNodes.forEach((n) => walk(n));
     }
   };
   walk(root);
-  return paras
-    .map((p) =>
-      p
-        .replace(/[^\S\n]+/g, " ")
-        .replace(/\s*\n\s*/g, "\n")
-        .trim()
-    )
-    .filter((p) => p);
+  return result
+    .replace(/[^\S\n]+/g, " ")
+    .replace(/\s*\n+\s*/g, "\n\n")
+    .trim();
 };
 
 (async () => {
@@ -66,7 +60,6 @@ const getParagraphs = (root, splitBr) => {
   for (const author of Object.keys(files)) {
     await Promise.all(
       Object.keys(files[author]).map(async (file) => {
-        const { splitBr } = files[author][file];
         const html = await fetchHtml(
           `https://www.bahai.org/library/${
             [
@@ -77,56 +70,54 @@ const getParagraphs = (root, splitBr) => {
               : "authoritative-texts"
           }/${author}/${file}/${file}.xhtml`
         );
-        await writeJSON(
+        await writeText(
           "download",
           `${author}-${file}`,
-          getParagraphs(
-            findNode(html, (n) => n.tagName === "body"),
-            splitBr
-          )
+          getText(findNode(html, (n) => n.tagName === "body"))
         );
       })
     );
   }
 
-  const messageRows = findNode(
-    await fetchHtml(
-      "https://www.bahai.org/library/authoritative-texts/the-universal-house-of-justice/messages/"
-    ),
-    (n) => n.tagName === "tbody"
-  ).childNodes.filter(
-    (n) => n.tagName === "tr" && n.attrs.find((x) => x.name === "id")
-  );
-  const messages = await Promise.all(
-    messageRows.map(async (node) => {
-      const id = node.attrs.find((x) => x.name === "id").value;
-      const [title, addressee, summary] = node.childNodes
-        .filter((n) => n.tagName === "td")
-        .map((n) => n.childNodes[0].childNodes[0].value);
-      const html = await fetchHtml(
-        `https://www.bahai.org/library/authoritative-texts/the-universal-house-of-justice/messages/${id}/${id}.xhtml`
-      );
-      return {
-        id,
-        title:
-          {
-            "Riḍván 150": "Riḍván 1993",
-            "Riḍván 151": "Riḍván 1994",
-            "Riḍván 152": "Riḍván 1995",
-            "Riḍván 153": "Riḍván 1996",
-            "Riḍván 154": "Riḍván 1997",
-            "Riḍván 155": "Riḍván 1998",
-            "Riḍván 156": "Riḍván 1999",
-          }[title] || title,
-        addressee,
-        summary,
-        paragraphs: getParagraphs(findNode(html, (n) => n.tagName === "body")),
-      };
-    })
-  );
-  await writeJSON(
-    "download",
-    "the-universal-house-of-justice-messages",
-    messages
-  );
+  // const messageRows = findNode(
+  //   await fetchHtml(
+  //     "https://www.bahai.org/library/authoritative-texts/the-universal-house-of-justice/messages/"
+  //   ),
+  //   (n) => n.tagName === "tbody"
+  // ).childNodes.filter(
+  //   (n) => n.tagName === "tr" && n.attrs.find((x) => x.name === "id")
+  // );
+  // const messages = await Promise.all(
+  //   messageRows.map(async (node) => {
+  //     const id = node.attrs.find((x) => x.name === "id").value;
+  //     const [title, addressee, summary] = node.childNodes
+  //       .filter((n) => n.tagName === "td")
+  //       .map((n) => n.childNodes[0].childNodes[0].value);
+  //     const html = await fetchHtml(
+  //       `https://www.bahai.org/library/authoritative-texts/the-universal-house-of-justice/messages/${id}/${id}.xhtml`
+  //     );
+  //     return {
+  //       id,
+  //       title:
+  //         {
+  //           "Riḍván 150": "Riḍván 1993",
+  //           "Riḍván 151": "Riḍván 1994",
+  //           "Riḍván 152": "Riḍván 1995",
+  //           "Riḍván 153": "Riḍván 1996",
+  //           "Riḍván 154": "Riḍván 1997",
+  //           "Riḍván 155": "Riḍván 1998",
+  //           "Riḍván 156": "Riḍván 1999",
+  //           "Bahá 154 B.E.": "1 March 1997",
+  //         }[title] || title,
+  //       addressee,
+  //       summary,
+  //       text: getText(findNode(html, (n) => n.tagName === "body")),
+  //     };
+  //   })
+  // );
+  // await writeJSON(
+  //   "download",
+  //   "the-universal-house-of-justice-messages",
+  //   messages
+  // );
 })();

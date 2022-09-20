@@ -7,6 +7,7 @@
     "preview": "vite preview",
     "download": "node ./data/download.js",
     "spellings": "node ./data/spellings.js",
+    "format": "node ./data/format.js",
     "process": "node ./data/process.js",
     "link": "node ./data/link.js"
   },

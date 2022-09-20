@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { capitalise, writeJSON } from "./utils.js";
+import { readText, writeJSON, writeText } from "./utils.js";
 
 import spellingsBase from "./spellings.json" assert { type: "json" };
 
@@ -43,6 +43,8 @@ const spellings = {
   ),
 };
 const spellKeys = Object.keys(spellings);
+
+const capitalise = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 const correctSpelling = (s) =>
   spellKeys
     .reduce(
@@ -100,31 +102,41 @@ const correctSpelling = (s) =>
     await Promise.all(
       Object.keys(files[author]).map(async (file) => {
         const id = `${author}-${file}`;
-        await writeJSON(
+        await writeText(
           "spellings",
           id,
-          JSON.parse(
-            correctSpelling(
-              await fs.promises.readFile(`./data/download/${id}.json`, "utf-8")
-            )
-          )
+          correctSpelling(await readText("download", id))
         );
       })
     );
   }
 
-  await writeJSON(
-    "spellings",
-    "the-universal-house-of-justice-messages",
-    JSON.parse(
-      correctSpelling(
-        await fs.promises.readFile(
-          `./data/download/the-universal-house-of-justice-messages.json`,
-          "utf-8"
-        )
+  await Promise.all(
+    fs
+      .readdirSync("./data/manual")
+      .map((s) => s.slice(0, -4))
+      .map(
+        async (id) =>
+          await writeText(
+            "manual",
+            id,
+            correctSpelling(await readText("manual", id))
+          )
       )
-    )
   );
+
+  // await writeJSON(
+  //   "spellings",
+  //   "the-universal-house-of-justice-messages",
+  //   JSON.parse(
+  //     correctSpelling(
+  //       await fs.promises.readFile(
+  //         `./data/download/the-universal-house-of-justice-messages.json`,
+  //         "utf-8"
+  //       )
+  //     )
+  //   )
+  // );
 
   // fs.emptyDirSync("./data/mapping");
   // const singles = [];
