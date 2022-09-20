@@ -1,9 +1,9 @@
-# The Call of the Divine Beloved
+The Call of the Divine Beloved
 author="Bahá’u’lláh"
 years=[1852, 1863]
 collection
 
-## Preface
+# Preface
 author="The Universal House of Justice"
 years=[2019, 2019]
 
@@ -29,7 +29,7 @@ The current renderings of the Seven Valleys and the Four Valleys are based on th
 
 May the publication of this volume contribute to a deeper appreciation of the mystical dimensions of Bahá’u’lláh’s Message and inspire a greater zeal and fervour in raising the celestial call of the Divine Beloved: “For whereas in days past every lover besought and searched after his Beloved, it is the Beloved Himself Who now is calling His lovers and is inviting them to attain His presence.”
 
-## The Clouds of the Realms Above
+# The Clouds of the Realms Above
 translated="Rashḥ‑i‑‘Amá"
 
 > ’Tis from Our rapture that the clouds of realms above are raining down;
@@ -92,7 +92,7 @@ translated="Rashḥ‑i‑‘Amá"
 > The vessel of the Advent this, the clouds of limpid waters these;
 > The trill of songbirds this, from Our fleeting Wellspring raining down.
 
-## The Seven Valleys
+# The Seven Valleys
 
 * An exposition of the mysteries enshrined in the stages of ascent for them that seek to journey unto God, the Almighty, the Ever‑Forgiving
 
@@ -364,7 +364,7 @@ In one sense, these letters refer to the states of holiness. The first meaneth �
 
 Wert thou to hearken unto the melodies of this mortal Bird, then wouldst thou seek out the eternal and undying chalice and renounce every fleeting and perishable cup. Peace be upon him who followeth the way of guidance!
 
-## From the Letter Bá’ to the Letter Há’
+# From the Letter Bá’ to the Letter Há’
 
 ^ In the name of our Lord, the Most Exalted, the Most High!
 
@@ -386,7 +386,7 @@ Moreover, a reply to thine inquiries was sent aforetime. It is evident that what
 
 I swear by God! Whoso faileth to obey the commandments of God can in no wise be numbered among His loved ones, for among the conditions of His love is to follow His commandments and observe His prohibitions. But since these are the days of concealment, and the Sun of eternity remaineth hidden beneath the horizon of being, one must gather together everyone with love and protect them. The time for the completion of the commandments and the perfection of deeds will assuredly come.
 
-## Three Other Tablets
+# Three Other Tablets
 collection
 
 #
@@ -464,7 +464,7 @@ Yet others, assisted by the grace of the everlasting Friend, consume these veils
 
 A myriad names and attributes have been ascribed to these degrees and stations, which I am disinclined to mention here. It is, indeed, solely because of thy longing and devotion that I have engaged in such ephemeral and limited topics. And this, notwithstanding that speech is the greatest evidence of the worth of the speaker and guideth unto the recognition of the source of guidance, for no more complete and enduring proof hath been or will be vouchsafed unto man from the empyrean of everlasting glory than words and utterance. This, verily, is a self‑evident truth, for the braying of the donkey can never compare with the cooing of the dove. Never wilt thou hear from the raven the melodies of the nightingale, nor inhale from the abject beetle the fragrance of eternity.
 
-## The Four Valleys
+# The Four Valleys
 
 ^ He is the Ever‑Living.
 

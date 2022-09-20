@@ -43,7 +43,6 @@
 //     "info",
 // };
 
-// const update = (text, map) => [text, map(text)];
 const prefix = (line, pre) => [line, (s) => `${pre}${s}`];
 const splitLines = (line, ...indices) => [
   line,
@@ -66,74 +65,173 @@ const splitLines = (line, ...indices) => [
 ];
 
 export const files = {
-  // "the-bab": {
-  //   "selections-writings-bab": {
-  //     years: [1844, 1850],
-  //     type: (i) => (i >= 153 ? "Prayer" : "Writings"),
-  //     end: "Key to Passages Translated by Shoghi Effendi",
-  //     splitAfter: [
-  //       /Chapter [A-Z]+.$/,
-  //       /[A-Z]+, \d+./,
-  //       ...[
-  //         326, 327, 328, 329, 332, 334, 336, 339, 342, 348, 419, 423, 428, 431,
-  //         432, 433, 434, 435, 441, 449, 454, 464, 467, 470, 476, 478, 481, 487,
-  //         489, 492, 493, 495, 496, 498, 499, 503, 508, 511, 513, 515, 516, 527,
-  //         529, 531, 535, 538, 546, 548, 552, 556, 561, 562, 564, 569, 578, 584,
-  //         587, 594, 600, 603, 606, 618, 619, 620, 622, 626, 628, 632, 633, 635,
-  //         638, 640, 641, 642,
-  //       ],
-  //     ],
-  //     ignore: [
-  //       "Compiled by the Research Department of the Universal House of Justice and translated by Ḥabíb Taherzadeh with the assistance of a Committee at the Bahá’í World Centre",
-  //       "References to the Qur’án",
-  //       "In footnotes referring to the Qur’án the súrihs have been numbered according to the original, whereas the verse numbers are those in Rodwell’s translation which differ sometimes from those of the Arabic.",
-  //       /^\d+$/,
-  //     ],
-  //     sections: {
-  //       "Tablets and Addresses": 1,
-  //       "A Tablet Addressed to “Him Who Will Be Made Manifest”": 2,
-  //       "A Second Tablet Addressed to “Him Who Will Be Made Manifest”": 2,
-  //       "Tablet to the First Letter of the Living": 2,
-  //       "Extracts from an Epistle to Muḥammad Sháh": 2,
-  //       "Extracts from Another Epistle to Muḥammad Sháh": 2,
-  //       "Extracts from a Further Epistle to Muḥammad Sháh": 2,
-  //       "Extracts from a Tablet Containing Words Addressed to the Sherif of Mecca": 2,
-  //       "Address to a Muslim Divine": 2,
-  //       "Address to Sulaymán, One of the Muslim Divines in the Land of Masqaṭ": 2,
-  //       "Excerpts from the Qayyúmu’l‑Asmá’": 1,
-  //       "Excerpts from the Persian Bayán": 1,
-  //       "Excerpts from the Dalá’il‑i‑Sab‘ih": 1,
-  //       "(The Seven Proofs)": null,
-  //       "Excerpts from the Kitáb‑i‑Asmá’": 1,
-  //       "(The Book of Names)": null,
-  //       "Excerpts from Various Writings": 1,
-  //       "Prayers and Meditations": 1,
-  //     },
-  //     collections: [
-  //       "Selections from the Writings of the Báb",
-  //       "Tablets and Addresses",
-  //       "Excerpts from the Qayyúmu’l‑Asmá’",
-  //       "Excerpts from the Persian Bayán",
-  //       "Excerpts from the Dalá’il‑i‑Sab‘ih (The Seven Proofs)",
-  //       "Excerpts from the Kitáb‑i‑Asmá’ (The Book of Names)",
-  //       "Excerpts from Various Writings",
-  //       "Prayers and Meditations",
-  //     ],
-  //   },
-  // },
+  "the-bab": {
+    "selections-writings-bab": [
+      [
+        "Selections from the Writings of the Báb",
+        `Selections from the Writings of the Báb
+        author="The Báb"
+        years=[1844, 1850]
+        collection`,
+      ],
+      [/^Key to Passages Translated by Shoghi Effendi[\s\S]+/m, ""],
+      [/^\d+$/gm, ""],
+      [
+        "Compiled by the Research Department of the Universal House of Justice and translated by Ḥabíb Taherzadeh with the assistance of a Committee at the Bahá’í World Centre",
+        "",
+      ],
+      ["References to the Qur’án", ""],
+      [
+        "In footnotes referring to the Qur’án the súrihs have been numbered according to the original, whereas the verse numbers are those in Rodwell’s translation which differ sometimes from those of the Arabic.",
+        "",
+      ],
+      [
+        "Tablets and Addresses",
+        `# Tablets and Addresses
+        collection`,
+      ],
+      prefix("A Tablet Addressed to “Him Who Will Be Made Manifest”", "## "),
+      prefix("Tablet to the First Letter of the Living", "## "),
+      prefix("Extracts from an Epistle to Muḥammad Sháh", "## "),
+      prefix("Extracts from Another Epistle to Muḥammad Sháh", "## "),
+      prefix("Extracts from a Further Epistle to Muḥammad Sháh", "## "),
+      prefix(
+        "Extracts from a Tablet Containing Words Addressed to the Sherif of Mecca",
+        "## "
+      ),
+      prefix("Address to a Muslim Divine", "## "),
+      prefix(
+        "Address to Sulaymán, One of the Muslim Divines in the Land of Masqaṭ",
+        "## "
+      ),
+      [
+        "Excerpts from the Qayyúmu’l‑Asmá’",
+        `# Excerpts from the Commentary on the Súrih of Joseph
+        translated="Qayyúmu’l‑Asmá’"
+        collection
+        
+        #`,
+      ],
+      [
+        "Excerpts from the Persian Bayán",
+        `# Excerpts from the Persian Utterance
+        translated="Persian Bayán"
+        collection
+        
+        #`,
+      ],
+      [
+        "Excerpts from the Dalá’il‑i‑Sab‘ih\n\n(The Seven Proofs)",
+        `# Excerpts from the Seven Proofs
+        translated="Dalá’il‑i‑Sab‘ih"
+        collection
+        
+        #`,
+      ],
+      [
+        "Excerpts from the Kitáb‑i‑Asmá’\n\n(The Book of Names)",
+        `# Excerpts from the Book of Names
+        translated="Kitáb‑i‑Asmá’"
+        collection
+        
+        #`,
+      ],
+      [
+        "Excerpts from Various Writings",
+        `# Excerpts from Various Writings
+        collection
+        
+        #`,
+      ],
+      [
+        "Prayers and Meditations",
+        `# Prayers and Meditations
+        type="Prayer"
+        collection
+        
+        #`,
+      ],
+      [/Chapter [A-Z]+.$/gm, (s) => `${s}\n\n#\n\n`],
+      [/[A-Z]+, \d+.$/gm, (s) => `${s}\n\n#\n\n`],
+      prefix(/^Gracious God! Within the domains/m, "\n\n#\n\n"),
+      prefix(/^Ponder likewise the Dispensation/m, "\n\n#\n\n"),
+      prefix(/^Consider the manifold favours/m, "\n\n#\n\n"),
+      prefix(/^Let Me set forth some rational/m, "\n\n#\n\n"),
+      prefix(/^The recognition of Him Who is/m, "\n\n#\n\n"),
+      prefix(/^The evidences which the people/m, "\n\n#\n\n"),
+      prefix(/^Rid thou thyself of all attachments/m, "\n\n#\n\n"),
+      prefix(/^It is recorded in a tradition/m, "\n\n#\n\n"),
+      prefix(/^Thy letter hath been perused/m, "\n\n#\n\n"),
+      prefix(/^Say, verily any one follower of/m, "\n\n#\n\n"),
+      prefix(/^God testifieth that there is none other God/gm, "\n\n#\n\n"),
+      prefix(/^From the beginning that hath no/m, "\n\n#\n\n"),
+      prefix(/^Consecrate Thou, O my God, the/m, "\n\n#\n\n"),
+      prefix(/^He—glorified be His mention—resembleth/m, "\n\n#\n\n"),
+      prefix(/^The glory of Him Whom God shall/m, "\n\n#\n\n"),
+      prefix(/^All men have proceeded from God/m, "\n\n#\n\n"),
+      prefix(/^In the Name of God, the Most Exalted/gm, "\n\n#\n\n"),
+      prefix(/^He is God, the Sovereign Lord/m, "\n\n#\n\n"),
+      prefix(/^He is God, the Supreme Ruler/m, "\n\n#\n\n"),
+      prefix(/^O thou who art the chosen one/m, "\n\n#\n\n"),
+      prefix(/^When the Daystar of Bahá will/m, "\n\n#\n\n"),
+      prefix(/^He is the Almighty./m, "\n\n#\n\n"),
+      prefix(/^It behoveth you to await the Day/m, "\n\n#\n\n"),
+      prefix(/^Send down Thy blessings, O my God/m, "\n\n#\n\n"),
+      prefix(/^Immeasurably glorified and exalted art Thou./m, "\n\n#\n\n"),
+      prefix(/^Verily I am Thy servant, O my God/m, "\n\n#\n\n"),
+      prefix(/^Magnified be Thy Name, O God./m, "\n\n#\n\n"),
+      prefix(/^Lauded be Thy Name, O God./m, "\n\n#\n\n"),
+      prefix(/^Glory be unto Thee, O God. How/m, "\n\n#\n\n"),
+      prefix(/^Praise be unto Thee, O Lord. Forgive/m, "\n\n#\n\n"),
+      prefix(/^O God our Lord! Protect us through Thy/m, "\n\n#\n\n"),
+      prefix(/^Glory be unto Thee, O Lord my God!/gm, "\n\n#\n\n"),
+      prefix(/^Glorified be Thy Name, O Lord!/gm, "\n\n#\n\n"),
+      prefix(/^Thou art aware, O My God, that/gm, "\n\n#\n\n"),
+      prefix(/^I am aware, O Lord, that my/gm, "\n\n#\n\n"),
+      prefix(/^I beg Thee to forgive me, O my/gm, "\n\n#\n\n"),
+      prefix(/^How can I praise Thee, O Lord/gm, "\n\n#\n\n"),
+      prefix(/^Glory be to Thee, O God! Thou/gm, "\n\n#\n\n"),
+      prefix(/^I implore Thee by the splendour/gm, "\n\n#\n\n"),
+      prefix(/^Do Thou ordain for me, O Lord/gm, "\n\n#\n\n"),
+      prefix(/^How numerous the souls raised/gm, "\n\n#\n\n"),
+      prefix(/^Glory be unto Thee, O Lord!/gm, "\n\n#\n\n"),
+      prefix(/^O Lord! Enable all the peoples/gm, "\n\n#\n\n"),
+      prefix(/^Vouchsafe unto me, O my God/gm, "\n\n#\n\n"),
+      prefix(/^Glory be unto Thee, O Lord, Thou/gm, "\n\n#\n\n"),
+      prefix(/^O Lord! Unto Thee I repair for/gm, "\n\n#\n\n"),
+      prefix(/^O Lord! Thou art the Remover of/gm, "\n\n#\n\n"),
+      prefix(/^Throughout eternity Thou hast/gm, "\n\n#\n\n"),
+      prefix(/^The glory of glories and the most/gm, "\n\n#\n\n"),
+      prefix(/^In the Name of God, the Compassionate/gm, "\n\n#\n\n"),
+      prefix(/^Thou art God, no God is there but Thee./gm, "\n\n#\n\n"),
+      prefix(/^Immeasurably exalted art Thou, O my/gm, "\n\n#\n\n"),
+      prefix(/^All majesty and glory, O my God/gm, "\n\n#\n\n"),
+      prefix(/^O my God! There is no one but Thee/gm, "\n\n#\n\n"),
+      prefix(/^O my God! I have failed to know/gm, "\n\n#\n\n"),
+      prefix(/^He is God, the Sovereign Ruler/gm, "\n\n#\n\n"),
+      prefix(/^O my God, my Lord and my Master! I have/gm, "\n\n#\n\n"),
+      prefix(/^I adjure Thee by Thy might/gm, "\n\n#\n\n"),
+      prefix(/^I beg Thy forgiveness, O/gm, "\n\n#\n\n"),
+      prefix(/^Lauded be Thy Name, O Lord our/gm, "\n\n#\n\n"),
+      prefix(/^Through Thy revelation, O my/gm, "\n\n#\n\n"),
+      prefix(/^In the Name of thy Lord, the/gm, "\n\n#\n\n"),
+      prefix(/^Glorified art Thou, O Lord my/gm, "\n\n#\n\n"),
+      prefix(/^Praised and glorified art Thou, O/gm, "\n\n#\n\n"),
+      prefix(/^Thou knowest full well, O my/gm, "\n\n#\n\n"),
+      prefix(/^Praise be to Thee, O Lord, my/gm, "\n\n#\n\n"),
+      prefix(/^O my God, O my Lord, O my Master!/gm, "\n\n#\n\n"),
+      prefix(/^Thou seest, O my Lord, my/gm, "\n\n#\n\n"),
+      prefix(/^Is there any Remover of difficulties/gm, "\n\n#\n\n"),
+    ],
+  },
   bahaullah: {
     "call-divine-beloved": [
       [/^\d+$/gm, "#"],
       [/^Notes[\s\S]+/m, ""],
       ["Selected Mystical Works of Bahá’u’lláh", ""],
       [
-        "Rashḥ‑i‑‘Amá\n\n(The Clouds of the Realms Above)",
-        `## The Clouds of the Realms Above
-        translated="Rashḥ‑i‑‘Amá"`,
-      ],
-      [
         "The Call of the Divine Beloved",
-        `# The Call of the Divine Beloved
+        `The Call of the Divine Beloved
         author="Bahá’u’lláh"
         years=[1852, 1863]
         collection
@@ -141,20 +239,25 @@ export const files = {
       ],
       [
         "Preface",
-        `## Preface
+        `# Preface
         author="The Universal House of Justice"
         years=[2019, 2019]
         `,
       ],
-      prefix("The Seven Valleys", "## "),
-      prefix("From the Letter Bá’ to the Letter Há’", "## "),
+      [
+        "Rashḥ‑i‑‘Amá\n\n(The Clouds of the Realms Above)",
+        `# The Clouds of the Realms Above
+        translated="Rashḥ‑i‑‘Amá"`,
+      ],
+      prefix("The Seven Valleys", "# "),
+      prefix("From the Letter Bá’ to the Letter Há’", "# "),
       [
         "Three Other Tablets",
-        `## Three Other Tablets
+        `# Three Other Tablets
         collection
         `,
       ],
-      prefix("The Four Valleys", "## "),
+      prefix("The Four Valleys", "# "),
       splitLines(/^’Tis from Our rapture.*/m, "’Tis from Our anthem"),
       splitLines(/^Upon the Eastern wind.*/m, "This sweetly scented"),
       splitLines(/^The day‑star of adornment.*/m, "Behold that mystic"),
@@ -494,14 +597,14 @@ export const files = {
       [/^This document has been downloaded[\s\S]+/m, ""],
       [
         "The Hidden Words",
-        `# The Hidden Words
+        `The Hidden Words
         author="Bahá’u’lláh"
         years=[1857, 1858]
         collection
         `,
       ],
-      ["Part One\n\nFrom the Arabic", "## Part One: From the Arabic"],
-      ["Part Two\n\nFrom the Persian", "## Part Two: From the Persian"],
+      ["Part One\n\nFrom the Arabic", "# Part One: From the Arabic"],
+      ["Part Two\n\nFrom the Persian", "# Part Two: From the Persian"],
       prefix(/^He Is the Glory of Glories/m, "^ "),
       prefix(/^This is that which hath descended/m, "* "),
       prefix(/^In the Name of the Lord of Utterance/m, "* "),

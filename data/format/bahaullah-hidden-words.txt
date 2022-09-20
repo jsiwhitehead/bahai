@@ -1,9 +1,9 @@
-# The Hidden Words
+The Hidden Words
 author="Bahá’u’lláh"
 years=[1857, 1858]
 collection
 
-## Part One: From the Arabic
+# Part One: From the Arabic
 
 ^ He Is the Glory of Glories
 
@@ -222,7 +222,7 @@ collection
 > O Son of Man!
 > Write all that We have revealed unto thee with the ink of light upon the tablet of thy spirit. Should this not be in thy power, then make thine ink of the essence of thy heart. If this thou canst not do, then write with that crimson ink that hath been shed in My path. Sweeter indeed is this to Me than all else, that its light may endure forever.
 
-## Part Two: From the Persian
+# Part Two: From the Persian
 
 * In the Name of the Lord of Utterance, the Mighty.
 

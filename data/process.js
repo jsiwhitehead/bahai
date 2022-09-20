@@ -1,6 +1,5 @@
 import fs from "fs-extra";
 
-import { files } from "./sources.js";
 import { readText, writeJSON } from "./utils.js";
 
 let counter;
@@ -31,16 +30,19 @@ const process = (source) => {
   let titlePath = [];
   let configPath = [];
   let indexPath = [];
-  for (const s of source.split("\n\n")) {
-    if (s.startsWith("#") || s === "***") {
+  source.split("\n\n").forEach((s, i) => {
+    if (i === 0 || s.startsWith("#") || s === "***") {
       const [titleLine, ...configLines] = s.split("\n");
       const level =
-        titleLine === "#"
+        i === 0
+          ? 0
+          : titleLine === "#"
           ? collectionLevel
           : titleLine === "***"
           ? collectionLevel + 1
-          : titleLine.indexOf(" ") - 1;
-      const title = titleLine.slice(level + 2) || undefined;
+          : titleLine.indexOf(" ");
+      const title =
+        i === 0 ? titleLine : titleLine.slice(level + 1) || undefined;
       const { collection, translated, ...config } = configLines.reduce(
         (res, c) => {
           const [key, value = "true"] = c.split("=");
@@ -54,14 +56,17 @@ const process = (source) => {
       indexPath = indexPath.slice(0, level + 1);
       configPath[level] = config;
 
-      if (collection) collectionLevel = level + 1;
-      else if (level < collectionLevel) collectionLevel = level;
+      if (collection) {
+        collectionLevel = level + 1;
+        indexPath[level + 1] = 1;
+      } else if (level < collectionLevel) {
+        collectionLevel = level;
+      }
       if (level === collectionLevel) {
-        indexPath[level - 1] = (indexPath[level - 1] || 0) + 1;
         counter = 1;
         documents.push({
           path: [...titlePath],
-          item: indexPath[level - 1],
+          item: indexPath[level]++ || undefined,
           title,
           translated,
           ...configPath.reduce((res, c) => ({ ...res, ...c }), {}),
@@ -78,7 +83,7 @@ const process = (source) => {
     } else {
       documents[documents.length - 1].content.push(getItem(s));
     }
-  }
+  });
 
   return documents;
 };
@@ -176,10 +181,7 @@ const process = (source) => {
 //     "Some Specific Aspects of the Functioning of the Institution",
 // };
 // const titleTranslations = {
-//   "Qayyúmu’l‑Asmá’": "Commentary on the Súrih of Joseph",
-//   "Persian Bayán": "Persian Utterance",
-//   "Dalá’il‑i‑Sab‘ih": "Seven Proofs",
-//   "Kitáb‑i‑Asmá’": "Book of Names",
+
 //   "Rashḥ‑i‑‘Amá": "The Clouds of the Realms Above",
 //   "Ḥúr‑i‑‘Ujáb": "Tablet of the Wondrous Maiden",
 //   "Lawḥ‑i‑‘Áshiq va Ma‘shúq": "Tablet of the Lover and the Beloved",
