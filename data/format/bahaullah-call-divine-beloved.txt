@@ -1,11 +1,11 @@
 The Call of the Divine Beloved
 author="Bahá’u’lláh"
-years=[1852, 1863]
+years=[1852,1863]
 collection
 
 # Preface
 author="The Universal House of Justice"
-years=[2019, 2019]
+years=[2019,2019]
 
 “At one time We spoke in the language of the lawgiver”, Bahá’u’lláh writes in the Epistle to the Son of the Wolf, “at another in that of the truth‑seeker and the mystic”. The present volume brings together a selection of His Tablets which were revealed in the language of the mystic. Some are widely known; others are published here for the first time in English translation.
 

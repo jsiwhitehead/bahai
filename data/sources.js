@@ -43,19 +43,42 @@
 //     "info",
 // };
 
+const authorYears = {
+  "The Báb": [1844, 1850],
+  "Bahá’u’lláh": [1852, 1892],
+  "‘Abdu’l‑Bahá": [1875, 1921],
+  "Shoghi Effendi": [1922, 1957],
+};
+
+const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const prefix = (line, pre) => [line, (s) => `${pre}${s}`];
+const title = (level, title, { collection, translated, ...config } = {}) => [
+  new RegExp(
+    `^${escapeRegex(translated || title)}${
+      translated ? escapeRegex(`\n\n(${title})`) : ""
+    }$`,
+    "m"
+  ),
+  [
+    `${level ? level + " " : ""}${title}`,
+    ...Object.keys(config).map((k) => `${k}=${JSON.stringify(config[k])}`),
+    translated && `translated="${translated}"`,
+    collection && "collection\n\n#",
+  ]
+    .filter((x) => x)
+    .join("\n"),
+];
+const removeAfter = (s) => [new RegExp(`^${escapeRegex(s)}[\\s\\S]+`, "m"), ""];
 const splitLines = (line, ...indices) => [
   line,
   (s) => {
-    const separate =
-      indices[indices.length - 1] === true ? indices.pop() : false;
     const allIndices = [
       0,
       ...indices.map((x) => (typeof x === "string" ? s.indexOf(x) : x)),
       s.length,
     ];
     return (
-      (separate ? "\n\n" : "") +
+      "\n\n" +
       allIndices
         .slice(0, -1)
         .map((num, i) => `> ${s.slice(num, allIndices[i + 1]).trim()}`)
@@ -67,14 +90,12 @@ const splitLines = (line, ...indices) => [
 export const files = {
   "the-bab": {
     "selections-writings-bab": [
-      [
-        "Selections from the Writings of the Báb",
-        `Selections from the Writings of the Báb
-        author="The Báb"
-        years=[1844, 1850]
-        collection`,
-      ],
-      [/^Key to Passages Translated by Shoghi Effendi[\s\S]+/m, ""],
+      title("", "Selections from the Writings of the Báb", {
+        author: "The Báb",
+        years: [1844, 1850],
+        collection: true,
+      }),
+      removeAfter("Key to Passages Translated by Shoghi Effendi"),
       [/^\d+$/gm, ""],
       [
         "Compiled by the Research Department of the Universal House of Justice and translated by Ḥabíb Taherzadeh with the assistance of a Committee at the Bahá’í World Centre",
@@ -85,24 +106,20 @@ export const files = {
         "In footnotes referring to the Qur’án the súrihs have been numbered according to the original, whereas the verse numbers are those in Rodwell’s translation which differ sometimes from those of the Arabic.",
         "",
       ],
-      [
-        "Tablets and Addresses",
-        `# Tablets and Addresses
-        collection`,
-      ],
-      prefix("A Tablet Addressed to “Him Who Will Be Made Manifest”", "## "),
-      prefix("Tablet to the First Letter of the Living", "## "),
-      prefix("Extracts from an Epistle to Muḥammad Sháh", "## "),
-      prefix("Extracts from Another Epistle to Muḥammad Sháh", "## "),
-      prefix("Extracts from a Further Epistle to Muḥammad Sháh", "## "),
-      prefix(
-        "Extracts from a Tablet Containing Words Addressed to the Sherif of Mecca",
-        "## "
+      title("#", "Tablets and Addresses", { collection: true }),
+      title("##", "A Tablet Addressed to “Him Who Will Be Made Manifest”"),
+      title("##", "Tablet to the First Letter of the Living"),
+      title("##", "Extracts from an Epistle to Muḥammad Sháh"),
+      title("##", "Extracts from Another Epistle to Muḥammad Sháh"),
+      title("##", "Extracts from a Further Epistle to Muḥammad Sháh"),
+      title(
+        "##",
+        "Extracts from a Tablet Containing Words Addressed to the Sherif of Mecca"
       ),
-      prefix("Address to a Muslim Divine", "## "),
-      prefix(
-        "Address to Sulaymán, One of the Muslim Divines in the Land of Masqaṭ",
-        "## "
+      title("##", "Address to a Muslim Divine"),
+      title(
+        "##",
+        "Address to Sulaymán, One of the Muslim Divines in the Land of Masqaṭ"
       ),
       [
         "Excerpts from the Qayyúmu’l‑Asmá’",
@@ -136,21 +153,11 @@ export const files = {
         
         #`,
       ],
-      [
-        "Excerpts from Various Writings",
-        `# Excerpts from Various Writings
-        collection
-        
-        #`,
-      ],
-      [
-        "Prayers and Meditations",
-        `# Prayers and Meditations
-        type="Prayer"
-        collection
-        
-        #`,
-      ],
+      title("#", "Excerpts from Various Writings", { collection: true }),
+      title("#", "Prayers and Meditations", {
+        type: "Prayer",
+        collection: true,
+      }),
       [/Chapter [A-Z]+.$/gm, (s) => `${s}\n\n#\n\n`],
       [/[A-Z]+, \d+.$/gm, (s) => `${s}\n\n#\n\n`],
       prefix(/^Gracious God! Within the domains/m, "\n\n#\n\n"),
@@ -227,37 +234,24 @@ export const files = {
   bahaullah: {
     "call-divine-beloved": [
       [/^\d+$/gm, "#"],
-      [/^Notes[\s\S]+/m, ""],
+      removeAfter("Notes"),
       ["Selected Mystical Works of Bahá’u’lláh", ""],
-      [
-        "The Call of the Divine Beloved",
-        `The Call of the Divine Beloved
-        author="Bahá’u’lláh"
-        years=[1852, 1863]
-        collection
-        `,
-      ],
-      [
-        "Preface",
-        `# Preface
-        author="The Universal House of Justice"
-        years=[2019, 2019]
-        `,
-      ],
-      [
-        "Rashḥ‑i‑‘Amá\n\n(The Clouds of the Realms Above)",
-        `# The Clouds of the Realms Above
-        translated="Rashḥ‑i‑‘Amá"`,
-      ],
-      prefix("The Seven Valleys", "# "),
-      prefix("From the Letter Bá’ to the Letter Há’", "# "),
-      [
-        "Three Other Tablets",
-        `# Three Other Tablets
-        collection
-        `,
-      ],
-      prefix("The Four Valleys", "# "),
+      title("", "The Call of the Divine Beloved", {
+        author: "Bahá’u’lláh",
+        years: [1852, 1863],
+        collection: true,
+      }),
+      title("#", "Preface", {
+        author: "The Universal House of Justice",
+        years: [2019, 2019],
+      }),
+      title("#", "The Clouds of the Realms Above", {
+        translated: "Rashḥ‑i‑‘Amá",
+      }),
+      title("#", "The Seven Valleys"),
+      title("#", "From the Letter Bá’ to the Letter Há’"),
+      title("#", "Three Other Tablets", { collection: true }),
+      title("#", "The Four Valleys"),
       splitLines(/^’Tis from Our rapture.*/m, "’Tis from Our anthem"),
       splitLines(/^Upon the Eastern wind.*/m, "This sweetly scented"),
       splitLines(/^The day‑star of adornment.*/m, "Behold that mystic"),
@@ -278,58 +272,53 @@ export const files = {
       splitLines(/^Hear ye the sotted.*/m, "Behold the bliss that"),
       splitLines(/^Behold the radiant face.*/m, "Behold the Lordly grace"),
       splitLines(/^The vessel of the Advent.*/m, "The trill of songbirds"),
-      splitLines(/For the infidel, error—for.*/m, "For ‘Aṭṭár’s heart", true),
-      splitLines(/A lover is he who is chill.*/m, "A knower is he who", true),
-      splitLines(/Ne’er will love allow a.*/m, "Ne’er will the falcon", true),
-      splitLines(/Love’s a stranger to earth.*/m, "In him are lunacies", true),
-      splitLines(/Kindle the fire of love.*/m, "Then set thy foot", true),
-      splitLines(/Split the atom’s heart.*/m, "Within it thou wilt", true),
+      splitLines(/For the infidel, error—for.*/m, "For ‘Aṭṭár’s heart"),
+      splitLines(/A lover is he who is chill.*/m, "A knower is he who"),
+      splitLines(/Ne’er will love allow a.*/m, "Ne’er will the falcon"),
+      splitLines(/Love’s a stranger to earth.*/m, "In him are lunacies"),
+      splitLines(/Kindle the fire of love.*/m, "Then set thy foot"),
+      splitLines(/Split the atom’s heart.*/m, "Within it thou wilt"),
       splitLines(
         /Veiled from this was Moses.*/m,
         "Despite His virtue",
         "Then thou who hast",
-        "Abandon any hope",
-        true
+        "Abandon any hope"
       ),
-      splitLines(/Cleanse thou the rheum.*/m, "And breathe the breath", true),
-      splitLines(/How can a curtain part.*/m, "When Alexander’s wall", true),
-      splitLines(/If Khiḍr did wreck the.*/m, "A thousand rights are", true),
-      splitLines(/In thy soul, of love.*/m, "And burn all thoughts", true),
-      splitLines(/If I speak forth, many.*/m, "And if I write, many", true),
-      splitLines(/The bliss of mystic knowers.*/m, "A bliss no", true),
-      splitLines(/How many are the matters I.*/m, "For my words would", true),
-      splitLines(/How can feeble reason.*/m, "Or the spider snare", true),
-      splitLines(/Dost thou deem thyself.*/m, "When thou foldest within", true),
-      splitLines(/The tale remaineth yet.*/m, "Forgive me, then, for", true),
+      splitLines(/Cleanse thou the rheum.*/m, "And breathe the breath"),
+      splitLines(/How can a curtain part.*/m, "When Alexander’s wall"),
+      splitLines(/If Khiḍr did wreck the.*/m, "A thousand rights are"),
+      splitLines(/In thy soul, of love.*/m, "And burn all thoughts"),
+      splitLines(/If I speak forth, many.*/m, "And if I write, many"),
+      splitLines(/The bliss of mystic knowers.*/m, "A bliss no"),
+      splitLines(/How many are the matters I.*/m, "For my words would"),
+      splitLines(/How can feeble reason.*/m, "Or the spider snare"),
+      splitLines(/Dost thou deem thyself.*/m, "When thou foldest within"),
+      splitLines(/The tale remaineth yet.*/m, "Forgive me, then, for"),
       splitLines(
         /When once shone forth.*/m,
         "Of Him Who is the",
         "All mention Moses",
-        "Of every fleeting",
-        true
+        "Of every fleeting"
       ),
-      splitLines(/The Friend, unveiled, doth.*/m, "Through every door", true),
+      splitLines(/The Friend, unveiled, doth.*/m, "Through every door"),
       splitLines(
         /Even as the noontide sun.*/m,
         "Hath the True One",
         "But alas that He",
-        "To the city of",
-        true
+        "To the city of"
       ),
       splitLines(
         /Shattered was the pen at once.*/m,
         "Rent and torn in",
         "When the pen did",
-        "Of depicting such",
-        true
+        "Of depicting such"
       ),
       ["loss and death. Peace be upon", "loss and death.\n\nPeace be upon"],
       splitLines(
         /Live free of love, for.*/m,
         "Is grief and sorrow",
         "It starteth but with",
-        "It endeth but with",
-        true
+        "It endeth but with"
       ),
       splitLines(
         /^O thou lion‑hearted soul.*/m,
@@ -341,10 +330,9 @@ export const files = {
         /Thy faithlessness I cherish.*/m,
         "Than every gift",
         "To suffer at thy",
-        "How much dearer",
-        true
+        "How much dearer"
       ),
-      splitLines(/“O for a drop to drink!”.*/m, "“O for a thirsty", true),
+      splitLines(/“O for a drop to drink!”.*/m, "“O for a thirsty"),
       splitLines(
         /^O light of truth and sword.*/m,
         "And soul of generosity",
@@ -355,47 +343,41 @@ export const files = {
         /What fault didst thou observe.*/m,
         "That made thee cease",
         "Is it that poverty’s",
-        "And wealth and pageantry",
-        true
+        "And wealth and pageantry"
       ),
-      splitLines(/I do as bidden and convey.*/m, "Whether it give thee", true),
+      splitLines(/I do as bidden and convey.*/m, "Whether it give thee"),
       splitLines(
         /Tell us not the tale of Laylí.*/m,
         "Thy love hath made",
         "When once thy name",
-        "And set the speakers",
-        true
+        "And set the speakers"
       ),
       splitLines(
         /Each moon, O my belov’d.*/m,
         "For three days",
         "Today’s the first",
-        "’Tis why thou",
-        true
+        "’Tis why thou"
       ),
       prefix("that after death the mystery", "\n\n"),
-      splitLines(/O Abraham of the Spirit.*/m, "Slay! Slay these four", true),
-      splitLines(/With renunciation, not.*/m, "Be nothing, then, and", true),
+      splitLines(/O Abraham of the Spirit.*/m, "Slay! Slay these four"),
+      splitLines(/With renunciation, not.*/m, "Be nothing, then, and"),
       splitLines(
         /How can meagre reason comprehend.*/m,
         "Or the spider trap",
         "Wouldst thou that",
-        "Seize it and enrol",
-        true
+        "Seize it and enrol"
       ),
       splitLines(
         /Love shunneth this world.*/m,
         "In him are lunacies",
         "The minstrel of love",
-        "Servitude enslaveth",
-        true
+        "Servitude enslaveth"
       ),
       splitLines(
         /The story of Thy beauty.*/m,
         "Crazed, he sought",
         "The love of Thee",
-        "The pain of Thee",
-        true
+        "The pain of Thee"
       ),
       splitLines(
         /The lovers’ teacher is.*/m,
@@ -403,8 +385,7 @@ export const files = {
         "Learning of wonderment",
         "Not on learned chapters",
         "The chains that bind",
-        "The Cyclic Scheme",
-        true
+        "The Cyclic Scheme"
       ),
       splitLines(
         /O Lord, O Thou Whose grace.*/m,
@@ -412,41 +393,36 @@ export const files = {
         "Allow this mote of",
         "To free itself of lowly",
         "And grant this drop",
-        "Thou gavest me To be",
-        true
+        "Thou gavest me To be"
       ),
-      splitLines(/Speak the Persian tongue.*/m, "Love indeed doth", true),
+      splitLines(/Speak the Persian tongue.*/m, "Love indeed doth"),
       splitLines(
         /Our hearts will be as open.*/m,
         "Should He the pearls",
         "Our lives will ready",
-        "Were He to hurl the",
-        true
+        "Were He to hurl the"
       ),
       splitLines(
         /My soul doth sense the fragrant.*/m,
         "Of a well‑beloved",
         "The fragrance of",
-        "Who’s my heart’s",
-        true
+        "Who’s my heart’s"
       ),
       splitLines(
         /The duty of long years of love.*/m,
         "And tell the tale",
         "That land and sky",
-        "And it may gladden",
-        true
+        "And it may gladden"
       ),
       prefix("For this is the realm of God", "\n\n"),
       splitLines(
         /None may approach that.*/m,
         "Who harboureth his",
         "None may embrace",
-        "Who’s burdened",
-        true
+        "Who’s burdened"
       ),
-      splitLines(/No more than this will I.*/m, "The riverbed can never", true),
-      splitLines(/I seek thy nearness, more.*/m, "I see thy visage", true),
+      splitLines(/No more than this will I.*/m, "The riverbed can never"),
+      splitLines(/I seek thy nearness, more.*/m, "I see thy visage"),
       ["Shams‑i‑Tabríz. Peace be", "Shams‑i‑Tabríz.\n\nPeace be"],
       splitLines(
         /Let us tell, some other day.*/m,
@@ -454,141 +430,152 @@ export const files = {
         "Let us write",
         "Love’s secrets—better",
         "Leave blood and noise",
-        "And say no more",
-        true
+        "And say no more"
       ),
-      splitLines(/I write no more, beleaguered.*/m, "That my sweet", true),
+      splitLines(/I write no more, beleaguered.*/m, "That my sweet"),
       prefix(/^An exposition of the mysteries/gm, "* "),
       prefix(/^In the Name of God, the Merciful/gm, "^ "),
       prefix(/^In the name of our Lord, the Most/gm, "^ "),
       prefix(/^In the name of the peerless and/gm, "^ "),
       prefix(/^He is the Ever‑Living/gm, "^ "),
     ],
-    // "days-remembrance": {
-    //   years: (i) => (i == 0 ? [2017, 2017] : [1857, 1868]),
-    //   author: (i) => i === 0 && "The Universal House of Justice",
-    //   type: "Writings",
-    //   end: "Notes",
-    //   splitBefore: [/^—/],
-    //   ignore: [
-    //     "Selections from the Writings of Bahá’u’lláh for Bahá’í Holy Days",
-    //     /^— .* —$/,
-    //   ],
-    //   sections: {
-    //     "": 2,
-    //     Preface: 1,
-    //     "Naw‑Rúz": 1,
-    //     Riḍván: 1,
-    //     "Declaration of the Báb": 1,
-    //     "Ascension of Bahá’u’lláh": 1,
-    //     "Martyrdom of the Báb": 1,
-    //     "Birth of the Báb": 1,
-    //     "Birth of Bahá’u’lláh": 1,
-    //     "Ḥúr‑i‑‘Ujáb": 2,
-    //     "(Tablet of the Wondrous Maiden)": null,
-    //     "Lawḥ‑i‑‘Áshiq va Ma‘shúq": 2,
-    //     "(Tablet of the Lover and the Beloved)": null,
-    //     "Súriy‑i‑Qalam": 2,
-    //     "(Súrih of the Pen)": null,
-    //     "Lawḥ‑i‑Náqús": 2,
-    //     "(Tablet of the Bell)": null,
-    //     "Lawḥ‑i‑Ghulámu’l‑Khuld": 2,
-    //     "(Tablet of the Immortal Youth)": null,
-    //     "Súriy‑i‑Ghuṣn": 2,
-    //     "(Tablet of the Branch)": null,
-    //     "Lawḥ‑i‑Rasúl": 2,
-    //     "(Tablet to Rasúl)": null,
-    //     "Lawḥ‑i‑Maryam": 2,
-    //     "(Tablet to Maryam)": null,
-    //     "Kitáb‑i‑‘Ahd": 2,
-    //     "(Book of the Covenant)": null,
-    //     "The Tablet of Visitation": 2,
-    //     "Excerpt from the Súriy‑i‑Nuṣḥ": 2,
-    //     "(Súrih of Counsel)": null,
-    //     "Excerpt from the Súriy‑i‑Múlúk": 2,
-    //     "(Súrih of the Kings)": null,
-    //     "Excerpt from the Lawḥ‑i‑Salmán I": 2,
-    //     "(Tablet to Salmán I)": null,
-    //     "Excerpt from the Súriy‑i‑Dhikr": 2,
-    //     "(Súrih of Remembrance)": null,
-    //     "Excerpt from the Súriy‑i‑Aḥzán": 2,
-    //     "(Súrih of Sorrows)": null,
-    //     "Lawḥ‑i‑Mawlúd": 2,
-    //     "(Tablet of the Birth)": null,
-    //   },
-    //   collections: [
-    //     "Days of Remembrance",
-    //     "Naw‑Rúz",
-    //     "Riḍván",
-    //     "Declaration of the Báb",
-    //     "Ascension of Bahá’u’lláh",
-    //     "Martyrdom of the Báb",
-    //     "Birth of the Báb",
-    //     "Birth of Bahá’u’lláh",
-    //   ],
-    // },
-    // "epistle-son-wolf": {
-    //   years: [1891, 1891],
-    //   type: "Writings",
-    //   ignore: ["by Bahá’u’lláh", "Translated by Shoghi Effendi"],
-    //   lines: {
-    //     "In the name of God, the One, the Incomparable, the All‑Powerful, the All‑Knowing, the All‑Wise.":
-    //       "call",
-    //   },
-    //   replace: {
-    //     "this sublime and momentous": "this most sublime and momentous",
-    //     "are rays of one Light": "are the rays of one Light",
-    //   },
-    // },
-    // "gems-divine-mysteries": {
-    //   years: (i) => (i === 0 ? [2002, 2002] : [1857, 1863]),
-    //   author: (i) => i === 0 && "The Universal House of Justice",
-    //   type: "Writings",
-    //   end: "Notes",
-    //   ignore: ["Javáhiru’l‑Asrár", "by Bahá’u’lláh"],
-    //   lines: {
-    //     "The essence of the divine mysteries in the journeys of ascent set forth for those who long to draw nigh unto God, the Almighty, the Ever‑Forgiving—blessed be the righteous that quaff from these crystal streams!":
-    //       "info",
-    //     "He is the Exalted, the Most High!": "call",
-    //   },
-    //   sections: {
-    //     Introduction: 1,
-    //     "Gems of Divine Mysteries": 1,
-    //   },
-    //   collections: ["Gems of Divine Mysteries"],
-    // },
-    // "gleanings-writings-bahaullah": {
-    //   type: "Writings",
-    //   splitBefore: [/^—/],
-    //   ignore: ["Translated By Shoghi Effendi", /^— .* —$/],
-    //   collections: ["Gleanings from the Writings of Bahá’u’lláh"],
-    //   replace: {
-    //     "The other station ": "",
-    //     "No, by Him Who is the Eternal": "Nay, by Him Who is the Eternal",
-    //     "Did they whom you curse": "Did they whom ye curse",
-    //     "could have the chance": "could have had the chance",
-    //     "wretched the abode of": "wretched is the abode of",
-    //     "and were what you are": "and were what ye are",
-    //     "anyone. No, by Him Who": "anyone. Nay, by Him Who",
-    //     "Consider Moses!": "Moses!",
-    //     "meaning, were ye to ponder": "meaning, were you to ponder",
-    //     "Behold how the sovereignty": "the sovereignty",
-    //     "Say: Yes, by My Lord!": "Say: Yea, by My Lord!",
-    //     "Say: Await ye till": "Say: Wait ye till",
-    //     "to thee? No, by Him Who": "to thee? Nay, by Him Who",
-    //     "Ye, and all ye possess": "By God! Ye, and all ye possess",
-    //     "pledged Ourselves to secure": "pledged Ourself to secure",
-    //     "learned that you are": "learned that ye are",
-    //     "beneath you. Judge ye": "beneath you, and judge ye",
-    //     "justly between men, and": "justly between men, O kings, and",
-    //     "succoureth whom He will": "succoureth whom He willeth",
-    //     "recognise this truth. Say:":
-    //       "recognise this truth. Say: This is the Most Great Testimony, by which the validity of every proof throughout the ages hath been established, would that ye might be assured thereof. Say:",
-    //     "glory, and shall aid whosoever": "glory, and will aid whosoever",
-    //     "Wash your hearts from": "Wash from your hearts",
-    //     "discerning and illuminated heart": "discerning and illumined heart",
-    //   },
-    // },
+    "days-remembrance": [
+      removeAfter("Notes"),
+      title("", "Days of Remembrance", {
+        author: "Bahá’u’lláh",
+        years: [1857, 1868],
+        collection: true,
+      }),
+      ["Selections from the Writings of Bahá’u’lláh for Bahá’í Holy Days", ""],
+      title("#", "Preface", {
+        author: "The Universal House of Justice",
+        years: [2017, 2017],
+      }),
+      [/^— .* —$/gm, "#"],
+      title("#", "Naw‑Rúz", { collection: true }),
+      title("#", "Riḍván", { collection: true }),
+      title("#", "Declaration of the Báb", { collection: true }),
+      title("#", "Ascension of Bahá’u’lláh", { collection: true }),
+      title("#", "Martyrdom of the Báb", { collection: true }),
+      title("#", "Birth of the Báb", { collection: true }),
+      title("#", "Birth of Bahá’u’lláh", { collection: true }),
+      title("##", "Tablet of the Wondrous Maiden", {
+        translated: "Ḥúr‑i‑‘Ujáb",
+      }),
+      title("##", "Tablet of the Lover and the Beloved", {
+        translated: "Lawḥ‑i‑‘Áshiq va Ma‘shúq",
+      }),
+      [
+        `Súriy‑i‑Qalam\n\n(Súrih of the Pen)`,
+        `## Tablet of the Pen
+        translated="Súriy‑i‑Qalam"`,
+      ],
+      title("##", "Tablet of the Bell", { translated: "Lawḥ‑i‑Náqús" }),
+      title("##", "Tablet of the Immortal Youth", {
+        translated: "Lawḥ‑i‑Ghulámu’l‑Khuld",
+      }),
+      title("##", "Tablet of the Branch", { translated: "Súriy‑i‑Ghuṣn" }),
+      title("##", "Tablet to Rasúl", { translated: "Lawḥ‑i‑Rasúl" }),
+      title("##", "Tablet to Maryam", { translated: "Lawḥ‑i‑Maryam" }),
+      title("##", "Book of the Covenant", { translated: "Kitáb‑i‑‘Ahd" }),
+      title("##", "The Tablet of Visitation"),
+      [
+        `Excerpt from the Súriy‑i‑Nuṣḥ\n\n(Súrih of Counsel)`,
+        `## Excerpt from the Tablet of Counsel
+        translated="Súriy‑i‑Nuṣḥ"`,
+      ],
+      [
+        `Excerpt from the Súriy‑i‑Múlúk\n\n(Súrih of the Kings)`,
+        `## Excerpt from the Tablet of the Kings
+        translated="Súriy‑i‑Múlúk"`,
+      ],
+      [
+        `Excerpt from the Lawḥ‑i‑Salmán I\n\n(Tablet to Salmán I)`,
+        `## Excerpt from the Tablet to Salmán I
+        translated="Lawḥ‑i‑Salmán I"`,
+      ],
+      [
+        `Excerpt from the Súriy‑i‑Dhikr\n\n(Súrih of Remembrance)`,
+        `## Excerpt from the Tablet of Remembrance
+        translated="Súriy‑i‑Dhikr"`,
+      ],
+      [
+        `Excerpt from the Súriy‑i‑Aḥzán\n\n(Súrih of Sorrows)`,
+        `## Excerpt from the Tablet of Sorrows
+        translated="Súriy‑i‑Aḥzán"`,
+      ],
+      title("##", "Tablet of the Birth", { translated: "Lawḥ‑i‑Mawlúd" }),
+    ],
+    "epistle-son-wolf": [
+      removeAfter("This document has been downloaded"),
+      title("", "Epistle to the Son of the Wolf", {
+        author: "Bahá’u’lláh",
+        years: [1891, 1891],
+      }),
+      ["by Bahá’u’lláh", ""],
+      ["Translated by Shoghi Effendi", ""],
+      prefix(/^In the name of God, the One, the Incomparable/m, "^ "),
+      ["this sublime and momentous", "this most sublime and momentous"],
+      ["are rays of one Light", "are the rays of one Light"],
+    ],
+    "gems-divine-mysteries": [
+      removeAfter("Notes"),
+      [
+        "Gems of Divine Mysteries",
+        "Javáhiru’l‑Asrár\n\n(Gems of Divine Mysteries)",
+      ],
+      title("", "Gems of Divine Mysteries", {
+        author: "Bahá’u’lláh",
+        years: [1857, 1863],
+        translated: "Javáhiru’l‑Asrár",
+        collection: true,
+      }),
+      [/^Javáhiru’l‑Asrár$/m, ""],
+      [/^by Bahá’u’lláh$/m, ""],
+      title("#", "Introduction", {
+        author: "The Universal House of Justice",
+        years: "2002, 2002",
+      }),
+      ["\nGems of Divine Mysteries", "\n# Gems of Divine Mysteries"],
+      prefix(/^The essence of the divine mysteries/m, "* "),
+      prefix(/^He is the Exalted, the Most High!/m, "^ "),
+    ],
+    "gleanings-writings-bahaullah": [
+      removeAfter("This document has been downloaded"),
+      ["Translated By Shoghi Effendi", ""],
+      [/^— .* —$/gm, "#"],
+      title("", "Gleanings from the Writings of Bahá’u’lláh", {
+        author: "Bahá’u’lláh",
+        years: authorYears["Bahá’u’lláh"],
+        collection: true,
+      }),
+      ["The other station ", ""],
+      ["No, by Him Who is the Eternal", "Nay, by Him Who is the Eternal"],
+      ["Did they whom you curse", "Did they whom ye curse"],
+      ["could have the chance", "could have had the chance"],
+      ["wretched the abode of", "wretched is the abode of"],
+      ["and were what you are", "and were what ye are"],
+      ["anyone. No, by Him Who", "anyone. Nay, by Him Who"],
+      ["Consider Moses!", "Moses!"],
+      ["meaning, were ye to ponder", "meaning, were you to ponder"],
+      ["Behold how the sovereignty", "the sovereignty"],
+      ["Say: Yes, by My Lord!", "Say: Yea, by My Lord!"],
+      ["Say: Await ye till", "Say: Wait ye till"],
+      ["to thee? No, by Him Who", "to thee? Nay, by Him Who"],
+      ["Ye, and all ye possess", "By God! Ye, and all ye possess"],
+      ["pledged Ourselves to secure", "pledged Ourself to secure"],
+      ["learned that you are", "learned that ye are"],
+      ["beneath you. Judge ye", "beneath you, and judge ye"],
+      ["justly between men, and", "justly between men, O kings, and"],
+      ["succoureth whom He will", "succoureth whom He willeth"],
+      [
+        "recognise this truth. Say:",
+        "recognise this truth. Say: This is the Most Great Testimony, by which the validity of every proof throughout the ages hath been established, would that ye might be assured thereof. Say:",
+      ],
+      ["glory, and shall aid whosoever", "glory, and will aid whosoever"],
+      ["Wash your hearts from", "Wash from your hearts"],
+      ["discerning and illuminated heart", "discerning and illumined heart"],
+    ],
     "hidden-words": [
       [/^Bahá’u’lláh/m, ""],
       [/^Translated by Shoghi Effendi.+/m, ""],
@@ -600,8 +587,7 @@ export const files = {
         `The Hidden Words
         author="Bahá’u’lláh"
         years=[1857, 1858]
-        collection
-        `,
+        collection`,
       ],
       ["Part One\n\nFrom the Arabic", "# Part One: From the Arabic"],
       ["Part Two\n\nFrom the Persian", "# Part Two: From the Persian"],
