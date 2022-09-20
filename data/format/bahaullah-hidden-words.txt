@@ -1,6 +1,6 @@
 The Hidden Words
 author="Bahá’u’lláh"
-years=[1857, 1858]
+years=[1857,1858]
 collection
 
 # Part One: From the Arabic

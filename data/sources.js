@@ -1,48 +1,3 @@
-// const obligatoryLines = {
-//   "To be recited once in twenty‑four hours, at noon": "info",
-//   "To be recited daily, in the morning, at noon, and in the evening": "info",
-//   "Whoso wisheth to pray, let him wash his hands, and while he washeth, let him say:":
-//     "info",
-//   "And while washing his face, let him say:": "info",
-//   "Then let him stand up, and facing the Qiblih (Point of Adoration, i.e., Bahjí, ‘Akká), let him say:":
-//     "info",
-//   "Let him, then, bend down, with hands resting on the knees, and say:": "info",
-//   "Then, standing with open hands, palms upward toward the face, let him say:":
-//     "info",
-//   "Let him, then, be seated and say:": "info",
-//   "(If anyone choose to recite instead of the long verse these words: “God testifieth that there is none other God but Him, the Help in Peril, the Self‑Subsisting,” it would be sufficient. And likewise, it would suffice were he, while seated, to choose to recite these words: “I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.”)":
-//     "info",
-//   "To be recited once in twenty‑four hours": "info",
-//   "Whoso wisheth to recite this prayer, let him stand up and turn unto God, and, as he standeth in his place, let him gaze to the right and to the left, as if awaiting the mercy of his Lord, the Most Merciful, the Compassionate. Then let him say:":
-//     "info",
-//   "Let him then raise his hands in supplication toward God—blessed and exalted be He—and say:":
-//     "info",
-//   "Let him then kneel, and bowing his forehead to the ground, let him say:":
-//     "info",
-//   "Let him then stand and say:": "info",
-//   "Let him again raise his hands in supplication, and say:": "info",
-//   "Let him then raise his hands, and repeat three times the Greatest Name. Let him then bend down with hands resting on the knees before God—blessed and exalted be He—and say:":
-//     "info",
-//   "Let him then stand and raise his hands twice in supplication, and say:":
-//     "info",
-//   "Let him then raise his hands thrice, and say:": "info",
-//   "Let him then kneel and, bowing his forehead to the ground, say:": "info",
-//   "Let him then seat himself and say:": "info",
-//   "Let him then stand erect and say:": "info",
-//   "Let him then repeat the Greatest Name thrice, and bend down with hands resting on the knees, and say:":
-//     "info",
-//   "Let him then rise and say:": "info",
-//   "Let him then repeat the Greatest Name thrice, and kneel with his forehead to the ground, and say:":
-//     "info",
-//   "Let him then raise his head, and seat himself, and say:": "info",
-//   "Let him, then, repeat six times the greeting “Alláh‑u‑Abhá,” and then repeat nineteen times each of the following verses:":
-//     "info",
-//   "(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc. . . .)":
-//     "info",
-//   "(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc. . .)":
-//     "info",
-// };
-
 const authorYears = {
   "The Báb": [1844, 1850],
   "Bahá’u’lláh": [1852, 1892],
@@ -52,21 +7,29 @@ const authorYears = {
 
 const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const prefix = (line, pre) => [line, (s) => `${pre}${s}`];
+const getTitle = (s, t, translated) => {
+  if (!translated) return s;
+  if (s.toLowerCase().includes("excerpts")) return `Excerpts from the ${t}`;
+  if (s.toLowerCase().includes("excerpt")) return `Excerpt from the ${t}`;
+  return t;
+};
 const title = (level, title, { collection, translated, ...config } = {}) => [
   new RegExp(
-    `^${escapeRegex(translated || title)}${
-      translated ? escapeRegex(`\n\n(${title})`) : ""
-    }$`,
+    `(${[title, translated]
+      .filter((x) => x)
+      .map((x) => `^(Excerpt.*|)${escapeRegex(x)}.*$`)
+      .join("|")})(\n\n^\\(.*\\)$)?`,
     "m"
   ),
-  [
-    `${level ? level + " " : ""}${title}`,
-    ...Object.keys(config).map((k) => `${k}=${JSON.stringify(config[k])}`),
-    translated && `translated="${translated}"`,
-    collection && "collection\n\n#",
-  ]
-    .filter((x) => x)
-    .join("\n"),
+  (s) =>
+    [
+      `${level ? level + " " : ""}${getTitle(s, title, translated)}`,
+      ...Object.keys(config).map((k) => `${k}=${JSON.stringify(config[k])}`),
+      translated && `translated="${translated}"`,
+      collection && "collection\n\n#",
+    ]
+      .filter((x) => x)
+      .join("\n"),
 ];
 const removeAfter = (s) => [new RegExp(`^${escapeRegex(s)}[\\s\\S]+`, "m"), ""];
 const splitLines = (line, ...indices) => [
@@ -85,6 +48,21 @@ const splitLines = (line, ...indices) => [
         .join("\n")
     );
   },
+];
+
+const obligatory = [
+  prefix(/^To be recited once in twenty‑four/gm, "* "),
+  prefix(/^To be recited daily, in the morning/m, "* "),
+  prefix(/^Whoso wisheth to pray, let him wash/m, "* "),
+  prefix(/^And while washing his face, let/m, "* "),
+  prefix(/^Then let him stand up, and facing the/m, "* "),
+  prefix(/^Let him, then/gm, "* "),
+  prefix(/^Then, standing with open hands, palms/m, "* "),
+  prefix(/^\(If anyone choose to recite instead/m, "* "),
+  prefix(/^Whoso wisheth to recite this prayer/m, "* "),
+  prefix(/^Let him then/gm, "* "),
+  prefix(/^Let him again raise his hands/m, "* "),
+  prefix(/^\(If the dead be a woman, let him say/m, "* "),
 ];
 
 export const files = {
@@ -121,38 +99,22 @@ export const files = {
         "##",
         "Address to Sulaymán, One of the Muslim Divines in the Land of Masqaṭ"
       ),
-      [
-        "Excerpts from the Qayyúmu’l‑Asmá’",
-        `# Excerpts from the Commentary on the Súrih of Joseph
-        translated="Qayyúmu’l‑Asmá’"
-        collection
-        
-        #`,
-      ],
-      [
-        "Excerpts from the Persian Bayán",
-        `# Excerpts from the Persian Utterance
-        translated="Persian Bayán"
-        collection
-        
-        #`,
-      ],
-      [
-        "Excerpts from the Dalá’il‑i‑Sab‘ih\n\n(The Seven Proofs)",
-        `# Excerpts from the Seven Proofs
-        translated="Dalá’il‑i‑Sab‘ih"
-        collection
-        
-        #`,
-      ],
-      [
-        "Excerpts from the Kitáb‑i‑Asmá’\n\n(The Book of Names)",
-        `# Excerpts from the Book of Names
-        translated="Kitáb‑i‑Asmá’"
-        collection
-        
-        #`,
-      ],
+      title("#", "Commentary on the Súrih of Joseph", {
+        translated: "Qayyúmu’l‑Asmá’",
+        collection: true,
+      }),
+      title("#", "Persian Utterance", {
+        translated: "Persian Bayán",
+        collection: true,
+      }),
+      title("#", "Seven Proofs", {
+        translated: "Dalá’il‑i‑Sab‘ih",
+        collection: true,
+      }),
+      title("#", "Book of Names", {
+        translated: "Kitáb‑i‑Asmá’",
+        collection: true,
+      }),
       title("#", "Excerpts from Various Writings", { collection: true }),
       title("#", "Prayers and Meditations", {
         type: "Prayer",
@@ -465,11 +427,7 @@ export const files = {
       title("##", "Tablet of the Lover and the Beloved", {
         translated: "Lawḥ‑i‑‘Áshiq va Ma‘shúq",
       }),
-      [
-        `Súriy‑i‑Qalam\n\n(Súrih of the Pen)`,
-        `## Tablet of the Pen
-        translated="Súriy‑i‑Qalam"`,
-      ],
+      title("##", "Tablet of the Pen", { translated: "Súriy‑i‑Qalam" }),
       title("##", "Tablet of the Bell", { translated: "Lawḥ‑i‑Náqús" }),
       title("##", "Tablet of the Immortal Youth", {
         translated: "Lawḥ‑i‑Ghulámu’l‑Khuld",
@@ -479,31 +437,11 @@ export const files = {
       title("##", "Tablet to Maryam", { translated: "Lawḥ‑i‑Maryam" }),
       title("##", "Book of the Covenant", { translated: "Kitáb‑i‑‘Ahd" }),
       title("##", "The Tablet of Visitation"),
-      [
-        `Excerpt from the Súriy‑i‑Nuṣḥ\n\n(Súrih of Counsel)`,
-        `## Excerpt from the Tablet of Counsel
-        translated="Súriy‑i‑Nuṣḥ"`,
-      ],
-      [
-        `Excerpt from the Súriy‑i‑Múlúk\n\n(Súrih of the Kings)`,
-        `## Excerpt from the Tablet of the Kings
-        translated="Súriy‑i‑Múlúk"`,
-      ],
-      [
-        `Excerpt from the Lawḥ‑i‑Salmán I\n\n(Tablet to Salmán I)`,
-        `## Excerpt from the Tablet to Salmán I
-        translated="Lawḥ‑i‑Salmán I"`,
-      ],
-      [
-        `Excerpt from the Súriy‑i‑Dhikr\n\n(Súrih of Remembrance)`,
-        `## Excerpt from the Tablet of Remembrance
-        translated="Súriy‑i‑Dhikr"`,
-      ],
-      [
-        `Excerpt from the Súriy‑i‑Aḥzán\n\n(Súrih of Sorrows)`,
-        `## Excerpt from the Tablet of Sorrows
-        translated="Súriy‑i‑Aḥzán"`,
-      ],
+      title("##", "Tablet of Counsel", { translated: "Súriy‑i‑Nuṣḥ" }),
+      title("##", "Tablet of the Kings", { translated: "Súriy‑i‑Múlúk" }),
+      title("##", "Tablet to Salmán I", { translated: "Lawḥ‑i‑Salmán I" }),
+      title("##", "Tablet of Remembrance", { translated: "Súriy‑i‑Dhikr" }),
+      title("##", "Tablet of Sorrows", { translated: "Súriy‑i‑Aḥzán" }),
       title("##", "Tablet of the Birth", { translated: "Lawḥ‑i‑Mawlúd" }),
     ],
     "epistle-son-wolf": [
@@ -520,21 +458,17 @@ export const files = {
     ],
     "gems-divine-mysteries": [
       removeAfter("Notes"),
-      [
-        "Gems of Divine Mysteries",
-        "Javáhiru’l‑Asrár\n\n(Gems of Divine Mysteries)",
-      ],
+      ["Javáhiru’l‑Asrár", ""],
       title("", "Gems of Divine Mysteries", {
         author: "Bahá’u’lláh",
         years: [1857, 1863],
         translated: "Javáhiru’l‑Asrár",
         collection: true,
       }),
-      [/^Javáhiru’l‑Asrár$/m, ""],
       [/^by Bahá’u’lláh$/m, ""],
       title("#", "Introduction", {
         author: "The Universal House of Justice",
-        years: "2002, 2002",
+        years: [2002, 2002],
       }),
       ["\nGems of Divine Mysteries", "\n# Gems of Divine Mysteries"],
       prefix(/^The essence of the divine mysteries/m, "* "),
@@ -582,13 +516,11 @@ export const files = {
       [/\*\*\*/g, ""],
       [/^\d+\.$/gm, ""],
       [/^This document has been downloaded[\s\S]+/m, ""],
-      [
-        "The Hidden Words",
-        `The Hidden Words
-        author="Bahá’u’lláh"
-        years=[1857, 1858]
-        collection`,
-      ],
+      title("", "The Hidden Words", {
+        author: "Bahá’u’lláh",
+        years: [1857, 1858],
+        collection: true,
+      }),
       ["Part One\n\nFrom the Arabic", "# Part One: From the Arabic"],
       ["Part Two\n\nFrom the Persian", "# Part Two: From the Persian"],
       prefix(/^He Is the Glory of Glories/m, "^ "),
@@ -601,64 +533,70 @@ export const files = {
       [/^O .+?!/gm, (s) => `> ${s}\n>`],
       ["Alas! Alas! O Lovers of Worldly Desire!", (s) => `> ${s}\n>`],
     ],
-    // "kitab-i-aqdas": {
-    //   years: (i) =>
-    //     ({
-    //       0: [1992, 1992],
-    //       1: [1992, 1992],
-    //       2: [1944, 1944],
-    //       3: [1873, 1873],
-    //       4: [1992, 1992],
-    //       10: [1873, 1873],
-    //       11: [1973, 1973],
-    //       12: [1992, 1992],
-    //     }[i]),
-    //   author: (i) =>
-    //     ({
-    //       0: "The Universal House of Justice",
-    //       1: "The Universal House of Justice",
-    //       2: "Shoghi Effendi",
-    //       4: "The Universal House of Justice",
-    //       11: "Shoghi Effendi",
-    //       12: "The Universal House of Justice",
-    //     }[i]),
-    //   type: "Writings",
-    //   end: "Key to Passages Translated by Shoghi Effendi",
-    //   ignore: [
-    //     "The Most Holy Book",
-    //     "Bahá’u’lláh",
-    //     /^\(Tablets/,
-    //     /^\(Prayers/,
-    //     /^\d+\.$/,
-    //     "* * *",
-    //   ],
-    //   splitBefore: [/^\d+\./],
-    //   lines: {
-    //     "In the name of Him Who is the Supreme Ruler over all that hath been and all that is to be":
-    //       "call",
-    //     ...obligatoryLines,
-    //   },
-    //   sections: {
-    //     Preface: 1,
-    //     Introduction: 1,
-    //     "A Description of the Kitáb‑i‑Aqdas by Shoghi Effendi": 1,
-    //     "The Kitáb‑i‑Aqdas": 1,
-    //     "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas": 1,
-    //     "Questions and Answers": 1,
-    //     "Synopsis and Codification of the Laws and Ordinances of the Kitáb‑i‑Aqdas": 1,
-    //     Notes: 1,
-    //     "The Tablet of Ishráqát": 2,
-    //     "The Eighth Ishráq": null,
-    //     "Long Obligatory Prayer": 2,
-    //     "Medium Obligatory Prayer": 2,
-    //     "Short Obligatory Prayer": 2,
-    //     "Prayer for the Dead": 2,
-    //   },
-    //   collections: [
-    //     "The Kitáb‑i‑Aqdas",
-    //     "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas",
-    //   ],
-    // },
+    "kitab-i-aqdas": [
+      removeAfter("Key to Passages Translated by Shoghi Effendi"),
+      ["The Most Holy Book", ""],
+      ["Bahá’u’lláh", ""],
+      [/\(\)/g, ""],
+      [/\(Q&A.*\)/gi, ""],
+      [/\(see.*\)/gi, ""],
+      [/\(Tablets.*\)/g, ""],
+      [/\(Prayers.*\)/g, ""],
+      [/\*\*\*/g, ""],
+      title("", "The Most Holy Book", {
+        author: "Bahá’u’lláh",
+        years: [1873, 1873],
+        translated: "The Kitáb‑i‑Aqdas",
+        collection: true,
+      }),
+      title("#", "Preface", {
+        author: "The Universal House of Justice",
+        years: [1992, 1992],
+      }),
+      title("#", "Introduction", {
+        author: "The Universal House of Justice",
+        years: [1992, 1992],
+      }),
+      title("#", "A Description of the Kitáb‑i‑Aqdas by Shoghi Effendi", {
+        author: "Shoghi Effendi",
+        years: [1944, 1944],
+      }),
+      prefix(/^Taken from God Passes By, his/m, "* "),
+      ["\nThe Kitáb‑i‑Aqdas", "\n# The Most Holy Book"],
+      prefix(/^In the name of Him Who is the Supreme Ruler/m, "^ "),
+      title(
+        "#",
+        "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas",
+        { years: [1873, 1892], collection: true }
+      ),
+      [/^A number of Tablets revealed by Bahá’u’lláh.*/m, ""],
+      [
+        "The Tablet of Ishráqát\n\nThe Eighth Ishráq",
+        "## The Tablet of Ishráqát: The Eighth Ishráq",
+      ],
+      title("##", "Long Obligatory Prayer"),
+      title("##", "Medium Obligatory Prayer"),
+      title("##", "Short Obligatory Prayer"),
+      title("##", "Prayer for the Dead"),
+      ...obligatory,
+      title("#", "Questions and Answers"),
+      [
+        /^\d+\.$\n\n^Question.*$\n\n/gm,
+        (s) => `> ${s.slice(s.indexOf(".") + 3, -2)}\n> `,
+      ],
+      [/^\d+\.$\n\n/gm, "> "],
+      [/^Synopsis and Codification of the[\s\S]*^Notes$/m, "Notes"],
+      title("#", "Notes", {
+        author: "The Universal House of Justice",
+        years: [1992, 1992],
+        collection: true,
+      }),
+      [
+        /^\d+\..*/gm,
+        (s) => `#
+        reference="${s.slice(s.indexOf(".") + 2)}"`,
+      ],
+    ],
     // "kitab-i-iqan": {
     //   years: (i) => (i === 1 ? [1931, 1931] : [1862, 1862]),
     //   type: "Writings",

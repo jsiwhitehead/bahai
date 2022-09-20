@@ -20,7 +20,6 @@ import { readText, writeText } from "./utils.js";
               await readText("spellings", id)
             )
             .replace(/(#\n+)+#/g, "#")
-            .replace(/[^\S\n]+/g, " ")
             .replace(/(\s*\n){2,}/g, "\n\n")
             .split("\n")
             .map((s) => s.trim())
