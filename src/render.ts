@@ -40,7 +40,7 @@ const reflowCSS = [
 ];
 
 const updateNode = (node, data) => {
-  if (!data) return null;
+  if (!data && data !== 0) return null;
 
   if (!isObject(data) || !data.items) {
     const text = (typeof data === "string" ? data : print(resolve(data, true)))
@@ -57,67 +57,57 @@ const updateNode = (node, data) => {
     node?.nodeName.toLowerCase() === data.tag
       ? node
       : document.createElement(data.tag);
-  next.__data = data;
 
-  next.__updateProps =
-    next.__updateProps ||
-    effect(() => {
-      const { style: dataStyle = {}, ...dataValues } = next.__data.values;
-      const values = resolve(dataValues, true);
-      const setters = Object.keys(next.__data.values)
-        .filter((k) => isAtom(next.__data.values[k]) && k.startsWith("on"))
-        .reduce(
-          (res, k) => ({
-            ...res,
-            [k]: (e) => {
-              next.__data.values[k].set(e);
-            },
-          }),
-          {}
-        );
-      const props = { ...values, ...setters };
-      for (const key in props) {
-        if (props[key] === null || props[key] === undefined) delete next[key];
-        else next[key] = props[key];
-      }
-
-      const styles = resolve(dataStyle);
-      const style = Object.keys(styles)
-        .filter((key) => !reflowCSS.some((k) => key.startsWith(k)))
-        .map((key) => ({ key, value: resolve(styles[key]) }))
-        .reduce(
-          (res, { key, value }) => ({ ...res, [kebabToCamel(key)]: value }),
-          {}
-        );
-      for (const key in style) next.style[key] = style[key] || null;
-    });
-  next.__updateProps.get();
-
-  next.__updateLayout =
-    next.__updateLayout ||
-    effect(() => {
-      const styles = resolve(next.__data.values.style || {});
-      const style = Object.keys(styles)
-        .filter((key) => reflowCSS.some((k) => key.startsWith(k)))
-        .map((key) => ({ key, value: resolve(styles[key]) }))
-        .reduce(
-          (res, { key, value }) => ({ ...res, [kebabToCamel(key)]: value }),
-          {}
-        );
-      for (const key in style) next.style[key] = style[key] || null;
-    });
-  next.__updateLayout.get();
-
-  next.__updateChildren =
-    next.__updateChildren ||
-    effect(() => {
-      next.replaceChildren(
-        ...next.__data.items
-          .map((d, i) => updateNode(next.childNodes[i], resolve(d)))
-          .filter((x) => x)
+  effect(() => {
+    const { style: dataStyle = {}, ...dataValues } = data.values;
+    const values = resolve(dataValues, true);
+    const setters = Object.keys(data.values)
+      .filter((k) => isAtom(data.values[k]) && k.startsWith("on"))
+      .reduce(
+        (res, k) => ({
+          ...res,
+          [k]: (e) => {
+            data.values[k].set(e);
+          },
+        }),
+        {}
       );
-    });
-  next.__updateChildren.get();
+    const props = { ...values, ...setters };
+    for (const key in props) {
+      if (props[key] === null || props[key] === undefined) delete next[key];
+      else next[key] = props[key];
+    }
+
+    const styles = resolve(dataStyle);
+    const style = Object.keys(styles)
+      .filter((key) => !reflowCSS.some((k) => key.startsWith(k)))
+      .map((key) => ({ key, value: resolve(styles[key]) }))
+      .reduce(
+        (res, { key, value }) => ({ ...res, [kebabToCamel(key)]: value }),
+        {}
+      );
+    for (const key in style) next.style[key] = style[key] || null;
+  }).get();
+
+  effect(() => {
+    const styles = resolve(data.values.style || {});
+    const style = Object.keys(styles)
+      .filter((key) => reflowCSS.some((k) => key.startsWith(k)))
+      .map((key) => ({ key, value: resolve(styles[key]) }))
+      .reduce(
+        (res, { key, value }) => ({ ...res, [kebabToCamel(key)]: value }),
+        {}
+      );
+    for (const key in style) next.style[key] = style[key] || null;
+  }).get();
+
+  effect(() => {
+    next.replaceChildren(
+      ...data.items
+        .map((d, i) => updateNode(next.childNodes[i], resolve(d)))
+        .filter((x) => x)
+    );
+  }).get();
 
   return next;
 };
@@ -144,56 +134,3 @@ export default (root) => (data) => {
 //   rowspan: "rowSpan",
 //   tabindex: "tabIndex",
 // };
-
-// import { elementClose, elementOpen, patch, text } from "incremental-dom";
-
-// const render = (data) => {
-//   if (!data) {
-//     return;
-//   }
-//   if (!isObject(data) || !data.items) {
-//     return text(typeof data === "string" ? data : print(resolve(data, true)));
-//   }
-
-//   const content = data.items.map((d) => resolve(d));
-
-//   const values = resolve(data.values, true);
-//   const setters = Object.keys(data.values)
-//     .filter((k) => isAtom(data.values[k]) && k.startsWith("on"))
-//     .reduce(
-//       (res, k) => ({
-//         ...res,
-//         [k]: (e) => {
-//           data.values[k].set(e);
-//         },
-//       }),
-//       {}
-//     );
-//   const props = {
-//     ...values,
-//     ...(values.style
-//       ? {
-//           style: Object.keys(values.style)
-//             .filter((k) => values.style[k] != null)
-//             .reduce(
-//               (res, k) => ({ ...res, [kebabToCamel(k)]: values.style[k] }),
-//               {}
-//             ),
-//         }
-//       : {}),
-//     ...setters,
-//   };
-
-//   elementOpen(
-//     resolve(data.tag),
-//     null,
-//     null,
-//     ...Object.keys(props).reduce((res, k) => [...res, k, props[k]], [] as any[])
-//   );
-
-//   content.forEach((c) => render(c));
-
-//   elementClose(resolve(data.tag));
-// };
-
-// export default (root) => (data) => patch(root, render, resolve(data.index));

@@ -93,9 +93,9 @@
             stack={60}
             <a stack={20}>
               <a color="blue" underline={hover} link="/" "« Back" />
-              <a size={40} bold underline align="center" {documents[url[1]].title} />
+              <a size={34} bold underline align="center" {documents[url[1]].title} />
               {documents[url[1]].translated &&
-                <a size={30} bold align="center" {"(" + documents[url[1]].translated + ")"} />
+                <a size={24} bold align="center" {"(" + documents[url[1]].translated + ")"} />
               }
             </a>
             {render(documents[url[1]])}

@@ -17,17 +17,14 @@ import spellingsBase from "./spellings.json" assert { type: "json" };
 //   }
 // };
 
-const flatten = (arrs) => arrs.reduce((res, a) => [...res, ...a], []);
-const merge = (objs) => objs.reduce((res, o) => ({ ...res, ...o }), {});
-
 const spellings = {
   ...spellingsBase.main,
-  ...merge(
-    flatten(
-      spellingsBase.sets.map(({ changes, roots, adjust = {} }) =>
+  ...Object.assign(
+    ...spellingsBase.sets
+      .map(({ changes, roots, adjust = {} }) =>
         roots.map((r) =>
-          merge(
-            Object.keys(changes).map((original) => {
+          Object.assign(
+            ...Object.keys(changes).map((original) => {
               const changed = changes[original];
               if (!adjust[r]) return { [`${r}${original}`]: `${r}${changed}` };
               return {
@@ -39,7 +36,7 @@ const spellings = {
           )
         )
       )
-    )
+      .flat()
   ),
 };
 const spellKeys = Object.keys(spellings);

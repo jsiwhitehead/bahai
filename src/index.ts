@@ -48,13 +48,26 @@ history.listen(({ location }) => {
   url.set(location.pathname.split(/\//g).filter((x) => x));
   if (location.hash) {
     setTimeout(() => {
-      document.getElementById(location.hash)!.scrollIntoView();
+      document.getElementById(location.hash.slice(1))!.scrollIntoView();
+      window.scrollBy(0, -25);
     });
+  } else {
+    setTimeout(() => {
+      window.scroll(0, 0);
+    });
+  }
+});
+document.addEventListener("click", (e: any) => {
+  const origin = e.target.closest("a");
+  if (origin) {
+    e.preventDefault();
+    history.push(origin.href);
   }
 });
 
 run(
   {
+    firstChar: (s) => /[a-z]/i.exec(s)!.index,
     tick,
     url,
     decodeURIComponent,

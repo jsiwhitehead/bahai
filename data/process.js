@@ -2,8 +2,6 @@ import fs from "fs-extra";
 
 import { readText, writeJSON } from "./utils.js";
 
-let counter;
-
 const getItem = (s) => {
   if (s.startsWith("^")) {
     return { type: "call", text: s.slice(2) };
@@ -14,14 +12,13 @@ const getItem = (s) => {
   if (s.startsWith(">")) {
     const lines = s.split("\n").map((t) => t.slice(2));
     return {
-      index: counter++,
       text: lines.join(" "),
       lines: lines
         .map((l) => l.length + 1)
         .reduce((res, i) => [...res, res[res.length - 1] + i], [0]),
     };
   }
-  return { index: counter++, text: s };
+  return { text: s };
 };
 
 const process = (source) => {
@@ -30,6 +27,7 @@ const process = (source) => {
   let titlePath = [];
   let configPath = [];
   let indexPath = [];
+  let sectionPath = [];
   source.split("\n\n").forEach((s, i) => {
     if (i === 0 || s.startsWith("#") || s === "***") {
       const [titleLine, ...configLines] = s.split("\n");
@@ -63,25 +61,28 @@ const process = (source) => {
         collectionLevel = level;
       }
       if (level === collectionLevel) {
-        counter = 1;
         documents.push({
           path: [...titlePath],
           item: indexPath[level]++ || undefined,
           title,
           translated,
           ...configPath.reduce((res, c) => ({ ...res, ...c }), {}),
-          content: [],
+          paragraphs: [],
         });
       } else if (!collection) {
-        documents[documents.length - 1].content.push({
+        const sectionLevel = level - collectionLevel;
+        sectionPath = sectionPath.slice(0, sectionLevel);
+        sectionPath[sectionLevel - 1] =
+          (sectionPath[sectionLevel - 1] || 0) + 1;
+        documents[documents.length - 1].paragraphs.push({
+          section: [...sectionPath],
           title,
-          level: level - collectionLevel,
         });
       }
 
       titlePath[level] = title;
     } else {
-      documents[documents.length - 1].content.push(getItem(s));
+      documents[documents.length - 1].paragraphs.push(getItem(s));
     }
   });
 
@@ -135,14 +136,6 @@ const process = (source) => {
 //   simplifyText,
 //   writeJSON,
 // } from "./utils.js";
-
-// const test = (options, value, index) =>
-//   options.some((x) => {
-//     if (typeof x === "string") return x === value;
-//     if (typeof x === "number") return x === index;
-//     if (typeof x === "function") return x(value, index);
-//     return x.test(value);
-//   });
 
 // const authors = {
 //   "the-bab": "The Báb",
@@ -223,172 +216,6 @@ const process = (source) => {
 //   "Lawḥ‑i‑Burhán": "Tablet of the Proof",
 //   "Kitáb‑i‑‘Ahd": "Book of the Covenant",
 //   "Lawḥ‑i‑Arḍ‑i‑Bá": "Tablet of the Land of Bá",
-// };
-// const getTitle = (title) => {
-//   if (titleReplaces[title]) return { title: titleReplaces[title] };
-//   if (title === "The Kitáb‑i‑Aqdas") {
-//     return { title: "The Most Holy Book", translated: "Kitáb‑i‑Aqdas" };
-//   }
-//   for (const translated of Object.keys(titleTranslations)) {
-//     if (
-//       title?.includes(translated) ||
-//       title?.includes(titleTranslations[translated])
-//     ) {
-//       if (title.toLowerCase().includes("excerpts")) {
-//         return {
-//           title: `Excerpts from the ${titleTranslations[translated]}`,
-//           translated,
-//         };
-//       } else if (title.toLowerCase().includes("excerpt")) {
-//         return {
-//           title: `Excerpt from the ${titleTranslations[translated]}`,
-//           translated,
-//         };
-//       } else {
-//         return {
-//           title: titleTranslations[translated],
-//           translated,
-//         };
-//       }
-//     }
-//   }
-//   return { title };
-// };
-
-// const sliceParas = (
-//   paras,
-//   start,
-//   end = "This document has been downloaded from the . You are free to use its content subject to the terms of use found at"
-// ) => {
-//   const startIndex = start ? paras.findIndex((p) => p === start) : 0;
-//   const endIndex = end ? paras.findIndex((p) => p === end) : undefined;
-//   return paras.slice(startIndex, endIndex);
-// };
-
-// const process = (
-//   paras,
-//   {
-//     years,
-//     title,
-//     author,
-//     baseAuthor,
-//     type,
-//     replace,
-//     splitBefore = [],
-//     splitAfter = [],
-//     ignore = [],
-//     lines,
-//     sections = {},
-//     collections = [],
-//   }
-// ) => {
-//   const replaced = paras.map((p) => replaceInText(p, replace || {}));
-//   const paragraphs = [];
-//   const parts = [
-//     { level: 0, title: title ? title : replaced[0], start: 0, lines: {} },
-//   ];
-//   const addPart = (level, title) => {
-//     for (const p of parts) {
-//       if (p.end === undefined && p.level >= level) p.end = paragraphs.length;
-//     }
-//     parts.push({ level, title, start: paragraphs.length, lines: {} });
-//   };
-//   const colls = [...collections];
-//   const checkCollection = () => {
-//     if (colls.includes(last(parts).title)) {
-//       colls.shift();
-//       addPart(last(parts).level + 1);
-//     }
-//   };
-//   checkCollection();
-//   replaced.slice(title ? 0 : 1).forEach((s, i) => {
-//     if (sections[s] === null && last(parts).start === paragraphs.length) {
-//       const prev = last(parts).title;
-//       last(parts).title +=
-//         (s[0] === "(" || last(prev || "") === ":" ? " " : ": ") + s;
-//       checkCollection();
-//       delete sections[s];
-//     } else if (sections[s]) {
-//       addPart(sections[s], s);
-//       checkCollection();
-//     } else {
-//       const splitLevel =
-//         sections[""] || last(parts).level + (last(parts).title ? 1 : 0);
-//       if (test(splitBefore, s, i)) addPart(splitLevel);
-//       if (lines?.[s])
-//         last(parts).lines[paragraphs.length] = [
-//           ...(last(parts).lines[paragraphs.length] || []),
-//           { type: lines[s], text: s },
-//         ];
-//       else if (!test(ignore, s, i)) {
-//         paragraphs.push(s);
-//       }
-//       if (test(splitAfter, s, i)) addPart(splitLevel);
-//     }
-//   });
-//   for (const p of parts) {
-//     if (p.end === undefined) p.end = paragraphs.length;
-//   }
-
-//   let path = [];
-//   const documents = [];
-//   for (const p of parts.filter((p) => p.start < p.end)) {
-//     if (p.level < path.length) path = path.slice(0, p.level);
-//     if (collections.includes(p.title)) {
-//       collections.shift();
-//       path = [...path, p.title];
-//     } else if (p.level === path.length) {
-//       documents.push({ path, ...p, sections: [] });
-//     } else {
-//       const { lines: pLines, ...rest } = p;
-//       last(documents).sections.push(rest);
-//       last(documents).lines = { ...last(documents).lines, ...pLines };
-//     }
-//   }
-
-//   return documents.map(({ path, title, start, end, sections, lines }, i) => {
-//     const levelBase = Math.min(...sections.map((s) => s.level)) - 1;
-//     const paras = paragraphs.slice(start, end);
-//     const docAuthor = last(paras).startsWith("—")
-//       ? paras
-//           .pop()
-//           .replace(/^—/, "")
-//           .replace(/\[\d+\]$/, "")
-//           .trim()
-//       : (typeof author === "function" ? author(i) : author) || baseAuthor;
-//     const docPath = [...new Set(path)];
-//     const docTitle =
-//       docPath?.length === 1 &&
-//       docPath[0] === "The Kitáb‑i‑Íqán" &&
-//       paras.length > 1
-//         ? docPath.pop()
-//         : title;
-//     return {
-//       years:
-//         (typeof years === "function" ? years(i) : years) ||
-//         authorYears[docAuthor],
-//       author: docAuthor,
-//       type: typeof type === "string" ? type : type(i),
-//       path: notEmpty(docPath)?.map((t) => getTitle(t).title),
-//       ...getTitle(docTitle),
-//       sections: notEmpty(
-//         sections.map((s) => ({
-//           level: s.level - levelBase,
-//           title:
-//             titleReplaces[s.title] ||
-//             s.title?.replace("Period\n", "Period: ").replace(/\n/g, " "),
-//           start: s.start - start,
-//           end: Math.min(s.end - start, paras.length),
-//         }))
-//       ),
-//       lines: notEmpty(
-//         Object.keys(lines || {})
-//           .map((k) => parseInt(k, 10))
-//           .map((i) => ({ index: i - start, lines: lines[i] }))
-//       ),
-//       paragraphs: paras,
-//     };
-//   });
 // };
 
 // (async () => {

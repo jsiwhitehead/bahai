@@ -1,61 +1,106 @@
 (doc, index)=>
   (
     color: colors.link[doc.author],
-    renderLine: (line, wide)=>
-      line.type === "info" ?
-        <a
-          size={16}
-          italic
-          pad={wide ? 0 : [0, 20]}
-          color="#888"
-          style={{ clear: "both" }}
-          {line.text}
-        />
-      : line.type === "call" ?
-        <a
-          size={17}
-          uppercase
-          style={{ clear: "both" }}
-          {line.text}
-        />
-      :
-        null,
+    allLines: doc.paragraphs.every(p => p.type || p.lines),
     <a
       stack={25}
       align="justify"
       {doc.reader &&
-        <a size={16} italic color="#888">{doc.reader}</a>
+        <a size={16} italic color="#999">{doc.reader}</a>
       }
-      {...doc.paragraphs.map((text, i)=>
-        <a stack={25}>
-          {doc.sections?.[i] &&
-            <a stack={25} bold pad={{ top: i && 35, bottom: 20 }} align="center">
-              {...doc.sections[i].map(s=><a size={s.title ? 30 : 20}>{s.title || "* * *"}</a>)}
-            </a>
+      {...doc.paragraphs.map((p, i)=>
+        <a id={i} style={{ position: "relative" }}>
+          {(index === null || p.index === 1) &&
+            <a
+              size={13}
+              color="#999"
+              align="right"
+              style={{ position: "absolute", top: "2px", left: "-60px", width: "50px" }}
+              {index === null ? p.index : index + 1}
+            />
           }
-          {...(doc.lines?.[i] || []).map(line=>
-            renderLine(line, i === 0 || doc.sections?.[i] || doc.path?.[0] === "The Hidden Words")
-          )}
           <a stack={15}>
-            <a id={i + 1} style={{ position: "relative" }}>
-              {(index === null || i === 0) &&
+            {
+              p.section && !p.title ?
+                <a align="center">{"* * *"}</a>
+              : p.section ?
                 <a
-                  color="#888"
-                  align="center"
-                  style={{ position: "absolute", top: 0, left: "-80px", width: "50px" }}
-                  {(index ?? i) + 1}
+                  size={25 - (p.section.length * 2)}
+                  uppercase={p.section.length === 1}
+                  bold={p.section.length <= 2}
+                  color="black"
+                  italic={p.section.length > 2}
+                  pad={
+                    p.section.length === 1 ?
+                      { top: 20 }
+                    : p.section.length <= 2 ?
+                      0
+                    :
+                      [0, (p.section.length - 2) * 20]
+                  }
+                >
+                  {p.section.length === 4 ? "" :
+                    p.section.join(".") + (p.section.length === 1 ? "." : "")
+                  } {p.title}
+                </a>
+              : p.type === "info" ?
+                <a
+                  size={16}
+                  italic
+                  style={{ clear: "both" }}
+                  {p.text}
                 />
-              }
-              {(
-                doc.path?.[0] === "The Hidden Words" ?
-                  (
-                    parts: text.split('\n'),
-                    <a stack={17 / 2}>
-                      <a size={17} uppercase {parts[0]} />
-                      <a size={17} {parts[1]} />
-                    </a>
-                  )
-                : i === 0 || doc.sections?.[i] ?
+              : p.type === "call" ?
+                <a
+                  size={17}
+                  uppercase
+                  style={{ clear: "both" }}
+                  {p.text}
+                />
+              : p.lines ?
+                <a stack={17 / 2}>
+                  {...p.lines.slice(0, -1).map((start, i)=>
+                    <a
+                      pad={allLines ? 0 : [0, 40]}
+                      uppercase={i === 0 && doc.path.includes("The Hidden Words")}
+                      size={17}
+                      {p.text.slice(start, p.lines[i + 1] - 1)}
+                    />
+                  )}
+                </a>
+              : p.id ?
+                <a stack={15}>
+                  <a size={17} color="black" pad={{ left: 20 }} bold>
+                    {p.parts.map((part, i)=>
+                      type(part) === "string" ? part :
+                        documents[p.id].paragraphs[part.paragraph].text.slice(part.start, part.end)
+                    ).join(" ")}
+                  </a>
+                  <a
+                    size={16}
+                    italic
+                    align="right"
+                    color={colors.link[documents[p.id].author]}
+                    underline={hover}
+                    link={"/doc/" + p.id + "#" + p.paragraphs[0]}
+                    style={{ width: '75%', margin: '0 0 0 auto' }}
+                  >
+                    ({[
+                      documents[p.id].author,
+                      ...documents[p.id].path,
+                      documents[p.id].title ||
+                        (documents[p.id].item && ("#" + documents[p.id].item)),
+                      (p.paragraphs.length === 1 ? "para " : "paras ") +
+                        p.paragraphs
+                          .map(i=> documents[p.id].paragraphs[i].index)
+                          .filter(i=> i !== undefined)
+                          .join(", "),
+                    ].filter(x => x).join(", ")})
+                  </a>
+                </a>
+              : p.index === 1 ?
+                (
+                  first: firstChar(p.text) + 1,
                   <a>
                     <a
                       size={17 * 3}
@@ -64,64 +109,33 @@
                       pad={{ right: 8 }}
                       style={{ float: "left", width: "auto" }}
                     >
-                      {text.slice(0, 1)}
+                      {p.text.slice(0, first)}
                     </a>
-                    {text.slice(1)}
+                    {p.text.slice(first)}
                   </a>
-                : doc.sources?.[i] ?
-                  <a size={17} pad={{ left: 20 }} bold color="black" style={{ clear: "both" }} {text} />
-                :
-                  <a size={17} indent={20} style={{ clear: "both" }} {text} />
-              )}
-            </a>
+                )
+              :
+                <a size={17} indent={20} style={{ clear: "both" }}>{p.text}</a>
+            }
             {...(quotes[doc.id]?.[i]?.refs || []).map(r =>
               <a
                 size={16}
                 italic
+                align="left"
                 color={colors.link[documents[r.id].author]}
                 underline={hover}
-                link={"/doc/" + r.id + "#" + (r.paragraph + 1)}
+                link={"/doc/" + r.id + "#" + r.paragraph}
                 style={{ width: '75%', margin: '0 auto 0 0' }}
               >
                 ({[
                   documents[r.id].author,
                   ...documents[r.id].path,
-                  documents[r.id].title,
-                  "para " + (r.paragraph + 1),
+                  documents[r.id].title ||
+                    (documents[r.id].item && ("#" + documents[r.id].item)),
                 ].filter(x => x).join(", ")})
               </a>
             )}
           </a>
-          {...(doc.quotes?.[i] || []).map(quote=>
-            <a stack={15}>
-              <a size={17} color="black" pad={{ left: 20 }} bold
-                {quote.parts.map((part, i)=>
-                  type(part) === "string" ? part :
-                    documents[quote.id].paragraphs[part.paragraph].slice(part.start, part.end)
-                ).join(" ")}
-              />
-              <a
-                size={16}
-                italic
-                align="right"
-                color={colors.link[documents[quote.id].author]}
-                underline={hover}
-                link={"/doc/" + quote.id + "#" + (quote.paragraphs[0] + 1)}
-                style={{ width: '75%', margin: '0 0 0 auto' }}
-              >
-                ({[
-                  documents[quote.id].author,
-                  ...documents[quote.id].path,
-                  documents[quote.id].title,
-                  (quote.paragraphs.length === 1 ? "para " : "paras ") +
-                    quote.paragraphs.map(p => p + 1).join(", "),
-                ].filter(x => x).join(", ")})
-              </a>
-            </a>
-          )}
-          {...(i === doc.paragraphs.length - 1 ? doc.lines?.[i + 1] || [] : []).map((line, j)=>
-            renderLine(line, true)
-          )}
         </a>
       )}
       {doc.type === "Prayer" && doc.author &&
