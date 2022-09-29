@@ -1,5 +1,8 @@
 (doc, index)=>
   (
+    baseLevel: 1,
+    levelNumbers: false,
+    paraNumbers: false,
     color: colors.link[doc.author],
     allLines: doc.paragraphs.every(p => p.type || p.lines),
     <a
@@ -10,7 +13,7 @@
       }
       {...doc.paragraphs.map((p, i)=>
         <a id={i} style={{ position: "relative" }}>
-          {(index === null || p.index === 1) &&
+          {paraNumbers && (index === null || p.index === 1) &&
             <a
               size={13}
               color="#999"
@@ -20,27 +23,25 @@
             />
           }
           <a stack={15}>
-            {
+            {(
+              level: p.section.length + baseLevel,
               p.section && !p.title ?
                 <a align="center">{"* * *"}</a>
               : p.section ?
                 <a
-                  size={25 - (p.section.length * 2)}
-                  uppercase={p.section.length === 1}
-                  bold={p.section.length <= 2}
+                  size={25 - (level * 2)}
+                  uppercase={level === 1}
+                  bold={level <= 2}
                   color="black"
-                  italic={p.section.length > 2}
+                  italic={level > 2}
                   pad={
-                    p.section.length === 1 ?
-                      { top: 20 }
-                    : p.section.length <= 2 ?
-                      0
-                    :
-                      [0, (p.section.length - 2) * 20]
+                    level === 1 ? { top: 20 }
+                    : level <= 2 ? 0
+                    : [0, (level - 2) * 20]
                   }
                 >
-                  {p.section.length === 4 ? "" :
-                    p.section.join(".") + (p.section.length === 1 ? "." : "")
+                  {level === 4 || !levelNumbers ? "" :
+                    p.section.join(".") + (level === 1 ? "." : "")
                   } {p.title}
                 </a>
               : p.type === "info" ?
@@ -116,7 +117,7 @@
                 )
               :
                 <a size={17} indent={20} style={{ clear: "both" }}>{p.text}</a>
-            }
+            )}
             {...(quotes[doc.id]?.[i]?.refs || []).map(r =>
               <a
                 size={16}

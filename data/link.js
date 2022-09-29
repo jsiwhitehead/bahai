@@ -41,98 +41,104 @@ const getMappedIndices = (s) => {
 
   const quotes = {};
   for (const doc of documents) {
-    doc.paragraphs = doc.paragraphs.map((paragraph, i) => {
-      const { simplified, parts } = paragraph;
-      const source =
-        simplified.join("").length >= 80 &&
-        documents.find(
-          (d) =>
-            d.id !== doc.id &&
-            (d.author !== doc.author ||
-              doc.author === "The Universal House of Justice") &&
-            d.years[0] <= doc.years[1] &&
-            simplified.every((s) =>
-              d.paragraphs.some((p) => p.simplified.some((t) => t.includes(s)))
-            )
-        );
-      if (!source) return paragraph;
-      const allPara = source.paragraphs.findIndex((p) =>
-        simplified.every((s) => p.simplified.some((t) => t.includes(s)))
-      );
-      const quoteParts = simplified
-        .map((s, i) => {
-          if (i % 2 === 1) return parts[i];
-          if (s === "") return "";
-          const para =
-            allPara !== -1
-              ? allPara
-              : source.paragraphs.findIndex((p) =>
+    if (!["bible", "quran"].some((s) => doc.id.includes(s))) {
+      doc.paragraphs = doc.paragraphs.map((paragraph, i) => {
+        const { simplified, parts } = paragraph;
+        const source =
+          simplified.join("").length >= 80 &&
+          documents.find(
+            (d) =>
+              d.id !== doc.id &&
+              (d.author !== doc.author ||
+                doc.author === "The Universal House of Justice") &&
+              d.years[0] <= doc.years[1] &&
+              simplified.every((s) =>
+                d.paragraphs.some((p) =>
                   p.simplified.some((t) => t.includes(s))
-                );
-          const sourcePara = source.paragraphs[para];
-          if (sourcePara.text.includes(parts[i])) {
-            const start = sourcePara.text.indexOf(parts[i]);
+                )
+              )
+          );
+        if (!source) return paragraph;
+        const allPara = source.paragraphs.findIndex((p) =>
+          simplified.every((s) => p.simplified.some((t) => t.includes(s)))
+        );
+        const quoteParts = simplified
+          .map((s, i) => {
+            if (i % 2 === 1) return parts[i];
+            if (s === "") return "";
+            const para =
+              allPara !== -1
+                ? allPara
+                : source.paragraphs.findIndex((p) =>
+                    p.simplified.some((t) => t.includes(s))
+                  );
+            const sourcePara = source.paragraphs[para];
+            if (sourcePara.text.includes(parts[i])) {
+              const start = sourcePara.text.indexOf(parts[i]);
+              return {
+                paragraph: para,
+                start,
+                end: start + parts[i].length,
+              };
+            }
+            if (s === sourcePara.simplified.join("")) {
+              return {
+                paragraph: para,
+                start: 0,
+                end: sourcePara.text.length,
+              };
+            }
+            sourcePara.indices =
+              sourcePara.indices || getMappedIndices(sourcePara.text);
+            const start = sourcePara.simplified.join("").indexOf(s);
+            const startIndices = sourcePara.indices[start];
+            const endIndices = [
+              ...sourcePara.indices[start + s.length],
+            ].reverse();
             return {
               paragraph: para,
-              start,
-              end: start + parts[i].length,
+              start:
+                startIndices.find((j) => sourcePara.text[j] === parts[i][0]) ??
+                startIndices.find(
+                  (j) => !/^\W+ /.test(sourcePara.text.slice(j))
+                ),
+              end:
+                endIndices.find(
+                  (j) => sourcePara.text[j - 1] === last(parts[i])
+                ) ??
+                endIndices.find(
+                  (j) => !/ \W+$/.test(sourcePara.text.slice(0, j))
+                ),
             };
-          }
-          if (s === sourcePara.simplified.join("")) {
-            return {
-              paragraph: para,
-              start: 0,
-              end: sourcePara.text.length,
-            };
-          }
-          sourcePara.indices =
-            sourcePara.indices || getMappedIndices(sourcePara.text);
-          const start = sourcePara.simplified.join("").indexOf(s);
-          const startIndices = sourcePara.indices[start];
-          const endIndices = [
-            ...sourcePara.indices[start + s.length],
-          ].reverse();
-          return {
-            paragraph: para,
-            start:
-              startIndices.find((j) => sourcePara.text[j] === parts[i][0]) ??
-              startIndices.find((j) => !/^\W+ /.test(sourcePara.text.slice(j))),
-            end:
-              endIndices.find(
-                (j) => sourcePara.text[j - 1] === last(parts[i])
-              ) ??
-              endIndices.find(
-                (j) => !/ \W+$/.test(sourcePara.text.slice(0, j))
+          })
+          .filter((s) => s);
+        quotes[source.id] = quotes[source.id] || {};
+        for (const { paragraph, start, end } of quoteParts.filter(
+          (s) => typeof s !== "string"
+        )) {
+          quotes[source.id][paragraph] = quotes[source.id][paragraph] || [];
+          quotes[source.id][paragraph].push({
+            ref: { id: doc.id, paragraph: i },
+            start,
+            end,
+          });
+        }
+        return {
+          base: {
+            id: source.id,
+            paragraphs: [
+              ...new Set(
+                quoteParts
+                  .filter((s) => typeof s !== "string")
+                  .map((c) => c.paragraph)
               ),
-          };
-        })
-        .filter((s) => s);
-      quotes[source.id] = quotes[source.id] || {};
-      for (const { paragraph, start, end } of quoteParts.filter(
-        (s) => typeof s !== "string"
-      )) {
-        quotes[source.id][paragraph] = quotes[source.id][paragraph] || [];
-        quotes[source.id][paragraph].push({
-          ref: { id: doc.id, paragraph: i },
-          start,
-          end,
-        });
-      }
-      return {
-        base: {
-          id: source.id,
-          paragraphs: [
-            ...new Set(
-              quoteParts
-                .filter((s) => typeof s !== "string")
-                .map((c) => c.paragraph)
-            ),
-          ].sort((a, b) => a - b),
-          parts: quoteParts,
-        },
-        simplified: [],
-      };
-    });
+            ].sort((a, b) => a - b),
+            parts: quoteParts,
+          },
+          simplified: [],
+        };
+      });
+    }
   }
 
   const documentMap = documents.reduce((res, { paragraphs, ...d }) => {

@@ -61,6 +61,7 @@ const process = (source) => {
         collectionLevel = level;
       }
       if (level === collectionLevel) {
+        sectionPath = [];
         documents.push({
           path: [...titlePath],
           item: indexPath[level]++ || undefined,

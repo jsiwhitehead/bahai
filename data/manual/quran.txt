@@ -1,6 +1,6 @@
 The Qur’án
 author="Muḥammad"
-years=[600,600]
+years=[600, 600]
 collection
 
 # The Opening
