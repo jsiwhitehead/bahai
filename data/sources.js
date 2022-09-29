@@ -355,7 +355,7 @@ export const files = {
         "Allow this mote of",
         "To free itself of lowly",
         "And grant this drop",
-        "Thou gavest me To be"
+        "To be at last united"
       ),
       splitLines(/Speak the Persian tongue.*/m, "Love indeed doth"),
       splitLines(
