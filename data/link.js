@@ -1,6 +1,6 @@
 import fs from "fs-extra";
 
-import { mapObject, prettify, readJSON, simplifyText } from "./utils.js";
+import { last, mapObject, prettify, readJSON, simplifyText } from "./utils.js";
 
 const getMappedIndices = (s) => {
   const result = {};
