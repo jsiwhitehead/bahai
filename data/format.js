@@ -21,6 +21,7 @@ import { readText, writeText } from "./utils.js";
             )
             .replace(/(#\n+)+#/g, "#")
             .replace(/(\s*\n){2,}/g, "\n\n")
+            .replace(/#\n\n$/, "")
             .split("\n")
             .map((s) => s.trim())
             .join("\n")

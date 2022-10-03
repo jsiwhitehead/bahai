@@ -16,6 +16,38 @@
       ]
     }
   },
+  "bahaullah-prayers-meditations-037": {
+    "0": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-032",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 410,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-032",
+          "paragraph": 4
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 382,
+          "count": 1
+        }
+      ]
+    }
+  },
   "bahaullah-hidden-words-000": {
     "5": {
       "refs": [
@@ -67,6 +99,57 @@
         {
           "start": 26,
           "end": 288,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-summons-lord-hosts-001": {
+    "283": {
+      "refs": [
+        {
+          "id": "bahaullah-summons-lord-hosts-000",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 419,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-117": {
+    "0": {
+      "refs": [
+        {
+          "id": "bahaullah-summons-lord-hosts-000",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 399,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-kitab-i-iqan-002": {
+    "52": {
+      "refs": [
+        {
+          "id": "bahaullah-days-remembrance-000",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 1051,
+          "end": 1422,
           "count": 1
         }
       ]

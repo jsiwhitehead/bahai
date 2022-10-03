@@ -1,6 +1,6 @@
 (doc, index)=>
   (
-    baseLevel: 1,
+    baseLevel: 0,
     levelNumbers: false,
     paraNumbers: false,
     color: colors.link[doc.author],
