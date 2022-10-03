@@ -17,6 +17,21 @@
     }
   },
   "abdul-baha-secret-divine-civilization-000": {
+    "5": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 515,
+          "count": 1
+        }
+      ]
+    },
     "131": {
       "refs": [
         {
@@ -34,18 +49,77 @@
     }
   },
   "abdul-baha-selections-writings-abdul-baha-015": {
-    "6": {
+    "2": {
       "refs": [
         {
-          "id": "shoghi-effendi-world-order-bahaullah-003",
-          "paragraph": 29
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 356
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 1096,
+          "end": 16,
           "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 436,
+          "end": 447,
+          "count": 1
+        },
+        {
+          "start": 458,
+          "end": 566,
+          "count": 1
+        },
+        {
+          "start": 790,
+          "end": 934,
+          "count": 1
+        },
+        {
+          "start": 1144,
+          "end": 1297,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-003",
+          "paragraph": 29
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 356
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 14,
+          "count": 2
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "count": 1
+        },
+        {
+          "start": 15,
+          "end": 1096,
+          "count": 2
         }
       ]
     }
@@ -86,13 +160,17 @@
         {
           "id": "shoghi-effendi-promised-day-come-000",
           "paragraph": 49
+        },
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 123
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 420,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -101,12 +179,46 @@
         {
           "id": "shoghi-effendi-promised-day-come-000",
           "paragraph": 50
+        },
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 125
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 41,
+          "count": 2
+        },
+        {
+          "start": 41,
+          "end": 81,
+          "count": 1
+        },
+        {
+          "start": 81,
+          "end": 327,
+          "count": 2
+        },
+        {
+          "start": 327,
           "end": 702,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 124
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 325,
           "count": 1
         }
       ]
@@ -160,16 +272,50 @@
     }
   },
   "bahaullah-gleanings-writings-bahaullah-104": {
-    "4": {
+    "0": {
       "refs": [
         {
-          "id": "shoghi-effendi-promised-day-come-000",
-          "paragraph": 60
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 120
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 135,
+          "count": 1
+        },
+        {
+          "start": 242,
+          "end": 336,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-promised-day-come-000",
+          "paragraph": 60
+        },
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 121
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 196,
+          "count": 1
+        },
+        {
+          "start": 196,
+          "end": 364,
+          "count": 2
+        },
+        {
+          "start": 364,
           "end": 535,
           "count": 1
         }
@@ -180,11 +326,20 @@
         {
           "id": "shoghi-effendi-promised-day-come-000",
           "paragraph": 61
+        },
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 122
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 133,
+          "count": 2
+        },
+        {
+          "start": 133,
           "end": 613,
           "count": 1
         }
@@ -254,6 +409,21 @@
     }
   },
   "bahaullah-summons-lord-hosts-001": {
+    "89": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 146
+        }
+      ],
+      "parts": [
+        {
+          "start": 272,
+          "end": 631,
+          "count": 1
+        }
+      ]
+    },
     "107": {
       "refs": [
         {
@@ -375,6 +545,30 @@
         {
           "start": 0,
           "end": 1388,
+          "count": 1
+        }
+      ]
+    },
+    "197": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 165
+        },
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 173
+        }
+      ],
+      "parts": [
+        {
+          "start": 8,
+          "end": 581,
+          "count": 1
+        },
+        {
+          "start": 582,
+          "end": 826,
           "count": 1
         }
       ]
@@ -614,6 +808,116 @@
           "count": 1
         }
       ]
+    },
+    "496": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 24,
+          "count": 1
+        },
+        {
+          "start": 88,
+          "end": 328,
+          "count": 1
+        }
+      ]
+    },
+    "538": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 603,
+          "count": 1
+        }
+      ]
+    },
+    "547": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 262,
+          "end": 865,
+          "count": 1
+        }
+      ]
+    },
+    "549": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 63
+        }
+      ],
+      "parts": [
+        {
+          "start": 466,
+          "end": 1661,
+          "count": 1
+        }
+      ]
+    },
+    "633": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 125
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 251,
+          "count": 1
+        },
+        {
+          "start": 352,
+          "end": 539,
+          "count": 1
+        },
+        {
+          "start": 727,
+          "end": 850,
+          "count": 1
+        }
+      ]
+    },
+    "692": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 322
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 80,
+          "count": 1
+        },
+        {
+          "start": 247,
+          "end": 504,
+          "count": 1
+        }
+      ]
     }
   },
   "bahaullah-kitab-i-aqdas-003": {
@@ -666,6 +970,21 @@
     }
   },
   "bahaullah-hidden-words-000": {
+    "3": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 27
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 486,
+          "count": 1
+        }
+      ]
+    },
     "5": {
       "refs": [
         {
@@ -677,6 +996,51 @@
         {
           "start": 0,
           "end": 153,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 126,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 30
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 294,
+          "count": 1
+        }
+      ]
+    },
+    "36": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 123,
           "count": 1
         }
       ]
@@ -697,17 +1061,144 @@
           "count": 1
         }
       ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 274
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 10,
+          "count": 1
+        },
+        {
+          "start": 16,
+          "end": 483,
+          "count": 1
+        }
+      ]
     }
   },
   "bahaullah-gleanings-writings-bahaullah-026": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 70
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 184
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 67,
+          "count": 1
+        },
+        {
+          "start": 139,
+          "end": 350,
+          "count": 1
+        },
+        {
+          "start": 357,
+          "end": 520,
+          "count": 1
+        },
+        {
+          "start": 520,
+          "end": 543,
+          "count": 2
+        },
+        {
+          "start": 543,
+          "end": 554,
+          "count": 1
+        },
+        {
+          "start": 554,
+          "end": 656,
+          "count": 2
+        },
+        {
+          "start": 656,
+          "end": 755,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 71
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 184
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 14,
+          "count": 2
+        },
+        {
+          "start": 14,
+          "end": 29,
+          "count": 1
+        },
+        {
+          "start": 59,
+          "end": 119,
+          "count": 1
+        },
+        {
+          "start": 119,
+          "end": 256,
+          "count": 2
+        },
+        {
+          "start": 256,
+          "end": 420,
+          "count": 1
+        },
+        {
+          "start": 420,
+          "end": 575,
+          "count": 2
+        },
+        {
+          "start": 575,
+          "end": 801,
+          "count": 1
+        }
+      ]
+    },
     "3": {
       "refs": [
         {
           "id": "bahaullah-kitab-i-aqdas-169",
           "paragraph": 1
+        },
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 68
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 337,
+          "count": 1
+        },
         {
           "start": 597,
           "end": 722,
@@ -717,11 +1208,96 @@
           "start": 1145,
           "end": 1312,
           "count": 1
+        },
+        {
+          "start": 1418,
+          "end": 1501,
+          "count": 1
+        },
+        {
+          "start": 1502,
+          "end": 1845,
+          "count": 1
+        },
+        {
+          "start": 1939,
+          "end": 2017,
+          "count": 1
         }
       ]
     }
   },
   "bahaullah-epistle-son-wolf-000": {
+    "27": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 149
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 13,
+          "count": 1
+        },
+        {
+          "start": 24,
+          "end": 179,
+          "count": 1
+        }
+      ]
+    },
+    "32": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 1297,
+          "end": 1365,
+          "count": 1
+        },
+        {
+          "start": 1663,
+          "end": 2099,
+          "count": 1
+        }
+      ]
+    },
+    "34": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 419,
+          "count": 1
+        }
+      ]
+    },
+    "36": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 483,
+          "count": 1
+        }
+      ]
+    },
     "69": {
       "refs": [
         {
@@ -733,6 +1309,23 @@
         {
           "start": 26,
           "end": 288,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "official-statements-commentaries-bahaullah-000": {
+    "169": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-169",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 100,
+          "end": 302,
           "count": 1
         }
       ]
@@ -771,6 +1364,36 @@
     }
   },
   "shoghi-effendi-promised-day-come-000": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 977,
+          "count": 1
+        }
+      ]
+    },
+    "91": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 138
+        }
+      ],
+      "parts": [
+        {
+          "start": 59,
+          "end": 293,
+          "count": 1
+        }
+      ]
+    },
     "118": {
       "refs": [
         {
@@ -809,9 +1432,84 @@
           "count": 1
         }
       ]
+    },
+    "302": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 178
+        }
+      ],
+      "parts": [
+        {
+          "start": 167,
+          "end": 412,
+          "count": 1
+        },
+        {
+          "start": 754,
+          "end": 1114,
+          "count": 1
+        }
+      ]
     }
   },
   "bahaullah-kitab-i-iqan-002": {
+    "2": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 32
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 128,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 486,
+          "count": 1
+        },
+        {
+          "start": 553,
+          "end": 632,
+          "count": 1
+        },
+        {
+          "start": 794,
+          "end": 946,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 144
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 413,
+          "count": 1
+        }
+      ]
+    },
     "52": {
       "refs": [
         {
@@ -823,6 +1521,1481 @@
         {
           "start": 1051,
           "end": 1422,
+          "count": 1
+        }
+      ]
+    },
+    "221": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 394,
+          "end": 478,
+          "count": 1
+        },
+        {
+          "start": 1226,
+          "end": 1414,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-012": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 172,
+          "count": 1
+        },
+        {
+          "start": 401,
+          "end": 653,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-124": {
+    "5": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 387,
+          "count": 1
+        },
+        {
+          "start": 652,
+          "end": 865,
+          "count": 1
+        },
+        {
+          "start": 975,
+          "end": 1135,
+          "count": 1
+        },
+        {
+          "start": 1176,
+          "end": 1218,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 1099,
+          "end": 1342,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-advent-divine-justice-000": {
+    "114": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 963,
+          "end": 1215,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-006": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 14,
+          "end": 431,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-135": {
+    "4": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 381
+        }
+      ],
+      "parts": [
+        {
+          "start": 157,
+          "end": 400,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 49
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 266,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-155": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 50
+        }
+      ],
+      "parts": [
+        {
+          "start": 532,
+          "end": 801,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-004": {
+    "2": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 239,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 53
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 188,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-000": {
+    "4": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 414,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-018": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 510,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 61
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 123,
+          "count": 1
+        },
+        {
+          "start": 226,
+          "end": 518,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 62
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 24,
+          "count": 1
+        },
+        {
+          "start": 61,
+          "end": 383,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 391,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-023": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 585,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-033": {
+    "5": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 73
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 208,
+          "count": 1
+        },
+        {
+          "start": 553,
+          "end": 1122,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-089": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 78
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 141,
+          "count": 1
+        },
+        {
+          "start": 472,
+          "end": 543,
+          "count": 1
+        },
+        {
+          "start": 596,
+          "end": 792,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 78
+        }
+      ],
+      "parts": [
+        {
+          "start": 1020,
+          "end": 1300,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-021": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 81
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 253,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 83
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 43,
+          "count": 1
+        },
+        {
+          "start": 141,
+          "end": 293,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 84
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 143,
+          "count": 1
+        },
+        {
+          "start": 186,
+          "end": 324,
+          "count": 1
+        },
+        {
+          "start": 492,
+          "end": 618,
+          "count": 1
+        },
+        {
+          "start": 720,
+          "end": 816,
+          "count": 1
+        },
+        {
+          "start": 1256,
+          "end": 1482,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 85
+        }
+      ],
+      "parts": [
+        {
+          "start": 518,
+          "end": 755,
+          "count": 1
+        },
+        {
+          "start": 804,
+          "end": 980,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-073": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 127,
+          "count": 1
+        },
+        {
+          "start": 172,
+          "end": 336,
+          "count": 1
+        },
+        {
+          "start": 617,
+          "end": 814,
+          "count": 1
+        },
+        {
+          "start": 920,
+          "end": 1008,
+          "count": 1
+        },
+        {
+          "start": 1623,
+          "end": 1796,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-030": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 90
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 382,
+          "count": 1
+        },
+        {
+          "start": 449,
+          "end": 562,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-105": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 92
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 576,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-077": {
+    "2": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 94
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 333,
+          "count": 1
+        },
+        {
+          "start": 455,
+          "end": 586,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-call-divine-beloved-002": {
+    "2": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 99
+        }
+      ],
+      "parts": [
+        {
+          "start": 552,
+          "end": 812,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-110": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 103
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 241,
+          "count": 1
+        },
+        {
+          "start": 578,
+          "end": 1187,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-003": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 106
+        },
+        {
+          "id": "official-statements-commentaries-prosperity-humankind-000",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 166,
+          "count": 2
+        },
+        {
+          "start": 166,
+          "end": 352,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 106
+        }
+      ],
+      "parts": [
+        {
+          "start": 126,
+          "end": 283,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-tablets-bahaullah-005": {
+    "25": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 108
+        }
+      ],
+      "parts": [
+        {
+          "start": 117,
+          "end": 400,
+          "count": 1
+        }
+      ]
+    },
+    "28": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 235
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 311,
+          "count": 1
+        }
+      ]
+    },
+    "30": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 159
+        }
+      ],
+      "parts": [
+        {
+          "start": 108,
+          "end": 212,
+          "count": 1
+        }
+      ]
+    },
+    "31": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 160
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 229,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-098": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 151
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 274,
+          "count": 1
+        },
+        {
+          "start": 730,
+          "end": 863,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-119": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 154
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 61,
+          "count": 1
+        },
+        {
+          "start": 226,
+          "end": 561,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 201,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 406
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 189,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-016": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 156
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 128,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-108": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 157
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 306,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-095": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 158
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 350,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-116": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 162
+        }
+      ],
+      "parts": [
+        {
+          "start": 146,
+          "end": 944,
+          "count": 1
+        },
+        {
+          "start": 1225,
+          "end": 1455,
+          "count": 1
+        },
+        {
+          "start": 1653,
+          "end": 1749,
+          "count": 1
+        },
+        {
+          "start": 1921,
+          "end": 2086,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-040": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 167
+        }
+      ],
+      "parts": [
+        {
+          "start": 362,
+          "end": 457,
+          "count": 1
+        },
+        {
+          "start": 587,
+          "end": 832,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-tabernacle-unity-001": {
+    "14": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 172
+        }
+      ],
+      "parts": [
+        {
+          "start": 283,
+          "end": 409,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-013": {
+    "3": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 408
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 410,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 409
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 392,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-prosperity-humankind-000",
+          "paragraph": 69
+        }
+      ],
+      "parts": [
+        {
+          "start": 249,
+          "end": 350,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-010": {
+    "94": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 388
+        }
+      ],
+      "parts": [
+        {
+          "start": 662,
+          "end": 906,
+          "count": 1
+        }
+      ]
+    },
+    "105": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 391
+        }
+      ],
+      "parts": [
+        {
+          "start": 461,
+          "end": 747,
+          "count": 1
+        }
+      ]
+    },
+    "121": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 149
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 442,
+          "count": 1
+        }
+      ]
+    },
+    "123": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-turning-point-all-nations-000",
+          "paragraph": 0
+        },
+        {
+          "id": "official-statements-commentaries-turning-point-all-nations-000",
+          "paragraph": 171
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 612,
+          "count": 2
+        }
+      ]
+    },
+    "125": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 151
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1112,
+          "count": 1
+        },
+        {
+          "start": 2354,
+          "end": 2585,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-citadel-faith-059": {
+    "11": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 38
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 598,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-200": {
+    "2": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 151,
+          "count": 1
+        },
+        {
+          "start": 180,
+          "end": 448,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-064": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 69
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 287,
+          "count": 1
+        },
+        {
+          "start": 349,
+          "end": 600,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-007": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 72
+        }
+      ],
+      "parts": [
+        {
+          "start": 188,
+          "end": 665,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-134": {
+    "15": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 78
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 398,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-paris-talks-020": {
+    "6": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 354,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-098": {
+    "6": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 101
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 515,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 101
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 255,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-citadel-faith-004": {
+    "69": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 111
+        }
+      ],
+      "parts": [
+        {
+          "start": 1321,
+          "end": 2217,
+          "count": 1
+        }
+      ]
+    },
+    "81": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 106
+        }
+      ],
+      "parts": [
+        {
+          "start": 166,
+          "end": 504,
+          "count": 1
+        },
+        {
+          "start": 1440,
+          "end": 1892,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-will-testament-abdul-baha-000": {
+    "18": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 123
+        }
+      ],
+      "parts": [
+        {
+          "start": 313,
+          "end": 574,
+          "count": 1
+        }
+      ]
+    },
+    "41": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 237
+        }
+      ],
+      "parts": [
+        {
+          "start": 1173,
+          "end": 1580,
+          "count": 1
+        }
+      ]
+    },
+    "42": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 246
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 309,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-060": {
+    "5": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 142
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 855,
+          "count": 1
+        }
+      ]
+    },
+    "27": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 142
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 301,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-024": {
+    "14": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 157
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 611,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-038": {
+    "4": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 161
+        }
+      ],
+      "parts": [
+        {
+          "start": 552,
+          "end": 884,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-002": {
+    "15": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 163
+        }
+      ],
+      "parts": [
+        {
+          "start": 215,
+          "end": 726,
+          "count": 1
+        }
+      ]
+    },
+    "27": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 277
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 452,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-decisive-hour-057": {
+    "4": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 194
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 197
+        }
+      ],
+      "parts": [
+        {
+          "start": 2501,
+          "end": 3216,
+          "count": 1
+        },
+        {
+          "start": 3217,
+          "end": 3886,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-009": {
+    "14": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 243
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 325,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-004": {
+    "5": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 272
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 360,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-016": {
+    "5": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 314
+        }
+      ],
+      "parts": [
+        {
+          "start": 76,
+          "end": 301,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 314
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 257,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-prayers-meditations-177": {
+    "2": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 385
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 116,
+          "count": 1
+        },
+        {
+          "start": 162,
+          "end": 596,
           "count": 1
         }
       ]

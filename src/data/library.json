@@ -53,11 +53,20 @@
   },
   {
     "title": "The Universal House of Justice",
-    "items": []
+    "items": [
+      "the-universal-house-of-justice-the-institution-of-the-counsellors-000"
+    ]
   },
   {
     "title": "World Centre",
-    "items": ["world-centre-higher-functioning-000"]
+    "items": [
+      "official-statements-commentaries-bahaullah-000",
+      "official-statements-commentaries-prosperity-humankind-000",
+      "official-statements-commentaries-turning-point-all-nations-000",
+      "official-statements-commentaries-century-light-001",
+      "official-statements-commentaries-one-common-faith-001",
+      "world-centre-higher-functioning-000"
+    ]
   },
   {
     "title": "The Bible: Old Testament",
