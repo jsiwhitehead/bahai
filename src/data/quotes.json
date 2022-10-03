@@ -104,6 +104,38 @@
       ]
     }
   },
+  "abdul-baha-selections-writings-abdul-baha-129": {
+    "9": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-179",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 914,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-179",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 376,
+          "count": 1
+        }
+      ]
+    }
+  },
   "bahaullah-summons-lord-hosts-001": {
     "283": {
       "refs": [

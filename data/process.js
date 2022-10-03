@@ -39,8 +39,9 @@ const process = (source) => {
           : titleLine === "***"
           ? collectionLevel + 1
           : titleLine.indexOf(" ");
-      const title =
-        i === 0 ? titleLine : titleLine.slice(level + 1) || undefined;
+      const title = ["#", "***"].includes(titleLine)
+        ? undefined
+        : titleLine.slice(i === 0 ? 0 : level + 1);
       const { collection, translated, ...config } = configLines.reduce(
         (res, c) => {
           const [key, value = "true"] = c.split("=");
