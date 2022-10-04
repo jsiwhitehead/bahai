@@ -1,3 +1,7 @@
+// "Words of Wisdom": [1857, 1863]
+// "The Dawn‑Breakers": [1887, 1888]
+// "The Constitution of the Universal House of Justice": [1972, 1972]
+
 const authorYears = {
   "The Báb": [1844, 1850],
   "Bahá’u’lláh": [1852, 1892],
@@ -154,7 +158,7 @@ export const files = {
     "selections-writings-bab": [
       title("", "Selections from the Writings of the Báb", {
         author: "The Báb",
-        years: [1844, 1850],
+        years: authorYears["The Báb"],
         collection: true,
       }),
       removeAfter("Key to Passages Translated by Shoghi Effendi"),
@@ -875,7 +879,7 @@ export const files = {
         "Additional Tablets and Extracts from Tablets Revealed by Bahá’u’lláh",
         {
           author: "Bahá’u’lláh",
-          years: [1852, 1892],
+          years: authorYears["Bahá’u’lláh"],
           collection: true,
         }
       ),
@@ -906,14 +910,14 @@ export const files = {
       ["Prayer for the Dead.", ""],
       title("", "Prayers and Meditations", {
         author: "Bahá’u’lláh",
-        years: [1852, 1892],
+        years: authorYears["Bahá’u’lláh"],
         type: "Prayer",
         collection: true,
       }),
       [/^— .* —$/gm, "#"],
       ...obligatory,
       [/We all, verily/g, "\n> We all, verily"],
-      [("and to deny them not", "and deny them not")],
+      ["and to deny them not", "and deny them not"],
       ["what Thou hadst commanded", "what Thou hast commanded"],
       ["Lord of the worlds and the Desire", "Lord of the world and the Desire"],
     ],
@@ -924,7 +928,7 @@ export const files = {
       [/^Qur’án 21:89/m, ""],
       title("", "Additional Prayers Revealed by Bahá’u’lláh", {
         author: "Bahá’u’lláh",
-        years: [1852, 1892],
+        years: authorYears["Bahá’u’lláh"],
         type: "Prayer",
         collection: true,
       }),
@@ -939,7 +943,7 @@ export const files = {
       removeAfter("Notes"),
       title("", "Light of the World", {
         author: "‘Abdu’l‑Bahá",
-        years: [1875, 1921],
+        years: authorYears["‘Abdu’l‑Bahá"],
         collection: true,
       }),
       title("#", "Preface", {
@@ -1059,7 +1063,7 @@ export const files = {
       removeAfter("Notes on Translations"),
       title("", "Selections from the Writings of ‘Abdu’l‑Bahá", {
         author: "‘Abdu’l‑Bahá",
-        years: [1875, 1921],
+        years: authorYears["‘Abdu’l‑Bahá"],
         collection: true,
       }),
       title("#", "Preface", {
@@ -1159,7 +1163,7 @@ export const files = {
       removeAfter("Notes"),
       title("", "Prayers of ‘Abdu’l‑Bahá", {
         author: "‘Abdu’l‑Bahá",
-        years: [1875, 1921],
+        years: authorYears["‘Abdu’l‑Bahá"],
         type: "Prayer",
         collection: true,
       }),
@@ -1189,7 +1193,7 @@ export const files = {
       [/^Revealed for the recipient on the occasion.*/m, ""],
       title("", "Additional Prayers Revealed by ‘Abdu’l‑Bahá", {
         author: "‘Abdu’l‑Bahá",
-        years: [1875, 1921],
+        years: authorYears["‘Abdu’l‑Bahá"],
         type: "Prayer",
         collection: true,
       }),
@@ -1641,201 +1645,165 @@ export const files = {
       [/^\d+\. (.*)$/gm, (_, a) => `### ${a}`],
     ],
   },
-
-  // prayers: {
-  //   "bahai-prayers": {
-  //     years: [1844, 1921],
-  //     author: "Bahá’u’lláh",
-  //     type: (i) =>
-  //       [1, 2, 3, 93, 94, 206, 215, 224, 225, 226].includes(i)
-  //         ? "Writings"
-  //         : "Prayer",
-  //     end: "Notes",
-  //     splitAfter: [/^—/, "The period of the Fast is March 2 through March 20."],
-  //     ignore: [
-  //       "A Selection of Prayers Revealed by Bahá’u’lláh, the Báb, and ‘Abdu’l‑Bahá",
-  //       1065,
-  //       1139,
-  //     ],
-  //     lines: {
-  //       ...obligatoryLines,
-  //       "(This Tablet is read at the Shrines of Bahá’u’lláh and the Báb. It is also frequently used in commemorating Their anniversaries.)":
-  //         "info",
-  //       "(This prayer, revealed by ‘Abdu’l‑Bahá, is read at His Shrine. It is also used in private prayer.)":
-  //         "info",
-  //       "(The Intercalary Days, February 26 to March 1, inclusive, should be days of preparation for the Fast, days of hospitality, charity, and the giving of presents.)":
-  //         "info",
-  //       "(The Prayer for the Dead is the only Bahá’í obligatory prayer that is to be recited in congregation; it is to be recited by one believer while all present stand in silence. Bahá’u’lláh has clarified that this prayer is required only when the deceased is over the age of fifteen, that its recital must precede interment, and that there is no requirement to face the Qiblih during its recitation. “Alláh‑u‑Abhá” is said once; then the first of the six verses is recited nineteen times. Then “Alláh‑u‑Abhá” is said again, followed by the second verse, which is recited nineteen times, and so on.)":
-  //         "info",
-  //       "O seeker of Truth! If thou desirest that God may open thine eye, thou must supplicate unto God, pray to and commune with Him at midnight, saying:":
-  //         "info",
-  //       "Come ye together in gladness unalloyed, and at the beginning of the meeting, recite ye this prayer:":
-  //         "info",
-  //       "The following commune is to be read . . . every day:": "info",
-  //       "The spreaders of the fragrances of God should recite this prayer every morning:":
-  //         "info",
-  //       "Every soul who travels through the cities, villages and hamlets of these States and is engaged in the diffusion of the fragrances of God, should peruse this commune every morning:":
-  //         "info",
-  //       "Let the spreaders of the fragrances of God recite this prayer every morning:":
-  //         "info",
-  //       "Whoever sets out on a teaching journey to any place, let him recite this prayer day and night during his travels in foreign lands.":
-  //         "info",
-  //       "Prayer to be said at the close of the meeting of the Spiritual Assembly.":
-  //         "info",
-  //       "All the friends of God . . . should contribute to the extent possible, however modest their offering may be. God doth not burden a soul beyond its capacity. Such contributions must come from all centres and all believers. . . . O Friends of God! Be ye assured that in place of these contributions, your agriculture, your industry, and your commerce will be blessed by manifold increases, with goodly gifts and bestowals. He who cometh with one goodly deed will receive a tenfold reward. There is no doubt that the living Lord will abundantly confirm those who expend their wealth in His path.":
-  //         "info",
-  //       "Whenever ye enter the council‑chamber, recite this prayer with a heart throbbing with the love of God and a tongue purified from all but His remembrance, that the All‑Powerful may graciously aid you to achieve supreme victory.":
-  //         "info",
-  //       "The following supplication is to be read by the teachers and friends daily:":
-  //         "info",
-  //       "Let whosoever travels to different parts to teach, peruse over mountain, desert, land and sea this supplication.":
-  //         "info",
-  //       "“Study the Tablet of the Holy Mariner that ye may know the truth, and consider that the Blessed Beauty hath fully foretold future events. Let them who perceive, take warning!”":
-  //         "info",
-  //     },
-  //     sections: {
-  //       "Obligatory Prayers": 1,
-  //       "Short Obligatory Prayer": 2,
-  //       "Medium Obligatory Prayer": 2,
-  //       "Long Obligatory Prayer": 2,
-  //       "General Prayers": 1,
-  //       "Aid and Assistance": 2,
-  //       America: 2,
-  //       Children: 2,
-  //       Infants: 3,
-  //       "The Departed": 2,
-  //       "Prayer for the Dead": 3,
-  //       "General Prayers for the Departed": 3,
-  //       "For Women": 4,
-  //       Detachment: 2,
-  //       Evening: 2,
-  //       Midnight: 3,
-  //       Families: 2,
-  //       Parents: 3,
-  //       Husbands: 3,
-  //       "Firmness in the Covenant": 2,
-  //       Forgiveness: 2,
-  //       "The Fund": 2,
-  //       Gatherings: 2,
-  //       "The Nineteen Day Feast": 3,
-  //       Healing: 2,
-  //       "For Women": 3,
-  //       "For Infants": 3,
-  //       "The Long Healing Prayer": 3,
-  //       Humanity: 2,
-  //       Marriage: 2,
-  //       Morning: 2,
-  //       "Nearness to God": 2,
-  //       "Praise and Gratitude": 2,
-  //       Protection: 2,
-  //       Service: 2,
-  //       "Spiritual Growth": 2,
-  //       Steadfastness: 2,
-  //       Teaching: 2,
-  //       "General Prayers for Teaching": 3,
-  //       "Prayers for Teaching from the Tablets of the Divine Plan": 3,
-  //       "Revealed to the Bahá’ís of the United States and Canada": 4,
-  //       "Revealed to the Bahá’ís of the Northeastern States": 4,
-  //       "Revealed to the Bahá’ís of the Southern States": 4,
-  //       "Revealed to the Bahá’ís of the Central States": 4,
-  //       "Revealed to the Bahá’ís of the Western States": 4,
-  //       "Revealed to the Bahá’ís of Canada": 4,
-  //       "Tests and Difficulties": 2,
-  //       "Triumph of the Cause": 2,
-  //       Unity: 2,
-  //       Women: 2,
-  //       "Expectant Mothers": 3,
-  //       Youth: 2,
-  //       "Occasional Prayers": 1,
-  //       "The Fast": 2,
-  //       "Ḥuqúqu’lláh: The Right of God": 2,
-  //       "Intercalary Days": 2,
-  //       "Martyrs and Their Families": 2,
-  //       "Naw‑Rúz": 2,
-  //       "Spiritual Assembly": 2,
-  //       "Special Tablets": 1,
-  //       "Tablet of Aḥmad": 2,
-  //       "Fire Tablet": 2,
-  //       "Tablet of the Holy Mariner": 2,
-  //       "Tablets of Visitation": 2,
-  //     },
-  //     collections: [
-  //       "Bahá’í Prayers",
-  //       "Obligatory Prayers",
-  //       "General Prayers",
-  //       "Aid and Assistance",
-  //       "America",
-  //       "Children",
-  //       "Infants",
-  //       "The Departed",
-  //       "General Prayers for the Departed",
-  //       "For Women",
-  //       "Detachment",
-  //       "Evening",
-  //       "Midnight",
-  //       "Families",
-  //       "Parents",
-  //       "Husbands",
-  //       "Firmness in the Covenant",
-  //       "Forgiveness",
-  //       "The Fund",
-  //       "Gatherings",
-  //       "The Nineteen Day Feast",
-  //       "Healing",
-  //       "For Women",
-  //       "For Infants",
-  //       "Humanity",
-  //       "Marriage",
-  //       "Morning",
-  //       "Nearness to God",
-  //       "Praise and Gratitude",
-  //       "Protection",
-  //       "Service",
-  //       "Spiritual Growth",
-  //       "Steadfastness",
-  //       "Teaching",
-  //       "General Prayers for Teaching",
-  //       "Prayers for Teaching from the Tablets of the Divine Plan",
-  //       "Tests and Difficulties",
-  //       "Triumph of the Cause",
-  //       "Unity",
-  //       "Women",
-  //       "Expectant Mothers",
-  //       "Youth",
-  //       "Occasional Prayers",
-  //       "The Fast",
-  //       "Ḥuqúqu’lláh: The Right of God",
-  //       "Intercalary Days",
-  //       "Martyrs and Their Families",
-  //       "Naw‑Rúz",
-  //       "Spiritual Assembly",
-  //       "Special Tablets",
-  //       "Tablets of Visitation",
-  //     ],
-  //     replace: {
-  //       "in the most wondrous tones": "in most wondrous tones",
-  //       "outpourings from the clouds of the all‑glorious Kingdom":
-  //         "outpourings of the clouds of the Abhá Kingdom",
-  //       "My Lord! My Lord! I praise Thee and I thank Thee for that whereby Thou hast favoured Thine humble maidservant, Thy slave beseeching and supplicating Thee, because Thou hast verily guided her unto Thine obvious Kingdom and caused her to hear Thine exalted Call in the contingent world and to behold Thy Signs which prove the appearance of Thy victorious reign over all things.":
-  //         "O Lord, my Lord! I praise Thee and thank Thee for the favour Thou hast bestowed upon this feeble handmaiden of Thine, Thy maidservant who is supplicating and praying fervently to Thee, inasmuch as Thou hast guided her unto Thy Straight Path, led her to Thy luminous Kingdom, inclined her ears to Thy most sublime Call in the midmost heart of the world, and unveiled to her eyes Thy signs which testify to the revelation of Thy supreme dominion over all things.",
-  //       "O my Lord, I dedicate that which is in my womb unto Thee. Then cause it to be a praiseworthy child in Thy Kingdom and a fortunate one by Thy favour and Thy generosity; to develop and to grow up under the charge of Thine education. Verily, Thou art the Gracious! Verily, Thou art the Lord of Great Favour!":
-  //         "O my Lord! I dedicate that which is in my womb to Thee. Grant that this child may be praised in Thy Kingdom, may be blessed by Thy grace and bounty, and may grow and develop within the stronghold of Thine education. Verily, Thou art the Most Generous, the Lord of grace abounding.",
-  //       "irrevocable decree in the Books":
-  //         "irrevocable decree and in the Books",
-  //       "child may become a more mature": "child may become a mature",
-  //     },
-  //   },
-  //   "bahai-prayers-tablets-children": {
-  //     years: [1875, 1921],
-  //     type: (i) => ([37].includes(i) ? "Writings" : "Prayer"),
-  //     splitAfter: [/^—/],
-  //     ignore: [
-  //       "A Compilation Prepared by the Research Department of the Universal House of Justice",
-  //     ],
-  //     collections: ["Bahá’í Prayers and Tablets for Children"],
-  //     replace: {
-  //       "from whatever is obnoxious": "from whatsoever is obnoxious",
-  //     },
-  //   },
-  // },
+  prayers: {
+    "bahai-prayers": [
+      [/^A Selection of Prayers Revealed by.*/m, ""],
+      removeAfter("Notes"),
+      title("", "Bahá’í Prayers", {
+        years: authorYears["‘Abdu’l‑Bahá"],
+        type: "Prayer",
+        collection: true,
+      }),
+      ...obligatory,
+      [/^\nWe all, verily,/gm, (a) => `> ${a.slice(1)}`],
+      ["of the following verses:", "of the following verses:\n"],
+      [
+        /^[A-ZḤ].{1,80}[a-z]$/gm,
+        (a) => {
+          if (a === "Bahá’í Prayers") return a;
+          if (a.startsWith("Revealed") || a === "For Women") return `#### ${a}`;
+          if (
+            a.includes(" for ") ||
+            [
+              "Infants",
+              "Midnight",
+              "Parents",
+              "Husbands",
+              "The Nineteen Day Feast",
+              "For Women",
+              "For Infants",
+              "The Long Healing Prayer",
+              "Expectant Mothers",
+            ].includes(a)
+          ) {
+            return `### ${a}`;
+          }
+          if (a.includes(" Prayers") || a.includes(" Tablets")) return `# ${a}`;
+          return `## ${a}`;
+        },
+      ],
+      [
+        /^#+ .*/gm,
+        (a) =>
+          [
+            "## Short Obligatory Prayer",
+            "## Medium Obligatory Prayer",
+            "## Long Obligatory Prayer",
+            "### Prayer for the Dead",
+            "### The Long Healing Prayer",
+            "## Tablet of Aḥmad",
+            "## Fire Tablet",
+            "## Tablet of the Holy Mariner",
+          ].includes(a) || a.startsWith("#### Revealed")
+            ? a
+            : `${a}\ncollection\n\n#`,
+      ],
+      ["—Bahá’u’lláh\n\n#### For Women", "—Bahá’u’lláh\n\n### For Women"],
+      [/^—.*/gm, (a) => `${a}\n\n#`],
+      [
+        /^#+[^#]*/gm,
+        (a) => {
+          const [title, ...parts] = a.split("\n\n").slice(0, -1);
+          const author = parts.pop();
+          if (author?.[0] !== "—") return a;
+          const authorFixed =
+            author.includes("Shoghi") || author.startsWith("—Synopsis")
+              ? "Shoghi Effendi"
+              : author.slice(1);
+          return [
+            `${title}\nauthor=${JSON.stringify(authorFixed)}`,
+            ...parts,
+            "",
+          ].join("\n\n");
+        },
+      ],
+      prefix(/^\(The Prayer for the Dead is the only/m, "* "),
+      prefix(/^O seeker of Truth! If thou desirest/m, "* "),
+      prefix(/^Come ye together in gladness unalloyed/m, "* "),
+      prefix(/^The following commune is to be read/m, "* "),
+      prefix(/^The spreaders of the fragrances of God/m, "* "),
+      prefix(/^Every soul who travels through the cities/m, "* "),
+      prefix(/^Let the spreaders of the fragrances of/m, "* "),
+      prefix(/^Whoever sets out on a teaching journey/m, "* "),
+      prefix(/^Prayer to be said at the close of the/m, "* "),
+      prefix(/^All the friends of God \. \. \. should/m, "* "),
+      prefix(/^Whenever ye enter the council‑chamber/m, "* "),
+      prefix(/^The following supplication is to be read/m, "* "),
+      prefix(/^Let whosoever travels to different/m, "* "),
+      // prefix(/^\(Naw‑Rúz, March 21, is the first/m, "* "),
+      prefix(/^\(The Intercalary Days, February 26/m, "* "),
+      prefix(/^“Study the Tablet of the Holy Mariner/m, "* "),
+      prefix(/^\(This Tablet is read at the Shrines/m, "* "),
+      prefix(/^\(This prayer, revealed by ‘Abdu’l‑Bahá/m, "* "),
+      prefix(/^Whoso reciteth this prayer with lowliness/m, "* "),
+      ["## Tablet of Aḥmad", "#"],
+      prefix('\nauthor="Bahá’u’lláh"\n\nHe is the King', "# Tablet of Aḥmad"),
+      ['Mariner\nauthor="‘Abdu’l‑Bahá"', 'Mariner\nauthor="Bahá’u’lláh"'],
+      [
+        '#\nauthor="Bahá’u’lláh"\n\nHe is the Gracious, the Well‑Beloved!',
+        "He is the Gracious, the Well‑Beloved!",
+      ],
+      ["take warning!”", "take warning!” (‘Abdu’l‑Bahá)"],
+      [
+        "The period of the Fast is March 2 through March 20.",
+        '* The period of the Fast is March 2 through March 20.\n\n#\nauthor="Bahá’u’lláh"',
+      ],
+      prefix("\n\nIntone, O My servant, the verses of God", '\ntype=""'),
+      prefix("\n\n“The daily obligatory prayers are three", '\ntype=""'),
+      prefix("\n\n“By ‘morning,’ ‘noon’ and ‘evening,’", '\ntype=""'),
+      prefix("\n\n“Bahá’í marriage is union and cordial", '\ntype=""'),
+      prefix("\n\nThe pledge of marriage, the verse to be", '\ntype=""'),
+      prefix("\n\nThe Kitáb‑i‑Aqdas states: “We have", '\ntype=""'),
+      prefix("\n\nḤuqúqu’lláh is indeed a great law", '\ntype=""'),
+      prefix("\n\n“These daily obligatory prayers, together", '\ntype=""'),
+      prefix("\n\nHe is the King, the All‑Knowing, the", '\ntype=""'),
+      prefix("\n\nIn the Name of God, the Most Ancient", '\ntype=""'),
+      prefix("\n\n* “Study the Tablet of the Holy", '\ntype=""'),
+      ["in the most wondrous tones", "in most wondrous tones"],
+      [
+        "outpourings from the clouds of the all‑glorious Kingdom",
+        "outpourings of the clouds of the Abhá Kingdom",
+      ],
+      [
+        "My Lord! My Lord! I praise Thee and I thank Thee for that whereby Thou hast favoured Thine humble maidservant, Thy slave beseeching and supplicating Thee, because Thou hast verily guided her unto Thine obvious Kingdom and caused her to hear Thine exalted Call in the contingent world and to behold Thy Signs which prove the appearance of Thy victorious reign over all things.",
+        "O Lord, my Lord! I praise Thee and thank Thee for the favour Thou hast bestowed upon this feeble handmaiden of Thine, Thy maidservant who is supplicating and praying fervently to Thee, inasmuch as Thou hast guided her unto Thy Straight Path, led her to Thy luminous Kingdom, inclined her ears to Thy most sublime Call in the midmost heart of the world, and unveiled to her eyes Thy signs which testify to the revelation of Thy supreme dominion over all things.",
+      ],
+      [
+        "O my Lord, I dedicate that which is in my womb unto Thee. Then cause it to be a praiseworthy child in Thy Kingdom and a fortunate one by Thy favour and Thy generosity; to develop and to grow up under the charge of Thine education. Verily, Thou art the Gracious! Verily, Thou art the Lord of Great Favour!",
+        "O my Lord! I dedicate that which is in my womb to Thee. Grant that this child may be praised in Thy Kingdom, may be blessed by Thy grace and bounty, and may grow and develop within the stronghold of Thine education. Verily, Thou art the Most Generous, the Lord of grace abounding.",
+      ],
+      [
+        "irrevocable decree in the Books",
+        "irrevocable decree and in the Books",
+      ],
+      ["child may become a more mature", "child may become a mature"],
+    ],
+    "bahai-prayers-tablets-children": [
+      [/^A Compilation Prepared by the Research.*/m, ""],
+      removeAfter("This document has been downloaded"),
+      title("", "Bahá’í Prayers and Tablets for Children", {
+        years: authorYears["‘Abdu’l‑Bahá"],
+        type: "Prayer",
+        collection: true,
+      }),
+      [/^—.*/gm, (a) => `${a}\n\n#`],
+      [
+        /^#+[^#]*/gm,
+        (a) => {
+          const [title, ...parts] = a.split("\n\n").slice(0, -1);
+          const author = parts.pop();
+          if (author?.[0] !== "—") return a;
+          return [
+            `${title}\nauthor=${JSON.stringify(
+              author.slice(1, author.indexOf("[") - 1)
+            )}`,
+            ...parts,
+            "",
+          ].join("\n\n");
+        },
+      ],
+      prefix("\n\nO loved ones of ‘Abdu’l‑Bahá!", '\ntype=""'),
+      ["from whatever is obnoxious", "from whatsoever is obnoxious"],
+    ],
+  },
 };

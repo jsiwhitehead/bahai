@@ -30,17 +30,4 @@ import { readText, writeText } from "./utils.js";
       })
     );
   }
-
-  // await writeJSON(
-  //   "spellings",
-  //   "the-universal-house-of-justice-messages",
-  //   JSON.parse(
-  //     correctSpelling(
-  //       await fs.promises.readFile(
-  //         `./data/download/the-universal-house-of-justice-messages.json`,
-  //         "utf-8"
-  //       )
-  //     )
-  //   )
-  // );
 })();

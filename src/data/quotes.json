@@ -1,4 +1,21 @@
 {
+  "abdul-baha-selections-writings-abdul-baha-233": {
+    "14": {
+      "refs": [
+        {
+          "id": "prayers-bahai-prayers-010",
+          "paragraph": 0
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 172,
+          "count": 1
+        }
+      ]
+    }
+  },
   "abdul-baha-selections-writings-abdul-baha-208": {
     "0": {
       "refs": [
@@ -857,7 +874,7 @@
       ]
     }
   },
-  "bahaullah-prayers-meditations-058": {
+  "prayers-184": {
     "0": {
       "refs": [
         {
@@ -3247,7 +3264,7 @@
       ]
     }
   },
-  "bahaullah-prayers-meditations-037": {
+  "prayers-413": {
     "0": {
       "refs": [
         {
@@ -6019,7 +6036,7 @@
       ]
     }
   },
-  "bahaullah-prayers-meditations-177": {
+  "prayers-415": {
     "2": {
       "refs": [
         {

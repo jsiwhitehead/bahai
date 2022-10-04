@@ -2,7 +2,7 @@
   (
     baseLevel: 1,
     levelNumbers: false,
-    paraNumbers: false,
+    paraNumbers: true,
     color: colors.link[doc.author],
     allLines: doc.paragraphs.every(p => p.type || p.lines),
     <a

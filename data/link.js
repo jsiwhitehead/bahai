@@ -190,17 +190,12 @@ const getMappedIndices = (s) => {
     prettify(JSON.stringify(quoteMap, null, 2), "json"),
     "utf-8"
   );
-})();
 
-// import { files } from "./sources.js";
-// import {
-//   last,
-//   mapObject,
-//   notEmpty,
-//   prettify,
-//   readJSON,
-//   simplifyText,
-// } from "./utils.js";
+  await fs.promises.copyFile(
+    "./data/process/prayers.json",
+    "./src/data/prayers.json"
+  );
+})();
 
 // (async () => {
 //   const documents = (
@@ -254,26 +249,3 @@ const getMappedIndices = (s) => {
 //     );
 //     if (!source) documents.push(doc);
 //   }
-
-//   await fs.promises.writeFile(
-//     `./src/data/prayers.json`,
-//     prettify(
-//       JSON.stringify(
-//         (
-//           await readJSON("process", "prayers")
-//         ).map(({ lines, paragraphs, ...d }) => ({
-//           ...d,
-//           lines: lines?.reduce(
-//             (res, { index, lines }) => ({ ...res, [index]: lines }),
-//             {}
-//           ),
-//           paragraphs,
-//         })),
-//         null,
-//         2
-//       ),
-//       "json"
-//     ),
-//     "utf-8"
-//   );
-// })();

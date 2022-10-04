@@ -1,6 +1,24 @@
 import fs from "fs-extra";
 
-import { readText, writeJSON } from "./utils.js";
+import { readText, simplifyText, writeJSON } from "./utils.js";
+
+const notEmpty = (x) => {
+  if (Array.isArray(x)) return x.length > 0 ? x : undefined;
+  return Object.keys(x).length > 0 ? x : undefined;
+};
+
+const noBlanks = (obj) =>
+  Object.keys(obj).reduce(
+    (res, k) => (obj[k] ? { ...res, [k]: obj[k] } : res),
+    {}
+  );
+
+const authorYears = {
+  "The Báb": [1844, 1850],
+  "Bahá’u’lláh": [1852, 1892],
+  "‘Abdu’l‑Bahá": [1875, 1921],
+  "Shoghi Effendi": [1922, 1957],
+};
 
 const getItem = (s) => {
   if (s.startsWith("^")) {
@@ -68,7 +86,7 @@ const process = (source) => {
           item: indexPath[level]++ || undefined,
           title,
           translated,
-          ...configPath.reduce((res, c) => ({ ...res, ...c }), {}),
+          ...noBlanks(configPath.reduce((res, c) => ({ ...res, ...c }), {})),
           paragraphs: [],
         });
       } else if (!collection) {
@@ -94,223 +112,86 @@ const process = (source) => {
 (async () => {
   fs.emptyDirSync("./data/process");
 
-  await Promise.all([
+  const processed = await Promise.all([
     ...fs
       .readdirSync("./data/manual")
       .map((s) => s.slice(0, -4))
-      .map(
-        async (id) =>
-          await writeJSON("process", id, process(await readText("manual", id)))
-      ),
+      .map(async (id) => ({ id, docs: process(await readText("manual", id)) })),
     ...fs
       .readdirSync("./data/format")
       .map((s) => s.slice(0, -4))
-      .map(
-        async (id) =>
-          await writeJSON("process", id, process(await readText("format", id)))
-      ),
+      .map(async (id) => ({ id, docs: process(await readText("format", id)) })),
   ]);
 
-  // await writeJSON(
-  //   "spellings",
-  //   "the-universal-house-of-justice-messages",
-  //   JSON.parse(
-  //     correctSpelling(
-  //       await fs.promises.readFile(
-  //         `./data/download/the-universal-house-of-justice-messages.json`,
-  //         "utf-8"
-  //       )
-  //     )
-  //   )
-  // );
+  const allPrayers = [];
+  await Promise.all(
+    processed.map(async ({ id, docs }) => {
+      allPrayers.push(
+        ...docs
+          .filter((d) => d.type === "Prayer")
+          .map(({ path, title, author, paragraphs }) => ({
+            years: authorYears[author],
+            author,
+            path: notEmpty(
+              path?.[0] === "Bahá’í Prayers"
+                ? path.filter(
+                    (s) =>
+                      ![
+                        "Bahá’í Prayers",
+                        "General Prayers",
+                        "Occasional Prayers",
+                        "Special Tablets",
+                      ].some((x) => s.includes(x))
+                  )
+                : []
+            ),
+            title,
+            simplified: simplifyText(
+              paragraphs
+                .filter((p) => !p.type)
+                .map((p) => p.text)
+                .join(" ")
+            ),
+            length: paragraphs
+              .filter((p) => !p.type)
+              .map((p) => p.text)
+              .join(" ").length,
+            paragraphs,
+          }))
+      );
+      const nonPrayers = docs.filter((d) => d.type !== "Prayer");
+      if (nonPrayers.length > 0) {
+        await writeJSON("process", id, nonPrayers);
+      }
+    })
+  );
+
+  allPrayers.sort(
+    (a, b) =>
+      a.length - b.length ||
+      a.paragraphs.length - b.paragraphs.length ||
+      a.paragraphs.join(" ").localeCompare(b.paragraphs.join(" "))
+  );
+  const prayers = allPrayers
+    .filter((a, i) => {
+      const p = allPrayers
+        .slice(i + 1)
+        .find((b) => b.simplified.includes(a.simplified));
+      if (p) {
+        p.path = p.path || a.path;
+        p.title = p.title || a.title;
+      }
+      return !p;
+    })
+    .map(({ simplified, ...p }, index) => {
+      let counter = 1;
+      return {
+        index,
+        ...p,
+        paragraphs: p.paragraphs.map((p) =>
+          !p.text || p.type || p.lines ? p : { index: counter++, ...p }
+        ),
+      };
+    });
+  await writeJSON("process", "prayers", prayers);
 })();
-
-// import fs from "fs-extra";
-
-// import { files } from "./sources.js";
-// import {
-//   getMessageTo,
-//   getYearsFromId,
-//   last,
-//   notEmpty,
-//   readJSON,
-//   replaceInText,
-//   simplifyText,
-//   writeJSON,
-// } from "./utils.js";
-
-// const authors = {
-//   "the-bab": "The Báb",
-//   bahaullah: "Bahá’u’lláh",
-//   "abdul-baha": "‘Abdu’l‑Bahá",
-//   "shoghi-effendi": "Shoghi Effendi",
-//   "the-universal-house-of-justice": "The Universal House of Justice",
-//   "official-statements-commentaries": "The Universal House of Justice",
-// };
-
-// // "Words of Wisdom": [1857, 1863]
-// // "The Dawn‑Breakers": [1887, 1888]
-// // "The Constitution of the Universal House of Justice": [1972, 1972]
-// const authorYears = {
-//   "The Báb": [1844, 1850],
-//   "Bahá’u’lláh": [1852, 1892],
-//   "‘Abdu’l‑Bahá": [1875, 1921],
-//   "Shoghi Effendi": [1922, 1957],
-// };
-
-// const titleReplaces = {
-//   "Talks ‘Abdu’l‑Bahá Delivered in Boston":
-//     "Talks ‘Abdu’l‑Bahá Delivered in Boston: 23‑25 July 1912",
-//   "Talks ‘Abdu’l‑Bahá Delivered in Boston and Malden":
-//     "Talks ‘Abdu’l‑Bahá Delivered in Boston and Malden: 23‑25 July 1912",
-//   "Talk ‘Abdu’l‑Bahá Delivered in Minneapolis":
-//     "Talk ‘Abdu’l‑Bahá Delivered in Minneapolis: 20 September 1912",
-//   "Talk ‘Abdu’l‑Bahá Delivered in St. Paul":
-//     "Talk ‘Abdu’l‑Bahá Delivered in St. Paul: 20 September 1912",
-//   "The Promised Day is Come": "The Promised Day Is Come",
-//   "THE INSTITUTION OF THE COUNSELLORS": "The Institution of the Counsellors",
-//   INTRODUCTION: "Introduction",
-//   "INTERNATIONAL AND CONTINENTAL COUNSELLORS AND THE AUXILIARY BOARDS":
-//     "International and Continental Counsellors and the Auxiliary Boards",
-//   "SOME SPECIFIC ASPECTS OF THE FUNCTIONING OF THE INSTITUTION":
-//     "Some Specific Aspects of the Functioning of the Institution",
-// };
-// const titleTranslations = {
-
-//   "Rashḥ‑i‑‘Amá": "The Clouds of the Realms Above",
-//   "Ḥúr‑i‑‘Ujáb": "Tablet of the Wondrous Maiden",
-//   "Lawḥ‑i‑‘Áshiq va Ma‘shúq": "Tablet of the Lover and the Beloved",
-//   "Súriy‑i‑Qalam": "Tablet of the Pen",
-//   "Lawḥ‑i‑Náqús": "Tablet of the Bell",
-//   "Lawḥ‑i‑Ghulámu’l‑Khuld": "Tablet of the Immortal Youth",
-//   "Súriy‑i‑Ghuṣn": "Tablet of the Branch",
-//   "Lawḥ‑i‑Rasúl": "Tablet to Rasúl",
-//   "Lawḥ‑i‑Maryam": "Tablet to Maryam",
-//   "Kitáb‑i‑‘Ahd": "Book of the Covenant",
-//   "Súriy‑i‑Nuṣḥ": "Tablet of Counsel",
-//   "Súriy‑i‑Múlúk": "Tablet of the Kings",
-//   "Lawḥ‑i‑Salmán I": "Tablet to Salmán I",
-//   "Súriy‑i‑Dhikr": "Tablet of Remembrance",
-//   "Súriy‑i‑Aḥzán": "Tablet of Sorrows",
-//   "Lawḥ‑i‑Mawlúd": "Tablet of the Birth",
-//   "Javáhiru’l‑Asrár": "Gems of Divine Mysteries",
-//   "Kitáb‑i‑Íqán": "The Book of Certitude",
-//   "Súriy‑i‑Haykal": "Tablet of the Temple",
-//   "Súriy‑i‑Ra’ís": "Tablet of the Chief",
-//   "Lawḥ‑i‑Ra’ís": "Tablet of the Chief",
-//   "Lawḥ‑i‑Fu’ád": "Tablet of Fu’ád Páshá",
-//   "Súriy‑i‑Múlúk": "Tablet of Kings",
-//   "Lawḥ‑i‑Mánikchí‑Ṣáḥib": "Tablet to Mánikchí Ṣáḥib",
-//   "Lawḥ‑i‑Haft Pursish": "Tablet of the Seven Questions",
-//   "Lawḥ‑i‑Karmil": "Tablet of Carmel",
-//   "Lawḥ‑i‑Aqdas": "The Most Holy Tablet",
-//   Bishárát: "Glad‑Tidings",
-//   Ṭarázát: "Ornaments",
-//   Tajallíyát: "Effulgences",
-//   "Kalimát‑i‑Firdawsíyyih": "Words of Paradise",
-//   "Lawḥ‑i‑Dunyá": "Tablet of the World",
-//   Ishráqát: "Splendours",
-//   "Lawḥ‑i‑Ḥikmat": "Tablet of Wisdom",
-//   "Aṣl‑i‑Kullu’l‑Khayr": "Words of Wisdom",
-//   "Lawḥ‑i‑Maqṣúd": "Tablet of Maqṣúd",
-//   "Súriy‑i‑Vafá": "Tablet to Vafá",
-//   "Lawḥ‑i‑Síyyid‑i‑Mihdíy‑i‑Dahají": "Tablet to Siyyid Mihdíy‑i‑Dahají",
-//   "Lawḥ‑i‑Burhán": "Tablet of the Proof",
-//   "Kitáb‑i‑‘Ahd": "Book of the Covenant",
-//   "Lawḥ‑i‑Arḍ‑i‑Bá": "Tablet of the Land of Bá",
-// };
-
-// (async () => {
-//   fs.emptyDirSync("./data/process");
-
-//   const allPrayers = [];
-//   for (const author of Object.keys(files)) {
-//     await Promise.all(
-//       Object.keys(files[author]).map(async (file) => {
-//         const id = `${author}-${file}`;
-//         const { start, end, ...info } = files[author][file];
-//         const paras = await readJSON("spellings", id);
-//         const data = process(sliceParas(paras, start, end), {
-//           ...info,
-//           baseAuthor: authors[author],
-//         });
-//         allPrayers.push(
-//           ...data
-//             .filter((d) => d.type === "Prayer")
-//             .map(({ author, path, title, lines, paragraphs }) => ({
-//               years: authorYears[author],
-//               author,
-//               path: notEmpty(
-//                 path?.[0] === "Bahá’í Prayers"
-//                   ? path.filter(
-//                       (s) =>
-//                         ![
-//                           "Bahá’í Prayers",
-//                           "General Prayers",
-//                           "Occasional Prayers",
-//                           "Special Tablets",
-//                         ].some((x) => s.includes(x))
-//                     )
-//                   : []
-//               ),
-//               title,
-//               lines,
-//               paragraphs,
-//               simplified: simplifyText(paragraphs.join(" ")),
-//               length: paragraphs.join(" ").length,
-//             }))
-//         );
-//         const nonPrayers = data.filter((d) => d.type !== "Prayer");
-//         if (nonPrayers.length > 0) {
-//           await writeJSON("process", id, nonPrayers);
-//         }
-//       })
-//     );
-//   }
-
-//   allPrayers.sort(
-//     (a, b) =>
-//       a.length - b.length ||
-//       a.paragraphs.length - b.paragraphs.length ||
-//       a.paragraphs.join(" ").localeCompare(b.paragraphs.join(" "))
-//   );
-//   const prayers = allPrayers
-//     .filter((a, i) => {
-//       const p = allPrayers
-//         .slice(i + 1)
-//         .find((b) => b.simplified.includes(a.simplified));
-//       if (p) {
-//         p.path = p.path || a.path;
-//         p.title = p.title || a.title;
-//         p.lines =
-//           (p.lines || []).reduce((res, x) => res + x.lines.length, 0) >
-//           (a.lines || []).reduce((res, x) => res + x.lines.length, 0)
-//             ? p.lines
-//             : a.lines;
-//       }
-//       return !p;
-//     })
-//     .map(({ simplified, ...p }, i) => ({ index: i, ...p }));
-//   await writeJSON("process", "prayers", prayers);
-
-//   const messages = await readJSON(
-//     "spellings",
-//     "the-universal-house-of-justice-messages"
-//   );
-//   await writeJSON(
-//     "process",
-//     "the-universal-house-of-justice-messages",
-//     messages.map(({ id, title, summary, addressee, paragraphs }) => ({
-//       summary,
-//       ...process(sliceParas(paragraphs), {
-//         years: getYearsFromId(id),
-//         type: "Letter",
-//         author: "The Universal House of Justice",
-//         title: "A",
-//       })[0],
-//       title: title.startsWith("Riḍván")
-//         ? `${summary} ${getMessageTo(addressee)}`
-//         : `Letter dated ${title} ${getMessageTo(addressee)}`,
-//     }))
-//   );
-// })();
