@@ -39,6 +39,19 @@ const reflowCSS = [
   "font-size",
 ];
 
+const applyUpdate = (node, ref, values, style = false) => {
+  const prev = node[`__${ref}`] || {};
+  for (const key in { ...prev, ...values }) {
+    if (style) {
+      node.style[key] = values[key] || null;
+    } else {
+      if (values[key] === null || values[key] === undefined) delete node[key];
+      else node[key] = values[key];
+    }
+  }
+  node[`__${ref}`] = values;
+};
+
 const updateNode = (node, data) => {
   if (!data && data !== 0) return null;
 
@@ -72,11 +85,7 @@ const updateNode = (node, data) => {
         }),
         {}
       );
-    const props = { ...values, ...setters };
-    for (const key in props) {
-      if (props[key] === null || props[key] === undefined) delete next[key];
-      else next[key] = props[key];
-    }
+    applyUpdate(next, "props", { ...values, ...setters });
 
     const styles = resolve(dataStyle);
     const style = Object.keys(styles)
@@ -86,7 +95,7 @@ const updateNode = (node, data) => {
         (res, { key, value }) => ({ ...res, [kebabToCamel(key)]: value }),
         {}
       );
-    for (const key in style) next.style[key] = style[key] || null;
+    applyUpdate(next, "styles", style, true);
   }).get();
 
   effect(() => {
@@ -98,7 +107,7 @@ const updateNode = (node, data) => {
         (res, { key, value }) => ({ ...res, [kebabToCamel(key)]: value }),
         {}
       );
-    for (const key in style) next.style[key] = style[key] || null;
+    applyUpdate(next, "reflow", style, true);
   }).get();
 
   effect(() => {

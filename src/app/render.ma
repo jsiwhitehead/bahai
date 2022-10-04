@@ -72,7 +72,7 @@
                 </a>
               : p.id ?
                 <a stack={15}>
-                  <a size={17} color="black" pad={{ left: 20 }} bold>
+                  <a size={17} color="black" pad={[0, 20]} bold>
                     {p.parts.map((part, i)=>
                       type(part) === "string" ? part :
                         documents[p.id].paragraphs[part.paragraph].text.slice(part.start, part.end)
@@ -85,7 +85,7 @@
                     color={colors.link[documents[p.id].author]}
                     underline={hover}
                     link={"/doc/" + p.id + "#" + p.paragraphs[0]}
-                    style={{ width: '75%', margin: '0 0 0 auto' }}
+                    style={{ width: '75%', margin: '0 20px 0 auto' }}
                   >
                     ({[
                       documents[p.id].author,

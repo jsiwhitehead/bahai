@@ -132,7 +132,8 @@ const process = (source) => {
           .map(({ path, title, author, paragraphs }) => ({
             years: authorYears[author],
             author,
-            path: notEmpty(
+            path: [path[0]],
+            categories: notEmpty(
               path?.[0] === "Bahá’í Prayers"
                 ? path.filter(
                     (s) =>
@@ -178,7 +179,9 @@ const process = (source) => {
         .slice(i + 1)
         .find((b) => b.simplified.includes(a.simplified));
       if (p) {
-        p.path = p.path || a.path;
+        p.path[0] =
+          p.path[0].localeCompare(a.path[0]) < 0 ? p.path[0] : a.path[0];
+        p.categories = p.categories || a.categories;
         p.title = p.title || a.title;
       }
       return !p;

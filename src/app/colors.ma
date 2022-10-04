@@ -5,6 +5,7 @@
     "‘Abdu’l‑Bahá": "#D0F0FD",
     "Shoghi Effendi": "#FFEAB6",
     "The Universal House of Justice": "#EDE2FE",
+    "The World Centre": "#EDE2FE",
     "Bahá’í International Community": "#CFDFFF"
   },
   base: {
@@ -12,21 +13,24 @@
     "Bahá’u’lláh": "#ffb3c6",
     "‘Abdu’l‑Bahá": "#b6e8fc",
     "Shoghi Effendi": "#ffe9b3",
-    "The Universal House of Justice": "#d1b5fc"
+    "The Universal House of Justice": "#d1b5fc",
+    "The World Centre": "#d1b5fc"
   },
   light: {
     "The Báb": "#f1fded",
     "Bahá’u’lláh": "#ffebef",
     "‘Abdu’l‑Bahá": "#ebf8fe",
     "Shoghi Effendi": "#fff9eb",
-    "The Universal House of Justice": "#f3ebfe"
+    "The Universal House of Justice": "#f3ebfe",
+    "The World Centre": "#f3ebfe"
   },
   dark: {
     "The Báb": "#96ed78",
     "Bahá’u’lláh": "#ff668b",
     "‘Abdu’l‑Bahá": "#6cd0f9",
     "Shoghi Effendi": "#ffd266",
-    "The Universal House of Justice": "#a46cf9"
+    "The Universal House of Justice": "#a46cf9",
+    "The World Centre": "#a46cf9"
   },
   link: {
     "The Báb": "#27ae60",
@@ -34,6 +38,7 @@
     "‘Abdu’l‑Bahá": "#2980b9",
     "Shoghi Effendi": "#f39c12",
     "The Universal House of Justice": "#4834d4",
+    "The World Centre": "#4834d4",
     "Bahá’í International Community": "#8e44ad",
     "The International Teaching Centre": "#8e44ad",
     "The Office of Social and Economic Development": "#8e44ad",
