@@ -65,6 +65,90 @@ const obligatory = [
   prefix(/^\(If the dead be a woman, let him say/m, "* "),
 ];
 
+const getYearsFromId = (id) => {
+  const v = parseFloat(id.slice(0, 4) + "." + id.slice(4, 6) + id.slice(6, 8));
+  return [v, v];
+};
+
+const lowerFirstLetter = (s) => s.charAt(0).toLowerCase() + s.slice(1);
+const getMessageTo = (addressee) => {
+  const lower = addressee.toLowerCase();
+  if (lower.includes("local spiritual assembly")) {
+    return "to a Local Assembly";
+  } else if (lower.includes("spiritual assembly")) {
+    return "to a National Assembly";
+  } else if (
+    lower.includes(
+      "continental boards of counsellors and national spiritual assemblies"
+    )
+  ) {
+    return "to the Counsellors and National Assemblies";
+  } else if (lower.includes("counsellors")) {
+    return "to the Counsellors";
+  } else if (lower.includes("national spiritual assemblies")) {
+    if (["in", "selected"].some((s) => lower.includes(s))) {
+      return "to selected National Assemblies";
+    } else {
+      return "to all National Assemblies";
+    }
+  } else if (lower.includes("auxiliary board members")) {
+    return "to the Auxiliary Board members";
+  } else if (
+    ["individuals", "three believers"].some((s) => lower.includes(s))
+  ) {
+    return "to selected individuals";
+  } else if (["individual", "mr"].some((s) => lower.includes(s))) {
+    return "to an individual";
+  } else if (
+    [
+      "gathered",
+      "assembled",
+      "congress",
+      "conference",
+      "convention",
+      "meeting",
+      "participants",
+    ].some((s) => lower.includes(s))
+  ) {
+    return "to those gathered";
+  } else if (lower.includes("íránian")) {
+    return "to Íránian Bahá’ís outside Írán";
+  } else if (
+    ["írán", "cradle", "lovers of the most great beauty"].some((s) =>
+      lower.includes(s)
+    )
+  ) {
+    if (lower.includes("youth")) {
+      return "to Bahá’í youth in Írán";
+    } else if (lower.includes("students")) {
+      return "to Bahá’í students in Írán";
+    } else {
+      return "to the Bahá’ís of Írán";
+    }
+  } else if (lower.includes("youth")) {
+    return "to Bahá’í Youth";
+  } else if (
+    lower.includes("followers of bahá’u’lláh in") &&
+    !lower.includes("every land")
+  ) {
+    return "to the Bahá’ís of a Nation";
+  } else if (
+    lower.includes("followers of bahá’u’lláh") ||
+    lower.includes("on the occasion")
+  ) {
+    return "to the Bahá’ís of the World";
+  } else if (["all who", "peoples"].some((s) => lower.includes(s))) {
+    return "to the Peoples of the World";
+  } else if (lower.includes("bahá’ís of")) {
+    if (["world", "east and west"].some((s) => lower.includes(s))) {
+      return "to the Bahá’ís of the World";
+    } else {
+      return "to the Bahá’ís of a Nation";
+    }
+  }
+  return lowerFirstLetter(addressee);
+};
+
 export const files = {
   "the-bab": {
     "selections-writings-bab": [
@@ -1161,6 +1245,9 @@ export const files = {
       prefix(/^O ye beloved of the Lord! Strive with/m, "\n\n#\n\n"),
       prefix(/^Whosoever and whatsoever meeting/m, "\n\n#\n\n"),
       [/^Letter/gm, "## Letter"],
+      ["and fidelity to His Cause", "and fidelity to His Cause."],
+      [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
+      ["### Bahá’í Administration", "Bahá’í Administration"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -1179,6 +1266,8 @@ export const files = {
         /^((?:January|February|March|April|May|June|July|August|September|October|November|December).*)\n\n(.*)/gm,
         (_, a, b) => `## ${b}\n\n${a}`,
       ],
+      [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
+      ["### Citadel of Faith", "Citadel of Faith"],
     ],
     "god-passes-by": [
       [/^Shoghi Effendi[\s\S]*Foreword$/m, "Foreword"],
@@ -1206,7 +1295,7 @@ export const files = {
         author: "Shoghi Effendi",
         years: [1941, 1941],
       }),
-      [/^[A-Z].{1,50}$/gm, (a) => `# ${a}`],
+      [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `# ${a}`],
       ["# The Promised Day Is Come", "The Promised Day Is Come"],
     ],
     "decisive-hour": [
@@ -1280,6 +1369,208 @@ export const files = {
       [/^[A-Z].*[a-z]$/gm, (a) => `## ${a}`],
       ["## The Institution", "The Institution"],
     ],
+    messages: [
+      [/^This document has been downloaded.*/gm, ""],
+      [/^Transmitted by email.*/gm, ""],
+      [/^\*$/gm, "***"],
+      [
+        "",
+        `Selected Messages of the Universal House of Justice
+        author="The Universal House of Justice"
+        collection\n\n`,
+      ],
+      [
+        /^#\n(.*)\n(.*)\n(.*)\n(.*)/gm,
+        (_, id, title, addressee, summary) => {
+          const fixedTitle =
+            {
+              "Riḍván 150": "Riḍván 1993",
+              "Riḍván 151": "Riḍván 1994",
+              "Riḍván 152": "Riḍván 1995",
+              "Riḍván 153": "Riḍván 1996",
+              "Riḍván 154": "Riḍván 1997",
+              "Riḍván 155": "Riḍván 1998",
+              "Riḍván 156": "Riḍván 1999",
+              "Bahá 154 B.E.": "1 March 1997",
+            }[title] || title;
+          const config = {
+            author: "The Universal House of Justice",
+            years: getYearsFromId(id),
+            summary,
+          };
+          return [
+            `# ${
+              fixedTitle.startsWith("Riḍván")
+                ? `${summary} ${getMessageTo(addressee)}`
+                : `Letter dated ${fixedTitle} ${getMessageTo(addressee)}`
+            }`,
+            ...Object.keys(config).map(
+              (k) => `${k}=${JSON.stringify(config[k])}`
+            ),
+          ].join("\n");
+        },
+      ],
+      [
+        "ON THE OCCASION OF THE CENTENARY COMMEMORATION OF THE ASCENSION OF ‘ABDU’L‑BAHÁ",
+        "On the Occasion of the Centenary Commemoration of the Ascension of ‘Abdu’l‑Bahá",
+      ],
+      [
+        "TO THE FOLLOWERS OF BAHÁ’U’LLÁH IN EVERY LAND",
+        "To the Followers of Bahá’u’lláh in Every Land",
+      ],
+      [/^Dearly loved friends$/gm, "Dearly loved friends,"],
+      [/^TO: All National.*$/gm, "To all National Spiritual Assemblies"],
+      [/^\[(To.*)\]$/gm, (_, a) => a],
+      [
+        /^summary.*(\n\n.*){7}$/gm,
+        (a) => {
+          const parts = a.split("\n\n");
+          const index = [...parts]
+            .reverse()
+            .findIndex((s) =>
+              /^((Dear|Beloved|Fellow).*,|(To |A Tribute|MESSAGE:|From:|Warmest).*)$/.test(
+                s
+              )
+            );
+          if (index !== -1) {
+            return parts
+              .map((s, i) =>
+                i === 0 || !s.trim() || i >= parts.length - index ? s : `* ${s}`
+              )
+              .join("\n\n");
+          }
+          return a;
+        },
+      ],
+      [
+        /^[A-Z].{1,80}[a-z]$/gm,
+        (a) => {
+          if (
+            [
+              "Department of the Secretariat",
+              "From letters written on behalf of the Guardian to individual believers",
+              "From the Research Department",
+              "Prepared by the Research Department of the Universal House of Justice",
+              "The Bahá’í International Community",
+              "The Universal House of Justice",
+              "To the Universal House of Justice",
+              "A large number of Senators and Congressmen of the United States",
+              "A meeting held in a committee room of the House of Commons, United Kingdom",
+              "Africa",
+              "Aghṣán",
+              "All three parliamentary parties in Luxembourg",
+              "Americas",
+              "Amnesty International",
+              "Anneliese Bopp",
+              "Artemus Lamb",
+              "Asia",
+              "Athos Costas",
+              "Australasia",
+              "Auxiliary Boardmembers forPropagation",
+              "Auxiliary Boardmembers forProtection",
+              "AuxiliaryBoard forPropagation",
+              "AuxiliaryBoard forProtection",
+              "Bahíyyih Winckler",
+              "Betty Reed",
+              "Branch",
+              "Carmen de Burafato",
+              "Carmen de Burafato, Rowland Estall, Artemus Lamb, Paul Lucas, Alfred Osborne",
+              "Carrying the healing Message of Bahá’u’lláh to the generality of mankind",
+              "Central & East Africa",
+              "Central America",
+              "Central and East",
+              "Central and East Africa",
+              "Chellie Sundram",
+              "Commission on Social Action of Reform Judaism",
+              "Donald Witzel",
+              "Dorothy Ferraby",
+              "Dual",
+              "Erik Blumenthal",
+              "Europe",
+              "Foreign Minister Hans‑Dietrich Genscher of Germany",
+              "Former Chief Justice, India",
+              "FormerNumber",
+              "German Federal Parliament",
+              "Ghuṣn",
+              "Ghuṣnán",
+              "Governor of the Commonwealth of the Northern Mariana Islands",
+              "Greater involvement of the Faith in the life of human society",
+              "House of Representatives, Australia",
+              "Howard Harwood",
+              "Human Rights Commission of the Federation of Protestant Churches in Switzerland",
+              "International Association for Religious Freedom",
+              "Isobel Sabri",
+              "Kolonario Oule",
+              "Lloyd Gardner",
+              "Lloyd Gardner, Sarah Pereira, Velma Sherrill, Edna True",
+              "Manúchihr Salmánpúr",
+              "Minister of Foreign Affairs, Australia",
+              "Muḥammad Kebdani",
+              "Muḥammad Kebdani, Muḥammad Muṣṭafá, ‘Imád Ṣábirán",
+              "NewNumber",
+              "NewTotal",
+              "North America",
+              "Northeastern",
+              "Northeastern Asia",
+              "Northern",
+              "Northern Africa",
+              "Northwestern",
+              "Northwestern Africa",
+              "NumberAdded",
+              "Offices of the King and Minister for Foreign Affairs of Belgium",
+              "Oloro Epyeru",
+              "Pacific Conference of Churches",
+              "Plural",
+              "PresentIncrease",
+              "PresentNumber",
+              "President Mitterrand of France",
+              "President and Minister of Cultural Affairs of Luxembourg",
+              "Prime Minister Indira Gandhi of India",
+              "Prime Minister’s Office of the United Kingdom",
+              "Propagation",
+              "Protection",
+              "Resolutions Adopted on Behalf of the Bahá’ís in Írán",
+              "Richard Benson, Elena Marsella, Rúḥu’lláh Mumtází, Hideya Suzuki",
+              "Sankaran‑Nair Vasudevan",
+              "Seewoosumbur‑Jeehoba Appa",
+              "Seewoosumbur‑Jeehoba Appa, Shidan Fat’he‑Aazam, William Masehla, Bahíyyih Winckler",
+              "Senate, Australia",
+              "Shírín Boman",
+              "Singular",
+              "South America",
+              "South Central",
+              "South Central Asia",
+              "Southeastern",
+              "Southeastern Asia",
+              "Southern",
+              "Southern Africa",
+              "Statements and Letters from Governments, World Leaders and Others",
+              "Suhayl ‘Alá’í, Owen Battrick, Howard Harwood, Violet Hoehnke, Thelma Perks",
+              "Swiss Parliamentarians",
+              "The Master, Balliol College, Oxford, England",
+              "To name just a few",
+              "Total",
+              "Total Propagation",
+              "Total Protection",
+              "Trinidad and Tobago Bureau on Human Rights",
+              "Vicente Samaniego",
+              "Western",
+              "Western Africa",
+              "Western Asia",
+              "Western Hemisphere",
+              "Western Samoan Government",
+              "Yan Kee Leong",
+            ].includes(a) ||
+            a.startsWith("Mr") ||
+            a.startsWith("Dr")
+          ) {
+            return a;
+          }
+          return `## ${a}`;
+        },
+      ],
+      ["## Selected Messages", "Selected Messages"],
+    ],
   },
   "official-statements-commentaries": {
     bahaullah: [
@@ -1289,7 +1580,7 @@ export const files = {
         author: "The World Centre",
         years: [1992, 1992],
       }),
-      [/^[A-Z].*[a-z]$/gm, (a) => `# ${a}`],
+      [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `# ${a}`],
       [/^“.*\. \.”$/gm, (a) => `# ${a}`],
       ["# Bahá’u’lláh", "Bahá’u’lláh"],
       [

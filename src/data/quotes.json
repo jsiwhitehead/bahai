@@ -22,12 +22,60 @@
         {
           "id": "official-statements-commentaries-century-light-001",
           "paragraph": 20
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-120",
+          "paragraph": 9
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-037",
+          "paragraph": 10
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 439,
+          "count": 2
+        },
+        {
+          "start": 439,
           "end": 515,
+          "count": 1
+        },
+        {
+          "start": 516,
+          "end": 970,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-113",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 921,
+          "end": 1333,
+          "count": 1
+        }
+      ]
+    },
+    "125": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-120",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 286,
           "count": 1
         }
       ]
@@ -37,12 +85,31 @@
         {
           "id": "shoghi-effendi-world-order-bahaullah-003",
           "paragraph": 24
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 32
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 1958,
+          "count": 2
+        }
+      ]
+    },
+    "189": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-120",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 584,
           "count": 1
         }
       ]
@@ -367,13 +434,17 @@
         {
           "id": "shoghi-effendi-promised-day-come-000",
           "paragraph": 66
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 24
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 176,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -382,13 +453,17 @@
         {
           "id": "shoghi-effendi-promised-day-come-000",
           "paragraph": 67
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 25
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 223,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -397,18 +472,52 @@
         {
           "id": "shoghi-effendi-promised-day-come-000",
           "paragraph": 68
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 26
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 278,
-          "count": 1
+          "count": 2
         }
       ]
     }
   },
   "bahaullah-summons-lord-hosts-001": {
+    "44": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-236",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 5,
+          "end": 376,
+          "count": 1
+        }
+      ]
+    },
+    "50": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-236",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 5,
+          "end": 155,
+          "count": 1
+        }
+      ]
+    },
     "89": {
       "refs": [
         {
@@ -748,6 +857,720 @@
       ]
     }
   },
+  "bahaullah-prayers-meditations-058": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-481",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 681,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-009": {
+    "12": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-467",
+          "paragraph": 31
+        }
+      ],
+      "parts": [
+        {
+          "start": 938,
+          "end": 1179,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-467",
+          "paragraph": 22
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 892,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 243
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 325,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-467",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 800,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-467",
+          "paragraph": 33
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-462",
+          "paragraph": 8
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-447",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 230,
+          "count": 3
+        },
+        {
+          "start": 230,
+          "end": 428,
+          "count": 2
+        }
+      ]
+    },
+    "27": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 789,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-002": {
+    "15": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 163
+        }
+      ],
+      "parts": [
+        {
+          "start": 215,
+          "end": 726,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-467",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 993,
+          "end": 1430,
+          "count": 1
+        }
+      ]
+    },
+    "27": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 277
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 452,
+          "count": 1
+        }
+      ]
+    },
+    "28": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-467",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 554,
+          "end": 989,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-006": {
+    "29": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-467",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 387,
+          "end": 617,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-027": {
+    "11": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-467",
+          "paragraph": 48
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 27
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 297,
+          "count": 1
+        },
+        {
+          "start": 297,
+          "end": 384,
+          "count": 2
+        },
+        {
+          "start": 384,
+          "end": 385,
+          "count": 1
+        },
+        {
+          "start": 385,
+          "end": 761,
+          "count": 2
+        },
+        {
+          "start": 761,
+          "end": 1865,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 441,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-328",
+          "paragraph": 15
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-140",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 490,
+          "count": 2
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-247",
+          "paragraph": 21
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-194",
+          "paragraph": 8
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-140",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 481,
+          "count": 1
+        },
+        {
+          "start": 481,
+          "end": 1077,
+          "count": 2
+        },
+        {
+          "start": 1077,
+          "end": 1491,
+          "count": 1
+        },
+        {
+          "start": 1491,
+          "end": 1707,
+          "count": 2
+        },
+        {
+          "start": 1707,
+          "end": 2013,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-decisive-hour-107": {
+    "5": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-466",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 242,
+          "end": 1112,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-advent-divine-justice-000": {
+    "55": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 53
+        }
+      ],
+      "parts": [
+        {
+          "start": 888,
+          "end": 1439,
+          "count": 1
+        }
+      ]
+    },
+    "81": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-228",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 433,
+          "end": 440,
+          "count": 1
+        },
+        {
+          "start": 1643,
+          "end": 3301,
+          "count": 1
+        }
+      ]
+    },
+    "114": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 963,
+          "end": 1215,
+          "count": 1
+        }
+      ]
+    },
+    "118": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-463",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 2946,
+          "end": 3238,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-tablets-divine-plan-007": {
+    "11": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-463",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 21,
+          "end": 123,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-146": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-463",
+          "paragraph": 27
+        }
+      ],
+      "parts": [
+        {
+          "start": 446,
+          "end": 709,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-will-testament-abdul-baha-000": {
+    "18": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-462",
+          "paragraph": 23
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 123
+        }
+      ],
+      "parts": [
+        {
+          "start": 313,
+          "end": 440,
+          "count": 1
+        },
+        {
+          "start": 440,
+          "end": 450,
+          "count": 2
+        },
+        {
+          "start": 450,
+          "end": 574,
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-277",
+          "paragraph": 7
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 31
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 185,
+          "count": 1
+        },
+        {
+          "start": 357,
+          "end": 569,
+          "count": 1
+        },
+        {
+          "start": 1176,
+          "end": 1558,
+          "count": 1
+        }
+      ]
+    },
+    "41": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-462",
+          "paragraph": 23
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 237
+        }
+      ],
+      "parts": [
+        {
+          "start": 1172,
+          "end": 1173,
+          "count": 1
+        },
+        {
+          "start": 1173,
+          "end": 1580,
+          "count": 2
+        }
+      ]
+    },
+    "42": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-323",
+          "paragraph": 8
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-171",
+          "paragraph": 8
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 246
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 73,
+          "count": 3
+        },
+        {
+          "start": 73,
+          "end": 104,
+          "count": 1
+        },
+        {
+          "start": 104,
+          "end": 245,
+          "count": 3
+        },
+        {
+          "start": 245,
+          "end": 309,
+          "count": 1
+        },
+        {
+          "start": 417,
+          "end": 450,
+          "count": 2
+        },
+        {
+          "start": 450,
+          "end": 451,
+          "count": 1
+        }
+      ]
+    },
+    "62": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-462",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 671,
+          "end": 827,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-003": {
+    "16": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-457",
+          "paragraph": 8
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-289",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 24,
+          "end": 1566,
+          "count": 1
+        },
+        {
+          "start": 1566,
+          "end": 2123,
+          "count": 2
+        }
+      ]
+    },
+    "34": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-311",
+          "paragraph": 50
+        }
+      ],
+      "parts": [
+        {
+          "start": 1082,
+          "end": 1976,
+          "count": 1
+        }
+      ]
+    },
+    "37": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-275",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 92,
+          "count": 1
+        },
+        {
+          "start": 597,
+          "end": 814,
+          "count": 1
+        },
+        {
+          "start": 1133,
+          "end": 1212,
+          "count": 1
+        }
+      ]
+    },
+    "44": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 68
+        }
+      ],
+      "parts": [
+        {
+          "start": 405,
+          "end": 536,
+          "count": 1
+        }
+      ]
+    },
+    "45": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 217,
+          "end": 1082,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-tablets-divine-plan-004": {
+    "2": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-435",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 1409,
+          "end": 1816,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-145": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-431",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 600,
+          "end": 809,
+          "count": 1
+        }
+      ]
+    }
+  },
   "shoghi-effendi-god-passes-by-001": {
     "138": {
       "refs": [
@@ -829,6 +1652,71 @@
         }
       ]
     },
+    "513": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-411",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 1109,
+          "end": 1609,
+          "count": 1
+        }
+      ]
+    },
+    "514": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-411",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 605,
+          "end": 987,
+          "count": 1
+        }
+      ]
+    },
+    "516": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-411",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 1796,
+          "end": 1975,
+          "count": 1
+        },
+        {
+          "start": 1975,
+          "end": 2650,
+          "count": 1
+        }
+      ]
+    },
+    "517": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-411",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 512,
+          "count": 1
+        }
+      ]
+    },
     "538": {
       "refs": [
         {
@@ -904,23 +1792,401 @@
         {
           "id": "official-statements-commentaries-century-light-001",
           "paragraph": 322
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-054",
+          "paragraph": 10
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 80,
+          "count": 2
+        },
+        {
+          "start": 80,
+          "end": 247,
           "count": 1
         },
         {
           "start": 247,
           "end": 504,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-decisive-hour-063": {
+    "6": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-406",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1001,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-406",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1022,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-457": {
+    "10": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-400",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 861,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-400",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 318,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-414": {
+    "9": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-400",
+          "paragraph": 22
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-289",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 93,
+          "end": 556,
+          "count": 2
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-400",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1338,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-131": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-030",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 182,
+          "end": 670,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-385",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 619,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-004": {
+    "2": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-385",
+          "paragraph": 24
+        },
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 58,
+          "count": 1
+        },
+        {
+          "start": 58,
+          "end": 239,
+          "count": 2
+        },
+        {
+          "start": 239,
+          "end": 387,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 53
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 188,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-060": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-373",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 458,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-050": {
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-365",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 755,
+          "end": 947,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-tablets-bahaullah-006": {
+    "18": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-281",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 7,
+          "end": 318,
+          "count": 1
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-365",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 8,
+          "end": 293,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-281",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 217,
+          "count": 1
+        }
+      ]
+    },
+    "40": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-224",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 255,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-008": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-353",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 342,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-424": {
+    "10": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-343",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 192,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-059": {
+    "16": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-327",
+          "paragraph": 9
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-232",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 178,
+          "end": 421,
+          "count": 2
+        },
+        {
+          "start": 421,
+          "end": 679,
           "count": 1
         }
       ]
     }
   },
   "bahaullah-kitab-i-aqdas-003": {
+    "48": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-324",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 166,
+          "count": 1
+        },
+        {
+          "start": 441,
+          "end": 626,
+          "count": 1
+        }
+      ]
+    },
+    "109": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-196",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 431,
+          "count": 1
+        }
+      ]
+    },
     "137": {
       "refs": [
         {
@@ -933,6 +2199,1050 @@
           "start": 114,
           "end": 226,
           "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-202": {
+    "10": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-320",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 386,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-227": {
+    "17": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-101",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 73,
+          "end": 422,
+          "count": 1
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-064",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 839,
+          "end": 1418,
+          "count": 1
+        }
+      ]
+    },
+    "30": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-320",
+          "paragraph": 19
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 122,
+          "count": 1
+        },
+        {
+          "start": 122,
+          "end": 238,
+          "count": 2
+        },
+        {
+          "start": 238,
+          "end": 1951,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-paris-talks-048": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-320",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 432,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-076": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-319",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 273,
+          "end": 414,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-bab-selections-writings-bab-114": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-319",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 742,
+          "end": 874,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-086": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-319",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 206,
+          "end": 257,
+          "count": 1
+        },
+        {
+          "start": 258,
+          "end": 483,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-112": {
+    "15": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-306",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 254,
+          "end": 702,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-038": {
+    "3": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-306",
+          "paragraph": 18
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-277",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 209,
+          "count": 2
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 161
+        }
+      ],
+      "parts": [
+        {
+          "start": 552,
+          "end": 884,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-citadel-faith-004": {
+    "2": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-305",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 69,
+          "end": 696,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-305",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 733,
+          "count": 1
+        }
+      ]
+    },
+    "69": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 111
+        }
+      ],
+      "parts": [
+        {
+          "start": 1321,
+          "end": 2217,
+          "count": 1
+        }
+      ]
+    },
+    "81": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 106
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 166,
+          "end": 504,
+          "count": 1
+        },
+        {
+          "start": 1440,
+          "end": 1443,
+          "count": 1
+        },
+        {
+          "start": 1443,
+          "end": 1751,
+          "count": 2
+        },
+        {
+          "start": 1751,
+          "end": 1892,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-478": {
+    "32": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-305",
+          "paragraph": 27
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 674,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-307": {
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-304",
+          "paragraph": 45
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-238",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 665,
+          "end": 760,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "bahaullah-tablets-bahaullah-007": {
+    "16": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-295",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 424,
+          "end": 592,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-295",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 527,
+          "end": 707,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-tablets-bahaullah-008": {
+    "36": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-295",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 500,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-088": {
+    "4": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-295",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 962,
+          "end": 1297,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-001": {
+    "10": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-293",
+          "paragraph": 13
+        },
+        {
+          "id": "bahaullah-kitab-i-aqdas-058",
+          "paragraph": 3
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 837,
+          "end": 1031,
+          "count": 1
+        },
+        {
+          "start": 1031,
+          "end": 1411,
+          "count": 3
+        },
+        {
+          "start": 1411,
+          "end": 1826,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 274
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 10,
+          "count": 1
+        },
+        {
+          "start": 16,
+          "end": 483,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 2748,
+          "end": 3193,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-119": {
+    "0": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 154
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-217",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 61,
+          "count": 1
+        },
+        {
+          "start": 226,
+          "end": 561,
+          "count": 2
+        },
+        {
+          "start": 561,
+          "end": 770,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 201,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-289",
+          "paragraph": 9
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 406
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 189,
+          "count": 2
+        },
+        {
+          "start": 189,
+          "end": 359,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-293": {
+    "17": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-287",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 61,
+          "end": 186,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-287",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 592,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-036": {
+    "6": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-286",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 423,
+          "end": 1246,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-471": {
+    "8": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-286",
+          "paragraph": 10
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-228",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 445,
+          "end": 923,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "bahaullah-kitab-i-aqdas-004": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-281",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 581,
+          "end": 737,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-134": {
+    "14": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-281",
+          "paragraph": 22
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 2,
+          "count": 1
+        },
+        {
+          "start": 3,
+          "end": 246,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 78
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 398,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-467": {
+    "6": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-184",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 491,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-197",
+          "paragraph": 6
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-184",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 25,
+          "end": 404,
+          "count": 1
+        },
+        {
+          "start": 411,
+          "end": 581,
+          "count": 1
+        },
+        {
+          "start": 582,
+          "end": 921,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-277",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 228,
+          "count": 1
+        }
+      ]
+    },
+    "42": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-184",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 738,
+          "end": 1313,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-225": {
+    "23": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-275",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 34,
+          "count": 1
+        }
+      ]
+    },
+    "24": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-275",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 175,
+          "end": 280,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-095": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-bahaullah-000",
+          "paragraph": 158
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 350,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-260",
+          "paragraph": 5
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-192",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 703,
+          "end": 1080,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-010": {
+    "9": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-198",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 658,
+          "count": 1
+        }
+      ]
+    },
+    "88": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 496,
+          "end": 1125,
+          "count": 1
+        }
+      ]
+    },
+    "90": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 62
+        }
+      ],
+      "parts": [
+        {
+          "start": 1263,
+          "end": 2358,
+          "count": 1
+        }
+      ]
+    },
+    "94": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 388
+        }
+      ],
+      "parts": [
+        {
+          "start": 662,
+          "end": 906,
+          "count": 1
+        }
+      ]
+    },
+    "105": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 391
+        }
+      ],
+      "parts": [
+        {
+          "start": 461,
+          "end": 747,
+          "count": 1
+        }
+      ]
+    },
+    "121": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 149
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 442,
+          "count": 1
+        }
+      ]
+    },
+    "123": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-turning-point-all-nations-000",
+          "paragraph": 0
+        },
+        {
+          "id": "official-statements-commentaries-turning-point-all-nations-000",
+          "paragraph": 171
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 612,
+          "count": 2
+        }
+      ]
+    },
+    "124": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-257",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 363,
+          "count": 1
+        },
+        {
+          "start": 369,
+          "end": 943,
+          "count": 1
+        },
+        {
+          "start": 949,
+          "end": 1316,
+          "count": 1
+        }
+      ]
+    },
+    "125": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-257",
+          "paragraph": 13
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 35
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 151
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 358,
+          "count": 2
+        },
+        {
+          "start": 358,
+          "end": 718,
+          "count": 1
+        },
+        {
+          "start": 718,
+          "end": 930,
+          "count": 2
+        },
+        {
+          "start": 930,
+          "end": 1112,
+          "count": 1
+        },
+        {
+          "start": 2354,
+          "end": 2585,
+          "count": 1
+        }
+      ]
+    },
+    "127": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-257",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 598,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-light-of-the-world-041": {
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-257",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 532,
+          "end": 720,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-462": {
+    "11": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 393,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-001",
+          "paragraph": 9
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-171",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1287,
+          "count": 2
         }
       ]
     }
@@ -1041,43 +3351,6 @@
         {
           "start": 0,
           "end": 123,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-world-order-bahaullah-001": {
-    "10": {
-      "refs": [
-        {
-          "id": "bahaullah-kitab-i-aqdas-058",
-          "paragraph": 3
-        }
-      ],
-      "parts": [
-        {
-          "start": 837,
-          "end": 1411,
-          "count": 1
-        }
-      ]
-    },
-    "13": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 274
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 10,
-          "count": 1
-        },
-        {
-          "start": 16,
-          "end": 483,
           "count": 1
         }
       ]
@@ -1298,6 +3571,21 @@
         }
       ]
     },
+    "55": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1368,
+          "count": 1
+        }
+      ]
+    },
     "69": {
       "refs": [
         {
@@ -1363,9 +3651,30 @@
       ]
     }
   },
+  "the-universal-house-of-justice-messages-433": {
+    "7": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-192",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 411,
+          "count": 1
+        }
+      ]
+    }
+  },
   "shoghi-effendi-promised-day-come-000": {
     "1": {
       "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-198",
+          "paragraph": 8
+        },
         {
           "id": "official-statements-commentaries-century-light-001",
           "paragraph": 6
@@ -1374,8 +3683,28 @@
       "parts": [
         {
           "start": 0,
-          "end": 977,
+          "end": 207,
+          "count": 2
+        },
+        {
+          "start": 207,
+          "end": 559,
           "count": 1
+        },
+        {
+          "start": 559,
+          "end": 593,
+          "count": 2
+        },
+        {
+          "start": 593,
+          "end": 597,
+          "count": 1
+        },
+        {
+          "start": 597,
+          "end": 977,
+          "count": 2
         }
       ]
     },
@@ -1452,6 +3781,21 @@
           "count": 1
         }
       ]
+    },
+    "331": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 287,
+          "count": 1
+        }
+      ]
     }
   },
   "bahaullah-kitab-i-iqan-002": {
@@ -1525,6 +3869,21 @@
         }
       ]
     },
+    "78": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-224",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 245,
+          "count": 1
+        }
+      ]
+    },
     "221": {
       "refs": [
         {
@@ -1541,6 +3900,26 @@
         {
           "start": 1226,
           "end": 1414,
+          "count": 1
+        }
+      ]
+    },
+    "266": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-113",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 98,
+          "end": 373,
+          "count": 1
+        },
+        {
+          "start": 923,
+          "end": 1046,
           "count": 1
         }
       ]
@@ -1563,6 +3942,21 @@
         {
           "start": 401,
           "end": 653,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-236",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 1167,
+          "end": 1572,
           "count": 1
         }
       ]
@@ -1610,23 +4004,6 @@
         {
           "start": 1099,
           "end": 1342,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-advent-divine-justice-000": {
-    "114": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-bahaullah-000",
-          "paragraph": 46
-        }
-      ],
-      "parts": [
-        {
-          "start": 963,
-          "end": 1215,
           "count": 1
         }
       ]
@@ -1687,44 +4064,21 @@
         {
           "id": "official-statements-commentaries-bahaullah-000",
           "paragraph": 50
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-025",
+          "paragraph": 16
         }
       ],
       "parts": [
+        {
+          "start": 149,
+          "end": 531,
+          "count": 1
+        },
         {
           "start": 532,
           "end": 801,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "bahaullah-gleanings-writings-bahaullah-004": {
-    "2": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-bahaullah-000",
-          "paragraph": 52
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 239,
-          "count": 1
-        }
-      ]
-    },
-    "3": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-bahaullah-000",
-          "paragraph": 53
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 188,
           "count": 1
         }
       ]
@@ -1976,18 +4330,32 @@
         {
           "id": "official-statements-commentaries-bahaullah-000",
           "paragraph": 85
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-236",
+          "paragraph": 8
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 518,
+          "count": 1
+        },
+        {
           "start": 518,
           "end": 755,
+          "count": 2
+        },
+        {
+          "start": 755,
+          "end": 804,
           "count": 1
         },
         {
           "start": 804,
           "end": 980,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -2113,6 +4481,10 @@
         {
           "id": "official-statements-commentaries-bahaullah-000",
           "paragraph": 103
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-124",
+          "paragraph": 20
         }
       ],
       "parts": [
@@ -2124,6 +4496,11 @@
         {
           "start": 578,
           "end": 1187,
+          "count": 2
+        },
+        {
+          "start": 1187,
+          "end": 1248,
           "count": 1
         }
       ]
@@ -2254,58 +4631,6 @@
       ]
     }
   },
-  "bahaullah-gleanings-writings-bahaullah-119": {
-    "0": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-bahaullah-000",
-          "paragraph": 154
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 61,
-          "count": 1
-        },
-        {
-          "start": 226,
-          "end": 561,
-          "count": 1
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-bahaullah-000",
-          "paragraph": 155
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 201,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 406
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 189,
-          "count": 1
-        }
-      ]
-    }
-  },
   "bahaullah-gleanings-writings-bahaullah-016": {
     "1": {
       "refs": [
@@ -2340,35 +4665,27 @@
       ]
     }
   },
-  "bahaullah-gleanings-writings-bahaullah-095": {
-    "1": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-bahaullah-000",
-          "paragraph": 158
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 350,
-          "count": 1
-        }
-      ]
-    }
-  },
   "bahaullah-gleanings-writings-bahaullah-116": {
     "0": {
       "refs": [
         {
           "id": "official-statements-commentaries-bahaullah-000",
           "paragraph": 162
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 30
         }
       ],
       "parts": [
         {
           "start": 146,
           "end": 944,
+          "count": 2
+        },
+        {
+          "start": 944,
+          "end": 1025,
           "count": 1
         },
         {
@@ -2428,6 +4745,124 @@
       ]
     }
   },
+  "the-universal-house-of-justice-messages-304": {
+    "13": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-199",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 382,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-238",
+          "paragraph": 13
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-238",
+          "paragraph": 14
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-238",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 379,
+          "end": 477,
+          "count": 1
+        },
+        {
+          "start": 478,
+          "end": 582,
+          "count": 1
+        },
+        {
+          "start": 587,
+          "end": 686,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-049": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-236",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 958,
+          "end": 1576,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-decisive-hour-157": {
+    "19": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-236",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1156,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-hidden-words-001": {
+    "85": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-227",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 172,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-tablets-bahaullah-002": {
+    "32": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-227",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 388,
+          "count": 1
+        }
+      ]
+    }
+  },
   "bahaullah-gleanings-writings-bahaullah-013": {
     "3": {
       "refs": [
@@ -2475,87 +4910,782 @@
       ]
     }
   },
-  "shoghi-effendi-world-order-bahaullah-010": {
-    "94": {
+  "shoghi-effendi-world-order-bahaullah-004": {
+    "45": {
       "refs": [
         {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 388
-        }
-      ],
-      "parts": [
-        {
-          "start": 662,
-          "end": 906,
-          "count": 1
-        }
-      ]
-    },
-    "105": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 391
-        }
-      ],
-      "parts": [
-        {
-          "start": 461,
-          "end": 747,
-          "count": 1
-        }
-      ]
-    },
-    "121": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 149
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 41
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 442,
+          "end": 225,
           "count": 1
-        }
-      ]
-    },
-    "123": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-turning-point-all-nations-000",
-          "paragraph": 0
         },
         {
-          "id": "official-statements-commentaries-turning-point-all-nations-000",
-          "paragraph": 171
+          "start": 1444,
+          "end": 1750,
+          "count": 1
+        }
+      ]
+    },
+    "47": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 12
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-214",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 626,
+          "end": 949,
+          "count": 1
+        },
+        {
+          "start": 1325,
+          "end": 1637,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-389": {
+    "9": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-209",
+          "paragraph": 12
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 612,
+          "end": 225,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-071": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-208",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 279,
+          "end": 466,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-212": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-199",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 384,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-007": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-192",
+          "paragraph": 4
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 72
+        }
+      ],
+      "parts": [
+        {
+          "start": 188,
+          "end": 285,
+          "count": 1
+        },
+        {
+          "start": 285,
+          "end": 665,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-150": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-192",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 246,
+          "end": 686,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-192",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 495,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-097": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-192",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 166,
+          "end": 430,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-119": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-192",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 151,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-102": {
+    "2": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-192",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 539,
+          "end": 897,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-247": {
+    "23": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-183",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 384,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-200": {
+    "33": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-178",
+          "paragraph": 6
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-153",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 277,
+          "count": 2
+        },
+        {
+          "start": 283,
+          "end": 646,
           "count": 2
         }
       ]
     },
-    "125": {
+    "40": {
       "refs": [
         {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 151
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 79
+        }
+      ],
+      "parts": [
+        {
+          "start": 214,
+          "end": 1225,
+          "count": 1
+        }
+      ]
+    },
+    "42": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 48
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 1112,
+          "end": 335,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-343": {
+    "10": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-177",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 230,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-318": {
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-176",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 342,
+          "end": 574,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-176",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 376,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-323": {
+    "10": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-171",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 295,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-149": {
+    "4": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-141",
+          "paragraph": 6
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-137",
+          "paragraph": 6
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-136",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 485,
+          "count": 3
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-141",
+          "paragraph": 7
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-137",
+          "paragraph": 7
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-136",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 747,
+          "count": 3
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-141",
+          "paragraph": 8
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-137",
+          "paragraph": 8
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-136",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 681,
+          "count": 3
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-141",
+          "paragraph": 9
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-137",
+          "paragraph": 9
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-136",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 483,
+          "count": 3
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-141",
+          "paragraph": 10
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-137",
+          "paragraph": 10
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-136",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 634,
+          "count": 3
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-098": {
+    "6": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-139",
+          "paragraph": 7
+        },
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 101
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 165,
+          "count": 2
+        },
+        {
+          "start": 165,
+          "end": 213,
           "count": 1
         },
         {
-          "start": 2354,
-          "end": 2585,
+          "start": 213,
+          "end": 515,
+          "count": 2
+        },
+        {
+          "start": 515,
+          "end": 604,
+          "count": 1
+        },
+        {
+          "start": 748,
+          "end": 938,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 101
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 255,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-141": {
+    "11": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-137",
+          "paragraph": 11
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-136",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 160,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-292": {
+    "14": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 644,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1741,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 640,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1040,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 371,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 329,
+          "count": 1
+        }
+      ]
+    },
+    "22": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 144,
+          "count": 1
+        }
+      ]
+    },
+    "27": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 130,
+          "count": 1
+        }
+      ]
+    },
+    "30": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 242,
+          "count": 1
+        }
+      ]
+    },
+    "35": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 133,
+          "count": 1
+        }
+      ]
+    },
+    "36": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 260,
+          "count": 1
+        }
+      ]
+    },
+    "38": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 103,
+          "count": 1
+        }
+      ]
+    },
+    "49": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 286,
+          "count": 1
+        }
+      ]
+    },
+    "50": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 44
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 129,
+          "count": 1
+        }
+      ]
+    },
+    "51": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 322,
+          "count": 1
+        }
+      ]
+    },
+    "58": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-134",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 303,
           "count": 1
         }
       ]
@@ -2622,40 +5752,6 @@
       ]
     }
   },
-  "abdul-baha-selections-writings-abdul-baha-007": {
-    "1": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 72
-        }
-      ],
-      "parts": [
-        {
-          "start": 188,
-          "end": 665,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-promulgation-universal-peace-134": {
-    "15": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 78
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 398,
-          "count": 1
-        }
-      ]
-    }
-  },
   "abdul-baha-paris-talks-020": {
     "6": {
       "refs": [
@@ -2668,122 +5764,6 @@
         {
           "start": 0,
           "end": 354,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-promulgation-universal-peace-098": {
-    "6": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 101
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 515,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 101
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 255,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-citadel-faith-004": {
-    "69": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 111
-        }
-      ],
-      "parts": [
-        {
-          "start": 1321,
-          "end": 2217,
-          "count": 1
-        }
-      ]
-    },
-    "81": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 106
-        }
-      ],
-      "parts": [
-        {
-          "start": 166,
-          "end": 504,
-          "count": 1
-        },
-        {
-          "start": 1440,
-          "end": 1892,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-will-testament-abdul-baha-000": {
-    "18": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 123
-        }
-      ],
-      "parts": [
-        {
-          "start": 313,
-          "end": 574,
-          "count": 1
-        }
-      ]
-    },
-    "41": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 237
-        }
-      ],
-      "parts": [
-        {
-          "start": 1173,
-          "end": 1580,
-          "count": 1
-        }
-      ]
-    },
-    "42": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 246
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 309,
           "count": 1
         }
       ]
@@ -2838,55 +5818,6 @@
       ]
     }
   },
-  "abdul-baha-selections-writings-abdul-baha-038": {
-    "4": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 161
-        }
-      ],
-      "parts": [
-        {
-          "start": 552,
-          "end": 884,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-world-order-bahaullah-002": {
-    "15": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 163
-        }
-      ],
-      "parts": [
-        {
-          "start": 215,
-          "end": 726,
-          "count": 1
-        }
-      ]
-    },
-    "27": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 277
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 452,
-          "count": 1
-        }
-      ]
-    }
-  },
   "shoghi-effendi-decisive-hour-057": {
     "4": {
       "refs": [
@@ -2913,18 +5844,28 @@
       ]
     }
   },
-  "shoghi-effendi-world-order-bahaullah-009": {
-    "14": {
+  "the-universal-house-of-justice-messages-477": {
+    "5": {
       "refs": [
         {
           "id": "official-statements-commentaries-century-light-001",
-          "paragraph": 243
+          "paragraph": 248
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 325,
+          "end": 51,
+          "count": 1
+        },
+        {
+          "start": 165,
+          "end": 198,
+          "count": 1
+        },
+        {
+          "start": 272,
+          "end": 432,
           "count": 1
         }
       ]
@@ -2979,6 +5920,105 @@
       ]
     }
   },
+  "the-universal-house-of-justice-messages-311": {
+    "5": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 75
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1003,
+          "count": 1
+        }
+      ]
+    },
+    "31": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 76
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 701,
+          "count": 1
+        }
+      ]
+    },
+    "61": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 77
+        }
+      ],
+      "parts": [
+        {
+          "start": 214,
+          "end": 1238,
+          "count": 1
+        }
+      ]
+    },
+    "62": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 342
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 88,
+          "count": 1
+        },
+        {
+          "start": 805,
+          "end": 963,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-135": {
+    "12": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 365
+        }
+      ],
+      "parts": [
+        {
+          "start": 557,
+          "end": 906,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 85
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 590,
+          "count": 1
+        }
+      ]
+    }
+  },
   "bahaullah-prayers-meditations-177": {
     "2": {
       "refs": [
@@ -2996,6 +6036,563 @@
         {
           "start": 162,
           "end": 596,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-148": {
+    "3": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 401
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 248,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-001",
+          "paragraph": 401
+        }
+      ],
+      "parts": [
+        {
+          "start": 213,
+          "end": 398,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-417": {
+    "34": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-130",
+          "paragraph": 30
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 277,
+          "count": 1
+        }
+      ]
+    },
+    "36": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-130",
+          "paragraph": 32
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 234,
+          "count": 1
+        }
+      ]
+    },
+    "38": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-130",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 283,
+          "count": 1
+        }
+      ]
+    },
+    "48": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-130",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 236,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-047": {
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 1514,
+          "end": 1939,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-415": {
+    "5": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 635,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-320": {
+    "6": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 717,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 229,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 44
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 316,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-181": {
+    "11": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 81
+        }
+      ],
+      "parts": [
+        {
+          "start": 160,
+          "end": 726,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-143": {
+    "24": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-129",
+          "paragraph": 83
+        }
+      ],
+      "parts": [
+        {
+          "start": 1234,
+          "end": 1790,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-tablets-divine-plan-006": {
+    "8": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-078",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 297,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-079": {
+    "14": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 282,
+          "end": 764,
+          "count": 1
+        }
+      ]
+    },
+    "30": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-064",
+          "paragraph": 92
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1072,
+          "count": 1
+        }
+      ]
+    },
+    "34": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-064",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 525,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-077": {
+    "32": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-064",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 1010,
+          "end": 1441,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-130": {
+    "2": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-064",
+          "paragraph": 81
+        }
+      ],
+      "parts": [
+        {
+          "start": 262,
+          "end": 496,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-056": {
+    "2": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-054",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 285,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-057": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-054",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 24,
+          "end": 381,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-070": {
+    "8": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 49
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 623,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 602,
+          "end": 1093,
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-046",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 804,
+          "count": 1
+        },
+        {
+          "start": 1337,
+          "end": 1885,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-045": {
+    "19": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 151,
+          "end": 1401,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 742,
+          "count": 1
+        }
+      ]
+    },
+    "52": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 96,
+          "end": 561,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-201": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-025",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 19,
+          "end": 315,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-tablets-hague-abdul-baha-001": {
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-025",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 277,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-tablets-bahaullah-010": {
+    "33": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-020",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 358,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-035": {
+    "15": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-019",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 533,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-008": {
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-009",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1167,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-light-of-the-world-045": {
+    "6": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-009",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 361,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-009",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 564,
           "count": 1
         }
       ]

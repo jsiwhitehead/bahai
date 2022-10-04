@@ -1,6 +1,6 @@
 (doc, index)=>
   (
-    baseLevel: 0,
+    baseLevel: 1,
     levelNumbers: false,
     paraNumbers: false,
     color: colors.link[doc.author],
@@ -34,6 +34,7 @@
                   bold={level <= 2}
                   color="black"
                   italic={level > 2}
+                  align="left"
                   pad={
                     level === 1 ? { top: 20 }
                     : level <= 2 ? 0
