@@ -183,10 +183,10 @@ const process = (source) => {
       }
       return !p;
     })
-    .map(({ simplified, ...p }, index) => {
+    .map(({ simplified, ...p }, i) => {
       let counter = 1;
       return {
-        index,
+        item: i + 1,
         ...p,
         paragraphs: p.paragraphs.map((p) =>
           !p.text || p.type || p.lines ? p : { index: counter++, ...p }

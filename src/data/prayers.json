@@ -1,6 +1,6 @@
 [
   {
-    "index": 0,
+    "item": 1,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Nearness to God"],
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "index": 1,
+    "item": 2,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "index": 2,
+    "item": 3,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "index": 3,
+    "item": 4,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Tests and Difficulties"],
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "index": 4,
+    "item": 5,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Detachment"],
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "index": 5,
+    "item": 6,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children", "Infants"],
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "index": 6,
+    "item": 7,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 225,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "index": 7,
+    "item": 8,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Obligatory Prayers"],
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "index": 8,
+    "item": 9,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 259,
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "index": 9,
+    "item": 10,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 264,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "index": 10,
+    "item": 11,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Tests and Difficulties"],
@@ -161,7 +161,7 @@
     ]
   },
   {
-    "index": 11,
+    "item": 12,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 275,
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "index": 12,
+    "item": 13,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Triumph of the Cause"],
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "index": 13,
+    "item": 14,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 289,
@@ -202,7 +202,7 @@
     ]
   },
   {
-    "index": 14,
+    "item": 15,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Teaching"],
@@ -219,7 +219,7 @@
     ]
   },
   {
-    "index": 15,
+    "item": 16,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Healing"],
@@ -232,7 +232,7 @@
     ]
   },
   {
-    "index": 16,
+    "item": 17,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Tests and Difficulties"],
@@ -245,7 +245,7 @@
     ]
   },
   {
-    "index": 17,
+    "item": 18,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Spiritual Growth"],
@@ -258,7 +258,7 @@
     ]
   },
   {
-    "index": 18,
+    "item": 19,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Morning"],
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "index": 19,
+    "item": 20,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Growth"],
@@ -284,7 +284,7 @@
     ]
   },
   {
-    "index": 20,
+    "item": 21,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Steadfastness"],
@@ -297,7 +297,7 @@
     ]
   },
   {
-    "index": 21,
+    "item": 22,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -314,7 +314,7 @@
     ]
   },
   {
-    "index": 22,
+    "item": 23,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -327,7 +327,7 @@
     ]
   },
   {
-    "index": 23,
+    "item": 24,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Teaching"],
@@ -340,7 +340,7 @@
     ]
   },
   {
-    "index": 24,
+    "item": 25,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 364,
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "index": 25,
+    "item": 26,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -373,7 +373,7 @@
     ]
   },
   {
-    "index": 26,
+    "item": 27,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children", "Infants"],
@@ -386,7 +386,7 @@
     ]
   },
   {
-    "index": 27,
+    "item": 28,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Gatherings", "The Nineteen Day Feast"],
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "index": 28,
+    "item": 29,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Aid and Assistance"],
@@ -412,7 +412,7 @@
     ]
   },
   {
-    "index": 29,
+    "item": 30,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Unity"],
@@ -425,7 +425,7 @@
     ]
   },
   {
-    "index": 30,
+    "item": 31,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -442,7 +442,7 @@
     ]
   },
   {
-    "index": 31,
+    "item": 32,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 401,
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "index": 32,
+    "item": 33,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 407,
@@ -478,7 +478,7 @@
     ]
   },
   {
-    "index": 33,
+    "item": 34,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Forgiveness"],
@@ -491,7 +491,7 @@
     ]
   },
   {
-    "index": 34,
+    "item": 35,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 434,
@@ -511,7 +511,7 @@
     ]
   },
   {
-    "index": 35,
+    "item": 36,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Spiritual Growth"],
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "index": 36,
+    "item": 37,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 439,
@@ -540,7 +540,7 @@
     ]
   },
   {
-    "index": 37,
+    "item": 38,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 441,
@@ -560,7 +560,7 @@
     ]
   },
   {
-    "index": 38,
+    "item": 39,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Morning"],
@@ -577,7 +577,7 @@
     ]
   },
   {
-    "index": 39,
+    "item": 40,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Gatherings"],
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "index": 40,
+    "item": 41,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Triumph of the Cause"],
@@ -611,7 +611,7 @@
     ]
   },
   {
-    "index": 41,
+    "item": 42,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["The Departed"],
@@ -632,7 +632,7 @@
     ]
   },
   {
-    "index": 42,
+    "item": 43,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Youth"],
@@ -649,7 +649,7 @@
     ]
   },
   {
-    "index": 43,
+    "item": 44,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 460,
@@ -669,7 +669,7 @@
     ]
   },
   {
-    "index": 44,
+    "item": 45,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 461,
@@ -689,7 +689,7 @@
     ]
   },
   {
-    "index": 45,
+    "item": 46,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Evening", "Midnight"],
@@ -710,7 +710,7 @@
     ]
   },
   {
-    "index": 46,
+    "item": 47,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 465,
@@ -726,7 +726,7 @@
     ]
   },
   {
-    "index": 47,
+    "item": 48,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Firmness in the Covenant"],
@@ -743,7 +743,7 @@
     ]
   },
   {
-    "index": 48,
+    "item": 49,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Forgiveness"],
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "index": 49,
+    "item": 50,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Youth"],
@@ -769,7 +769,7 @@
     ]
   },
   {
-    "index": 50,
+    "item": 51,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Detachment"],
@@ -798,7 +798,7 @@
     ]
   },
   {
-    "index": 51,
+    "item": 52,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 484,
@@ -810,7 +810,7 @@
     ]
   },
   {
-    "index": 52,
+    "item": 53,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -827,7 +827,7 @@
     ]
   },
   {
-    "index": 53,
+    "item": 54,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 488,
@@ -839,7 +839,7 @@
     ]
   },
   {
-    "index": 54,
+    "item": 55,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Triumph of the Cause"],
@@ -856,7 +856,7 @@
     ]
   },
   {
-    "index": 55,
+    "item": 56,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 501,
@@ -872,7 +872,7 @@
     ]
   },
   {
-    "index": 56,
+    "item": 57,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Families", "Parents"],
@@ -885,7 +885,7 @@
     ]
   },
   {
-    "index": 57,
+    "item": 58,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Spiritual Growth"],
@@ -902,7 +902,7 @@
     ]
   },
   {
-    "index": 58,
+    "item": 59,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -923,7 +923,7 @@
     ]
   },
   {
-    "index": 59,
+    "item": 60,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 525,
@@ -935,7 +935,7 @@
     ]
   },
   {
-    "index": 60,
+    "item": 61,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Women"],
@@ -948,7 +948,7 @@
     ]
   },
   {
-    "index": 61,
+    "item": 62,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Growth"],
@@ -965,7 +965,7 @@
     ]
   },
   {
-    "index": 62,
+    "item": 63,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Protection"],
@@ -978,7 +978,7 @@
     ]
   },
   {
-    "index": 63,
+    "item": 64,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 538,
@@ -998,7 +998,7 @@
     ]
   },
   {
-    "index": 64,
+    "item": 65,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 545,
@@ -1014,7 +1014,7 @@
     ]
   },
   {
-    "index": 65,
+    "item": 66,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 549,
@@ -1030,7 +1030,7 @@
     ]
   },
   {
-    "index": 66,
+    "item": 67,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 560,
@@ -1046,7 +1046,7 @@
     ]
   },
   {
-    "index": 67,
+    "item": 68,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["The Departed", "For Women"],
@@ -1063,7 +1063,7 @@
     ]
   },
   {
-    "index": 68,
+    "item": 69,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Evening"],
@@ -1084,7 +1084,7 @@
     ]
   },
   {
-    "index": 69,
+    "item": 70,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 589,
@@ -1100,7 +1100,7 @@
     ]
   },
   {
-    "index": 70,
+    "item": 71,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 591,
@@ -1116,7 +1116,7 @@
     ]
   },
   {
-    "index": 71,
+    "item": 72,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Aid and Assistance"],
@@ -1133,7 +1133,7 @@
     ]
   },
   {
-    "index": 72,
+    "item": 73,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -1146,7 +1146,7 @@
     ]
   },
   {
-    "index": 73,
+    "item": 74,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 593,
@@ -1166,7 +1166,7 @@
     ]
   },
   {
-    "index": 74,
+    "item": 75,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Marriage"],
@@ -1183,7 +1183,7 @@
     ]
   },
   {
-    "index": 75,
+    "item": 76,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 597,
@@ -1195,7 +1195,7 @@
     ]
   },
   {
-    "index": 76,
+    "item": 77,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 603,
@@ -1215,7 +1215,7 @@
     ]
   },
   {
-    "index": 77,
+    "item": 78,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Children"],
@@ -1236,7 +1236,7 @@
     ]
   },
   {
-    "index": 78,
+    "item": 79,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 609,
@@ -1248,7 +1248,7 @@
     ]
   },
   {
-    "index": 79,
+    "item": 80,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 609,
@@ -1260,7 +1260,7 @@
     ]
   },
   {
-    "index": 80,
+    "item": 81,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Fast"],
@@ -1273,7 +1273,7 @@
     ]
   },
   {
-    "index": 81,
+    "item": 82,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 618,
@@ -1293,7 +1293,7 @@
     ]
   },
   {
-    "index": 82,
+    "item": 83,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 624,
@@ -1305,7 +1305,7 @@
     ]
   },
   {
-    "index": 83,
+    "item": 84,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Tests and Difficulties"],
@@ -1318,7 +1318,7 @@
     ]
   },
   {
-    "index": 84,
+    "item": 85,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 631,
@@ -1330,7 +1330,7 @@
     ]
   },
   {
-    "index": 85,
+    "item": 86,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 631,
@@ -1346,7 +1346,7 @@
     ]
   },
   {
-    "index": 86,
+    "item": 87,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Protection"],
@@ -1359,7 +1359,7 @@
     ]
   },
   {
-    "index": 87,
+    "item": 88,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 643,
@@ -1379,7 +1379,7 @@
     ]
   },
   {
-    "index": 88,
+    "item": 89,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 655,
@@ -1403,7 +1403,7 @@
     ]
   },
   {
-    "index": 89,
+    "item": 90,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Forgiveness"],
@@ -1420,7 +1420,7 @@
     ]
   },
   {
-    "index": 90,
+    "item": 91,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -1445,7 +1445,7 @@
     ]
   },
   {
-    "index": 91,
+    "item": 92,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 671,
@@ -1461,7 +1461,7 @@
     ]
   },
   {
-    "index": 92,
+    "item": 93,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Aid and Assistance"],
@@ -1482,7 +1482,7 @@
     ]
   },
   {
-    "index": 93,
+    "item": 94,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["America"],
@@ -1495,7 +1495,7 @@
     ]
   },
   {
-    "index": 94,
+    "item": 95,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 685,
@@ -1507,7 +1507,7 @@
     ]
   },
   {
-    "index": 95,
+    "item": 96,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Protection"],
@@ -1528,7 +1528,7 @@
     ]
   },
   {
-    "index": 96,
+    "item": 97,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Aid and Assistance"],
@@ -1549,7 +1549,7 @@
     ]
   },
   {
-    "index": 97,
+    "item": 98,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -1574,7 +1574,7 @@
     ]
   },
   {
-    "index": 98,
+    "item": 99,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["The Departed"],
@@ -1595,7 +1595,7 @@
     ]
   },
   {
-    "index": 99,
+    "item": 100,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Ḥuqúqu’lláh: The Right of God"],
@@ -1608,7 +1608,7 @@
     ]
   },
   {
-    "index": 100,
+    "item": 101,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 698,
@@ -1624,7 +1624,7 @@
     ]
   },
   {
-    "index": 101,
+    "item": 102,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 699,
@@ -1636,7 +1636,7 @@
     ]
   },
   {
-    "index": 102,
+    "item": 103,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 702,
@@ -1656,7 +1656,7 @@
     ]
   },
   {
-    "index": 103,
+    "item": 104,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 703,
@@ -1672,7 +1672,7 @@
     ]
   },
   {
-    "index": 104,
+    "item": 105,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 708,
@@ -1688,7 +1688,7 @@
     ]
   },
   {
-    "index": 105,
+    "item": 106,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 709,
@@ -1708,7 +1708,7 @@
     ]
   },
   {
-    "index": 106,
+    "item": 107,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["The Fund"],
@@ -1733,7 +1733,7 @@
     ]
   },
   {
-    "index": 107,
+    "item": 108,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Steadfastness"],
@@ -1754,7 +1754,7 @@
     ]
   },
   {
-    "index": 108,
+    "item": 109,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 718,
@@ -1770,7 +1770,7 @@
     ]
   },
   {
-    "index": 109,
+    "item": 110,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 732,
@@ -1782,7 +1782,7 @@
     ]
   },
   {
-    "index": 110,
+    "item": 111,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Forgiveness"],
@@ -1799,7 +1799,7 @@
     ]
   },
   {
-    "index": 111,
+    "item": 112,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Women", "Expectant Mothers"],
@@ -1816,7 +1816,7 @@
     ]
   },
   {
-    "index": 112,
+    "item": 113,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 742,
@@ -1832,7 +1832,7 @@
     ]
   },
   {
-    "index": 113,
+    "item": 114,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Families", "Parents"],
@@ -1849,7 +1849,7 @@
     ]
   },
   {
-    "index": 114,
+    "item": 115,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -1874,7 +1874,7 @@
     ]
   },
   {
-    "index": 115,
+    "item": 116,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Assembly"],
@@ -1895,7 +1895,7 @@
     ]
   },
   {
-    "index": 116,
+    "item": 117,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 750,
@@ -1907,7 +1907,7 @@
     ]
   },
   {
-    "index": 117,
+    "item": 118,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 757,
@@ -1919,7 +1919,7 @@
     ]
   },
   {
-    "index": 118,
+    "item": 119,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Protection"],
@@ -1936,7 +1936,7 @@
     ]
   },
   {
-    "index": 119,
+    "item": 120,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Protection"],
@@ -1953,7 +1953,7 @@
     ]
   },
   {
-    "index": 120,
+    "item": 121,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Triumph of the Cause"],
@@ -1974,7 +1974,7 @@
     ]
   },
   {
-    "index": 121,
+    "item": 122,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 766,
@@ -1986,7 +1986,7 @@
     ]
   },
   {
-    "index": 122,
+    "item": 123,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Spiritual Growth"],
@@ -1999,7 +1999,7 @@
     ]
   },
   {
-    "index": 123,
+    "item": 124,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Children"],
@@ -2016,7 +2016,7 @@
     ]
   },
   {
-    "index": 124,
+    "item": 125,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 773,
@@ -2040,7 +2040,7 @@
     ]
   },
   {
-    "index": 125,
+    "item": 126,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Departed"],
@@ -2074,7 +2074,7 @@
     ]
   },
   {
-    "index": 126,
+    "item": 127,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Humanity"],
@@ -2087,7 +2087,7 @@
     ]
   },
   {
-    "index": 127,
+    "item": 128,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 783,
@@ -2099,7 +2099,7 @@
     ]
   },
   {
-    "index": 128,
+    "item": 129,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Growth"],
@@ -2124,7 +2124,7 @@
     ]
   },
   {
-    "index": 129,
+    "item": 130,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Protection"],
@@ -2145,7 +2145,7 @@
     ]
   },
   {
-    "index": 130,
+    "item": 131,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Aid and Assistance"],
@@ -2162,7 +2162,7 @@
     ]
   },
   {
-    "index": 131,
+    "item": 132,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 794,
@@ -2178,7 +2178,7 @@
     ]
   },
   {
-    "index": 132,
+    "item": 133,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 799,
@@ -2218,7 +2218,7 @@
     ]
   },
   {
-    "index": 133,
+    "item": 134,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Detachment"],
@@ -2243,7 +2243,7 @@
     ]
   },
   {
-    "index": 134,
+    "item": 135,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Fast"],
@@ -2256,7 +2256,7 @@
     ]
   },
   {
-    "index": 135,
+    "item": 136,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Youth"],
@@ -2277,7 +2277,7 @@
     ]
   },
   {
-    "index": 136,
+    "item": 137,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Marriage"],
@@ -2290,7 +2290,7 @@
     ]
   },
   {
-    "index": 137,
+    "item": 138,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Women"],
@@ -2311,7 +2311,7 @@
     ]
   },
   {
-    "index": 138,
+    "item": 139,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -2336,7 +2336,7 @@
     ]
   },
   {
-    "index": 139,
+    "item": 140,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Fast"],
@@ -2349,7 +2349,7 @@
     ]
   },
   {
-    "index": 140,
+    "item": 141,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Forgiveness"],
@@ -2362,7 +2362,7 @@
     ]
   },
   {
-    "index": 141,
+    "item": 142,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -2395,7 +2395,7 @@
     ]
   },
   {
-    "index": 142,
+    "item": 143,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Gatherings"],
@@ -2412,7 +2412,7 @@
     ]
   },
   {
-    "index": 143,
+    "item": 144,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Gatherings"],
@@ -2429,7 +2429,7 @@
     ]
   },
   {
-    "index": 144,
+    "item": 145,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Humanity"],
@@ -2450,7 +2450,7 @@
     ]
   },
   {
-    "index": 145,
+    "item": 146,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 849,
@@ -2474,7 +2474,7 @@
     ]
   },
   {
-    "index": 146,
+    "item": 147,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Firmness in the Covenant"],
@@ -2495,7 +2495,7 @@
     ]
   },
   {
-    "index": 147,
+    "item": 148,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Healing"],
@@ -2516,7 +2516,7 @@
     ]
   },
   {
-    "index": 148,
+    "item": 149,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 858,
@@ -2532,7 +2532,7 @@
     ]
   },
   {
-    "index": 149,
+    "item": 150,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Children", "Infants"],
@@ -2549,7 +2549,7 @@
     ]
   },
   {
-    "index": 150,
+    "item": 151,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Evening"],
@@ -2570,7 +2570,7 @@
     ]
   },
   {
-    "index": 151,
+    "item": 152,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 881,
@@ -2586,7 +2586,7 @@
     ]
   },
   {
-    "index": 152,
+    "item": 153,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 882,
@@ -2602,7 +2602,7 @@
     ]
   },
   {
-    "index": 153,
+    "item": 154,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 890,
@@ -2630,7 +2630,7 @@
     ]
   },
   {
-    "index": 154,
+    "item": 155,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 893,
@@ -2654,7 +2654,7 @@
     ]
   },
   {
-    "index": 155,
+    "item": 156,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Detachment"],
@@ -2675,7 +2675,7 @@
     ]
   },
   {
-    "index": 156,
+    "item": 157,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Forgiveness"],
@@ -2696,7 +2696,7 @@
     ]
   },
   {
-    "index": 157,
+    "item": 158,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Women"],
@@ -2717,7 +2717,7 @@
     ]
   },
   {
-    "index": 158,
+    "item": 159,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 908,
@@ -2729,7 +2729,7 @@
     ]
   },
   {
-    "index": 159,
+    "item": 160,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Praise and Gratitude"],
@@ -2750,7 +2750,7 @@
     ]
   },
   {
-    "index": 160,
+    "item": 161,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Families", "Husbands"],
@@ -2775,7 +2775,7 @@
     ]
   },
   {
-    "index": 161,
+    "item": 162,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["The Departed"],
@@ -2796,7 +2796,7 @@
     ]
   },
   {
-    "index": 162,
+    "item": 163,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 942,
@@ -2816,7 +2816,7 @@
     ]
   },
   {
-    "index": 163,
+    "item": 164,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 943,
@@ -2832,7 +2832,7 @@
     ]
   },
   {
-    "index": 164,
+    "item": 165,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 945,
@@ -2848,7 +2848,7 @@
     ]
   },
   {
-    "index": 165,
+    "item": 166,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Detachment"],
@@ -2869,7 +2869,7 @@
     ]
   },
   {
-    "index": 166,
+    "item": 167,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Praise and Gratitude"],
@@ -2886,7 +2886,7 @@
     ]
   },
   {
-    "index": 167,
+    "item": 168,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 967,
@@ -2902,7 +2902,7 @@
     ]
   },
   {
-    "index": 168,
+    "item": 169,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Forgiveness"],
@@ -2915,7 +2915,7 @@
     ]
   },
   {
-    "index": 169,
+    "item": 170,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 971,
@@ -2931,7 +2931,7 @@
     ]
   },
   {
-    "index": 170,
+    "item": 171,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Steadfastness"],
@@ -2948,7 +2948,7 @@
     ]
   },
   {
-    "index": 171,
+    "item": 172,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Service"],
@@ -2965,7 +2965,7 @@
     ]
   },
   {
-    "index": 172,
+    "item": 173,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 999,
@@ -2985,7 +2985,7 @@
     ]
   },
   {
-    "index": 173,
+    "item": 174,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -3014,7 +3014,7 @@
     ]
   },
   {
-    "index": 174,
+    "item": 175,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Teaching"],
@@ -3035,7 +3035,7 @@
     ]
   },
   {
-    "index": 175,
+    "item": 176,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1014,
@@ -3047,7 +3047,7 @@
     ]
   },
   {
-    "index": 176,
+    "item": 177,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1015,
@@ -3067,7 +3067,7 @@
     ]
   },
   {
-    "index": 177,
+    "item": 178,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1016,
@@ -3091,7 +3091,7 @@
     ]
   },
   {
-    "index": 178,
+    "item": 179,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Nearness to God"],
@@ -3108,7 +3108,7 @@
     ]
   },
   {
-    "index": 179,
+    "item": 180,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Forgiveness"],
@@ -3125,7 +3125,7 @@
     ]
   },
   {
-    "index": 180,
+    "item": 181,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Gatherings"],
@@ -3142,7 +3142,7 @@
     ]
   },
   {
-    "index": 181,
+    "item": 182,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1028,
@@ -3158,7 +3158,7 @@
     ]
   },
   {
-    "index": 182,
+    "item": 183,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1029,
@@ -3178,7 +3178,7 @@
     ]
   },
   {
-    "index": 183,
+    "item": 184,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1031,
@@ -3198,7 +3198,7 @@
     ]
   },
   {
-    "index": 184,
+    "item": 185,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Praise and Gratitude"],
@@ -3215,7 +3215,7 @@
     ]
   },
   {
-    "index": 185,
+    "item": 186,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["The Departed", "For Women"],
@@ -3232,7 +3232,7 @@
     ]
   },
   {
-    "index": 186,
+    "item": 187,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Tests and Difficulties"],
@@ -3253,7 +3253,7 @@
     ]
   },
   {
-    "index": 187,
+    "item": 188,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Growth"],
@@ -3274,7 +3274,7 @@
     ]
   },
   {
-    "index": 188,
+    "item": 189,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Aid and Assistance"],
@@ -3291,7 +3291,7 @@
     ]
   },
   {
-    "index": 189,
+    "item": 190,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Triumph of the Cause"],
@@ -3312,7 +3312,7 @@
     ]
   },
   {
-    "index": 190,
+    "item": 191,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1053,
@@ -3332,7 +3332,7 @@
     ]
   },
   {
-    "index": 191,
+    "item": 192,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Humanity"],
@@ -3353,7 +3353,7 @@
     ]
   },
   {
-    "index": 192,
+    "item": 193,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Growth"],
@@ -3378,7 +3378,7 @@
     ]
   },
   {
-    "index": 193,
+    "item": 194,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Humanity"],
@@ -3391,7 +3391,7 @@
     ]
   },
   {
-    "index": 194,
+    "item": 195,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Marriage"],
@@ -3412,7 +3412,7 @@
     ]
   },
   {
-    "index": 195,
+    "item": 196,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1070,
@@ -3428,7 +3428,7 @@
     ]
   },
   {
-    "index": 196,
+    "item": 197,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1077,
@@ -3444,7 +3444,7 @@
     ]
   },
   {
-    "index": 197,
+    "item": 198,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1078,
@@ -3460,7 +3460,7 @@
     ]
   },
   {
-    "index": 198,
+    "item": 199,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1081,
@@ -3476,7 +3476,7 @@
     ]
   },
   {
-    "index": 199,
+    "item": 200,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1084,
@@ -3500,7 +3500,7 @@
     ]
   },
   {
-    "index": 200,
+    "item": 201,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -3533,7 +3533,7 @@
     ]
   },
   {
-    "index": 201,
+    "item": 202,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Detachment"],
@@ -3554,7 +3554,7 @@
     ]
   },
   {
-    "index": 202,
+    "item": 203,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Firmness in the Covenant"],
@@ -3575,7 +3575,7 @@
     ]
   },
   {
-    "index": 203,
+    "item": 204,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1104,
@@ -3587,7 +3587,7 @@
     ]
   },
   {
-    "index": 204,
+    "item": 205,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1108,
@@ -3607,7 +3607,7 @@
     ]
   },
   {
-    "index": 205,
+    "item": 206,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Detachment"],
@@ -3628,7 +3628,7 @@
     ]
   },
   {
-    "index": 206,
+    "item": 207,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Steadfastness"],
@@ -3649,7 +3649,7 @@
     ]
   },
   {
-    "index": 207,
+    "item": 208,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1120,
@@ -3673,7 +3673,7 @@
     ]
   },
   {
-    "index": 208,
+    "item": 209,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Spiritual Growth"],
@@ -3694,7 +3694,7 @@
     ]
   },
   {
-    "index": 209,
+    "item": 210,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Forgiveness"],
@@ -3719,7 +3719,7 @@
     ]
   },
   {
-    "index": 210,
+    "item": 211,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1125,
@@ -3739,7 +3739,7 @@
     ]
   },
   {
-    "index": 211,
+    "item": 212,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1128,
@@ -3759,7 +3759,7 @@
     ]
   },
   {
-    "index": 212,
+    "item": 213,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Gatherings"],
@@ -3780,7 +3780,7 @@
     ]
   },
   {
-    "index": 213,
+    "item": 214,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Teaching"],
@@ -3801,7 +3801,7 @@
     ]
   },
   {
-    "index": 214,
+    "item": 215,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Detachment"],
@@ -3826,7 +3826,7 @@
     ]
   },
   {
-    "index": 215,
+    "item": 216,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1145,
@@ -3842,7 +3842,7 @@
     ]
   },
   {
-    "index": 216,
+    "item": 217,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1145,
@@ -3858,7 +3858,7 @@
     ]
   },
   {
-    "index": 217,
+    "item": 218,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 1145,
@@ -3878,7 +3878,7 @@
     ]
   },
   {
-    "index": 218,
+    "item": 219,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1151,
@@ -3902,7 +3902,7 @@
     ]
   },
   {
-    "index": 219,
+    "item": 220,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1153,
@@ -3922,7 +3922,7 @@
     ]
   },
   {
-    "index": 220,
+    "item": 221,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1157,
@@ -3942,7 +3942,7 @@
     ]
   },
   {
-    "index": 221,
+    "item": 222,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Assembly"],
@@ -3971,7 +3971,7 @@
     ]
   },
   {
-    "index": 222,
+    "item": 223,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Unity"],
@@ -4000,7 +4000,7 @@
     ]
   },
   {
-    "index": 223,
+    "item": 224,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Nearness to God"],
@@ -4021,7 +4021,7 @@
     ]
   },
   {
-    "index": 224,
+    "item": 225,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Steadfastness"],
@@ -4042,7 +4042,7 @@
     ]
   },
   {
-    "index": 225,
+    "item": 226,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Detachment"],
@@ -4067,7 +4067,7 @@
     ]
   },
   {
-    "index": 226,
+    "item": 227,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1182,
@@ -4091,7 +4091,7 @@
     ]
   },
   {
-    "index": 227,
+    "item": 228,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1183,
@@ -4111,7 +4111,7 @@
     ]
   },
   {
-    "index": 228,
+    "item": 229,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1185,
@@ -4127,7 +4127,7 @@
     ]
   },
   {
-    "index": 229,
+    "item": 230,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Teaching"],
@@ -4152,7 +4152,7 @@
     ]
   },
   {
-    "index": 230,
+    "item": 231,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Steadfastness"],
@@ -4189,7 +4189,7 @@
     ]
   },
   {
-    "index": 231,
+    "item": 232,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1192,
@@ -4209,7 +4209,7 @@
     ]
   },
   {
-    "index": 232,
+    "item": 233,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1193,
@@ -4233,7 +4233,7 @@
     ]
   },
   {
-    "index": 233,
+    "item": 234,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Women"],
@@ -4258,7 +4258,7 @@
     ]
   },
   {
-    "index": 234,
+    "item": 235,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Firmness in the Covenant"],
@@ -4283,7 +4283,7 @@
     ]
   },
   {
-    "index": 235,
+    "item": 236,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Steadfastness"],
@@ -4300,7 +4300,7 @@
     ]
   },
   {
-    "index": 236,
+    "item": 237,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Gatherings"],
@@ -4325,7 +4325,7 @@
     ]
   },
   {
-    "index": 237,
+    "item": 238,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1210,
@@ -4345,7 +4345,7 @@
     ]
   },
   {
-    "index": 238,
+    "item": 239,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Teaching"],
@@ -4370,7 +4370,7 @@
     ]
   },
   {
-    "index": 239,
+    "item": 240,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Fast"],
@@ -4387,7 +4387,7 @@
     ]
   },
   {
-    "index": 240,
+    "item": 241,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Departed"],
@@ -4408,7 +4408,7 @@
     ]
   },
   {
-    "index": 241,
+    "item": 242,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1223,
@@ -4428,7 +4428,7 @@
     ]
   },
   {
-    "index": 242,
+    "item": 243,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1227,
@@ -4440,7 +4440,7 @@
     ]
   },
   {
-    "index": 243,
+    "item": 244,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Families"],
@@ -4461,7 +4461,7 @@
     ]
   },
   {
-    "index": 244,
+    "item": 245,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Women"],
@@ -4486,7 +4486,7 @@
     ]
   },
   {
-    "index": 245,
+    "item": 246,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1234,
@@ -4506,7 +4506,7 @@
     ]
   },
   {
-    "index": 246,
+    "item": 247,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Women"],
@@ -4531,7 +4531,7 @@
     ]
   },
   {
-    "index": 247,
+    "item": 248,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Fast"],
@@ -4556,7 +4556,7 @@
     ]
   },
   {
-    "index": 248,
+    "item": 249,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Triumph of the Cause"],
@@ -4581,7 +4581,7 @@
     ]
   },
   {
-    "index": 249,
+    "item": 250,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Humanity"],
@@ -4622,7 +4622,7 @@
     ]
   },
   {
-    "index": 250,
+    "item": 251,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1255,
@@ -4646,7 +4646,7 @@
     ]
   },
   {
-    "index": 251,
+    "item": 252,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1260,
@@ -4666,7 +4666,7 @@
     ]
   },
   {
-    "index": 252,
+    "item": 253,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Tests and Difficulties"],
@@ -4687,7 +4687,7 @@
     ]
   },
   {
-    "index": 253,
+    "item": 254,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1267,
@@ -4707,7 +4707,7 @@
     ]
   },
   {
-    "index": 254,
+    "item": 255,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Tests and Difficulties"],
@@ -4728,7 +4728,7 @@
     ]
   },
   {
-    "index": 255,
+    "item": 256,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Assembly"],
@@ -4745,7 +4745,7 @@
     ]
   },
   {
-    "index": 256,
+    "item": 257,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Tests and Difficulties"],
@@ -4770,7 +4770,7 @@
     ]
   },
   {
-    "index": 257,
+    "item": 258,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Ḥuqúqu’lláh: The Right of God"],
@@ -4791,7 +4791,7 @@
     ]
   },
   {
-    "index": 258,
+    "item": 259,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1313,
@@ -4815,7 +4815,7 @@
     ]
   },
   {
-    "index": 259,
+    "item": 260,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1314,
@@ -4835,7 +4835,7 @@
     ]
   },
   {
-    "index": 260,
+    "item": 261,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1326,
@@ -4847,7 +4847,7 @@
     ]
   },
   {
-    "index": 261,
+    "item": 262,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1330,
@@ -4867,7 +4867,7 @@
     ]
   },
   {
-    "index": 262,
+    "item": 263,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1333,
@@ -4883,7 +4883,7 @@
     ]
   },
   {
-    "index": 263,
+    "item": 264,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1343,
@@ -4903,7 +4903,7 @@
     ]
   },
   {
-    "index": 264,
+    "item": 265,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Firmness in the Covenant"],
@@ -4928,7 +4928,7 @@
     ]
   },
   {
-    "index": 265,
+    "item": 266,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1345,
@@ -4952,7 +4952,7 @@
     ]
   },
   {
-    "index": 266,
+    "item": 267,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Healing"],
@@ -4969,7 +4969,7 @@
     ]
   },
   {
-    "index": 267,
+    "item": 268,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Women"],
@@ -4994,7 +4994,7 @@
     ]
   },
   {
-    "index": 268,
+    "item": 269,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1358,
@@ -5018,7 +5018,7 @@
     ]
   },
   {
-    "index": 269,
+    "item": 270,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Spiritual Growth"],
@@ -5043,7 +5043,7 @@
     ]
   },
   {
-    "index": 270,
+    "item": 271,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1363,
@@ -5067,7 +5067,7 @@
     ]
   },
   {
-    "index": 271,
+    "item": 272,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Tests and Difficulties"],
@@ -5088,7 +5088,7 @@
     ]
   },
   {
-    "index": 272,
+    "item": 273,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Youth"],
@@ -5109,7 +5109,7 @@
     ]
   },
   {
-    "index": 273,
+    "item": 274,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Forgiveness"],
@@ -5130,7 +5130,7 @@
     ]
   },
   {
-    "index": 274,
+    "item": 275,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1372,
@@ -5154,7 +5154,7 @@
     ]
   },
   {
-    "index": 275,
+    "item": 276,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Healing"],
@@ -5175,7 +5175,7 @@
     ]
   },
   {
-    "index": 276,
+    "item": 277,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Healing", "For Women"],
@@ -5200,7 +5200,7 @@
     ]
   },
   {
-    "index": 277,
+    "item": 278,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1395,
@@ -5216,7 +5216,7 @@
     ]
   },
   {
-    "index": 278,
+    "item": 279,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Teaching"],
@@ -5237,7 +5237,7 @@
     ]
   },
   {
-    "index": 279,
+    "item": 280,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Spiritual Growth"],
@@ -5262,7 +5262,7 @@
     ]
   },
   {
-    "index": 280,
+    "item": 281,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1404,
@@ -5290,7 +5290,7 @@
     ]
   },
   {
-    "index": 281,
+    "item": 282,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Teaching"],
@@ -5315,7 +5315,7 @@
     ]
   },
   {
-    "index": 282,
+    "item": 283,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Praise and Gratitude"],
@@ -5332,7 +5332,7 @@
     ]
   },
   {
-    "index": 283,
+    "item": 284,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Spiritual Growth"],
@@ -5357,7 +5357,7 @@
     ]
   },
   {
-    "index": 284,
+    "item": 285,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Women"],
@@ -5386,7 +5386,7 @@
     ]
   },
   {
-    "index": 285,
+    "item": 286,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 1431,
@@ -5402,7 +5402,7 @@
     ]
   },
   {
-    "index": 286,
+    "item": 287,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1432,
@@ -5426,7 +5426,7 @@
     ]
   },
   {
-    "index": 287,
+    "item": 288,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Detachment"],
@@ -5451,7 +5451,7 @@
     ]
   },
   {
-    "index": 288,
+    "item": 289,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1443,
@@ -5483,7 +5483,7 @@
     ]
   },
   {
-    "index": 289,
+    "item": 290,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1450,
@@ -5503,7 +5503,7 @@
     ]
   },
   {
-    "index": 290,
+    "item": 291,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Youth"],
@@ -5528,7 +5528,7 @@
     ]
   },
   {
-    "index": 291,
+    "item": 292,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1471,
@@ -5548,7 +5548,7 @@
     ]
   },
   {
-    "index": 292,
+    "item": 293,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Morning"],
@@ -5577,7 +5577,7 @@
     ]
   },
   {
-    "index": 293,
+    "item": 294,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -5610,7 +5610,7 @@
     ]
   },
   {
-    "index": 294,
+    "item": 295,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Teaching"],
@@ -5635,7 +5635,7 @@
     ]
   },
   {
-    "index": 295,
+    "item": 296,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Protection"],
@@ -5664,7 +5664,7 @@
     ]
   },
   {
-    "index": 296,
+    "item": 297,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Growth"],
@@ -5689,7 +5689,7 @@
     ]
   },
   {
-    "index": 297,
+    "item": 298,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1513,
@@ -5713,7 +5713,7 @@
     ]
   },
   {
-    "index": 298,
+    "item": 299,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Protection"],
@@ -5734,7 +5734,7 @@
     ]
   },
   {
-    "index": 299,
+    "item": 300,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Steadfastness"],
@@ -5755,7 +5755,7 @@
     ]
   },
   {
-    "index": 300,
+    "item": 301,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Morning"],
@@ -5780,7 +5780,7 @@
     ]
   },
   {
-    "index": 301,
+    "item": 302,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1528,
@@ -5796,7 +5796,7 @@
     ]
   },
   {
-    "index": 302,
+    "item": 303,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -5833,7 +5833,7 @@
     ]
   },
   {
-    "index": 303,
+    "item": 304,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1534,
@@ -5857,7 +5857,7 @@
     ]
   },
   {
-    "index": 304,
+    "item": 305,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1555,
@@ -5881,7 +5881,7 @@
     ]
   },
   {
-    "index": 305,
+    "item": 306,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1573,
@@ -5909,7 +5909,7 @@
     ]
   },
   {
-    "index": 306,
+    "item": 307,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Tablets of Visitation"],
@@ -5950,7 +5950,7 @@
     ]
   },
   {
-    "index": 307,
+    "item": 308,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Aid and Assistance"],
@@ -5975,7 +5975,7 @@
     ]
   },
   {
-    "index": 308,
+    "item": 309,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Steadfastness"],
@@ -5992,7 +5992,7 @@
     ]
   },
   {
-    "index": 309,
+    "item": 310,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Healing", "For Infants"],
@@ -6009,7 +6009,7 @@
     ]
   },
   {
-    "index": 310,
+    "item": 311,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1601,
@@ -6033,7 +6033,7 @@
     ]
   },
   {
-    "index": 311,
+    "item": 312,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Spiritual Growth"],
@@ -6050,7 +6050,7 @@
     ]
   },
   {
-    "index": 312,
+    "item": 313,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1608,
@@ -6074,7 +6074,7 @@
     ]
   },
   {
-    "index": 313,
+    "item": 314,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 1610,
@@ -6094,7 +6094,7 @@
     ]
   },
   {
-    "index": 314,
+    "item": 315,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1612,
@@ -6118,7 +6118,7 @@
     ]
   },
   {
-    "index": 315,
+    "item": 316,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Forgiveness"],
@@ -6147,7 +6147,7 @@
     ]
   },
   {
-    "index": 316,
+    "item": 317,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1637,
@@ -6167,7 +6167,7 @@
     ]
   },
   {
-    "index": 317,
+    "item": 318,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Triumph of the Cause"],
@@ -6192,7 +6192,7 @@
     ]
   },
   {
-    "index": 318,
+    "item": 319,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["The Departed", "For Women"],
@@ -6213,7 +6213,7 @@
     ]
   },
   {
-    "index": 319,
+    "item": 320,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1662,
@@ -6233,7 +6233,7 @@
     ]
   },
   {
-    "index": 320,
+    "item": 321,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 1674,
@@ -6253,7 +6253,7 @@
     ]
   },
   {
-    "index": 321,
+    "item": 322,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1680,
@@ -6277,7 +6277,7 @@
     ]
   },
   {
-    "index": 322,
+    "item": 323,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1681,
@@ -6297,7 +6297,7 @@
     ]
   },
   {
-    "index": 323,
+    "item": 324,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1682,
@@ -6325,7 +6325,7 @@
     ]
   },
   {
-    "index": 324,
+    "item": 325,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1684,
@@ -6349,7 +6349,7 @@
     ]
   },
   {
-    "index": 325,
+    "item": 326,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1686,
@@ -6369,7 +6369,7 @@
     ]
   },
   {
-    "index": 326,
+    "item": 327,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Detachment"],
@@ -6398,7 +6398,7 @@
     ]
   },
   {
-    "index": 327,
+    "item": 328,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Nearness to God"],
@@ -6419,7 +6419,7 @@
     ]
   },
   {
-    "index": 328,
+    "item": 329,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Gatherings"],
@@ -6448,7 +6448,7 @@
     ]
   },
   {
-    "index": 329,
+    "item": 330,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Triumph of the Cause"],
@@ -6477,7 +6477,7 @@
     ]
   },
   {
-    "index": 330,
+    "item": 331,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Praise and Gratitude"],
@@ -6506,7 +6506,7 @@
     ]
   },
   {
-    "index": 331,
+    "item": 332,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1744,
@@ -6530,7 +6530,7 @@
     ]
   },
   {
-    "index": 332,
+    "item": 333,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Intercalary Days"],
@@ -6559,7 +6559,7 @@
     ]
   },
   {
-    "index": 333,
+    "item": 334,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1748,
@@ -6587,7 +6587,7 @@
     ]
   },
   {
-    "index": 334,
+    "item": 335,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1764,
@@ -6611,7 +6611,7 @@
     ]
   },
   {
-    "index": 335,
+    "item": 336,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1793,
@@ -6627,7 +6627,7 @@
     ]
   },
   {
-    "index": 336,
+    "item": 337,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Nearness to God"],
@@ -6680,7 +6680,7 @@
     ]
   },
   {
-    "index": 337,
+    "item": 338,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1823,
@@ -6696,7 +6696,7 @@
     ]
   },
   {
-    "index": 338,
+    "item": 339,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1830,
@@ -6720,7 +6720,7 @@
     ]
   },
   {
-    "index": 339,
+    "item": 340,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1833,
@@ -6748,7 +6748,7 @@
     ]
   },
   {
-    "index": 340,
+    "item": 341,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Nearness to God"],
@@ -6761,7 +6761,7 @@
     ]
   },
   {
-    "index": 341,
+    "item": 342,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1856,
@@ -6785,7 +6785,7 @@
     ]
   },
   {
-    "index": 342,
+    "item": 343,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Obligatory Prayers"],
@@ -6851,7 +6851,7 @@
     ]
   },
   {
-    "index": 343,
+    "item": 344,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1867,
@@ -6875,7 +6875,7 @@
     ]
   },
   {
-    "index": 344,
+    "item": 345,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 1953,
@@ -6899,7 +6899,7 @@
     ]
   },
   {
-    "index": 345,
+    "item": 346,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1964,
@@ -6923,7 +6923,7 @@
     ]
   },
   {
-    "index": 346,
+    "item": 347,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1967,
@@ -6947,7 +6947,7 @@
     ]
   },
   {
-    "index": 347,
+    "item": 348,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 1968,
@@ -6971,7 +6971,7 @@
     ]
   },
   {
-    "index": 348,
+    "item": 349,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 1991,
@@ -6991,7 +6991,7 @@
     ]
   },
   {
-    "index": 349,
+    "item": 350,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2018,
@@ -7019,7 +7019,7 @@
     ]
   },
   {
-    "index": 350,
+    "item": 351,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 2051,
@@ -7047,7 +7047,7 @@
     ]
   },
   {
-    "index": 351,
+    "item": 352,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2067,
@@ -7079,7 +7079,7 @@
     ]
   },
   {
-    "index": 352,
+    "item": 353,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2077,
@@ -7107,7 +7107,7 @@
     ]
   },
   {
-    "index": 353,
+    "item": 354,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2082,
@@ -7131,7 +7131,7 @@
     ]
   },
   {
-    "index": 354,
+    "item": 355,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2116,
@@ -7155,7 +7155,7 @@
     ]
   },
   {
-    "index": 355,
+    "item": 356,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Spiritual Growth"],
@@ -7180,7 +7180,7 @@
     ]
   },
   {
-    "index": 356,
+    "item": 357,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 2117,
@@ -7212,7 +7212,7 @@
     ]
   },
   {
-    "index": 357,
+    "item": 358,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Protection"],
@@ -7237,7 +7237,7 @@
     ]
   },
   {
-    "index": 358,
+    "item": 359,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2163,
@@ -7297,7 +7297,7 @@
     ]
   },
   {
-    "index": 359,
+    "item": 360,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2196,
@@ -7329,7 +7329,7 @@
     ]
   },
   {
-    "index": 360,
+    "item": 361,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 2232,
@@ -7345,7 +7345,7 @@
     ]
   },
   {
-    "index": 361,
+    "item": 362,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2302,
@@ -7377,7 +7377,7 @@
     ]
   },
   {
-    "index": 362,
+    "item": 363,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Spiritual Growth"],
@@ -7410,7 +7410,7 @@
     ]
   },
   {
-    "index": 363,
+    "item": 364,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2427,
@@ -7438,7 +7438,7 @@
     ]
   },
   {
-    "index": 364,
+    "item": 365,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2534,
@@ -7458,7 +7458,7 @@
     ]
   },
   {
-    "index": 365,
+    "item": 366,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2561,
@@ -7482,7 +7482,7 @@
     ]
   },
   {
-    "index": 366,
+    "item": 367,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2595,
@@ -7506,7 +7506,7 @@
     ]
   },
   {
-    "index": 367,
+    "item": 368,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2657,
@@ -7534,7 +7534,7 @@
     ]
   },
   {
-    "index": 368,
+    "item": 369,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2666,
@@ -7554,7 +7554,7 @@
     ]
   },
   {
-    "index": 369,
+    "item": 370,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2697,
@@ -7586,7 +7586,7 @@
     ]
   },
   {
-    "index": 370,
+    "item": 371,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2716,
@@ -7626,7 +7626,7 @@
     ]
   },
   {
-    "index": 371,
+    "item": 372,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Triumph of the Cause"],
@@ -7667,7 +7667,7 @@
     ]
   },
   {
-    "index": 372,
+    "item": 373,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Departed"],
@@ -7720,7 +7720,40 @@
     ]
   },
   {
-    "index": 373,
+    "item": 374,
+    "years": [1852, 1892],
+    "author": "Bahá’u’lláh",
+    "path": ["Naw‑Rúz"],
+    "length": 2756,
+    "paragraphs": [
+      {
+        "type": "info",
+        "text": "(Naw‑Rúz, March 21, is the first day of the Bahá’í year.)"
+      },
+      {
+        "index": 1,
+        "text": "Praised be Thou, O my God, that Thou hast ordained Naw‑Rúz as a festival unto those who have observed the Fast for love of Thee and abstained from all that is abhorrent unto Thee. Grant, O my Lord, that the fire of Thy love and the heat produced by the Fast enjoined by Thee may inflame them in Thy Cause, and make them to be occupied with Thy praise and with remembrance of Thee."
+      },
+      {
+        "index": 2,
+        "text": "Since Thou hast adorned them, O my Lord, with the ornament of the Fast prescribed by Thee, do Thou adorn them also with the ornament of Thine acceptance, through Thy grace and bountiful favour. For the doings of men are all dependent upon Thy good pleasure, and are conditioned by Thy behest. Shouldst Thou regard him who hath broken the Fast as one who hath observed it, such a man would be reckoned among them who from eternity had been keeping the Fast. And shouldst Thou decree that he who hath observed the Fast hath broken it, that person would be numbered with such as have caused the Robe of Thy Revelation to be stained with dust, and been far removed from the crystal waters of this living Fountain."
+      },
+      {
+        "index": 3,
+        "text": "Thou art He through Whom the ensign “Praiseworthy art Thou in Thy works” hath been lifted up, and the standard “Obeyed art Thou in Thy behest” hath been unfurled. Make known this Thy station, O my God, unto Thy servants, that they may be made aware that the excellence of all things is dependent upon Thy bidding and Thy word, and the virtue of every act is conditioned by Thy leave and the good pleasure of Thy will, and may recognise that the reins of men’s doings are within the grasp of Thine acceptance and Thy commandment. Make this known unto them, that nothing whatsoever may shut them out from Thy Beauty, in these days whereon the Christ exclaimeth: “All dominion is Thine, O Thou the Begetter of the Spirit (Jesus)”; and Thy Friend (Muḥammad) crieth out: “Glory be to Thee, O Thou the Best‑Beloved, for that Thou hast uncovered Thy Beauty, and written down for Thy chosen ones what will cause them to attain unto the seat of the revelation of Thy Most Great Name, through which all the peoples have lamented except such as have detached themselves from all else except Thee, and set themselves towards Him Who is the Revealer of Thyself and the Manifestation of Thine attributes.”"
+      },
+      {
+        "index": 4,
+        "text": "He Who is Thy Branch and all Thy company, O my Lord, have broken this day their fast, after having observed it within the precincts of Thy court, and in their eagerness to please Thee. Do Thou ordain for Him, and for them, and for all such as have entered Thy presence in those days all the good Thou didst destine in Thy Book. Supply them, then, with that which will profit them, in both this life and in the life beyond."
+      },
+      {
+        "index": 5,
+        "text": "Thou, in truth, art the All‑Knowing, the All‑Wise."
+      }
+    ]
+  },
+  {
+    "item": 375,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2774,
@@ -7748,7 +7781,7 @@
     ]
   },
   {
-    "index": 374,
+    "item": 376,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2793,
@@ -7776,40 +7809,7 @@
     ]
   },
   {
-    "index": 375,
-    "years": [1852, 1892],
-    "author": "Bahá’u’lláh",
-    "path": ["Naw‑Rúz"],
-    "length": 2814,
-    "paragraphs": [
-      {
-        "index": 1,
-        "text": "(Naw‑Rúz, March 21, is the first day of the Bahá’í year.)"
-      },
-      {
-        "index": 2,
-        "text": "Praised be Thou, O my God, that Thou hast ordained Naw‑Rúz as a festival unto those who have observed the Fast for love of Thee and abstained from all that is abhorrent unto Thee. Grant, O my Lord, that the fire of Thy love and the heat produced by the Fast enjoined by Thee may inflame them in Thy Cause, and make them to be occupied with Thy praise and with remembrance of Thee."
-      },
-      {
-        "index": 3,
-        "text": "Since Thou hast adorned them, O my Lord, with the ornament of the Fast prescribed by Thee, do Thou adorn them also with the ornament of Thine acceptance, through Thy grace and bountiful favour. For the doings of men are all dependent upon Thy good pleasure, and are conditioned by Thy behest. Shouldst Thou regard him who hath broken the Fast as one who hath observed it, such a man would be reckoned among them who from eternity had been keeping the Fast. And shouldst Thou decree that he who hath observed the Fast hath broken it, that person would be numbered with such as have caused the Robe of Thy Revelation to be stained with dust, and been far removed from the crystal waters of this living Fountain."
-      },
-      {
-        "index": 4,
-        "text": "Thou art He through Whom the ensign “Praiseworthy art Thou in Thy works” hath been lifted up, and the standard “Obeyed art Thou in Thy behest” hath been unfurled. Make known this Thy station, O my God, unto Thy servants, that they may be made aware that the excellence of all things is dependent upon Thy bidding and Thy word, and the virtue of every act is conditioned by Thy leave and the good pleasure of Thy will, and may recognise that the reins of men’s doings are within the grasp of Thine acceptance and Thy commandment. Make this known unto them, that nothing whatsoever may shut them out from Thy Beauty, in these days whereon the Christ exclaimeth: “All dominion is Thine, O Thou the Begetter of the Spirit (Jesus)”; and Thy Friend (Muḥammad) crieth out: “Glory be to Thee, O Thou the Best‑Beloved, for that Thou hast uncovered Thy Beauty, and written down for Thy chosen ones what will cause them to attain unto the seat of the revelation of Thy Most Great Name, through which all the peoples have lamented except such as have detached themselves from all else except Thee, and set themselves towards Him Who is the Revealer of Thyself and the Manifestation of Thine attributes.”"
-      },
-      {
-        "index": 5,
-        "text": "He Who is Thy Branch and all Thy company, O my Lord, have broken this day their fast, after having observed it within the precincts of Thy court, and in their eagerness to please Thee. Do Thou ordain for Him, and for them, and for all such as have entered Thy presence in those days all the good Thou didst destine in Thy Book. Supply them, then, with that which will profit them, in both this life and in the life beyond."
-      },
-      {
-        "index": 6,
-        "text": "Thou, in truth, art the All‑Knowing, the All‑Wise."
-      }
-    ]
-  },
-  {
-    "index": 376,
+    "item": 377,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Protection"],
@@ -7850,7 +7850,7 @@
     ]
   },
   {
-    "index": 377,
+    "item": 378,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2869,
@@ -7874,7 +7874,7 @@
     ]
   },
   {
-    "index": 378,
+    "item": 379,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2876,
@@ -7898,7 +7898,7 @@
     ]
   },
   {
-    "index": 379,
+    "item": 380,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 2920,
@@ -7930,7 +7930,7 @@
     ]
   },
   {
-    "index": 380,
+    "item": 381,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Martyrs and Their Families"],
@@ -7971,7 +7971,7 @@
     ]
   },
   {
-    "index": 381,
+    "item": 382,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": [
@@ -8032,7 +8032,7 @@
     ]
   },
   {
-    "index": 382,
+    "item": 383,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 3018,
@@ -8064,7 +8064,7 @@
     ]
   },
   {
-    "index": 383,
+    "item": 384,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 3045,
@@ -8100,7 +8100,7 @@
     ]
   },
   {
-    "index": 384,
+    "item": 385,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Service"],
@@ -8141,7 +8141,7 @@
     ]
   },
   {
-    "index": 385,
+    "item": 386,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 3165,
@@ -8169,7 +8169,7 @@
     ]
   },
   {
-    "index": 386,
+    "item": 387,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 3170,
@@ -8193,7 +8193,7 @@
     ]
   },
   {
-    "index": 387,
+    "item": 388,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 3199,
@@ -8213,7 +8213,7 @@
     ]
   },
   {
-    "index": 388,
+    "item": 389,
     "years": [1844, 1850],
     "author": "The Báb",
     "path": ["Praise and Gratitude"],
@@ -8246,7 +8246,7 @@
     ]
   },
   {
-    "index": 389,
+    "item": 390,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 3459,
@@ -8278,7 +8278,7 @@
     ]
   },
   {
-    "index": 390,
+    "item": 391,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 3506,
@@ -8302,7 +8302,7 @@
     ]
   },
   {
-    "index": 391,
+    "item": 392,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 3510,
@@ -8334,7 +8334,7 @@
     ]
   },
   {
-    "index": 392,
+    "item": 393,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 3640,
@@ -8370,7 +8370,7 @@
     ]
   },
   {
-    "index": 393,
+    "item": 394,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 3672,
@@ -8410,7 +8410,7 @@
     ]
   },
   {
-    "index": 394,
+    "item": 395,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 3678,
@@ -8450,7 +8450,7 @@
     ]
   },
   {
-    "index": 395,
+    "item": 396,
     "years": [1875, 1921],
     "author": "‘Abdu’l‑Bahá",
     "length": 3801,
@@ -8486,7 +8486,7 @@
     ]
   },
   {
-    "index": 396,
+    "item": 397,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Tablets of Visitation"],
@@ -8527,7 +8527,7 @@
     ]
   },
   {
-    "index": 397,
+    "item": 398,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 4094,
@@ -8555,7 +8555,7 @@
     ]
   },
   {
-    "index": 398,
+    "item": 399,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 4294,
@@ -8595,7 +8595,7 @@
     ]
   },
   {
-    "index": 399,
+    "item": 400,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 4349,
@@ -8639,7 +8639,7 @@
     ]
   },
   {
-    "index": 400,
+    "item": 401,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 4445,
@@ -8683,7 +8683,7 @@
     ]
   },
   {
-    "index": 401,
+    "item": 402,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 4592,
@@ -8715,7 +8715,7 @@
     ]
   },
   {
-    "index": 402,
+    "item": 403,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 4661,
@@ -8759,7 +8759,7 @@
     ]
   },
   {
-    "index": 403,
+    "item": 404,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 4709,
@@ -8803,7 +8803,7 @@
     ]
   },
   {
-    "index": 404,
+    "item": 405,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 4887,
@@ -8855,7 +8855,7 @@
     ]
   },
   {
-    "index": 405,
+    "item": 406,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 5108,
@@ -8899,7 +8899,7 @@
     ]
   },
   {
-    "index": 406,
+    "item": 407,
     "years": [1844, 1850],
     "author": "The Báb",
     "length": 5129,
@@ -8955,7 +8955,7 @@
     ]
   },
   {
-    "index": 407,
+    "item": 408,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 5182,
@@ -8999,7 +8999,7 @@
     ]
   },
   {
-    "index": 408,
+    "item": 409,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Fast"],
@@ -9044,7 +9044,7 @@
     ]
   },
   {
-    "index": 409,
+    "item": 410,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 6579,
@@ -9096,7 +9096,7 @@
     ]
   },
   {
-    "index": 410,
+    "item": 411,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Obligatory Prayers"],
@@ -9226,7 +9226,7 @@
     ]
   },
   {
-    "index": 411,
+    "item": 412,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Healing"],
@@ -9424,7 +9424,7 @@
     ]
   },
   {
-    "index": 412,
+    "item": 413,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Fast"],
@@ -9489,7 +9489,7 @@
     ]
   },
   {
-    "index": 413,
+    "item": 414,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 8963,
@@ -9553,7 +9553,7 @@
     ]
   },
   {
-    "index": 414,
+    "item": 415,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 9936,
@@ -9613,7 +9613,7 @@
     ]
   },
   {
-    "index": 415,
+    "item": 416,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 10619,
@@ -9669,7 +9669,7 @@
     ]
   },
   {
-    "index": 416,
+    "item": 417,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["The Fast"],
@@ -9730,7 +9730,7 @@
     ]
   },
   {
-    "index": 417,
+    "item": 418,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 13192,
@@ -9806,7 +9806,7 @@
     ]
   },
   {
-    "index": 418,
+    "item": 419,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 23054,
@@ -9902,7 +9902,7 @@
     ]
   },
   {
-    "index": 419,
+    "item": 420,
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "length": 30757,

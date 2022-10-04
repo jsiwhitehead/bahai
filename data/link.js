@@ -41,7 +41,7 @@ const getMappedIndices = (s) => {
 
   const quotes = {};
   for (const doc of documents) {
-    if (!["bible", "quran"].some((s) => doc.id.includes(s))) {
+    if (!["prayers", "bible", "quran"].some((s) => doc.id.includes(s))) {
       doc.paragraphs = doc.paragraphs.map((paragraph, i) => {
         const { simplified, parts } = paragraph;
         const source =

@@ -1730,7 +1730,7 @@ export const files = {
       prefix(/^Whenever ye enter the council‑chamber/m, "* "),
       prefix(/^The following supplication is to be read/m, "* "),
       prefix(/^Let whosoever travels to different/m, "* "),
-      // prefix(/^\(Naw‑Rúz, March 21, is the first/m, "* "),
+      prefix(/^\(Naw‑Rúz, March 21, is the first/m, "* "),
       prefix(/^\(The Intercalary Days, February 26/m, "* "),
       prefix(/^“Study the Tablet of the Holy Mariner/m, "* "),
       prefix(/^\(This Tablet is read at the Shrines/m, "* "),
