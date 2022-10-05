@@ -129,7 +129,8 @@ const process = (source) => {
       allPrayers.push(
         ...docs
           .filter((d) => d.type === "Prayer")
-          .map(({ path, title, author, paragraphs }) => ({
+          .map(({ type, path, title, author, paragraphs }) => ({
+            type,
             years: authorYears[author],
             author,
             path: [path[0]],

@@ -19,6 +19,7 @@ import { readText, writeText } from "./utils.js";
               (res, [a, b]) => res.replace(a, b),
               await readText("spellings", id)
             )
+            .replace(/^>\s*$/gm, "")
             .replace(/(#\n+)+#/g, "#")
             .replace(/(\s*\n){2,}/g, "\n\n")
             .replace(/#\n\n$/, "")

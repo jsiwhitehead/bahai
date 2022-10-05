@@ -50,7 +50,8 @@ const getMappedIndices = (s) => {
             (d) =>
               d.id !== doc.id &&
               (d.author !== doc.author ||
-                doc.author === "The Universal House of Justice") &&
+                doc.author === "The Universal House of Justice" ||
+                d.type === "Prayer") &&
               d.years[0] <= doc.years[1] &&
               simplified.every((s) =>
                 d.paragraphs.some((p) =>

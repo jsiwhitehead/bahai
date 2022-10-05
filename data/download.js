@@ -72,7 +72,11 @@ const getText = (root) => {
               ].includes(author)
                 ? "other-literature"
                 : "authoritative-texts"
-            }/${author}/${file}/${file}.xhtml`
+            }/${author}/${file}/${
+              file === "additional-tablets-extracts-talks"
+                ? `${file}-abdul-baha`
+                : file
+            }.xhtml`
           );
           await writeText(
             "download",

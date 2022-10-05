@@ -39,17 +39,24 @@ const removeAfter = (s) => [new RegExp(`^${escapeRegex(s)}[\\s\\S]+`, "m"), ""];
 const splitLines = (line, ...indices) => [
   line,
   (s) => {
+    const alternate =
+      indices[indices.length - 1] === true ? indices.pop() : false;
     const allIndices = [
       0,
       ...indices.map((x) => (typeof x === "string" ? s.indexOf(x) : x)),
       s.length,
     ];
     return (
-      "\n\n" +
+      "\n" +
       allIndices
         .slice(0, -1)
-        .map((num, i) => `> ${s.slice(num, allIndices[i + 1]).trim()}`)
-        .join("\n")
+        .map(
+          (num, i) =>
+            `${alternate && i % 2 === 0 ? "\n\n" : "\n"}> ${s
+              .slice(num, allIndices[i + 1])
+              .trim()}`
+        )
+        .join("")
     );
   },
 ];
@@ -935,6 +942,134 @@ export const files = {
     ],
   },
   "abdul-baha": {
+    "additional-tablets-extracts-talks": [
+      removeAfter("This document has been downloaded"),
+      title("", "Additional Tablets, Extracts and Talks", {
+        author: "‘Abdu’l‑Bahá",
+        years: authorYears["‘Abdu’l‑Bahá"],
+        collection: true,
+      }),
+      [/^Sa‘dí\.$/m, ""],
+      [/^Robert Turner\.$/m, ""],
+      [/^Kitáb‑i‑Aqdas, paragraph 129\.$/m, ""],
+      [/^Arabic proverb\.$/m, ""],
+      [/^See Qur’án 52:4\.$/m, ""],
+      [/^See Qur’án 24:35\.$/m, ""],
+      [/^Qur’án 39:69\.$/m, ""],
+      [/^A reference to the Fourteen Points.*/m, ""],
+      [/^Cf\. Qur’án 28:30\.$/m, ""],
+      [/^Qur’án 59:2\.$/m, ""],
+      [/^Qur’án 23:14\.$/m, ""],
+      [/^Reference to a verse in the Lawḥ‑i‑Ṭibb.*/m, ""],
+      [/^Ḥáfiẓ\.$/m, ""],
+      [/^Cf\. Qur’án 2:256\.$/m, ""],
+      [/^‘Alí‑Aṣghar Khán, the Amínu’s‑Sulṭán\.$/m, ""],
+      [/^Following the assassination of Náṣiri’d‑Dín Sháh.*/m, ""],
+      [/^Muẓaffari’d‑Dín Sháh\.$/m, ""],
+      [/^The Birthday of Bahá’u’lláh\.$/m, ""],
+      [/^Isabella Grinevskaya\.$/m, ""],
+      [/^Cf\. Qur’án 2:201\.$/m, ""],
+      [/^In the Bahá’í Writings, “sharing”.*/m, ""],
+      [/^The wife of Mírzá ‘Alí‑Akbar‑i‑Nakhjavání\.$/m, ""],
+      [/^The opening Súrih of the Qur’án; in other.*/m, ""],
+      [/^Dr\. Ḍíyá’u’lláh Baghdádí\.$/m, ""],
+      [/^Dr\. Ḍíyá’u’lláh Baghdádí’s wife, Zínat Khánum.*/m, ""],
+      [/^The wife of Mírzá ‘Alí‑Akbar‑i‑Nakhjavání, and.*/m, ""],
+      [/^See Qur’án, súrih 55\.$/m, ""],
+      [/^31 July 1921\.$/m, ""],
+      [/^See Qur’án 50:1\.$/m, ""],
+      [/^A mythical flying creature of Persian legend.*/m, ""],
+      [/^Jalálu’d‑Dín Rúmí\.$/m, ""],
+      [/^See Qur’án, 25:38 and 50:12\.$/m, ""],
+      [/^Áqá Músá Naqíuv\.$/m, ""],
+      [/^In allusion to Qur’án 54:55\.$/m, ""],
+      [/^Sargis Mubagajian \(“Atrpet”\)\.$/m, ""],
+      [/^Sargis Mubagajian\.$/m, ""],
+      [/^Presumably Shaykh ‘Alí‑Akbar‑i‑Qúchání\.$/m, ""],
+      [/^Probably Isabella Grinevskaya\.$/m, ""],
+      [/^The quotation alludes to a famous ode of Ḥáfiẓ\.$/m, ""],
+      [/^Olga Sergeyevna Lebedeva\.$/m, ""],
+      [/^Karbilá’í Áqá Kishíy‑i‑‘Alíuv\.$/m, ""],
+      [/^Ustád Áqá Bálá Karímuv\.$/m, ""],
+      [/^Sargis Mubagajian\.$/m, ""],
+      [/^Presumably Shaykh ‘Alí‑Akbar‑i‑Qúchání\.$/m, ""],
+      [/^Olga Sergeyevna Lebedeva\.$/m, ""],
+      [/^Isabella Grinevskaya\.$/m, ""],
+      [/^Professor E\. G\. Browne\.$/m, ""],
+      [/^The Caucasus, identified with the fabled Mount Qáf.*/m, ""],
+      [/^Ganja, Ádhirbáyján’s second largest city\.$/m, ""],
+      [/^The intention is perhaps the city of Shusha\.$/m, ""],
+      [/^Referring perhaps to one of the Ahmadov brothers.*/m, ""],
+      [/^The daughter of Bahá’u’lláh’s third wife Gawhar Khánum\.$/m, ""],
+      [/^The daughter of Bahá’u’lláh’s second wife Mahd‑i‑‘Ulyá\.$/m, ""],
+      [/^Navváb\.$/m, ""],
+      [/^A Traveller’s Narrative Written to Illustrate the.*/m, ""],
+      [/^Epistle to the Son of the Wolf\.$/m, ""],
+      [/^Presumably, Shaykh ‘Alí‑Akbar‑i‑Qúchání\.$/m, ""],
+      [/^Probably Hujaj’ul Beheyyeh \(The Behai Proofs\).*/m, ""],
+      [/^Hippolyte Dreyfus‑Barney\.$/m, ""],
+      [/^Probably Isabella Grinevskaya\.$/m, ""],
+      [/^A Tablet of ‘Abdu’l‑Bahá known as the Lawḥ‑i‑Sharq.*/m, ""],
+      [/^Áqá Mírzá Muḥsin Afnán\.$/m, ""],
+      [/^A piece of land in Haifa which was bought in the.*/m, ""],
+      [/^The one intended may be the martyr Shaykh.*/m, ""],
+      [/^Probably Sargis Mubagajian\.$/m, ""],
+      [/^Projected for Bákú\. Áqá Músá Naqíuv had.*/m, ""],
+      [/^“Mahallu’l‑Barakih” \(literally “The.*/m, ""],
+      [/^The term “service council” \(majlis‑i‑khidmat\).*/m, ""],
+      [/^Presumably Mírzá ‘Abdu’l‑Kháliq‑i‑Ya‘qúbzádih\.$/m, ""],
+      [/^Arabic maxim\.$/m, ""],
+      [/^The English equivalent of this name written in Persian.*/m, ""],
+      [/^Probably the Eleventh Annual Convention of the Bahá’í.*/m, ""],
+      [/^The English equivalent of this name written in Persian.*/m, ""],
+      [/^The Book of Deuteronomy, the last chapter of which.*/m, ""],
+      [/^Qur’án 17:15$/m, ""],
+      [/^Bahá’u’lláh\.$/m, ""],
+      [/^The Báb\.$/m, ""],
+      [/^A Tablet of ‘Abdu’l‑Bahá chanted by Him, the recording.*/m, ""],
+      [/^Marzieh Gail’s translation, published in Memorials.*/m, ""],
+      [/^.*of ‘Abdu’l‑Bahá$/gm, (a) => `# ${a}`],
+      [
+        /^Phoenix of Truth! For thee[\s\S]*Mount Qáf thou’rt returned!$/gm,
+        (s) =>
+          s
+            .split("\n\n")
+            .map((a) => `> ${a}`)
+            .join("\n"),
+      ],
+      [
+        /^O zephyr, shouldst thou pass[\s\S]*valley and make fragrant thy breath\.$/gm,
+        (s) =>
+          s
+            .split("\n\n")
+            .map((a) => `> ${a}`)
+            .join("\n"),
+      ],
+      [
+        /^General running expenses of the[\s\S]*provide needed support of the poor\.$/gm,
+        (s) =>
+          s
+            .split("\n\n")
+            .map((a) => `> ${a}`)
+            .join("\n"),
+      ],
+      [
+        /^Praise be to God! His signs[\s\S]*God is filled with exultation and joy\.$/gm,
+        (s) =>
+          s
+            .split("\n\n")
+            .map((a) => `> ${a}`)
+            .join("\n"),
+      ],
+      [
+        /^I am lost, O Love, possessed[\s\S]*fool am I, in all the earth\.$/gm,
+        (s) =>
+          s
+            .split("\n\n")
+            .map((a) => `> ${a}`)
+            .join("\n"),
+      ],
+    ],
     "light-of-the-world": [
       [
         "Light of the World: Selected Tablets of ‘Abdu’l‑Bahá",
@@ -952,6 +1087,43 @@ export const files = {
       }),
       [/^1$/m, "# Light of the World\ncollection\n\n#"],
       [/^\d+$/gm, "#"],
+      prefix("And yet these deniers, even as the bats", "\n\n"),
+      splitLines(
+        /Shed splendours on the Orient.*/m,
+        "And perfumes scatter",
+        "Carry light unto",
+        "And the Turk with"
+      ),
+      splitLines(/Granted that this morn be.*/m, "Are seeing eyes also"),
+      splitLines(
+        /That beam of bliss and ecstasy.*/m,
+        "Did stay with him",
+        "Even as Aḥmad, the",
+        "Who is always with"
+      ),
+      prefix("At that instant, ‘Abdu’l‑Bahá understood what", "\n\n"),
+      splitLines(/Either speak no more of love.*/m, "Thus hath it been"),
+      ["His grace? The Glory", "His grace?\n\nThe Glory"],
+      splitLines(/Before the Friend how can I.*/m, "Abashed that I did"),
+      splitLines(/The duty of long years of love.*/m, "And tell the tale"),
+      splitLines(
+        /O lifeless one, bereft of heart and soul.*/m,
+        "Come to life, come",
+        "O slumbering one",
+        "Awake, do thou",
+        "O drunken one, so",
+        "Clear thy mind",
+        "The world is filled",
+        "From life and self",
+        "Now is the time",
+        "Lead thou the lovers",
+        "The sweetly singing",
+        "Commit His secrets",
+        true
+      ),
+      splitLines(/To speak of the subtleties of.*/m, "Is like plucking the"),
+      ["early dawn! The Glory", "early dawn!\n\nThe Glory"],
+      splitLines(/Await the break of His sovereign.*/m, "These are but"),
     ],
     "memorials-faithful": [
       ["by ‘Abdu’l‑Bahá", ""],
@@ -1075,6 +1247,38 @@ export const files = {
         "\n# Selections from the Writings of ‘Abdu’l‑Bahá\ncollection",
       ],
       [/^— .* —$/gm, "#"],
+      [
+        /The first is investigation[\s\S]*tenth, economic questions,/gm,
+        (s) => "\n\n" + s.split("The").join("\n> The") + "\n\n",
+      ],
+      [/\nO Breakwell, O my dear one!/g, (a) => `> ${a.slice(1)}\n>`],
+      prefix("> O Breakwell, O my dear one!", "\n"),
+      splitLines(
+        /If I, like Abraham, through flames.*/m,
+        "Or yet like John",
+        "If, Joseph‑like",
+        "Or shut me up within",
+        "Or make me e’en",
+        "I will not go",
+        "But ever stand",
+        "My soul and body"
+      ),
+      splitLines(
+        /Unless ye must, Bruise not the.*/m,
+        "Bruise not the serpent",
+        "How much less wound",
+        "And if ye can",
+        "No ant should ye",
+        "Much less a brother"
+      ),
+      splitLines(
+        /In the Orient scatter perfumes.*/m,
+        "And shed splendours",
+        "Carry light unto",
+        "And the Slav with"
+      ),
+      splitLines(/That soul which hath itself not.*/m, "Can it then hope"),
+      prefix("Whoso reciteth this prayer with lowliness", "* "),
     ],
     "some-answered-questions": [
       removeAfter("Notes"),
@@ -1804,6 +2008,258 @@ export const files = {
       ],
       prefix("\n\nO loved ones of ‘Abdu’l‑Bahá!", '\ntype=""'),
       ["from whatever is obnoxious", "from whatsoever is obnoxious"],
+    ],
+  },
+  "publications-individual-authors": {
+    "bahaullah-new-era": [
+      ["An Introduction to the Bahá’í Faith", ""],
+      ["by John E. Esslemont", ""],
+      [
+        "The National Spiritual Assembly of the Bahá’ís of the United States",
+        "",
+      ],
+      [/^Bahá’í Publishing Committee$/gm, ""],
+      [/^Bahá’í Publishing Trust$/gm, ""],
+      [/^Bahá’í Publishing$/gm, ""],
+      ["J. E. ESSLEMONT", ""],
+      ["Fairford, Cults,", ""],
+      ["By Aberdeen", ""],
+      removeAfter("A Selected Bibliography"),
+      title("", "Bahá’u’lláh and the New Era", {
+        author: "John E. Esslemont",
+        years: [1937, 1937],
+        collection: true,
+      }),
+      title("#", "Foreword", {
+        author:
+          "The National Spiritual Assembly of the Bahá’ís of the United States",
+        years: [2006, 2006],
+      }),
+      title("#", "Preface to 1937 Edition", {
+        author: "Bahá’í Publishing Committee",
+        years: [1937, 1937],
+      }),
+      title("#", "Preface to 1950 Edition", {
+        author: "Bahá’í Publishing Committee",
+        years: [1950, 1950],
+      }),
+      title("#", "Preface to 1970 Edition", {
+        author: "Bahá’í Publishing Trust",
+        years: [1970, 1970],
+      }),
+      title("#", "Preface to 2006 Edition", {
+        author: "Bahá’í Publishing",
+        years: [2006, 2006],
+      }),
+      title("#", "Introduction"),
+      title("#", "Epilogue"),
+      [
+        "\nBahá’u’lláh and the New Era",
+        "\n# Bahá’u’lláh and the New Era\ncollection",
+      ],
+      [/^— .* —$\n\n/gm, "## "],
+      [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
+      ["### Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
+      [
+        /^The months in the Bahá’í[\s\S]*### Spiritual Assemblies$/m,
+        "### Spiritual Assemblies",
+      ],
+    ],
+  },
+  compilations: {
+    "chaste-holy-life": [
+      removeAfter("This document has been downloaded"),
+      title("", "A Chaste and Holy Life", {
+        author: "Compilation",
+        years: [1988, 1988],
+      }),
+    ],
+    "codification-law-huququllah": [
+      removeAfter("This document has been downloaded"),
+      title("", "A Codification of the Law of Ḥuqúqu’lláh", {
+        author: "Compilation",
+        years: [2007, 2007],
+      }),
+    ],
+    "bahai-funds-contributions": [
+      removeAfter("This document has been downloaded"),
+      title("", "Bahá’í Funds and Contributions", {
+        author: "Compilation",
+        years: [1989, 1989],
+      }),
+    ],
+    "bahai-meetings": [
+      removeAfter("This document has been downloaded"),
+      title("", "Bahá’í Meetings", {
+        author: "Compilation",
+        years: [1989, 1989],
+      }),
+    ],
+    consultation: [
+      removeAfter("This document has been downloaded"),
+      ["Consultation: A Compilation", "Consultation"],
+      title("", "Consultation", {
+        author: "Compilation",
+        years: [1990, 1990],
+      }),
+    ],
+    // covenant: [],
+    // "crisis-victory": [],
+    "excellence-all-things": [
+      removeAfter("This document has been downloaded"),
+      title("", "Excellence in All Things", {
+        author: "Compilation",
+        years: [1990, 1990],
+      }),
+    ],
+    "family-life": [
+      removeAfter("This document has been downloaded"),
+      title("", "Family Life", {
+        author: "Compilation",
+        years: [2008, 2008],
+      }),
+    ],
+    "fire-and-light": [
+      removeAfter("This document has been downloaded"),
+      title("", "Fire and Light", {
+        author: "Compilation",
+        years: [1986, 1986],
+      }),
+    ],
+    "give-me-thy-grace-serve-thy-loved-ones": [
+      removeAfter("This document has been downloaded"),
+      ["", "Give Me Thy Grace to Serve Thy Loved Ones\n\n"],
+      title("", "Give Me Thy Grace to Serve Thy Loved Ones", {
+        author: "Compilation",
+        years: [2018, 2018],
+      }),
+    ],
+    "huququllah-right-god": [
+      removeAfter("This document has been downloaded"),
+      title("", "Ḥuqúqu’lláh—The Right of God", {
+        author: "Compilation",
+        years: [2009, 2009],
+      }),
+    ],
+    // "importance-art": [],
+    "importance-obligatory-prayer-fasting": [
+      removeAfter("This document has been downloaded"),
+      title("", "The Importance of Obligatory Prayer and Fasting", {
+        author: "Compilation",
+        years: [2000, 2000],
+      }),
+    ],
+    "importance-prayer-meditation-devotional-attitude": [
+      removeAfter("This document has been downloaded"),
+      title("", "The Importance of Prayer, Meditation", {
+        author: "Compilation",
+        years: [1990, 1990],
+      }),
+    ],
+    "institution-mashriqul-adhkar": [
+      removeAfter("This document has been downloaded"),
+      title("", "The Institution of the Mashriqu’l‑Adhkár", {
+        author: "Compilation",
+        years: [2017, 2017],
+      }),
+    ],
+    "issues-related-study-bahai-faith": [
+      removeAfter("This document has been downloaded"),
+      ["", "Issues Related to the Study of the Bahá’í Faith\n\n"],
+      title("", "Issues Related to the Study of the Bahá’í Faith", {
+        author: "Compilation",
+        years: [1999, 1999],
+      }),
+    ],
+    "local-spiritual-assembly": [
+      removeAfter("This document has been downloaded"),
+      title("", "The Local Spiritual Assembly", {
+        author: "Compilation",
+        years: [2017, 2017],
+      }),
+    ],
+    music: [
+      removeAfter("This document has been downloaded"),
+      ["Compilation of Extracts from the Bahá’í Writings on Music", "Music"],
+      title("", "Music", {
+        author: "Compilation",
+        years: [1996, 1996],
+      }),
+    ],
+    peace: [
+      removeAfter("This document has been downloaded"),
+      title("", "Peace", {
+        author: "Compilation",
+        years: [1985, 1985],
+      }),
+    ],
+    "power-divine-assistance": [
+      removeAfter("This document has been downloaded"),
+      title("", "The Power of Divine Assistance", {
+        author: "Compilation",
+        years: [1990, 1990],
+      }),
+    ],
+    "prayer-devotional-life": [
+      removeAfter("This document has been downloaded"),
+      title("", "Prayer and Devotional Life", {
+        author: "Compilation",
+        years: [2019, 2019],
+      }),
+    ],
+    "sanctity-nature-bahai-elections": [
+      removeAfter("This document has been downloaded"),
+      title("", "The Sanctity and Nature of Bahá’í Elections", {
+        author: "Compilation",
+        years: [1989, 1989],
+      }),
+    ],
+    scholarship: [
+      removeAfter("This document has been downloaded"),
+      [/^Extracts from the Writings of Bahá’u’lláh.*/m, ""],
+      title("", "Scholarship", {
+        author: "Compilation",
+        years: [1995, 1995],
+      }),
+    ],
+    "significance-formative-age-our-faith": [
+      removeAfter("This document has been downloaded"),
+      [
+        "Extracts from the Writings of Shoghi Effendi on the Significance of the Formative Age of Our Faith",
+        "The Significance of the Formative Age of Our Faith",
+      ],
+      title("", "The Significance of the Formative Age of Our Faith", {
+        author: "Compilation",
+        years: [1990, 1990],
+      }),
+    ],
+    "social-action": [
+      removeAfter("This document has been downloaded"),
+      title("", "Social Action", {
+        author: "Compilation",
+        years: [2020, 2020],
+      }),
+    ],
+    trustworthiness: [
+      removeAfter("This document has been downloaded"),
+      title("", "Trustworthiness: A Cardinal Bahá’í Virtue", {
+        author: "Compilation",
+        years: [1990, 1990],
+      }),
+    ],
+    "universal-house-of-justice-compilation": [
+      removeAfter("This document has been downloaded"),
+      title("", "The Universal House of Justice", {
+        author: "Compilation",
+        years: [2021, 2021],
+      }),
+    ],
+    women: [
+      removeAfter("This document has been downloaded"),
+      title("", "Women", {
+        author: "Compilation",
+        years: [1990, 1990],
+      }),
     ],
   },
 };
