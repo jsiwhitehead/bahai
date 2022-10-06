@@ -12,17 +12,75 @@
           <a stack={60}>
             <a size={40} bold underline "Bahá’í Library" />
             <a color="blue" underline={hover} link="/prayers" "Prayers »" />
+            <a color="blue" underline={hover} link="/quotes" "Quotes »" />
             {...library.map(group=>
               <a stack={15}>
                 <a size={20} bold {group.title} />
-                {...group.items.map(k=>
-                  <a color="blue" underline={hover} link={"/doc/" + k}>
-                    {documents[k].title}{documents[k].translated && (" (" + documents[k].translated + ")")} »
-                  </a>
+                {...group.items.map(key=>
+                  (
+                    k: type(key) === "string" ? key : key[0],
+                    <a color="blue" underline={hover} link={"/doc/" + k}>
+                      {type(key) === "string" ?
+                        documents[k].title
+                      :
+                        [
+                          documents[k].path[documents[k].path.length - 1],
+                          documents[k].title
+                        ].join(", ")
+                      }{
+                        documents[k].translated && (" (" + documents[k].translated + ")")
+                      } »
+                    </a>
+                  )
                 )}
               </a>
             )}
           </a>
+        : url[0]=== "quotes" ?
+          <a
+            stack={60}
+            <a stack={20}>
+              <a color="blue" underline={hover} link="/" "« Back" />
+              <a size={40} bold underline align="center" "Quotes" />
+            </a>
+            {...topQuotes.map(quote=> (
+              doc: documents[quote.id],
+              para: doc.paragraphs[quote.paragraph],
+              parts: quote.parts,
+              <a stack={15}>
+                <a size={17} color="black" align="justify">
+                  {parts[0].start > 0 ? ". . ." : ""}
+                  {...parts.flatMap((part, i)=>
+                    [
+                      i && (parts[i - 1]?.end !== part.start) ? ". . ." : "",
+                      type(part) === "string" ? part :
+                        <a span fill={"rgb(" + [255, 250 - part.count * 10, 250 - part.count * 10].join(", ") + ")"}>{para.text.slice(part.start, part.end)}</a>,
+                    ]
+                  )}
+                  {parts[parts.length - 1].end < para.text.length ? ". . ." : ""}
+                </a>
+                <a
+                  size={16}
+                  italic
+                  align="right"
+                  color={colors.link[doc.author]}
+                  underline={hover}
+                  link={"/doc/" + quote.id + "#" + quote.paragraph}
+                  style={{ width: '75%', margin: '0 20px 0 auto' }}
+                >
+                  ({unique(
+                    [
+                      doc.author,
+                      ...doc.path,
+                      doc.title ||
+                        (doc.item && ("#" + doc.item)),
+                      "para " + para.index,
+                    ].filter(x => x)
+                  ).join(", ")})
+                </a>
+              </a>
+            ))}
+          />
         : url[0]=== "prayers" && !url[1] ?
           <a stack={60}>
             <a stack={20}>

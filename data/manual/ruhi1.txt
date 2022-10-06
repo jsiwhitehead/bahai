@@ -5,7 +5,6 @@ collection
 
 # Unit 1: Understanding the Bahá’í Writings
 purpose="To strengthen the habit of reading passages from the Holy Writings every day and reflecting on their meaning"
-collection
 
 ## Section 1
 
@@ -67,7 +66,6 @@ Immerse yourselves in the ocean of My words, that ye may unravel its secrets, an
 
 # Unit 2: Prayer
 purpose="To reflect on the significance of prayer and to reinforce the habit of praying regularly"
-collection
 
 ## Section 1
 
@@ -139,7 +137,6 @@ Devotional meetings are occasions where any soul may enter, inhale the heavenly 
 
 # Unit 3: Life and Death
 purpose="To appreciate that life does not consist merely of the changes and chances of this world but finds its true significance in the development of the soul"
-collection
 
 ## Section 1
 

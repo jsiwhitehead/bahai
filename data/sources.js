@@ -1779,6 +1779,95 @@ export const files = {
       ],
       ["## Selected Messages", "Selected Messages"],
     ],
+    "turning-point": [
+      removeAfter("Notes"),
+      [
+        /^Turning Point[\s\S]*Global Plans: Fundamental Concepts/,
+        "Turning Point\n\nGlobal Plans: Fundamental Concepts",
+      ],
+      ["Part III", ""],
+      title("", "Turning Point", {
+        author: "The Universal House of Justice",
+        years: [1996, 2006],
+        collection: true,
+      }),
+      title("#", "Global Plans: Fundamental Concepts", { years: [2005, 2005] }),
+      title("#", "Additional Documents", { collection: true }),
+      [/^— .* —$\n\n/gm, "## "],
+      ["## Training Institutes", "## Training Institutes\nyears=[1998,1998]"],
+      [
+        "## Training Institutes and Systematic Growth",
+        "## Training Institutes and Systematic Growth\nyears=[2000,2000]",
+      ],
+      [
+        "## Building Momentum A Coherent Approach to Growth",
+        "## Building Momentum: A Coherent Approach to Growth\nyears=[2003,2003]",
+      ],
+      [
+        "## Impact of Growth on Administration Processes",
+        "## Impact of Growth on Administration Processes\nyears=[2005,2005]",
+      ],
+      [/^a document.*\n\n.*/gm, ""],
+      [
+        /The document is divided into three sections:[\s\S]*1\. Awareness/,
+        "\n\n1. Awareness",
+      ],
+      [
+        /It is divided into four sections:[\s\S]*1\. Experience/,
+        "\n\n1. Experience",
+      ],
+      [
+        /The document is divided into five sections:[\s\S]*1\. A Vision/,
+        "\n\n1. A Vision",
+      ],
+      ["1.1Administrative structure", "1.1 Administrative structure"],
+      [/^[A-Z].{1,80}[A-Z]$/gm, (a) => `##### ${a}`],
+      [/^[A-Z].{1,60}[a-z]$/gm, (a) => `### ${a}`],
+      [/^\d\. /gm, "### "],
+      [/^\d\.\d /gm, "#### "],
+      [/^\d\.\d\.\d /gm, "##### "],
+      ["TEACHER TRAINING PROGRAMMES", "Teacher training programmes"],
+      ["INSTRUMENTS OF TEACHING", "Instruments of teaching"],
+      ["SEQUENCE OF COURSES", "Sequence of courses"],
+      ["STUDY CIRCLES", "Study circles"],
+      ["TUTORS", "Tutors"],
+      ["COORDINATION", "Coordination"],
+      ["INTEGRATING THE SYSTEM", "Integrating the system"],
+      ["A SYSTEMATIC APPROACH", "A systematic approach"],
+      ["SEQUENCE OF COURSES", "Sequence of courses"],
+      ["DISTANCE EDUCATION", "Distance education"],
+      ["STUDY CIRCLES", "Study circles"],
+      ["TUTORS AND TUTOR TRAINING", "Tutors and tutor training"],
+      ["INSTITUTE CAMPAIGNS", "Institute campaigns"],
+      [
+        "MULTIPLICATION OF CORE ACTIVITIES",
+        "Multiplication of core activities",
+      ],
+      ["REFLECTION MEETINGS", "Reflection meetings"],
+      ["REACHING OUT TO ALL INHABITANTS", "Reaching out to all inhabitants"],
+      [
+        "PREREQUISITES FOR INTENSIVE GROWTH",
+        "Prerequisites for intensive growth",
+      ],
+      [
+        "INTENSIFICATION OF TEACHING EFFORTS",
+        "Intensification of teaching efforts",
+      ],
+      ["THE DYNAMICS OF INTENSIVE GROWTH", "The dynamics of intensive growth"],
+      [
+        "FOSTERING AN ENCOURAGING ENVIRONMENT",
+        "Fostering an encouraging environment",
+      ],
+      [
+        "COORDINATION AT THE CLUSTER LEVEL",
+        "Coordination at the cluster level",
+      ],
+      [
+        "THE ONGOING COLLECTION OF STATISTICS",
+        "The ongoing collection of statistics",
+      ],
+      ["### Turning Point", "Turning Point"],
+    ],
   },
   "official-statements-commentaries": {
     bahaullah: [
@@ -2027,7 +2116,7 @@ export const files = {
       removeAfter("A Selected Bibliography"),
       title("", "Bahá’u’lláh and the New Era", {
         author: "John E. Esslemont",
-        years: [1937, 1937],
+        years: [2006, 2006],
         collection: true,
       }),
       title("#", "Foreword", {
@@ -2151,10 +2240,18 @@ export const files = {
     ],
     "importance-prayer-meditation-devotional-attitude": [
       removeAfter("This document has been downloaded"),
-      title("", "The Importance of Prayer, Meditation", {
-        author: "Compilation",
-        years: [1990, 1990],
-      }),
+      [
+        "\n\nand the Devotional Attitude: A Compilation",
+        " and the Devotional Attitude",
+      ],
+      title(
+        "",
+        "The Importance of Prayer, Meditation and the Devotional Attitude",
+        {
+          author: "Compilation",
+          years: [1990, 1990],
+        }
+      ),
     ],
     "institution-mashriqul-adhkar": [
       removeAfter("This document has been downloaded"),

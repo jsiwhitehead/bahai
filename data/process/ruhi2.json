@@ -1,12 +1,16 @@
 [
   {
-    "path": ["Book 2: Arising to Serve", "Unit 1: The Joy of Teaching"],
+    "path": ["Book 2: Arising to Serve"],
     "item": 1,
-    "title": "Section 1",
+    "title": "Unit 1: The Joy of Teaching",
     "author": "Ruhi Institute",
     "years": [2020, 2020],
     "purpose": "To appreciate that the joy of teaching lies in the act of sharing with others the Word of God",
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Section 1"
+      },
       {
         "text": "O My servants! My holy, My divinely ordained Revelation may be likened unto an ocean in whose depths are concealed innumerable pearls of great price, of surpassing lustre. It is the duty of every seeker to bestir himself and strive to attain the shores of this ocean, so that he may, in proportion to the eagerness of his search and the efforts he hath exerted, partake of such benefits as have been preordained in God’s irrevocable and hidden Tablets."
       },
@@ -27,78 +31,43 @@
       },
       {
         "text": "Thou art My lamp and My light is in thee. Get thou from it thy radiance and seek none other than Me. For I have created thee rich and have bountifully shed My favour upon thee."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 1: The Joy of Teaching"],
-    "item": 2,
-    "title": "Section 2",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To appreciate that the joy of teaching lies in the act of sharing with others the Word of God",
-    "paragraphs": []
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 1: The Joy of Teaching"],
-    "item": 3,
-    "title": "Section 3",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To appreciate that the joy of teaching lies in the act of sharing with others the Word of God",
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "Section 2"
+      },
+      {
+        "section": [3],
+        "title": "Section 3"
+      },
       {
         "text": "O My servants! The one true God is My witness! This most great, this fathomless and surging Ocean is near, astonishingly near, unto you. Behold it is closer to you than your life‑vein! Swift as the twinkling of an eye ye can, if ye but wish it, reach and partake of this imperishable favour, this God‑given grace, this incorruptible gift, this most potent and unspeakably glorious bounty."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 1: The Joy of Teaching"],
-    "item": 4,
-    "title": "Section 4",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To appreciate that the joy of teaching lies in the act of sharing with others the Word of God",
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Section 4"
+      },
       {
         "text": "O wayfarer in the path of God! Take thou thy portion of the ocean of His grace, and deprive not thyself of the things that lie hidden in its depths. Be thou of them that have partaken of its treasures. A dewdrop out of this ocean would, if shed upon all that are in the heavens and on the earth, suffice to enrich them with the bounty of God, the Almighty, the All‑Knowing, the All‑Wise. With the hands of renunciation draw forth from its life‑giving waters, and sprinkle therewith all created things, that they may be cleansed from all man‑made limitations and may approach the mighty seat of God, this hallowed and resplendent Spot."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 1: The Joy of Teaching"],
-    "item": 5,
-    "title": "Section 5",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To appreciate that the joy of teaching lies in the act of sharing with others the Word of God",
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Section 5"
+      },
       {
         "text": "The Word of God may be likened unto a sapling, whose roots have been implanted in the hearts of men. It is incumbent upon you to foster its growth through the living waters of wisdom, of sanctified and holy words, so that its root may become firmly fixed and its branches may spread out as high as the heavens and beyond."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 1: The Joy of Teaching"],
-    "item": 6,
-    "title": "Section 6",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To appreciate that the joy of teaching lies in the act of sharing with others the Word of God",
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Section 6"
+      },
       {
         "text": "We are all united in one Divine purpose, no material motive is ours, and our dearest wish is to spread the Love of God throughout the world!"
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 1: The Joy of Teaching"],
-    "item": 7,
-    "title": "Section 7",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To appreciate that the joy of teaching lies in the act of sharing with others the Word of God",
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Section 7"
+      },
       {
         "text": "O Man of Two Visions! Close one eye and open the other. Close one to the world and all that is therein, and open the other to the hallowed beauty of the Beloved."
       },
@@ -113,17 +82,11 @@
       },
       {
         "text": "Detachment is as the sun; in whatsoever heart it doth shine it quencheth the fire of covetousness and self. He whose sight is illumined with the light of understanding will assuredly detach himself from the world and the vanities thereof. . . . Let not the world and its vileness grieve you. Happy is he whom riches fill not with vain‑glory, nor poverty with sorrow."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 1: The Joy of Teaching"],
-    "item": 8,
-    "title": "Section 8",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To appreciate that the joy of teaching lies in the act of sharing with others the Word of God",
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Section 8"
+      },
       {
         "text": "Labour is needed, if we are to seek Him; ardour is needed, if we are to drink the nectar of reunion with Him; and if we taste of this cup, we shall cast away the world."
       },
@@ -132,17 +95,11 @@
       },
       {
         "text": "The incomparable Creator hath created all men from one same substance, and hath exalted their reality above the rest of His creatures. Success or failure, gain or loss, must, therefore, depend upon man’s own exertions. The more he striveth, the greater will be his progress."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 1: The Joy of Teaching"],
-    "item": 9,
-    "title": "Section 9",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To appreciate that the joy of teaching lies in the act of sharing with others the Word of God",
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Section 9"
+      },
       {
         "text": "In the beginning, how small is the seed, yet in the end it is a mighty tree. Look ye not upon the seed, look ye upon the tree, and its blossoms, and its leaves and its fruits."
       },
@@ -164,22 +121,21 @@
     ]
   },
   {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 1,
-    "title": "Section 1",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": []
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
+    "path": ["Book 2: Arising to Serve"],
     "item": 2,
-    "title": "Section 2",
+    "title": "Unit 2: Uplifting Conversations",
     "author": "Ruhi Institute",
     "years": [2020, 2020],
     "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Section 1"
+      },
+      {
+        "section": [2],
+        "title": "Section 2"
+      },
       {
         "text": "All men have been created to carry forward an ever‑advancing civilisation."
       },
@@ -191,17 +147,11 @@
       },
       {
         "text": "Men at all times and under all conditions stand in need of one to exhort them, guide them and to instruct and teach them."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 3,
-    "title": "Section 3",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Section 3"
+      },
       {
         "text": "The knowledge of Him, Who is the Origin of all things, and attainment unto Him, are impossible save through knowledge of, and attainment unto, these luminous Beings who proceed from the Sun of Truth."
       },
@@ -210,17 +160,11 @@
       },
       {
         "text": "Be ye assured, moreover, that the works and acts of each and every one of these Manifestations of God, nay whatever pertaineth unto them, and whatsoever they may manifest in the future, are all ordained by God, and are a reflection of His Will and Purpose."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 4,
-    "title": "Section 4",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Section 4"
+      },
       {
         "text": "There can be no doubt whatever that the peoples of the world, of whatever race or religion, derive their inspiration from one heavenly Source, and are the subjects of one God."
       },
@@ -232,17 +176,11 @@
       },
       {
         "text": "The religion of God is for love and unity; make it not the cause of enmity or dissension."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 5,
-    "title": "Section 5",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Section 5"
+      },
       {
         "text": "First and foremost among these favours, which the Almighty hath conferred upon man, is the gift of understanding. . . . This gift giveth man the power to discern the truth in all things, leadeth him to that which is right, and helpeth him to discover the secrets of creation."
       },
@@ -251,17 +189,11 @@
       },
       {
         "text": "Knowledge is as wings to man’s life, and a ladder for his ascent. Its acquisition is incumbent upon everyone."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 6,
-    "title": "Section 6",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Section 6"
+      },
       {
         "text": "The tabernacle of unity hath been raised; regard ye not one another as strangers. Ye are the fruits of one tree, and the leaves of one branch."
       },
@@ -273,17 +205,11 @@
       },
       {
         "text": "It behoveth man to adhere tenaciously unto that which will promote fellowship, kindliness and unity."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 7,
-    "title": "Section 7",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Section 7"
+      },
       {
         "text": "The light of men is Justice. Quench it not with the contrary winds of oppression and tyranny. The purpose of justice is the appearance of unity among men."
       },
@@ -292,17 +218,11 @@
       },
       {
         "text": "That which traineth the world is Justice, for it is upheld by two pillars, reward and punishment. These two pillars are the sources of life to the world."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 8,
-    "title": "Section 8",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Section 8"
+      },
       {
         "text": ". . . ye must give forth goodly and wondrous fruits, that ye yourselves and others may profit therefrom. Thus it is incumbent on every one to engage in crafts and professions, for therein lies the secret of wealth, O men of understanding!"
       },
@@ -317,17 +237,11 @@
       },
       {
         "text": ". . . take heed not to outstrip the bounds of moderation, and be numbered among the extravagant."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 9,
-    "title": "Section 9",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Section 9"
+      },
       {
         "text": "The earth is but one country, and mankind its citizens."
       },
@@ -348,17 +262,11 @@
       },
       {
         "text": "Of all men the most negligent is he that disputeth idly and seeketh to advance himself over his brother."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 10,
-    "title": "Section 10",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Section 10"
+      },
       {
         "text": "Women and men have been and will always be equal in the sight of God."
       },
@@ -367,17 +275,11 @@
       },
       {
         "text": "In this Day the Hand of divine grace hath removed all distinctions. The servants of God and His handmaidens are regarded on the same plane."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 11,
-    "title": "Section 11",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Section 11"
+      },
       {
         "text": "It is not desirable that a man be left without knowledge or skills, for he is then but a barren tree."
       },
@@ -389,48 +291,36 @@
       },
       {
         "text": "In truth, knowledge is a veritable treasure for man, and a source of glory, of bounty, of joy, of exaltation, of cheer and gladness unto him."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 2: Uplifting Conversations"],
-    "item": 12,
-    "title": "Section 12",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To acquire the ability to introduce spiritual principles into a conversation",
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "Section 12"
+      },
       {
         "text": "The well‑being of mankind, its peace and security, are unattainable unless and until its unity is firmly established."
       }
     ]
   },
   {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 1,
-    "title": "Section 1",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": []
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 2,
-    "title": "Section 2",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": []
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
+    "path": ["Book 2: Arising to Serve"],
     "item": 3,
-    "title": "Section 3",
+    "title": "Unit 3: Deepening Themes",
     "author": "Ruhi Institute",
     "years": [2020, 2020],
     "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Section 1"
+      },
+      {
+        "section": [2],
+        "title": "Section 2"
+      },
+      {
+        "section": [3],
+        "title": "Section 3"
+      },
       {
         "text": "O Son of Man! I loved thy creation, hence I created thee. Wherefore, do thou love Me, that I may name thy name and fill thy soul with the spirit of life."
       },
@@ -442,26 +332,15 @@
       },
       {
         "text": "This is the Day in which God’s most excellent favours have been poured out upon men, the Day in which His most mighty grace hath been infused into all created things. It is incumbent upon all the peoples of the world to reconcile their differences, and, with perfect unity and peace, abide beneath the shadow of the Tree of His care and loving‑kindness."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 4,
-    "title": "Section 4",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": []
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 5,
-    "title": "Section 5",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Section 4"
+      },
+      {
+        "section": [5],
+        "title": "Section 5"
+      },
       {
         "text": "They who are the beloved of God, in whatever place they gather and whomsoever they may meet, must evince, in their attitude towards God, and in the manner of their celebration of His praise and glory, such humility and submissiveness that every atom of the dust beneath their feet may attest the depth of their devotion. The conversation carried by these holy souls should be informed with such power that these same atoms of dust will be thrilled by its influence. They should conduct themselves in such manner that the earth upon which they tread may never be allowed to address to them such words as these: ‘I am to be preferred above you. For witness, how patient I am in bearing the burden which the husbandman layeth upon me. I am the instrument that continually imparteth unto all beings the blessings with which He Who is the Source of all grace hath entrusted me. Notwithstanding the honour conferred upon me, and the unnumbered evidences of my wealth—a wealth that supplieth the needs of all creation—behold the measure of my humility, witness with what absolute submissiveness I allow myself to be trodden beneath the feet of men. . . .’"
       },
@@ -479,43 +358,25 @@
       },
       {
         "text": "Wholly unto Thee do I turn, fervently imploring Thee with all my heart, my mind and my tongue, to shield me from all that runs counter to Thy will in this, the cycle of Thy divine unity . . ."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 6,
-    "title": "Section 6",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Section 6"
+      },
       {
         "text": "The Ancient Beauty hath consented to be bound with chains that mankind may be released from its bondage, and hath accepted to be made a prisoner within this most mighty Stronghold that the whole world may attain unto true liberty. He hath drained to its dregs the cup of sorrow, that all the peoples of the earth may attain unto abiding joy, and be filled with gladness. This is of the mercy of your Lord, the Compassionate, the Most Merciful. We have accepted to be abased, O believers in the Unity of God, that ye may be exalted, and have suffered manifold afflictions, that ye might prosper and flourish. He Who hath come to build anew the whole world, behold, how they that have joined partners with God have forced Him to dwell within the most desolate of cities!"
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 7,
-    "title": "Section 7",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Section 7"
+      },
       {
         "text": "My name is ‘Abdu’l‑Bahá. My qualification is ‘Abdu’l‑Bahá. My reality is ‘Abdu’l‑Bahá. My praise is ‘Abdu’l‑Bahá. Thraldom to the Blessed Perfection is my glorious and refulgent diadem, and servitude to all the human race my perpetual religion . . . No name, no title, no mention, no commendation have I, nor will ever have, except ‘Abdu’l‑Bahá. This is my longing. This is my greatest yearning. This is my eternal life. This is my everlasting glory."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 8,
-    "title": "Section 8",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Section 8"
+      },
       {
         "text": "Nothing whatever can, in this Day, inflict a greater harm upon this Cause than dissension and strife, contention, estrangement and apathy, among the loved ones of God. Flee them, through the power of God and His sovereign aid, and strive ye to knit together the hearts of men, in His Name, the Unifier, the All‑Knowing, the All‑Wise."
       },
@@ -551,44 +412,23 @@
       },
       {
         "text": "Whensoever holy souls, drawing on the powers of heaven, shall arise with such qualities of the spirit, and march in unison, rank on rank, every one of those souls will be even as one thousand, and the surging waves of that mighty ocean will be even as the battalions of the Concourse on high."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 9,
-    "title": "Section 9",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": []
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 10,
-    "title": "Section 10",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": []
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 11,
-    "title": "Section 11",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": []
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 12,
-    "title": "Section 12",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Section 9"
+      },
+      {
+        "section": [10],
+        "title": "Section 10"
+      },
+      {
+        "section": [11],
+        "title": "Section 11"
+      },
+      {
+        "section": [12],
+        "title": "Section 12"
+      },
       {
         "text": "By My life and My Cause! Round about whatever dwelling the friends of God may enter, and from which their cry shall rise as they praise and glorify the Lord, shall circle the souls of true believers and all the favoured angels."
       },
@@ -612,17 +452,11 @@
       },
       {
         "text": "To a very large extent, the success of the Feast depends on the quality of the preparation and participation of the individual. The beloved Master offers the following advice: ‘Give ye great weight to the Nineteen Day gatherings, so that on these occasions the beloved of the Lord and the handmaids of the Merciful may turn their faces toward the Kingdom, chant the communes, beseech God’s help, become joyfully enamoured each of the other, and grow in purity and holiness, and in the fear of God, and in resistance to passion and self. Thus will they separate themselves from this elemental world, and immerse themselves in the ardours of the spirit.’"
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 13,
-    "title": "Section 13",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Section 13"
+      },
       {
         "text": "The best of men are they that earn a livelihood by their calling and spend upon themselves and upon their kindred for the love of God, the Lord of all worlds."
       },
@@ -637,33 +471,21 @@
       },
       {
         "text": "We must be like the fountain or spring that is continually emptying itself of all that it has and is continually being refilled from an invisible source. To be continually giving out for the good of our fellows undeterred by fear of poverty and reliant on the unfailing bounty of the Source of all wealth and all good—this is the secret of right living."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 14,
-    "title": "Section 14",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Section 14"
+      },
       {
         "text": "After a time he enters the period of youth, in which his former conditions and needs are superseded by new requirements applicable to the advance in his degree. His faculties of observation are broadened and deepened; his intelligent capacities are trained and awakened; the limitations and environment of childhood no longer restrict his energies and accomplishments."
       },
       {
         "text": "While global trends project an image of this age group as problematic, lost in the throes of tumultuous physical and emotional change, unresponsive and self‑consumed, the Bahá’í community—in the language it employs and the approaches it adopts—is moving decidedly in the opposite direction, seeing in junior youth instead altruism, an acute sense of justice, eagerness to learn about the universe and a desire to contribute to the construction of a better world."
-      }
-    ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 15,
-    "title": "Section 15",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Section 15"
+      },
       {
         "text": "Regard man as a mine rich in gems of inestimable value. Education can, alone, cause it to reveal its treasures, and enable mankind to benefit therefrom."
       },
@@ -678,16 +500,11 @@
       },
       {
         "text": "O Son of Man! Rejoice in the gladness of thine heart, that thou mayest be worthy to meet Me and to mirror forth My beauty."
+      },
+      {
+        "section": [16],
+        "title": "Section 16"
       }
     ]
-  },
-  {
-    "path": ["Book 2: Arising to Serve", "Unit 3: Deepening Themes"],
-    "item": 16,
-    "title": "Section 16",
-    "author": "Ruhi Institute",
-    "years": [2020, 2020],
-    "purpose": "To develop the habit of visiting friends and neighbours to converse on themes of spiritual significance",
-    "paragraphs": []
   }
 ]

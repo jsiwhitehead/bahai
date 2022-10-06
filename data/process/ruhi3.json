@@ -1,31 +1,23 @@
 [
   {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
+    "path": ["Book 3: Teaching Children’s Classes Grade 1"],
     "item": 1,
-    "title": "Section 1",
+    "title": "Unit 1: Some Principles of Bahá’í Education",
     "author": "Ruhi Institute",
     "years": [2021, 2021],
     "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
     "paragraphs": [
       {
+        "section": [1],
+        "title": "Section 1"
+      },
+      {
         "text": "Children are the most precious treasure a community can possess, for in them are the promise and guarantee of the future. They bear the seeds of the character of future society which is largely shaped by what the adults constituting the community do or fail to do with respect to children. They are a trust no community can neglect with impunity. An all‑embracing love of children, the manner of treating them, the quality of the attention shown them, the spirit of adult behaviour toward them—these are all among the vital aspects of the requisite attitude."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 2,
-    "title": "Section 2",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "Section 2"
+      },
       {
         "text": "Blessed is that teacher who shall arise to instruct the children, and to guide the people into the pathways of God, the Bestower, the Well‑Beloved."
       },
@@ -34,48 +26,22 @@
       },
       {
         "text": "According to the explicit divine Text, teaching the children is indispensable and obligatory. It followeth that teachers are servants of the Lord God, since they have arisen to perform this task, which is the same as worship. You must therefore offer praise with every breath, for you are educating your spiritual children."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 3,
-    "title": "Section 3",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Section 3"
+      },
       {
         "text": "Regard man as a mine rich in gems of inestimable value. Education can, alone, cause it to reveal its treasures, and enable mankind to benefit therefrom."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 4,
-    "title": "Section 4",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 5,
-    "title": "Section 5",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Section 4"
+      },
+      {
+        "section": [5],
+        "title": "Section 5"
+      },
       {
         "text": "Ye should consider the question of goodly character as of the first importance. It is incumbent upon every father and mother to counsel their children over a long period and guide them unto those things which lead to everlasting honour."
       },
@@ -84,32 +50,15 @@
       },
       {
         "text": "In a time to come, morals will degenerate to an extreme degree. It is essential that children be reared in the Bahá’í way, that they may find happiness both in this world and the next. If not, they shall be beset by sorrows and troubles, for human happiness is founded upon spiritual behaviour."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 6,
-    "title": "Section 6",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 7,
-    "title": "Section 7",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Section 6"
+      },
+      {
+        "section": [7],
+        "title": "Section 7"
+      },
       {
         "text": "Thou didst write as to the children: from the very beginning, the children must receive divine education and must continually be reminded to remember their God. Let the love of God pervade their inmost being, commingled with their mother’s milk."
       },
@@ -118,20 +67,11 @@
       },
       {
         "text": "As to thy question regarding the education of children: it behoveth thee to nurture them at the breast of the love of God, and urge them onward to the things of the spirit, that they may turn their faces unto God; that their ways may conform to the rules of good conduct and their character be second to none; that they make their own all the graces and praiseworthy qualities of humankind . . ."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 8,
-    "title": "Section 8",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Section 8"
+      },
       {
         "text": "The greatest attainment or the sweetest state is none other than conversation with God. It creates spirituality, creates mindfulness and celestial feelings, begets new attractions of the Kingdom and engenders the susceptibilities of the higher intelligence."
       },
@@ -149,20 +89,11 @@
       },
       {
         "text": "The art of music is divine and effective. It is the food of the soul and spirit. Through the power and charm of music the spirit of man is uplifted. It has wonderful sway and effect in the hearts of children, for their hearts are pure, and melodies have great influence in them. The latent talents with which the hearts of these children are endowed will find expression through the medium of music."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 9,
-    "title": "Section 9",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Section 9"
+      },
       {
         "text": "Veiled in My immemorial being and in the ancient eternity of My essence, I knew My love for thee; therefore I created thee, have engraved on thee Mine image and revealed to thee My beauty."
       },
@@ -171,20 +102,11 @@
       },
       {
         "text": "Thou art My lamp and My light is in thee. Get thou from it thy radiance and seek none other than Me. For I have created thee rich and have bountifully shed My favour upon thee."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 10,
-    "title": "Section 10",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Section 10"
+      },
       {
         "text": "Take heed, O people, lest ye be of them that give good counsel to others but forget to follow it themselves."
       },
@@ -199,20 +121,11 @@
       },
       {
         "text": "First in a human being’s way of life must be purity, then freshness, cleanliness, and independence of spirit. First must the stream bed be cleansed, then may the sweet river waters be led into it."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 11,
-    "title": "Section 11",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Section 11"
+      },
       {
         "text": "The Tongue of My power hath, from the heaven of My omnipotent glory, addressed to My creation these words: ‘Observe My commandments, for the love of My beauty.’ Happy is the lover that hath inhaled the divine fragrance of His Best‑Beloved from these words, laden with the perfume of a grace which no tongue can describe."
       },
@@ -221,20 +134,11 @@
       },
       {
         "text": "O Son of Being! My love is My stronghold; he that entereth therein is safe and secure, and he that turneth away shall surely stray and perish."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 12,
-    "title": "Section 12",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "Section 12"
+      },
       {
         "text": "Train these children with divine exhortations. From their childhood instil in their hearts the love of God so they may manifest in their lives the fear of God and have confidence in the bestowals of God. Teach them to free themselves from human imperfections and to acquire the divine perfections latent in the heart of man."
       },
@@ -246,206 +150,82 @@
       },
       {
         "text": "Other attributes of perfection are to fear God, to love God by loving His servants, to exercise mildness and forbearance and calm, to be sincere, amenable, clement and compassionate; to have resolution and courage, trustworthiness and energy, to strive and struggle, to be generous, loyal, without malice, to have zeal and a sense of honour, to be high‑minded and magnanimous, and to have regard for the rights of others."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 13,
-    "title": "Section 13",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Section 13"
+      },
       {
         "text": "The root cause of wrongdoing is ignorance, and we must therefore hold fast to the tools of perception and knowledge. Good character must be taught. Light must be spread afar, so that, in the school of humanity, all may acquire the heavenly characteristics of the spirit, and see for themselves beyond any doubt that there is no fiercer hell, no more fiery abyss, than to possess a character that is evil and unsound; no more darksome pit nor loathsome torment than to show forth qualities which deserve to be condemned."
       },
       {
         "text": "Whensoever a mother seeth that her child hath done well, let her praise and applaud him and cheer his heart; and if the slightest undesirable trait should manifest itself, let her counsel the child and punish him, and use means based on reason, even a slight verbal chastisement should this be necessary. It is not, however, permissible to strike a child, or vilify him, for the child’s character will be totally perverted if he be subjected to blows or verbal abuse."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 14,
-    "title": "Section 14",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Section 14"
+      },
       {
         "text": ". . . the children’s school must be a place of utmost discipline and order, that instruction must be thorough, and provision must be made for the rectification and refinement of character; so that, in his earliest years, within the very essence of the child, the divine foundation will be laid and the structure of holiness raised up."
       },
       {
         "text": "Thou must certainly continue this organised activity without cessation, and attach importance to it, so that day by day it may grow and be quickened with the breaths of the Holy Spirit. If this activity is well organised, rest thou assured that it will yield great results."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 15,
-    "title": "Section 15",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 16,
-    "title": "Section 16",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 17,
-    "title": "Section 17",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 18,
-    "title": "Section 18",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Section 15"
+      },
+      {
+        "section": [16],
+        "title": "Section 16"
+      },
+      {
+        "section": [17],
+        "title": "Section 17"
+      },
+      {
+        "section": [18],
+        "title": "Section 18"
+      },
       {
         "text": "He is God! O God, my God! Bestow upon me a pure heart, like unto a pearl."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 19,
-    "title": "Section 19",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 20,
-    "title": "Section 20",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 21,
-    "title": "Section 21",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 22,
-    "title": "Section 22",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 23,
-    "title": "Section 23",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 24,
-    "title": "Section 24",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 25,
-    "title": "Section 25",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 26,
-    "title": "Section 26",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 1: Some Principles of Bahá’í Education"
-    ],
-    "item": 27,
-    "title": "Section 27",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually",
-    "paragraphs": [
+      },
+      {
+        "section": [19],
+        "title": "Section 19"
+      },
+      {
+        "section": [20],
+        "title": "Section 20"
+      },
+      {
+        "section": [21],
+        "title": "Section 21"
+      },
+      {
+        "section": [22],
+        "title": "Section 22"
+      },
+      {
+        "section": [23],
+        "title": "Section 23"
+      },
+      {
+        "section": [24],
+        "title": "Section 24"
+      },
+      {
+        "section": [25],
+        "title": "Section 25"
+      },
+      {
+        "section": [26],
+        "title": "Section 26"
+      },
+      {
+        "section": [27],
+        "title": "Section 27"
+      },
       {
         "text": "We prescribe unto all men that which will lead to the exaltation of the Word of God amongst His servants, and likewise, to the advancement of the world of being and the uplift of souls. To this end, the greatest means is education of the child."
       },
@@ -458,47 +238,31 @@
     ]
   },
   {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 1,
-    "title": "Section 1",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
+    "path": ["Book 3: Teaching Children’s Classes Grade 1"],
     "item": 2,
-    "title": "Section 2",
+    "title": "Unit 2: Lessons for Children’s Classes Grade 1",
     "author": "Ruhi Institute",
     "years": [2021, 2021],
     "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Section 1"
+      },
+      {
+        "section": [2],
+        "title": "Section 2"
+      },
       {
         "text": "O God! Educate these children. These children are the plants of Thine orchard, the flowers of Thy meadow, the roses of Thy garden. Let Thy rain fall upon them; let the Sun of Reality shine upon them with Thy love. Let Thy breeze refresh them in order that they may be trained, grow and develop, and appear in the utmost beauty. Thou art the Giver. Thou art the Compassionate."
       },
       {
         "text": "He is God! O God, my God! Bestow upon me a pure heart, like unto a pearl."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 3,
-    "title": "Section 3",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Section 3"
+      },
       {
         "text": "The light of men is Justice. Quench it not with the contrary winds of oppression and tyranny. The purpose of justice is the appearance of unity among men."
       },
@@ -531,44 +295,19 @@
       },
       {
         "text": "Truthfulness is the goodliest of qualities as it comprehendeth all other virtues. A truthful person will be protected from all moral afflictions, will shrink from every evil deed, and be preserved from every wicked act, inasmuch as all vices and misdeeds are the very antithesis of truthfulness, and a truthful man will hold them all in utter abhorrence."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 4,
-    "title": "Section 4",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 5,
-    "title": "Section 5",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 6,
-    "title": "Section 6",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Section 4"
+      },
+      {
+        "section": [5],
+        "title": "Section 5"
+      },
+      {
+        "section": [6],
+        "title": "Section 6"
+      },
       {
         "text": "O Thou kind Lord! These lovely children are the handiwork of the fingers of Thy might and the wondrous signs of Thy greatness. O God! Protect these children, graciously assist them to be educated and enable them to render service to the world of humanity. O God! These children are pearls, cause them to be nurtured within the shell of Thy loving‑kindness."
       },
@@ -577,20 +316,11 @@
       },
       {
         "text": "O God, guide me, protect me, make of me a shining lamp and a brilliant star. Thou art the Mighty and the Powerful."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 7,
-    "title": "Section 7",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Section 7"
+      },
       {
         "text": "Be generous in your days of plenty, and be patient in the hour of loss."
       },
@@ -635,44 +365,19 @@
       },
       {
         "text": "Your hearts must be pure and your intentions sincere in order that you may become recipients of the divine bestowals."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 8,
-    "title": "Section 8",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 9,
-    "title": "Section 9",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 10,
-    "title": "Section 10",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Section 8"
+      },
+      {
+        "section": [9],
+        "title": "Section 9"
+      },
+      {
+        "section": [10],
+        "title": "Section 10"
+      },
       {
         "text": "O my Lord! Make Thy beauty to be my food, and Thy presence my drink, and Thy pleasure my hope, and praise of Thee my action, and remembrance of Thee my companion, and the power of Thy sovereignty my succourer, and Thy habitation my home, and my dwelling‑place the seat Thou hast sanctified from the limitations imposed upon them who are shut out as by a veil from Thee."
       },
@@ -681,20 +386,11 @@
       },
       {
         "text": "Blessed is the spot, and the house, and the place, and the city, and the heart, and the mountain, and the refuge, and the cave, and the valley, and the land, and the sea, and the island, and the meadow where mention of God hath been made, and His praise glorified."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 11,
-    "title": "Section 11",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Section 11"
+      },
       {
         "text": "Humility exalteth man to the heaven of glory and power, whilst pride abaseth him to the depths of wretchedness and degradation."
       },
@@ -739,32 +435,15 @@
       },
       {
         "text": "Trustworthiness, wisdom and honesty are, of a truth, God’s beauteous adornments for His creatures. These fair garments are a befitting vesture for every temple. Happy are those that comprehend, and well is it with them that acquire such virtues."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 12,
-    "title": "Section 12",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 13,
-    "title": "Section 13",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "Section 12"
+      },
+      {
+        "section": [13],
+        "title": "Section 13"
+      },
       {
         "text": "O my merciful Lord! This is a hyacinth which hath grown in the garden of Thy good pleasure and a twig which hath appeared in the orchard of true knowledge. Cause it, O Lord of bounty, to be refreshed continually and at all times through Thy vitalising breezes, and make it verdant, fresh and flourishing through the outpourings of the clouds of Thy favours, O Thou kind Lord!"
       },
@@ -776,20 +455,11 @@
       },
       {
         "text": "Thou art the Mighty and the Powerful."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 14,
-    "title": "Section 14",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Section 14"
+      },
       {
         "text": "Radiate the lights of compassion so that the hearts may be cleansed and purified and that they may take a share and portion from Thy confirmations."
       },
@@ -834,32 +504,15 @@
       },
       {
         "text": "Do not be content with showing friendship in words alone, let your heart burn with loving kindness for all who may cross your path."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 15,
-    "title": "Section 15",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 16,
-    "title": "Section 16",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Section 15"
+      },
+      {
+        "section": [16],
+        "title": "Section 16"
+      },
       {
         "text": "O my God! O my God! This, Thy servant, hath advanced towards Thee, is passionately wandering in the desert of Thy love, walking in the path of Thy service, anticipating Thy favours, hoping for Thy bounty, relying upon Thy kingdom, and intoxicated by the wine of Thy gift. O my God! Increase the fervour of his affection for Thee, the constancy of his praise of Thee, and the ardour of his love for Thee."
       },
@@ -868,20 +521,11 @@
       },
       {
         "text": "Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness to Thee is my hope, and love for Thee is my companion. Thy mercy to me is my healing and my succour in both this world and the world to come. Thou, verily, art the All‑Bountiful, the All‑Knowing, the All‑Wise."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 17,
-    "title": "Section 17",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [17],
+        "title": "Section 17"
+      },
       {
         "text": "Strive as much as ye can to turn wholly toward the Kingdom, that ye may acquire innate courage and ideal power."
       },
@@ -920,32 +564,15 @@
       },
       {
         "text": "Kindle the fire of love and burn away all things; then set thy foot into the land of the lovers."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 18,
-    "title": "Section 18",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 19,
-    "title": "Section 19",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [18],
+        "title": "Section 18"
+      },
+      {
+        "section": [19],
+        "title": "Section 19"
+      },
       {
         "text": "Create in me a pure heart, O my God, and renew a tranquil conscience within me, O my Hope! Through the spirit of power confirm Thou me in Thy Cause, O my Best‑Beloved, and by the light of Thy glory reveal unto me Thy path, O Thou the Goal of my desire! Through the power of Thy transcendent might lift me up unto the heaven of Thy holiness, O Source of my being, and by the breezes of Thine eternity gladden me, O Thou Who art my God! Let Thine everlasting melodies breathe tranquillity on me, O my Companion, and let the riches of Thine ancient countenance deliver me from all except Thee, O my Master, and let the tidings of the revelation of Thine incorruptible Essence bring me joy, O Thou Who art the most manifest of the manifest and the most hidden of the hidden!"
       },
@@ -954,20 +581,11 @@
       },
       {
         "text": "Thou art the Powerful, the All‑Loving."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 20,
-    "title": "Section 20",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": [
+      },
+      {
+        "section": [20],
+        "title": "Section 20"
+      },
       {
         "text": "O flame of the love of God! The ray must shed light and the sun must rise; the full moon must shine and the star must gleam. Since thou art a ray, beseech thou the Lord to enable thee to give illumination and enlightenment, to brighten the horizons and to consume the world with the fire of the love of God."
       },
@@ -1015,232 +633,121 @@
       },
       {
         "text": "Be ye confident and steadfast; your services are confirmed by the powers of heaven, for your intentions are lofty, your purposes pure and worthy."
+      },
+      {
+        "section": [21],
+        "title": "Section 21"
+      },
+      {
+        "section": [22],
+        "title": "Section 22"
       }
     ]
   },
   {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 21,
-    "title": "Section 21",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "Unit 2: Lessons for Children’s Classes Grade 1"
-    ],
-    "item": 22,
-    "title": "Section 22",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "purpose": "To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 1,
-    "title": "Lesson 1",
+    "path": ["Book 3: Teaching Children’s Classes Grade 1"],
+    "item": 3,
+    "title": "24 Lessons for Children",
     "author": "Ruhi Institute",
     "years": [2021, 2021],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Lesson 1"
+      },
       {
         "text": "He is God! O God, my God! Bestow upon me a pure heart, like unto a pearl."
       },
       {
         "text": "O Son of Spirit! My first counsel is this: Possess a pure, kindly and radiant heart . . ."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 2,
-    "title": "Lesson 2",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "Lesson 2"
+      },
       {
         "text": "Tread ye the path of justice, for this, verily, is the straight path."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 3,
-    "title": "Lesson 3",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Lesson 3"
+      },
       {
         "text": "O Friend! In the garden of thy heart plant naught but the rose of love . . ."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 4,
-    "title": "Lesson 4",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Lesson 4"
+      },
       {
         "text": "Truthfulness is the foundation of all human virtues."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 5,
-    "title": "Lesson 5",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Lesson 5"
+      },
       {
         "text": "O God, guide me, protect me, make of me a shining lamp and a brilliant star. Thou art the Mighty and the Powerful."
       },
       {
         "text": "To give and to be generous are attributes of Mine; well is it with him that adorneth himself with My virtues."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 6,
-    "title": "Lesson 6",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Lesson 6"
+      },
       {
         "text": "Blessed is he who preferreth his brother before himself."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 7,
-    "title": "Lesson 7",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Lesson 7"
+      },
       {
         "text": "O Son of Man! Rejoice in the gladness of thine heart, that thou mayest be worthy to meet Me and to mirror forth My beauty."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 8,
-    "title": "Lesson 8",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Lesson 8"
+      },
       {
         "text": "We should at all times manifest our truthfulness and sincerity . . ."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 9,
-    "title": "Lesson 9",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Lesson 9"
+      },
       {
         "text": "Blessed is the spot, and the house, and the place, and the city, and the heart, and the mountain, and the refuge, and the cave, and the valley, and the land, and the sea, and the island, and the meadow where mention of God hath been made, and His praise glorified."
       },
       {
         "text": "O Son of Man! Humble thyself before Me, that I may graciously visit thee."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 10,
-    "title": "Lesson 10",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Lesson 10"
+      },
       {
         "text": "Be thou happy. Be thou grateful. Arise to render thanks unto God, that thy thankfulness may conduce to an increase of bounty."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 11,
-    "title": "Lesson 11",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Lesson 11"
+      },
       {
         "text": ". . . let your adorning be forgiveness and mercy and that which cheereth the hearts of the well‑favoured of God."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 12,
-    "title": "Lesson 12",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "Lesson 12"
+      },
       {
         "text": "Beautify your tongues, O people, with truthfulness, and adorn your souls with the ornament of honesty."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 13,
-    "title": "Lesson 13",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Lesson 13"
+      },
       {
         "text": "O Lord! Plant this tender seedling in the garden of Thy manifold bounties, water it from the fountains of Thy loving‑kindness and grant that it may grow into a goodly plant through the outpourings of Thy favour and grace."
       },
@@ -1249,127 +756,63 @@
       },
       {
         "text": "The Kingdom of God is founded upon equity and justice, and also upon mercy, compassion, and kindness to every living soul."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 14,
-    "title": "Lesson 14",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Lesson 14"
+      },
       {
         "text": "Know that thy true adornment consisteth in the love of God and in thy detachment from all save Him . . ."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 15,
-    "title": "Lesson 15",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Lesson 15"
+      },
       {
         "text": "The source of all glory is acceptance of whatsoever the Lord hath bestowed, and contentment with that which God hath ordained."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 16,
-    "title": "Lesson 16",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [16],
+        "title": "Lesson 16"
+      },
       {
         "text": "Blessed is he who mingleth with all men in a spirit of utmost kindliness and love."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 17,
-    "title": "Lesson 17",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [17],
+        "title": "Lesson 17"
+      },
       {
         "text": "Thy name is my healing, O my God, and remembrance of Thee is my remedy. Nearness to Thee is my hope, and love for Thee is my companion. Thy mercy to me is my healing and my succour in both this world and the world to come. Thou, verily, art the All‑Bountiful, the All‑Knowing, the All‑Wise."
       },
       {
         "text": "The source of courage and power is the promotion of the Word of God, and steadfastness in His Love."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 18,
-    "title": "Lesson 18",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [18],
+        "title": "Lesson 18"
+      },
       {
         "text": "Never lose thy trust in God. Be thou ever hopeful, for the bounties of God never cease to flow upon man."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 19,
-    "title": "Lesson 19",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [19],
+        "title": "Lesson 19"
+      },
       {
         "text": "Trustworthiness is the greatest portal leading unto the tranquillity and security of the people."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 20,
-    "title": "Lesson 20",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [20],
+        "title": "Lesson 20"
+      },
       {
         "text": "Be ye enkindled, O people, with the heat of the love of God, that ye may enkindle the hearts of others."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 21,
-    "title": "Lesson 21",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [21],
+        "title": "Lesson 21"
+      },
       {
         "text": "O Thou kind Lord! I am a little child, exalt me by admitting me to the kingdom. I am earthly, make me heavenly; I am of the world below, let me belong to the realm above; gloomy, suffer me to become radiant; material, make me spiritual, and grant that I may manifest Thine infinite bounties."
       },
@@ -1378,49 +821,25 @@
       },
       {
         "text": "O Son of Being! Thou art My lamp and My light is in thee. Get thou from it thy radiance and seek none other than Me."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 22,
-    "title": "Lesson 22",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [22],
+        "title": "Lesson 22"
+      },
       {
         "text": "Happy is the faithful one who is attired with the vesture of high endeavour and hath arisen to serve this Cause."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 23,
-    "title": "Lesson 23",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [23],
+        "title": "Lesson 23"
+      },
       {
         "text": "He, verily, shall increase the reward of them that endure with patience."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 3: Teaching Children’s Classes Grade 1",
-      "24 Lessons for Children"
-    ],
-    "item": 24,
-    "title": "Lesson 24",
-    "author": "Ruhi Institute",
-    "years": [2021, 2021],
-    "paragraphs": [
+      },
+      {
+        "section": [24],
+        "title": "Lesson 24"
+      },
       {
         "text": "Supremely lofty will be thy station, if thou remainest steadfast in the Cause of thy Lord."
       }

@@ -5,7 +5,6 @@ collection
 
 # Unit 1: The Spiritual Path
 purpose="To gain increased awareness of the spiritual dynamics of advancing along a path of service to the Cause and acquire an understanding of the forces at work"
-collection
 
 ## Section 1
 
@@ -102,7 +101,6 @@ Then rose the Sun of Truth and the splendours of the Kingdom were shed over east
 # Unit 2: Becoming a Tutor of Books 1‑6
 purpose="To explore some of the concepts and acquire some of the attitudes and skills that contribute to the capability of helping a group of friends go through Books 1‑6"
 practice="To form a study circle and accompany it through at least one book"
-collection
 
 ## Section 1
 
@@ -210,7 +208,6 @@ Praise be to God, the hosts of the Supreme Concourse secure the victory and the 
 
 # Unit 3: Promoting the Arts at the Grassroots
 purpose="To appreciate the role of artistic endeavours in the activity of a study circle"
-collection
 
 ## Section 1
 

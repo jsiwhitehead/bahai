@@ -5,7 +5,6 @@ collection
 
 # Unit 1: The Spiritual Nature of Teaching
 purpose="To understand that teaching is an act of particular spiritual significance. To appreciate that effective teaching involves both “being” and “doing”—attention to one’s inner condition as well as constant activity"
-collection
 
 ## Section 1
 
@@ -141,7 +140,6 @@ O ye servants of the Sacred Threshold! The triumphant hosts of the Celestial Con
 
 # Unit 2: The Qualities and Attitudes of the Teacher
 purpose="To reflect on the qualities and attitudes of a teacher of the Cause. To understand that effectiveness in teaching can be developed if we approach it in a posture of learning—engaging in activity, reflecting on what we have said and done, and turning regularly to the writings for insights and guidance"
-collection
 
 ## Section 1
 
@@ -256,7 +254,6 @@ Today the need is so great on the part of humanity to hear of the Divine Message
 # Unit 3: The Act of Teaching
 purpose="To become familiar with some of the approaches and methods of personal teaching endeavours and collective campaigns"
 practice="To design and implement your own personal teaching plan and to participate in at least one teaching campaign"
-collection
 
 ## Section 1
 

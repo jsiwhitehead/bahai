@@ -5,7 +5,6 @@ collection
 
 # Unit 1: Some Principles of Bahá’í Education
 purpose="To explore some of the principles and concepts found in the Bahá’í Writings related to education and to reflect on how to engage children in classes that nurture them spiritually"
-collection
 
 ## Section 1
 
@@ -143,7 +142,6 @@ If, in this momentous task, a mighty effort be exerted, the world of humanity wi
 
 # Unit 2: Lessons for Children’s Classes Grade 1
 purpose="To develop the capacity to teach classes for children aged five or six that, focused on the refinement of character, consist of the memorisation of prayers and quotations and songs, stories, games, and colouring"
-collection
 
 ## Section 1
 
@@ -396,7 +394,6 @@ Be ye confident and steadfast; your services are confirmed by the powers of heav
 ## Section 22
 
 # 24 Lessons for Children
-collection
 
 ## Lesson 1
 

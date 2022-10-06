@@ -67,6 +67,7 @@ document.addEventListener("click", (e: any) => {
 
 run(
   {
+    unique: (x) => [...new Set(x)],
     firstChar: (s) => /[a-z]/i.exec(s)!.index,
     tick,
     url,
@@ -92,6 +93,23 @@ run(
     })),
     documents,
     quotes,
+    topQuotes: Object.keys(quotes)
+      .flatMap((id) =>
+        Object.keys(quotes[id]).map((k) => ({
+          id,
+          paragraph: parseInt(k, 10),
+          ...quotes[id][k],
+        }))
+      )
+      .sort((a, b) => {
+        const x = a.parts.map((p) => p.count);
+        const y = b.parts.map((p) => p.count);
+        return (
+          Math.max(...y) - Math.max(...x) ||
+          y.reduce((res, n) => res + n) - x.reduce((res, n) => res + n)
+        );
+      })
+      .filter((q) => q.parts.some((p) => p.count > 2)),
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),

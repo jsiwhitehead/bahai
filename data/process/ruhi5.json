@@ -1,55 +1,31 @@
 [
   {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
+    "path": ["Book 5: Releasing the Powers of Junior Youth"],
     "item": 1,
-    "title": "Section 1",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 2,
-    "title": "Section 2",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 3,
-    "title": "Section 3",
+    "title": "Unit 1: Life’s Springtime",
     "author": "Ruhi Institute",
     "years": [2022, 2022],
     "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
     "paragraphs": [
       {
+        "section": [1],
+        "title": "Section 1"
+      },
+      {
+        "section": [2],
+        "title": "Section 2"
+      },
+      {
+        "section": [3],
+        "title": "Section 3"
+      },
+      {
         "text": "O loved ones of ‘Abdu’l‑Bahá! Man’s life has its springtime and is endowed with marvellous glory. The period of youth is characterised by strength and vigour and stands out as the choicest time in human life. Therefore you should strive day and night so that endowed with heavenly strength, inspired with brilliant motives and aided by His celestial power and heavenly grace and confirmation, you may become the ornaments of the world of humanity, and preeminent among those who are initiated into true learning and the love of God. You must be distinguished amidst men by your sanctity and detachment, loftiness of purpose, magnanimity, determination, noble‑mindedness, tenacity, the elevation of your aims and your spiritual qualities; that you may become the means of exaltation and glory for the Cause of God and the dawning‑places of His heavenly bestowals; that you may conduct yourselves in conformity with the counsels and exhortations of the Blessed Beauty—may my life be offered up for His loved ones—and by reflecting Bahá’í qualities and attributes, you may stand out distinguished from others. ‘Abdu’l‑Bahá eagerly anticipates that each one of you may become even as a fearless lion moving in the pastures of human perfection and a musk‑laden breeze wafting over the meads of virtue."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 4,
-    "title": "Section 4",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Section 4"
+      },
       {
         "text": "O Thou kind Lord! Graciously bestow a pair of heavenly wings unto each of these fledglings and give them spiritual power that they may wing their flight through this limitless space and may soar to the heights of the Abhá Kingdom."
       },
@@ -58,20 +34,11 @@
       },
       {
         "text": "Thou art the Mighty and the Powerful, Thou art the Bestower and the All‑Loving."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 5,
-    "title": "Section 5",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Section 5"
+      },
       {
         "text": "The suckling babe passeth through various physical stages, growing and developing at every stage, until its body reacheth the age of maturity. Having arrived at this stage it acquireth the capacity to manifest spiritual and intellectual perfections. The lights of comprehension, intelligence and knowledge become perceptible in it and the powers of its soul unfold."
       },
@@ -80,20 +47,11 @@
       },
       {
         "text": "O Lord! Make this youth radiant and confer Thy bounty upon this poor creature. Bestow upon him knowledge, grant him added strength at the break of every morn and guard him within the shelter of Thy protection so that he may be freed from error, may devote himself to the service of Thy Cause, may guide the wayward, lead the hapless, free the captives and awaken the heedless, that all may be blessed with Thy remembrance and praise. Thou art the Mighty and the Powerful."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 6,
-    "title": "Section 6",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Section 6"
+      },
       {
         "text": "Blessed is he who in the prime of his youth and the heyday of his life will arise to serve the Cause of the Lord of the beginning and of the end, and adorn his heart with His love. The manifestation of such a grace is greater than the creation of the heavens and of the earth. Blessed are the steadfast and well is it with those who are firm."
       },
@@ -105,32 +63,15 @@
       },
       {
         "text": "Although your realities are shaped by a broad diversity of circumstances, yet a desire to bring about constructive change and a capacity for meaningful service, both characteristic of your stage of life, are neither limited to any race or nationality, nor dependent upon material means. This bright period of youth you share is experienced by all . . ."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 7,
-    "title": "Section 7",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 8,
-    "title": "Section 8",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Section 7"
+      },
+      {
+        "section": [8],
+        "title": "Section 8"
+      },
       {
         "text": "For any person, whether Bahá’í or not, his youthful years are those in which he will make many decisions which will set the course of his life. In these years he is most likely to choose his life’s work, complete his education, begin to earn his own living, marry and start to raise his own family. Most important of all, it is during this period that the mind is most questing and that the spiritual values that will guide the person’s future behaviour are adopted."
       },
@@ -139,20 +80,11 @@
       },
       {
         "text": "While it is right to expect great things from those who have so much to give in the path of service, the friends must guard against adopting a narrow outlook on what development to maturity entails. Freedom of movement and availability of time enable many youth to serve in ways that are directly related to the needs of the community, but as they advance further into their twenties, their horizons broaden. . . . For many, an immediate priority will be further education, academic or vocational, according to the possibilities before them, and new spaces for interaction with society open up. . . . The significant decisions they make about the direction of their adult lives will determine whether service to the Cause of God was only a brief and memorable chapter of their younger years, or a fixed centre of their earthly existence, a lens through which all actions come into focus."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 9,
-    "title": "Section 9",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Section 9"
+      },
       {
         "text": "It strives to engage the individual in an educational process in which virtuous conduct and self‑discipline are developed in the context of service, fostering a coherent and joyful pattern of life that weaves together study, worship, teaching, community building and, in general, involvement in other processes that seek to transform society. at the heart of the educational process is contact with the Word of God, whose power sustains every individual’s attempts to purify his or her heart and to walk a path of service with ‘the feet of detachment’."
       },
@@ -161,44 +93,19 @@
       },
       {
         "text": "Irrespective of particulars, they will, one and all, share in the desire to dedicate their time and energy, talents and abilities, to service to their communities. Many, when given the opportunity, will gladly devote a few years of their lives to the provision of spiritual education to the rising generations. In the young people of the world, then, lies a reservoir of capacity to transform society waiting to be tapped. And the release of this capacity should be regarded by every institute as a sacred charge."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 10,
-    "title": "Section 10",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 11,
-    "title": "Section 11",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 12,
-    "title": "Section 12",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Section 10"
+      },
+      {
+        "section": [11],
+        "title": "Section 11"
+      },
+      {
+        "section": [12],
+        "title": "Section 12"
+      },
       {
         "text": "The purpose of the one true God in manifesting Himself is to summon all mankind to truthfulness and sincerity, to piety and trustworthiness, to resignation and submissiveness to the Will of God, to forbearance and kindliness, to uprightness and wisdom. His object is to array every man with the mantle of a saintly character, and to adorn him with the ornament of holy and goodly deeds."
       },
@@ -225,20 +132,11 @@
       },
       {
         "text": "They who are the people of God have no ambition except to revive the world, to ennoble its life, and regenerate its peoples."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 13,
-    "title": "Section 13",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Section 13"
+      },
       {
         "text": "A race of men, incomparable in character, shall be raised up which, with the feet of detachment, will tread under all who are in heaven and on earth, and will cast the sleeve of holiness over all that hath been created from water and clay."
       },
@@ -253,20 +151,11 @@
       },
       {
         "text": "O ye friends of God! Make ye a mighty effort that all the peoples and kindreds of the world, even the enemies, should put their trust, confidence and hope in you. Should a soul commit a hundred thousand misdeeds, yet may he hope for forgiveness and may not become despondent or grieved. Such is the conduct and behaviour of the people of Bahá. Such is the foundation of the path of loftiness. Let your conduct and manners conform to the counsels of ʻAbdu’l‑Bahá."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 14,
-    "title": "Section 14",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Section 14"
+      },
       {
         "text": "By My Self! The day is approaching when We will have rolled up the world and all that is therein, and spread out a new order in its stead."
       },
@@ -281,20 +170,11 @@
       },
       {
         "text": ". . . we must strive with heart and soul in order that this darkness of the contingent world may be dispelled, that the lights of the Kingdom shall shine upon all the horizons, the world of humanity become illumined, the image of God become apparent in human mirrors, the law of God be well established and that all regions of the world shall enjoy peace, comfort and composure beneath the equitable protection of God."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 15,
-    "title": "Section 15",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Section 15"
+      },
       {
         "text": "O Son of Earth! Know, verily, the heart wherein the least remnant of envy yet lingers, shall never attain My everlasting dominion, nor inhale the sweet savours of holiness breathing from My kingdom of sanctity."
       },
@@ -321,48 +201,22 @@
       },
       {
         "text": "Divine civilisation, however, so traineth every member of society that no one, with the exception of a negligible few, will undertake to commit a crime. There is thus a great difference between the prevention of crime through measures that are violent and retaliatory, and so training the people, and enlightening them, and spiritualising them, that without any fear of punishment or vengeance to come, they will shun all criminal acts. They will, indeed, look upon the very commission of a crime as a great disgrace and in itself the harshest of punishments."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 16,
-    "title": "Section 16",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [16],
+        "title": "Section 16"
+      },
       {
         "text": "We cannot segregate the human heart from the environment outside us and say that once one of these is reformed everything will be improved. Man is organic with the world. His inner life moulds the environment and is itself also deeply affected by it. The one acts upon the other and every abiding change in the life of man is the result of these mutual reactions."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 17,
-    "title": "Section 17",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 18,
-    "title": "Section 18",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [17],
+        "title": "Section 17"
+      },
+      {
+        "section": [18],
+        "title": "Section 18"
+      },
       {
         "text": "gaining momentum with every passing day, tearing down barriers in all climes and amidst divers peoples and races, widening irresistibly the scope of its beneficent operations, and revealing ever more compelling signs of its inherent strength as it marches towards the spiritual conquest of the entire planet."
       },
@@ -383,20 +237,11 @@
       },
       {
         "text": "The answer to this question, as amply evidenced by decades of contentious history, cannot be found in political passion, conflicting expressions of class interest, or technical recipes. What is called for is a spiritual revival, as a prerequisite to the successful application of political, economic and technological instruments. But there is a need for a catalyst. Be assured that, in spite of your small numbers, you are the channels through which such a catalyst can be provided."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 19,
-    "title": "Section 19",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [19],
+        "title": "Section 19"
+      },
       {
         "text": "We behold, as we survey the episodes of this first act of a sublime drama, the figure of its Master Hero, the Báb, arise meteor‑like above the horizon of Shíráz, traverse the sombre sky of Persia from south to north, decline with tragic swiftness, and perish in a blaze of glory. We see His satellites, a galaxy of God‑intoxicated heroes, mount above that same horizon, irradiate that same incandescent light, burn themselves out with that self‑same swiftness, and impart in their turn an added impetus to the steadily gathering momentum of God’s nascent Faith. . . ."
       },
@@ -405,39 +250,21 @@
       },
       {
         "text": "When the exalted figure of the Báb, aged just twenty‑five, arose to deliver His revolutionising message to the world, many among those who accepted and spread His teachings were young, even younger than the Báb Himself. Their heroism, immortalised in all its dazzling intensity in The Dawn‑Breakers, will illumine the annals of human history for centuries to come. Thus began a pattern in which every generation of youth, drawing inspiration from the same divine impulse to cast the world anew, has seized the opportunity to contribute to the latest stage in the unfolding process that is to transform the life of humankind. It is a pattern that has suffered no interruption from the time of the Báb to this present hour."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 20,
-    "title": "Section 20",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [20],
+        "title": "Section 20"
+      },
       {
         "text": "From the very beginning of the Bahá’í Era, youth have played a vital part in the promulgation of God’s Revelation. The Báb Himself was but twenty‑five years old when He declared His Mission, while many of the Letters of the Living were even younger. The Master, as a very young man, was called upon to shoulder heavy responsibilities in the service of His Father in ‘Iráq and Turkey, and His brother, the Purest Branch, yielded up his life to God in the Most Great Prison at the age of twenty‑two that the servants of God might “be quickened, and all that dwell on earth be united.” Shoghi Effendi was a student at Oxford when called to the throne of his guardianship, and many of the Knights of Bahá’u’lláh, who won imperishable fame during the Ten Year Crusade, were young people."
       },
       {
         "text": "Consider, for example, the instances in Shíráz last summer of the six young women, their ages ranging from 18 to 25 years, whose lives were snuffed out by the hangman’s noose. All faced attempted inducements to recant their faith; all refused to deny their Beloved. Look also at the accounts of the astounding fortitude shown over and over again by children and youth who were subjected to the interrogations and abuses of teachers and mullahs and were expelled from school for upholding their beliefs. It, moreover, bears noting that under the restrictions so cruelly imposed on their community, the youth, rendered signal services, placing their energies at the disposal of Bahá’í institutions throughout the country. No splendour of speech could give more fitting testimony to their spiritual commitment and fidelity than these pure acts of selflessness and devotion. In virtually no other place on earth is so great a price for faith required of the Bahá’ís. Nor could there be found more willing, more radiant bearers of the cup of sacrifice than the valiant Bahá’í youth of Írán. Might it, then, not be reasonably expected that you, the youth and young adults living at such an extraordinary time, witnessing such stirring examples of the valour of your Íránian fellows, and exercising such freedom of movement, would sally forth, “unrestrained as the wind,” into the field of Bahá’í action?"
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 1: Life’s Springtime"
-    ],
-    "item": 21,
-    "title": "Section 21",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [21],
+        "title": "Section 21"
+      },
       {
         "text": "For when the true lover and devoted friend reacheth the presence of the Beloved, the radiant beauty of the Loved One and the fire of the lover’s heart will kindle a blaze and burn away all veils and wrappings. Yea, all that he hath, from marrow to skin, will be set aflame, so that nothing will remain save the Friend."
       },
@@ -465,80 +292,45 @@
     ]
   },
   {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 1,
-    "title": "Section 1",
+    "path": ["Book 5: Releasing the Powers of Junior Youth"],
+    "item": 2,
+    "title": "Unit 2: An Age of Promise",
     "author": "Ruhi Institute",
     "years": [2022, 2022],
     "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Section 1"
+      },
       {
         "text": "The rapid spread of the programme for the spiritual empowerment of junior youth is yet another expression of cultural advance in the Bahá’í community. While global trends project an image of this age group as problematic, lost in the throes of tumultuous physical and emotional change, unresponsive and self‑consumed, the Bahá’í community—in the language it employs and the approaches it adopts—is moving decidedly in the opposite direction, seeing in junior youth instead altruism, an acute sense of justice, eagerness to learn about the universe and a desire to contribute to the construction of a better world. Account after account, in which junior youth in countries all over the planet give voice to their thoughts as participants in the programme, testifies to the validity of this vision. There is every indication that the programme engages their expanding consciousness in an exploration of reality that helps them to analyse the constructive and destructive forces operating in society and to recognise the influence these forces exert on their thoughts and actions, sharpening their spiritual perception, enhancing their powers of expression and reinforcing moral structures that will serve them throughout their lives. At an age when burgeoning intellectual, spiritual and physical powers become accessible to them, they are being given the tools needed to combat the forces that would rob them of their true identity as noble beings and to work for the common good."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 2,
-    "title": "Section 2",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "Section 2"
+      },
       {
         "text": "After a time he enters the period of youth, in which his former conditions and needs are superseded by new requirements applicable to the advance in his degree. His faculties of observation are broadened and deepened; his intelligent capacities are trained and awakened; the limitations and environment of childhood no longer restrict his energies and accomplishments."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 3,
-    "title": "Section 3",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Section 3"
+      },
       {
         "text": "It is extremely difficult to teach the individual and refine his character once puberty is passed. By then, as experience hath shown, even if every effort be exerted to modify some tendency of his, it all availeth nothing. He may, perhaps, improve somewhat today; but let a few days pass and he forgetteth, and turneth backward to his habitual condition and accustomed ways."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 4,
-    "title": "Section 4",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Section 4"
+      },
       {
         "text": "The individuality of each created thing is based upon divine wisdom, or in the creation of God there is no defect. However, personality has no element of permanence. It is a slightly changeable quality in man which can be turned in either direction. For if he acquire praiseworthy virtues, these strengthen the individuality of man and call forth his hidden forces; but if he acquire defects, the beauty and simplicity of the individuality will be lost to him and its God‑given qualities will be stifled in the foul atmosphere of self."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 5,
-    "title": "Section 5",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Section 5"
+      },
       {
         "text": "O My servants! Could ye apprehend with what wonders of My munificence and bounty I have willed to entrust your souls, ye would, of a truth, rid yourselves of attachment to all created things, and would gain a true knowledge of your own selves—a knowledge which is the same as the comprehension of Mine own Being. Ye would find yourselves independent of all else but Me, and would perceive, with your inner and outer eye, and as manifest as the revelation of My effulgent Name, the seas of My loving‑kindness and bounty moving within you."
       },
@@ -550,20 +342,11 @@
       },
       {
         "text": "O Son of Spirit! I created thee rich, why dost thou bring thyself down to poverty? Noble I made thee, wherewith dost thou abase thyself? Out of the essence of knowledge I gave thee being, why seekest thou enlightenment from anyone beside Me? Out of the clay of love I moulded thee, how dost thou busy thyself with another? Turn thy sight unto thyself, that thou mayest find Me standing within thee, mighty, powerful and self‑subsisting."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 6,
-    "title": "Section 6",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Section 6"
+      },
       {
         "text": "Every imperfect soul is self‑centred and thinketh only of his own good."
       },
@@ -587,20 +370,11 @@
       },
       {
         "text": "How debased the soul which can find enjoyment in this darkness, occupied with itself, the captive of self and passion, wallowing in the mire of the material world!"
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 7,
-    "title": "Section 7",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Section 7"
+      },
       {
         "text": "Today the confirmations of the Kingdom of Abhá are with those who renounce themselves, forget their own opinions, cast aside personalities and are thinking of the welfare of others. Whosoever has lost himself has found the universe and the inhabitants thereof. Whosoever is occupied with himself is wandering in the desert of heedlessness and regret. The ‘Master Key’ to self‑mastery is self‑forgetting. The road to the palace of life is through the path of renunciation."
       },
@@ -624,20 +398,11 @@
       },
       {
         "text": "O people of the world! Follow not the promptings of the self, for it summoneth insistently to wickedness and lust; follow, rather, Him Who is the Possessor of all created things, Who biddeth you to show forth piety, and manifest the fear of God."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 8,
-    "title": "Section 8",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Section 8"
+      },
       {
         "text": "The mass of the people are occupied with self and worldly desire, are immersed in the ocean of the nether world and are captives of the world of nature, save those souls who have been freed from the chains and fetters of the material world and, like unto swift‑flying birds, are soaring in this unbounded realm. They are awake and vigilant, they shun the obscurity of the world of nature, their highest wish centereth on the eradication from among men of the struggle for existence, the shining forth of the spirituality and the love of the realm on high, the exercise of utmost kindness among peoples, the realisation of an intimate and close connection between religions and the practice of the ideal of self‑sacrifice. Then will the world of humanity be transformed into the Kingdom of God."
       },
@@ -646,198 +411,81 @@
       },
       {
         "text": "O ye loved ones of God! In this, the Bahá’í dispensation, God’s Cause is spirit unalloyed. His Cause belongeth not to the material world. It cometh neither for strife nor war, nor for acts of mischief or of shame; it is neither for quarrelling with other Faiths, nor for conflicts with the nations. Its only army is the love of God, its only joy the clear wine of His knowledge, its only battle the expounding of the Truth; its one crusade is against the insistent self, the evil promptings of the human heart. Its victory is to submit and yield, and to be selfless is its everlasting glory."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 9,
-    "title": "Section 9",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Section 9"
+      },
       {
         "text": "Inspire them, O my Lord, with a sense of their own powerlessness before Him Who is the Manifestation of Thy Self, and teach them to recognise the poverty of their own nature in the face of the manifold tokens of Thy self‑sufficiency and riches, that they may gather together round Thy Cause, and cling to the hem of Thy mercy, and cleave to the cord of the good pleasure of Thy will."
       },
       {
         "text": "Divest, then, Thy servants, O my God, of the garments of self and desire, or grant that the eyes of Thy people may be lifted up to such heights that they will discern in their desires naught except the stirring of the gentle winds of Thine eternal glory, and may recognise in their own selves nothing but the revelation of Thine own merciful Self, that the earth and all that is therein may be cleansed of whatever is alien to Thee, or anything that manifesteth aught save Thy Self."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 10,
-    "title": "Section 10",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 11,
-    "title": "Section 11",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 12,
-    "title": "Section 12",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Section 10"
+      },
+      {
+        "section": [11],
+        "title": "Section 11"
+      },
+      {
+        "section": [12],
+        "title": "Section 12"
+      },
       {
         "text": ". . . the Cause of God will derive immense benefit when it is observed that the Bahá’ís, and particularly Bahá’í youth, stand out against the laxity and depravity of the permissive society, that the exalted standards of conduct which they strive to uphold are firmly rooted in spiritual principles, giving them confidence, self‑respect and true happiness. On the other hand only the greatest harm can be done to the Cause if its followers are simply engulfed by the current tide."
       },
       {
         "text": "Indeed, the chief reason for the evils now rampant in society is a lack of spirituality. The materialistic civilisation of our age has so much absorbed the energy and interest of mankind, that people in general no longer feel the necessity of raising themselves above the forces and conditions of their daily material existence. There is not sufficient demand for things that we should call spiritual to differentiate them from the needs and requirements of our physical existence."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 13,
-    "title": "Section 13",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 14,
-    "title": "Section 14",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 15,
-    "title": "Section 15",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 16,
-    "title": "Section 16",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 17,
-    "title": "Section 17",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 18,
-    "title": "Section 18",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 19,
-    "title": "Section 19",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Section 13"
+      },
+      {
+        "section": [14],
+        "title": "Section 14"
+      },
+      {
+        "section": [15],
+        "title": "Section 15"
+      },
+      {
+        "section": [16],
+        "title": "Section 16"
+      },
+      {
+        "section": [17],
+        "title": "Section 17"
+      },
+      {
+        "section": [18],
+        "title": "Section 18"
+      },
+      {
+        "section": [19],
+        "title": "Section 19"
+      },
       {
         "text": "It is the hope of ‘Abdu’l‑Bahá that those youthful souls in the schoolroom of the deeper knowledge will be tended by one who traineth them to love. May they all, throughout the reaches of the spirit, learn well of the hidden mysteries; so well that in the Kingdom of the All‑Glorious, each one of them, even as a nightingale endowed with speech, will cry out the secrets of the Heavenly Realm, and like unto a longing lover pour forth his sore need and utter want of the Beloved."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 20,
-    "title": "Section 20",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [20],
+        "title": "Section 20"
+      },
       {
         "text": "First of all, be ready to sacrifice your lives for one another, to prefer the general well‑being to your personal well‑being. Create relationships that nothing can shake; form an assembly that nothing can break up; have a mind that never ceases acquiring riches that nothing can destroy. If love did not exist, what of reality would remain? It is the fire of the love of God which renders man superior to the animal. Strengthen this superior force through which is attained all the progress in the world."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 21,
-    "title": "Section 21",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 22,
-    "title": "Section 22",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [21],
+        "title": "Section 21"
+      },
+      {
+        "section": [22],
+        "title": "Section 22"
+      },
       {
         "text": "The believers are, for the most part, young in the Cause, and if they make mistakes it is not half as important as if their spirit is crushed by being told all the time—do this and don’t do that!"
       },
@@ -858,20 +506,11 @@
       },
       {
         "text": "Thy letter was like a perfumed bouquet of flowers shedding abroad the fragrance of faith and certitude. Well done! Well done! Thou hast turned thy face toward the unseen Kingdom. Splendid! Splendid! Thou wast attracted to the Beauty of the Almighty! Marvellous! Marvellous! How fortunate thou wast to have attained unto this supreme bounty!"
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 2: An Age of Promise"
-    ],
-    "item": 23,
-    "title": "Section 23",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment",
-    "paragraphs": [
+      },
+      {
+        "section": [23],
+        "title": "Section 23"
+      },
       {
         "text": "Joy gives us wings! In times of joy our strength is more vital, our intellect keener, and our understanding less clouded. We seem better able to cope with the world and to find our sphere of usefulness."
       },
@@ -884,75 +523,42 @@
     ]
   },
   {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 1,
-    "title": "Section 1",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 2,
-    "title": "Section 2",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
+    "path": ["Book 5: Releasing the Powers of Junior Youth"],
     "item": 3,
-    "title": "Section 3",
+    "title": "Unit 3: Serving as an Animator",
     "author": "Ruhi Institute",
     "years": [2022, 2022],
     "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Section 1"
+      },
+      {
+        "section": [2],
+        "title": "Section 2"
+      },
+      {
+        "section": [3],
+        "title": "Section 3"
+      },
       {
         "text": "One of the basic principles governing Bahá’í social and economic development is that the friends should give the Teachings of Bahá’u’lláh liberally and unconditionally to humanity so that people everywhere can apply them to pressing social issues and improve their individual and collective lives, both in material and spiritual dimensions. Access to the Word of God should not be conditioned upon acceptance of Bahá’u’lláh as a Manifestation of God for today. Moreover, it would not be inappropriate to refrain from explicitly mentioning the Source of inspiration underlying an educational programme developed on the basis of His Teachings, when circumstances demand it. In this light, there are a range of options that the friends can consider when creating educational materials which draw on the teachings and principles of the Faith."
       },
       {
         "text": "We have been asked to inform you that there is no requirement to cite the author when using a quotation from the Bahá’í Writings in Bahá’í‑inspired curricula material if there appears to be a wisdom in not doing so."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 4,
-    "title": "Section 4",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Section 4"
+      },
       {
         "text": ". . . the dangers facing the modern youth are becoming increasingly grave, and call for immediate solution. But, as experience clearly shows, the remedy to this truly sad and perplexing situation is not to be found in traditional and ecclesiastical religion. The dogmatism of the Church has been discarded once for all. What can control youth and save it from the pitfalls of the crass materialism of the age is the power of a genuine, constructive and living Faith such as the one revealed to the world by Bahá’u’lláh. Religion as in the past, is still the world’s sole hope, but not that form of religion which our ecclesiastical leaders strive vainly to preach. Divorced from true religion, morals lose their effectiveness and cease to guide and control man’s individual and social life. But when true religion is combined with true ethics, then moral progress becomes a possibility and not a mere ideal."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 5,
-    "title": "Section 5",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Section 5"
+      },
       {
         "text": "Let them make the greatest progress in the shortest span of time, let them open wide their eyes and uncover the inner realities of all things, become proficient in every art and skill, and learn to comprehend the secrets of all things even as they are—this faculty being one of the clearly evident effects of servitude to the Holy Threshold."
       },
@@ -967,20 +573,11 @@
       },
       {
         "text": "The conception of annihilation is a factor in human degradation, a cause of human debasement and lowliness, a source of human fear and abjection. It has been conducive to the dispersion and weakening of human thought, whereas the realisation of existence and continuity has upraised man to sublimity of ideals, established the foundations of human progress and stimulated the development of heavenly virtues; therefore, it behoves man to abandon thoughts of nonexistence and death, which are absolutely imaginary, and see himself ever‑living, everlasting in the divine purpose of his creation. He must turn away from ideas which degrade the human soul so that day by day and hour by hour he may advance upward and higher to spiritual perception of the continuity of the human reality."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 6,
-    "title": "Section 6",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Section 6"
+      },
       {
         "text": "The more pure and sanctified the heart of man becomes, the nearer it draws to God, and the light of the Sun of Reality is revealed within it. This light sets hearts aglow with the fire of the love of God, opens in them the doors of knowledge and unseals the divine mysteries so that spiritual discoveries are made possible."
       },
@@ -992,20 +589,11 @@
       },
       {
         "text": "The love of God is spoken of as fire, for it burneth away the veils, and as water, for it is the source of life. In short, the love of God is the inmost reality of the virtues of the world of humanity. Through it, human nature is purified. Through the love of God, one is delivered from the defects of the human world. Through the love of God, one maketh progress in the realm of virtues. The love of God is the cause of the illumination of the world."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 7,
-    "title": "Section 7",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Section 7"
+      },
       {
         "text": "The bestowals of God which are manifest in all phenomenal life are sometimes hidden by intervening veils of mental and mortal vision which render man spiritually blind and incapable, but when those scales are removed and the veils rent asunder, then the great signs of God will become visible, and he will witness the eternal light filling the world. The bestowals of God are all and always manifest. The promises of heaven are ever present. The favours of God are all‑surrounding, but should the conscious eye of the soul of man remain veiled and darkened, he will be led to deny these universal signs and remain deprived of these manifestations of divine bounty. Therefore, we must endeavour with heart and soul in order that the veil covering the eye of inner vision may be removed, that we may behold the manifestations of the signs of God, discern His mysterious graces and realise that material blessings as compared with spiritual bounties are as nothing."
       },
@@ -1041,86 +629,42 @@
       },
       {
         "text": "I beg of God to remove all the veilings and familiarise the light with all eyes, so that man may not be veiled from witnessing the Sun of Truth."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 8,
-    "title": "Section 8",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 9,
-    "title": "Section 9",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Section 8"
+      },
+      {
+        "section": [9],
+        "title": "Section 9"
+      },
       {
         "text": "There are certain pillars which have been established as the unshakable supports of the Faith of God. The mightiest of these is learning and the use of the mind, the expansion of consciousness, and insight into the realities of the universe and the hidden mysteries of Almighty God."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 10,
-    "title": "Section 10",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Section 10"
+      },
       {
         "text": "O people of Bahá! The source of crafts, sciences and arts is the power of reflection. Make ye every effort that out of this ideal mine there may gleam forth such pearls of wisdom and utterance as will promote the well‑being and harmony of all the kindreds of the earth."
       },
       {
         "text": "He hath come for your salvation, and hath borne tribulations that ye may ascend, by the ladder of utterance, unto the summit of understanding."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 11,
-    "title": "Section 11",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Section 11"
+      },
       {
         "text": "Through the movement of Our Pen of glory We have, at the bidding of the omnipotent Ordainer, breathed a new life into every human frame, and instilled into every word a fresh potency. All created things proclaim the evidences of this worldwide regeneration."
       },
       {
         "text": "May your souls be illumined by the light of the Words of God, and may you become repositories of the mysteries of God, for no comfort is greater and no happiness is sweeter than spiritual comprehension of the divine teachings. If a man understands the real meaning of a poet’s verses such as those of Shakespeare, he is pleased and rejoiced. How much greater his joy and pleasure when he perceives the reality of the Holy Scriptures and becomes informed of the mysteries of the Kingdom!"
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 12,
-    "title": "Section 12",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "Section 12"
+      },
       {
         "text": "Say: Human utterance is an essence which aspireth to exert its influence and needeth moderation. As to its influence, this is conditional upon refinement which in turn is dependent upon hearts which are detached and pure."
       },
@@ -1132,20 +676,11 @@
       },
       {
         "text": "If thou wishest thy speech and utterance to penetrate hearts that are hardened, rid thyself of all attachment to the world and turn thy face unto the Kingdom of God."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 13,
-    "title": "Section 13",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Section 13"
+      },
       {
         "text": "Now is the moment in which to cleanse thyself with the waters of detachment that have flowed out from the Supreme Pen, and to ponder, wholly for the sake of God, those things which, time and again, have been sent down or manifested, and then to strive, as much as lieth in thee, to quench, through the power of wisdom and the force of thy utterance, the fire of enmity and hatred which smouldereth in the hearts of the peoples of the world."
       },
@@ -1154,20 +689,11 @@
       },
       {
         "text": "Every word is endowed with a spirit, therefore the speaker or expounder should carefully deliver his words at the appropriate time and place, for the impression which each word maketh is clearly evident and perceptible. The Great Being saith: One word may be likened unto fire, another unto light, and the influence which both exert is manifest in the world. Therefore an enlightened man of wisdom should primarily speak with words as mild as milk, that the children of men may be nurtured and edified thereby and may attain the ultimate goal of human existence which is the station of true understanding and nobility. And likewise He saith: One word is like unto springtime causing the tender saplings of the rose‑garden of knowledge to become verdant and flourishing, while another word is even as a deadly poison. It behoveth a prudent man of wisdom to speak with utmost leniency and forbearance so that the sweetness of his words may induce everyone to attain that which befitteth man’s station."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 14,
-    "title": "Section 14",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Section 14"
+      },
       {
         "text": "The Daystar of utterance, shining resplendent from the dayspring of divine Revelation, hath so illumined the Scrolls and Tablets that the kingdom of utterance and the exalted dominion of understanding vibrate with joy and ecstasy and shine forth with the splendour of His light."
       },
@@ -1179,72 +705,30 @@
       },
       {
         "text": "It is clear and evident, therefore, that the first bestowal of God is the Word, and its discoverer and recipient is the power of understanding. This Word is the foremost instructor in the school of existence and the revealer of Him Who is the Almighty. All that is seen is visible only through the light of its wisdom. All that is manifest is but a token of its knowledge. All names are but its name, and the beginning and end of all matters must needs depend upon it."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 15,
-    "title": "Section 15",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Section 15"
+      },
       {
         "text": ". . . in the spiritual realm of intelligence and idealism there must be a centre of illumination, and that centre is the everlasting, ever‑shining Sun, the Word of God. Its lights are the lights of reality which have shone upon humanity, illumining the realm of thought and morals, conferring the bounties of the divine world upon man."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 16,
-    "title": "Section 16",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 17,
-    "title": "Section 17",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 18,
-    "title": "Section 18",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 19,
-    "title": "Section 19",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [16],
+        "title": "Section 16"
+      },
+      {
+        "section": [17],
+        "title": "Section 17"
+      },
+      {
+        "section": [18],
+        "title": "Section 18"
+      },
+      {
+        "section": [19],
+        "title": "Section 19"
+      },
       {
         "text": "I pray Thee, O Thou Who art the Lord of all names and the Ruler of both earth and heaven, to grant that all who are dear to Thee may each become a cup of Thy mercy in Thy days, that they may quicken the hearts of Thy servants. Empower them also, O my God, to be as the rain that poureth down from the clouds of Thy grace, and as the winds that waft the vernal fragrances of Thy loving‑kindness, that through them the soil of the hearts of Thy creatures may be clad with verdure, and may bring forth the things that will shed their fragrance over all Thy dominion, so that every one may perceive the sweet smell of the Robe of Thy Revelation."
       },
@@ -1277,140 +761,51 @@
       },
       {
         "text": "Enable them to distinguish themselves amongst Thy people, that they may exalt Thy word and promote Thy Cause. Aid them, O my God, to do Thy will and pleasure."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 20,
-    "title": "Section 20",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 21,
-    "title": "Section 21",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 22,
-    "title": "Section 22",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 23,
-    "title": "Section 23",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 24,
-    "title": "Section 24",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 25,
-    "title": "Section 25",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 26,
-    "title": "Section 26",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 27,
-    "title": "Section 27",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 28,
-    "title": "Section 28",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 29,
-    "title": "Section 29",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": []
-  },
-  {
-    "path": [
-      "Book 5: Releasing the Powers of Junior Youth",
-      "Unit 3: Serving as an Animator"
-    ],
-    "item": 30,
-    "title": "Section 30",
-    "author": "Ruhi Institute",
-    "years": [2022, 2022],
-    "purpose": "To reflect on concepts that shape the junior youth spiritual empowerment programme",
-    "paragraphs": [
+      },
+      {
+        "section": [20],
+        "title": "Section 20"
+      },
+      {
+        "section": [21],
+        "title": "Section 21"
+      },
+      {
+        "section": [22],
+        "title": "Section 22"
+      },
+      {
+        "section": [23],
+        "title": "Section 23"
+      },
+      {
+        "section": [24],
+        "title": "Section 24"
+      },
+      {
+        "section": [25],
+        "title": "Section 25"
+      },
+      {
+        "section": [26],
+        "title": "Section 26"
+      },
+      {
+        "section": [27],
+        "title": "Section 27"
+      },
+      {
+        "section": [28],
+        "title": "Section 28"
+      },
+      {
+        "section": [29],
+        "title": "Section 29"
+      },
+      {
+        "section": [30],
+        "title": "Section 30"
+      },
       {
         "text": "Not surprisingly, it is your age group that is gaining the most experience at aiding junior youth, and children too, with their moral and spiritual development, fostering in them capacity for collective service and true friendship. After all, aware of the world which these young souls will need to navigate, with its pitfalls and also its opportunities, you readily appreciate the importance of spiritual strengthening and preparation. Conscious, as you are, that Bahá’u’lláh came to transform both the inner life and external conditions of humanity, you are assisting those younger than yourselves to refine their characters and prepare to assume responsibility for the well‑being of their communities. As they enter adolescence, you are helping them to enhance their power of expression, as well as enabling a strong moral sensibility to take root within them. In so doing, your own sense of purpose is becoming more clearly defined as you heed Bahá’u’lláh’s injunction: “Let deeds, not words, be your adorning.”"
       }

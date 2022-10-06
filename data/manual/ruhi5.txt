@@ -5,7 +5,6 @@ collection
 
 # Unit 1: Life’s Springtime
 purpose="To gain an understanding of some of the characteristics that are to distinguish youth, as a prerequisite for engaging junior youth in a programme for their spiritual empowerment"
-collection
 
 ## Section 1
 
@@ -183,7 +182,6 @@ Verily, Thou art the Most Generous, the Lord of grace abounding. There is no oth
 
 # Unit 2: An Age of Promise
 purpose="To explore the immense potentialities of young people between the ages of twelve and fifteen and to appreciate the significance of providing them with an environment conducive to their spiritual empowerment"
-collection
 
 ## Section 1
 
@@ -319,7 +317,6 @@ The greatest gift of man is universal love—that magnet which renders existence
 
 # Unit 3: Serving as an Animator
 purpose="To reflect on concepts that shape the junior youth spiritual empowerment programme"
-collection
 
 ## Section 1
 

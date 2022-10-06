@@ -3,7 +3,7 @@
     baseLevel: 1,
     levelNumbers: false,
     paraNumbers: true,
-    color: colors.link[doc.author],
+    color: colors.link[doc.author] || colors.link["The World Centre"],
     allLines: doc.paragraphs.every(p => p.type || p.lines),
     <a
       stack={25}
@@ -82,22 +82,26 @@
                     size={16}
                     italic
                     align="right"
-                    color={colors.link[documents[p.id].author]}
+                    color={colors.link[documents[p.id].author] || colors.link["The World Centre"]}
                     underline={hover}
                     link={"/doc/" + p.id + "#" + p.paragraphs[0]}
                     style={{ width: '75%', margin: '0 20px 0 auto' }}
                   >
-                    ({[
-                      documents[p.id].author,
-                      ...documents[p.id].path,
-                      documents[p.id].title ||
-                        (documents[p.id].item && ("#" + documents[p.id].item)),
-                      (p.paragraphs.length === 1 ? "para " : "paras ") +
-                        p.paragraphs
-                          .map(i=> documents[p.id].paragraphs[i].index)
-                          .filter(i=> i !== undefined)
-                          .join(", "),
-                    ].filter(x => x).join(", ")})
+                    ({(
+                      paras: p.paragraphs
+                        .map(i=> documents[p.id].paragraphs[i].index)
+                        .filter(i=> i !== undefined),
+                      unique(
+                        [
+                          documents[p.id].author,
+                          ...documents[p.id].path,
+                          documents[p.id].title ||
+                            (documents[p.id].item && ("#" + documents[p.id].item)),
+                          paras.length > 0 &&
+                            (paras.length === 1 ? "para " : "paras ") + paras.join(", "),
+                        ].filter(x => x)
+                      ).join(", ")
+                    )})
                   </a>
                 </a>
               : p.index === 1 ?
@@ -124,17 +128,19 @@
                 size={16}
                 italic
                 align="left"
-                color={colors.link[documents[r.id].author]}
+                color={colors.link[documents[r.id].author] || colors.link["The World Centre"]}
                 underline={hover}
                 link={"/doc/" + r.id + "#" + r.paragraph}
                 style={{ width: '75%', margin: '0 auto 0 0' }}
               >
-                ({[
-                  documents[r.id].author,
-                  ...documents[r.id].path,
-                  documents[r.id].title ||
-                    (documents[r.id].item && ("#" + documents[r.id].item)),
-                ].filter(x => x).join(", ")})
+                ({unique(
+                  [
+                    documents[r.id].author,
+                    ...documents[r.id].path,
+                    documents[r.id].title ||
+                      (documents[r.id].item && ("#" + documents[r.id].item)),
+                  ].filter(x => x)
+                ).join(", ")})
               </a>
             )}
           </a>

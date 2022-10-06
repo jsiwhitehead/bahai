@@ -1,6 +1,6 @@
 Bahá’u’lláh and the New Era
 author="John E. Esslemont"
-years=[1937,1937]
+years=[2006,2006]
 collection
 
 # Foreword
