@@ -127,7 +127,8 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
       doc.paragraphs = doc.paragraphs.map((paragraph, index) => {
         const { simplified, parts } = paragraph;
         const source =
-          simplified.join("").length >= 80 &&
+          (simplified.join("").length >= 80 ||
+            ["compilations-", "ruhi-"].some((s) => doc.id.startsWith(s))) &&
           documents.find(
             (d) =>
               d.id !== doc.id &&
