@@ -1,6 +1,6 @@
 Days of Remembrance
 author="Bahá’u’lláh"
-years=[1857,1868]
+years=[1852,1892]
 collection
 
 # Preface

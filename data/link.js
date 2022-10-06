@@ -37,11 +37,23 @@ const getMappedIndices = (s) => {
         };
       }),
     }))
-    .sort((a, b) => a.years[0] - b.years[0] || a.id.localeCompare(b.id));
+    .sort((a, b) => {
+      if (
+        ["bahaullah-days", "bahaullah-gleanings"].every(
+          (s) => a.id.startsWith(s) || b.id.startsWith(s)
+        )
+      ) {
+        return a.id.startsWith("bahaullah-gleanings") ? -1 : 1;
+      }
+      return a.years[0] - b.years[0] || a.id.localeCompare(b.id);
+    });
 
   const quotes = {};
   for (const doc of documents) {
-    if (!["prayers", "bible", "quran"].some((s) => doc.id.includes(s))) {
+    if (
+      !["prayers", "bible", "quran"].some((s) => doc.id.includes(s)) &&
+      !doc.id.startsWith("additional-")
+    ) {
       doc.paragraphs = doc.paragraphs.map((paragraph, i) => {
         const { simplified, parts } = paragraph;
         const source =
@@ -49,8 +61,14 @@ const getMappedIndices = (s) => {
           documents.find(
             (d) =>
               d.id !== doc.id &&
+              d.id !== "bahaullah-days-remembrance-036" &&
               (d.author !== doc.author ||
                 doc.author === "The Universal House of Justice" ||
+                doc.id.startsWith("bahaullah-gleanings-writings-bahaullah") ||
+                doc.id.startsWith("bahaullah-days-remembrance") ||
+                doc.id.startsWith(
+                  "abdul-baha-selections-writings-abdul-baha"
+                ) ||
                 d.type === "Prayer") &&
               d.years[0] <= doc.years[1] &&
               simplified.every((s) =>
@@ -177,9 +195,13 @@ const getMappedIndices = (s) => {
           .slice(0, -1)
           .map((start, i) => {
             const end = splits[i + 1];
-            const count = parts.filter(
-              (p) => p.start <= start && p.end >= end
-            ).length;
+            const count = [
+              ...new Set(
+                parts
+                  .filter((p) => p.start <= start && p.end >= end)
+                  .map((p) => p.ref.id)
+              ),
+            ].length;
             return { start, end, count };
           })
           .filter((x) => x.count),
@@ -197,56 +219,3 @@ const getMappedIndices = (s) => {
     "./src/data/prayers.json"
   );
 })();
-
-// (async () => {
-//   const documents = (
-//     await readJSON("process", "the-universal-house-of-justice-messages")
-//   ).map((d, i) => ({
-//     id: "the-universal-house-of-justice-messages-" + `${i}`.padStart(3, "0"),
-//     ...d,
-//     paragraphs: d.paragraphs.map((text) => {
-//       const parts = text.split(/\s*(\. \. \.|\[[^\]]*\])\s*/g);
-//       return { text, parts, simplified: parts.map((s) => simplifyText(s)) };
-//     }),
-//   }));
-//   const gleanings = [];
-//   const selections = [];
-//         if (id === "bahaullah-gleanings-writings-bahaullah") {
-//           gleanings.push(...docs);
-//         } else if (id === "abdul-baha-selections-writings-abdul-baha") {
-//           selections.push(...docs);
-//         } else {
-//           documents.push(
-//             ...docs.filter(
-//               (d) =>
-//                 ![
-//                   "Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb‑i‑Aqdas",
-//                   "Part One: Excerpts from the Will and Testament of ‘Abdu’l‑Bahá",
-//                 ].some((x) => d.path?.includes(x)) &&
-//                 ![
-//                   "bahaullah-days-remembrance-032",
-//                   "bahaullah-days-remembrance-036",
-//                   "bahaullah-tablets-bahaullah-017",
-//                 ].includes(d.id)
-//             )
-//           );
-//         }
-
-//   const bahaullahDocs = documents
-//     .filter((d) => d.author === "Bahá’u’lláh")
-//     .map((doc) => flatten(doc.paragraphs.map((p) => p.simplified)).join(""));
-//   for (const doc of gleanings) {
-//     const source = bahaullahDocs.some((full) =>
-//       doc.paragraphs.every((p) => p.simplified.every((s) => full.includes(s)))
-//     );
-//     if (!source) documents.push(doc);
-//   }
-//   const abdulbahaDocs = documents
-//     .filter((d) => d.author === "‘Abdu’l‑Bahá")
-//     .map((doc) => flatten(doc.paragraphs.map((p) => p.simplified)).join(""));
-//   for (const doc of selections) {
-//     const source = abdulbahaDocs.some((full) =>
-//       doc.paragraphs.every((p) => p.simplified.every((s) => full.includes(s)))
-//     );
-//     if (!source) documents.push(doc);
-//   }

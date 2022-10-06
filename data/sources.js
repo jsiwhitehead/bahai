@@ -500,7 +500,7 @@ export const files = {
       removeAfter("Notes"),
       title("", "Days of Remembrance", {
         author: "Bahá’u’lláh",
-        years: [1857, 1868],
+        years: authorYears["Bahá’u’lláh"],
         collection: true,
       }),
       ["Selections from the Writings of Bahá’u’lláh for Bahá’í Holy Days", ""],

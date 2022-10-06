@@ -43,7 +43,7 @@
     />,
     nextInline: x.items.some(y=> y && type(y) !== "object" && ("" + y).trim()),
     content:
-      nextInline ?
+      nextInline || span ?
         x.items.map(y=> map(
           type(y) === "object" ?
             <a {...y} size={y.size || size} line={y.line || line} span={true}/>

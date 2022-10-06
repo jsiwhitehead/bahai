@@ -49,15 +49,13 @@
               parts: quote.parts,
               <a stack={15}>
                 <a size={17} color="black" align="justify">
-                  {parts[0].start > 0 ? ". . ." : ""}
-                  {...parts.flatMap((part, i)=>
+                  {parts[0].start > 0 ? ". . . " : ""}{...parts.flatMap((part, i)=>
                     [
-                      i && (parts[i - 1]?.end !== part.start) ? ". . ." : "",
+                      i && (parts[i - 1]?.end !== part.start) ? " . . . " : "",
                       type(part) === "string" ? part :
                         <a span fill={"rgb(" + [255, 250 - part.count * 10, 250 - part.count * 10].join(", ") + ")"}>{para.text.slice(part.start, part.end)}</a>,
                     ]
-                  )}
-                  {parts[parts.length - 1].end < para.text.length ? ". . ." : ""}
+                  )}{parts[parts.length - 1].end < para.text.length ? " . . ." : ""}
                 </a>
                 <a
                   size={16}
@@ -66,7 +64,7 @@
                   color={colors.link[doc.author]}
                   underline={hover}
                   link={"/doc/" + quote.id + "#" + quote.paragraph}
-                  style={{ width: '75%', margin: '0 20px 0 auto' }}
+                  style={{ width: '75%', margin: '0 0 0 auto' }}
                 >
                   ({unique(
                     [
@@ -74,7 +72,7 @@
                       ...doc.path,
                       doc.title ||
                         (doc.item && ("#" + doc.item)),
-                      "para " + para.index,
+                      para.index && ("para " + para.index),
                     ].filter(x => x)
                   ).join(", ")})
                 </a>
