@@ -41,9 +41,9 @@
       focus::{onfocus && true}
       focus::{onblur && false}
     />,
-    nextInline: x.items.some(y=> y && type(y) !== "object" && ("" + y).trim()),
+    nextInline: inline || x.items.some(y=> y && type(y) !== "object" && ("" + y).trim()),
     content:
-      nextInline || span ?
+      nextInline ?
         x.items.map(y=> map(
           type(y) === "object" ?
             <a {...y} size={y.size || size} line={y.line || line} span={true}/>

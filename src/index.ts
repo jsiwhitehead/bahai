@@ -68,7 +68,6 @@ document.addEventListener("click", (e: any) => {
 run(
   {
     unique: (x) => [...new Set(x)],
-    firstChar: (s) => /[a-z]/i.exec(s)!.index,
     tick,
     url,
     decodeURIComponent,
@@ -110,6 +109,33 @@ run(
         );
       })
       .filter((q) => q.parts.some((p) => p.count > 2)),
+    fillParts: (parts, text) => {
+      const firstChar = /[a-z]/i.exec(text)!.index + 1;
+      if (!parts) {
+        return [
+          { start: 0, end: firstChar, count: 0 },
+          { start: firstChar, end: text.length, count: 0 },
+        ];
+      }
+      const indices = [
+        ...new Set([
+          0,
+          firstChar,
+          ...parts
+            .filter((p) => typeof p !== "string")
+            .flatMap((p) => [p.start, p.end]),
+          text.length,
+        ]),
+      ].sort((a, b) => a - b);
+      return indices.slice(1).map((end, i) => ({
+        start: indices[i],
+        end,
+        count:
+          end === 1 && parts[0].start === 0
+            ? parts[0].count
+            : parts.find((p) => p.end === end)?.count || 0,
+      }));
+    },
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),

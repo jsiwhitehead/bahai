@@ -45,20 +45,6 @@
                     p.section.join(".") + (level === 1 ? "." : "")
                   } {p.title}
                 </a>
-              : p.type === "info" ?
-                <a
-                  size={16}
-                  italic
-                  style={{ clear: "both" }}
-                  {p.text}
-                />
-              : p.type === "call" ?
-                <a
-                  size={17}
-                  uppercase
-                  style={{ clear: "both" }}
-                  {p.text}
-                />
               : p.lines ?
                 <a stack={17 / 2}>
                   {...p.lines.slice(0, -1).map((start, i)=>
@@ -104,24 +90,35 @@
                     )})
                   </a>
                 </a>
-              : p.index === 1 ?
-                (
-                  first: firstChar(p.text) + 1,
-                  <a>
-                    <a
-                      size={17 * 3}
-                      line={1}
-                      color={color}
-                      pad={{ right: 8 }}
-                      style={{ float: "left", width: "auto" }}
-                    >
-                      {p.text.slice(0, first)}
-                    </a>
-                    {p.text.slice(first)}
+              : (
+                  parts: fillParts(quotes[doc.id]?.[i]?.parts, p.text),
+                  <a
+                    inline
+                    size={p.type === "info" ? 16 : 17}
+                    italic={p.type === "info"}
+                    uppercase={p.type === "call"}
+                    indent={p.index === 1 ? 0 : 20}
+                    style={{ clear: "both" }}
+                  >
+                    {...parts.map((part, i)=>
+                      (
+                        fill: part.count && "rgb(" + [255, 240 - part.count * 10, 240 - part.count * 10].join(", ") + ")",
+                        text: p.text.slice(part.start, part.end),
+                        p.index === 1 && i === 0 ?
+                          <a
+                            fill={fill}
+                            size={17 * 3}
+                            line={1}
+                            color={color}
+                            pad={{ right: 8 }}
+                            style={{ float: "left", width: "auto" }}
+                          >{text}</a>
+                        :
+                          <a fill={fill}>{text}</a>
+                      )
+                    )}
                   </a>
                 )
-              :
-                <a size={17} indent={20} style={{ clear: "both" }}>{p.text}</a>
             )}
             {...(quotes[doc.id]?.[i]?.refs || []).map(r =>
               <a
