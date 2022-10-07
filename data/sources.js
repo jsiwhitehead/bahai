@@ -604,6 +604,8 @@ export const files = {
       ["glory, and shall aid whosoever", "glory, and will aid whosoever"],
       ["Wash your hearts from", "Wash from your hearts"],
       ["discerning and illuminated heart", "discerning and illumined heart"],
+      ["their hands.” Although the", "their hands.”\n\nAlthough the"],
+      ["inmost selves. . . . That the", "inmost selves. . . .\n\nThat the"],
     ],
     "hidden-words": [
       [/^Bahá’u’lláh/m, ""],
@@ -1417,6 +1419,7 @@ export const files = {
       prefix(/^Dearly beloved friends! I have attempted/m, "\n\n***\n\n"),
       prefix(/^Such, dearly beloved friends, is the vista/m, "\n\n***\n\n"),
       prefix(/^One more word in conclusion\. Among some/m, "\n\n***\n\n"),
+      ["he may be. The purpose of the", "he may be. . . . The purpose of the"],
     ],
     "bahai-administration": [
       ["Shoghi Effendi", ""],

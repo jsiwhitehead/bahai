@@ -16,6 +16,7 @@ const findSource = (documents, doc, simplified) =>
     (d) =>
       d.id !== doc.id &&
       d.id !== "bahaullah-days-remembrance-036" &&
+      !d.id.startsWith("prayers") &&
       (d.author !== doc.author ||
         doc.author === "The Universal House of Justice" ||
         doc.id.startsWith("bahaullah-gleanings-writings-bahaullah") ||
@@ -155,7 +156,8 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
   for (const doc of documents) {
     console.log(doc.id);
     if (
-      !["prayers", "bible", "quran"].some((s) => doc.id.includes(s)) &&
+      !["bible", "quran"].some((s) => doc.id.includes(s)) &&
+      doc.type !== "Prayer" &&
       !doc.id.startsWith("additional-")
     ) {
       doc.paragraphs = doc.paragraphs.map((paragraph, index) => {

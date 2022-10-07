@@ -84,7 +84,7 @@
                           documents[p.id].title ||
                             (documents[p.id].item && ("#" + documents[p.id].item)),
                           paras.length > 0 &&
-                            (paras.length === 1 ? "para " : "paras ") + paras.join(", "),
+                            (paras.length === 1 ? "para " : "paras ") + paras.join(", "),
                         ].filter(x => x)
                       ).join(", ")
                     )})
