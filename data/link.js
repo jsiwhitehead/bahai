@@ -61,17 +61,27 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
       const start = sourcePara.simplified.join("").indexOf(s);
       const startIndices = sourcePara.indices[start];
       const endIndices = [...sourcePara.indices[start + s.length]].reverse();
+      const cleanText = sourcePara.text
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "");
       return {
         paragraph: para,
         start:
           startIndices.find((j) => sourcePara.text[j] === parts[i][0]) ??
-          startIndices.find((j) => !/^\W+ /.test(sourcePara.text.slice(j))),
+          startIndices.find((j) => !/^\W* /.test(cleanText.slice(j))),
         end:
           endIndices.find((j) => sourcePara.text[j - 1] === last(parts[i])) ??
-          endIndices.find((j) => !/ \W+$/.test(sourcePara.text.slice(0, j))),
+          endIndices.find((j) => !/ \W*$/.test(cleanText.slice(0, j))),
       };
     })
-    .filter((s) => s);
+    .filter((s) => s)
+    .map((part) => {
+      if (typeof part === "string") return part;
+      const text = source.paragraphs[part.paragraph].text;
+      if (part.start === 0) delete part.start;
+      if (part.end === text.length) delete part.end;
+      return part;
+    });
   quotes[source.id] = quotes[source.id] || {};
   for (const { paragraph, start, end } of quoteParts.filter(
     (s) => typeof s !== "string"
@@ -82,6 +92,12 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
       start,
       end,
     });
+  }
+  if (quoteParts.length === 1 && !quoteParts.start && !quoteParts.end) {
+    return {
+      base: { id: source.id, paragraphs: [quoteParts[0].paragraph] },
+      simplified: [],
+    };
   }
   return {
     base: {
@@ -255,14 +271,22 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
     "utf-8"
   );
 
-  const quoteMap = mapObject(quotes, (docQuotes) =>
-    mapObject(docQuotes, (parts) => {
-      const splits = [...new Set(parts.flatMap((p) => [p.start, p.end]))].sort(
-        (a, b) => a - b
-      );
+  const quoteMap = mapObject(quotes, (docQuotes, id) =>
+    mapObject(docQuotes, (parts, para) => {
+      const fixedParts = parts.map((p) => {
+        const text = documentMap[id].paragraphs[para].text;
+        return { ref: p.ref, start: p.start || 0, end: p.end || text?.length };
+      });
+      const splits = [
+        ...new Set(
+          fixedParts.flatMap((p) =>
+            [p.start, p.end].filter((x) => x !== undefined)
+          )
+        ),
+      ].sort((a, b) => a - b);
       return {
-        refs: [...new Set(parts.map((p) => JSON.stringify(p.ref)))].map((s) =>
-          JSON.parse(s)
+        refs: [...new Set(fixedParts.map((p) => JSON.stringify(p.ref)))].map(
+          (s) => JSON.parse(s)
         ),
         parts: splits
           .slice(0, -1)
@@ -270,7 +294,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
             const end = splits[i + 1];
             const count = [
               ...new Set(
-                parts
+                fixedParts
                   .filter((p) => p.start <= start && p.end >= end)
                   .map((p) => p.ref.id)
               ),

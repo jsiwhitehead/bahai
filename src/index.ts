@@ -105,7 +105,7 @@ run(
         const y = b.parts.map((p) => p.count);
         return (
           Math.max(...y) - Math.max(...x) ||
-          y.reduce((res, n) => res + n) - x.reduce((res, n) => res + n)
+          y.reduce((res, n) => res + n, 0) - x.reduce((res, n) => res + n, 0)
         );
       })
       .filter((q) => q.parts.some((p) => p.count > 2)),
@@ -133,7 +133,8 @@ run(
         count:
           end === 1 && parts[0].start === 0
             ? parts[0].count
-            : parts.find((p) => p.end === end)?.count || 0,
+            : parts.find((p) => p.start === indices[i] || p.end === end)
+                ?.count || 0,
       }));
     },
     type: reactiveFunc((v) =>

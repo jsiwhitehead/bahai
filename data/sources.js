@@ -748,7 +748,7 @@ export const files = {
       ],
       ["the celestial Concourse.", "the Concourse on High!"],
       ["enjoy the blessing conferred", "enjoy the blessings conferred"],
-      ["the slumber of negligence", "the slumber of heedlessness"],
+      ["from the slumber of negligence", "from the slumber of heedlessness"],
       ["glorious and supreme station", "glorious and exalted station"],
       ["doings, words and ways", "doings, the words and ways"],
       ["the Tree—which flourisheth", "the Tree that flourisheth"],

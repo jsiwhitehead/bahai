@@ -2,7 +2,7 @@ import fs from "fs-extra";
 import * as prettier from "prettier";
 
 export const mapObject = (obj, map) =>
-  Object.keys(obj).reduce((res, k) => ({ ...res, [k]: map(obj[k]) }), {});
+  Object.keys(obj).reduce((res, k) => ({ ...res, [k]: map(obj[k], k) }), {});
 
 export const simplifyText = (s) =>
   s

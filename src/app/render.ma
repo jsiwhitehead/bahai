@@ -59,10 +59,10 @@
               : p.id ?
                 <a stack={15}>
                   <a size={17} color="black" pad={[0, 20]} bold>
-                    {p.parts.map((part, i)=>
+                    {p.parts ? p.parts.map((part, i)=>
                       type(part) === "string" ? part :
                         documents[p.id].paragraphs[part.paragraph].text.slice(part.start, part.end)
-                    ).join(" ")}
+                    ).join(" ") : documents[p.id].paragraphs[p.paragraphs[0]].text}
                   </a>
                   <a
                     size={16}
