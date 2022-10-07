@@ -87,7 +87,8 @@
                     size={p.type === "info" ? 16 : 17}
                     italic={p.type === "info"}
                     uppercase={p.type === "call"}
-                    indent={p.index === 1 ? 0 : 20}
+                    indent={p.index === 1 || p.type ? 0 : 20}
+                    align={p.type && "center"}
                     style={{ clear: "both" }}
                   >{...parts.map((part, i)=>
                       (

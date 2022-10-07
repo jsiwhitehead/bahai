@@ -181,6 +181,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
             const maybeSource = source.paragraphs[para.base.paragraphs[0] + j];
             if (
               maybeSource &&
+              simplified.join("").length > 0 &&
               simplified.join("").length < 80 &&
               simplified.every((s) =>
                 maybeSource.simplified.join("").includes(s)
@@ -205,6 +206,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
             const maybeSource = source.paragraphs[para.base.paragraphs[0] + j];
             if (
               maybeSource &&
+              simplified.join("").length > 0 &&
               simplified.join("").length < 80 &&
               simplified.every((s) =>
                 maybeSource.simplified.join("").includes(s)

@@ -76,10 +76,9 @@ run(
     collections: categories.reduce(
       (res, { category, reader }, i) => ({
         ...res,
-        [category]: [
-          ...(res[category] || []),
-          { type: "Prayer", ...prayers[i], reader },
-        ].sort((a, b) => a.length - b.length),
+        [category]: [...(res[category] || []), { ...prayers[i], reader }].sort(
+          (a, b) => a.length - b.length
+        ),
       }),
       {}
     ),
@@ -87,9 +86,10 @@ run(
       ...group,
       items: group.items.sort(
         (a, b) =>
-          documents[a].years[0] +
-          documents[a].years[1] -
-          (documents[b].years[0] + documents[b].years[1])
+          documents[typeof a === "string" ? a : a[0]].years[0] +
+          documents[typeof a === "string" ? a : a[0]].years[1] -
+          (documents[typeof b === "string" ? b : b[0]].years[0] +
+            documents[typeof b === "string" ? b : b[0]].years[1])
       ),
     })),
     documents,
@@ -110,7 +110,7 @@ run(
           y.reduce((res, n) => res + n, 0) - x.reduce((res, n) => res + n, 0)
         );
       })
-      .filter((q) => q.parts.some((p) => p.count > 2)),
+      .filter((q) => q.parts.some((p) => p.count > 3)),
     fillParts: (parts, text) => {
       const firstChar = /[a-z]/i.exec(text)!.index + 1;
       if (!parts) {

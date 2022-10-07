@@ -4246,11 +4246,26 @@
     }
   },
   "bahaullah-days-remembrance-006": {
-    "1": {
+    "0": {
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
           "paragraph": 0
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 72,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "bahaullah-gleanings-writings-bahaullah-013",
+          "paragraph": 1
         },
         {
           "id": "ruhi4-002",
@@ -4269,7 +4284,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 1
+          "paragraph": 2
         }
       ],
       "parts": [
@@ -4284,7 +4299,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 2
+          "paragraph": 3
         }
       ],
       "parts": [
@@ -4299,7 +4314,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 3
+          "paragraph": 4
         },
         {
           "id": "official-statements-commentaries-century-light-001",
@@ -4322,7 +4337,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 4
+          "paragraph": 5
         },
         {
           "id": "official-statements-commentaries-century-light-001",
@@ -4349,7 +4364,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 5
+          "paragraph": 6
         },
         {
           "id": "shoghi-effendi-advent-divine-justice-000",
@@ -4406,7 +4421,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 6
+          "paragraph": 7
         }
       ],
       "parts": [
@@ -4421,7 +4436,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 7
+          "paragraph": 8
         }
       ],
       "parts": [
@@ -4436,7 +4451,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 8
+          "paragraph": 9
         }
       ],
       "parts": [
@@ -4451,7 +4466,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 9
+          "paragraph": 10
         }
       ],
       "parts": [
@@ -4466,7 +4481,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 10
+          "paragraph": 11
         },
         {
           "id": "official-statements-commentaries-prosperity-humankind-000",
@@ -4499,7 +4514,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 11
+          "paragraph": 12
         },
         {
           "id": "ruhi4-002",
@@ -4518,7 +4533,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 12
+          "paragraph": 13
         }
       ],
       "parts": [
@@ -4533,7 +4548,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 13
+          "paragraph": 14
         }
       ],
       "parts": [
@@ -4548,7 +4563,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 14
+          "paragraph": 15
         }
       ],
       "parts": [
@@ -4563,7 +4578,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 15
+          "paragraph": 16
         }
       ],
       "parts": [
@@ -4578,7 +4593,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 16
+          "paragraph": 17
         }
       ],
       "parts": [
@@ -4593,7 +4608,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 17
+          "paragraph": 18
         },
         {
           "id": "ruhi8-002",
@@ -4617,7 +4632,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 18
+          "paragraph": 19
         },
         {
           "id": "bahaullah-kitab-i-aqdas-116",
@@ -4646,7 +4661,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
-          "paragraph": 19
+          "paragraph": 20
         }
       ],
       "parts": [
@@ -4659,11 +4674,26 @@
     }
   },
   "bahaullah-kitab-i-aqdas-003": {
-    "1": {
+    "0": {
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-154",
           "paragraph": 0
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 89,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "bahaullah-gleanings-writings-bahaullah-154",
+          "paragraph": 1
         },
         {
           "id": "abdul-baha-some-answered-questions-066",
@@ -4704,7 +4734,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-154",
-          "paragraph": 1
+          "paragraph": 2
         },
         {
           "id": "bahaullah-kitab-i-aqdas-002",
@@ -4754,7 +4784,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-154",
-          "paragraph": 2
+          "paragraph": 3
         },
         {
           "id": "compilations-chaste-holy-life-000",
@@ -4809,7 +4839,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-154",
-          "paragraph": 3
+          "paragraph": 4
         },
         {
           "id": "compilations-chaste-holy-life-000",
@@ -4850,7 +4880,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-154",
-          "paragraph": 4
+          "paragraph": 5
         },
         {
           "id": "compilations-chaste-holy-life-000",
@@ -4908,7 +4938,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-154",
-          "paragraph": 5
+          "paragraph": 6
         },
         {
           "id": "compilations-issues-related-study-bahai-faith-000",
@@ -12373,11 +12403,26 @@
     }
   },
   "bahaullah-days-remembrance-021": {
-    "1": {
+    "0": {
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-150",
           "paragraph": 0
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 53,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "bahaullah-gleanings-writings-bahaullah-150",
+          "paragraph": 1
         },
         {
           "id": "the-universal-house-of-justice-messages-192",
@@ -12406,7 +12451,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-150",
-          "paragraph": 1
+          "paragraph": 2
         },
         {
           "id": "bahaullah-call-divine-beloved-000",
@@ -12435,7 +12480,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-150",
-          "paragraph": 2
+          "paragraph": 3
         },
         {
           "id": "ruhi7-001",
@@ -12454,7 +12499,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-150",
-          "paragraph": 3
+          "paragraph": 4
         },
         {
           "id": "the-universal-house-of-justice-messages-192",
@@ -12473,7 +12518,7 @@
       "refs": [
         {
           "id": "bahaullah-gleanings-writings-bahaullah-150",
-          "paragraph": 4
+          "paragraph": 5
         },
         {
           "id": "ruhi7-001",
@@ -12939,6 +12984,21 @@
       "refs": [
         {
           "id": "bahaullah-days-remembrance-041",
+          "paragraph": 0
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 77,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "bahaullah-days-remembrance-041",
           "paragraph": 1
         }
       ],
@@ -12950,7 +13010,7 @@
         }
       ]
     },
-    "1": {
+    "2": {
       "refs": [
         {
           "id": "bahaullah-days-remembrance-041",
@@ -12965,7 +13025,7 @@
         }
       ]
     },
-    "2": {
+    "3": {
       "refs": [
         {
           "id": "bahaullah-days-remembrance-041",
@@ -12980,7 +13040,7 @@
         }
       ]
     },
-    "3": {
+    "4": {
       "refs": [
         {
           "id": "bahaullah-days-remembrance-041",
@@ -12995,7 +13055,7 @@
         }
       ]
     },
-    "4": {
+    "5": {
       "refs": [
         {
           "id": "bahaullah-days-remembrance-041",
@@ -13010,7 +13070,7 @@
         }
       ]
     },
-    "5": {
+    "6": {
       "refs": [
         {
           "id": "bahaullah-days-remembrance-041",
@@ -13789,7 +13849,7 @@
     }
   },
   "abdul-baha-tablets-hague-abdul-baha-000": {
-    "1": {
+    "0": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13804,7 +13864,7 @@
         }
       ]
     },
-    "2": {
+    "1": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13819,7 +13879,7 @@
         }
       ]
     },
-    "3": {
+    "2": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13834,7 +13894,7 @@
         }
       ]
     },
-    "4": {
+    "3": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13849,7 +13909,7 @@
         }
       ]
     },
-    "5": {
+    "4": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13873,7 +13933,7 @@
         }
       ]
     },
-    "6": {
+    "5": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13902,7 +13962,7 @@
         }
       ]
     },
-    "7": {
+    "6": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13917,7 +13977,7 @@
         }
       ]
     },
-    "8": {
+    "7": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13932,7 +13992,7 @@
         }
       ]
     },
-    "9": {
+    "8": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13956,7 +14016,7 @@
         }
       ]
     },
-    "10": {
+    "9": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13980,7 +14040,7 @@
         }
       ]
     },
-    "11": {
+    "10": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -13995,7 +14055,7 @@
         }
       ]
     },
-    "12": {
+    "11": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14010,7 +14070,7 @@
         }
       ]
     },
-    "13": {
+    "12": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14025,7 +14085,7 @@
         }
       ]
     },
-    "14": {
+    "13": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14040,7 +14100,7 @@
         }
       ]
     },
-    "15": {
+    "14": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14055,7 +14115,7 @@
         }
       ]
     },
-    "16": {
+    "15": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14070,7 +14130,7 @@
         }
       ]
     },
-    "17": {
+    "16": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14085,7 +14145,7 @@
         }
       ]
     },
-    "18": {
+    "17": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14122,7 +14182,7 @@
         }
       ]
     },
-    "19": {
+    "18": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14137,7 +14197,7 @@
         }
       ]
     },
-    "20": {
+    "19": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14152,7 +14212,7 @@
         }
       ]
     },
-    "21": {
+    "20": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14167,7 +14227,7 @@
         }
       ]
     },
-    "22": {
+    "21": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14262,7 +14322,7 @@
         }
       ]
     },
-    "23": {
+    "22": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14281,7 +14341,7 @@
         }
       ]
     },
-    "24": {
+    "23": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14296,7 +14356,7 @@
         }
       ]
     },
-    "25": {
+    "24": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14315,7 +14375,7 @@
         }
       ]
     },
-    "26": {
+    "25": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14330,7 +14390,7 @@
         }
       ]
     },
-    "27": {
+    "26": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14363,7 +14423,7 @@
         }
       ]
     },
-    "28": {
+    "27": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14378,7 +14438,7 @@
         }
       ]
     },
-    "29": {
+    "28": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14393,7 +14453,7 @@
         }
       ]
     },
-    "30": {
+    "29": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14408,7 +14468,7 @@
         }
       ]
     },
-    "31": {
+    "30": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-227",
@@ -14445,7 +14505,7 @@
         }
       ]
     },
-    "37": {
+    "36": {
       "refs": [
         {
           "id": "compilations-social-action-000",
@@ -14460,7 +14520,7 @@
         }
       ]
     },
-    "39": {
+    "38": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-225",
@@ -14475,7 +14535,7 @@
         }
       ]
     },
-    "46": {
+    "45": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-001",
@@ -14490,7 +14550,7 @@
         }
       ]
     },
-    "47": {
+    "46": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-001",
@@ -14505,7 +14565,7 @@
         }
       ]
     },
-    "48": {
+    "47": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-001",
@@ -14529,7 +14589,7 @@
         }
       ]
     },
-    "49": {
+    "48": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-001",
@@ -14553,7 +14613,7 @@
         }
       ]
     },
-    "50": {
+    "49": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-001",
@@ -14568,7 +14628,7 @@
         }
       ]
     },
-    "51": {
+    "50": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-001",
@@ -14592,7 +14652,7 @@
         }
       ]
     },
-    "52": {
+    "51": {
       "refs": [
         {
           "id": "abdul-baha-selections-writings-abdul-baha-001",
@@ -89992,7 +90052,7 @@
     }
   },
   "abdul-baha-tablets-hague-abdul-baha-001": {
-    "6": {
+    "5": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-messages-025",
@@ -90007,7 +90067,7 @@
         }
       ]
     },
-    "7": {
+    "6": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-messages-025",
@@ -90022,7 +90082,7 @@
         }
       ]
     },
-    "9": {
+    "8": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-messages-025",

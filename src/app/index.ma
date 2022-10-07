@@ -147,7 +147,11 @@
             stack={60}
             <a stack={20}>
               <a color="blue" underline={hover} link="/" "« Back" />
-              <a size={34} bold underline align="center" {documents[url[1]].title} />
+              <a size={34} bold underline align="center">
+                {documents[url[1]].title ||
+                  ([...documents[url[1]].path.slice(-1), "#" + documents[url[1]].item].join(" "))
+                }
+              </a>
               {documents[url[1]].translated &&
                 <a size={24} bold align="center" {"(" + documents[url[1]].translated + ")"} />
               }

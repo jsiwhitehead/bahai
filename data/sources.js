@@ -538,6 +538,11 @@ export const files = {
       title("##", "Tablet of Remembrance", { translated: "Súriy‑i‑Dhikr" }),
       title("##", "Tablet of Sorrows", { translated: "Súriy‑i‑Aḥzán" }),
       title("##", "Tablet of the Birth", { translated: "Lawḥ‑i‑Mawlúd" }),
+      [/^(#.*(?:\n.+)*\n\n)([A-Z].{0,100})$/gm, (_, a, b) => `${a}* ${b}`],
+      prefix(/^This is the Súrih of the Pen, which hath/m, "* "),
+      prefix(/^In the name of God, the Most Wondrous/m, "* "),
+      prefix(/^This is a remembrance of that which was/m, "* "),
+      prefix(/^In the name of the One born on this day/m, "* "),
     ],
     "epistle-son-wolf": [
       removeAfter("This document has been downloaded"),
@@ -578,6 +583,18 @@ export const files = {
         years: authorYears["Bahá’u’lláh"],
         collection: true,
       }),
+      prefix(
+        /^The Divine Springtime is come, O Most Exalted/m,
+        "* In the name of Him Who hath cast His splendour over the entire creation!\n\n"
+      ),
+      prefix(
+        /^Release yourselves, O nightingales of God/m,
+        "* He is the Exalted, the Transcendent, the All‑Highest.\n\n"
+      ),
+      prefix(
+        /^The first duty prescribed by God for His servants/m,
+        "^ In the name of Him Who is the Supreme Ruler over all that hath been and all that is to be\n\n"
+      ),
       ["The other station ", ""],
       ["No, by Him Who is the Eternal", "Nay, by Him Who is the Eternal"],
       ["Did they whom you curse", "Did they whom ye curse"],
@@ -880,6 +897,10 @@ export const files = {
       prefix(/^We desire to mention him who hath set his/m, "\n\n#\n\n"),
       prefix(/^Give ear unto that which the Spirit/m, "\n\n#\n\n"),
       prefix(/^This Wronged One hath perused thy letter/m, "\n\n#\n\n"),
+      prefix(
+        /^All praise be to Thee, O my God, inasmuch/m,
+        "* He is the Eternal, the One, the Single, the All‑Possessing, the Most Exalted.\n\n"
+      ),
     ],
     "additional-tablets-extracts-from-tablets-revealed-bahaullah": [
       removeAfter("This document has been downloaded"),
@@ -1327,6 +1348,8 @@ export const files = {
     ],
     "tablets-hague-abdul-baha": [
       removeAfter("Notes"),
+      [/^17 December 1919$/m, ""],
+      [/^1 July 1920$/m, ""],
       title("", "‘Abdu’l‑Bahá’s Tablets to The Hague", {
         author: "‘Abdu’l‑Bahá",
         years: [1919, 1920],
