@@ -76,6 +76,7 @@ const toUrl = (s) =>
 
 run(
   {
+    toInt: s => parseInt(s, 10),
     Array,
     unique,
     tick,

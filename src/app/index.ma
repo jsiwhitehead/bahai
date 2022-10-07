@@ -25,7 +25,7 @@
         <a size={24} bold underline "Bahá’í Library" />
         {button("Prayers")}
         <a
-          stack={15}
+          stack={10}
           {...[
             "The Administrative Order",
             "‘Abdu’l‑Bahá",
@@ -34,7 +34,8 @@
           ].map(label=> button(label))}
         />
         {button("The Qur’án")}
-        {button("The Bible")}
+        {button("The New Testament")}
+        {button("The Old Testament")}
       />
       <a
         pad={{ left: 235 }}
@@ -45,8 +46,10 @@
               "Hello"
             : url[0]=== "prayers" ?
               prayers
-            : url[0]=== "the-bible" ?
-              bible
+            : url[0]=== "the-new-testament" ?
+              newtestament
+            : url[0]=== "the-old-testament" ?
+              oldtestament
             : url[0]=== "the-quran" ?
               quran
             :
