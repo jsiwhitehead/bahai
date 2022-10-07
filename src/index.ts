@@ -65,9 +65,11 @@ document.addEventListener("click", (e: any) => {
   }
 });
 
+const unique = (x) => [...new Set(x)];
+
 run(
   {
-    unique: (x) => [...new Set(x)],
+    unique,
     tick,
     url,
     decodeURIComponent,
@@ -136,6 +138,60 @@ run(
             : parts.find((p) => p.start === indices[i] || p.end === end)
                 ?.count || 0,
       }));
+    },
+    getRef: (paragraphs, index) => {
+      const p = paragraphs[index];
+      const doc = documents[p.id];
+      if (!p.parts) {
+        const next = paragraphs[index + 1];
+        if (
+          next?.id === p.id &&
+          !next.parts &&
+          doc.paragraphs[next.paragraphs[0]].index ===
+            doc.paragraphs[p.paragraphs[0]].index + 1
+        ) {
+          return "";
+        }
+        let j = 0;
+        while (true) {
+          const prev = paragraphs[index + j - 1];
+          if (
+            prev?.id === p.id &&
+            !prev.parts &&
+            doc.paragraphs[prev.paragraphs[0]].index ===
+              doc.paragraphs[p.paragraphs[0]].index + j - 1
+          ) {
+            j--;
+          } else {
+            break;
+          }
+        }
+        return unique(
+          [
+            doc.author,
+            ...doc.path,
+            doc.title || (doc.item && "#" + doc.item),
+            j === 0
+              ? `para ${doc.paragraphs[p.paragraphs[0]].index}`
+              : `paras ${doc.paragraphs[p.paragraphs[0]].index + j}-${
+                  doc.paragraphs[p.paragraphs[0]].index
+                }`,
+          ].filter((x) => x)
+        ).join(", ");
+      }
+      const paras = p.paragraphs
+        .map((i) => doc.paragraphs[i].index)
+        .filter((i) => i !== undefined);
+      return unique(
+        [
+          doc.author,
+          ...doc.path,
+          doc.title || (doc.item && "#" + doc.item),
+          paras.length > 0 &&
+            (paras.length === 1 ? "from para " : "from paras ") +
+              paras.join(", "),
+        ].filter((x) => x)
+      ).join(", ");
     },
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()

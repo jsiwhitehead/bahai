@@ -94,7 +94,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
       end,
     });
   }
-  if (quoteParts.length === 1 && !quoteParts.start && !quoteParts.end) {
+  if (quoteParts.length === 1 && !quoteParts[0].start && !quoteParts[0].end) {
     return {
       base: { id: source.id, paragraphs: [quoteParts[0].paragraph] },
       simplified: [],
@@ -176,7 +176,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
         if (para.base.id && para.base.paragraphs.length === 1) {
           const source = documents.find((d) => d.id === para.base.id);
           let j = -1;
-          while (i + j >= 0 && !doc.paragraphs[i + j].base.id) {
+          while (i + j >= 0 && doc.paragraphs[i + j].text) {
             const { simplified, parts } = doc.paragraphs[i + j];
             const maybeSource = source.paragraphs[para.base.paragraphs[0] + j];
             if (
@@ -200,10 +200,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
             }
           }
           j = 1;
-          while (
-            i + j < doc.paragraphs.length &&
-            !doc.paragraphs[i + j].base.id
-          ) {
+          while (i + j < doc.paragraphs.length && doc.paragraphs[i + j].text) {
             const { simplified, parts } = doc.paragraphs[i + j];
             const maybeSource = source.paragraphs[para.base.paragraphs[0] + j];
             if (
@@ -234,7 +231,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
             ...para.text.split(/“([^”]+)”/g).filter((_, i) => i % 2 === 1),
             ...para.text.split(/‘([^’]+)’/g).filter((_, i) => i % 2 === 1),
           ]) {
-            const parts = (text || "").split(/\s*(\. \. \.|\[[^\]]*\])\s*/g);
+            const parts = text.split(/\s*(\. \. \.|\[[^\]]*\])\s*/g);
             const simplified = parts.map((s) => simplifyText(s));
             if (simplified.join("").length >= 50) {
               const source = findSource(documents, doc, simplified);

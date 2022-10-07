@@ -1420,6 +1420,10 @@ export const files = {
       prefix(/^Such, dearly beloved friends, is the vista/m, "\n\n***\n\n"),
       prefix(/^One more word in conclusion\. Among some/m, "\n\n***\n\n"),
       ["he may be. The purpose of the", "he may be. . . . The purpose of the"],
+      [
+        "good of the world and the happiness",
+        "good of the world and happiness",
+      ],
     ],
     "bahai-administration": [
       ["Shoghi Effendi", ""],
@@ -1881,11 +1885,16 @@ export const files = {
         years: [1992, 1992],
       }),
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `# ${a}`],
-      [/^“.*\. \.”$/gm, (a) => `# ${a}`],
+      [/^“.{0,80}”$/gm, (a) => `# ${a}`],
       ["# Bahá’u’lláh", "Bahá’u’lláh"],
       [
         "every man may testify, in himself, by himself, in the station of the Manifestation of his Lord, that verily there is no God save Him, and that every man may thereby win his way to the summit of realities, until none shall contemplate anything whatsoever but that he shall see God therein.",
         "every man may testify, in himself and by himself, before the Seat of the revelation of his Lord, that there is none other God but Him; and that all may reach that summit of realities where none shall contemplate anything but that he shall perceive God therein.",
+      ],
+      ["continued:—“Praise be", "continued:—\n\n“Praise be"],
+      [
+        "good of the world and the happiness",
+        "good of the world and happiness",
       ],
     ],
     "century-light": [

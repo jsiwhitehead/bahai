@@ -507,7 +507,8 @@
         "text": "The time must come when the imperative necessity for the holding of a vast, an all‑embracing assemblage of men will be universally realised. The rulers and kings of the earth must needs attend it, and, participating in its deliberations, must consider such ways and means as will lay the foundations of the world’s Great Peace amongst men. Such a peace demandeth that the Great Powers should resolve, for the sake of the tranquillity of the peoples of the earth, to be fully reconciled among themselves. Should any king take up arms against another, all should unitedly arise and prevent him. If this be done, the nations of the world will no longer require any armaments, except for the purpose of preserving the security of their realms and of maintaining internal order within their territories. . . . The day is approaching when all the peoples of the world will have adopted one universal language and one common script. When this is achieved, to whatsoever city a man may journey, it shall be as if he were entering his own home. . . . That one indeed is a man who, today, dedicateth himself to the service of the entire human race. . . . It is not for him to pride himself who loveth his own country, but rather for him who loveth the whole world. The earth is but one country, and mankind its citizens."
       },
       {
-        "text": "“Not of Mine Own Volition”"
+        "section": [13],
+        "title": "“Not of Mine Own Volition”"
       },
       {
         "text": "In His letter to Náṣiri’d‑Dín Sháh, the ruler of Persia, which refrains from any rebuke concerning His imprisonment in the Síyáh‑Chál and the other injustices He had experienced at the king’s hand, Bahá’u’lláh speaks of His own role in the Divine Plan:"
@@ -528,8 +529,7 @@
         "text": "Like the Manifestations of God gone before Him, He is both the Voice of God and its human channel: “When I contemplate, O my God, the relationship that bindeth me to Thee, I am moved to proclaim to all created things ‘verily I am God!’; and when I consider my own self, lo, I find it coarser than clay!”"
       },
       {
-        "section": [13],
-        "title": "“Certain ones among you,” He declared, “have said: ‘He it is Who hath laid claim to be God.’ By God! This is a gross calumny. I am but a servant of God Who hath believed in Him and in His signs. . . . My tongue, and My heart, and My inner and My outer being testify that there is no God but Him, that all others have been created by His behest, and been fashioned through the operation of His Will. . . . I am He that telleth abroad the favours with which God hath, through His bounty, favoured Me. If this be My transgression, then I am truly the first of the transgressors. . . .”"
+        "text": "“Certain ones among you,” He declared, “have said: ‘He it is Who hath laid claim to be God.’ By God! This is a gross calumny. I am but a servant of God Who hath believed in Him and in His signs. . . . My tongue, and My heart, and My inner and My outer being testify that there is no God but Him, that all others have been created by His behest, and been fashioned through the operation of His Will. . . . I am He that telleth abroad the favours with which God hath, through His bounty, favoured Me. If this be My transgression, then I am truly the first of the transgressors. . . .”"
       },
       {
         "text": "Bahá’u’lláh’s writings seize upon a host of metaphors in their attempt to express the paradox that lies at the heart of the phenomenon of God’s Revelation of His Will:"
@@ -563,7 +563,10 @@
         "text": "Though I dimly suspected whither I was going and whom I was to behold (for no distinct intimation had been given to me), a second or two elapsed ere, with a throb of wonder and awe, I became definitely conscious that the room was not untenanted. In the corner where the divan met the wall sat a wondrous and venerable figure. . . . The face of him on whom I gazed I can never forget, though I cannot describe it. Those piercing eyes seemed to read one’s very soul; power and authority sat on that ample brow. . . . No need to ask in whose presence I stood, as I bowed myself before one who is the object of a devotion and love which kings might envy and emperors sigh for in vain!"
       },
       {
-        "text": "A mild dignified voice bade me be seated, and then continued:—“Praise be to God that thou hast attained! . . .Thou hast come to see a prisoner and an exile. . .We desire but the good of the world and the happiness of the nations; yet they deem us a stirrer up of strife and sedition worthy of bondage and banishment. . .That all nations should become one in faith and all men as brothers; that the bonds of affection and unity between the sons of men should be strengthened; that diversity of religion should cease, and differences of race be annulled—what harm is there in this? . . .Yet so it shall be; these fruitless strifes, these ruinous wars shall pass away, and the ‘Most great Peace’ shall come. . .”"
+        "text": "A mild dignified voice bade me be seated, and then continued:—"
+      },
+      {
+        "text": "“Praise be to God that thou hast attained! . . .Thou hast come to see a prisoner and an exile. . .We desire but the good of the world and happiness of the nations; yet they deem us a stirrer up of strife and sedition worthy of bondage and banishment. . .That all nations should become one in faith and all men as brothers; that the bonds of affection and unity between the sons of men should be strengthened; that diversity of religion should cease, and differences of race be annulled—what harm is there in this? . . .Yet so it shall be; these fruitless strifes, these ruinous wars shall pass away, and the ‘Most great Peace’ shall come. . .”"
       }
     ]
   }

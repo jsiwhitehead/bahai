@@ -64,31 +64,21 @@
                         documents[p.id].paragraphs[part.paragraph].text.slice(part.start, part.end)
                     ).join(" ") : documents[p.id].paragraphs[p.paragraphs[0]].text}
                   </a>
-                  <a
-                    size={16}
-                    italic
-                    align="right"
-                    color={colors.link[documents[p.id].author] || colors.link["The World Centre"]}
-                    underline={hover}
-                    link={"/doc/" + p.id + "#" + p.paragraphs[0]}
-                    style={{ width: '75%', margin: '0 20px 0 auto' }}
-                  >
-                    ({(
-                      paras: p.paragraphs
-                        .map(i=> documents[p.id].paragraphs[i].index)
-                        .filter(i=> i !== undefined),
-                      unique(
-                        [
-                          documents[p.id].author,
-                          ...documents[p.id].path,
-                          documents[p.id].title ||
-                            (documents[p.id].item && ("#" + documents[p.id].item)),
-                          paras.length > 0 &&
-                            (paras.length === 1 ? "para " : "paras ") + paras.join(", "),
-                        ].filter(x => x)
-                      ).join(", ")
-                    )})
-                  </a>
+                  {(
+                    refText: getRef(doc.paragraphs, i),
+                    refText &&
+                      <a
+                        size={16}
+                        italic
+                        align="right"
+                        color={colors.link[documents[p.id].author] || colors.link["The World Centre"]}
+                        underline={hover}
+                        link={"/doc/" + p.id + "#" + p.paragraphs[0]}
+                        style={{ width: '75%', margin: '0 20px 0 auto' }}
+                      >
+                        ({getRef(doc.paragraphs, i)})
+                      </a>
+                  )}
                 </a>
               : (
                   parts: fillParts(quotes[doc.id]?.[i]?.parts, p.text),
