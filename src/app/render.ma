@@ -99,8 +99,7 @@
                     uppercase={p.type === "call"}
                     indent={p.index === 1 ? 0 : 20}
                     style={{ clear: "both" }}
-                  >
-                    {...parts.map((part, i)=>
+                  >{...parts.map((part, i)=>
                       (
                         fill: part.count && "rgb(" + [255, 240 - part.count * 10, 240 - part.count * 10].join(", ") + ")",
                         text: p.text.slice(part.start, part.end),
@@ -114,10 +113,9 @@
                             style={{ float: "left", width: "auto" }}
                           >{text}</a>
                         :
-                          <a fill={fill}>{text}</a>
+                          <a fill={fill} pad={[2.5, 0]}>{text}</a>
                       )
-                    )}
-                  </a>
+                    )}</a>
                 )
             )}
             {...(quotes[doc.id]?.[i]?.refs || []).map(r =>

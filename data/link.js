@@ -11,6 +11,23 @@ const getMappedIndices = (s) => {
   return result;
 };
 
+const findSource = (documents, doc, simplified) =>
+  documents.find(
+    (d) =>
+      d.id !== doc.id &&
+      d.id !== "bahaullah-days-remembrance-036" &&
+      (d.author !== doc.author ||
+        doc.author === "The Universal House of Justice" ||
+        doc.id.startsWith("bahaullah-gleanings-writings-bahaullah") ||
+        doc.id.startsWith("bahaullah-days-remembrance") ||
+        doc.id.startsWith("abdul-baha-selections-writings-abdul-baha") ||
+        d.type === "Prayer") &&
+      d.years[0] <= doc.years[1] &&
+      simplified.every((s) =>
+        d.paragraphs.some((p) => p.simplified.join("").includes(s))
+      )
+  );
+
 const quotes = {};
 const getQuotePara = (id, index, simplified, parts, source, allPara) => {
   const quoteParts = simplified
@@ -120,6 +137,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
     });
 
   for (const doc of documents) {
+    console.log(doc.id);
     if (
       !["prayers", "bible", "quran"].some((s) => doc.id.includes(s)) &&
       !doc.id.startsWith("additional-")
@@ -129,23 +147,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
         const source =
           (simplified.join("").length >= 80 ||
             ["compilations-", "ruhi-"].some((s) => doc.id.startsWith(s))) &&
-          documents.find(
-            (d) =>
-              d.id !== doc.id &&
-              d.id !== "bahaullah-days-remembrance-036" &&
-              (d.author !== doc.author ||
-                doc.author === "The Universal House of Justice" ||
-                doc.id.startsWith("bahaullah-gleanings-writings-bahaullah") ||
-                doc.id.startsWith("bahaullah-days-remembrance") ||
-                doc.id.startsWith(
-                  "abdul-baha-selections-writings-abdul-baha"
-                ) ||
-                d.type === "Prayer") &&
-              d.years[0] <= doc.years[1] &&
-              simplified.every((s) =>
-                d.paragraphs.some((p) => p.simplified.join("").includes(s))
-              )
-          );
+          findSource(documents, doc, simplified);
         if (!source) return paragraph;
         const allPara = source.paragraphs.findIndex((p) =>
           simplified.every((s) => p.simplified.join("").includes(s))
@@ -204,6 +206,26 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
               j++;
             } else {
               break;
+            }
+          }
+        }
+      });
+      doc.paragraphs.forEach((para, index) => {
+        if (!para.base.id) {
+          for (const text of [
+            ...para.text.split(/“([^”]+)”/g).filter((_, i) => i % 2 === 1),
+            ...para.text.split(/‘([^’]+)’/g).filter((_, i) => i % 2 === 1),
+          ]) {
+            const parts = (text || "").split(/\s*(\. \. \.|\[[^\]]*\])\s*/g);
+            const simplified = parts.map((s) => simplifyText(s));
+            if (simplified.join("").length >= 50) {
+              const source = findSource(documents, doc, simplified);
+              if (source) {
+                const allPara = source.paragraphs.findIndex((p) =>
+                  simplified.every((s) => p.simplified.join("").includes(s))
+                );
+                getQuotePara(doc.id, index, simplified, parts, source, allPara);
+              }
             }
           }
         }
