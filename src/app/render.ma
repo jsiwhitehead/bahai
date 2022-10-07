@@ -7,6 +7,7 @@
     allLines: doc.paragraphs.every(p => p.type || p.lines),
     <a
       stack={25}
+      style={{ max-width: "620px", margin: "0 auto" }}
       align="justify"
       {doc.reader &&
         <a size={16} italic color="#999">{doc.reader}</a>

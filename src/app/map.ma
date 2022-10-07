@@ -18,7 +18,7 @@
       text-align: align,
       color: color,
       text-indent: px(indent),
-      cursor: link && "pointer",
+      cursor: cursor || (link && "pointer"),
       padding:
         type(pad) === "array" ?
           px(pad[0]) + ' ' +
@@ -33,7 +33,22 @@
         :
           px(pad),
       background: fill,
-      display: span ? 'inline' : 'block',
+      width: width && width <= 1 ? width * 100 + "%" : px(width),
+      flex-grow: width ? 0 : 1,
+      border-radius:
+        type(round) === "array" ?
+          px(round[0]) + ' ' +
+          (px(round[3] ?? round[1] ?? round[0])) + ' ' +
+          (px(round[2] ?? round[0])) + ' ' +
+          (px(round[1] ?? round[0]))
+        : type(round) === 'object' ?
+          px(round.topLeft) + ' ' +
+          px(round.topRight) + ' ' +
+          px(round.bottomRight) + ' ' +
+          px(round.bottomLeft)
+        :
+          px(round),
+      display: span ? 'inline' : bar ? 'flex' : 'block',
     },
     events: <a
       hover::{onmouseenter && true}

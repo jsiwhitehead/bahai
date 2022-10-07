@@ -66,19 +66,31 @@ document.addEventListener("click", (e: any) => {
 });
 
 const unique = (x) => [...new Set(x)];
+const toUrl = (s) =>
+  s
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[ ‑]/g, "-")
+    .replace(/[^\w-]/g, "")
+    .toLowerCase();
 
 run(
   {
+    Array,
     unique,
     tick,
     url,
-    decodeURIComponent,
+    toUrl,
     collections: categories.reduce(
       (res, { category, reader }, i) => ({
         ...res,
-        [category]: [...(res[category] || []), { ...prayers[i], reader }].sort(
-          (a, b) => a.length - b.length
-        ),
+        [toUrl(category)]: {
+          name: category,
+          items: [
+            ...(res[toUrl(category)]?.items || []),
+            { ...prayers[i], reader },
+          ].sort((a, b) => a.length - b.length),
+        },
       }),
       {}
     ),
