@@ -1,15 +1,19 @@
 (
   size: 17,
+  doc: url[0]=== "doc" && documents[url[1]],
   button: (label)=>
-    <a
-      pad={10}
-      fill={url[0] === toUrl(label) ? "white" : hover ? "white" : "#ddd"}
-      round={[10, 10, 0, 0]}
-      bold
-      underline={url[0] === toUrl(label)}
-      link={"/" + toUrl(label)}
-      {label}
-    />,
+    (
+      active: (url[0] === toUrl(label)) || (toUrl(doc?.author) === toUrl(label)),
+      <a
+        pad={10}
+        fill={active ? "white" : hover ? "white" : "#ddd"}
+        round={[10, 10, 0, 0]}
+        bold
+        underline={active}
+        link={"/" + toUrl(label)}
+        {label}
+      />
+    ),
   map(
     <a
       size={size}
@@ -22,7 +26,7 @@
         pad={[20, 20, 20, 0]}
         stack={40}
         style={{ position: "fixed", height: "100%" }}
-        <a size={24} bold underline "Bahá’í Library" />
+        <a size={24} bold underline link="/" "Bahá’í Library" />
         {button("Prayers")}
         <a
           stack={10}
@@ -52,6 +56,15 @@
               oldtestament
             : url[0]=== "the-quran" ?
               quran
+            : url[0]=== "doc" ?
+              (
+                doc: documents[url[1]],
+                <a
+                  stack={20}
+                  <a color="blue" underline={hover} link={"/" + toUrl(doc.author)} "« Back" />
+                  {render(doc)}
+                />
+              )
             :
               "Hi"
           }

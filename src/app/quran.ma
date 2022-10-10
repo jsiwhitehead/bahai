@@ -3,7 +3,7 @@
     (
       id: "quran-" + (index + "").padStart(3, '0'),
       <a color="blue" underline={hover} link={"/the-quran/" + (index + "").padStart(2, '0')}>
-        {index + 1}. {documents[id].title} »
+        {index + 1}. {documents[id].title}
       </a>
     ),
   !url[1] ?
@@ -26,11 +26,8 @@
     (
       doc: documents["quran-0" + url[1]],
       <a
-        stack={60}
-        <a stack={20}>
-          <a color="blue" underline={hover} link="/the-quran" "« Back" />
-          <a size={34} bold underline align="center">{doc.title}</a>
-        </a>
+        stack={20}
+        <a color="blue" underline={hover} link="/the-quran" "« Back" />
         {render(doc)}
       />
     )

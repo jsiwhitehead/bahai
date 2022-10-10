@@ -65,7 +65,7 @@ document.addEventListener("click", (e: any) => {
 });
 
 const unique = (x) => [...new Set(x)];
-const toUrl = (s) =>
+const toUrl = (s = "") =>
   s
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")

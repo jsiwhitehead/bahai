@@ -3,7 +3,7 @@
     (
       id: "bible-" + (index + 39 + "").padStart(3, '0'),
       <a color="blue" underline={hover} link={"/the-new-testament/" + (index + "").padStart(2, '0')}>
-        {documents[id].title} »
+        {index + 1}. {documents[id].title}
       </a>
     ),
   !url[1] ?
@@ -26,11 +26,8 @@
     (
       doc: documents["bible-" + (toInt(url[1]) + 39 + "").padStart(3, "0")],
       <a
-        stack={60}
-        <a stack={20}>
-          <a color="blue" underline={hover} link="/the-new-testament" "« Back" />
-          <a size={34} bold underline align="center">{doc.title}</a>
-        </a>
+        stack={20}
+        <a color="blue" underline={hover} link="/the-new-testament" "« Back" />
         {render(doc)}
       />
     )
