@@ -96,7 +96,7 @@ const updateNode = (node, data) => {
         {}
       );
     applyUpdate(next, "styles", style, true);
-  }).get();
+  }, "style").get();
 
   effect(() => {
     const styles = resolve(data.values.style || {});
@@ -108,7 +108,7 @@ const updateNode = (node, data) => {
         {}
       );
     applyUpdate(next, "reflow", style, true);
-  }).get();
+  }, "reflow").get();
 
   effect(() => {
     next.replaceChildren(
@@ -116,7 +116,7 @@ const updateNode = (node, data) => {
         .map((d, i) => updateNode(next.childNodes[i], resolve(d)))
         .filter((x) => x)
     );
-  }).get();
+  }, "children").get();
 
   return next;
 };

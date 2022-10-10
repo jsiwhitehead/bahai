@@ -27,7 +27,6 @@ const source = Object.keys(app).reduce((res, k) => {
     .slice(2, -3)
     .split(/[\\\\\\/]/)
     .slice(1);
-  if (p[p.length - 1].toLowerCase() === "start") p[p.length - 1] = "";
   set(res, p, app[k]);
   return res;
 }, {});
@@ -76,7 +75,7 @@ const toUrl = (s) =>
 
 run(
   {
-    toInt: s => parseInt(s, 10),
+    toInt: (s) => parseInt(s, 10),
     Array,
     unique,
     tick,
