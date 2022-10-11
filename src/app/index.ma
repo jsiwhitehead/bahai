@@ -1,9 +1,23 @@
 (
   size: 17,
   doc: url[0]=== "doc" && documents[url[1]],
+  group: doc && toUrl(
+    doc.type === 'Prayer' ?
+      'prayers'
+    : doc.id.startsWith('quran') ?
+      'the-quran'
+    : doc.id.startsWith('bible') ?
+      toInt(doc.id.slice(-3)) < 39 ? 'the-old-testament' : 'the-new-testament'
+    : doc.id.startsWith('ruhi') || doc.id.startsWith('compilations') ?
+      'compilations'
+    : ["‘Abdu’l‑Bahá", "Bahá’u’lláh", "The Báb"].includes(doc.author) ?
+      doc.author
+    :
+      'the-administrative-order'
+  ),
   button: (label)=>
     (
-      active: (url[0] === toUrl(label)) || (toUrl(doc?.author) === toUrl(label)),
+      active: (url[0] === toUrl(label)) || (group === toUrl(label)),
       <a
         pad={10}
         fill={active ? "white" : hover ? "white" : "#ddd"}
@@ -24,12 +38,14 @@
         width={235}
         fill="#eee"
         pad={[20, 20, 20, 0]}
-        stack={40}
+        stack={25}
         style={{ position: "fixed", height: "100%" }}
         <a size={24} bold underline link="/" "Bahá’í Library" />
         {button("Prayers")}
+        {button("Compilations")}
+        {button("Quotes")}
         <a
-          stack={10}
+          stack={5}
           {...[
             "The Administrative Order",
             "‘Abdu’l‑Bahá",
@@ -50,6 +66,18 @@
               "Hello"
             : url[0]=== "prayers" ?
               prayers
+            : url[0]=== "compilations" ?
+              compilations
+            : url[0]=== "quotes" ?
+              quotes
+            : url[0]=== "the-administrative-order" ?
+              administrative
+            : url[0]=== "abdul-baha" ?
+              abdulbaha
+            : url[0]=== "bahaullah" ?
+              bahaullah
+            : url[0]=== "the-bab" ?
+              thebab
             : url[0]=== "the-new-testament" ?
               newtestament
             : url[0]=== "the-old-testament" ?
@@ -61,7 +89,7 @@
                 doc: documents[url[1]],
                 <a
                   stack={20}
-                  <a color="blue" underline={hover} link={"/" + toUrl(doc.author)} "« Back" />
+                  <a color="blue" underline={hover} link={"/" + group} "« Back" />
                   {render(doc)}
                 />
               )

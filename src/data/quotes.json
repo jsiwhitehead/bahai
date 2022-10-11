@@ -12381,7 +12381,7 @@
       ]
     }
   },
-  "additional-bahaullah-190": {
+  "additional-bahaullah-177": {
     "0": {
       "refs": [
         {
@@ -24527,7 +24527,7 @@
       ]
     }
   },
-  "additional-bahaullah-191": {
+  "additional-bahaullah-178": {
     "0": {
       "refs": [
         {
@@ -25912,6 +25912,23 @@
         {
           "start": 255,
           "end": 344,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-000": {
+    "2": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-008",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 32,
+          "end": 248,
           "count": 1
         }
       ]
@@ -39820,7 +39837,7 @@
       ]
     }
   },
-  "additional-bahaullah-181": {
+  "additional-bahaullah-168": {
     "0": {
       "refs": [
         {
@@ -39918,7 +39935,7 @@
       ]
     }
   },
-  "additional-bahaullah-182": {
+  "additional-bahaullah-169": {
     "0": {
       "refs": [
         {
@@ -40586,7 +40603,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-008": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-030": {
     "0": {
       "refs": [
         {
@@ -41287,7 +41304,7 @@
       ]
     }
   },
-  "additional-bahaullah-183": {
+  "additional-bahaullah-170": {
     "0": {
       "refs": [
         {
@@ -41720,23 +41737,6 @@
         {
           "start": 38,
           "end": 215,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-other-000": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 262
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 355,
           "count": 1
         }
       ]
@@ -44407,7 +44407,7 @@
       ]
     }
   },
-  "additional-bahaullah-184": {
+  "additional-bahaullah-171": {
     "0": {
       "refs": [
         {
@@ -45804,7 +45804,7 @@
       ]
     }
   },
-  "additional-bahaullah-185": {
+  "additional-bahaullah-172": {
     "0": {
       "refs": [
         {
@@ -49120,7 +49120,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-001": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-023": {
     "0": {
       "refs": [
         {
@@ -62893,7 +62893,7 @@
       ]
     }
   },
-  "additional-bahaullah-186": {
+  "additional-bahaullah-173": {
     "0": {
       "refs": [
         {
@@ -62910,7 +62910,7 @@
       ]
     }
   },
-  "additional-bahaullah-187": {
+  "additional-bahaullah-174": {
     "0": {
       "refs": [
         {
@@ -62932,7 +62932,7 @@
       ]
     }
   },
-  "additional-bahaullah-188": {
+  "additional-bahaullah-175": {
     "0": {
       "refs": [
         {
@@ -69469,7 +69469,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-002": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-024": {
     "0": {
       "refs": [
         {
@@ -78885,7 +78885,7 @@
       ]
     }
   },
-  "additional-bahaullah-167": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-004": {
     "0": {
       "refs": [
         {
@@ -78902,7 +78902,7 @@
       ]
     }
   },
-  "additional-bahaullah-168": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-003": {
     "0": {
       "refs": [
         {
@@ -78931,6 +78931,23 @@
         {
           "start": 56,
           "end": 576,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-018": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-087",
+          "paragraph": 4
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 153,
           "count": 1
         }
       ]
@@ -81966,7 +81983,7 @@
       ]
     }
   },
-  "additional-bahaullah-189": {
+  "additional-bahaullah-176": {
     "0": {
       "refs": [
         {
@@ -82346,7 +82363,7 @@
       ]
     }
   },
-  "additional-bahaullah-169": {
+  "additional-abdul-baha-313": {
     "0": {
       "refs": [
         {
@@ -82363,7 +82380,7 @@
       ]
     }
   },
-  "additional-bahaullah-170": {
+  "additional-abdul-baha-314": {
     "0": {
       "refs": [
         {
@@ -82397,7 +82414,7 @@
       ]
     }
   },
-  "additional-bahaullah-171": {
+  "additional-abdul-baha-315": {
     "0": {
       "refs": [
         {
@@ -82609,7 +82626,7 @@
       ]
     }
   },
-  "additional-bahaullah-172": {
+  "additional-abdul-baha-316": {
     "0": {
       "refs": [
         {
@@ -82675,7 +82692,7 @@
       ]
     }
   },
-  "additional-bahaullah-173": {
+  "additional-abdul-baha-317": {
     "0": {
       "refs": [
         {
@@ -82692,7 +82709,7 @@
       ]
     }
   },
-  "additional-bahaullah-174": {
+  "additional-abdul-baha-318": {
     "0": {
       "refs": [
         {
@@ -82709,7 +82726,7 @@
       ]
     }
   },
-  "additional-bahaullah-175": {
+  "additional-abdul-baha-319": {
     "0": {
       "refs": [
         {
@@ -82748,7 +82765,7 @@
       ]
     }
   },
-  "additional-bahaullah-176": {
+  "additional-abdul-baha-320": {
     "0": {
       "refs": [
         {
@@ -82765,7 +82782,7 @@
       ]
     }
   },
-  "additional-bahaullah-177": {
+  "additional-abdul-baha-321": {
     "0": {
       "refs": [
         {
@@ -82782,7 +82799,7 @@
       ]
     }
   },
-  "additional-bahaullah-178": {
+  "additional-abdul-baha-322": {
     "0": {
       "refs": [
         {
@@ -82799,7 +82816,7 @@
       ]
     }
   },
-  "additional-bahaullah-179": {
+  "additional-abdul-baha-323": {
     "0": {
       "refs": [
         {
@@ -88937,7 +88954,7 @@
       ]
     }
   },
-  "additional-bahaullah-180": {
+  "additional-bahaullah-167": {
     "0": {
       "refs": [
         {
@@ -94660,6 +94677,23 @@
         {
           "start": 0,
           "end": 1112,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-other-000": {
+    "0": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 262
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 355,
           "count": 1
         }
       ]

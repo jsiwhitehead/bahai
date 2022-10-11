@@ -94,22 +94,22 @@
                       color={doc.type === 'Prayer' && p.type && "#999"}
                       style={{ clear: "both", text-align-last: p.type && "center" }}
                     >{...parts.map((part, i)=>
-                        (
-                          fill: part.count && "rgb(" + [255, 240 - part.count * 10, 240 - part.count * 10].join(", ") + ")",
-                          text: p.text.slice(part.start, part.end),
-                          p.index === 1 && i === 0 ?
-                            <a
-                              fill={fill}
-                              size={17 * 3}
-                              line={1}
-                              color={color}
-                              pad={{ right: 8 }}
-                              style={{ float: "left", width: "auto" }}
-                            >{text}</a>
-                          :
-                            <a fill={fill} pad={[2.5, 0]}>{text}</a>
-                        )
-                      )}</a>
+                      (
+                        fill: part.count && "rgb(" + [255, 240 - part.count * 10, 240 - part.count * 10].join(", ") + ")",
+                        text: p.text.slice(part.start, part.end),
+                        p.index === 1 && i === 0 ?
+                          <a
+                            fill={fill}
+                            size={17 * 3}
+                            line={1}
+                            color={color}
+                            pad={{ right: 8 }}
+                            style={{ float: "left", width: "auto" }}
+                          >{text}</a>
+                        :
+                          <a fill={fill} pad={[2.5, 0]}>{text}</a>
+                      )
+                    )}</a>
                   )
               )}
               {...(quotes[doc.id]?.[i]?.refs || []).map(r =>

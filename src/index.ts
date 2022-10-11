@@ -6,7 +6,6 @@ import run, { atom, resolve } from "reactivejs";
 import render from "./render";
 
 import categories from "./data/categories.json";
-import library from "./data/library.json";
 import prayers from "./data/prayers.json";
 import documents from "./data/documents.json";
 import quotes from "./data/quotes.json";
@@ -65,7 +64,7 @@ document.addEventListener("click", (e: any) => {
 });
 
 const unique = (x) => [...new Set(x)];
-const toUrl = (s = "") =>
+const toUrl = (s) =>
   s
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
@@ -75,6 +74,17 @@ const toUrl = (s = "") =>
 
 run(
   {
+    sortIds: (ids) =>
+      [...ids].sort((a, b) => {
+        const x = typeof a === "string" ? a : a[0];
+        const y = typeof b === "string" ? b : b[0];
+        return (
+          documents[y].years[0] +
+            documents[y].years[1] -
+            (documents[x].years[0] + documents[x].years[1]) ||
+          x.localeCompare(y)
+        );
+      }),
     toInt: (s) => parseInt(s, 10),
     Array,
     unique,
@@ -94,16 +104,6 @@ run(
       }),
       {}
     ),
-    library: library.map((group) => ({
-      ...group,
-      items: group.items.sort(
-        (a, b) =>
-          documents[typeof a === "string" ? a : a[0]].years[0] +
-          documents[typeof a === "string" ? a : a[0]].years[1] -
-          (documents[typeof b === "string" ? b : b[0]].years[0] +
-            documents[typeof b === "string" ? b : b[0]].years[1])
-      ),
-    })),
     documents,
     quotes,
     topQuotes: Object.keys(quotes)
@@ -124,17 +124,20 @@ run(
       })
       .filter((q) => q.parts.some((p) => p.count > 3)),
     fillParts: (parts, text) => {
-      const firstChar = /[a-z]/i.exec(text)!.index + 1;
+      const firstChar = /[a-z]/i.exec(text)?.index;
       if (!parts) {
+        if (firstChar === undefined) {
+          return [{ start: 0, end: text.length, count: 0 }];
+        }
         return [
-          { start: 0, end: firstChar, count: 0 },
-          { start: firstChar, end: text.length, count: 0 },
+          { start: 0, end: firstChar + 1, count: 0 },
+          { start: firstChar + 1, end: text.length, count: 0 },
         ];
       }
       const indices = [
         ...new Set([
           0,
-          firstChar,
+          ...(firstChar === undefined ? [] : [firstChar + 1]),
           ...parts
             .filter((p) => typeof p !== "string")
             .flatMap((p) => [p.start, p.end]),
