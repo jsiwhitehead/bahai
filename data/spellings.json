@@ -693,6 +693,9 @@
     "jewelry": "jewellery",
 
     "insure": "ensure",
+    "insured": "ensured",
+    "insures": "ensures",
+    "insuring": "ensuring",
 
     "homeopathy": "homoeopathy",
     "homeopaths": "homoeopaths",
@@ -715,6 +718,15 @@
     "hematologists": "haematologists",
     "hematologist": "haematologist",
     "hematological": "haematological",
+
+    "harrassments": "harassments",
+    "harrassment": "harassment",
+    "harrassing": "harassing",
+    "harrassers": "harassers",
+    "harrassed": "harassed",
+    "harrasser": "harasser",
+    "harrasses": "harasses",
+    "harrass": "harass",
 
     "gynecology": "gynaecology",
     "gynecologists": "gynaecologists",

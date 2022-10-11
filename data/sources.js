@@ -1518,6 +1518,7 @@ export const files = {
       ["and fidelity to His Cause", "and fidelity to His Cause."],
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
       ["### Bahá’í Administration", "Bahá’í Administration"],
+      ["House of Justice (i.e.,", "Houses of Justice (i.e.,"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -2238,6 +2239,10 @@ export const files = {
       title("#", "The Power of Example"),
       [/^[A-Z].{0,80}[a-z]$/gm, (a) => `## ${a}`],
       ["## A Chaste and Holy Life", "A Chaste and Holy Life"],
+      [
+        "We have permitted you to listen to music and singing. Beware lest such listening cause you to transgress the bounds of decency and dignity. Rejoice in the joy of My Most Great Name through which the hearts are enchanted and the minds of the well‑favoured are attracted.",
+        "We have made it lawful for you to listen to music and singing. Take heed, however, lest listening thereto should cause you to overstep the bounds of propriety and dignity. Let your joy be the joy born of My Most Great Name, a Name that bringeth rapture to the heart, and filleth with ecstasy the minds of all who have drawn nigh unto God.",
+      ],
     ],
     "codification-law-huququllah": [
       removeAfter("Notes"),
@@ -2466,7 +2471,7 @@ export const files = {
       [/^\(.*/gm, ""],
       title("", "Peace", {
         author: "Compilation",
-        years: [1985, 1985],
+        years: [1985, 1986],
       }),
       [
         "EXTRACTS FROM THE WRITINGS OF BAHÁ’U’LLÁH:",
@@ -2500,6 +2505,15 @@ export const files = {
         "EXTRACTS FROM LETTERS WRITTEN ON BEHALF OF THE UNIVERSAL HOUSE OF JUSTICE:",
         "# Extracts from Letters written on behalf of the Universal House of Justice",
       ],
+      ["broadest outline, to what appear", "broadest outlines, what appear"],
+      ["adjust their systems of economic", "adjust their system of economic"],
+      ["needs of a fast evolving", "needs of a rapidly evolving"],
+      ["more intense that any it has yet", "more intense than any it has yet"],
+      ["cannot but appear, when viewed", "cannot appear, when viewed"],
+      ["all the Revelation, of the past", "all the Revelations of the past"],
+      ["for you, O peoples. If ye fail", "for you, O people. If ye fail"],
+      ["in the course of the present", "in the course of present"],
+      ["the divers communities in", "the diverse communities in"],
     ],
     "power-divine-assistance": [
       removeAfter("Notes"),
@@ -2620,6 +2634,12 @@ export const files = {
       }),
       prefix(/^[A-Z].{0,80}[a-zá]$/gm, "# "),
       ["# The Universal House of Justice", "The Universal House of Justice"],
+      ["the divers communities in", "the diverse communities in"],
+      ["no one hath the right to", "no one has the right to"],
+      ["He who opposeth it is cast", "He who opposes it is cast"],
+      ["our love for our beloved Master", "our love of our beloved Master"],
+      ["by unwarranted inferences", "by unwarrantable inferences"],
+      ["the members the Universal One", "the members of the Universal One"],
     ],
     women: [
       removeAfter("VI.Bibliography"),
