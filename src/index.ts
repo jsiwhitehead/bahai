@@ -12,6 +12,8 @@ import quotes from "./data/quotes.json";
 
 import "./style.css";
 
+import maraca, { maracaLibrary } from "./maraca";
+
 webfont.load({ google: { families: ["Atkinson Hyperlegible"] } });
 
 const set = (obj, path, value) =>
@@ -27,6 +29,7 @@ const source = Object.keys(app).reduce((res, k) => {
     .split(/[\\\\\\/]/)
     .slice(1);
   set(res, p, app[k]);
+  // set(res, p, maraca(app[k]));
   return res;
 }, {});
 
@@ -105,7 +108,7 @@ run(
       {}
     ),
     documents,
-    quotes,
+    quotesMap: quotes,
     topQuotes: Object.keys(quotes)
       .flatMap((id) =>
         Object.keys(quotes[id]).map((k) => ({
@@ -211,7 +214,9 @@ run(
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),
+    // ...maracaLibrary,
   },
   source,
+  // (data) => console.log(JSON.stringify(resolve(data, true).index, null, 2))
   render(document.getElementById("app"))
 );

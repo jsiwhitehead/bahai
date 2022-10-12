@@ -51,12 +51,12 @@
       ])
     },
   ],
-  renderGroup: (group) => <a stack={15}>
-    <a size={20} bold {group.title} />
+  renderGroup: (group) => <\ stack={15}>
+    <\ size={20} bold>{group.title}</>
     {...group.items.map(key=>
       (
         k: type(key) === "string" ? key : key[0],
-        <a color="blue" underline={hover} link={"/doc/" + k}>
+        <\ color="blue" underline={hover} link={`/doc/${k}`}>
           {type(key) === "string" ?
             documents[k].title
           :
@@ -65,36 +65,34 @@
               documents[k].title
             ].join(", ")
           }{
-            documents[k].translated && (" (" + documents[k].translated + ")")
+            documents[k].translated && ` (${documents[k].translated})`
           } »
-        </a>
+        </>
       )
     )}
-  </a>,
-  <a stack={60}>
-    <a size={40} bold underline align="center" "The Administrative Order" />
-    <a
-      bar
-      <a width={1 / 2}>
-        <a pad={{ right: 20 }}>
+  </>,
+  <\ stack={60}>
+    <\ size={40} bold underline align="center">The Administrative Order</>
+    <\ bar>
+      <\ width={1 / 2}>
+        <\ pad={{ right: 20 }}>
           {renderGroup(groups[0])}
-        </a>
-      </a>
-      <a width={1 / 2}>
-        <a pad={{ left: 20 }}>
+        </>
+      </>
+      <\ width={1 / 2}>
+        <\ pad={{ left: 20 }}>
           {renderGroup(groups[1])}
-        </a>
-      </a>
-    />
-    <a
-      bar
-      <a width={1 / 2}>
-        <a pad={{ right: 20 }}>
+        </>
+      </>
+    </>
+    <\ bar>
+      <\ width={1 / 2}>
+        <\ pad={{ right: 20 }}>
           {renderGroup(groups[2])}
-        </a>
-      </a>
-      <a width={1 / 2}>
-      </a>
-    />
-  </a>
+        </>
+      </>
+      <\ width={1 / 2}>
+      </>
+    </>
+  </>
 )

@@ -19,13 +19,13 @@
     "bahaullah-kitab-i-aqdas-003",
     "bahaullah-epistle-son-wolf-000"
   ]),
-  <a stack={60}>
-    <a size={40} bold underline align="center" "Bahá’u’lláh" />
-    <a stack={15}>
+  <\ stack={60}>
+    <\ size={40} bold underline align="center">Bahá’u’lláh</>
+    <\ stack={15}>
       {...items.map(key=>
         (
           k: type(key) === "string" ? key : key[0],
-          <a color="blue" underline={hover} link={"/doc/" + k}>
+          <\ color="blue" underline={hover} link={`/doc/${k}`}>
             {type(key) === "string" ?
               documents[k].title
             :
@@ -34,11 +34,11 @@
                 documents[k].title
               ].join(", ")
             }{
-              documents[k].translated && (" (" + documents[k].translated + ")")
+              documents[k].translated && ` (${documents[k].translated})`
             } »
-          </a>
+          </>
         )
       )}
-    </a>
-  </a>
+    </>
+  </>
 )

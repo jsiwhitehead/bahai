@@ -87,6 +87,7 @@ const updateNode = (node, data) => {
       );
     applyUpdate(next, "props", { ...values, ...setters });
 
+    // const styles = resolve(dataStyle).values;
     const styles = resolve(dataStyle);
     const style = Object.keys(styles)
       .filter((key) => !reflowCSS.some((k) => key.startsWith(k)))
@@ -96,9 +97,10 @@ const updateNode = (node, data) => {
         {}
       );
     applyUpdate(next, "styles", style, true);
-  }, "style").get();
+  }, "style");
 
   effect(() => {
+    // const styles = resolve(data.values.style || {}).values;
     const styles = resolve(data.values.style || {});
     const style = Object.keys(styles)
       .filter((key) => reflowCSS.some((k) => key.startsWith(k)))
@@ -108,7 +110,7 @@ const updateNode = (node, data) => {
         {}
       );
     applyUpdate(next, "reflow", style, true);
-  }, "reflow").get();
+  }, "reflow");
 
   effect(() => {
     next.replaceChildren(
@@ -116,7 +118,7 @@ const updateNode = (node, data) => {
         .map((d, i) => updateNode(next.childNodes[i], resolve(d)))
         .filter((x) => x)
     );
-  }, "children").get();
+  }, "children");
 
   return next;
 };

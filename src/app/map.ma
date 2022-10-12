@@ -1,5 +1,5 @@
 (
-  px: v=> type(v) === 'number' ? v + 'px' : v || 0,
+  px: v=> type(v) === 'number' ? `${v}px` : v || 0,
   map: x=> x?.type !== 'block' ? x : (
     ...x.values,
     size: size || 20,
@@ -21,53 +21,61 @@
       cursor: cursor || (link && "pointer"),
       padding:
         type(pad) === "array" ?
-          px(pad[0]) + ' ' +
-          (px(pad[3] ?? pad[1] ?? pad[0])) + ' ' +
-          (px(pad[2] ?? pad[0])) + ' ' +
-          (px(pad[1] ?? pad[0]))
+          [
+            pad[0],
+            pad[3] ?? pad[1] ?? pad[0],
+            pad[2] ?? pad[0],
+            pad[1] ?? pad[0],
+          ].map(x => px(x)).join(' ')
         : type(pad) === 'object' ?
-          px(pad.top) + ' ' +
-          px(pad.right) + ' ' +
-          px(pad.bottom) + ' ' +
-          px(pad.left)
+          [
+            pad.top,
+            pad.right,
+            pad.bottom,
+            pad.left,
+          ].map(x => px(x)).join(' ')
         :
           px(pad),
       background: fill,
-      width: width && width <= 1 ? width * 100 + "%" : px(width),
+      width: width && width <= 1 ? `${width * 100}%` : px(width),
       flex-grow: width ? 0 : 1,
       border-radius:
         type(round) === "array" ?
-          px(round[0]) + ' ' +
-          (px(round[3] ?? round[1] ?? round[0])) + ' ' +
-          (px(round[2] ?? round[0])) + ' ' +
-          (px(round[1] ?? round[0]))
+          [
+            round[0],
+            round[3] ?? round[1] ?? round[0],
+            round[2] ?? round[0],
+            round[1] ?? round[0],
+          ].map(x => px(x)).join(' ')
         : type(round) === 'object' ?
-          px(round.topLeft) + ' ' +
-          px(round.topRight) + ' ' +
-          px(round.bottomRight) + ' ' +
-          px(round.bottomLeft)
+          [
+            round.topLeft ?? round.top ?? round.left,
+            round.topRight ?? round.top ?? round.right,
+            round.bottomRight ?? round.bottom ?? round.right,
+            round.bottomLeft ?? round.bottom ?? round.left,
+          ].map(x => px(x)).join(' ')
         :
           px(round),
       display: span ? 'inline' : bar ? 'flex' : 'block',
     },
-    events: <a
+    events: <\
       hover::{onmouseenter && true}
       hover::{onmouseleave && false}
       focus::{onfocus && true}
       focus::{onblur && false}
     />,
-    nextInline: inline || x.items.some(y=> y && type(y) !== "object" && ("" + y).trim()),
+    nextInline: inline || x.items.some(y=> y && type(y) !== "object" && `${y}`.trim()),
     content:
       nextInline || span ?
         x.items.map(y=> map(
           type(y) === "object" ?
-            <a {...y} size={y.size || size} line={y.line || line} span={true}/>
+            <\ {...y} size={y.size || size} line={y.line || line} span={true}/>
           :
             y
         ))
       :
         x.items.filter(y=> y && (type(y) !== "string" || y.trim())).map(y=> map(
-          <a {...y} size={y.size || size} line={y.line || line} {...context} />
+          <\ {...y} size={y.size || size} line={y.line || line} {...context} />
         )),
     span ?
       <span id={id} style={style} {...events}>{...content}</span>
@@ -78,8 +86,10 @@
           <div style={{ padding: "1px 0", min-height: px(size) }}>
             <div style={{ margin-top: px(-gap), margin-bottom: px(-gap) }}>
               <select style={{ height: px(lineHeight) }} val::{oninput && oninput.target.value}>
-                <option value={null} selected={val === null ? "selected" : undefined} "- Pick one -" />
-                {...options.map(o=> <option value={o} selected={val === o ? "selected" : undefined} {o} />)}
+                <option value={null} selected={val === null ? "selected" : undefined}>- Pick one -</option>
+                {...options.map(o=>
+                  <option value={o} selected={val === o ? "selected" : undefined}>{o}</option>
+                )}
               </select>
             </div>
           </div>
