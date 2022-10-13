@@ -55,7 +55,7 @@ const applyUpdate = (node, ref, values, style = false) => {
 const updateNode = (node, data) => {
   if (!data && data !== 0) return null;
 
-  if (!isObject(data) || !data.items) {
+  if (!isObject(data) || !data.tag) {
     const text = (typeof data === "string" ? data : print(resolve(data, true)))
       .normalize("NFD")
       .replace(/\u0323/g, "")
@@ -66,10 +66,9 @@ const updateNode = (node, data) => {
     return next;
   }
 
+  const tag = resolve(data.tag);
   const next =
-    node?.nodeName.toLowerCase() === data.tag
-      ? node
-      : document.createElement(data.tag);
+    node?.nodeName.toLowerCase() === tag ? node : document.createElement(tag);
 
   effect(() => {
     const { style: dataStyle = {}, ...dataValues } = data.values;
@@ -87,8 +86,8 @@ const updateNode = (node, data) => {
       );
     applyUpdate(next, "props", { ...values, ...setters });
 
-    // const styles = resolve(dataStyle).values;
-    const styles = resolve(dataStyle);
+    const styles = resolve(dataStyle).values || {};
+    // const styles = resolve(dataStyle);
     const style = Object.keys(styles)
       .filter((key) => !reflowCSS.some((k) => key.startsWith(k)))
       .map((key) => ({ key, value: resolve(styles[key]) }))
@@ -100,8 +99,8 @@ const updateNode = (node, data) => {
   }, "style");
 
   effect(() => {
-    // const styles = resolve(data.values.style || {}).values;
-    const styles = resolve(data.values.style || {});
+    const styles = resolve(data.values.style || {}).values || {};
+    // const styles = resolve(data.values.style || {});
     const style = Object.keys(styles)
       .filter((key) => reflowCSS.some((k) => key.startsWith(k)))
       .map((key) => ({ key, value: resolve(styles[key]) }))

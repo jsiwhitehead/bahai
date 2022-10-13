@@ -22,14 +22,14 @@ const set = (obj, path, value) =>
     obj
   );
 // @ts-ignore
-const app = import.meta.glob("./app/**", { eager: true, as: "raw" });
+const app = import.meta.glob("./new/**", { eager: true, as: "raw" });
 const source = Object.keys(app).reduce((res, k) => {
   const p = k
     .slice(2, -3)
     .split(/[\\\\\\/]/)
     .slice(1);
-  set(res, p, app[k]);
-  // set(res, p, maraca(app[k]));
+  // set(res, p, app[k]);
+  set(res, p, maraca(app[k]));
   return res;
 }, {});
 
@@ -214,7 +214,7 @@ run(
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),
-    // ...maracaLibrary,
+    ...maracaLibrary,
   },
   source,
   // (data) => console.log(JSON.stringify(resolve(data, true).index, null, 2))
