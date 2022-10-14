@@ -1,4 +1,7 @@
 [
+  'size': 40,
   'color': hover ? 'red' : 'blue',
-  'hello'
+  'pad': 50,
+  'stack': 30,
+  ['hi'], ['there'],
 ]

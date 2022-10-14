@@ -215,6 +215,7 @@ run(
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),
     ...maracaLibrary,
+    join: (data) => (connect) => data.items.join(connect),
   },
   source,
   // (data) => console.log(JSON.stringify(resolve(data, true).index, null, 2))

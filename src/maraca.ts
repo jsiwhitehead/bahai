@@ -59,7 +59,7 @@ const grammar = String.raw`Maraca {
     = "{" space* items space* "}"
 
   items
-    = listOf<(merge | assign | spread | tag | function | value), join> space* ","?
+    = listOf<(merge | assign | copy | spread | tag | function | value), join> space* ","?
 
   join
     = space* "," space*
@@ -70,11 +70,14 @@ const grammar = String.raw`Maraca {
   assign
     = "*"? space* string space* ":" space* value
 
+  copy
+    = string space* ":="
+
   spread
     = "..." ":"? space* value
 
   tag
-    = ":" space* string
+    = ":" space* value
 
   function
     = (block | variable) space* ":" space* value
@@ -92,7 +95,7 @@ const grammar = String.raw`Maraca {
     = ~("'" | "\\" | "{") any
 
   ystring
-    = "\"" (yvalue | ychunk)* "\""
+    = "\"" (block | yvalue | ychunk)* "\""
 
   yvalue
     = "{" space* value space* "}"
@@ -101,7 +104,7 @@ const grammar = String.raw`Maraca {
     = (ychar | escape)+
 
   ychar
-    = ~("\"" | "\\" | "{") any
+    = ~("\"" | "\\" | "{" | "[") any
 
   string
     = "'" (char | escape)* "'"
@@ -113,7 +116,7 @@ const grammar = String.raw`Maraca {
     = "\\" any
 
   number
-    = digit+
+    = digit+ ("." digit+)?
 
   variable
     = alnum+
@@ -138,10 +141,9 @@ s.addAttribute("ast", {
   value: (a) => a.ast,
 
   ternary_ternary: (a, _1, _2, _3, b, _4, _5, _6, c) => ({
-    type: "ternary",
-    test: a.ast,
-    pass: b.ast,
-    fail: c.ast,
+    type: "operation",
+    operation: "?",
+    values: [a.ast, b.ast, c.ast],
   }),
   ternary: (a) => a.ast,
 
@@ -203,6 +205,12 @@ s.addAttribute("ast", {
     value: c.ast,
   }),
 
+  copy: (a, _1, _2) => ({
+    type: "assign",
+    key: a.ast.value,
+    value: { type: "variable", value: a.ast.value },
+  }),
+
   spread: (_1, a, _2, b) => ({
     type: "spread",
     partial: a.sourceString === ":",
@@ -244,7 +252,10 @@ s.addAttribute("ast", {
 
   escape: (_1, _2) => null,
 
-  number: (a) => ({ type: "value", value: parseInt(a.sourceString, 10) }),
+  number: (a, b, c) => ({
+    type: "value",
+    value: parseFloat([a, b, c].map((x) => x.sourceString).join("")),
+  }),
 
   brackets: (_1, _2, a, _3, _4) => ({ type: "brackets", value: a.ast }),
 
@@ -275,14 +286,6 @@ const getPattern = (node) => {
   return node;
 };
 
-const operationMap = {
-  "|": "||",
-  "&": "&&",
-  "!": "!==",
-  "=": "===",
-  "^": "**",
-};
-
 const compile = (node, block = false) => {
   if (node.type === "value") {
     return `${JSON.stringify(node.value)}`;
@@ -301,16 +304,9 @@ const compile = (node, block = false) => {
       .map((p) => (typeof p === "string" ? `"${p}"` : compile(p)))
       .join(", ")}]`;
   }
-  if (node.type === "ternary") {
-    return `${compile(node.test)} ? ${compile(node.pass)} : ${compile(
-      node.fail
-    )}`;
-  }
   if (node.type === "operation") {
     const compiled = node.values.map((v) => compile(v));
-    const operation = operationMap[node.operation] || node.operation;
-    if (node.values.length === 1) `${compiled[0]}${operation}`;
-    return `${compiled[0]} ${operation} ${compiled[1]}`;
+    return `operation("${node.operation}", ${compiled.join(", ")})`;
   }
   if (node.type === "apply") {
     return `apply(${compile(node.map)}, ${compile(node.input)})`;
@@ -322,16 +318,19 @@ const compile = (node, block = false) => {
       .join(" ");
     const items = node.items
       .filter((n) => !["merge", "assign", "tag", "function"].includes(n.type))
-      .map((n) => `{${compile(n)}}`)
+      .map((n) => `{${compile(n, true)}}`)
       .join(" ");
-    const tag =
-      node.items.find((n) => ["tag"].includes(n.type))?.value.value || "\\";
-    const functions = node.items
-      .filter((n) => ["function"].includes(n.type))
-      .map((n) => compile(n))
-      .join(", ");
-    if (functions.length === 0) return `<${tag} ${items} ${values} />`;
-    return `<${tag} ${items} ${values} &functions={[${functions}]} />`;
+    const tagNode = node.items.find((n) => ["tag"].includes(n.type));
+    const tag = tagNode && `&tag={${compile(tagNode.value)}}`;
+    const functionNodes = node.items.filter((n) =>
+      ["function"].includes(n.type)
+    );
+    const functions =
+      functionNodes.length > 0 &&
+      `&functions={[${functionNodes.map((n) => compile(n)).join(", ")}]}`;
+    return `<\\ ${[items, values, tag, functions]
+      .filter((x) => x)
+      .join(" ")} />`;
   }
   if (node.type === "scope") {
     const items = node.items.map((n) => compile(n));
@@ -349,7 +348,8 @@ const compile = (node, block = false) => {
     return `${recursive}${node.key}: ${compile(node.value)}`;
   }
   if (node.type === "spread") {
-    return `...${compile(node.value)}`;
+    if (block) return `...${compile(node.value)}`;
+    return `...${compile(node.value)}.values`;
   }
   if (node.type === "function") {
     const variables = getVariables(node.arg);
@@ -373,119 +373,160 @@ const reactiveFunc = (func) => {
 };
 
 const testMatch = (value, pattern) => {
+  if (!pattern) return false;
+  if (pattern.type === "variable") return { [pattern.value]: value || "" };
   const value1 = resolve(value);
-  if (!value1 || !pattern) return false;
-  if (pattern.type === "variable") return { [pattern.value]: value1 };
   if (pattern.type === "value") return pattern.value === value1 && {};
   if (typeof value1 !== "object") return false;
   const last = pattern.items[pattern.items.length - 1];
-  if (last.type === "spread") {
-    const secondLast = pattern.items[pattern.items.length - 2];
-    const matches = [
-      ...Array.from({
-        length: pattern.items.length - (secondLast?.type === "spread" ? 2 : 1),
-      }).map((_, i) => testMatch(value1.items[i], pattern.items[i])),
-      ...Object.keys(pattern.values).map((key) =>
-        testMatch(value1.values[key], pattern.values[key])
-      ),
-    ];
-    const otherItems = value1.items.slice(
-      pattern.items.length - (secondLast?.type === "spread" ? 2 : 1)
-    );
-    const otherValues = Object.keys(value1.values).reduce(
-      (res, k) => (pattern.values[k] ? res : { ...res, [k]: value1.values[k] }),
-      {}
-    );
+  const secondLast = pattern.items[pattern.items.length - 2];
+  const length = pattern.items.length - (secondLast?.type === "spread" ? 2 : 1);
+  const matches = [
+    ...Array.from({ length }).map((_, i) =>
+      testMatch(value1.items[i], pattern.items[i])
+    ),
+    ...Object.keys(pattern.values).map((key) =>
+      testMatch(value1.values[key], pattern.values[key])
+    ),
+  ];
+  if (last.type !== "spread") {
     return (
       matches.every((x) => x) &&
-      matches.reduce((res, x) => ({ ...res, ...x }), {
-        [last.value.value]: {
-          type: "block",
-          items:
-            secondLast?.type !== "spread" || !last.partial ? otherItems : [],
-          values:
-            secondLast?.type !== "spread" || last.partial ? otherValues : {},
-        },
-        ...(secondLast?.type === "spread"
-          ? {
-              [secondLast.value.value]: {
-                type: "block",
-                items: !secondLast.partial ? otherItems : [],
-                values: secondLast.partial ? otherValues : {},
-              },
-            }
-          : {}),
-      })
+      matches.reduce((res, x) => ({ ...res, ...x }), {})
     );
   }
-  const matches = [
-    ...Array.from({
-      length: Math.max(value1.items.length, pattern.items.length),
-    }).map((_, i) => testMatch(value1.items[i], pattern.items[i])),
-    ...[
-      ...new Set([
-        ...Object.keys(value1.values),
-        ...Object.keys(pattern.values),
-      ]),
-    ].map((key) => testMatch(value1.values[key], pattern.values[key])),
-  ];
+  const otherItems = value1.items.slice(length);
+  const otherValues = Object.keys(value1.values).reduce(
+    (res, k) => (pattern.values[k] ? res : { ...res, [k]: value1.values[k] }),
+    {}
+  );
   return (
     matches.every((x) => x) &&
-    matches.reduce((res, x) => ({ ...res, ...x }), {})
+    matches.reduce((res, x) => ({ ...res, ...x }), {
+      [last.value.value]: {
+        type: "block",
+        items: secondLast?.type !== "spread" || !last.partial ? otherItems : [],
+        values:
+          secondLast?.type !== "spread" || last.partial ? otherValues : {},
+      },
+      ...(secondLast?.type === "spread"
+        ? {
+            [secondLast.value.value]: {
+              type: "block",
+              items: !secondLast.partial ? otherItems : [],
+              values: secondLast.partial ? otherValues : {},
+            },
+          }
+        : {}),
+    })
   );
 };
 const apply = reactiveFunc((map, input) => {
   const map1 = resolve(map);
-  const input1 = resolve(input);
-  if (
-    (typeof input1 === "number" || typeof input1 === "string") &&
-    `${input1}` in map1.values
-  ) {
-    return map1.values[input1];
+  if (typeof map1 === "function") {
+    return map1.reactiveFunc ? map1(input) : map1(resolve(input, true));
   }
-  if (
-    typeof input1 === "number" &&
-    input1 >= 1 &&
-    input1 <= map1.items.length
-  ) {
-    return map1.items[input1 - 1];
+  if (Object.keys(map1.values).length > 0 || map1.items.length > 0) {
+    const input1 = resolve(input);
+    if (
+      (typeof input1 === "number" || typeof input1 === "string") &&
+      `${input1}` in map1.values
+    ) {
+      return map1.values[input1];
+    }
+    if (
+      typeof input1 === "number" &&
+      input1 >= 1 &&
+      input1 <= map1.items.length
+    ) {
+      return map1.items[input1 - 1];
+    }
   }
   const funcs = resolve(map1.functions, true);
   if (funcs?.length > 0) {
     for (const f of funcs) {
-      const match = testMatch(input1, f.pattern);
+      const match = testMatch(input, f.pattern);
       if (match) return f.run(...f.variables.map((k) => match[k]));
     }
   }
   return "";
 });
-const buildFunc = (func) => ({
-  items: [],
-  values: {},
-  functions: [
-    { variables: ["x"], pattern: { type: "variable", value: "x" }, run: func },
-  ],
-});
-const map = buildFunc(
-  reactiveFunc((x) =>
-    buildFunc(
-      reactiveFunc((y) => {
-        const x1 = resolve(x);
-        return {
-          type: "block",
-          items: x1.items.map((v) => apply(y, v)),
-          values: Object.keys(x1.values).reduce(
-            (res, k) => ({ ...res, [k]: apply(y, x1.values[k]) }),
-            {}
-          ),
-          functions: [],
-        };
-      })
-    )
-  )
+const map = reactiveFunc((x) =>
+  reactiveFunc((y) => {
+    const x1 = resolve(x);
+    return {
+      type: "block",
+      items: x1.items.map((v) => apply(y, v)),
+      values: Object.keys(x1.values).reduce(
+        (res, k) => ({ ...res, [k]: apply(y, x1.values[k]) }),
+        {}
+      ),
+      functions: [],
+    };
+  })
+);
+const some = reactiveFunc((x) =>
+  reactiveFunc((y) => {
+    const x1 = resolve(x);
+    return (
+      x1.items.some((v) => resolve(apply(y, v))) ||
+      Object.keys(x1.values).some((k) => resolve(apply(y, x1.values[k])))
+    );
+  })
 );
 
-export const maracaLibrary = { apply, map };
+const toTruthy = (v) => ([null, undefined, false, ""].includes(v) ? "" : true);
+const toNumber = (v: string) => {
+  const n = parseFloat(v);
+  return !isNaN(v as any) && !isNaN(n) ? n : null;
+};
+const operationMaps = {
+  "<=": (a, b) => a <= b,
+  ">=": (a, b) => a >= b,
+  "<": (a, b) => a < b,
+  ">": (a, b) => a > b,
+  "+": (a, b) => a + b,
+  "-": (a, b) => a - b,
+  "*": (a, b) => a * b,
+  "/": (a, b) => a / b,
+  "%": (a, b) => ((((a - 1) % b) + b) % b) + 1,
+  "^": (a, b) => a ** b,
+  "!": (a, b) => a !== b,
+  "=": (a, b) => a === b,
+};
+const operation = reactiveFunc((operation, ...args) => {
+  const op = resolve(operation);
+  if (["<=", ">=", "<", ">", "+", "-", "*", "/", "%", "^"].includes(op)) {
+    const values = args.map((a) => toNumber(resolve(a)));
+    if (values.some((v) => v === null)) return "";
+    if (values.length === 1 && op === "-") return -values[0]!;
+    if (["<=", ">=", "<", ">"].includes(op)) {
+      return toTruthy(operationMaps[op](...values));
+    }
+    return operationMaps[op](...values);
+  }
+  if (["!", "="].includes(op)) {
+    const values = args.map((a) => resolve(a, true));
+    if (values.length === 1 && op === "!") {
+      return toTruthy(!toTruthy(values[0]));
+    }
+    return toTruthy(operationMaps[op](...values));
+  }
+  if (op === "?") {
+    const test = resolve(args[0]);
+    return toTruthy(test) ? args[1] : args[2];
+  }
+  if (op === "&") {
+    const test = resolve(args[0]);
+    return toTruthy(test) ? args[1] : args[0];
+  }
+  if (op === "|") {
+    const test = resolve(args[0]);
+    return toTruthy(test) ? args[0] : args[1];
+  }
+});
+
+export const maracaLibrary = { apply, map, some, operation };
 
 export default (script) => {
   const m = g.match(script);
