@@ -21,6 +21,15 @@ const testMatch = ($value, pattern) => {
   if (!pattern) return false;
   if (pattern.type === "variable") return { [pattern.value]: $value || "" };
   const value = resolve($value);
+  if (
+    pattern.type === "operation" &&
+    pattern.operation === "+" &&
+    pattern.values[0].type === "variable"
+  ) {
+    return (
+      typeof value === "number" && { [pattern.values[0].value]: $value || "" }
+    );
+  }
   if (pattern.type === "value") return pattern.value === value && {};
   if (!isObject(value)) return false;
   const spreads = pattern.items.filter((p) => p.type === "spread");
@@ -147,7 +156,9 @@ const operation = reactiveFunc(($op, ...$args) => {
   if (["<=", ">=", "<", ">", "+", "-", "*", "/", "%", "^"].includes(op)) {
     const values = $args.map(($a) => toNumber(resolve($a)));
     if (values.some((v) => v === null)) return "";
-    if (values.length === 1 && op === "-") return -values[0]!;
+    if (values.length === 1) {
+      return op === "-" ? -values[0]! : values[0];
+    }
     if (["<=", ">=", "<", ">"].includes(op)) {
       return toTruthy(operationMaps[op](...values));
     }

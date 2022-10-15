@@ -1,5 +1,5 @@
 {
-  'px': [v: type.v = 'number' ? '{v}px' : v | 0],
+  'px': [+n: '{n}px', x: x | 0],
   *'render': [
     [
       'size':=,
@@ -33,7 +33,7 @@
       'line': line | 1.5,
       'lineHeight': line > 3 ? line : line * size,
       'gap': (lineHeight - size) * 0.5 + 1,
-      'nextInline': inline | some(items, [x: type.x ! 'object']),
+      'nextInline': inline | some(items, [[...x]: '', x: true]),
       'content':
         map(
           items,
@@ -104,7 +104,7 @@
           'display': span ? 'inline' : bar ? 'flex' : 'block',
           ...style,
         ],
-        'href': link & '/{link->join.'/'}',
+        'href': link & '/{link->join('/')}',
         'hover':: onmouseenter & 'true',
         'hover':: onmouseleave & '',
         ...inner,
@@ -112,5 +112,5 @@
     },
     x: x,
   ],
-  render.app,
+  render(app),
 }

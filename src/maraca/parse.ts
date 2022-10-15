@@ -41,15 +41,15 @@ const grammar = String.raw`Maraca {
     | unary
 
   unary
-    = ("!" | "-") space* apply -- unary
+    = ("!" | "-" | "+") space* apply -- unary
     | apply
 
   apply
     = apply space* ("." | "?." | "->") space* atom -- apply
-    | apply "(" space* args space* ")" -- brackets
+    | apply "(" space* arguments space* ")" -- brackets
     | atom
 
-  args
+  arguments
     = listOf<value, join> space* ","?
 
   atom
@@ -80,7 +80,10 @@ const grammar = String.raw`Maraca {
     = "..." ":"? space* value
 
   function
-    = (block | variable) space* ":" space* value
+    = (block | parameter) space* ":" space* value
+
+  parameter
+    = "+"? space* variable
 
   xstring
     = "'" (xvalue | xchunk)* "'"
@@ -192,7 +195,7 @@ s.addAttribute("ast", {
     })),
   apply: (a) => a.ast,
 
-  args: (a, _1, _2) => a.ast,
+  arguments: (a, _1, _2) => a.ast,
 
   atom: (a) => a.ast,
 
@@ -236,7 +239,12 @@ s.addAttribute("ast", {
     value: b.ast,
   }),
 
-  variable: (a) => ({ type: "variable", value: a.sourceString }),
+  parameter: (a, _1, b) => {
+    const result = { type: "variable", value: b.sourceString };
+    return a.sourceString === "+"
+      ? { type: "operation", operation: "+", values: [result] }
+      : result;
+  },
 
   xstring: (_1, a, _2) => ({ type: "string", parts: a.ast }),
 
@@ -265,6 +273,8 @@ s.addAttribute("ast", {
     value: parseFloat([a, b, c].map((x) => x.sourceString).join("")),
   }),
 
+  variable: (a) => ({ type: "variable", value: a.sourceString }),
+
   brackets: (_1, _2, a, _3, _4) => ({ type: "brackets", value: a.ast }),
 
   listOf: (a) => a.ast,
@@ -279,6 +289,7 @@ const getVariables = (node) => {
   if (node.type === "block") return node.items.flatMap((n) => getVariables(n));
   if (node.type === "assign") return getVariables(node.value);
   if (node.type === "spread") return getVariables(node.value);
+  if (node.type === "operation") return getVariables(node.values[0]);
   if (node.type === "variable") return [node.value];
   return [];
 };
