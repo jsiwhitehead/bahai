@@ -1,7 +1,7 @@
 import webfont from "webfontloader";
 import { createBrowserHistory } from "history";
 
-import run, { atom, resolve } from "reactivejs";
+import { atom, resolve } from "reactivejs";
 
 import render from "./render";
 
@@ -12,7 +12,7 @@ import quotes from "./data/quotes.json";
 
 import "./style.css";
 
-import maraca, { maracaLibrary } from "./maraca";
+import maraca from "./maraca";
 
 webfont.load({ google: { families: ["Atkinson Hyperlegible"] } });
 
@@ -28,8 +28,7 @@ const source = Object.keys(app).reduce((res, k) => {
     .slice(2, -3)
     .split(/[\\\\\\/]/)
     .slice(1);
-  // set(res, p, app[k]);
-  set(res, p, maraca(app[k]));
+  set(res, p, app[k]);
   return res;
 }, {});
 
@@ -75,7 +74,7 @@ const toUrl = (s) =>
     .replace(/[^\w-]/g, "")
     .toLowerCase();
 
-run(
+maraca(
   {
     sortIds: (ids) =>
       [...ids].sort((a, b) => {
@@ -214,7 +213,6 @@ run(
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),
-    ...maracaLibrary,
     join: (data) => (connect) => data.items.join(connect),
   },
   source,
