@@ -46,8 +46,12 @@ const grammar = String.raw`Maraca {
 
   apply
     = apply space* ("." | "?." | "->") space* atom -- apply
+    | apply "(" space* args space* ")" -- brackets
     | atom
-  
+
+  args
+    = listOf<value, join> space* ","?
+
   atom
     = block | scope | xstring | ystring | number | variable | brackets
 
@@ -180,7 +184,15 @@ s.addAttribute("ast", {
           map: a.ast,
           input: c.ast,
         },
+  apply_brackets: (a, _1, _2, b, _3, _4) =>
+    [a.ast, ...b.ast].reduce((x, y) => ({
+      type: "apply",
+      map: x,
+      input: y,
+    })),
   apply: (a) => a.ast,
+
+  args: (a, _1, _2) => a.ast,
 
   atom: (a) => a.ast,
 
