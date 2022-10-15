@@ -46,7 +46,7 @@
           ]
         ]
       : stack ?
-        content->map.[x: [:'div', 'style': ['padding-top': px.stack], x]]
+        content->mapi.[[x, i]: [:'div', 'style': ['padding-top': i ! 1 & px.stack], x]]
       :
         content,
       [:span ? 'span' : 'div',

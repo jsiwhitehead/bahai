@@ -55,7 +55,7 @@ const applyUpdate = (node, ref, values, style = false) => {
 const updateNode = (node, data) => {
   if (!data && data !== 0) return null;
 
-  if (!isObject(data) || !data.tag) {
+  if (!isObject(data) || data.type !== "block") {
     const text = (typeof data === "string" ? data : print(resolve(data, true)))
       .normalize("NFD")
       .replace(/\u0323/g, "")
@@ -66,7 +66,7 @@ const updateNode = (node, data) => {
     return next;
   }
 
-  const tag = resolve(data.tag);
+  const tag = resolve(data.values[""]);
   const next =
     node?.nodeName.toLowerCase() === tag ? node : document.createElement(tag);
 

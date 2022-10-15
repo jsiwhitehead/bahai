@@ -10,7 +10,7 @@ const grammar = String.raw`Maraca {
     = ternary
 
   ternary
-    = ternary space* "?" space* or space* ":" space* or -- ternary
+    = or space* "?" space* or space* ":" space* ternary -- ternary
     | or
 
   or
@@ -59,7 +59,7 @@ const grammar = String.raw`Maraca {
     = "{" space* items space* "}"
 
   items
-    = listOf<(merge | assign | copy | spread | tag | function | value), join> space* ","?
+    = listOf<(merge | assign | copy | spread | function | value), join> space* ","?
 
   join
     = space* "," space*
@@ -68,16 +68,13 @@ const grammar = String.raw`Maraca {
     = "~"? space* string space* "::" space* value?
 
   assign
-    = "*"? space* string space* ":" space* value
+    = "*"? space* string? space* ":" space* value
 
   copy
     = string space* ":="
 
   spread
     = "..." ":"? space* value
-
-  tag
-    = ":" space* value
 
   function
     = (block | variable) space* ":" space* value
@@ -201,7 +198,7 @@ s.addAttribute("ast", {
   assign: (a, _1, b, _2, _3, _4, c) => ({
     type: "assign",
     recursive: a.sourceString === "*",
-    key: b.ast.value,
+    key: b.ast[0]?.value || "",
     value: c.ast,
   }),
 
@@ -215,11 +212,6 @@ s.addAttribute("ast", {
     type: "spread",
     partial: a.sourceString === ":",
     value: b.ast,
-  }),
-
-  tag: (_1, _2, a) => ({
-    type: "tag",
-    value: a.ast,
   }),
 
   function: (a, _1, _2, _3, b) => ({
@@ -317,20 +309,16 @@ const compile = (node, block = false) => {
       .map((n) => compile(n, true))
       .join(" ");
     const items = node.items
-      .filter((n) => !["merge", "assign", "tag", "function"].includes(n.type))
+      .filter((n) => !["merge", "assign", "function"].includes(n.type))
       .map((n) => `{${compile(n, true)}}`)
       .join(" ");
-    const tagNode = node.items.find((n) => ["tag"].includes(n.type));
-    const tag = tagNode && `&tag={${compile(tagNode.value)}}`;
     const functionNodes = node.items.filter((n) =>
       ["function"].includes(n.type)
     );
     const functions =
       functionNodes.length > 0 &&
       `&functions={[${functionNodes.map((n) => compile(n)).join(", ")}]}`;
-    return `<\\ ${[items, values, tag, functions]
-      .filter((x) => x)
-      .join(" ")} />`;
+    return `<\\ ${[items, values, functions].filter((x) => x).join(" ")} />`;
   }
   if (node.type === "scope") {
     const items = node.items.map((n) => compile(n));
@@ -344,8 +332,8 @@ const compile = (node, block = false) => {
   }
   if (node.type === "assign") {
     const recursive = node.recursive ? "*" : "";
-    if (block) return `${recursive}${node.key}={${compile(node.value)}}`;
-    return `${recursive}${node.key}: ${compile(node.value)}`;
+    if (block) return `${recursive}"${node.key}"={${compile(node.value)}}`;
+    return `${recursive}"${node.key}": ${compile(node.value)}`;
   }
   if (node.type === "spread") {
     if (block) return `...${compile(node.value)}`;
@@ -377,10 +365,10 @@ const testMatch = (value, pattern) => {
   if (pattern.type === "variable") return { [pattern.value]: value || "" };
   const value1 = resolve(value);
   if (pattern.type === "value") return pattern.value === value1 && {};
-  if (typeof value1 !== "object") return false;
+  if (value1 == null || typeof value1 !== "object") return false;
   const last = pattern.items[pattern.items.length - 1];
   const secondLast = pattern.items[pattern.items.length - 2];
-  const length = pattern.items.length - (secondLast?.type === "spread" ? 2 : 1);
+  const length = pattern.items.filter((p) => p.type !== "spread").length;
   const matches = [
     ...Array.from({ length }).map((_, i) =>
       testMatch(value1.items[i], pattern.items[i])
@@ -465,6 +453,35 @@ const map = reactiveFunc((x) =>
     };
   })
 );
+const mapi = reactiveFunc((x) =>
+  reactiveFunc((y) => {
+    const x1 = resolve(x);
+    return {
+      type: "block",
+      items: x1.items.map((v, i) =>
+        apply(y, {
+          type: "block",
+          items: [v, i + 1],
+          values: {},
+          functions: [],
+        })
+      ),
+      values: Object.keys(x1.values).reduce(
+        (res, k) => ({
+          ...res,
+          [k]: apply(y, {
+            type: "block",
+            items: [x1.values[k], k],
+            values: {},
+            functions: [],
+          }),
+        }),
+        {}
+      ),
+      functions: [],
+    };
+  })
+);
 const some = reactiveFunc((x) =>
   reactiveFunc((y) => {
     const x1 = resolve(x);
@@ -526,7 +543,7 @@ const operation = reactiveFunc((operation, ...args) => {
   }
 });
 
-export const maracaLibrary = { apply, map, some, operation };
+export const maracaLibrary = { apply, map, mapi, some, operation };
 
 export default (script) => {
   const m = g.match(script);
