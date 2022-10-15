@@ -45,7 +45,7 @@ const grammar = String.raw`Maraca {
     | apply
 
   apply
-    = apply space* ("." | "->") space* atom -- apply
+    = apply space* ("." | "?." | "->") space* atom -- apply
     | atom
   
   atom
@@ -172,9 +172,14 @@ s.addAttribute("ast", {
   unary: (a) => a.ast,
 
   apply_apply: (a, _1, b, _2, c) =>
-    b.sourceString === "."
-      ? { type: "apply", map: a.ast, input: c.ast }
-      : { type: "apply", map: c.ast, input: a.ast },
+    b.sourceString === "->"
+      ? { type: "apply", map: c.ast, input: a.ast }
+      : {
+          type: "apply",
+          optional: b.sourceString === "?.",
+          map: a.ast,
+          input: c.ast,
+        },
   apply: (a) => a.ast,
 
   atom: (a) => a.ast,
@@ -300,7 +305,9 @@ const compile = (node, block = false) => {
     return `operation("${node.operation}", ${compiled.join(", ")})`;
   }
   if (node.type === "apply") {
-    return `apply(${compile(node.map)}, ${compile(node.input)})`;
+    return `apply(${compile(node.map)}, ${compile(node.input)}, ${
+      node.optional ? "true" : "false"
+    })`;
   }
   if (node.type === "block") {
     const values = node.items

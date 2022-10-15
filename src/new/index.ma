@@ -17,27 +17,39 @@
       'pad':=,
       'round':=,
       'stack':=,
+      'bar':=,
+      'width':=,
+      'style':=,
+      'link':=,
+      'input':=,
+      'value':=,
       'hover':=,
+      'inline':=,
       'span':=,
       ...:values,
-      ...items
+      ...items,
     ]: {
       'size': size | 20,
       'line': line | 1.5,
       'lineHeight': line > 3 ? line : line * size,
       'gap': (lineHeight - size) * 0.5 + 1,
-      'hasInline': items->some.[x: type.x ! 'object'],
+      'nextInline': inline | items->some.[x: type.x ! 'object'],
       'content':
         items->map.[
           [...x]: render.[
             'size': x.'size' | size,
             'line': x.'line' | line,
-            'span': hasInline,
+            'span': nextInline,
             ...x,
           ],
           x: render.x,
         ],
-      'inner': !span & hasInline ?
+      'inner': input ?
+        {
+          'val': value,
+          [[:'input', 'type': 'text', 'value': val, 'val':: oninput?.'target'?.'value']]
+        }
+      : !span & nextInline ?
         [
           [:'div', 'style': ['padding': '1px 0', 'min-height': px.size],
             [:'div', 'style': ['margin-top': px.(-gap), 'margin-bottom': px.(-gap)],
@@ -49,7 +61,7 @@
         content->mapi.[[x, i]: [:'div', 'style': ['padding-top': i ! 1 & px.stack], x]]
       :
         content,
-      [:span ? 'span' : 'div',
+      [:span ? 'span' : link ? 'a' : 'div',
         'style': [
           'font-size': px.size,
           'line-height': px.lineHeight,
@@ -81,7 +93,12 @@
             ]->map.px->join.' ',
             x: px.x,
           ],
+          'width': width & (width <= 1 ? '{width * 100}%' : px.width),
+          'flex-grow': width ? 0 : 1,
+          'display': span ? 'inline' : bar ? 'flex' : 'block',
+          ...style,
         ],
+        'href': link & '/{link->join.'/'}',
         'hover':: onmouseenter & 'true',
         'hover':: onmouseleave & '',
         ...inner,

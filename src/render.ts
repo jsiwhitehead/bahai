@@ -52,6 +52,15 @@ const applyUpdate = (node, ref, values, style = false) => {
   node[`__${ref}`] = values;
 };
 
+const updateChildren = (node, children) => {
+  if (
+    node.childNodes.length !== children.length ||
+    [...node.childNodes].some((c, i) => children[i] !== c)
+  ) {
+    node.replaceChildren(...children);
+  }
+};
+
 const updateNode = (node, data) => {
   if (!data && data !== 0) return null;
 
@@ -112,8 +121,9 @@ const updateNode = (node, data) => {
   }, "reflow");
 
   effect(() => {
-    next.replaceChildren(
-      ...data.items
+    updateChildren(
+      next,
+      data.items
         .map((d, i) => updateNode(next.childNodes[i], resolve(d)))
         .filter((x) => x)
     );
@@ -123,7 +133,7 @@ const updateNode = (node, data) => {
 };
 
 export default (root) => (data) => {
-  root.replaceChildren(updateNode(root.childNodes[0], resolve(data.index)));
+  updateChildren(root, [updateNode(root.childNodes[0], resolve(data.index))]);
 };
 
 // const attributesMap = {
