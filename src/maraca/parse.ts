@@ -280,7 +280,6 @@ const getVariables = (node) => {
   if (node.type === "block") return node.items.flatMap((n) => getVariables(n));
   if (node.type === "assign") return getVariables(node.value);
   if (node.type === "spread") return getVariables(node.value);
-  if (node.type === "operation") return getVariables(node.values[0]);
   if (node.type === "variable") return [node.value];
   return [];
 };

@@ -21,15 +21,6 @@ const testMatch = ($value, pattern) => {
   if (!pattern) return false;
   if (pattern.type === "variable") return { [pattern.value]: $value || "" };
   const value = resolve($value);
-  if (
-    pattern.type === "operation" &&
-    pattern.operation === "+" &&
-    pattern.values[0].type === "variable"
-  ) {
-    return (
-      typeof value === "number" && { [pattern.values[0].value]: $value || "" }
-    );
-  }
   if (pattern.type === "value") return pattern.value === value && {};
   if (!isObject(value)) return false;
   const spreads = pattern.items.filter((p) => p.type === "spread");

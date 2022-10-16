@@ -1,5 +1,5 @@
 {
-  'px': [+n: '{n}px', x: x | 0],
+  'px': [n ? +n: '{n}px', x: x | 0],
   *'render': [
     [
       'size':=,
