@@ -1,6 +1,6 @@
 {
   ~'value':: '',
-  [
+  : [
     'size': 20,
     'font': 'Atkinson Hyperlegible',
     'color': '#333',

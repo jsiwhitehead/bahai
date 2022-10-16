@@ -6,11 +6,7 @@ const grammar = String.raw`Maraca {
     = space* value? space*
 
   value
-    = ternary
-
-  ternary
-    = or space* "?" space* or space* ":" space* ternary -- ternary
-    | or
+    = or
 
   or
     = or space* "|" space* and -- or
@@ -80,7 +76,7 @@ const grammar = String.raw`Maraca {
     = "..." ":"? space* value
 
   function
-    = (block | parameter) space* ":" space* value
+    = (block | parameter)? space* ("?" space* value)? space* ":" space* value
 
   parameter
     = "+"? space* variable
@@ -142,13 +138,6 @@ s.addAttribute("ast", {
   start: (_1, a, _2) => a.ast[0],
 
   value: (a) => a.ast,
-
-  ternary_ternary: (a, _1, _2, _3, b, _4, _5, _6, c) => ({
-    type: "operation",
-    operation: "?",
-    values: [a.ast, b.ast, c.ast],
-  }),
-  ternary: (a) => a.ast,
 
   or_or: binary,
   or: (a) => a.ast,
@@ -233,10 +222,11 @@ s.addAttribute("ast", {
     value: b.ast,
   }),
 
-  function: (a, _1, _2, _3, b) => ({
+  function: (a, _1, _2, _3, b, _4, _5, _6, c) => ({
     type: "function",
-    arg: a.ast,
-    value: b.ast,
+    arg: a.ast[0],
+    test: b.ast[0],
+    value: c.ast,
   }),
 
   parameter: (a, _1, b) => {
@@ -286,6 +276,7 @@ s.addAttribute("ast", {
 });
 
 const getVariables = (node) => {
+  if (!node) return [];
   if (node.type === "block") return node.items.flatMap((n) => getVariables(n));
   if (node.type === "assign") return getVariables(node.value);
   if (node.type === "spread") return getVariables(node.value);
@@ -305,6 +296,21 @@ const getPattern = (node) => {
   return node;
 };
 
+const compileBlock = (node) => {
+  const values = node.items
+    .filter((n) => ["merge", "assign"].includes(n.type))
+    .map((n) => compile(n, true))
+    .join(" ");
+  const items = node.items
+    .filter((n) => !["merge", "assign", "function"].includes(n.type))
+    .map((n) => `{${compile(n, true)}}`)
+    .join(" ");
+  const functionNodes = node.items.filter((n) => ["function"].includes(n.type));
+  const functions =
+    functionNodes.length > 0 &&
+    `&functions={[${functionNodes.map((n) => compile(n)).join(", ")}]}`;
+  return `<\\ ${[items, values, functions].filter((x) => x).join(" ")} />`;
+};
 const compile = (node, block = false) => {
   if (node.type === "value") {
     return `${JSON.stringify(node.value)}`;
@@ -333,25 +339,10 @@ const compile = (node, block = false) => {
     })`;
   }
   if (node.type === "block") {
-    const values = node.items
-      .filter((n) => ["merge", "assign"].includes(n.type))
-      .map((n) => compile(n, true))
-      .join(" ");
-    const items = node.items
-      .filter((n) => !["merge", "assign", "function"].includes(n.type))
-      .map((n) => `{${compile(n, true)}}`)
-      .join(" ");
-    const functionNodes = node.items.filter((n) =>
-      ["function"].includes(n.type)
-    );
-    const functions =
-      functionNodes.length > 0 &&
-      `&functions={[${functionNodes.map((n) => compile(n)).join(", ")}]}`;
-    return `<\\ ${[items, values, functions].filter((x) => x).join(" ")} />`;
+    return compileBlock(node);
   }
   if (node.type === "scope") {
-    const items = node.items.map((n) => compile(n));
-    return `(${items.join(", ")})`;
+    return `apply(${compileBlock(node)}, "")`;
   }
   if (node.type === "merge") {
     const source = node.source ? "~" : "";
@@ -371,10 +362,13 @@ const compile = (node, block = false) => {
   if (node.type === "function") {
     const variables = getVariables(node.arg);
     return `{ ${[
-      `pattern: ${JSON.stringify(getPattern(node.arg))}`,
+      node.arg && `pattern: ${JSON.stringify(getPattern(node.arg))}`,
       `variables: ${JSON.stringify(variables)}`,
+      node.test && `test: (${variables.join(", ")})=> ${compile(node.test)}`,
       `run: (${variables.join(", ")})=> ${compile(node.value)}`,
-    ].join(", ")} }`;
+    ]
+      .filter((x) => x)
+      .join(", ")} }`;
   }
   if (node.type === "variable") {
     return node.value;

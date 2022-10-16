@@ -31,7 +31,7 @@
     ]: {
       'size': size | 20,
       'line': line | 1.5,
-      'lineHeight': line > 3 ? line : line * size,
+      'lineHeight': { ? line > 3 : line, : line * size },
       'gap': (lineHeight - size) * 0.5 + 1,
       'nextInline': inline | some(items, [[...x]: '', x: true]),
       'content':
@@ -47,27 +47,25 @@
             x: render(x),
           ]
         ),
-      'inner': input ?
-        {
+      'inner': {
+        ? input: {
           'val': value,
-          [[:'input', 'type': 'text', 'value': val, 'val':: oninput?.'target'?.'value']]
-        }
-      : !span & nextInline ?
-        [
+          : [[:'input', 'type': 'text', 'value': val, 'val':: oninput?.'target'?.'value']]
+        },
+        ? !span & nextInline: [
           [:'div', 'style': ['padding': '1px 0', 'min-height': px(size)],
             [:'div', 'style': ['margin-top': px(-gap), 'margin-bottom': px(-gap)],
               ...content,
             ],
           ]
-        ]
-      : stack ?
-        mapi(
+        ],
+        ? stack: mapi(
           content,
           [[x, i]: [:'div', 'style': ['padding-top': i ! 1 & px(stack)], x]]
-        )
-      :
-        content,
-      [:span ? 'span' : link ? 'a' : 'div',
+        ),
+        : content,
+      },
+      : [: { ? span: 'span', ? link: 'a', : 'div' },
         'style': [
           'font-size': px(size),
           'line-height': px(lineHeight),
@@ -99,9 +97,9 @@
             ]->map(px)->join(' '),
             x: px(x),
           ],
-          'width': width & (width <= 1 ? '{width * 100}%' : px(width)),
-          'flex-grow': width ? 0 : 1,
-          'display': span ? 'inline' : bar ? 'flex' : 'block',
+          'width': width & { ? width <= 1 : '{width * 100}%', : px(width) },
+          'flex-grow': { ? width: 0, : 1 },
+          'display': { ? span: 'inline', ? bar: 'flex', : 'block' },
           ...style,
         ],
         'href': link & '/{link->join('/')}',
@@ -112,5 +110,5 @@
     },
     x: x,
   ],
-  render(app),
+  : render(app),
 }

@@ -12,9 +12,9 @@ const reactiveFunc = (func) => {
 
 const createBlock = (value, other?) => {
   if (Array.isArray(value)) {
-    return { type: "block", items: value, values: other || {}, functions: [] };
+    return { type: "block", items: value, values: other || {} };
   }
-  return { type: "block", items: other || [], values: value, functions: [] };
+  return { type: "block", items: other || [], values: value };
 };
 
 const testMatch = ($value, pattern) => {
@@ -62,6 +62,11 @@ const testMatch = ($value, pattern) => {
     })
   );
 };
+
+const argInArray = (map, arg) =>
+  typeof arg === "number" && arg >= 1 && arg <= map.length;
+const argInObject = (map, arg) =>
+  (typeof arg === "number" || typeof arg === "string") && `${arg}` in map;
 const apply = reactiveFunc(($map, $arg, $optional) => {
   const map = resolve($map);
   if (!toTruthy(map) && resolve($optional)) return "";
@@ -70,37 +75,33 @@ const apply = reactiveFunc(($map, $arg, $optional) => {
   }
   if (Array.isArray(map)) {
     const arg = resolve($arg);
-    if (typeof arg === "number" && arg >= 1 && arg <= map.length) {
-      return map[arg - 1];
-    }
+    return argInArray(map, arg) ? map[arg - 1] : "";
   }
   if (typeof map === "object" && map !== null) {
     if (map.type !== "block") {
       const arg = resolve($arg);
-      if (
-        (typeof arg === "number" || typeof arg === "string") &&
-        `${arg}` in map
-      ) {
-        return map[arg];
-      }
+      return argInObject(map, arg) ? map[arg] : "";
     }
     if (Object.keys(map.values).length > 0 || map.items.length > 0) {
       const arg = resolve($arg);
-      if (
-        (typeof arg === "number" || typeof arg === "string") &&
-        `${arg}` in map.values
-      ) {
-        return map.values[arg];
-      }
-      if (typeof arg === "number" && arg >= 1 && arg <= map.items.length) {
-        return map.items[arg - 1];
+      if (arg !== "") {
+        if (argInObject(map.values, arg)) return map.values[arg];
+        if (argInArray(map.items, arg)) return map.items[arg - 1];
       }
     }
-    const funcs = resolve(map.functions, true);
+    const funcs = resolve(map.functions || [], true);
     for (const f of funcs) {
-      const match = testMatch($arg, f.pattern);
-      if (match) return f.run(...f.variables.map((k) => match[k]));
+      const match = f.pattern ? testMatch($arg, f.pattern) : {};
+      if (
+        match &&
+        (!f.test ||
+          toTruthy(resolve(f.test(...f.variables.map((k) => match[k])))))
+      ) {
+        return f.run(...f.variables.map((k) => match[k]));
+      }
     }
+    const arg = resolve($arg);
+    if (arg === "" && map.values[""]) return map.values[""];
   }
   return "";
 });
@@ -137,7 +138,7 @@ const every = reactiveFunc(($block) =>
   })
 );
 
-const operationMaps = {
+const numericOperators = {
   "<=": (a, b) => a <= b,
   ">=": (a, b) => a >= b,
   "<": (a, b) => a < b,
@@ -148,31 +149,30 @@ const operationMaps = {
   "/": (a, b) => a / b,
   "%": (a, b) => ((((a - 1) % b) + b) % b) + 1,
   "^": (a, b) => a ** b,
+};
+const otherOperators = {
   "!": (a, b) => a !== b,
   "=": (a, b) => a === b,
 };
 const operation = reactiveFunc(($op, ...$args) => {
   const op = resolve($op);
-  if (["<=", ">=", "<", ">", "+", "-", "*", "/", "%", "^"].includes(op)) {
+  if (numericOperators[op]) {
     const values = $args.map(($a) => toNumber(resolve($a)));
     if (values.some((v) => v === null)) return "";
     if (values.length === 1) {
       return op === "-" ? -values[0]! : values[0];
     }
     if (["<=", ">=", "<", ">"].includes(op)) {
-      return toTruthy(operationMaps[op](...values));
+      return toTruthy(numericOperators[op](...values));
     }
-    return operationMaps[op](...values);
+    return numericOperators[op](...values);
   }
-  if (["!", "="].includes(op)) {
+  if (otherOperators[op]) {
     const values = $args.map(($a) => resolve($a, true));
     if (values.length === 1 && op === "!") {
       return toTruthy(values[0]) ? "" : "true";
     }
-    return toTruthy(operationMaps[op](...values));
-  }
-  if (op === "?") {
-    return toTruthy(resolve($args[0])) ? $args[1] : $args[2];
+    return toTruthy(otherOperators[op](...values));
   }
   if (op === "&") {
     return toTruthy(resolve($args[0])) ? $args[1] : $args[0];
