@@ -228,12 +228,25 @@ s.addAttribute("ast", {
     value: b.ast,
   }),
 
-  function: (a, _1, _2, _3, b, _4, _5, _6, c) => ({
-    type: "function",
-    arg: a.ast[0],
-    test: b.ast[0],
-    value: c.ast,
-  }),
+  function: (a, _1, _2, _3, b, _4, _5, _6, c) => {
+    if (a.ast[0]?.type === "parameters") {
+      const args = a.ast[0].items;
+      return args.reduceRight(
+        (value, arg, i) => ({
+          type: "block",
+          items: [{ type: "function", arg, count: args.length - i, value }],
+        }),
+        c.ast
+      ).items[0];
+    }
+    return {
+      type: "function",
+      arg: a.ast[0],
+      test: b.ast[0],
+      count: 1,
+      value: c.ast,
+    };
+  },
 
   parameters: (_1, _2, a, _3, _4) => ({ type: "parameters", items: a.ast }),
 
@@ -301,22 +314,6 @@ const getPattern = (node) => {
 };
 
 const compileBlock = (node) => {
-  if (
-    node.items.length === 1 &&
-    node.items[0].type === "function" &&
-    node.items[0].arg.type === "parameters"
-  ) {
-    const numParams = node.items[0].arg.items.length;
-    return compile(
-      node.items[0].arg.items.reduceRight(
-        (res, arg, i) => ({
-          type: "block",
-          items: [{ type: "function", arg, value: res, count: numParams - i }],
-        }),
-        node.items[0].value
-      )
-    );
-  }
   const values = node.items
     .filter((n) => ["merge", "assign"].includes(n.type))
     .map((n) => compile(n, true))

@@ -59,7 +59,7 @@
             ],
           ]
         ],
-        ? stack: mapi(
+        ? stack: map(
           content,
           [(x, i): [:'div', 'style': ['padding-top': i ! 1 & px(stack)], x]]
         ),

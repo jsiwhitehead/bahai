@@ -58,6 +58,7 @@ const argInArray = (map, arg) =>
   typeof arg === "number" && arg >= 1 && arg <= map.length;
 const argInObject = (map, arg) =>
   (typeof arg === "number" || typeof arg === "string") && `${arg}` in map;
+
 const applyOne = ($map, $arg, $optional = false) => {
   const map = resolve($map);
   if (!toTruthy(map) && resolve($optional)) return "";
@@ -102,8 +103,8 @@ const applyOne = ($map, $arg, $optional = false) => {
 const apply = reactiveFunc(($map, $complete, $optional, ...$args) => {
   if (resolve($complete)) {
     const funcs = resolve(resolve($map).functions) || [];
-    if (funcs.length === 1) {
-      const count = resolve(resolve(funcs[0])?.count) || 1;
+    if (funcs.length > 0) {
+      const count = resolve(resolve(funcs[0]).count);
       const $fullArgs = Array.from({ length: count }).map(
         (_, i) => $args[i] || ""
       );
@@ -117,11 +118,7 @@ const apply = reactiveFunc(($map, $complete, $optional, ...$args) => {
 
 const mapBlock = (block, func) =>
   createBlock(block.items.map(func), mapObject(block.values, func));
-
 const map = reactiveFunc(($block) =>
-  reactiveFunc(($map) => mapBlock(resolve($block), ($v) => applyOne($map, $v)))
-);
-const mapi = reactiveFunc(($block) =>
   reactiveFunc(($map) =>
     mapBlock(resolve($block), ($v, k) =>
       apply($map, true, false, $v, typeof k === "string" ? k : k + 1)
@@ -133,8 +130,10 @@ const some = reactiveFunc(($block) =>
   reactiveFunc(($test) => {
     const { items, values } = resolve($block);
     return toTruthy(
-      items.some(($v) => resolve(applyOne($test, $v))) ||
-        Object.keys(values).some((k) => resolve(applyOne($test, values[k])))
+      items.some(($v, i) => resolve(apply($test, true, false, $v, i + 1))) ||
+        Object.keys(values).some((k) =>
+          resolve(apply($test, true, false, values[k], k))
+        )
     );
   })
 );
@@ -142,8 +141,10 @@ const every = reactiveFunc(($block) =>
   reactiveFunc(($test) => {
     const { items, values } = resolve($block);
     return toTruthy(
-      items.every(($v) => resolve(applyOne($test, $v))) &&
-        Object.keys(values).every((k) => resolve(applyOne($test, values[k])))
+      items.every(($v, i) => resolve(apply($test, true, false, $v, i + 1))) &&
+        Object.keys(values).every((k) =>
+          resolve(apply($test, true, false, values[k], k))
+        )
     );
   })
 );
@@ -192,4 +193,4 @@ const operation = reactiveFunc(($op, ...$args) => {
   }
 });
 
-export default { apply, operation, map, mapi, some, every };
+export default { apply, operation, map, some, every };
