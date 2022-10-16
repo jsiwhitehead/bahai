@@ -5,6 +5,7 @@
     'font': 'Atkinson Hyperlegible',
     'color': '#333',
     'pad': 50,
+    'stack': 30,
     'style': ['max-width': '800px', 'margin': '0 auto'],
     [
       'align': 'center',

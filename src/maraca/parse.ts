@@ -76,10 +76,16 @@ const grammar = String.raw`Maraca {
     = "..." ":"? space* value
 
   function
-    = (block | parameter)? space* ("?" space* value)? space* ":" space* value
+    = (parameters | pattern)? space* ("?" space* value)? space* ":" space* value
 
-  parameter
-    = "+"? space* variable
+  parameters
+    = "(" space* parametersitems space* ")"
+
+  parametersitems
+    = listOf<pattern, join> space* ","?
+
+  pattern
+    = block | variable
 
   xstring
     = "'" (xvalue | xchunk)* "'"
@@ -169,19 +175,19 @@ s.addAttribute("ast", {
 
   apply_apply: (a, _1, b, _2, c) =>
     b.sourceString === "->"
-      ? { type: "apply", map: c.ast, input: a.ast }
+      ? { type: "apply", map: c.ast, inputs: [a.ast] }
       : {
           type: "apply",
           optional: b.sourceString === "?.",
           map: a.ast,
-          input: c.ast,
+          inputs: [c.ast],
         },
-  apply_brackets: (a, _1, _2, b, _3, _4) =>
-    [a.ast, ...b.ast].reduce((x, y) => ({
-      type: "apply",
-      map: x,
-      input: y,
-    })),
+  apply_brackets: (a, _1, _2, b, _3, _4) => ({
+    type: "apply",
+    complete: true,
+    map: a.ast,
+    inputs: b.ast,
+  }),
   apply: (a) => a.ast,
 
   arguments: (a, _1, _2) => a.ast,
@@ -229,12 +235,11 @@ s.addAttribute("ast", {
     value: c.ast,
   }),
 
-  parameter: (a, _1, b) => {
-    const result = { type: "variable", value: b.sourceString };
-    return a.sourceString === "+"
-      ? { type: "operation", operation: "+", values: [result] }
-      : result;
-  },
+  parameters: (_1, _2, a, _3, _4) => ({ type: "parameters", items: a.ast }),
+
+  parametersitems: (a, _1, _2) => a.ast,
+
+  pattern: (a) => a.ast,
 
   xstring: (_1, a, _2) => ({ type: "string", parts: a.ast }),
 
@@ -296,6 +301,22 @@ const getPattern = (node) => {
 };
 
 const compileBlock = (node) => {
+  if (
+    node.items.length === 1 &&
+    node.items[0].type === "function" &&
+    node.items[0].arg.type === "parameters"
+  ) {
+    const numParams = node.items[0].arg.items.length;
+    return compile(
+      node.items[0].arg.items.reduceRight(
+        (res, arg, i) => ({
+          type: "block",
+          items: [{ type: "function", arg, value: res, count: numParams - i }],
+        }),
+        node.items[0].value
+      )
+    );
+  }
   const values = node.items
     .filter((n) => ["merge", "assign"].includes(n.type))
     .map((n) => compile(n, true))
@@ -333,15 +354,15 @@ const compile = (node, block = false) => {
     return `operation("${node.operation}", ${compiled.join(", ")})`;
   }
   if (node.type === "apply") {
-    return `apply(${compile(node.map)}, ${compile(node.input)}, ${
+    return `apply(${compile(node.map)}, ${node.complete ? "true" : "false"}, ${
       node.optional ? "true" : "false"
-    })`;
+    }, ${node.inputs.map((n) => compile(n)).join(", ")})`;
   }
   if (node.type === "block") {
     return compileBlock(node);
   }
   if (node.type === "scope") {
-    return `apply(${compileBlock(node)}, "")`;
+    return `apply(${compileBlock(node)}, false, false, "")`;
   }
   if (node.type === "merge") {
     const source = node.source ? "~" : "";
@@ -362,8 +383,9 @@ const compile = (node, block = false) => {
     const variables = getVariables(node.arg);
     return `{ ${[
       node.arg && `pattern: ${JSON.stringify(getPattern(node.arg))}`,
-      `variables: ${JSON.stringify(variables)}`,
+      variables.length > 0 && `variables: ${JSON.stringify(variables)}`,
       node.test && `test: (${variables.join(", ")})=> ${compile(node.test)}`,
+      node.count && `count: ${node.count}`,
       `run: (${variables.join(", ")})=> ${compile(node.value)}`,
     ]
       .filter((x) => x)
