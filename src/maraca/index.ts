@@ -4,6 +4,8 @@ import parse from "./parse";
 import methods from "./methods";
 import { mapObject } from "./utils";
 
+export { multiFunc } from "./methods";
+
 const compile = (source) => {
   if (typeof source === "string") return parse(source);
   return mapObject(source, compile);

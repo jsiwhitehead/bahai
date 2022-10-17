@@ -12,7 +12,7 @@ import quotes from "./data/quotes.json";
 
 import "./style.css";
 
-import maraca from "./maraca";
+import maraca, { multiFunc } from "./maraca";
 
 webfont.load({ google: { families: ["Atkinson Hyperlegible"] } });
 
@@ -213,7 +213,7 @@ maraca(
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),
-    join: (data) => (connect) => data.items.join(connect),
+    join: multiFunc((data, connect) => data.items.join(connect)),
   },
   source,
   // (data) => console.log(JSON.stringify(resolve(data, true).index, null, 2))

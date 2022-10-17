@@ -9,13 +9,37 @@ const reactiveFunc = (func) => {
   Object.assign(func, { reactiveFunc: true });
   return func;
 };
-
 const createBlock = (value, other?) => {
   if (Array.isArray(value)) {
     return { type: "block", items: value, values: other || {} };
   }
   return { type: "block", items: other || [], values: value };
 };
+
+const createFunction = (func, count = 1, makeReactive = false) => ({
+  type: "block",
+  items: [],
+  values: {},
+  functions: [
+    {
+      pattern: { type: "variable", value: "x" },
+      variables: ["x"],
+      count,
+      run: makeReactive ? reactiveFunc(func) : func,
+    },
+  ],
+});
+
+export const multiFunc = (func) =>
+  createFunction(
+    Array.from({ length: func.length - 1 }).reduce<any>(
+      (res, _, i) =>
+        (...args) =>
+          createFunction((arg) => res(...args, arg), i + 1, func.reactiveFunc),
+      func
+    ),
+    func.length
+  );
 
 const testMatch = ($value, pattern) => {
   if (!pattern) return false;
@@ -118,16 +142,17 @@ const apply = reactiveFunc(($map, $complete, $optional, ...$args) => {
 
 const mapBlock = (block, func) =>
   createBlock(block.items.map(func), mapObject(block.values, func));
-const map = reactiveFunc(($block) =>
-  reactiveFunc(($map) =>
+
+const map = multiFunc(
+  reactiveFunc(($block, $map) =>
     mapBlock(resolve($block), ($v, k) =>
       apply($map, true, false, $v, typeof k === "string" ? k : k + 1)
     )
   )
 );
 
-const some = reactiveFunc(($block) =>
-  reactiveFunc(($test) => {
+const some = multiFunc(
+  reactiveFunc(($block, $test) => {
     const { items, values } = resolve($block);
     return toTruthy(
       items.some(($v, i) => resolve(apply($test, true, false, $v, i + 1))) ||
@@ -137,8 +162,8 @@ const some = reactiveFunc(($block) =>
     );
   })
 );
-const every = reactiveFunc(($block) =>
-  reactiveFunc(($test) => {
+const every = multiFunc(
+  reactiveFunc(($block, $test) => {
     const { items, values } = resolve($block);
     return toTruthy(
       items.every(($v, i) => resolve(apply($test, true, false, $v, i + 1))) &&
