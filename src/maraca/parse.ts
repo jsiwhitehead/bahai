@@ -313,7 +313,7 @@ const getPattern = (node) => {
   return node;
 };
 
-const compileBlock = (node) => {
+const compileBlock = (node, capture) => {
   const values = node.items
     .filter((n) => ["merge", "assign"].includes(n.type))
     .map((n) => compile(n, true))
@@ -326,7 +326,9 @@ const compileBlock = (node) => {
   const functions =
     functionNodes.length > 0 &&
     `&functions={[${functionNodes.map((n) => compile(n)).join(", ")}]}`;
-  return `<\\ ${[items, values, functions].filter((x) => x).join(" ")} />`;
+  return `<\\${capture ? "\\" : ""} ${[items, values, functions]
+    .filter((x) => x)
+    .join(" ")} />`;
 };
 const compile = (node, block = false) => {
   if (node.type === "value") {
@@ -356,10 +358,10 @@ const compile = (node, block = false) => {
     }, ${node.inputs.map((n) => compile(n)).join(", ")})`;
   }
   if (node.type === "block") {
-    return compileBlock(node);
+    return compileBlock(node, true);
   }
   if (node.type === "scope") {
-    return `apply(${compileBlock(node)}, false, false, "")`;
+    return `apply(${compileBlock(node, false)}, false, false, "")`;
   }
   if (node.type === "merge") {
     const source = node.source ? "~" : "";

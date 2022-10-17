@@ -129,20 +129,20 @@ const applyOne = ($map, $arg, $optional = false) => {
   return "";
 };
 
-const apply = reactiveFunc(($map, $complete, $optional, ...$args) => {
+const getArgs = ($map, $complete, $args) => {
   if (resolve($complete)) {
     const funcs = resolve(resolve($map).functions) || [];
     if (funcs.length > 0) {
       const count = resolve(resolve(funcs[0]).count);
-      const $fullArgs = Array.from({ length: count }).map(
-        (_, i) => $args[i] || ""
-      );
-      return [$map, ...$fullArgs].reduce(($a, $b) =>
-        applyOne($a, $b, $optional)
-      );
+      return Array.from({ length: count }).map((_, i) => $args[i] || "");
     }
   }
-  return [$map, ...$args].reduce(($a, $b) => applyOne($a, $b, $optional));
+  return $args;
+};
+const apply = reactiveFunc(($map, $complete, $optional, ...$args) => {
+  return [$map, ...getArgs($map, $complete, $args)].reduce(($a, $b) =>
+    applyOne($a, $b, $optional)
+  );
 });
 
 const mapBlock = (block, func) =>
