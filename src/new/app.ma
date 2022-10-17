@@ -1,10 +1,9 @@
 {
   'size': 17,
-  'doc': url->[
-    ['doc', id]: documents.id,
-  ],
+  'doc': url->[['doc', id]: documents.id],
   'group': doc & toUrl({
     ? startsWith(doc.'id', 'quran'): 'the-quran',
+    ? includes(['‘Abdu’l‑Bahá', 'Bahá’u’lláh', 'The Báb'], doc.'author') : doc.'author',
     : 'the-administrative-order',
   }),
   'button': [label: {
@@ -37,22 +36,29 @@
         'link': [],
         'Bahá’í Library'
       ],
+      [
+        'stack': 5,
+        ...map(
+          ['Bahá’u’lláh'],
+          button,
+        )
+      ],
       button('The Qur’án'),
     ],
     [
       'pad': ['left': 235],
       [
         'pad': 50,
-        {
-          ? length(url) = 0: 'Hello',
-          ? url.1 = 'the-quran': quran,
-          ? url.1 = 'doc': [
+        url->[
+          ['bahaullah']: bahaullah,
+          ['the-quran']: quran,
+          ['doc']: [
             'stack': 20,
             ['color': 'blue', 'underline': hover, 'link': [group], '« Back'],
             render(doc),
           ],
-          : 'Hi',
-        }
+          : 'Hello',
+        ],
       ]
     ],
   ],

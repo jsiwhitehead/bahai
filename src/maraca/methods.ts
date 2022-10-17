@@ -9,6 +9,7 @@ const reactiveFunc = (func) => {
   Object.assign(func, { reactiveFunc: true });
   return func;
 };
+
 const createBlock = (value, other?) => {
   if (Array.isArray(value)) {
     return { type: "block", items: value, values: other || {} };
@@ -196,6 +197,17 @@ const filter = multiFunc(
   )
 );
 
+const includes = multiFunc(
+  reactiveFunc(($block, $value) => {
+    const { items, values } = createBlock(resolve($block, true));
+    const value = resolve($value, true);
+    return toTruthy(
+      items.includes(value) ||
+        Object.keys(values).find((k) => values[k] === value)
+    );
+  })
+);
+
 const some = multiFunc(
   reactiveFunc(($block, $test) => {
     const { items, values } = createBlock(resolve($block));
@@ -268,4 +280,4 @@ const operation = reactiveFunc(($op, ...$args) => {
   }
 });
 
-export default { apply, operation, map, filter, some, every };
+export default { apply, operation, map, filter, includes, some, every };

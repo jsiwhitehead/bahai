@@ -82,9 +82,9 @@ const toUrl = (s) =>
 maraca(
   {
     sortIds: (ids) =>
-      [...ids].sort((a, b) => {
-        const x = typeof a === "string" ? a : a[0];
-        const y = typeof b === "string" ? b : b[0];
+      [...ids.items].sort((a, b) => {
+        const x = typeof a === "string" ? a : a.items[0];
+        const y = typeof b === "string" ? b : b.items[0];
         return (
           documents[y].years[0] +
             documents[y].years[1] -
@@ -221,7 +221,7 @@ maraca(
     join: multiFunc((data, connect) => data.items.join(connect)),
     startsWith: multiFunc((str, test) => str.startsWith(test)),
     padStart: multiFunc((str, length, pad) => `${str}`.padStart(length, pad)),
-    length: (x) => x.items.length,
+    length: (x) => (Array.isArray(x) ? x.length : x.items.length),
     slice: multiFunc((str, start, end) => str.slice(start, end)),
   },
   source,

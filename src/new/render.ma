@@ -67,6 +67,18 @@
                       } {p.'title'}'
                     ],
                   },
+                  ? p.'lines': [
+                    'stack': 17 / 2,
+                    ...map(
+                      slice(p.'lines', 0, -1),
+                      [(start, i): [
+                        'pad': !allLines & [0, 40],
+                        'uppercase': i = 1 & includes(doc.'path', 'The Hidden Words'),
+                        'size': 17,
+                        slice(p.'text', start, p.'lines'.(i + 1) - 1),
+                      ]]
+                    )
+                  ],
                   ? p.'id': [
                     'stack': 15,
                     [
@@ -121,7 +133,7 @@
                       'text-align-last': p.'type' & 'center',
                     ],
                     ...map(
-                      fillParts(quotesMap.(doc.'id')?.i?.'parts', p.'text'),
+                      fillParts(quotesMap.(doc.'id')?.(i - 1)?.'parts', p.'text'),
                       [(part, i):
                         {
                           'strength': 240 - part.'count' * 10,
