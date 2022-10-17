@@ -49,7 +49,7 @@
           ? url.1 = 'doc': [
             'stack': 20,
             ['color': 'blue', 'underline': hover, 'link': [group], '« Back'],
-            [doc.'id'],
+            render(doc),
           ],
           : 'Hi',
         }

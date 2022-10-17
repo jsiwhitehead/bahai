@@ -13,6 +13,7 @@ const createBlock = (value, other?) => {
   if (Array.isArray(value)) {
     return { type: "block", items: value, values: other || {} };
   }
+  if (value.type === "block") return value;
   return { type: "block", items: other || [], values: value };
 };
 
@@ -165,19 +166,39 @@ const apply = reactiveFunc(($map, $complete, $optional, ...$args) => {
 });
 
 const mapBlock = (block, func) =>
-  createBlock(block.items.map(func), mapObject(block.values, func));
-
+  createBlock(
+    block.items.map((v, i) => func(v, i + 1)),
+    mapObject(block.values, func)
+  );
 const map = multiFunc(
   reactiveFunc(($block, $map) =>
-    mapBlock(resolve($block), ($v, k) =>
-      apply($map, true, false, $v, typeof k === "string" ? k : k + 1)
+    mapBlock(createBlock(resolve($block)), ($v, k) =>
+      apply($map, true, false, $v, k)
+    )
+  )
+);
+
+const filterObject = (obj, map) =>
+  Object.keys(obj).reduce(
+    (res, k) => (map(obj[k], k) ? { ...res, [k]: obj[k] } : res),
+    {}
+  );
+const filterBlock = (block, func) =>
+  createBlock(
+    block.items.filter((v, i) => func(v, i)),
+    filterObject(block.values, func)
+  );
+const filter = multiFunc(
+  reactiveFunc(($block, $map) =>
+    filterBlock(createBlock(resolve($block)), ($v, k) =>
+      toTruthy(resolve(apply($map, true, false, $v, k)))
     )
   )
 );
 
 const some = multiFunc(
   reactiveFunc(($block, $test) => {
-    const { items, values } = resolve($block);
+    const { items, values } = createBlock(resolve($block));
     return toTruthy(
       items.some(($v, i) => resolve(apply($test, true, false, $v, i + 1))) ||
         Object.keys(values).some((k) =>
@@ -188,7 +209,7 @@ const some = multiFunc(
 );
 const every = multiFunc(
   reactiveFunc(($block, $test) => {
-    const { items, values } = resolve($block);
+    const { items, values } = createBlock(resolve($block));
     return toTruthy(
       items.every(($v, i) => resolve(apply($test, true, false, $v, i + 1))) &&
         Object.keys(values).every((k) =>
@@ -247,4 +268,4 @@ const operation = reactiveFunc(($op, ...$args) => {
   }
 });
 
-export default { apply, operation, map, some, every };
+export default { apply, operation, map, filter, some, every };

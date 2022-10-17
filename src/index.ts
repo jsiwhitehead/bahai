@@ -130,7 +130,7 @@ maraca(
         );
       })
       .filter((q) => q.parts.some((p) => p.count > 3)),
-    fillParts: (parts, text) => {
+    fillParts: multiFunc((parts, text) => {
       const firstChar = /[a-z]/i.exec(text)?.index;
       if (!parts) {
         if (firstChar === undefined) {
@@ -160,8 +160,8 @@ maraca(
             : parts.find((p) => p.start === indices[i] || p.end === end)
                 ?.count || 0,
       }));
-    },
-    getRef: (paragraphs, index) => {
+    }),
+    getRef: multiFunc((paragraphs, index) => {
       const p = paragraphs[index];
       const doc = documents[p.id];
       if (!p.parts) {
@@ -214,7 +214,7 @@ maraca(
               paras.join(", "),
         ].filter((x) => x)
       ).join(", ");
-    },
+    }),
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),
@@ -222,6 +222,7 @@ maraca(
     startsWith: multiFunc((str, test) => str.startsWith(test)),
     padStart: multiFunc((str, length, pad) => `${str}`.padStart(length, pad)),
     length: (x) => x.items.length,
+    slice: multiFunc((str, start, end) => str.slice(start, end)),
   },
   source,
   // (data) => console.log(JSON.stringify(resolve(data, true).index, null, 2))

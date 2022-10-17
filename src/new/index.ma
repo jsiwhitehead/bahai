@@ -20,6 +20,7 @@
       'bar':=,
       'width':=,
       'style':=,
+      'id':=,
       'link':=,
       'input':=,
       'value':=,
@@ -33,10 +34,11 @@
       'line': line | 1.5,
       'lineHeight': { ? line > 3 : line, : line * size },
       'gap': (lineHeight - size) * 0.5 + 1,
-      'nextInline': inline | some(items, [[...x]: '', x: true]),
+      'filtered': filter(items, [x: x]),
+      'nextInline': inline | some(filtered, [[...x]: '', x: true]),
       'content':
         map(
-          items,
+          filtered,
           [
             [...x]: render([
               'size': x.'size' | size,
@@ -65,7 +67,9 @@
         ),
         : content,
       },
-      : [: { ? span: 'span', ? link: 'a', : 'div' },
+      : [
+        : { ? span: 'span', ? link: 'a', : 'div' },
+        'id':=,
         'style': [
           'font-size': px(size),
           'line-height': px(lineHeight),
