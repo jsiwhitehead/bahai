@@ -43,7 +43,71 @@
               [
                 'stack': 15,
                 {
-                  'parts': fillParts(quotesMap.(doc.'id')?.(i - 1)?.'parts', p.'text'),
+                  ? p.'section' & !p.'title': [
+                    align: 'center',
+                    '* * *'
+                  ],
+                  ? p.'section': {
+                    'level': p.'section'.'length' + baseLevel,
+                    : [
+                      'size': 25 - (level * 2),
+                      'uppercase': level = 1,
+                      'bold': level <= 2,
+                      'color': 'black',
+                      'italic': level > 2,
+                      'align': 'left',
+                      'pad': {
+                        ? level = 1: ['top': 20],
+                        ? level <= 2: 0,
+                        : [0, (level - 2) * 20],
+                      },
+                      '{
+                        level < 4 & levelNumbers &
+                        '{join(p.'section', '.')}{level = 1 & '.'}'
+                      } {p.'title'}'
+                    ],
+                  },
+                  ? p.'id': [
+                    'stack': 15,
+                    [
+                      'size': 17,
+                      'color': 'black',
+                      'pad': [0, 20],
+                      'bold': 'true',
+                      {
+                        ? p.'parts': join(
+                          map(
+                            p.'parts',
+                            [
+                              [...part]: slice(
+                                documents.(p.'id').'paragraphs'.(part.'paragraph').text,
+                                part.'start',
+                                part.'end',
+                              ),
+                              part: part,
+                            ]
+                          ),
+                          " ",
+                        ),
+                        : documents.(p.'id').'paragraphs'.(p.'paragraphs'.1).text
+                      }
+                    ],
+                    {
+                      'refText': getRef(doc.'paragraphs', i),
+                      refText & [
+                        'size': 16, 
+                        'italic': 'true',
+                        'align': 'right',
+                        'color':
+                          colors.'link'.(documents.(p.'id').'author') |
+                          colors.'link'.'The World Centre',
+                        'underline': hover,
+                        'link': ['doc', p.'id', : p.'paragraphs'.1],
+                        'style': ['width': '75%', 'margin': '0 20px 0 auto'],
+                        refText,
+                      ],
+                    },
+                  ],
                   : [
                     'inline': 'true',
                     'size': p.'type' = 'info' & 16 | 17,
@@ -57,7 +121,7 @@
                       'text-align-last': p.'type' & 'center',
                     ],
                     ...map(
-                      parts,
+                      fillParts(quotesMap.(doc.'id')?.i?.'parts', p.'text'),
                       [(part, i):
                         {
                           'strength': 240 - part.'count' * 10,
@@ -82,9 +146,37 @@
                         }
                       ]
                     )
-                  ],
-                },
-              ]
+                  ]
+                }
+              ],
+              ...map(
+                quotesMap.(doc.'id')?.i?.refs | [],
+                [r: [
+                  'size': 16,
+                  'italic': 'true',
+                  'align': 'left',
+                  'color':
+                    colors.'link'.(documents.(r.'id').'author') |
+                    colors.'link'.'The World Centre',
+                  'underline': hover,
+                  'link': ['doc', r.'id', : r.'paragraph'],
+                  'style': ['width': '75%', 'margin': '0 auto 0 0'],
+                  join(
+                    unique(
+                      filter(
+                        [
+                          documents.(r.'id').'author',
+                          ...documents.(r.'id').'path',
+                          documents.(r.'id').'title' |
+                            (documents.(r.'id').'item' & '#{documents.(r.'id').'item'}'),
+                        ],
+                        [x: x],
+                      )
+                    ),
+                    ", "
+                  )
+                ]],
+              )
             ],
           ],
         ),
