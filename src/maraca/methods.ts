@@ -42,11 +42,30 @@ export const multiFunc = (func) =>
     func.reactiveFunc
   );
 
+const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const testMatch = ($value, pattern) => {
   if (!pattern) return false;
   if (pattern.type === "variable") return { [pattern.value]: $value || "" };
   const value = resolve($value);
   if (pattern.type === "value") return pattern.value === value && {};
+  if (pattern.type === "string") {
+    if (pattern.parts.length === 1) return pattern.parts[0] === value && {};
+    const match = value.match(
+      new RegExp(
+        `^${pattern.parts
+          .map((p) => (typeof p === "string" ? escapeRegex(p) : "(.*)"))
+          .join("")}$`
+      )
+    );
+    if (!match) return false;
+    const matches = pattern.parts
+      .filter((p) => typeof p !== "string")
+      .map((p, i) => testMatch(match[i + 1], p));
+    return (
+      matches.every((x) => x) &&
+      matches.reduce((res, x) => ({ ...res, ...x }), {})
+    );
+  }
   if (!isObject(value)) return false;
   const spreads = pattern.items.filter((p) => p.type === "spread");
   const length = pattern.items.filter((p) => p.type !== "spread").length;

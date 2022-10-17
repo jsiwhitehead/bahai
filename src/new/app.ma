@@ -1,6 +1,8 @@
 {
   'size': 17,
-  'doc': url.1 = 'doc' & documents(url.2),
+  'doc': url->[
+    ['doc', id]: documents.id,
+  ],
   'group': doc & toUrl({
     ? startsWith(doc.'id', 'quran'): 'the-quran',
     : 'the-administrative-order',

@@ -62,7 +62,7 @@ const grammar = String.raw`Maraca {
     = "{" space* items space* "}"
 
   items
-    = listOf<(merge | assign | copy | spread | function | value), join> space* ","?
+    = listOf<(merge | assign | copy | spread | value), join> space* ","?
 
   join
     = space* "," space*
@@ -71,16 +71,7 @@ const grammar = String.raw`Maraca {
     = "~"? space* string space* "::" space* value?
 
   assign
-    = "*"? space* string? space* ":" space* value
-
-  copy
-    = string space* ":="
-
-  spread
-    = "..." ":"? space* value
-
-  function
-    = (parameters | pattern)? space* ("?" space* value)? space* ":" space* value
+    = "*"? space* (parameters | pattern)? space* ("?" space* value)? space* ":" space* value
 
   parameters
     = "(" space* parametersitems space* ")"
@@ -89,7 +80,13 @@ const grammar = String.raw`Maraca {
     = listOf<pattern, join> space* ","?
 
   pattern
-    = block | variable
+    = block | xstring | variable
+
+  copy
+    = string space* ":="
+
+  spread
+    = "..." ":"? space* value
 
   xstring
     = "'" (xvalue | xchunk)* "'"
@@ -216,12 +213,42 @@ s.addAttribute("ast", {
     value: c.ast[0],
   }),
 
-  assign: (a, _1, b, _2, _3, _4, c) => ({
-    type: "assign",
-    recursive: a.sourceString === "*",
-    key: b.ast[0]?.value || "",
-    value: c.ast,
-  }),
+  assign: (a, _1, b, _2, _3, _4, c, _5, _6, _7, d) => {
+    if (b.ast[0]?.type === "string" || (!b.ast[0] && !c.ast[0])) {
+      const parts = b.ast[0]?.parts || [""];
+      if (parts.length === 1 && typeof parts[0] === "string") {
+        return {
+          type: "assign",
+          recursive: a.sourceString === "*",
+          key: parts[0],
+          value: d.ast,
+        };
+      }
+    }
+    if (b.ast[0]?.type === "parameters") {
+      const args = b.ast[0].items;
+      return args.reduceRight(
+        (value, arg, i) => ({
+          type: "block",
+          items: [{ type: "function", arg, count: args.length - i, value }],
+        }),
+        d.ast
+      ).items[0];
+    }
+    return {
+      type: "function",
+      arg: b.ast[0],
+      test: c.ast[0],
+      count: 1,
+      value: d.ast,
+    };
+  },
+
+  parameters: (_1, _2, a, _3, _4) => ({ type: "parameters", items: a.ast }),
+
+  parametersitems: (a, _1, _2) => a.ast,
+
+  pattern: (a) => a.ast,
 
   copy: (a, _1, _2) => ({
     type: "assign",
@@ -234,32 +261,6 @@ s.addAttribute("ast", {
     partial: a.sourceString === ":",
     value: b.ast,
   }),
-
-  function: (a, _1, _2, _3, b, _4, _5, _6, c) => {
-    if (a.ast[0]?.type === "parameters") {
-      const args = a.ast[0].items;
-      return args.reduceRight(
-        (value, arg, i) => ({
-          type: "block",
-          items: [{ type: "function", arg, count: args.length - i, value }],
-        }),
-        c.ast
-      ).items[0];
-    }
-    return {
-      type: "function",
-      arg: a.ast[0],
-      test: b.ast[0],
-      count: 1,
-      value: c.ast,
-    };
-  },
-
-  parameters: (_1, _2, a, _3, _4) => ({ type: "parameters", items: a.ast }),
-
-  parametersitems: (a, _1, _2) => a.ast,
-
-  pattern: (a) => a.ast,
 
   xstring: (_1, a, _2) => ({ type: "string", parts: a.ast }),
 
@@ -305,6 +306,11 @@ const getVariables = (node) => {
   if (node.type === "block") return node.items.flatMap((n) => getVariables(n));
   if (node.type === "assign") return getVariables(node.value);
   if (node.type === "spread") return getVariables(node.value);
+  if (node.type === "string") {
+    return node.parts
+      .filter((p) => typeof p !== "string")
+      .flatMap((n) => getVariables(n));
+  }
   if (node.type === "variable") return [node.value];
   return [];
 };
