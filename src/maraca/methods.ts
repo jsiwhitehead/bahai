@@ -38,7 +38,8 @@ export const multiFunc = (func) =>
           createFunction((arg) => res(...args, arg), i + 1, func.reactiveFunc),
       func
     ),
-    func.length
+    func.length,
+    func.reactiveFunc
   );
 
 const testMatch = ($value, pattern) => {
@@ -115,7 +116,11 @@ const applyOne = ($map, $arg, $optional = false) => {
             resolve(f.test(...(f.variables || []).map((k) => match[k])))
           ))
       ) {
-        return f.run(...(f.variables || []).map((k) => match[k]));
+        return f.run(
+          ...(f.variables || []).map((k) =>
+            f.run.reactiveFunc ? match[k] : resolve(match[k], true)
+          )
+        );
       }
     }
     const arg = resolve($arg);
