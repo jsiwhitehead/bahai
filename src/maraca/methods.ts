@@ -184,6 +184,11 @@ const numericOperators = {
   ">=": (a, b) => a >= b,
   "<": (a, b) => a < b,
   ">": (a, b) => a > b,
+  "..": (a, b) => ({
+    type: "block",
+    items: Array.from({ length: b - a + 1 }).map((_, i) => i + a),
+    values: {},
+  }),
   "+": (a, b) => a + b,
   "-": (a, b) => a - b,
   "*": (a, b) => a * b,

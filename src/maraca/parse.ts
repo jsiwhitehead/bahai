@@ -21,8 +21,12 @@ const grammar = String.raw`Maraca {
     | compare
 
   compare
-    = compare space* ("<=" | ">=" | "<" | ">") space* sum -- compare
-    | sum
+    = compare space* ("<=" | ">=" | "<" | ">") space* range -- compare
+    | range
+
+  range
+  = range space* ".." space* sum -- range
+  | sum
 
   sum
     = sum space* ("+" | "-") space* product -- sum
@@ -156,6 +160,9 @@ s.addAttribute("ast", {
 
   compare_compare: binary,
   compare: (a) => a.ast,
+
+  range_range: binary,
+  range: (a) => a.ast,
 
   sum_sum: binary,
   sum: (a) => a.ast,
@@ -306,8 +313,11 @@ const getPattern = (node) => {
     const values = node.items.filter((n) => ["assign"].includes(n.type));
     const items = node.items.filter((n) => !["assign"].includes(n.type));
     return {
-      items,
-      values: values.reduce((res, n) => ({ ...res, [n.key]: n.value }), {}),
+      items: items.map((n) => getPattern(n)),
+      values: values.reduce(
+        (res, n) => ({ ...res, [n.key]: getPattern(n.value) }),
+        {}
+      ),
     };
   }
   return node;

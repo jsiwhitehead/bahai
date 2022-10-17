@@ -43,9 +43,14 @@ setInterval(() => {
 }, 1000);
 
 const history = createBrowserHistory();
-const url = atom(history.location.pathname.split(/\//g).filter((x) => x));
+const getUrlBlock = (location) => ({
+  type: "block",
+  items: location.pathname.split(/\//g).filter((x) => x),
+  values: {},
+});
+const url = atom(getUrlBlock(history.location));
 history.listen(({ location }) => {
-  url.set(location.pathname.split(/\//g).filter((x) => x));
+  url.set(getUrlBlock(location));
   if (location.hash) {
     setTimeout(() => {
       document.getElementById(location.hash.slice(1))!.scrollIntoView();
@@ -214,6 +219,9 @@ maraca(
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),
     join: multiFunc((data, connect) => data.items.join(connect)),
+    startsWith: multiFunc((str, test) => str.startsWith(test)),
+    padStart: multiFunc((str, length, pad) => `${str}`.padStart(length, pad)),
+    length: (x) => x.items.length,
   },
   source,
   // (data) => console.log(JSON.stringify(resolve(data, true).index, null, 2))
