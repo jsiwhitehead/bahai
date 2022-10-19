@@ -386,6 +386,11 @@ const compile = (node, block = false) => {
     return compileBlock(node, true);
   }
   if (node.type === "scope") {
+    if (node.items.every((n) => n.type === "assign")) {
+      return `(${node.items
+        .map((n) => (n.key ? compile(n) : compile(n.value)))
+        .join(", ")})`;
+    }
     return `apply(${compileBlock(node, false)}, false, false, "")`;
   }
   if (node.type === "merge") {
