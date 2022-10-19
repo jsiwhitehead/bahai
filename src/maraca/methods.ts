@@ -1,16 +1,11 @@
-import { resolve } from "reactivejs";
+import { reactiveFunc, resolve } from "reactivejs";
 
-import { isObject, mapObject, toNumber } from "./utils";
+import { mapObject, toNumber } from "./utils";
 
 const toTruthy = (v) =>
   [null, undefined, false, ""].includes(v) ? "" : "true";
 
-const reactiveFunc = (func) => {
-  Object.assign(func, { reactiveFunc: true });
-  return func;
-};
-
-const createBlock = (value, other?) => {
+export const createBlock = (value, other?) => {
   if (Array.isArray(value)) {
     return { type: "block", items: value, values: other || {} };
   }
@@ -31,18 +26,6 @@ const createFunction = (func, count = 1, makeReactive = false) => ({
     },
   ],
 });
-
-export const multiFunc = (func) =>
-  createFunction(
-    Array.from({ length: func.length - 1 }).reduce<any>(
-      (res, _, i) =>
-        (...args) =>
-          createFunction((arg) => res(...args, arg), i + 1, func.reactiveFunc),
-      func
-    ),
-    func.length,
-    func.reactiveFunc
-  );
 
 const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const testMatch = ($value, pattern) => {
@@ -68,15 +51,16 @@ const testMatch = ($value, pattern) => {
       matches.reduce((res, x) => ({ ...res, ...x }), {})
     );
   }
-  if (!isObject(value)) return false;
+  if (value === null || typeof value !== "object") return false;
   const spreads = pattern.items.filter((p) => p.type === "spread");
   const length = pattern.items.filter((p) => p.type !== "spread").length;
+  const { items, values } = createBlock(value);
   const matches = [
     ...Array.from({ length }).map((_, i) =>
-      testMatch(value.items[i], pattern.items[i])
+      testMatch(items[i], pattern.items[i])
     ),
     ...Object.keys(pattern.values).map((key) =>
-      testMatch(value.values[key], pattern.values[key])
+      testMatch(values[key], pattern.values[key])
     ),
   ];
   if (spreads.length === 0) {
@@ -85,9 +69,9 @@ const testMatch = ($value, pattern) => {
       matches.reduce((res, x) => ({ ...res, ...x }), {})
     );
   }
-  const otherItems = value.items.slice(length);
-  const otherValues = Object.keys(value.values).reduce(
-    (res, k) => (pattern.values[k] ? res : { ...res, [k]: value.values[k] }),
+  const otherItems = items.slice(length);
+  const otherValues = Object.keys(values).reduce(
+    (res, k) => (pattern.values[k] ? res : { ...res, [k]: values[k] }),
     {}
   );
   const [primary, partial] = spreads[0].partial ? spreads.reverse() : spreads;
@@ -161,6 +145,20 @@ const getArgs = ($map, $complete, $args) => {
   return $args;
 };
 const apply = reactiveFunc(($map, $complete, $optional, ...$args) => {
+  const map = resolve($map);
+  if (typeof map === "function") {
+    const args = map.reactiveFunc
+      ? $args
+      : $args.map(($arg) => resolve($arg, true));
+    if (resolve($complete) || args.length >= map.length) return map(...args);
+    const result = Object.assign((...otherArgs) => map(...args, ...otherArgs), {
+      reactiveFunc: map.reactiveFunc,
+    });
+    Object.defineProperty(result, "length", {
+      value: map.length - args.length,
+    });
+    return result;
+  }
   return [$map, ...getArgs($map, $complete, $args)].reduce(($a, $b) =>
     applyOne($a, $b, $optional)
   );
@@ -171,11 +169,9 @@ const mapBlock = (block, func) =>
     block.items.map((v, i) => func(v, i + 1)),
     mapObject(block.values, func)
   );
-const map = multiFunc(
-  reactiveFunc(($block, $map) =>
-    mapBlock(createBlock(resolve($block)), ($v, k) =>
-      apply($map, true, false, $v, k)
-    )
+const map = reactiveFunc(($block, $map) =>
+  mapBlock(createBlock(resolve($block)), ($v, k) =>
+    apply($map, true, false, $v, k)
   )
 );
 
@@ -189,47 +185,39 @@ const filterBlock = (block, func) =>
     block.items.filter((v, i) => func(v, i)),
     filterObject(block.values, func)
   );
-const filter = multiFunc(
-  reactiveFunc(($block, $map) =>
-    filterBlock(createBlock(resolve($block)), ($v, k) =>
-      toTruthy(resolve(apply($map, true, false, $v, k)))
-    )
+const filter = reactiveFunc(($block, $map) =>
+  filterBlock(createBlock(resolve($block)), ($v, k) =>
+    toTruthy(resolve(apply($map, true, false, $v, k)))
   )
 );
 
-const includes = multiFunc(
-  reactiveFunc(($block, $value) => {
-    const { items, values } = createBlock(resolve($block, true));
-    const value = resolve($value, true);
-    return toTruthy(
-      items.includes(value) ||
-        Object.keys(values).find((k) => values[k] === value)
-    );
-  })
-);
+const includes = reactiveFunc(($block, $value) => {
+  const { items, values } = createBlock(resolve($block, true));
+  const value = resolve($value, true);
+  return toTruthy(
+    items.includes(value) ||
+      Object.keys(values).find((k) => values[k] === value)
+  );
+});
 
-const some = multiFunc(
-  reactiveFunc(($block, $test) => {
-    const { items, values } = createBlock(resolve($block));
-    return toTruthy(
-      items.some(($v, i) => resolve(apply($test, true, false, $v, i + 1))) ||
-        Object.keys(values).some((k) =>
-          resolve(apply($test, true, false, values[k], k))
-        )
-    );
-  })
-);
-const every = multiFunc(
-  reactiveFunc(($block, $test) => {
-    const { items, values } = createBlock(resolve($block));
-    return toTruthy(
-      items.every(($v, i) => resolve(apply($test, true, false, $v, i + 1))) &&
-        Object.keys(values).every((k) =>
-          resolve(apply($test, true, false, values[k], k))
-        )
-    );
-  })
-);
+const some = reactiveFunc(($block, $test) => {
+  const { items, values } = createBlock(resolve($block));
+  return toTruthy(
+    items.some(($v, i) => resolve(apply($test, true, false, $v, i + 1))) ||
+      Object.keys(values).some((k) =>
+        resolve(apply($test, true, false, values[k], k))
+      )
+  );
+});
+const every = reactiveFunc(($block, $test) => {
+  const { items, values } = createBlock(resolve($block));
+  return toTruthy(
+    items.every(($v, i) => resolve(apply($test, true, false, $v, i + 1))) &&
+      Object.keys(values).every((k) =>
+        resolve(apply($test, true, false, values[k], k))
+      )
+  );
+});
 
 const numericOperators = {
   "<=": (a, b) => a <= b,

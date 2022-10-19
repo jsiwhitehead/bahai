@@ -12,7 +12,7 @@ import quotes from "./data/quotes.json";
 
 import "./style.css";
 
-import maraca, { multiFunc } from "./maraca";
+import maraca, { createBlock } from "./maraca";
 
 webfont.load({ google: { families: ["Atkinson Hyperlegible"] } });
 
@@ -82,9 +82,9 @@ const toUrl = (s) =>
 maraca(
   {
     sortIds: (ids) =>
-      [...ids.items].sort((a, b) => {
-        const x = typeof a === "string" ? a : a.items[0];
-        const y = typeof b === "string" ? b : b.items[0];
+      ids.sort((a, b) => {
+        const x = typeof a === "string" ? a : a[0];
+        const y = typeof b === "string" ? b : b[0];
         return (
           documents[y].years[0] +
             documents[y].years[1] -
@@ -130,7 +130,7 @@ maraca(
         );
       })
       .filter((q) => q.parts.some((p) => p.count > 3)),
-    fillParts: multiFunc((parts, text) => {
+    fillParts: (parts, text) => {
       const firstChar = /[a-z]/i.exec(text)?.index;
       if (!parts) {
         if (firstChar === undefined) {
@@ -160,8 +160,8 @@ maraca(
             : parts.find((p) => p.start === indices[i] || p.end === end)
                 ?.count || 0,
       }));
-    }),
-    getRef: multiFunc((paragraphs, index) => {
+    },
+    getRef: (paragraphs, index) => {
       const p = paragraphs[index];
       const doc = documents[p.id];
       if (!p.parts) {
@@ -214,15 +214,15 @@ maraca(
               paras.join(", "),
         ].filter((x) => x)
       ).join(", ");
-    }),
+    },
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()
     ),
-    join: multiFunc((data, connect) => data.items.join(connect)),
-    startsWith: multiFunc((str, test) => str.startsWith(test)),
-    padStart: multiFunc((str, length, pad) => `${str}`.padStart(length, pad)),
-    length: (x) => (Array.isArray(x) ? x.length : x.items.length),
-    slice: multiFunc((str, start, end) => str.slice(start, end)),
+    join: (data, connect) => createBlock(data).items.join(connect),
+    startsWith: (str, test) => str.startsWith(test),
+    padStart: (str, length, pad) => `${str}`.padStart(length, pad),
+    length: (x) => createBlock(x).items.length,
+    slice: (str, start, end) => str.slice(start, end),
   },
   source,
   // (data) => console.log(JSON.stringify(resolve(data, true).index, null, 2))

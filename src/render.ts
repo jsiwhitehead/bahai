@@ -1,5 +1,7 @@
 import { effect, resolve } from "reactivejs";
 
+import { createBlock } from "./maraca";
+
 const isObject = (x) => Object.prototype.toString.call(x) === "[object Object]";
 
 const isAtom = (x) => isObject(x) && x.isStream && x.set;
@@ -95,8 +97,7 @@ const updateNode = (node, data) => {
       );
     applyUpdate(next, "props", { ...values, ...setters });
 
-    const styles = resolve(resolve(dataStyle).values || {});
-    // const styles = resolve(dataStyle);
+    const styles = resolve(createBlock(resolve(dataStyle)).values);
     const style = Object.keys(styles)
       .filter((key) => !reflowCSS.some((k) => key.startsWith(k)))
       .map((key) => ({ key, value: resolve(styles[key]) }))
@@ -108,8 +109,9 @@ const updateNode = (node, data) => {
   }, "style");
 
   effect(() => {
-    const styles = resolve(resolve(data.values.style || {}).values || {});
-    // const styles = resolve(data.values.style || {});
+    const styles = resolve(
+      createBlock(resolve(data.values.style || {})).values
+    );
     const style = Object.keys(styles)
       .filter((key) => reflowCSS.some((k) => key.startsWith(k)))
       .map((key) => ({ key, value: resolve(styles[key]) }))

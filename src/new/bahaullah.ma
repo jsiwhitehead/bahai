@@ -47,7 +47,7 @@
                 ", "
               ),
               k: documents.k.'title',
-            ]}{documents.k.'translated' & '({documents.k.'translated'})'} »'
+            ]}{documents.k.'translated' & ' ({documents.k.'translated'})'} »'
           ],
         }],
       )

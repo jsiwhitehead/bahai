@@ -68,7 +68,7 @@ const grammar = String.raw`Maraca {
     = space* "," space*
 
   merge
-    = "~"? space* string space* "::" space* value?
+    = string space* ("::" | ":?") space* value?
 
   assign
     = "*"? space* (parameters | pattern)? space* ("?" space* value)? space* ":" space* value
@@ -206,10 +206,10 @@ s.addAttribute("ast", {
 
   join: (_1, _2, _3) => null,
 
-  merge: (a, _1, b, _2, _3, _4, c) => ({
+  merge: (a, _1, b, _2, c) => ({
     type: "merge",
-    source: a.sourceString === "~",
-    key: b.ast.value,
+    source: b.sourceString === ":~",
+    key: a.ast.value,
     value: c.ast[0],
   }),
 
@@ -224,16 +224,6 @@ s.addAttribute("ast", {
           value: d.ast,
         };
       }
-    }
-    if (b.ast[0]?.type === "parameters") {
-      const args = b.ast[0].items;
-      return args.reduceRight(
-        (value, arg, i) => ({
-          type: "block",
-          items: [{ type: "function", arg, count: args.length - i, value }],
-        }),
-        d.ast
-      ).items[0];
     }
     return {
       type: "function",
@@ -311,6 +301,9 @@ const getVariables = (node) => {
       .filter((p) => typeof p !== "string")
       .flatMap((n) => getVariables(n));
   }
+  if (node.type === "parameters") {
+    return node.items.flatMap((n) => getVariables(n));
+  }
   if (node.type === "variable") return [node.value];
   return [];
 };
@@ -330,19 +323,35 @@ const getPattern = (node) => {
 };
 
 const compileBlock = (node, capture) => {
-  const values = node.items
-    .filter((n) => ["merge", "assign"].includes(n.type))
-    .map((n) => compile(n, true))
-    .join(" ");
-  const items = node.items
-    .filter((n) => !["merge", "assign", "function"].includes(n.type))
-    .map((n) => `{${compile(n, true)}}`)
-    .join(" ");
-  const functionNodes = node.items.filter((n) => ["function"].includes(n.type));
-  const functions =
-    functionNodes.length > 0 &&
-    `&functions={[${functionNodes.map((n) => compile(n)).join(", ")}]}`;
-  return `<\\${capture ? "\\" : ""} ${[items, values, functions]
+  const items = node.items.filter(
+    (n) => !["merge", "assign", "function"].includes(n.type)
+  );
+  const values = node.items.filter((n) => ["merge", "assign"].includes(n.type));
+  const functions = node.items.filter((n) => ["function"].includes(n.type));
+  if (items.length > 0 && values.length === 0 && functions.length === 0) {
+    return `[${capture ? "~" : ""} ${items.map((n) => compile(n)).join(",")}]`;
+  }
+  if (values.length > 0 && items.length === 0 && functions.length === 0) {
+    return `{${capture ? "~" : ""} ${values.map((n) => compile(n)).join(",")}}`;
+  }
+  if (
+    functions.length === 1 &&
+    items.length === 0 &&
+    values.length === 0 &&
+    !functions[0].test &&
+    (functions[0].arg.type === "variable" ||
+      (functions[0].arg.type === "parameters" &&
+        functions[0].arg.items.every((n) => n.type === "variable")))
+  ) {
+    const variables = getVariables(functions[0].arg);
+    return `((${variables.join(", ")})=> ${compile(functions[0].value)})`;
+  }
+  return `<\\${capture ? "~" : ""} ${[
+    items.map((n) => `{${compile(n, true)}}`).join(" "),
+    values.map((n) => compile(n, true)).join(" "),
+    functions.length > 0 &&
+      `&functions={[${functions.map((n) => compile(n)).join(", ")}]}`,
+  ]
     .filter((x) => x)
     .join(" ")} />`;
 };
@@ -380,10 +389,10 @@ const compile = (node, block = false) => {
     return `apply(${compileBlock(node, false)}, false, false, "")`;
   }
   if (node.type === "merge") {
-    const source = node.source ? "~" : "";
-    if (!node.value) return `${source}${node.key}::`;
-    if (block) return `${source}${node.key}::{${compile(node.value)}}`;
-    return `${source}${node.key}:: ${compile(node.value)}`;
+    const operator = node.source ? ":~" : "::";
+    if (!node.value) return `${node.key}${operator}`;
+    if (block) return `${node.key}${operator}{${compile(node.value)}}`;
+    return `${node.key}${operator} ${compile(node.value)}`;
   }
   if (node.type === "assign") {
     const recursive = node.recursive ? "*" : "";
@@ -395,6 +404,25 @@ const compile = (node, block = false) => {
     return `...${compile(node.value)}.values`;
   }
   if (node.type === "function") {
+    if (node.arg?.type === "parameters") {
+      return compile(
+        node.arg.items.reduceRight((value, arg, i) => {
+          const count = node.arg.items.length - i;
+          return {
+            type: "block",
+            items: [
+              {
+                type: "function",
+                arg,
+                test: count === 1 && node.test,
+                count,
+                value,
+              },
+            ],
+          };
+        }, node.value).items[0]
+      );
+    }
     const variables = getVariables(node.arg);
     return `{ ${[
       node.arg && `pattern: ${JSON.stringify(getPattern(node.arg))}`,

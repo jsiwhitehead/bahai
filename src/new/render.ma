@@ -2,7 +2,7 @@
   {
     'baseLevel': 1,
     'levelNumbers': '',
-    'paraNumbers': '',
+    'paraNumbers': '1',
     'color': colors.'link'.(doc.'author') | colors.'link'.'The World Centre',
     'allLines': every(doc.'paragraphs', [p: p.'type' | p.'lines']),
     : [
@@ -37,7 +37,12 @@
                 'color': '#999',
                 'align': 'right',
                 'width': 50,
-                'style': ['position': 'absolute', 'top': '2px', 'left': '-60px'],
+                'style': [
+                  'position': 'absolute',
+                  'top': '2px',
+                  'left': '-60px',
+                  'user-select': 'none',
+                ],
                 index | p.'index',
               ],
               [
