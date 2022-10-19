@@ -221,8 +221,9 @@ maraca(
     join: (data, connect) => createBlock(data).items.join(connect),
     startsWith: (str, test) => str.startsWith(test),
     padStart: (str, length, pad) => `${str}`.padStart(length, pad),
-    length: (x) => createBlock(x).items.length,
-    slice: (str, start, end) => str.slice(start, end),
+    length: (x) =>
+      typeof x === "string" ? x.length : createBlock(x).items.length,
+    slice: (str, start, end) => str.slice(start || undefined, end || undefined),
   },
   source,
   // (data) => console.log(JSON.stringify(resolve(data, true).index, null, 2))

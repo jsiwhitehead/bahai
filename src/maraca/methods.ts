@@ -55,6 +55,9 @@ const testMatch = ($value, pattern) => {
   const spreads = pattern.items.filter((p) => p.type === "spread");
   const length = pattern.items.filter((p) => p.type !== "spread").length;
   const { items, values } = createBlock(value);
+  if (spreads.length === 0) {
+    if (items.length !== pattern.items.length) return false;
+  }
   const matches = [
     ...Array.from({ length }).map((_, i) =>
       testMatch(items[i], pattern.items[i])
@@ -185,7 +188,7 @@ const filterBlock = (block, func) =>
     block.items.filter((v, i) => func(v, i)),
     filterObject(block.values, func)
   );
-const filter = reactiveFunc(($block, $map) =>
+const filter = reactiveFunc(($block, $map = reactiveFunc((x) => x)) =>
   filterBlock(createBlock(resolve($block)), ($v, k) =>
     toTruthy(resolve(apply($map, true, false, $v, k)))
   )

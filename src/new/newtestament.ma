@@ -1,7 +1,7 @@
 {
   'item': [index:
     {
-      'id': 'quran-{padStart(index - 1, 3, 0)}',
+      'id': 'bible-{padStart(index + 38, 3, 0)}',
       : [
         'color': 'blue',
         'underline': hover,
@@ -17,24 +17,24 @@
       'bold': 'true',
       'underline': 'true',
       'align': 'center',
-      'The Qur’án',
+      'The New Testament',
     ],
     [
       'bar': 'true',
       [
         'width': 1 / 3,
         'stack': 15,
-        ...(1..38)->map.item,
+        ...(1..9)->map.item,
       ],
       [
         'width': 1 / 3,
         'stack': 15,
-        ...(39..76)->map.item,
+        ...(10..18)->map.item,
       ],
       [
         'width': 1 / 3,
         'stack': 15,
-        ...(77..114)->map.item,
+        ...(19..27)->map.item,
       ]
     ]
   ],

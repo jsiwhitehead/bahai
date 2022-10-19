@@ -30,27 +30,24 @@
     ],
     [
       'stack': 15,
-      ...map(
-        items,
-        [key: {
-          'k': key->[[x]: x, x: x],
-          : [
-            'color': 'blue',
-            'underline': hover,
-            'link': ['doc', k],
-            '{key->[
-              [k]: join(
-                [
-                  documents.k.'path'.(length(documents.k.'path')),
-                  documents.k.'title',
-                ],
-                ", "
-              ),
-              k: documents.k.'title',
-            ]}{documents.k.'translated' & ' ({documents.k.'translated'})'} »'
-          ],
-        }],
-      )
+      ...items->map.[key: {
+        'k': key->[[x]: x, x: x],
+        : [
+          'color': 'blue',
+          'underline': hover,
+          'link': ['doc', k],
+          '{key->[
+            [k]: join(
+              [
+                documents.k.'path'.(length(documents.k.'path')),
+                documents.k.'title',
+              ],
+              ', '
+            ),
+            k: documents.k.'title',
+          ]}{documents.k.'translated' & ' ({documents.k.'translated'})'} »'
+        ],
+      }]
     ]
   ],
 }

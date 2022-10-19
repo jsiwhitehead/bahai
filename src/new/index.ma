@@ -10,21 +10,18 @@
       'line': values.'line' | 1.5,
       'lineHeight': { ? line > 3 : line, : line * size },
       'gap': (lineHeight - size) * 0.5 + 1,
-      'filtered': filter(items, [x: x]),
-      'nextInline': values.'inline' | some(filtered, [[...x]: '', x: 'true']),
+      'filtered': items->filter(),
+      'nextInline': values.'inline' | filtered->some.[[...x]: '', x: 'true'],
       'content':
-        map(
-          filtered,
-          [
-            [...x]: render([
-              'size': x.'size' | size,
-              'line': x.'line' | line,
-              'span': nextInline,
-              ...x,
-            ]),
-            x: render(x),
-          ]
-        ),
+        filtered->map.[
+          [...x]: render([
+            'size': x.'size' | size,
+            'line': x.'line' | line,
+            'span': nextInline,
+            ...x,
+          ]),
+          x: render(x),
+        ],
       'inner': {
         ? values.'input': {
           'v': values.'value',
@@ -37,10 +34,9 @@
             ],
           ]
         ],
-        ? values.'stack': map(
-          content,
-          [(x, i): [:'div', 'style': ['padding-top': i ! 1 & px(values.'stack')], x]]
-        ),
+        ? values.'stack': content->map.[
+          (x, i): [:'div', 'style': ['padding-top': i ! 1 & px(values.'stack')], x]
+        ],
         : content,
       },
       : [
