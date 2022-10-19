@@ -2,40 +2,16 @@
   'px': [n ? +n: '{n}px', x: x | 0],
   *'render': [
     [
-      'size':=,
-      'line':=,
-      'font':=,
-      'bold':=,
-      'italic':=,
-      'underline':=,
-      'uppercase':=,
-      'align':=,
-      'color':=,
-      'fill':=,
-      'indent':=,
-      'cursor':=,
-      'pad':=,
-      'round':=,
-      'stack':=,
-      'bar':=,
-      'width':=,
-      'style':=,
-      'id':=,
-      'link':=,
-      'input':=,
-      'value':=,
       'hover':=,
-      'inline':=,
-      'span':=,
       ...:values,
       ...items,
     ]: {
-      'size': size | 20,
-      'line': line | 1.5,
+      'size': values.'size' | 20,
+      'line': values.'line' | 1.5,
       'lineHeight': { ? line > 3 : line, : line * size },
       'gap': (lineHeight - size) * 0.5 + 1,
       'filtered': filter(items, [x: x]),
-      'nextInline': inline | some(filtered, [[...x]: '', x: true]),
+      'nextInline': values.'inline' | some(filtered, [[...x]: '', x: 'true']),
       'content':
         map(
           filtered,
@@ -50,40 +26,40 @@
           ]
         ),
       'inner': {
-        ? input: {
-          'val': value,
-          : [[:'input', 'type': 'text', 'value': val, 'val':: oninput?.'target'?.'value']]
+        ? values.'input': {
+          'v': values.'value',
+          : [[:'input', 'type': 'text', 'value': v, 'v':: oninput?.'target'?.'value']]
         },
-        ? !span & nextInline: [
+        ? !values.'span' & nextInline: [
           [:'div', 'style': ['padding': '1px 0', 'min-height': px(size)],
             [:'div', 'style': ['margin-top': px(-gap), 'margin-bottom': px(-gap)],
               ...content,
             ],
           ]
         ],
-        ? stack: map(
+        ? values.'stack': map(
           content,
-          [(x, i): [:'div', 'style': ['padding-top': i ! 1 & px(stack)], x]]
+          [(x, i): [:'div', 'style': ['padding-top': i ! 1 & px(values.'stack')], x]]
         ),
         : content,
       },
       : [
-        : { ? span: 'span', ? link: 'a', : 'div' },
-        'id':=,
+        : { ? values.'span': 'span', ? values.'link': 'a', : 'div' },
+        'id': values.'id',
         'style': [
           'font-size': px(size),
           'line-height': px(lineHeight),
-          'font-family': font,
-          'font-weight': bold & 'bold',
-          'font-style': italic & 'italic',
-          'text-decoration': underline & 'underline',
-          'text-transform': uppercase & 'uppercase',
-          'text-align': align,
-          'color': color,
-          'background': fill,
-          'text-indent': px(indent),
-          'cursor': cursor | (link & 'pointer'),
-          'padding': pad->[
+          'font-family': values.'font',
+          'font-weight': values.'bold' & 'bold',
+          'font-style': values.'italic' & 'italic',
+          'text-decoration': values.'underline' & 'underline',
+          'text-transform': values.'uppercase' & 'uppercase',
+          'text-align': values.'align',
+          'color': values.'color',
+          'background': values.'fill',
+          'text-indent': px(values.'indent'),
+          'cursor': values.'cursor' | (values.'link' & 'pointer'),
+          'padding': values.'pad'->[
             [...x]: [
               x.'top' | x.1,
               x.'right' | x.4 | x.2 | x.1,
@@ -92,7 +68,7 @@
             ]->map(px)->join(' '),
             x: px(x),
           ],
-          'border-radius': round->[
+          'border-radius': values.'round'->[
             [...x]: [
               x.'topLeft' | x.'top' | x.'left' | x.1,
               x.'topRight' | x.'top' | x.'right' | x.4 | x.2 | x.1,
@@ -101,12 +77,13 @@
             ]->map(px)->join(' '),
             x: px(x),
           ],
-          'width': width & { ? width <= 1 : '{width * 100}%', : px(width) },
-          'flex-grow': { ? width: 0, : 1 },
-          'display': { ? span: 'inline', ? bar: 'flex', : 'block' },
-          ...style,
+          'width': values.'width' &
+            { ? values.'width' <= 1 : '{values.'width' * 100}%', : px(values.'width') },
+          'flex-grow': { ? values.'width': 0, : 1 },
+          'display': { ? values.'span': 'inline', ? values.'bar': 'flex', : 'block' },
+          ...values.'style',
         ],
-        'href': link & '/{link->join('/')}',
+        'href': values.'link' & '/{values.'link'->join('/')}',
         'hover':: onmouseenter & 'true',
         'hover':: onmouseleave & '',
         ...inner,

@@ -151,7 +151,8 @@
                               'line': 1,
                               'color': color,
                               'pad': ['right': 8],
-                              'style': ['float': 'left', 'width': 'auto'],
+                              'width': 'auto',
+                              'style': ['float': 'left'],
                               text,
                             ],
                             : [
