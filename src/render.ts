@@ -2,20 +2,20 @@ import { effect, resolve } from "reactivejs";
 
 import { createBlock } from "./maraca";
 
-const isObject = (x) => Object.prototype.toString.call(x) === "[object Object]";
+const isSourceStream = (x) => x && typeof x === "object" && x.isStream && x.set;
 
-const isAtom = (x) => isObject(x) && x.isStream && x.set;
-
+const kebabToCamelMemo = {};
 const kebabToCamel = (s) => {
+  if (s in kebabToCamelMemo) return kebabToCamelMemo[s];
   let v = s;
   if (v[0] === "-") {
     v = v.slice(1);
     if (!v.startsWith("ms-")) v = `${v[0].toUpperCase()}${v.slice(1)}`;
   }
-  return v
+  return (kebabToCamelMemo[s] = v
     .split("-")
     .map((x, i) => (i === 0 ? x : `${x[0].toUpperCase()}${x.slice(1)}`))
-    .join("");
+    .join(""));
 };
 
 const print = (x, space?) =>
@@ -39,6 +39,11 @@ const reflowCSS = [
   "width",
   "height",
   "font-size",
+  "top",
+  "left",
+  "bottom",
+  "right",
+  "float",
 ];
 
 const applyUpdate = (node, ref, values, style = false) => {
@@ -66,7 +71,7 @@ const updateChildren = (node, children) => {
 const updateNode = (node, data) => {
   if (!data && data !== 0) return null;
 
-  if (!isObject(data) || data.type !== "block") {
+  if (typeof data !== "object" || data.type !== "block") {
     const text = (typeof data === "string" ? data : print(resolve(data, true)))
       .normalize("NFD")
       .replace(/\u0323/g, "")
@@ -84,27 +89,24 @@ const updateNode = (node, data) => {
   effect(() => {
     const { style: dataStyle = {}, ...dataValues } = data.values;
     const values = resolve(dataValues, true);
-    const setters = Object.keys(data.values)
-      .filter((k) => isAtom(data.values[k]) && k.startsWith("on"))
-      .reduce(
-        (res, k) => ({
-          ...res,
-          [k]: (e) => {
-            data.values[k].set(e);
+    const setters = Object.fromEntries(
+      Object.entries<any>(data.values)
+        .filter(([k, v]) => isSourceStream(v) && k.startsWith("on"))
+        .map(([k, v]) => [
+          k,
+          (e) => {
+            v.set(e);
           },
-        }),
-        {}
-      );
+        ])
+    );
     applyUpdate(next, "props", { ...values, ...setters });
 
     const styles = resolve(createBlock(resolve(dataStyle)).values);
-    const style = Object.keys(styles)
-      .filter((key) => !reflowCSS.some((k) => key.startsWith(k)))
-      .map((key) => ({ key, value: resolve(styles[key]) }))
-      .reduce(
-        (res, { key, value }) => ({ ...res, [kebabToCamel(key)]: value }),
-        {}
-      );
+    const style = Object.fromEntries(
+      Object.entries(styles)
+        .filter(([key]) => !reflowCSS.some((k) => key.startsWith(k)))
+        .map(([key, value]) => [kebabToCamel(key), resolve(value)])
+    );
     applyUpdate(next, "styles", style, true);
   }, "style");
 
@@ -112,13 +114,11 @@ const updateNode = (node, data) => {
     const styles = resolve(
       createBlock(resolve(data.values.style || {})).values
     );
-    const style = Object.keys(styles)
-      .filter((key) => reflowCSS.some((k) => key.startsWith(k)))
-      .map((key) => ({ key, value: resolve(styles[key]) }))
-      .reduce(
-        (res, { key, value }) => ({ ...res, [kebabToCamel(key)]: value }),
-        {}
-      );
+    const style = Object.fromEntries(
+      Object.entries(styles)
+        .filter(([key]) => reflowCSS.some((k) => key.startsWith(k)))
+        .map(([key, value]) => [kebabToCamel(key), resolve(value)])
+    );
     applyUpdate(next, "reflow", style, true);
   }, "reflow");
 

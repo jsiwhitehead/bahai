@@ -13,20 +13,6 @@ export const createBlock = (value, other?) => {
   return { type: "block", items: other || [], values: value };
 };
 
-const createFunction = (func, count = 1, makeReactive = false) => ({
-  type: "block",
-  items: [],
-  values: {},
-  functions: [
-    {
-      pattern: { type: "variable", value: "x" },
-      variables: ["x"],
-      count,
-      run: makeReactive ? reactiveFunc(func) : func,
-    },
-  ],
-});
-
 const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const testMatch = ($value, pattern) => {
   if (!pattern) return false;
@@ -59,9 +45,9 @@ const testMatch = ($value, pattern) => {
     if (items.length !== pattern.items.length) return false;
   }
   const matches = [
-    ...Array.from({ length }).map((_, i) =>
-      testMatch(items[i], pattern.items[i])
-    ),
+    ...new Array(length)
+      .fill(0)
+      .map((_, i) => testMatch(items[i], pattern.items[i])),
     ...Object.keys(pattern.values).map((key) =>
       testMatch(values[key], pattern.values[key])
     ),
@@ -142,7 +128,7 @@ const getArgs = ($map, $complete, $args) => {
     const funcs = resolve(resolve($map).functions) || [];
     if (funcs.length > 0) {
       const count = resolve(resolve(funcs[0]).count);
-      return Array.from({ length: count }).map((_, i) => $args[i] || "");
+      return new Array(count).fill(0).map((_, i) => $args[i] || "");
     }
   }
   return $args;
@@ -229,7 +215,7 @@ const numericOperators = {
   ">": (a, b) => a > b,
   "..": (a, b) => ({
     type: "block",
-    items: Array.from({ length: b - a + 1 }).map((_, i) => i + a),
+    items: new Array(b - a + 1).fill(0).map((_, i) => i + a),
     values: {},
   }),
   "+": (a, b) => a + b,
