@@ -391,6 +391,22 @@ const compile = (node, block = false) => {
         .map((n) => (n.key ? compile(n) : compile(n.value)))
         .join(", ")})`;
     }
+    if (
+      node.items.every(
+        (n) =>
+          (n.type === "function" && !n.arg) || (n.type === "assign" && !n.key)
+      )
+    ) {
+      const items = node.items.slice(
+        0,
+        node.items.findIndex((n) => n.type === "assign") + 1
+      );
+      const last = items.pop();
+      return items.reduceRight(
+        (res, n) => `${compile(n.test)} ? ${compile(n.value)} : ${res}`,
+        compile(last.value)
+      );
+    }
     return `apply(${compileBlock(node, false)}, false, false, "")`;
   }
   if (node.type === "merge") {
