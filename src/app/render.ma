@@ -103,7 +103,7 @@
                   ],
                   {
                     'refText': getRef(doc.'paragraphs', i - 1),
-                    refText & [
+                    : refText & [
                       'size': 16, 
                       'italic': 'true',
                       'align': 'right',
@@ -154,29 +154,29 @@
                     }
                   ]
                 ]
-              }
-            ],
-            ...(quotesMap.(doc.'id')?.i?.refs | [])->map.[
-              r: [
-                'size': 16,
-                'italic': 'true',
-                'align': 'left',
-                'color':
-                  colors.'link'.(documents.(r.'id').'author') |
-                  colors.'link'.'The World Centre',
-                'underline': hover,
-                'link': ['doc', r.'id', : r.'paragraph'],
-                'style': ['width': '75%', 'margin': '0 auto 0 0'],
-                [
-                  documents.(r.'id').'author',
-                  ...documents.(r.'id').'path',
-                  documents.(r.'id').'title' |
-                    (documents.(r.'id').'item' & '#{documents.(r.'id').'item'}'),
+              },
+              ...(quotesMap.(doc.'id')?.(i - 1)?.'refs' | [])->map.[
+                r: [
+                  'size': 16,
+                  'italic': 'true',
+                  'align': 'left',
+                  'color':
+                    colors.'link'.(documents.(r.'id').'author') |
+                    colors.'link'.'The World Centre',
+                  'underline': hover,
+                  'link': ['doc', r.'id', : r.'paragraph'],
+                  'style': ['width': '75%', 'margin': '0 auto 0 0'],
+                  [
+                    documents.(r.'id').'author',
+                    ...documents.(r.'id').'path',
+                    documents.(r.'id').'title' |
+                      (documents.(r.'id').'item' & '#{documents.(r.'id').'item'}'),
+                  ]
+                    ->filter()
+                    ->unique()
+                    ->join(', ')
                 ]
-                  ->filter()
-                  ->unique()
-                  ->join(', ')
-              ]
+              ],
             ],
           ],
         ],

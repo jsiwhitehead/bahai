@@ -70,7 +70,7 @@ document.addEventListener("click", (e: any) => {
   }
 });
 
-const unique = (x) => [...new Set(x)];
+const unique = (x) => [...new Set(createBlock(x).items)];
 const toUrl = (s) =>
   s
     .normalize("NFD")

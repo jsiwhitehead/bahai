@@ -422,8 +422,7 @@ const compile = (node, block = false) => {
     return `${recursive}"${node.key}": ${compile(node.value)}`;
   }
   if (node.type === "spread") {
-    if (block) return `...${compile(node.value)}`;
-    return `...${compile(node.value)}.values`;
+    return `...${compile(node.value)}`;
   }
   if (node.type === "function") {
     if (node.arg?.type === "parameters") {
