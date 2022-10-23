@@ -79,7 +79,10 @@
           'display': { ? values.'span': 'inline', ? values.'bar': 'flex', : 'block' },
           ...values.'style',
         ],
-        'href': values.'link' & '/{values.'link'->join('/')}',
+        'href': values.'link'->[
+          ['': hash, ...parts]: '/{parts->join('/')}#{hash}',
+          [...parts]: '/{parts->join('/')}'
+        ],
         'hover':: onmouseenter & 'true',
         'hover':: onmouseleave & '',
         ...inner,

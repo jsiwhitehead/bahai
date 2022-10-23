@@ -47,7 +47,7 @@
               'stack': 15,
               {
                 ? p.'section' & !p.'title': [
-                  align: 'center',
+                  'align': 'center',
                   '* * *'
                 ],
                 ? p.'section': {
@@ -111,7 +111,7 @@
                         colors.'link'.(documents.(p.'id').'author') |
                         colors.'link'.'The World Centre',
                       'underline': hover,
-                      'link': ['doc', p.'id', : p.'paragraphs'.1],
+                      'link': ['doc', p.'id', : p.'paragraphs'.1 + 1],
                       'style': ['width': '75%', 'margin': '0 20px 0 auto'],
                       refText,
                     ],
@@ -164,7 +164,7 @@
                     colors.'link'.(documents.(r.'id').'author') |
                     colors.'link'.'The World Centre',
                   'underline': hover,
-                  'link': ['doc', r.'id', : r.'paragraph'],
+                  'link': ['doc', r.'id', : r.'paragraph' + 1],
                   'style': ['width': '75%', 'margin': '0 auto 0 0'],
                   [
                     documents.(r.'id').'author',

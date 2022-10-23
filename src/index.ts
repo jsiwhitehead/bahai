@@ -46,7 +46,10 @@ const history = createBrowserHistory();
 const getUrlBlock = (location) => ({
   type: "block",
   items: location.pathname.split(/\//g).filter((x) => x),
-  values: {},
+  values: Object.fromEntries([
+    ...(location.hash ? [["", location.hash.slice(1)]] : []),
+    ...new URLSearchParams(location.search),
+  ]),
 });
 const url = atom(getUrlBlock(history.location));
 history.listen(({ location }) => {

@@ -216,11 +216,14 @@ s.addAttribute("ast", {
   assign: (a, _1, b, _2, _3, _4, c, _5, _6, _7, d) => {
     if (b.ast[0]?.type === "string" || (!b.ast[0] && !c.ast[0])) {
       const parts = b.ast[0]?.parts || [""];
-      if (parts.length === 1 && typeof parts[0] === "string") {
+      if (
+        parts.length === 0 ||
+        (parts.length === 1 && typeof parts[0] === "string")
+      ) {
         return {
           type: "assign",
           recursive: a.sourceString === "*",
-          key: parts[0],
+          key: parts[0] || "",
           value: d.ast,
         };
       }
