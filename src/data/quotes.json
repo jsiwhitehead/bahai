@@ -1966,12 +1966,21 @@
         {
           "id": "official-statements-commentaries-one-common-faith-001",
           "paragraph": 39
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-001",
+          "paragraph": 4
         }
       ],
       "parts": [
         {
           "start": 76,
           "end": 137,
+          "count": 1
+        },
+        {
+          "start": 656,
+          "end": 877,
           "count": 1
         }
       ]
@@ -4063,8 +4072,8 @@
           "paragraph": 30
         },
         {
-          "id": "ruhi8-002",
-          "paragraph": 158
+          "id": "the-universal-house-of-justice-additional-messages-011",
+          "paragraph": 9
         },
         {
           "id": "compilations-social-action-000",
@@ -4904,12 +4913,12 @@
           "paragraph": 59
         },
         {
-          "id": "ruhi8-002",
-          "paragraph": 174
+          "id": "the-universal-house-of-justice-additional-messages-011",
+          "paragraph": 10
         },
         {
           "id": "ruhi8-002",
-          "paragraph": 159
+          "paragraph": 174
         },
         {
           "id": "ruhi9-000",
@@ -4934,7 +4943,7 @@
         {
           "start": 62,
           "end": 144,
-          "count": 7
+          "count": 8
         },
         {
           "start": 144,
@@ -5265,6 +5274,10 @@
           "paragraph": 18
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 9
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-000",
           "paragraph": 3
         },
@@ -5277,27 +5290,27 @@
         {
           "start": 0,
           "end": 239,
-          "count": 1
+          "count": 2
         },
         {
           "start": 239,
           "end": 309,
-          "count": 2
+          "count": 3
         },
         {
           "start": 309,
           "end": 564,
-          "count": 1
+          "count": 2
         },
         {
           "start": 564,
           "end": 673,
-          "count": 2
+          "count": 3
         },
         {
           "start": 673,
           "end": 844,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -5961,7 +5974,7 @@
     "89": {
       "refs": [
         {
-          "id": "abdul-baha-additional-tablets-extracts-talks-009",
+          "id": "abdul-baha-additional-tablets-extracts-talks-025",
           "paragraph": 5
         },
         {
@@ -6498,8 +6511,8 @@
           "paragraph": 18
         },
         {
-          "id": "ruhi8-002",
-          "paragraph": 159
+          "id": "the-universal-house-of-justice-additional-messages-011",
+          "paragraph": 10
         },
         {
           "id": "ruhi9-000",
@@ -10082,8 +10095,8 @@
           "paragraph": 30
         },
         {
-          "id": "ruhi8-002",
-          "paragraph": 158
+          "id": "the-universal-house-of-justice-additional-messages-011",
+          "paragraph": 9
         }
       ],
       "parts": [
@@ -10094,11 +10107,11 @@
         },
         {
           "start": 267,
-          "end": 331,
+          "end": 332,
           "count": 3
         },
         {
-          "start": 331,
+          "start": 332,
           "end": 371,
           "count": 2
         }
@@ -15840,8 +15853,8 @@
     "41": {
       "refs": [
         {
-          "id": "ruhi8-002",
-          "paragraph": 161
+          "id": "the-universal-house-of-justice-additional-messages-011",
+          "paragraph": 11
         },
         {
           "id": "ruhi10-001",
@@ -16367,6 +16380,10 @@
           "paragraph": 45
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 12
+        },
+        {
           "id": "ruhi8-000",
           "paragraph": 89
         },
@@ -16379,12 +16396,16 @@
         {
           "start": 0,
           "end": 786,
-          "count": 3
+          "count": 4
         }
       ]
     },
     "20": {
       "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 13
+        },
         {
           "id": "ruhi8-000",
           "paragraph": 90
@@ -16398,7 +16419,7 @@
         {
           "start": 0,
           "end": 609,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -16760,6 +16781,10 @@
           "paragraph": 83
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 37
+        },
+        {
           "id": "ruhi8-000",
           "paragraph": 105
         },
@@ -16825,27 +16850,27 @@
         {
           "start": 1173,
           "end": 1197,
-          "count": 6
+          "count": 7
         },
         {
           "start": 1197,
           "end": 1315,
-          "count": 7
+          "count": 8
         },
         {
           "start": 1315,
           "end": 1443,
-          "count": 6
+          "count": 7
         },
         {
           "start": 1443,
           "end": 1580,
-          "count": 6
+          "count": 7
         },
         {
           "start": 1580,
           "end": 1853,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -16874,6 +16899,10 @@
         {
           "id": "official-statements-commentaries-century-light-001",
           "paragraph": 246
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 5
         },
         {
           "id": "ruhi8-000",
@@ -16906,15 +16935,20 @@
         {
           "start": 104,
           "end": 245,
-          "count": 7
+          "count": 8
         },
         {
           "start": 245,
           "end": 246,
-          "count": 6
+          "count": 7
         },
         {
           "start": 246,
+          "end": 269,
+          "count": 4
+        },
+        {
+          "start": 269,
           "end": 309,
           "count": 3
         },
@@ -16938,6 +16972,10 @@
     "43": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 38
+        },
+        {
           "id": "ruhi8-000",
           "paragraph": 135
         },
@@ -16950,7 +16988,7 @@
         {
           "start": 0,
           "end": 603,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -16972,6 +17010,10 @@
     "47": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 39
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-000",
           "paragraph": 270
         }
@@ -16980,7 +17022,7 @@
         {
           "start": 0,
           "end": 233,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -17392,13 +17434,22 @@
         {
           "id": "shoghi-effendi-decisive-hour-036",
           "paragraph": 1
+        },
+        {
+          "id": "world-centre-20180503-000",
+          "paragraph": 35
         }
       ],
       "parts": [
         {
+          "start": 97,
+          "end": 218,
+          "count": 1
+        },
+        {
           "start": 218,
           "end": 441,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -22971,6 +23022,10 @@
         {
           "id": "official-statements-commentaries-one-common-faith-001",
           "paragraph": 9
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-007",
+          "paragraph": 9
         }
       ],
       "parts": [
@@ -22986,13 +23041,18 @@
         },
         {
           "start": 61,
-          "end": 115,
+          "end": 62,
           "count": 3
+        },
+        {
+          "start": 62,
+          "end": 115,
+          "count": 4
         },
         {
           "start": 115,
           "end": 194,
-          "count": 5
+          "count": 6
         },
         {
           "start": 194,
@@ -23762,6 +23822,10 @@
     "9": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-additional-messages-011",
+          "paragraph": 6
+        },
+        {
           "id": "the-universal-house-of-justice-messages-030",
           "paragraph": 10
         },
@@ -23773,16 +23837,26 @@
       "parts": [
         {
           "start": 0,
-          "end": 93,
+          "end": 40,
           "count": 1
+        },
+        {
+          "start": 40,
+          "end": 93,
+          "count": 2
         },
         {
           "start": 93,
           "end": 226,
-          "count": 2
+          "count": 3
         },
         {
           "start": 226,
+          "end": 227,
+          "count": 2
+        },
+        {
+          "start": 227,
           "end": 530,
           "count": 1
         }
@@ -26258,11 +26332,25 @@
         {
           "id": "the-universal-house-of-justice-messages-233",
           "paragraph": 9
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-019",
+          "paragraph": 7
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 8,
+          "count": 1
+        },
+        {
+          "start": 8,
+          "end": 74,
+          "count": 2
+        },
+        {
+          "start": 74,
           "end": 205,
           "count": 1
         },
@@ -28036,8 +28124,8 @@
     "71": {
       "refs": [
         {
-          "id": "ruhi8-002",
-          "paragraph": 158
+          "id": "the-universal-house-of-justice-additional-messages-011",
+          "paragraph": 9
         },
         {
           "id": "the-universal-house-of-justice-messages-027",
@@ -30617,9 +30705,18 @@
         {
           "id": "publications-individual-authors-bahaullah-new-era-020",
           "paragraph": 87
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-006",
+          "paragraph": 9
         }
       ],
       "parts": [
+        {
+          "start": 879,
+          "end": 1003,
+          "count": 1
+        },
         {
           "start": 1215,
           "end": 1596,
@@ -31576,6 +31673,10 @@
           "paragraph": 19
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 16
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-000",
           "paragraph": 122
         }
@@ -31584,12 +31685,17 @@
         {
           "start": 387,
           "end": 488,
-          "count": 4
+          "count": 5
         },
         {
           "start": 488,
-          "end": 617,
+          "end": 489,
           "count": 3
+        },
+        {
+          "start": 489,
+          "end": 617,
+          "count": 4
         }
       ]
     },
@@ -32135,6 +32241,10 @@
           "paragraph": 16
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 15
+        },
+        {
           "id": "ruhi8-000",
           "paragraph": 92
         },
@@ -32159,6 +32269,11 @@
         },
         {
           "start": 25,
+          "end": 152,
+          "count": 5
+        },
+        {
+          "start": 152,
           "end": 364,
           "count": 4
         },
@@ -32174,8 +32289,13 @@
         },
         {
           "start": 411,
-          "end": 581,
+          "end": 473,
           "count": 4
+        },
+        {
+          "start": 473,
+          "end": 581,
+          "count": 5
         },
         {
           "start": 581,
@@ -32196,6 +32316,10 @@
           "paragraph": 16
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 23
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-000",
           "paragraph": 24
         },
@@ -32212,7 +32336,7 @@
         {
           "start": 0,
           "end": 254,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -32225,6 +32349,10 @@
         {
           "id": "the-universal-house-of-justice-messages-277",
           "paragraph": 10
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 24
         },
         {
           "id": "ruhi8-002",
@@ -32243,7 +32371,7 @@
         {
           "start": 0,
           "end": 228,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -32252,6 +32380,10 @@
         {
           "id": "the-universal-house-of-justice-messages-467",
           "paragraph": 18
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 25
         },
         {
           "id": "ruhi8-002",
@@ -32274,7 +32406,7 @@
         {
           "start": 0,
           "end": 457,
-          "count": 3
+          "count": 4
         }
       ]
     }
@@ -33078,6 +33210,10 @@
           "paragraph": 27
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-006",
+          "paragraph": 9
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-000",
           "paragraph": 44
         },
@@ -33104,8 +33240,13 @@
         },
         {
           "start": 385,
-          "end": 761,
+          "end": 604,
           "count": 3
+        },
+        {
+          "start": 604,
+          "end": 761,
+          "count": 4
         },
         {
           "start": 761,
@@ -34393,6 +34534,14 @@
           "paragraph": 4
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 22
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 27
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-000",
           "paragraph": 53
         }
@@ -34400,13 +34549,23 @@
       "parts": [
         {
           "start": 0,
+          "end": 360,
+          "count": 1
+        },
+        {
+          "start": 360,
+          "end": 515,
+          "count": 2
+        },
+        {
+          "start": 515,
           "end": 715,
           "count": 1
         },
         {
           "start": 715,
           "end": 885,
-          "count": 2
+          "count": 3
         },
         {
           "start": 885,
@@ -34416,7 +34575,7 @@
         {
           "start": 967,
           "end": 1093,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1093,
@@ -34470,381 +34629,6 @@
         {
           "start": 2748,
           "end": 3193,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-303": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 239
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 835,
-          "count": 1
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 240
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 488,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 241
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 944,
-          "count": 1
-        }
-      ]
-    },
-    "3": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 242
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1520,
-          "count": 1
-        }
-      ]
-    },
-    "4": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 243
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 506,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 245
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 211,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 246
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 165,
-          "count": 1
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 249
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1272,
-          "count": 1
-        }
-      ]
-    },
-    "11": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 250
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 992,
-          "count": 1
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 251
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 584,
-          "count": 1
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 252
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1071,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 253
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 380,
-          "count": 1
-        }
-      ]
-    },
-    "17": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 254
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 331,
-          "count": 1
-        }
-      ]
-    },
-    "18": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 255
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 343,
-          "count": 1
-        }
-      ]
-    },
-    "22": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 259
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 698,
-          "count": 1
-        }
-      ]
-    },
-    "23": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 260
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 214,
-          "count": 1
-        },
-        {
-          "start": 221,
-          "end": 695,
-          "count": 1
-        }
-      ]
-    },
-    "24": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 261
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 695,
-          "count": 1
-        }
-      ]
-    },
-    "27": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-462",
-          "paragraph": 25
-        },
-        {
-          "id": "compilations-huququllah-right-god-000",
-          "paragraph": 233
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 263
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 219,
-          "count": 1
-        },
-        {
-          "start": 219,
-          "end": 368,
-          "count": 3
-        },
-        {
-          "start": 368,
-          "end": 369,
-          "count": 2
-        },
-        {
-          "start": 369,
-          "end": 1001,
-          "count": 1
-        }
-      ]
-    },
-    "28": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 264
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 692,
-          "count": 1
-        }
-      ]
-    },
-    "29": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 265
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1224,
-          "count": 1
-        }
-      ]
-    },
-    "31": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 266
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 920,
-          "count": 1
-        }
-      ]
-    },
-    "32": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 267
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 645,
-          "count": 1
-        }
-      ]
-    },
-    "36": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 271
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 585,
           "count": 1
         }
       ]
@@ -35276,6 +35060,10 @@
         {
           "id": "the-universal-house-of-justice-messages-077",
           "paragraph": 43
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-014",
+          "paragraph": 10
         }
       ],
       "parts": [
@@ -35286,6 +35074,16 @@
         },
         {
           "start": 164,
+          "end": 199,
+          "count": 1
+        },
+        {
+          "start": 199,
+          "end": 306,
+          "count": 2
+        },
+        {
+          "start": 306,
           "end": 307,
           "count": 1
         }
@@ -35364,6 +35162,21 @@
         }
       ]
     },
+    "61": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-015",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 641,
+          "end": 804,
+          "count": 1
+        }
+      ]
+    },
     "63": {
       "refs": [
         {
@@ -35424,6 +35237,21 @@
           "start": 694,
           "end": 987,
           "count": 2
+        }
+      ]
+    },
+    "74": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-003",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 9,
+          "end": 522,
+          "count": 1
         }
       ]
     },
@@ -36974,18 +36802,22 @@
         {
           "id": "compilations-fire-and-light-000",
           "paragraph": 165
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-005",
+          "paragraph": 3
         }
       ],
       "parts": [
         {
           "start": 447,
           "end": 506,
-          "count": 1
+          "count": 2
         },
         {
           "start": 506,
           "end": 642,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -40264,8 +40096,8 @@
           "paragraph": 16
         },
         {
-          "id": "ruhi8-002",
-          "paragraph": 150
+          "id": "the-universal-house-of-justice-additional-messages-011",
+          "paragraph": 8
         },
         {
           "id": "ruhi5-001",
@@ -42127,7 +41959,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-004": {
+  "abdul-baha-additional-tablets-extracts-talks-020": {
     "0": {
       "refs": [
         {
@@ -43767,7 +43599,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-078": {
+  "abdul-baha-additional-tablets-extracts-talks-094": {
     "0": {
       "refs": [
         {
@@ -47584,18 +47416,27 @@
         {
           "id": "the-universal-house-of-justice-messages-077",
           "paragraph": 51
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-009",
+          "paragraph": 7
         }
       ],
       "parts": [
         {
           "start": 371,
           "end": 470,
+          "count": 2
+        },
+        {
+          "start": 471,
+          "end": 475,
           "count": 1
         },
         {
           "start": 475,
           "end": 647,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -47830,9 +47671,18 @@
         {
           "id": "the-universal-house-of-justice-messages-219",
           "paragraph": 50
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-009",
+          "paragraph": 7
         }
       ],
       "parts": [
+        {
+          "start": 644,
+          "end": 860,
+          "count": 1
+        },
         {
           "start": 1232,
           "end": 1683,
@@ -49877,8 +49727,8 @@
       ]
     }
   },
-  "additional-abdul-baha-035": {
-    "0": {
+  "abdul-baha-additional-tablets-extracts-talks-013": {
+    "2": {
       "refs": [
         {
           "id": "compilations-excellence-all-things-000",
@@ -50895,7 +50745,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-000": {
+  "abdul-baha-additional-tablets-extracts-talks-016": {
     "0": {
       "refs": [
         {
@@ -55114,6 +54964,38 @@
       ]
     }
   },
+  "abdul-baha-additional-tablets-extracts-talks-014": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-women-000",
+          "paragraph": 86
+        }
+      ],
+      "parts": [
+        {
+          "start": 94,
+          "end": 344,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-women-000",
+          "paragraph": 87
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 402,
+          "count": 1
+        }
+      ]
+    }
+  },
   "the-universal-house-of-justice-messages-365": {
     "6": {
       "refs": [
@@ -56953,7 +56835,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-087": {
+  "abdul-baha-additional-tablets-extracts-talks-103": {
     "0": {
       "refs": [
         {
@@ -61184,6 +61066,10 @@
     "4": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 27
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-000",
           "paragraph": 134
         }
@@ -61201,6 +61087,16 @@
         },
         {
           "start": 298,
+          "end": 581,
+          "count": 1
+        },
+        {
+          "start": 581,
+          "end": 809,
+          "count": 2
+        },
+        {
+          "start": 809,
           "end": 912,
           "count": 1
         }
@@ -61466,6 +61362,14 @@
     "25": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 31
+        },
+        {
+          "id": "compilations-huququllah-right-god-000",
+          "paragraph": 233
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-000",
           "paragraph": 155
         }
@@ -61473,6 +61377,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 708,
+          "count": 1
+        },
+        {
+          "start": 708,
+          "end": 859,
+          "count": 3
+        },
+        {
+          "start": 859,
           "end": 1228,
           "count": 1
         }
@@ -62214,6 +62128,10 @@
     "21": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-additional-messages-021",
+          "paragraph": 7
+        },
+        {
           "id": "the-universal-house-of-justice-messages-053",
           "paragraph": 7
         },
@@ -62225,13 +62143,18 @@
       "parts": [
         {
           "start": 0,
-          "end": 718,
+          "end": 548,
           "count": 1
+        },
+        {
+          "start": 548,
+          "end": 718,
+          "count": 2
         },
         {
           "start": 718,
           "end": 853,
-          "count": 2
+          "count": 3
         },
         {
           "start": 853,
@@ -62740,7 +62663,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-094": {
+  "abdul-baha-additional-tablets-extracts-talks-110": {
     "0": {
       "refs": [
         {
@@ -63671,7 +63594,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-285": {
+  "additional-the-universal-house-of-justice-284": {
     "0": {
       "refs": [
         {
@@ -63688,7 +63611,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-286": {
+  "additional-the-universal-house-of-justice-285": {
     "0": {
       "refs": [
         {
@@ -63729,7 +63652,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-287": {
+  "additional-the-universal-house-of-justice-286": {
     "0": {
       "refs": [
         {
@@ -63746,7 +63669,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-288": {
+  "additional-the-universal-house-of-justice-287": {
     "0": {
       "refs": [
         {
@@ -63763,7 +63686,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-289": {
+  "additional-the-universal-house-of-justice-288": {
     "0": {
       "refs": [
         {
@@ -63828,7 +63751,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-290": {
+  "additional-the-universal-house-of-justice-289": {
     "0": {
       "refs": [
         {
@@ -63845,7 +63768,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-244": {
+  "additional-the-universal-house-of-justice-243": {
     "0": {
       "refs": [
         {
@@ -63871,7 +63794,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-291": {
+  "additional-the-universal-house-of-justice-290": {
     "0": {
       "refs": [
         {
@@ -63888,7 +63811,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-292": {
+  "additional-the-universal-house-of-justice-291": {
     "0": {
       "refs": [
         {
@@ -63920,7 +63843,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-293": {
+  "additional-the-universal-house-of-justice-292": {
     "0": {
       "refs": [
         {
@@ -63937,7 +63860,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-294": {
+  "additional-the-universal-house-of-justice-293": {
     "0": {
       "refs": [
         {
@@ -63954,7 +63877,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-295": {
+  "additional-the-universal-house-of-justice-294": {
     "0": {
       "refs": [
         {
@@ -63971,7 +63894,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-296": {
+  "additional-the-universal-house-of-justice-295": {
     "0": {
       "refs": [
         {
@@ -64002,7 +63925,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-297": {
+  "additional-the-universal-house-of-justice-296": {
     "0": {
       "refs": [
         {
@@ -64019,7 +63942,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-298": {
+  "additional-the-universal-house-of-justice-297": {
     "0": {
       "refs": [
         {
@@ -64036,7 +63959,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-299": {
+  "additional-the-universal-house-of-justice-298": {
     "0": {
       "refs": [
         {
@@ -64053,7 +63976,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-300": {
+  "additional-the-universal-house-of-justice-299": {
     "0": {
       "refs": [
         {
@@ -64070,7 +63993,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-301": {
+  "additional-the-universal-house-of-justice-300": {
     "0": {
       "refs": [
         {
@@ -64129,6 +64052,10 @@
           "paragraph": 15
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 15
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-000",
           "paragraph": 96
         }
@@ -64141,8 +64068,13 @@
         },
         {
           "start": 300,
-          "end": 460,
+          "end": 331,
           "count": 2
+        },
+        {
+          "start": 331,
+          "end": 460,
+          "count": 3
         }
       ]
     }
@@ -64500,12 +64432,26 @@
         {
           "id": "compilations-issues-related-study-bahai-faith-000",
           "paragraph": 81
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-006",
+          "paragraph": 9
         }
       ],
       "parts": [
         {
           "start": 582,
+          "end": 585,
+          "count": 1
+        },
+        {
+          "start": 585,
           "end": 652,
+          "count": 2
+        },
+        {
+          "start": 652,
+          "end": 653,
           "count": 1
         }
       ]
@@ -64907,7 +64853,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-267": {
+  "additional-the-universal-house-of-justice-266": {
     "0": {
       "refs": [
         {
@@ -64924,7 +64870,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-268": {
+  "additional-the-universal-house-of-justice-267": {
     "0": {
       "refs": [
         {
@@ -64946,7 +64892,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-269": {
+  "additional-the-universal-house-of-justice-268": {
     "0": {
       "refs": [
         {
@@ -64963,7 +64909,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-270": {
+  "additional-the-universal-house-of-justice-269": {
     "0": {
       "refs": [
         {
@@ -64980,7 +64926,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-271": {
+  "additional-the-universal-house-of-justice-270": {
     "0": {
       "refs": [
         {
@@ -64997,7 +64943,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-272": {
+  "additional-the-universal-house-of-justice-271": {
     "0": {
       "refs": [
         {
@@ -65014,7 +64960,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-273": {
+  "additional-the-universal-house-of-justice-272": {
     "0": {
       "refs": [
         {
@@ -65031,7 +64977,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-274": {
+  "additional-the-universal-house-of-justice-273": {
     "0": {
       "refs": [
         {
@@ -65048,7 +64994,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-275": {
+  "additional-the-universal-house-of-justice-274": {
     "0": {
       "refs": [
         {
@@ -65065,7 +65011,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-276": {
+  "additional-the-universal-house-of-justice-275": {
     "0": {
       "refs": [
         {
@@ -65082,7 +65028,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-277": {
+  "additional-the-universal-house-of-justice-276": {
     "0": {
       "refs": [
         {
@@ -65099,7 +65045,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-278": {
+  "additional-the-universal-house-of-justice-277": {
     "0": {
       "refs": [
         {
@@ -65121,7 +65067,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-279": {
+  "additional-the-universal-house-of-justice-278": {
     "0": {
       "refs": [
         {
@@ -65138,7 +65084,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-280": {
+  "additional-the-universal-house-of-justice-279": {
     "0": {
       "refs": [
         {
@@ -65155,7 +65101,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-281": {
+  "additional-the-universal-house-of-justice-280": {
     "0": {
       "refs": [
         {
@@ -65172,7 +65118,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-209": {
+  "additional-the-universal-house-of-justice-208": {
     "0": {
       "refs": [
         {
@@ -65307,7 +65253,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-282": {
+  "additional-the-universal-house-of-justice-281": {
     "0": {
       "refs": [
         {
@@ -65324,7 +65270,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-283": {
+  "additional-the-universal-house-of-justice-282": {
     "0": {
       "refs": [
         {
@@ -65351,7 +65297,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-284": {
+  "additional-the-universal-house-of-justice-283": {
     "0": {
       "refs": [
         {
@@ -67531,6 +67477,10 @@
           "paragraph": 61
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-014",
+          "paragraph": 7
+        },
+        {
           "id": "compilations-social-action-000",
           "paragraph": 203
         }
@@ -67538,23 +67488,33 @@
       "parts": [
         {
           "start": 0,
-          "end": 666,
+          "end": 318,
+          "count": 2
+        },
+        {
+          "start": 318,
+          "end": 535,
           "count": 1
+        },
+        {
+          "start": 535,
+          "end": 666,
+          "count": 2
         },
         {
           "start": 666,
           "end": 1105,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1105,
           "end": 1165,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1165,
           "end": 1166,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -67780,6 +67740,37 @@
           "start": 345,
           "end": 404,
           "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-additional-messages-026": {
+    "5": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-004",
+          "paragraph": 3
+        },
+        {
+          "id": "the-universal-house-of-justice-turning-point-000",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 18,
+          "count": 2
+        },
+        {
+          "start": 18,
+          "end": 102,
+          "count": 1
+        },
+        {
+          "start": 102,
+          "end": 477,
+          "count": 2
         }
       ]
     }
@@ -68614,7 +68605,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-207": {
+  "additional-the-universal-house-of-justice-206": {
     "0": {
       "refs": [
         {
@@ -69189,7 +69180,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-218": {
+  "additional-the-universal-house-of-justice-217": {
     "0": {
       "refs": [
         {
@@ -69488,8 +69479,8 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-194": {
-    "0": {
+  "the-universal-house-of-justice-additional-messages-028": {
+    "5": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-turning-point-000",
@@ -69498,14 +69489,14 @@
       ],
       "parts": [
         {
-          "start": 6,
-          "end": 664,
+          "start": 316,
+          "end": 975,
           "count": 1
         }
       ]
     }
   },
-  "additional-the-universal-house-of-justice-216": {
+  "additional-the-universal-house-of-justice-215": {
     "0": {
       "refs": [
         {
@@ -69522,7 +69513,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-217": {
+  "additional-the-universal-house-of-justice-216": {
     "0": {
       "refs": [
         {
@@ -69727,7 +69718,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-219": {
+  "additional-the-universal-house-of-justice-218": {
     "0": {
       "refs": [
         {
@@ -69836,7 +69827,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-220": {
+  "additional-the-universal-house-of-justice-219": {
     "0": {
       "refs": [
         {
@@ -69881,7 +69872,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-221": {
+  "additional-the-universal-house-of-justice-220": {
     "0": {
       "refs": [
         {
@@ -69937,7 +69928,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-222": {
+  "additional-the-universal-house-of-justice-221": {
     "0": {
       "refs": [
         {
@@ -70003,7 +69994,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-223": {
+  "additional-the-universal-house-of-justice-222": {
     "0": {
       "refs": [
         {
@@ -70040,7 +70031,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-224": {
+  "additional-the-universal-house-of-justice-223": {
     "0": {
       "refs": [
         {
@@ -70057,7 +70048,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-225": {
+  "additional-the-universal-house-of-justice-224": {
     "0": {
       "refs": [
         {
@@ -70074,7 +70065,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-226": {
+  "additional-the-universal-house-of-justice-225": {
     "0": {
       "refs": [
         {
@@ -70106,7 +70097,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-227": {
+  "additional-the-universal-house-of-justice-226": {
     "0": {
       "refs": [
         {
@@ -70123,7 +70114,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-228": {
+  "additional-the-universal-house-of-justice-227": {
     "0": {
       "refs": [
         {
@@ -70140,7 +70131,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-229": {
+  "additional-the-universal-house-of-justice-228": {
     "0": {
       "refs": [
         {
@@ -70172,7 +70163,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-230": {
+  "additional-the-universal-house-of-justice-229": {
     "0": {
       "refs": [
         {
@@ -70245,7 +70236,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-231": {
+  "additional-the-universal-house-of-justice-230": {
     "0": {
       "refs": [
         {
@@ -70262,7 +70253,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-232": {
+  "additional-the-universal-house-of-justice-231": {
     "0": {
       "refs": [
         {
@@ -70279,7 +70270,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-233": {
+  "additional-the-universal-house-of-justice-232": {
     "0": {
       "refs": [
         {
@@ -70296,7 +70287,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-234": {
+  "additional-the-universal-house-of-justice-233": {
     "0": {
       "refs": [
         {
@@ -70313,7 +70304,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-235": {
+  "additional-the-universal-house-of-justice-234": {
     "0": {
       "refs": [
         {
@@ -70330,7 +70321,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-236": {
+  "additional-the-universal-house-of-justice-235": {
     "0": {
       "refs": [
         {
@@ -70347,7 +70338,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-237": {
+  "additional-the-universal-house-of-justice-236": {
     "0": {
       "refs": [
         {
@@ -70390,7 +70381,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-239": {
+  "additional-the-universal-house-of-justice-238": {
     "0": {
       "refs": [
         {
@@ -70407,7 +70398,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-240": {
+  "additional-the-universal-house-of-justice-239": {
     "0": {
       "refs": [
         {
@@ -70424,7 +70415,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-241": {
+  "additional-the-universal-house-of-justice-240": {
     "0": {
       "refs": [
         {
@@ -70441,7 +70432,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-242": {
+  "additional-the-universal-house-of-justice-241": {
     "0": {
       "refs": [
         {
@@ -70458,7 +70449,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-243": {
+  "additional-the-universal-house-of-justice-242": {
     "0": {
       "refs": [
         {
@@ -70475,7 +70466,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-245": {
+  "additional-the-universal-house-of-justice-244": {
     "0": {
       "refs": [
         {
@@ -70492,7 +70483,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-246": {
+  "additional-the-universal-house-of-justice-245": {
     "0": {
       "refs": [
         {
@@ -70509,7 +70500,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-247": {
+  "additional-the-universal-house-of-justice-246": {
     "0": {
       "refs": [
         {
@@ -70526,7 +70517,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-248": {
+  "additional-the-universal-house-of-justice-247": {
     "0": {
       "refs": [
         {
@@ -70557,7 +70548,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-249": {
+  "additional-the-universal-house-of-justice-248": {
     "0": {
       "refs": [
         {
@@ -70574,7 +70565,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-250": {
+  "additional-the-universal-house-of-justice-249": {
     "0": {
       "refs": [
         {
@@ -70591,7 +70582,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-251": {
+  "additional-the-universal-house-of-justice-250": {
     "0": {
       "refs": [
         {
@@ -70608,7 +70599,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-252": {
+  "additional-the-universal-house-of-justice-251": {
     "0": {
       "refs": [
         {
@@ -70711,7 +70702,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-253": {
+  "additional-the-universal-house-of-justice-252": {
     "0": {
       "refs": [
         {
@@ -70758,7 +70749,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-254": {
+  "additional-the-universal-house-of-justice-253": {
     "0": {
       "refs": [
         {
@@ -70775,7 +70766,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-255": {
+  "additional-the-universal-house-of-justice-254": {
     "0": {
       "refs": [
         {
@@ -70792,7 +70783,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-256": {
+  "additional-the-universal-house-of-justice-255": {
     "0": {
       "refs": [
         {
@@ -70809,7 +70800,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-257": {
+  "additional-the-universal-house-of-justice-256": {
     "0": {
       "refs": [
         {
@@ -70846,7 +70837,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-258": {
+  "additional-the-universal-house-of-justice-257": {
     "0": {
       "refs": [
         {
@@ -70934,7 +70925,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-259": {
+  "additional-the-universal-house-of-justice-258": {
     "0": {
       "refs": [
         {
@@ -70951,7 +70942,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-260": {
+  "additional-the-universal-house-of-justice-259": {
     "0": {
       "refs": [
         {
@@ -70968,7 +70959,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-261": {
+  "additional-the-universal-house-of-justice-260": {
     "0": {
       "refs": [
         {
@@ -70995,7 +70986,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-262": {
+  "additional-the-universal-house-of-justice-261": {
     "0": {
       "refs": [
         {
@@ -71017,7 +71008,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-263": {
+  "additional-the-universal-house-of-justice-262": {
     "0": {
       "refs": [
         {
@@ -71034,7 +71025,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-264": {
+  "additional-the-universal-house-of-justice-263": {
     "0": {
       "refs": [
         {
@@ -71080,7 +71071,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-265": {
+  "additional-the-universal-house-of-justice-264": {
     "0": {
       "refs": [
         {
@@ -71097,7 +71088,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-266": {
+  "additional-the-universal-house-of-justice-265": {
     "0": {
       "refs": [
         {
@@ -71128,7 +71119,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-195": {
+  "additional-the-universal-house-of-justice-194": {
     "0": {
       "refs": [
         {
@@ -71145,7 +71136,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-196": {
+  "additional-the-universal-house-of-justice-195": {
     "0": {
       "refs": [
         {
@@ -71162,7 +71153,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-197": {
+  "additional-the-universal-house-of-justice-196": {
     "0": {
       "refs": [
         {
@@ -71193,7 +71184,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-198": {
+  "additional-the-universal-house-of-justice-197": {
     "0": {
       "refs": [
         {
@@ -71259,7 +71250,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-199": {
+  "additional-the-universal-house-of-justice-198": {
     "0": {
       "refs": [
         {
@@ -71291,7 +71282,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-200": {
+  "additional-the-universal-house-of-justice-199": {
     "0": {
       "refs": [
         {
@@ -71313,7 +71304,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-201": {
+  "additional-the-universal-house-of-justice-200": {
     "0": {
       "refs": [
         {
@@ -71347,7 +71338,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-202": {
+  "additional-the-universal-house-of-justice-201": {
     "0": {
       "refs": [
         {
@@ -71364,7 +71355,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-203": {
+  "additional-the-universal-house-of-justice-202": {
     "0": {
       "refs": [
         {
@@ -71381,7 +71372,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-204": {
+  "additional-the-universal-house-of-justice-203": {
     "0": {
       "refs": [
         {
@@ -71413,7 +71404,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-205": {
+  "additional-the-universal-house-of-justice-204": {
     "0": {
       "refs": [
         {
@@ -71435,7 +71426,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-206": {
+  "additional-the-universal-house-of-justice-205": {
     "0": {
       "refs": [
         {
@@ -71472,7 +71463,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-208": {
+  "additional-the-universal-house-of-justice-207": {
     "0": {
       "refs": [
         {
@@ -71503,7 +71494,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-210": {
+  "additional-the-universal-house-of-justice-209": {
     "0": {
       "refs": [
         {
@@ -71520,7 +71511,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-211": {
+  "additional-the-universal-house-of-justice-210": {
     "0": {
       "refs": [
         {
@@ -71537,7 +71528,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-212": {
+  "additional-the-universal-house-of-justice-211": {
     "0": {
       "refs": [
         {
@@ -71554,7 +71545,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-214": {
+  "additional-the-universal-house-of-justice-213": {
     "0": {
       "refs": [
         {
@@ -71571,7 +71562,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-215": {
+  "additional-the-universal-house-of-justice-214": {
     "0": {
       "refs": [
         {
@@ -71707,6 +71698,23 @@
         {
           "start": 0,
           "end": 496,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-additional-messages-025": {
+    "6": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-000",
+          "paragraph": 224
+        }
+      ],
+      "parts": [
+        {
+          "start": 678,
+          "end": 743,
           "count": 1
         }
       ]
@@ -74859,6 +74867,21 @@
     }
   },
   "compilations-sanctity-nature-bahai-elections-000": {
+    "4": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-009",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 342,
+          "end": 411,
+          "count": 1
+        }
+      ]
+    },
     "30": {
       "refs": [
         {
@@ -77792,6 +77815,44 @@
       ]
     }
   },
+  "additional-other-000": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 29
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 262
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 355,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-185": {
+    "3": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-023",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 714,
+          "end": 853,
+          "count": 1
+        }
+      ]
+    }
+  },
   "bahaullah-kitab-i-aqdas-017": {
     "0": {
       "refs": [
@@ -78965,6 +79026,692 @@
       ]
     }
   },
+  "the-universal-house-of-justice-messages-077": {
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 52
+        },
+        {
+          "id": "ruhi8-002",
+          "paragraph": 53
+        },
+        {
+          "id": "ruhi8-002",
+          "paragraph": 54
+        },
+        {
+          "id": "ruhi8-002",
+          "paragraph": 55
+        },
+        {
+          "id": "ruhi8-002",
+          "paragraph": 127
+        }
+      ],
+      "parts": [
+        {
+          "start": 288,
+          "end": 475,
+          "count": 1
+        },
+        {
+          "start": 476,
+          "end": 748,
+          "count": 1
+        },
+        {
+          "start": 749,
+          "end": 982,
+          "count": 1
+        },
+        {
+          "start": 983,
+          "end": 1184,
+          "count": 1
+        },
+        {
+          "start": 1516,
+          "end": 1755,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 184,
+          "end": 364,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 38
+        },
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 48
+        },
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 777,
+          "end": 864,
+          "count": 1
+        },
+        {
+          "start": 1048,
+          "end": 1143,
+          "count": 1
+        },
+        {
+          "start": 1145,
+          "end": 1448,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 52
+        },
+        {
+          "id": "ruhi8-002",
+          "paragraph": 89
+        },
+        {
+          "id": "ruhi10-000",
+          "paragraph": 55
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 181,
+          "count": 1
+        },
+        {
+          "start": 589,
+          "end": 1021,
+          "count": 1
+        },
+        {
+          "start": 1021,
+          "end": 1420,
+          "count": 2
+        },
+        {
+          "start": 1420,
+          "end": 1744,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 67
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 77,
+          "count": 1
+        },
+        {
+          "start": 78,
+          "end": 137,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 78
+        },
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 86
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-006",
+          "paragraph": 8
+        },
+        {
+          "id": "ruhi10-000",
+          "paragraph": 63
+        }
+      ],
+      "parts": [
+        {
+          "start": 851,
+          "end": 1245,
+          "count": 1
+        },
+        {
+          "start": 1245,
+          "end": 1349,
+          "count": 3
+        },
+        {
+          "start": 1349,
+          "end": 1469,
+          "count": 1
+        },
+        {
+          "start": 1469,
+          "end": 1652,
+          "count": 2
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 60
+        },
+        {
+          "id": "ruhi10-000",
+          "paragraph": 65
+        }
+      ],
+      "parts": [
+        {
+          "start": 456,
+          "end": 1428,
+          "count": 1
+        },
+        {
+          "start": 1428,
+          "end": 1603,
+          "count": 2
+        },
+        {
+          "start": 1603,
+          "end": 1604,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "ruhi10-002",
+          "paragraph": 81
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1720,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "ruhi10-002",
+          "paragraph": 82
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1306,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-014",
+          "paragraph": 11
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-010",
+          "paragraph": 9
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 47
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 83
+        },
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 134
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 296,
+          "count": 1
+        },
+        {
+          "start": 324,
+          "end": 746,
+          "count": 4
+        },
+        {
+          "start": 746,
+          "end": 864,
+          "count": 2
+        },
+        {
+          "start": 864,
+          "end": 874,
+          "count": 1
+        },
+        {
+          "start": 874,
+          "end": 1123,
+          "count": 2
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "ruhi10-002",
+          "paragraph": 78
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 84
+        },
+        {
+          "id": "ruhi9-002",
+          "paragraph": 75
+        },
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 135
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 168,
+          "count": 2
+        },
+        {
+          "start": 168,
+          "end": 477,
+          "count": 3
+        },
+        {
+          "start": 477,
+          "end": 966,
+          "count": 1
+        },
+        {
+          "start": 967,
+          "end": 1264,
+          "count": 2
+        },
+        {
+          "start": 1264,
+          "end": 1621,
+          "count": 1
+        }
+      ]
+    },
+    "22": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 812,
+          "end": 1038,
+          "count": 1
+        }
+      ]
+    },
+    "24": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 26
+        },
+        {
+          "id": "ruhi9-002",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 115,
+          "end": 201,
+          "count": 1
+        },
+        {
+          "start": 860,
+          "end": 1237,
+          "count": 1
+        }
+      ]
+    },
+    "25": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 1001,
+          "end": 1151,
+          "count": 1
+        }
+      ]
+    },
+    "27": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 180
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 761,
+          "count": 1
+        }
+      ]
+    },
+    "28": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 181
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1978,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 182
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1200,
+          "count": 1
+        }
+      ]
+    },
+    "30": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 183
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1267,
+          "count": 1
+        }
+      ]
+    },
+    "31": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 184
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 784,
+          "count": 1
+        }
+      ]
+    },
+    "32": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-064",
+          "paragraph": 21
+        },
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 185
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1010,
+          "count": 1
+        },
+        {
+          "start": 1010,
+          "end": 1441,
+          "count": 2
+        },
+        {
+          "start": 1441,
+          "end": 1667,
+          "count": 1
+        }
+      ]
+    },
+    "33": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 186
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 704,
+          "count": 1
+        }
+      ]
+    },
+    "38": {
+      "refs": [
+        {
+          "id": "ruhi10-002",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 2215,
+          "count": 1
+        }
+      ]
+    },
+    "47": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 185
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 54
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 281
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 297,
+          "count": 2
+        },
+        {
+          "start": 297,
+          "end": 1062,
+          "count": 3
+        }
+      ]
+    },
+    "48": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1326,
+          "count": 1
+        }
+      ]
+    },
+    "49": {
+      "refs": [
+        {
+          "id": "ruhi9-002",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1392,
+          "count": 1
+        }
+      ]
+    },
+    "50": {
+      "refs": [
+        {
+          "id": "ruhi10-000",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1467,
+          "count": 1
+        }
+      ]
+    },
+    "51": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 99
+        },
+        {
+          "id": "ruhi10-000",
+          "paragraph": 11
+        },
+        {
+          "id": "ruhi9-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 920,
+          "count": 1
+        },
+        {
+          "start": 921,
+          "end": 1140,
+          "count": 1
+        },
+        {
+          "start": 1140,
+          "end": 2153,
+          "count": 2
+        }
+      ]
+    },
+    "53": {
+      "refs": [
+        {
+          "id": "ruhi10-001",
+          "paragraph": 42
+        },
+        {
+          "id": "ruhi9-002",
+          "paragraph": 72
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 817,
+          "count": 2
+        }
+      ]
+    },
+    "54": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 144
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 527,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-abdul-baha-312": {
     "0": {
       "refs": [
@@ -79153,6 +79900,21 @@
     }
   },
   "abdul-baha-tablets-divine-plan-009": {
+    "5": {
+      "refs": [
+        {
+          "id": "world-centre-20180503-000",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 132,
+          "end": 505,
+          "count": 1
+        }
+      ]
+    },
     "6": {
       "refs": [
         {
@@ -79796,6 +80558,270 @@
       ]
     }
   },
+  "the-universal-house-of-justice-messages-070": {
+    "8": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 49
+        },
+        {
+          "id": "ruhi10-000",
+          "paragraph": 1
+        },
+        {
+          "id": "ruhi10-000",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 623,
+          "count": 2
+        },
+        {
+          "start": 624,
+          "end": 1043,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "ruhi10-000",
+          "paragraph": 77
+        }
+      ],
+      "parts": [
+        {
+          "start": 283,
+          "end": 1188,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 13
+        },
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 3
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 453,
+          "count": 1
+        },
+        {
+          "start": 453,
+          "end": 600,
+          "count": 2
+        },
+        {
+          "start": 600,
+          "end": 602,
+          "count": 1
+        },
+        {
+          "start": 602,
+          "end": 1093,
+          "count": 2
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-012",
+          "paragraph": 7
+        },
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 6
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 48,
+          "count": 1
+        },
+        {
+          "start": 48,
+          "end": 52,
+          "count": 2
+        },
+        {
+          "start": 52,
+          "end": 114,
+          "count": 3
+        },
+        {
+          "start": 114,
+          "end": 264,
+          "count": 2
+        },
+        {
+          "start": 264,
+          "end": 384,
+          "count": 1
+        },
+        {
+          "start": 384,
+          "end": 446,
+          "count": 2
+        },
+        {
+          "start": 446,
+          "end": 723,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "ruhi10-002",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 282,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 110
+        },
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 61
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 639,
+          "count": 1
+        },
+        {
+          "start": 639,
+          "end": 706,
+          "count": 2
+        },
+        {
+          "start": 706,
+          "end": 1240,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 269,
+          "count": 1
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "ruhi10-000",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 40,
+          "end": 437,
+          "count": 1
+        }
+      ]
+    },
+    "25": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 287
+        }
+      ],
+      "parts": [
+        {
+          "start": 107,
+          "end": 945,
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-046",
+          "paragraph": 9
+        },
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 384
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 804,
+          "count": 2
+        },
+        {
+          "start": 1337,
+          "end": 1885,
+          "count": 2
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "ruhi5-000",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 786,
+          "end": 1299,
+          "count": 1
+        }
+      ]
+    }
+  },
   "the-universal-house-of-justice-messages-079": {
     "5": {
       "refs": [
@@ -80036,6 +81062,10 @@
           "paragraph": 62
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-004",
+          "paragraph": 9
+        },
+        {
           "id": "world-centre-higher-functioning-000",
           "paragraph": 23
         }
@@ -80043,7 +81073,17 @@
       "parts": [
         {
           "start": 481,
+          "end": 504,
+          "count": 1
+        },
+        {
+          "start": 504,
           "end": 575,
+          "count": 2
+        },
+        {
+          "start": 575,
+          "end": 576,
           "count": 1
         },
         {
@@ -80561,684 +81601,6 @@
       ]
     }
   },
-  "the-universal-house-of-justice-messages-077": {
-    "5": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 52
-        },
-        {
-          "id": "ruhi8-002",
-          "paragraph": 53
-        },
-        {
-          "id": "ruhi8-002",
-          "paragraph": 54
-        },
-        {
-          "id": "ruhi8-002",
-          "paragraph": 55
-        },
-        {
-          "id": "ruhi8-002",
-          "paragraph": 127
-        }
-      ],
-      "parts": [
-        {
-          "start": 288,
-          "end": 475,
-          "count": 1
-        },
-        {
-          "start": 476,
-          "end": 748,
-          "count": 1
-        },
-        {
-          "start": 749,
-          "end": 982,
-          "count": 1
-        },
-        {
-          "start": 983,
-          "end": 1184,
-          "count": 1
-        },
-        {
-          "start": 1516,
-          "end": 1755,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 57
-        }
-      ],
-      "parts": [
-        {
-          "start": 184,
-          "end": 364,
-          "count": 1
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 38
-        },
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 48
-        },
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 66
-        }
-      ],
-      "parts": [
-        {
-          "start": 777,
-          "end": 864,
-          "count": 1
-        },
-        {
-          "start": 1048,
-          "end": 1143,
-          "count": 1
-        },
-        {
-          "start": 1145,
-          "end": 1448,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 52
-        },
-        {
-          "id": "ruhi8-002",
-          "paragraph": 89
-        },
-        {
-          "id": "ruhi10-000",
-          "paragraph": 55
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 181,
-          "count": 1
-        },
-        {
-          "start": 589,
-          "end": 1021,
-          "count": 1
-        },
-        {
-          "start": 1021,
-          "end": 1420,
-          "count": 2
-        },
-        {
-          "start": 1420,
-          "end": 1744,
-          "count": 1
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 67
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 77,
-          "count": 1
-        },
-        {
-          "start": 78,
-          "end": 137,
-          "count": 1
-        }
-      ]
-    },
-    "13": {
-      "refs": [
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 78
-        },
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 86
-        },
-        {
-          "id": "ruhi10-000",
-          "paragraph": 63
-        }
-      ],
-      "parts": [
-        {
-          "start": 851,
-          "end": 1245,
-          "count": 1
-        },
-        {
-          "start": 1245,
-          "end": 1349,
-          "count": 2
-        },
-        {
-          "start": 1349,
-          "end": 1469,
-          "count": 1
-        },
-        {
-          "start": 1469,
-          "end": 1652,
-          "count": 2
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 60
-        },
-        {
-          "id": "ruhi10-000",
-          "paragraph": 65
-        }
-      ],
-      "parts": [
-        {
-          "start": 456,
-          "end": 1428,
-          "count": 1
-        },
-        {
-          "start": 1428,
-          "end": 1603,
-          "count": 2
-        },
-        {
-          "start": 1603,
-          "end": 1604,
-          "count": 1
-        }
-      ]
-    },
-    "18": {
-      "refs": [
-        {
-          "id": "ruhi10-002",
-          "paragraph": 81
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1720,
-          "count": 1
-        }
-      ]
-    },
-    "19": {
-      "refs": [
-        {
-          "id": "ruhi10-002",
-          "paragraph": 82
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1306,
-          "count": 1
-        }
-      ]
-    },
-    "20": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 170
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 47
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 83
-        },
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 134
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 296,
-          "count": 1
-        },
-        {
-          "start": 324,
-          "end": 746,
-          "count": 3
-        },
-        {
-          "start": 746,
-          "end": 864,
-          "count": 2
-        },
-        {
-          "start": 864,
-          "end": 874,
-          "count": 1
-        },
-        {
-          "start": 874,
-          "end": 1123,
-          "count": 2
-        }
-      ]
-    },
-    "21": {
-      "refs": [
-        {
-          "id": "ruhi10-002",
-          "paragraph": 78
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 84
-        },
-        {
-          "id": "ruhi9-002",
-          "paragraph": 75
-        },
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 135
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 168,
-          "count": 2
-        },
-        {
-          "start": 168,
-          "end": 477,
-          "count": 3
-        },
-        {
-          "start": 477,
-          "end": 966,
-          "count": 1
-        },
-        {
-          "start": 967,
-          "end": 1264,
-          "count": 2
-        },
-        {
-          "start": 1264,
-          "end": 1621,
-          "count": 1
-        }
-      ]
-    },
-    "22": {
-      "refs": [
-        {
-          "id": "world-centre-higher-functioning-000",
-          "paragraph": 21
-        }
-      ],
-      "parts": [
-        {
-          "start": 812,
-          "end": 1038,
-          "count": 1
-        }
-      ]
-    },
-    "24": {
-      "refs": [
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 26
-        },
-        {
-          "id": "ruhi9-002",
-          "paragraph": 60
-        }
-      ],
-      "parts": [
-        {
-          "start": 115,
-          "end": 201,
-          "count": 1
-        },
-        {
-          "start": 860,
-          "end": 1237,
-          "count": 1
-        }
-      ]
-    },
-    "25": {
-      "refs": [
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 88
-        }
-      ],
-      "parts": [
-        {
-          "start": 1001,
-          "end": 1151,
-          "count": 1
-        }
-      ]
-    },
-    "27": {
-      "refs": [
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 180
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 761,
-          "count": 1
-        }
-      ]
-    },
-    "28": {
-      "refs": [
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 181
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1978,
-          "count": 1
-        }
-      ]
-    },
-    "29": {
-      "refs": [
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 182
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1200,
-          "count": 1
-        }
-      ]
-    },
-    "30": {
-      "refs": [
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 183
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1267,
-          "count": 1
-        }
-      ]
-    },
-    "31": {
-      "refs": [
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 184
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 784,
-          "count": 1
-        }
-      ]
-    },
-    "32": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-064",
-          "paragraph": 21
-        },
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 185
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1010,
-          "count": 1
-        },
-        {
-          "start": 1010,
-          "end": 1441,
-          "count": 2
-        },
-        {
-          "start": 1441,
-          "end": 1667,
-          "count": 1
-        }
-      ]
-    },
-    "33": {
-      "refs": [
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 186
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 704,
-          "count": 1
-        }
-      ]
-    },
-    "38": {
-      "refs": [
-        {
-          "id": "ruhi10-002",
-          "paragraph": 1
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 2215,
-          "count": 1
-        }
-      ]
-    },
-    "47": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 185
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 54
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 281
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 297,
-          "count": 2
-        },
-        {
-          "start": 297,
-          "end": 1062,
-          "count": 3
-        }
-      ]
-    },
-    "48": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 35
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1326,
-          "count": 1
-        }
-      ]
-    },
-    "49": {
-      "refs": [
-        {
-          "id": "ruhi9-002",
-          "paragraph": 36
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1392,
-          "count": 1
-        }
-      ]
-    },
-    "50": {
-      "refs": [
-        {
-          "id": "ruhi10-000",
-          "paragraph": 10
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1467,
-          "count": 1
-        }
-      ]
-    },
-    "51": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 99
-        },
-        {
-          "id": "ruhi10-000",
-          "paragraph": 11
-        },
-        {
-          "id": "ruhi9-001",
-          "paragraph": 8
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 920,
-          "count": 1
-        },
-        {
-          "start": 921,
-          "end": 1140,
-          "count": 1
-        },
-        {
-          "start": 1140,
-          "end": 2153,
-          "count": 2
-        }
-      ]
-    },
-    "53": {
-      "refs": [
-        {
-          "id": "ruhi10-001",
-          "paragraph": 42
-        },
-        {
-          "id": "ruhi9-002",
-          "paragraph": 72
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 817,
-          "count": 2
-        }
-      ]
-    },
-    "54": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 144
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 527,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-shoghi-effendi-191": {
     "0": {
       "refs": [
@@ -81412,6 +81774,38 @@
       ]
     }
   },
+  "the-universal-house-of-justice-additional-messages-013": {
+    "5": {
+      "refs": [
+        {
+          "id": "world-centre-frontiers-learning-000",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 458,
+          "end": 780,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 140
+        }
+      ],
+      "parts": [
+        {
+          "start": 546,
+          "end": 930,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-the-universal-house-of-justice-169": {
     "1": {
       "refs": [
@@ -81446,251 +81840,33 @@
       ]
     }
   },
-  "the-universal-house-of-justice-messages-070": {
-    "8": {
-      "refs": [
-        {
-          "id": "world-centre-higher-functioning-000",
-          "paragraph": 49
-        },
-        {
-          "id": "ruhi10-000",
-          "paragraph": 1
-        },
-        {
-          "id": "ruhi10-000",
-          "paragraph": 3
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 623,
-          "count": 2
-        },
-        {
-          "start": 624,
-          "end": 1043,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "ruhi10-000",
-          "paragraph": 77
-        }
-      ],
-      "parts": [
-        {
-          "start": 283,
-          "end": 1188,
-          "count": 1
-        }
-      ]
-    },
-    "13": {
+  "the-universal-house-of-justice-additional-messages-012": {
+    "7": {
       "refs": [
         {
           "id": "world-centre-frontiers-learning-000",
-          "paragraph": 13
-        },
-        {
-          "id": "world-centre-higher-functioning-000",
-          "paragraph": 3
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 15
+          "paragraph": 100
         }
       ],
       "parts": [
         {
-          "start": 0,
-          "end": 453,
+          "start": 466,
+          "end": 539,
           "count": 1
-        },
-        {
-          "start": 453,
-          "end": 600,
-          "count": 2
-        },
-        {
-          "start": 600,
-          "end": 602,
-          "count": 1
-        },
-        {
-          "start": 602,
-          "end": 1093,
-          "count": 2
         }
       ]
     },
-    "14": {
+    "12": {
       "refs": [
         {
           "id": "world-centre-frontiers-learning-000",
-          "paragraph": 6
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 16
+          "paragraph": 71
         }
       ],
       "parts": [
         {
-          "start": 0,
-          "end": 48,
-          "count": 1
-        },
-        {
-          "start": 48,
-          "end": 264,
-          "count": 2
-        },
-        {
-          "start": 264,
-          "end": 384,
-          "count": 1
-        },
-        {
-          "start": 384,
-          "end": 446,
-          "count": 2
-        },
-        {
-          "start": 446,
-          "end": 723,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "ruhi10-002",
-          "paragraph": 17
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 282,
-          "count": 1
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 110
-        },
-        {
-          "id": "world-centre-higher-functioning-000",
-          "paragraph": 61
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 639,
-          "count": 1
-        },
-        {
-          "start": 639,
-          "end": 706,
-          "count": 2
-        },
-        {
-          "start": 706,
-          "end": 1240,
-          "count": 1
-        }
-      ]
-    },
-    "19": {
-      "refs": [
-        {
-          "id": "world-centre-frontiers-learning-000",
-          "paragraph": 14
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 269,
-          "count": 1
-        }
-      ]
-    },
-    "21": {
-      "refs": [
-        {
-          "id": "ruhi10-000",
-          "paragraph": 64
-        }
-      ],
-      "parts": [
-        {
-          "start": 40,
-          "end": 437,
-          "count": 1
-        }
-      ]
-    },
-    "25": {
-      "refs": [
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 287
-        }
-      ],
-      "parts": [
-        {
-          "start": 107,
-          "end": 945,
-          "count": 1
-        }
-      ]
-    },
-    "26": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-046",
-          "paragraph": 9
-        },
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 384
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 804,
-          "count": 2
-        },
-        {
-          "start": 1337,
-          "end": 1885,
-          "count": 2
-        }
-      ]
-    },
-    "29": {
-      "refs": [
-        {
-          "id": "ruhi5-000",
-          "paragraph": 25
-        }
-      ],
-      "parts": [
-        {
-          "start": 786,
-          "end": 1299,
+          "start": 538,
+          "end": 739,
           "count": 1
         }
       ]
@@ -81762,6 +81938,182 @@
         {
           "start": 868,
           "end": 1103,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-067": {
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 157
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 727,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 158
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1173,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "ruhi10-002",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 609,
+          "end": 1013,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-011",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 1086,
+          "end": 1185,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 128
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 160
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 39
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 203
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 707,
+          "count": 2
+        },
+        {
+          "start": 707,
+          "end": 790,
+          "count": 2
+        },
+        {
+          "start": 790,
+          "end": 791,
+          "count": 2
+        },
+        {
+          "start": 791,
+          "end": 858,
+          "count": 2
+        },
+        {
+          "start": 858,
+          "end": 961,
+          "count": 2
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 129
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 26
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 161
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 27,
+          "count": 2
+        },
+        {
+          "start": 27,
+          "end": 720,
+          "count": 2
+        },
+        {
+          "start": 720,
+          "end": 1643,
+          "count": 2
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 162
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 283,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 44
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-000",
+          "paragraph": 163
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 426,
           "count": 1
         }
       ]
@@ -81923,6 +82275,23 @@
         {
           "start": 547,
           "end": 768,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-additional-tablets-extracts-talks-002": {
+    "0": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-007",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 512,
+          "end": 626,
           "count": 1
         }
       ]
@@ -84355,182 +84724,6 @@
       ]
     }
   },
-  "the-universal-house-of-justice-messages-067": {
-    "4": {
-      "refs": [
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 157
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 727,
-          "count": 1
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 158
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1173,
-          "count": 1
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "ruhi10-002",
-          "paragraph": 58
-        }
-      ],
-      "parts": [
-        {
-          "start": 609,
-          "end": 1013,
-          "count": 1
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 161
-        }
-      ],
-      "parts": [
-        {
-          "start": 1086,
-          "end": 1185,
-          "count": 1
-        }
-      ]
-    },
-    "11": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 128
-        },
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 160
-        },
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 39
-        },
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 203
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 707,
-          "count": 2
-        },
-        {
-          "start": 707,
-          "end": 790,
-          "count": 2
-        },
-        {
-          "start": 790,
-          "end": 791,
-          "count": 2
-        },
-        {
-          "start": 791,
-          "end": 858,
-          "count": 2
-        },
-        {
-          "start": 858,
-          "end": 961,
-          "count": 2
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 129
-        },
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 26
-        },
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 161
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 27,
-          "count": 2
-        },
-        {
-          "start": 27,
-          "end": 720,
-          "count": 2
-        },
-        {
-          "start": 720,
-          "end": 1643,
-          "count": 2
-        }
-      ]
-    },
-    "13": {
-      "refs": [
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 162
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 283,
-          "count": 1
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 44
-        },
-        {
-          "id": "compilations-institution-mashriqul-adhkar-000",
-          "paragraph": 163
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 426,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-the-universal-house-of-justice-139": {
     "0": {
       "refs": [
@@ -84733,6 +84926,232 @@
         {
           "start": 296,
           "end": 488,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-additional-messages-011": {
+    "7": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 148
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 823,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 150
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 886,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 158
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 959,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 159
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1513,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 161
+        },
+        {
+          "id": "ruhi5-001",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1390,
+          "count": 1
+        },
+        {
+          "start": 1390,
+          "end": 1681,
+          "count": 2
+        },
+        {
+          "start": 1681,
+          "end": 1892,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 163
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1284,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 165
+        },
+        {
+          "id": "ruhi9-002",
+          "paragraph": 30
+        },
+        {
+          "id": "ruhi5-000",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 726,
+          "count": 2
+        },
+        {
+          "start": 726,
+          "end": 1058,
+          "count": 3
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 166
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1513,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 167
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 642,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-additional-messages-010": {
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 169
+        }
+      ],
+      "parts": [
+        {
+          "start": 693,
+          "end": 1425,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "ruhi5-000",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 98,
+          "end": 649,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 170
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1450,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 172
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1939,
           "count": 1
         }
       ]
@@ -85411,7 +85830,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-019": {
+  "abdul-baha-additional-tablets-extracts-talks-035": {
     "0": {
       "refs": [
         {
@@ -86422,6 +86841,38 @@
       ]
     }
   },
+  "the-universal-house-of-justice-additional-messages-004": {
+    "10": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 353,
+          "end": 423,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "world-centre-higher-functioning-000",
+          "paragraph": 127
+        }
+      ],
+      "parts": [
+        {
+          "start": 878,
+          "end": 1016,
+          "count": 1
+        }
+      ]
+    }
+  },
   "the-universal-house-of-justice-messages-208": {
     "11": {
       "refs": [
@@ -86975,7 +87426,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-013": {
+  "abdul-baha-additional-tablets-extracts-talks-029": {
     "0": {
       "refs": [
         {
@@ -88366,6 +88817,97 @@
       ]
     }
   },
+  "the-universal-house-of-justice-messages-029": {
+    "4": {
+      "refs": [
+        {
+          "id": "world-centre-20180503-000",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 310,
+          "end": 780,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "world-centre-20180503-000",
+          "paragraph": 20
+        },
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 194
+        }
+      ],
+      "parts": [
+        {
+          "start": 678,
+          "end": 1934,
+          "count": 1
+        },
+        {
+          "start": 1934,
+          "end": 2050,
+          "count": 2
+        },
+        {
+          "start": 2050,
+          "end": 2299,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "world-centre-20180503-000",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 240,
+          "end": 801,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 163
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 921,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "world-centre-20180503-000",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 1238,
+          "end": 1298,
+          "count": 1
+        }
+      ]
+    }
+  },
   "abdul-baha-promulgation-universal-peace-010": {
     "3": {
       "refs": [
@@ -88473,7 +89015,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-076": {
+  "abdul-baha-additional-tablets-extracts-talks-092": {
     "0": {
       "refs": [
         {
@@ -89636,6 +90178,23 @@
       ]
     }
   },
+  "the-universal-house-of-justice-additional-messages-007": {
+    "7": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 49,
+          "end": 859,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-shoghi-effendi-294": {
     "0": {
       "refs": [
@@ -89815,6 +90374,23 @@
         {
           "start": 6,
           "end": 351,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-additional-messages-015": {
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi9-002",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 271,
+          "end": 553,
           "count": 1
         }
       ]
@@ -90833,6 +91409,23 @@
       ]
     }
   },
+  "the-universal-house-of-justice-additional-messages-014": {
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 136
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 2065,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-the-universal-house-of-justice-093": {
     "0": {
       "refs": [
@@ -91025,6 +91618,23 @@
       ]
     }
   },
+  "the-universal-house-of-justice-additional-messages-020": {
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-social-action-000",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 372,
+          "end": 1077,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-the-universal-house-of-justice-099": {
     "0": {
       "refs": [
@@ -91054,38 +91664,6 @@
         {
           "start": 0,
           "end": 1237,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-029": {
-    "6": {
-      "refs": [
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 194
-        }
-      ],
-      "parts": [
-        {
-          "start": 678,
-          "end": 2299,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "compilations-social-action-000",
-          "paragraph": 163
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 921,
           "count": 1
         }
       ]
@@ -91953,7 +92531,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-089": {
+  "abdul-baha-additional-tablets-extracts-talks-105": {
     "0": {
       "refs": [
         {
@@ -92471,7 +93049,7 @@
       ]
     }
   },
-  "additional-abdul-baha-118": {
+  "abdul-baha-additional-tablets-extracts-talks-000": {
     "0": {
       "refs": [
         {
@@ -94552,18 +95130,353 @@
       ]
     }
   },
-  "additional-other-000": {
-    "0": {
+  "the-universal-house-of-justice-additional-messages-023": {
+    "4": {
       "refs": [
         {
           "id": "compilations-universal-house-of-justice-compilation-000",
-          "paragraph": 262
+          "paragraph": 239
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 355,
+          "end": 835,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 240
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 488,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 241
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 944,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 242
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1520,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 243
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 506,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 245
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 211,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 246
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 165,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 249
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1271,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 250
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 992,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 251
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 584,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 252
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1088,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 253
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 380,
+          "count": 1
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 254
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 331,
+          "count": 1
+        }
+      ]
+    },
+    "22": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 255
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 343,
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 259
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 698,
+          "count": 1
+        }
+      ]
+    },
+    "27": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 260
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 214,
+          "count": 1
+        },
+        {
+          "start": 221,
+          "end": 695,
+          "count": 1
+        }
+      ]
+    },
+    "28": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 261
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 695,
+          "count": 1
+        }
+      ]
+    },
+    "31": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 263
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1001,
+          "count": 1
+        }
+      ]
+    },
+    "32": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 264
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 692,
+          "count": 1
+        }
+      ]
+    },
+    "33": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 265
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1223,
+          "count": 1
+        }
+      ]
+    },
+    "35": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 266
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 920,
+          "count": 1
+        }
+      ]
+    },
+    "36": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 267
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 645,
+          "count": 1
+        }
+      ]
+    },
+    "40": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-000",
+          "paragraph": 271
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 585,
           "count": 1
         }
       ]
@@ -94710,8 +95623,8 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-304": {
-    "0": {
+  "the-universal-house-of-justice-additional-messages-006": {
+    "9": {
       "refs": [
         {
           "id": "compilations-universal-house-of-justice-compilation-000",
@@ -94970,7 +95883,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-031": {
+  "abdul-baha-additional-tablets-extracts-talks-047": {
     "0": {
       "refs": [
         {
@@ -94987,7 +95900,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-032": {
+  "abdul-baha-additional-tablets-extracts-talks-048": {
     "0": {
       "refs": [
         {
@@ -95334,7 +96247,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-082": {
+  "abdul-baha-additional-tablets-extracts-talks-098": {
     "0": {
       "refs": [
         {
@@ -96190,7 +97103,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-011": {
+  "abdul-baha-additional-tablets-extracts-talks-027": {
     "0": {
       "refs": [
         {
@@ -96207,7 +97120,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-012": {
+  "abdul-baha-additional-tablets-extracts-talks-028": {
     "0": {
       "refs": [
         {

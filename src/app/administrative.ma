@@ -29,7 +29,14 @@
         'the-universal-house-of-justice-messages-116',
         'the-universal-house-of-justice-messages-133',
         'the-universal-house-of-justice-messages-014',
-        'the-universal-house-of-justice-messages-079'
+        'the-universal-house-of-justice-messages-079',
+        'the-universal-house-of-justice-additional-messages-003',
+        'the-universal-house-of-justice-additional-messages-004',
+        'the-universal-house-of-justice-additional-messages-012',
+        'the-universal-house-of-justice-messages-070',
+        'the-universal-house-of-justice-messages-122',
+        'the-universal-house-of-justice-additional-messages-018',
+        'the-universal-house-of-justice-messages-188',
       ])
     ],
     [
@@ -47,7 +54,8 @@
         'the-universal-house-of-justice-turning-point-002',
         'the-universal-house-of-justice-turning-point-003',
         'the-universal-house-of-justice-turning-point-004',
-        'the-universal-house-of-justice-turning-point-005'
+        'the-universal-house-of-justice-turning-point-005',
+        'world-centre-20180503-000'
       ])
     ],
   ],

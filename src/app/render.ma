@@ -1,6 +1,6 @@
 [(doc, index):
   {
-    'baseLevel': 1,
+    'baseLevel': '1',
     'levelNumbers': '',
     'paraNumbers': '1',
     'color': colors.'link'.(doc.'author') | colors.'link'.'The World Centre',
@@ -51,7 +51,7 @@
                   '* * *'
                 ],
                 ? p.'section': {
-                  'level': p.'section'.'length' + baseLevel,
+                  'level': length(p.'section') + baseLevel,
                   : [
                     'size': 25 - (level * 2),
                     'uppercase': level = 1,
@@ -66,7 +66,7 @@
                     },
                     '{
                       level < 4 & levelNumbers &
-                      '{p.'section'->join('.')}{level = 1 & '.'}'
+                      '{p.'section'->join('.')}{length(p.'section') = 1 & '.'}'
                     } {p.'title'}'
                   ],
                 },

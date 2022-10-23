@@ -1004,6 +1004,10 @@ export const files = {
         years: authorYears["‘Abdu’l‑Bahá"],
         collection: true,
       }),
+      ["Ibn‑i‑Abhar,\n\nupon", "Ibn‑i‑Abhar, upon"],
+      [/^Mullá Muḥammad‑Káẓim, known.*/m, ""],
+      [/^The power of Shí‘ih divines to issue.*/m, ""],
+      [/^One of the distinguished believers.*/m, ""],
       [/^Sa‘dí\.$/m, ""],
       [/^Robert Turner\.$/m, ""],
       [/^Kitáb‑i‑Aqdas, paragraph 129\.$/m, ""],
@@ -1118,6 +1122,14 @@ export const files = {
       ],
       [
         /^I am lost, O Love, possessed[\s\S]*fool am I, in all the earth\.$/gm,
+        (s) =>
+          s
+            .split("\n\n")
+            .map((a) => `> ${a}`)
+            .join("\n"),
+      ],
+      [
+        /^Glad tidings! The light of[\s\S]*Truth hath shone forth!$/gm,
         (s) =>
           s
             .split("\n\n")
@@ -1459,6 +1471,7 @@ export const files = {
         collection: true,
       }),
       [/^—‘Abdu’l‑Bahá$/gm, "#"],
+      prefix("He is God.\n\nO ye children of", "\n\n#\n\n"),
       prefix(/^He is the All‑Glorious./m, "\n\n#\n\n"),
     ],
   },
@@ -1662,10 +1675,10 @@ export const files = {
               "Riḍván 154": "Riḍván 1997",
               "Riḍván 155": "Riḍván 1998",
               "Riḍván 156": "Riḍván 1999",
+              "Naw‑Rúz 177": "Naw‑Rúz 2020",
               "Bahá 154 B.E.": "1 March 1997",
             }[title] || title;
           const config = {
-            author: "The Universal House of Justice",
             years: getYearsFromId(id),
             summary,
           };
