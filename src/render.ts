@@ -135,7 +135,9 @@ const updateNode = (node, data) => {
 };
 
 export default (root) => (data) => {
-  updateChildren(root, [updateNode(root.childNodes[0], resolve(data.index))]);
+  updateChildren(root, [
+    updateNode(root.childNodes[0], resolve(resolve(data).index)),
+  ]);
 };
 
 // const attributesMap = {

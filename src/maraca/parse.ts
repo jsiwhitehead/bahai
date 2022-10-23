@@ -403,7 +403,8 @@ const compile = (node, block = false) => {
       );
       const last = items.pop();
       return items.reduceRight(
-        (res, n) => `${compile(n.test)} ? ${compile(n.value)} : ${res}`,
+        (res, n) =>
+          `toTruthy(${compile(n.test)}) ? ${compile(n.value)} : ${res}`,
         compile(last.value)
       );
     }

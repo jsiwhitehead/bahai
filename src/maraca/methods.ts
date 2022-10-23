@@ -2,8 +2,9 @@ import { reactiveFunc, resolve } from "reactivejs";
 
 import { mapObject, toNumber } from "./utils";
 
-const toTruthy = (v) =>
-  [null, undefined, false, ""].includes(v) ? "" : "true";
+const toTruthy = reactiveFunc((v) =>
+  [null, undefined, false, ""].includes(resolve(v)) ? "" : "true"
+);
 
 export const createBlock = (value, other?) => {
   if (Array.isArray(value)) {
@@ -257,4 +258,13 @@ const operation = reactiveFunc(($op, ...$args) => {
   }
 });
 
-export default { apply, operation, map, filter, includes, some, every };
+export default {
+  apply,
+  operation,
+  toTruthy,
+  map,
+  filter,
+  includes,
+  some,
+  every,
+};
