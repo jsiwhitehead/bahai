@@ -155,7 +155,7 @@
                   ]
                 ]
               },
-              ...(quotesMap.(doc.'id')?.(i - 1)?.'refs' | [])->map.[
+              ...'' & (quotesMap.(doc.'id')?.(i - 1)?.'refs' | [])->map.[
                 r: [
                   'size': 16,
                   'italic': 'true',

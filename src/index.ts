@@ -82,6 +82,8 @@ const toUrl = (s) =>
     .replace(/[^\w-]/g, "")
     .toLowerCase();
 
+const documentsList = Object.keys(documents).map((k) => documents[k]);
+
 maraca(
   {
     sortIds: (ids) =>
@@ -115,6 +117,29 @@ maraca(
       {}
     ),
     documents,
+    findDocuments: (author, ignore) => {
+      const ignoreFlat = ignore.flatMap((x) => x);
+      return documentsList
+        .filter(
+          (d) =>
+            d.author === author &&
+            d.type !== "Prayer" &&
+            !ignoreFlat.includes(d.id)
+        )
+        .sort((a, b) => {
+          const x = Object.keys(quotes[a.id] || {}).flatMap((k) =>
+            quotes[a.id][k].parts.map((p) => p.count)
+          );
+          const y = Object.keys(quotes[b.id] || {}).flatMap((k) =>
+            quotes[b.id][k].parts.map((p) => p.count)
+          );
+          return (
+            Math.max(...y) - Math.max(...x) ||
+            y.reduce((res, n) => res + n, 0) - x.reduce((res, n) => res + n, 0)
+          );
+        });
+    },
+    documentsList: Object.keys(documents).map((k) => documents[k]),
     quotesMap: quotes,
     topQuotes: Object.keys(quotes)
       .flatMap((id) =>

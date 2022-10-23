@@ -48,6 +48,25 @@
           ]}{documents.k.'translated' & ' ({documents.k.'translated'})'} »'
         ],
       }]
-    ]
+    ],
+    [
+      'size': 40,
+      'bold': 'true',
+      'underline': 'true',
+      'align': 'center',
+      'Further Bahá’u’lláh',
+    ],
+    [
+      'stack': 15,
+      ...findDocuments('Bahá’u’lláh', items)->map.[doc: [
+        'color': 'blue',
+        'underline': hover,
+        'link': ['doc', doc.'id'],
+        '{[
+          ...doc.'path',
+          doc.'title' | (doc.'item' & '#{doc.'item'}'),
+        ]->filter()->unique->join(', ')}{doc.'translated' & ' ({doc.'translated'})'} ({length(doc.'paragraphs')}) »',
+      ]]
+    ],
   ],
 }
