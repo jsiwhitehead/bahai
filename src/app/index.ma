@@ -2,7 +2,6 @@
   'px': [n ? +n: '{n}px', x: x | 0],
   *'render': [
     [
-      'hover':=,
       ...:values,
       ...items,
     ]: {
@@ -10,6 +9,7 @@
       'line': values.'line' | 1.5,
       'lineHeight': { ? line > 3 : line, : line * size },
       'gap': (lineHeight - size) * 0.5 + 1,
+      'hover': values.'hover',
       'filtered': items->filter(),
       'nextInline': values.'inline' | filtered->some.[[...x]: '', x: 'true'],
       'content':

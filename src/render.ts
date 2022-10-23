@@ -31,29 +31,16 @@ const print = (x, space?) =>
     .replace(/"__undefined__"/g, "undefined")
     .replace(/"__NaN__"/g, "NaN");
 
-const reflowCSS = [
-  "display",
-  "visibility",
-  "padding",
-  "margin",
-  "width",
-  "height",
-  "font-size",
-  "top",
-  "left",
-  "bottom",
-  "right",
-  "float",
-];
-
 const applyUpdate = (node, ref, values, style = false) => {
   const prev = node[`__${ref}`] || {};
   for (const key in { ...prev, ...values }) {
-    if (style) {
-      node.style[key] = values[key] || null;
-    } else {
-      if (values[key] === null || values[key] === undefined) delete node[key];
-      else node[key] = values[key];
+    if ((values[key] || "") !== (prev[key] || "")) {
+      if (style) {
+        node.style[key] = values[key] || null;
+      } else {
+        if (values[key] === null || values[key] === undefined) delete node[key];
+        else node[key] = values[key];
+      }
     }
   }
   node[`__${ref}`] = values;
@@ -88,6 +75,7 @@ const updateNode = (node, data) => {
 
   effect(() => {
     const { style: dataStyle = {}, ...dataValues } = data.values;
+
     const values = resolve(dataValues, true);
     const setters = Object.fromEntries(
       Object.entries<any>(data.values)
@@ -103,24 +91,13 @@ const updateNode = (node, data) => {
 
     const styles = resolve(createBlock(resolve(dataStyle)).values);
     const style = Object.fromEntries(
-      Object.entries(styles)
-        .filter(([key]) => !reflowCSS.some((k) => key.startsWith(k)))
-        .map(([key, value]) => [kebabToCamel(key), resolve(value)])
+      Object.entries(styles).map(([key, value]) => [
+        kebabToCamel(key),
+        resolve(value),
+      ])
     );
     applyUpdate(next, "styles", style, true);
-  }, "style");
-
-  effect(() => {
-    const styles = resolve(
-      createBlock(resolve(data.values.style || {})).values
-    );
-    const style = Object.fromEntries(
-      Object.entries(styles)
-        .filter(([key]) => reflowCSS.some((k) => key.startsWith(k)))
-        .map(([key, value]) => [kebabToCamel(key), resolve(value)])
-    );
-    applyUpdate(next, "reflow", style, true);
-  }, "reflow");
+  }, "node");
 
   effect(() => {
     updateChildren(
