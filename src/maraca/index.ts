@@ -11,6 +11,6 @@ const compile = (source) => {
   return mapObject(source, compile);
 };
 
-export default (library, source, update) => {
-  run({ ...library, ...methods }, compile(source), update);
+export default (library, source, update?) => {
+  return run({ ...library, ...methods }, compile(source), update);
 };
