@@ -16,7 +16,6 @@
       'pad': 10,
       'fill': { ? active | hover: 'white', : '#ddd' },
       'round': ['left': 10],
-      'bold': 'true',
       'underline': active,
       'link': [toUrl(label)],
       label,

@@ -91,7 +91,7 @@
                     }
                   ],
                   {
-                    'refText': getRef(doc.'paragraphs', i - 1),
+                    'refText': getRef(doc.'paragraphs', i),
                     : refText & [
                       'size': 16, 
                       'italic': 'true',
@@ -137,7 +137,7 @@
                     'clear': 'both',
                     'text-align-last': p.'type' & 'center',
                   ],
-                  ...fillParts(quotesMap.(doc.'id')?.(i)?.'parts', p.'text')->map.[
+                  ...fillParts(quotesMap.(doc.'id')?.(i)?.'parts', p.'text', '', p.'quotes')->map.[
                     (part, i): {
                       'strength': 240 - part.'count' * 10,
                       'fill': part.'count' > 0 & 'rgb(255, {strength}, {strength})',
@@ -145,6 +145,7 @@
                       : {
                         ? p.'index' = 1 & i = 1: [
                           'fill': fill,
+                          'bold': part.'quote',
                           'size': 17 * 3,
                           'line': 1,
                           'color': color,
@@ -155,6 +156,7 @@
                         ],
                         : [
                           'fill': fill,
+                          'bold': part.'quote',
                           'pad': [2.5, 0],
                           text,
                         ],

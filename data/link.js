@@ -231,10 +231,10 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
       });
       doc.paragraphs.forEach((para, index) => {
         if (!para.base.id) {
-          for (const text of [
+          const inlineQuotes = [
             ...para.text.split(/“([^”]+)”/g).filter((_, i) => i % 2 === 1),
             ...para.text.split(/‘([^’]+)’/g).filter((_, i) => i % 2 === 1),
-          ]) {
+          ].map((text) => {
             const parts = text.split(/\s*(\. \. \.|\[[^\]]*\])\s*/g);
             const simplified = parts.map((s) => simplifyText(s));
             if (simplified.join("").length >= 50) {
@@ -243,10 +243,65 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
                 const allPara = source.paragraphs.findIndex((p) =>
                   simplified.every((s) => p.simplified.join("").includes(s))
                 );
-                getQuotePara(doc.id, index, simplified, parts, source, allPara);
+                const {
+                  id,
+                  paragraphs: [paragraph],
+                } = getQuotePara(
+                  doc.id,
+                  index,
+                  simplified,
+                  parts,
+                  source,
+                  allPara
+                ).base;
+                const start = para.text.indexOf(text);
+                para.base.quotes = para.base.quotes || [];
+                para.base.quotes.push({
+                  id,
+                  paragraph,
+                  start,
+                  end: start + text.length,
+                });
+                return source;
+              }
+              return {};
+            }
+            return { text, parts, simplified };
+          });
+          inlineQuotes.forEach(({ text, parts, simplified }, i) => {
+            if (text && text !== "Abdu" && inlineQuotes[i + 1]?.id) {
+              if (
+                simplified.every((s) =>
+                  inlineQuotes[i + 1].paragraphs.some((p) =>
+                    p.simplified.join("").includes(s)
+                  )
+                )
+              ) {
+                const allPara = inlineQuotes[i + 1].paragraphs.findIndex((p) =>
+                  simplified.every((s) => p.simplified.join("").includes(s))
+                );
+                const {
+                  id,
+                  paragraphs: [paragraph],
+                } = getQuotePara(
+                  doc.id,
+                  index,
+                  simplified,
+                  parts,
+                  inlineQuotes[i + 1],
+                  allPara
+                ).base;
+                const start = para.text.indexOf(text);
+                para.base.quotes = para.base.quotes || [];
+                para.base.quotes.push({
+                  id,
+                  paragraph,
+                  start,
+                  end: start + text.length,
+                });
               }
             }
-          }
+          });
         }
       });
     }

@@ -14,7 +14,9 @@ import "./style.css";
 
 import maraca, { createBlock } from "./maraca";
 
-webfont.load({ google: { families: ["Atkinson Hyperlegible"] } });
+webfont.load({
+  google: { families: ["Atkinson Hyperlegible", "Atkinson Hyperlegible:bold"] },
+});
 
 const set = (obj, path, value) =>
   path.reduce(
@@ -158,24 +160,27 @@ maraca(
         );
       })
       .filter((q) => q.parts.some((p) => p.count > 3)),
-    fillParts: (parts, text, lines) => {
+    fillParts: (parts, text, lines, quotes) => {
       const firstChar = /[a-z]/i.exec(text)?.index;
       const indices = unique([
         0,
         ...(firstChar === undefined ? [] : [firstChar + 1]),
-        ...(parts || ([] as any[]))
+        ...(parts || [])
           .filter((p) => typeof p !== "string")
           .flatMap((p) => [p.start, p.end]),
         ...(lines || []),
+        ...(quotes || []).flatMap((q) => [q.start, q.end]),
         text.length,
       ]).sort((a, b) => a - b);
       const result = indices.slice(1).map((end, i) => ({
         start: indices[i],
         end,
         count:
-          (parts || ([] as any[])).find(
-            (p) => p.start <= indices[i] && p.end >= end
-          )?.count || 0,
+          (parts || []).find((p) => p.start <= indices[i] && p.end >= end)
+            ?.count || 0,
+        quote: !!(quotes || []).find(
+          (q) => q.start <= indices[i] && q.end >= end
+        ),
       }));
       if (!lines) return result;
       return lines
@@ -185,26 +190,26 @@ maraca(
         );
     },
     getRef: (paragraphs, index) => {
-      const p = paragraphs[index];
+      const p = paragraphs[index - 1];
       const doc = documents[p.id];
       if (!p.parts) {
-        const next = paragraphs[index + 1];
+        const next = paragraphs[index];
         if (
           next?.id === p.id &&
           !next.parts &&
-          doc.paragraphs[next.paragraphs[0]].index ===
-            doc.paragraphs[p.paragraphs[0]].index + 1
+          doc.paragraphs[next.paragraphs[0] - 1].index ===
+            doc.paragraphs[p.paragraphs[0] - 1].index + 1
         ) {
           return "";
         }
         let j = 0;
         while (true) {
-          const prev = paragraphs[index + j - 1];
+          const prev = paragraphs[index + j - 2];
           if (
             prev?.id === p.id &&
             !prev.parts &&
-            doc.paragraphs[prev.paragraphs[0]].index ===
-              doc.paragraphs[p.paragraphs[0]].index + j - 1
+            doc.paragraphs[prev.paragraphs[0] - 1].index ===
+              doc.paragraphs[p.paragraphs[0] - 1].index + j - 1
           ) {
             j--;
           } else {
@@ -217,9 +222,9 @@ maraca(
             ...doc.path,
             doc.title || (doc.item && "#" + doc.item),
             j === 0
-              ? `para ${doc.paragraphs[p.paragraphs[0]].index}`
-              : `paras ${doc.paragraphs[p.paragraphs[0]].index + j}-${
-                  doc.paragraphs[p.paragraphs[0]].index
+              ? `para ${doc.paragraphs[p.paragraphs[0] - 1].index}`
+              : `paras ${doc.paragraphs[p.paragraphs[0] - 1].index + j}-${
+                  doc.paragraphs[p.paragraphs[0] - 1].index
                 }`,
           ].filter((x) => x)
         ).join(", ");

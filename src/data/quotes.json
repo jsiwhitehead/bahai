@@ -54,6 +54,11 @@
       ],
       "parts": [
         {
+          "start": 358,
+          "end": 367,
+          "count": 1
+        },
+        {
           "start": 391,
           "end": 400,
           "count": 2
@@ -171,11 +176,21 @@
       "parts": [
         {
           "start": 117,
+          "end": 133,
+          "count": 6
+        },
+        {
+          "start": 133,
           "end": 134,
-          "count": 4
+          "count": 5
         },
         {
           "start": 134,
+          "end": 145,
+          "count": 7
+        },
+        {
+          "start": 145,
           "end": 146,
           "count": 5
         },
@@ -449,6 +464,11 @@
         },
         {
           "start": 577,
+          "end": 588,
+          "count": 3
+        },
+        {
+          "start": 588,
           "end": 589,
           "count": 2
         },
@@ -470,6 +490,21 @@
         {
           "start": 0,
           "end": 440,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 413
+        }
+      ],
+      "parts": [
+        {
+          "start": 28,
+          "end": 36,
           "count": 1
         }
       ]
@@ -564,6 +599,11 @@
         },
         {
           "start": 325,
+          "end": 356,
+          "count": 4
+        },
+        {
+          "start": 356,
           "end": 357,
           "count": 2
         },
@@ -597,6 +637,16 @@
         },
         {
           "start": 120,
+          "end": 265,
+          "count": 1
+        },
+        {
+          "start": 265,
+          "end": 298,
+          "count": 2
+        },
+        {
+          "start": 298,
           "end": 299,
           "count": 1
         },
@@ -644,6 +694,11 @@
           "count": 1
         },
         {
+          "start": 558,
+          "end": 569,
+          "count": 1
+        },
+        {
           "start": 570,
           "end": 781,
           "count": 1
@@ -676,6 +731,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 39,
+          "count": 4
+        },
+        {
+          "start": 39,
           "end": 40,
           "count": 3
         },
@@ -843,6 +903,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 22,
+          "count": 4
+        },
+        {
+          "start": 22,
           "end": 23,
           "count": 2
         },
@@ -866,6 +931,10 @@
     "36": {
       "refs": [
         {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 183
+        },
+        {
           "id": "ruhi4-003",
           "paragraph": 42
         }
@@ -873,6 +942,16 @@
       "parts": [
         {
           "start": 284,
+          "end": 643,
+          "count": 1
+        },
+        {
+          "start": 643,
+          "end": 664,
+          "count": 2
+        },
+        {
+          "start": 664,
           "end": 756,
           "count": 1
         }
@@ -904,6 +983,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 46,
+          "count": 5
+        },
+        {
+          "start": 46,
           "end": 47,
           "count": 4
         },
@@ -1132,8 +1216,28 @@
           "count": 1
         },
         {
+          "start": 712,
+          "end": 720,
+          "count": 1
+        },
+        {
           "start": 721,
           "end": 831,
+          "count": 1
+        }
+      ]
+    },
+    "138": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 134,
+          "end": 156,
           "count": 1
         }
       ]
@@ -1146,6 +1250,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 1045,
+          "end": 1093,
+          "count": 1
+        },
         {
           "start": 1355,
           "end": 1430,
@@ -1208,6 +1317,21 @@
         }
       ]
     },
+    "159": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 330
+        }
+      ],
+      "parts": [
+        {
+          "start": 4310,
+          "end": 4325,
+          "count": 1
+        }
+      ]
+    },
     "161": {
       "refs": [
         {
@@ -1257,10 +1381,19 @@
       "refs": [
         {
           "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 49
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
           "paragraph": 50
         }
       ],
       "parts": [
+        {
+          "start": 798,
+          "end": 838,
+          "count": 1
+        },
         {
           "start": 839,
           "end": 862,
@@ -1280,6 +1413,11 @@
           "start": 1192,
           "end": 1261,
           "count": 1
+        },
+        {
+          "start": 1909,
+          "end": 1966,
+          "count": 1
         }
       ]
     },
@@ -1297,6 +1435,11 @@
       "parts": [
         {
           "start": 460,
+          "end": 469,
+          "count": 2
+        },
+        {
+          "start": 469,
           "end": 470,
           "count": 1
         },
@@ -1441,6 +1584,11 @@
       "parts": [
         {
           "start": 25,
+          "end": 85,
+          "count": 1
+        },
+        {
+          "start": 85,
           "end": 86,
           "count": 1
         },
@@ -1465,8 +1613,18 @@
           "count": 1
         },
         {
+          "start": 1102,
+          "end": 1116,
+          "count": 1
+        },
+        {
           "start": 1117,
           "end": 1301,
+          "count": 1
+        },
+        {
+          "start": 1687,
+          "end": 1708,
           "count": 1
         },
         {
@@ -1489,8 +1647,18 @@
       ],
       "parts": [
         {
+          "start": 44,
+          "end": 79,
+          "count": 1
+        },
+        {
           "start": 80,
           "end": 152,
+          "count": 1
+        },
+        {
+          "start": 471,
+          "end": 491,
           "count": 1
         },
         {
@@ -1520,6 +1688,11 @@
         {
           "start": 265,
           "end": 375,
+          "count": 1
+        },
+        {
+          "start": 426,
+          "end": 464,
           "count": 1
         },
         {
@@ -1599,6 +1772,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 389,
+          "count": 1
+        },
+        {
+          "start": 389,
+          "end": 410,
+          "count": 3
+        },
+        {
+          "start": 410,
           "end": 411,
           "count": 1
         },
@@ -1746,6 +1929,11 @@
         },
         {
           "start": 1,
+          "end": 28,
+          "count": 5
+        },
+        {
+          "start": 28,
           "end": 29,
           "count": 3
         },
@@ -2005,6 +2193,11 @@
           "count": 1
         },
         {
+          "start": 616,
+          "end": 655,
+          "count": 1
+        },
+        {
           "start": 656,
           "end": 877,
           "count": 1
@@ -2033,6 +2226,10 @@
           "paragraph": 2
         },
         {
+          "id": "shoghi-effendi-world-order-bahaullah-008",
+          "paragraph": 8
+        },
+        {
           "id": "publications-individual-authors-bahaullah-new-era-014",
           "paragraph": 35
         }
@@ -2050,6 +2247,16 @@
         },
         {
           "start": 987,
+          "end": 1745,
+          "count": 1
+        },
+        {
+          "start": 1745,
+          "end": 1751,
+          "count": 2
+        },
+        {
+          "start": 1751,
           "end": 2062,
           "count": 1
         }
@@ -2069,6 +2276,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 20,
+          "count": 2
+        },
+        {
+          "start": 20,
           "end": 21,
           "count": 1
         },
@@ -2177,6 +2389,11 @@
       ],
       "parts": [
         {
+          "start": 784,
+          "end": 799,
+          "count": 1
+        },
+        {
           "start": 800,
           "end": 999,
           "count": 1
@@ -2200,6 +2417,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 66,
+          "end": 100,
+          "count": 2
+        },
         {
           "start": 101,
           "end": 220,
@@ -2275,11 +2497,20 @@
     "53": {
       "refs": [
         {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 77
+        },
+        {
           "id": "bahaullah-days-remembrance-001",
           "paragraph": 3
         }
       ],
       "parts": [
+        {
+          "start": 806,
+          "end": 823,
+          "count": 1
+        },
         {
           "start": 1051,
           "end": 1422,
@@ -2388,6 +2619,11 @@
       ],
       "parts": [
         {
+          "start": 157,
+          "end": 210,
+          "count": 1
+        },
+        {
           "start": 492,
           "end": 513,
           "count": 1
@@ -2414,13 +2650,22 @@
         {
           "id": "bahaullah-gleanings-writings-bahaullah-013",
           "paragraph": 12
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 191
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 1356,
+          "end": 1342,
           "count": 1
+        },
+        {
+          "start": 1342,
+          "end": 1356,
+          "count": 2
         }
       ]
     },
@@ -2482,6 +2727,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 517,
+          "end": 558,
+          "count": 1
+        },
         {
           "start": 559,
           "end": 836,
@@ -2841,6 +3091,21 @@
         }
       ]
     },
+    "134": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 120
+        }
+      ],
+      "parts": [
+        {
+          "start": 656,
+          "end": 672,
+          "count": 1
+        }
+      ]
+    },
     "137": {
       "refs": [
         {
@@ -3052,6 +3317,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 31,
+          "count": 3
+        },
+        {
+          "start": 31,
           "end": 32,
           "count": 2
         },
@@ -3105,6 +3375,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 416,
+          "end": 459,
+          "count": 1
+        },
         {
           "start": 520,
           "end": 809,
@@ -3317,6 +3592,21 @@
         },
         {
           "start": 324,
+          "end": 350,
+          "count": 1
+        },
+        {
+          "start": 350,
+          "end": 371,
+          "count": 3
+        },
+        {
+          "start": 371,
+          "end": 385,
+          "count": 2
+        },
+        {
+          "start": 385,
           "end": 407,
           "count": 1
         },
@@ -3332,6 +3622,16 @@
         },
         {
           "start": 492,
+          "end": 538,
+          "count": 2
+        },
+        {
+          "start": 538,
+          "end": 564,
+          "count": 4
+        },
+        {
+          "start": 564,
           "end": 616,
           "count": 2
         },
@@ -3457,6 +3757,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 575,
+          "end": 594,
+          "count": 1
+        },
         {
           "start": 595,
           "end": 823,
@@ -3710,6 +4015,10 @@
           "paragraph": 11
         },
         {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 40
+        },
+        {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 38
         },
@@ -3726,6 +4035,16 @@
         },
         {
           "start": 478,
+          "end": 663,
+          "count": 2
+        },
+        {
+          "start": 663,
+          "end": 694,
+          "count": 3
+        },
+        {
+          "start": 694,
           "end": 855,
           "count": 2
         },
@@ -3792,6 +4111,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 568,
+          "end": 574,
+          "count": 1
+        },
         {
           "start": 575,
           "end": 683,
@@ -4018,12 +4342,21 @@
         {
           "id": "shoghi-effendi-promised-day-come-001",
           "paragraph": 230
+        },
+        {
+          "id": "bahaullah-kitab-i-aqdas-190",
+          "paragraph": 1
         }
       ],
       "parts": [
         {
           "start": 85,
           "end": 242,
+          "count": 1
+        },
+        {
+          "start": 288,
+          "end": 298,
           "count": 1
         }
       ]
@@ -4036,6 +4369,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 511,
+          "end": 529,
+          "count": 1
+        },
         {
           "start": 530,
           "end": 909,
@@ -4109,6 +4447,16 @@
       "parts": [
         {
           "start": 146,
+          "end": 153,
+          "count": 2
+        },
+        {
+          "start": 153,
+          "end": 183,
+          "count": 3
+        },
+        {
+          "start": 183,
           "end": 184,
           "count": 1
         },
@@ -4186,6 +4534,16 @@
         },
         {
           "start": 1137,
+          "end": 1177,
+          "count": 1
+        },
+        {
+          "start": 1177,
+          "end": 1217,
+          "count": 2
+        },
+        {
+          "start": 1217,
           "end": 1226,
           "count": 1
         },
@@ -4253,16 +4611,41 @@
         },
         {
           "start": 971,
+          "end": 1277,
+          "count": 1
+        },
+        {
+          "start": 1277,
+          "end": 1291,
+          "count": 2
+        },
+        {
+          "start": 1291,
           "end": 1292,
           "count": 1
         },
         {
           "start": 1292,
+          "end": 1315,
+          "count": 3
+        },
+        {
+          "start": 1315,
           "end": 1356,
           "count": 2
         },
         {
           "start": 1356,
+          "end": 1357,
+          "count": 1
+        },
+        {
+          "start": 1357,
+          "end": 1389,
+          "count": 2
+        },
+        {
+          "start": 1389,
           "end": 1390,
           "count": 1
         },
@@ -4278,6 +4661,16 @@
         },
         {
           "start": 1567,
+          "end": 1763,
+          "count": 1
+        },
+        {
+          "start": 1763,
+          "end": 1786,
+          "count": 2
+        },
+        {
+          "start": 1786,
           "end": 1787,
           "count": 1
         },
@@ -4656,6 +5049,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 77,
+          "count": 1
+        },
+        {
+          "start": 77,
+          "end": 104,
+          "count": 2
+        },
+        {
+          "start": 104,
           "end": 214,
           "count": 1
         },
@@ -4703,6 +5106,10 @@
           "paragraph": 17
         },
         {
+          "id": "the-universal-house-of-justice-messages-068",
+          "paragraph": 8
+        },
+        {
           "id": "ruhi9-001",
           "paragraph": 210
         },
@@ -4714,6 +5121,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 26,
+          "count": 4
+        },
+        {
+          "start": 26,
+          "end": 32,
+          "count": 5
+        },
+        {
+          "start": 32,
           "end": 293,
           "count": 4
         },
@@ -4786,6 +5203,10 @@
           "paragraph": 4
         },
         {
+          "id": "the-universal-house-of-justice-messages-295",
+          "paragraph": 7
+        },
+        {
           "id": "compilations-chaste-holy-life-001",
           "paragraph": 5
         },
@@ -4824,6 +5245,16 @@
         },
         {
           "start": 257,
+          "end": 300,
+          "count": 4
+        },
+        {
+          "start": 300,
+          "end": 305,
+          "count": 5
+        },
+        {
+          "start": 305,
           "end": 592,
           "count": 4
         },
@@ -4913,11 +5344,21 @@
       "parts": [
         {
           "start": 0,
+          "end": 9,
+          "count": 8
+        },
+        {
+          "start": 9,
           "end": 10,
-          "count": 6
+          "count": 7
         },
         {
           "start": 10,
+          "end": 61,
+          "count": 8
+        },
+        {
+          "start": 61,
           "end": 62,
           "count": 7
         },
@@ -4992,6 +5433,21 @@
         }
       ]
     },
+    "17": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-077",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 582,
+          "end": 596,
+          "count": 1
+        }
+      ]
+    },
     "19": {
       "refs": [
         {
@@ -5003,6 +5459,21 @@
         {
           "start": 0,
           "end": 341,
+          "count": 1
+        }
+      ]
+    },
+    "24": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-223",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 295,
+          "end": 305,
           "count": 1
         }
       ]
@@ -5110,6 +5581,25 @@
         }
       ]
     },
+    "37": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-003",
+          "paragraph": 8
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 409
+        }
+      ],
+      "parts": [
+        {
+          "start": 687,
+          "end": 692,
+          "count": 2
+        }
+      ]
+    },
     "38": {
       "refs": [
         {
@@ -5133,6 +5623,16 @@
         },
         {
           "start": 138,
+          "end": 424,
+          "count": 1
+        },
+        {
+          "start": 424,
+          "end": 433,
+          "count": 2
+        },
+        {
+          "start": 433,
           "end": 434,
           "count": 1
         },
@@ -5174,6 +5674,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 40,
+          "count": 5
+        },
+        {
+          "start": 40,
           "end": 41,
           "count": 4
         },
@@ -5434,6 +5939,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 23,
+          "count": 2
+        },
+        {
+          "start": 23,
           "end": 233,
           "count": 1
         },
@@ -5545,6 +6055,11 @@
       ],
       "parts": [
         {
+          "start": 77,
+          "end": 89,
+          "count": 1
+        },
+        {
           "start": 224,
           "end": 283,
           "count": 3
@@ -5636,6 +6151,10 @@
           "paragraph": 61
         },
         {
+          "id": "the-universal-house-of-justice-messages-467",
+          "paragraph": 19
+        },
+        {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 122
         }
@@ -5643,6 +6162,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 42,
+          "count": 2
+        },
+        {
+          "start": 42,
+          "end": 83,
+          "count": 3
+        },
+        {
+          "start": 83,
           "end": 196,
           "count": 2
         },
@@ -5751,6 +6280,16 @@
         },
         {
           "start": 152,
+          "end": 154,
+          "count": 1
+        },
+        {
+          "start": 154,
+          "end": 173,
+          "count": 1
+        },
+        {
+          "start": 173,
           "end": 174,
           "count": 1
         },
@@ -5837,6 +6376,11 @@
         },
         {
           "start": 469,
+          "end": 485,
+          "count": 3
+        },
+        {
+          "start": 485,
           "end": 486,
           "count": 3
         },
@@ -5971,10 +6515,20 @@
         {
           "start": 183,
           "end": 189,
+          "count": 2
+        },
+        {
+          "start": 189,
+          "end": 190,
           "count": 1
         },
         {
           "start": 190,
+          "end": 237,
+          "count": 2
+        },
+        {
+          "start": 237,
           "end": 238,
           "count": 1
         },
@@ -6416,6 +6970,16 @@
         },
         {
           "start": 132,
+          "end": 145,
+          "count": 3
+        },
+        {
+          "start": 145,
+          "end": 199,
+          "count": 4
+        },
+        {
+          "start": 199,
           "end": 359,
           "count": 3
         },
@@ -6440,6 +7004,10 @@
         {
           "id": "compilations-chaste-holy-life-001",
           "paragraph": 16
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-273",
+          "paragraph": 19
         },
         {
           "id": "the-universal-house-of-justice-messages-218",
@@ -6467,8 +7035,13 @@
         },
         {
           "start": 121,
-          "end": 205,
+          "end": 169,
           "count": 4
+        },
+        {
+          "start": 169,
+          "end": 205,
+          "count": 5
         },
         {
           "start": 205,
@@ -6728,6 +7301,11 @@
       ],
       "parts": [
         {
+          "start": 597,
+          "end": 645,
+          "count": 1
+        },
+        {
           "start": 646,
           "end": 750,
           "count": 1
@@ -6877,10 +7455,15 @@
         {
           "start": 0,
           "end": 4,
-          "count": 12
+          "count": 13
         },
         {
           "start": 4,
+          "end": 23,
+          "count": 14
+        },
+        {
+          "start": 23,
           "end": 24,
           "count": 13
         },
@@ -7044,6 +7627,10 @@
     "3": {
       "refs": [
         {
+          "id": "shoghi-effendi-promised-day-come-001",
+          "paragraph": 329
+        },
+        {
           "id": "the-universal-house-of-justice-messages-482",
           "paragraph": 6
         },
@@ -7061,6 +7648,26 @@
           "start": 0,
           "end": 383,
           "count": 3
+        },
+        {
+          "start": 428,
+          "end": 445,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 170,
+          "end": 179,
+          "count": 1
         }
       ]
     },
@@ -7142,6 +7749,11 @@
         },
         {
           "start": 449,
+          "end": 456,
+          "count": 3
+        },
+        {
+          "start": 456,
           "end": 457,
           "count": 2
         },
@@ -7235,6 +7847,16 @@
         },
         {
           "start": 242,
+          "end": 448,
+          "count": 2
+        },
+        {
+          "start": 448,
+          "end": 492,
+          "count": 3
+        },
+        {
+          "start": 492,
           "end": 493,
           "count": 2
         },
@@ -7329,11 +7951,36 @@
         },
         {
           "start": 1149,
+          "end": 1173,
+          "count": 3
+        },
+        {
+          "start": 1173,
+          "end": 1184,
+          "count": 4
+        },
+        {
+          "start": 1184,
+          "end": 1229,
+          "count": 4
+        },
+        {
+          "start": 1229,
           "end": 1230,
           "count": 3
         },
         {
           "start": 1230,
+          "end": 1231,
+          "count": 2
+        },
+        {
+          "start": 1231,
+          "end": 1253,
+          "count": 3
+        },
+        {
+          "start": 1253,
           "end": 1258,
           "count": 2
         },
@@ -7359,11 +8006,21 @@
         },
         {
           "start": 1397,
-          "end": 1416,
+          "end": 1398,
           "count": 1
         },
         {
+          "start": 1398,
+          "end": 1416,
+          "count": 2
+        },
+        {
           "start": 1416,
+          "end": 1447,
+          "count": 3
+        },
+        {
+          "start": 1447,
           "end": 1448,
           "count": 2
         },
@@ -7739,10 +8396,15 @@
         {
           "start": 149,
           "end": 159,
-          "count": 2
+          "count": 3
         },
         {
           "start": 159,
+          "end": 179,
+          "count": 4
+        },
+        {
+          "start": 179,
           "end": 180,
           "count": 3
         },
@@ -8006,6 +8668,10 @@
           "paragraph": 1
         },
         {
+          "id": "shoghi-effendi-world-order-bahaullah-011",
+          "paragraph": 51
+        },
+        {
           "id": "shoghi-effendi-god-passes-by-002",
           "paragraph": 301
         }
@@ -8013,6 +8679,26 @@
       "parts": [
         {
           "start": 0,
+          "end": 115,
+          "count": 1
+        },
+        {
+          "start": 115,
+          "end": 125,
+          "count": 2
+        },
+        {
+          "start": 125,
+          "end": 1084,
+          "count": 1
+        },
+        {
+          "start": 1084,
+          "end": 1110,
+          "count": 2
+        },
+        {
+          "start": 1110,
           "end": 1127,
           "count": 1
         },
@@ -8045,6 +8731,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 25,
+          "count": 3
+        },
+        {
+          "start": 25,
+          "end": 34,
+          "count": 2
+        },
+        {
+          "start": 34,
           "end": 35,
           "count": 1
         },
@@ -8348,11 +9044,25 @@
         {
           "id": "bahaullah-gleanings-writings-bahaullah-066",
           "paragraph": 2
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 312
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 507,
+          "count": 1
+        },
+        {
+          "start": 507,
+          "end": 536,
+          "count": 2
+        },
+        {
+          "start": 536,
           "end": 656,
           "count": 1
         }
@@ -8376,6 +9086,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 181,
+          "count": 1
+        },
+        {
+          "start": 181,
+          "end": 190,
+          "count": 2
+        },
+        {
+          "start": 190,
           "end": 191,
           "count": 1
         },
@@ -8681,6 +9401,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 16,
+          "count": 3
+        },
+        {
+          "start": 16,
           "end": 17,
           "count": 2
         },
@@ -8994,6 +9719,11 @@
       ],
       "parts": [
         {
+          "start": 105,
+          "end": 122,
+          "count": 1
+        },
+        {
           "start": 132,
           "end": 209,
           "count": 1
@@ -9013,6 +9743,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 776,
+          "end": 824,
+          "count": 1
+        },
         {
           "start": 825,
           "end": 906,
@@ -9175,6 +9910,16 @@
         },
         {
           "start": 212,
+          "end": 287,
+          "count": 2
+        },
+        {
+          "start": 287,
+          "end": 311,
+          "count": 3
+        },
+        {
+          "start": 311,
           "end": 312,
           "count": 2
         },
@@ -9429,6 +10174,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 22,
+          "count": 2
+        },
+        {
+          "start": 22,
           "end": 23,
           "count": 1
         },
@@ -9880,6 +10630,11 @@
         },
         {
           "start": 402,
+          "end": 462,
+          "count": 8
+        },
+        {
+          "start": 462,
           "end": 463,
           "count": 6
         },
@@ -10014,6 +10769,11 @@
         },
         {
           "start": 283,
+          "end": 332,
+          "count": 3
+        },
+        {
+          "start": 332,
           "end": 333,
           "count": 2
         },
@@ -10059,6 +10819,11 @@
         },
         {
           "start": 183,
+          "end": 224,
+          "count": 5
+        },
+        {
+          "start": 224,
           "end": 225,
           "count": 4
         },
@@ -10069,8 +10834,13 @@
         },
         {
           "start": 264,
-          "end": 325,
+          "end": 265,
           "count": 4
+        },
+        {
+          "start": 265,
+          "end": 325,
+          "count": 5
         },
         {
           "start": 341,
@@ -10096,6 +10866,21 @@
     }
   },
   "bahaullah-summons-lord-hosts-002": {
+    "2": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 231,
+          "end": 234,
+          "count": 1
+        }
+      ]
+    },
     "8": {
       "refs": [
         {
@@ -10122,6 +10907,10 @@
           "paragraph": 31
         },
         {
+          "id": "the-universal-house-of-justice-messages-401",
+          "paragraph": 7
+        },
+        {
           "id": "the-universal-house-of-justice-additional-messages-012",
           "paragraph": 10
         }
@@ -10139,6 +10928,16 @@
         },
         {
           "start": 332,
+          "end": 337,
+          "count": 2
+        },
+        {
+          "start": 337,
+          "end": 350,
+          "count": 3
+        },
+        {
+          "start": 350,
           "end": 371,
           "count": 2
         }
@@ -10336,6 +11135,11 @@
           "count": 1
         },
         {
+          "start": 547,
+          "end": 586,
+          "count": 1
+        },
+        {
           "start": 587,
           "end": 1173,
           "count": 1
@@ -10354,6 +11158,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 37,
+          "count": 1
+        },
         {
           "start": 38,
           "end": 207,
@@ -10379,6 +11188,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 61,
+          "count": 1
+        },
+        {
           "start": 62,
           "end": 92,
           "count": 1
@@ -10391,6 +11205,21 @@
         {
           "start": 101,
           "end": 232,
+          "count": 1
+        }
+      ]
+    },
+    "104": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-promised-day-come-001",
+          "paragraph": 138
+        }
+      ],
+      "parts": [
+        {
+          "start": 32,
+          "end": 93,
           "count": 1
         }
       ]
@@ -10448,6 +11277,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 434,
+          "end": 453,
+          "count": 1
+        },
         {
           "start": 454,
           "end": 565,
@@ -10549,9 +11383,18 @@
         {
           "id": "shoghi-effendi-promised-day-come-001",
           "paragraph": 82
+        },
+        {
+          "id": "shoghi-effendi-promised-day-come-001",
+          "paragraph": 138
         }
       ],
       "parts": [
+        {
+          "start": 406,
+          "end": 430,
+          "count": 1
+        },
         {
           "start": 672,
           "end": 752,
@@ -10633,6 +11476,16 @@
         },
         {
           "start": 409,
+          "end": 416,
+          "count": 1
+        },
+        {
+          "start": 416,
+          "end": 479,
+          "count": 1
+        },
+        {
+          "start": 479,
           "end": 512,
           "count": 1
         },
@@ -10800,6 +11653,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 32,
+          "count": 1
+        },
+        {
           "start": 33,
           "end": 263,
           "count": 1
@@ -10877,6 +11735,11 @@
       "parts": [
         {
           "start": 776,
+          "end": 814,
+          "count": 3
+        },
+        {
+          "start": 814,
           "end": 815,
           "count": 1
         },
@@ -10909,6 +11772,11 @@
           "start": 305,
           "end": 381,
           "count": 1
+        },
+        {
+          "start": 907,
+          "end": 957,
+          "count": 1
         }
       ]
     },
@@ -10927,6 +11795,11 @@
         {
           "start": 0,
           "end": 80,
+          "count": 1
+        },
+        {
+          "start": 267,
+          "end": 304,
           "count": 1
         },
         {
@@ -10994,6 +11867,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 350,
+          "count": 1
+        },
+        {
+          "start": 350,
+          "end": 362,
+          "count": 2
+        },
+        {
+          "start": 362,
           "end": 363,
           "count": 1
         },
@@ -11028,6 +11911,11 @@
       ],
       "parts": [
         {
+          "start": 185,
+          "end": 216,
+          "count": 1
+        },
+        {
           "start": 385,
           "end": 447,
           "count": 1
@@ -11037,6 +11925,10 @@
     "177": {
       "refs": [
         {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 387
+        },
+        {
           "id": "ruhi4-003",
           "paragraph": 60
         }
@@ -11045,6 +11937,11 @@
         {
           "start": 0,
           "end": 235,
+          "count": 1
+        },
+        {
+          "start": 319,
+          "end": 351,
           "count": 1
         }
       ]
@@ -11186,8 +12083,13 @@
       "parts": [
         {
           "start": 0,
-          "end": 115,
+          "end": 91,
           "count": 8
+        },
+        {
+          "start": 91,
+          "end": 115,
+          "count": 9
         },
         {
           "start": 115,
@@ -11307,6 +12209,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 46,
+          "count": 6
+        },
+        {
+          "start": 46,
           "end": 47,
           "count": 5
         },
@@ -11571,6 +12478,21 @@
         }
       ]
     },
+    "231": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-promised-day-come-001",
+          "paragraph": 235
+        }
+      ],
+      "parts": [
+        {
+          "start": 64,
+          "end": 80,
+          "count": 1
+        }
+      ]
+    },
     "232": {
       "refs": [
         {
@@ -11597,6 +12519,21 @@
         {
           "start": 0,
           "end": 62,
+          "count": 1
+        }
+      ]
+    },
+    "250": {
+      "refs": [
+        {
+          "id": "abdul-baha-selections-writings-abdul-baha-199",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 949,
+          "end": 953,
           "count": 1
         }
       ]
@@ -11658,6 +12595,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 108,
+          "end": 135,
+          "count": 1
+        },
         {
           "start": 136,
           "end": 338,
@@ -11809,6 +12751,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 534,
+          "count": 1
+        },
+        {
+          "start": 534,
+          "end": 544,
+          "count": 2
+        },
+        {
+          "start": 544,
           "end": 545,
           "count": 1
         },
@@ -12026,6 +12978,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 24,
+          "count": 9
+        },
+        {
+          "start": 24,
           "end": 25,
           "count": 8
         },
@@ -12073,6 +13030,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 23,
+          "count": 1
+        },
+        {
+          "start": 23,
+          "end": 44,
+          "count": 2
+        },
+        {
+          "start": 44,
           "end": 45,
           "count": 1
         },
@@ -12288,6 +13255,11 @@
         },
         {
           "start": 425,
+          "end": 469,
+          "count": 4
+        },
+        {
+          "start": 469,
           "end": 470,
           "count": 3
         },
@@ -12616,6 +13588,10 @@
           "paragraph": 2
         },
         {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 462
+        },
+        {
           "id": "bahaullah-kitab-i-aqdas-047",
           "paragraph": 1
         },
@@ -12646,6 +13622,16 @@
         },
         {
           "start": 692,
+          "end": 693,
+          "count": 3
+        },
+        {
+          "start": 693,
+          "end": 723,
+          "count": 4
+        },
+        {
+          "start": 723,
           "end": 866,
           "count": 3
         },
@@ -13183,6 +14169,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 14,
+          "count": 2
+        },
+        {
+          "start": 14,
           "end": 26,
           "count": 1
         },
@@ -13398,6 +14389,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 4,
+          "end": 15,
+          "count": 1
+        },
         {
           "start": 167,
           "end": 313,
@@ -13702,8 +14698,13 @@
       "parts": [
         {
           "start": 823,
-          "end": 895,
+          "end": 865,
           "count": 1
+        },
+        {
+          "start": 865,
+          "end": 895,
+          "count": 2
         },
         {
           "start": 896,
@@ -13718,6 +14719,21 @@
         {
           "start": 980,
           "end": 981,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "publications-individual-authors-bahaullah-new-era-019",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 15,
+          "end": 24,
           "count": 1
         }
       ]
@@ -13830,6 +14846,11 @@
           "start": 708,
           "end": 709,
           "count": 9
+        },
+        {
+          "start": 744,
+          "end": 765,
+          "count": 1
         }
       ]
     },
@@ -13843,6 +14864,16 @@
       "parts": [
         {
           "start": 773,
+          "end": 776,
+          "count": 1
+        },
+        {
+          "start": 776,
+          "end": 803,
+          "count": 1
+        },
+        {
+          "start": 803,
           "end": 841,
           "count": 1
         }
@@ -14920,6 +15951,16 @@
         },
         {
           "start": 311,
+          "end": 506,
+          "count": 1
+        },
+        {
+          "start": 506,
+          "end": 563,
+          "count": 2
+        },
+        {
+          "start": 563,
           "end": 592,
           "count": 1
         },
@@ -14999,6 +16040,11 @@
       "parts": [
         {
           "start": 323,
+          "end": 332,
+          "count": 2
+        },
+        {
+          "start": 332,
           "end": 333,
           "count": 1
         },
@@ -15100,6 +16146,16 @@
         },
         {
           "start": 163,
+          "end": 186,
+          "count": 3
+        },
+        {
+          "start": 186,
+          "end": 244,
+          "count": 4
+        },
+        {
+          "start": 244,
           "end": 256,
           "count": 3
         },
@@ -15675,6 +16731,11 @@
       ],
       "parts": [
         {
+          "start": 14,
+          "end": 43,
+          "count": 1
+        },
+        {
           "start": 44,
           "end": 115,
           "count": 1
@@ -15930,6 +16991,21 @@
         {
           "start": 618,
           "end": 1924,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-010",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 978,
+          "end": 999,
           "count": 1
         }
       ]
@@ -16593,6 +17669,11 @@
         },
         {
           "start": 1173,
+          "end": 1196,
+          "count": 8
+        },
+        {
+          "start": 1196,
           "end": 1197,
           "count": 7
         },
@@ -16955,6 +18036,11 @@
       "parts": [
         {
           "start": 472,
+          "end": 504,
+          "count": 3
+        },
+        {
+          "start": 504,
           "end": 505,
           "count": 2
         },
@@ -16996,6 +18082,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 37,
+          "count": 4
+        },
+        {
+          "start": 37,
           "end": 38,
           "count": 3
         },
@@ -17074,11 +18165,21 @@
       "parts": [
         {
           "start": 0,
+          "end": 10,
+          "count": 6
+        },
+        {
+          "start": 10,
           "end": 11,
-          "count": 3
+          "count": 5
         },
         {
           "start": 11,
+          "end": 30,
+          "count": 6
+        },
+        {
+          "start": 30,
           "end": 31,
           "count": 4
         },
@@ -17133,7 +18234,17 @@
           "count": 4
         },
         {
+          "start": 527,
+          "end": 535,
+          "count": 1
+        },
+        {
           "start": 535,
+          "end": 559,
+          "count": 2
+        },
+        {
+          "start": 559,
           "end": 619,
           "count": 1
         },
@@ -17211,6 +18322,21 @@
         }
       ]
     },
+    "11": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-decisive-hour-037",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 553,
+          "end": 570,
+          "count": 1
+        }
+      ]
+    },
     "13": {
       "refs": [
         {
@@ -17219,6 +18345,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 19,
+          "count": 1
+        },
         {
           "start": 20,
           "end": 160,
@@ -17312,6 +18443,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 333,
+          "count": 1
+        },
+        {
+          "start": 333,
+          "end": 356,
+          "count": 2
+        },
+        {
+          "start": 356,
           "end": 357,
           "count": 1
         },
@@ -17489,21 +18630,46 @@
         },
         {
           "start": 346,
+          "end": 358,
+          "count": 4
+        },
+        {
+          "start": 358,
           "end": 359,
           "count": 3
         },
         {
           "start": 359,
+          "end": 362,
+          "count": 4
+        },
+        {
+          "start": 362,
+          "end": 383,
+          "count": 4
+        },
+        {
+          "start": 383,
           "end": 384,
           "count": 4
         },
         {
           "start": 384,
-          "end": 420,
+          "end": 410,
           "count": 5
         },
         {
+          "start": 410,
+          "end": 420,
+          "count": 6
+        },
+        {
           "start": 420,
+          "end": 421,
+          "count": 6
+        },
+        {
+          "start": 421,
           "end": 445,
           "count": 5
         },
@@ -17564,6 +18730,11 @@
       "parts": [
         {
           "start": 11,
+          "end": 40,
+          "count": 3
+        },
+        {
+          "start": 40,
           "end": 41,
           "count": 2
         },
@@ -17640,6 +18811,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 160,
+          "end": 171,
+          "count": 1
+        },
         {
           "start": 172,
           "end": 387,
@@ -17729,6 +18905,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 47,
+          "count": 1
+        },
+        {
           "start": 48,
           "end": 272,
           "count": 1
@@ -17773,6 +18954,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 280,
+          "end": 321,
+          "count": 1
+        },
         {
           "start": 322,
           "end": 369,
@@ -17851,6 +19037,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 14,
+          "count": 1
+        },
+        {
           "start": 15,
           "end": 107,
           "count": 1
@@ -17858,6 +19049,11 @@
         {
           "start": 261,
           "end": 605,
+          "count": 1
+        },
+        {
+          "start": 696,
+          "end": 714,
           "count": 1
         },
         {
@@ -17894,6 +19090,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 9,
+          "count": 1
+        },
         {
           "start": 10,
           "end": 380,
@@ -17957,6 +19158,11 @@
       "parts": [
         {
           "start": 10,
+          "end": 34,
+          "count": 5
+        },
+        {
+          "start": 34,
           "end": 35,
           "count": 1
         },
@@ -18041,6 +19247,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 21,
+          "count": 4
+        },
+        {
+          "start": 21,
           "end": 22,
           "count": 3
         },
@@ -18066,6 +19277,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 43,
+          "count": 1
+        },
+        {
           "start": 44,
           "end": 241,
           "count": 2
@@ -18088,6 +19304,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 29,
+          "count": 2
+        },
+        {
+          "start": 29,
           "end": 30,
           "count": 1
         },
@@ -18108,6 +19329,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 266,
+          "end": 317,
+          "count": 1
+        },
         {
           "start": 318,
           "end": 522,
@@ -18167,6 +19393,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 103,
+          "end": 147,
+          "count": 1
+        },
         {
           "start": 148,
           "end": 294,
@@ -18253,6 +19484,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 103,
+          "count": 1
+        },
+        {
+          "start": 103,
+          "end": 131,
+          "count": 2
+        },
+        {
+          "start": 131,
           "end": 132,
           "count": 1
         },
@@ -18306,6 +19547,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 43,
+          "end": 59,
+          "count": 1
+        },
         {
           "start": 60,
           "end": 256,
@@ -18507,6 +19753,11 @@
       "parts": [
         {
           "start": 374,
+          "end": 400,
+          "count": 10
+        },
+        {
+          "start": 400,
           "end": 401,
           "count": 6
         },
@@ -18559,6 +19810,11 @@
         },
         {
           "start": 262,
+          "end": 279,
+          "count": 4
+        },
+        {
+          "start": 279,
           "end": 280,
           "count": 3
         },
@@ -18626,6 +19882,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 27,
+          "count": 4
+        },
+        {
+          "start": 27,
           "end": 28,
           "count": 3
         },
@@ -18638,6 +19899,21 @@
     }
   },
   "bahaullah-gleanings-writings-bahaullah-128": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 4,
+          "count": 1
+        }
+      ]
+    },
     "3": {
       "refs": [
         {
@@ -18652,6 +19928,11 @@
       "parts": [
         {
           "start": 305,
+          "end": 327,
+          "count": 2
+        },
+        {
+          "start": 327,
           "end": 328,
           "count": 1
         },
@@ -18670,6 +19951,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 388,
+          "end": 400,
+          "count": 1
+        },
         {
           "start": 401,
           "end": 942,
@@ -18710,6 +19996,11 @@
       ],
       "parts": [
         {
+          "start": 199,
+          "end": 231,
+          "count": 1
+        },
+        {
           "start": 232,
           "end": 392,
           "count": 1
@@ -18728,6 +20019,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 36,
+          "count": 1
+        },
         {
           "start": 37,
           "end": 132,
@@ -18766,6 +20062,11 @@
       "parts": [
         {
           "start": 5,
+          "end": 49,
+          "count": 3
+        },
+        {
+          "start": 49,
           "end": 50,
           "count": 2
         },
@@ -18820,6 +20121,11 @@
       ],
       "parts": [
         {
+          "start": 80,
+          "end": 99,
+          "count": 1
+        },
+        {
           "start": 100,
           "end": 259,
           "count": 1
@@ -18870,6 +20176,11 @@
       ],
       "parts": [
         {
+          "start": 41,
+          "end": 47,
+          "count": 1
+        },
+        {
           "start": 48,
           "end": 148,
           "count": 1
@@ -18890,6 +20201,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 34,
+          "count": 2
+        },
+        {
+          "start": 34,
           "end": 35,
           "count": 1
         },
@@ -19116,6 +20432,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 32,
+          "count": 5
+        },
+        {
+          "start": 32,
           "end": 33,
           "count": 4
         },
@@ -19141,6 +20462,11 @@
         },
         {
           "start": 267,
+          "end": 320,
+          "count": 3
+        },
+        {
+          "start": 320,
           "end": 321,
           "count": 2
         },
@@ -19185,8 +20511,13 @@
         },
         {
           "start": 412,
-          "end": 498,
+          "end": 452,
           "count": 3
+        },
+        {
+          "start": 452,
+          "end": 498,
+          "count": 4
         },
         {
           "start": 498,
@@ -19239,6 +20570,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 384,
+          "end": 407,
+          "count": 1
+        },
         {
           "start": 408,
           "end": 476,
@@ -19345,6 +20681,11 @@
         },
         {
           "start": 218,
+          "end": 279,
+          "count": 6
+        },
+        {
+          "start": 279,
           "end": 289,
           "count": 6
         },
@@ -19446,6 +20787,11 @@
       ],
       "parts": [
         {
+          "start": 783,
+          "end": 826,
+          "count": 1
+        },
+        {
           "start": 827,
           "end": 1016,
           "count": 1
@@ -19508,6 +20854,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 28,
+          "count": 1
+        },
+        {
           "start": 29,
           "end": 553,
           "count": 1
@@ -19536,6 +20887,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 5,
+          "count": 1
+        },
+        {
+          "start": 5,
+          "end": 52,
+          "count": 2
+        },
+        {
+          "start": 52,
           "end": 53,
           "count": 1
         },
@@ -19563,6 +20924,21 @@
     }
   },
   "abdul-baha-selections-writings-abdul-baha-036": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 14,
+          "count": 1
+        }
+      ]
+    },
     "4": {
       "refs": [
         {
@@ -19776,6 +21152,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 33,
+          "count": 2
+        },
+        {
+          "start": 33,
           "end": 34,
           "count": 1
         },
@@ -19787,6 +21168,11 @@
         {
           "start": 490,
           "end": 661,
+          "count": 1
+        },
+        {
+          "start": 736,
+          "end": 789,
           "count": 1
         },
         {
@@ -19816,6 +21202,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 12,
+          "count": 3
+        },
+        {
+          "start": 12,
           "end": 13,
           "count": 2
         },
@@ -19836,6 +21227,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 18,
+          "count": 1
+        },
         {
           "start": 19,
           "end": 278,
@@ -19862,6 +21258,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 21,
+          "count": 3
+        },
+        {
           "start": 22,
           "end": 133,
           "count": 3
@@ -19878,6 +21279,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 4,
+          "count": 1
+        },
         {
           "start": 5,
           "end": 127,
@@ -19909,6 +21315,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 11,
+          "count": 3
+        },
+        {
+          "start": 11,
           "end": 12,
           "count": 2
         },
@@ -19992,6 +21403,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 16,
+          "count": 3
+        },
+        {
+          "start": 16,
           "end": 17,
           "count": 2
         },
@@ -20043,6 +21459,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 18,
+          "count": 1
+        },
+        {
           "start": 19,
           "end": 185,
           "count": 1
@@ -20063,6 +21484,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 28,
+          "count": 2
+        },
         {
           "start": 29,
           "end": 110,
@@ -20104,6 +21530,11 @@
           "count": 1
         },
         {
+          "start": 836,
+          "end": 868,
+          "count": 1
+        },
+        {
           "start": 869,
           "end": 980,
           "count": 1
@@ -20121,6 +21552,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 28,
+          "count": 1
+        },
+        {
           "start": 29,
           "end": 227,
           "count": 1
@@ -20135,6 +21571,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 30,
+          "count": 1
+        },
         {
           "start": 31,
           "end": 215,
@@ -20162,6 +21603,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 15,
+          "count": 2
+        },
+        {
           "start": 16,
           "end": 207,
           "count": 2
@@ -20178,6 +21624,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 23,
+          "count": 1
+        },
         {
           "start": 24,
           "end": 150,
@@ -20201,6 +21652,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 13,
+          "count": 2
+        },
+        {
+          "start": 13,
           "end": 14,
           "count": 1
         },
@@ -20261,6 +21717,11 @@
         },
         {
           "start": 183,
+          "end": 200,
+          "count": 3
+        },
+        {
+          "start": 200,
           "end": 201,
           "count": 1
         },
@@ -20377,6 +21838,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 4,
+          "count": 2
+        },
+        {
+          "start": 4,
           "end": 5,
           "count": 1
         },
@@ -20413,6 +21879,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 19,
+          "count": 2
+        },
+        {
+          "start": 19,
           "end": 20,
           "count": 1
         },
@@ -20433,6 +21904,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 3,
+          "count": 1
+        },
         {
           "start": 4,
           "end": 165,
@@ -20471,6 +21947,11 @@
       ],
       "parts": [
         {
+          "start": 661,
+          "end": 694,
+          "count": 1
+        },
+        {
           "start": 757,
           "end": 822,
           "count": 1
@@ -20485,6 +21966,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 277,
+          "end": 313,
+          "count": 1
+        },
         {
           "start": 314,
           "end": 474,
@@ -20502,6 +21988,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 625,
+          "end": 671,
+          "count": 1
+        },
         {
           "start": 672,
           "end": 744,
@@ -20544,6 +22035,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 20,
+          "count": 3
+        },
+        {
+          "start": 20,
           "end": 21,
           "count": 2
         },
@@ -20568,6 +22064,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 31,
+          "count": 1
+        },
         {
           "start": 32,
           "end": 310,
@@ -20595,6 +22096,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 21,
+          "count": 1
+        },
         {
           "start": 22,
           "end": 228,
@@ -20691,6 +22197,11 @@
         },
         {
           "start": 552,
+          "end": 576,
+          "count": 7
+        },
+        {
+          "start": 576,
           "end": 577,
           "count": 6
         },
@@ -20757,6 +22268,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 21,
+          "count": 1
+        },
+        {
           "start": 22,
           "end": 273,
           "count": 1
@@ -20774,6 +22290,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 11,
+          "count": 1
+        },
+        {
           "start": 12,
           "end": 225,
           "count": 1
@@ -20782,6 +22303,21 @@
     }
   },
   "abdul-baha-promulgation-universal-peace-045": {
+    "3": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 326,
+          "end": 330,
+          "count": 1
+        }
+      ]
+    },
     "4": {
       "refs": [
         {
@@ -20820,6 +22356,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 36,
+          "count": 1
+        },
         {
           "start": 37,
           "end": 132,
@@ -20868,6 +22409,11 @@
       ],
       "parts": [
         {
+          "start": 99,
+          "end": 123,
+          "count": 1
+        },
+        {
           "start": 124,
           "end": 236,
           "count": 1
@@ -20900,6 +22446,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 33,
+          "count": 1
+        },
+        {
           "start": 34,
           "end": 176,
           "count": 1
@@ -20917,6 +22468,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 24,
+          "count": 1
+        },
+        {
           "start": 25,
           "end": 548,
           "count": 1
@@ -20933,6 +22489,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 29,
+          "count": 1
+        },
         {
           "start": 30,
           "end": 479,
@@ -21007,6 +22568,11 @@
       ],
       "parts": [
         {
+          "start": 442,
+          "end": 472,
+          "count": 1
+        },
+        {
           "start": 473,
           "end": 589,
           "count": 1
@@ -21034,8 +22600,18 @@
       ],
       "parts": [
         {
+          "start": 45,
+          "end": 78,
+          "count": 1
+        },
+        {
           "start": 79,
           "end": 213,
+          "count": 1
+        },
+        {
+          "start": 214,
+          "end": 225,
           "count": 1
         },
         {
@@ -21080,6 +22656,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 21,
+          "count": 1
+        },
+        {
           "start": 22,
           "end": 385,
           "count": 1
@@ -21096,6 +22677,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 52,
+          "count": 1
+        },
         {
           "start": 53,
           "end": 178,
@@ -21117,6 +22703,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 16,
+          "count": 1
+        },
         {
           "start": 17,
           "end": 348,
@@ -21153,6 +22744,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 6,
+          "count": 1
+        },
         {
           "start": 7,
           "end": 46,
@@ -21208,6 +22804,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 39,
+          "count": 1
+        },
+        {
           "start": 40,
           "end": 140,
           "count": 1
@@ -21225,6 +22826,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 23,
+          "count": 1
+        },
+        {
           "start": 24,
           "end": 114,
           "count": 1
@@ -21241,6 +22847,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 6,
+          "count": 1
+        },
         {
           "start": 7,
           "end": 347,
@@ -21268,6 +22879,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 7,
+          "count": 2
+        },
+        {
+          "start": 7,
           "end": 8,
           "count": 1
         },
@@ -21278,6 +22894,11 @@
         },
         {
           "start": 20,
+          "end": 37,
+          "count": 3
+        },
+        {
+          "start": 37,
           "end": 38,
           "count": 2
         },
@@ -21293,6 +22914,16 @@
         },
         {
           "start": 310,
+          "end": 312,
+          "count": 2
+        },
+        {
+          "start": 312,
+          "end": 337,
+          "count": 3
+        },
+        {
+          "start": 337,
           "end": 338,
           "count": 2
         },
@@ -21313,6 +22944,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 43,
+          "count": 1
+        },
         {
           "start": 44,
           "end": 272,
@@ -21350,6 +22986,21 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 3,
+          "count": 1
+        },
+        {
+          "start": 3,
+          "end": 27,
+          "count": 1
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "count": 1
+        },
+        {
           "start": 29,
           "end": 257,
           "count": 1
@@ -21384,6 +23035,11 @@
       "parts": [
         {
           "start": 14,
+          "end": 45,
+          "count": 2
+        },
+        {
+          "start": 45,
           "end": 46,
           "count": 1
         },
@@ -21427,6 +23083,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 37,
+          "count": 4
+        },
+        {
+          "start": 37,
           "end": 38,
           "count": 2
         },
@@ -21533,9 +23194,33 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 33,
+          "count": 1
+        },
+        {
           "start": 34,
           "end": 1016,
           "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 106
+        },
+        {
+          "id": "shoghi-effendi-citadel-faith-005",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 771,
+          "end": 779,
+          "count": 2
         }
       ]
     },
@@ -21605,6 +23290,21 @@
     }
   },
   "abdul-baha-tablets-divine-plan-006": {
+    "5": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-citadel-faith-005",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 12,
+          "end": 37,
+          "count": 1
+        }
+      ]
+    },
     "6": {
       "refs": [
         {
@@ -21637,6 +23337,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 23,
+          "count": 2
+        },
+        {
           "start": 24,
           "end": 352,
           "count": 2
@@ -21661,6 +23366,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 23,
+          "count": 2
+        },
+        {
           "start": 24,
           "end": 298,
           "count": 2
@@ -21681,6 +23391,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 15,
+          "count": 2
+        },
+        {
+          "start": 15,
           "end": 16,
           "count": 1
         },
@@ -21738,8 +23453,18 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 8,
+          "count": 1
+        },
+        {
           "start": 9,
           "end": 645,
+          "count": 1
+        },
+        {
+          "start": 1248,
+          "end": 1260,
           "count": 1
         },
         {
@@ -21749,6 +23474,11 @@
         },
         {
           "start": 1409,
+          "end": 1468,
+          "count": 2
+        },
+        {
+          "start": 1468,
           "end": 1469,
           "count": 1
         },
@@ -21785,6 +23515,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 16,
+          "count": 1
+        },
+        {
           "start": 17,
           "end": 491,
           "count": 1
@@ -21815,11 +23550,21 @@
       "parts": [
         {
           "start": 0,
+          "end": 28,
+          "count": 2
+        },
+        {
+          "start": 28,
           "end": 29,
           "count": 1
         },
         {
           "start": 29,
+          "end": 53,
+          "count": 4
+        },
+        {
+          "start": 53,
           "end": 54,
           "count": 3
         },
@@ -21858,6 +23603,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 39,
+          "count": 4
+        },
+        {
+          "start": 39,
+          "end": 89,
+          "count": 5
+        },
+        {
+          "start": 89,
           "end": 90,
           "count": 4
         },
@@ -21880,6 +23635,21 @@
     }
   },
   "abdul-baha-tablets-divine-plan-001": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 86
+        }
+      ],
+      "parts": [
+        {
+          "start": 32,
+          "end": 36,
+          "count": 1
+        }
+      ]
+    },
     "4": {
       "refs": [
         {
@@ -21892,6 +23662,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 2022,
+          "end": 2062,
+          "count": 1
+        },
         {
           "start": 2063,
           "end": 2313,
@@ -22000,6 +23775,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 10,
+          "count": 3
+        },
+        {
+          "start": 10,
           "end": 11,
           "count": 2
         },
@@ -22112,11 +23892,21 @@
         },
         {
           "start": 703,
+          "end": 723,
+          "count": 6
+        },
+        {
+          "start": 723,
           "end": 724,
-          "count": 5
+          "count": 6
         },
         {
           "start": 724,
+          "end": 763,
+          "count": 6
+        },
+        {
+          "start": 763,
           "end": 764,
           "count": 5
         },
@@ -22173,6 +23963,16 @@
         },
         {
           "start": 240,
+          "end": 241,
+          "count": 1
+        },
+        {
+          "start": 241,
+          "end": 246,
+          "count": 1
+        },
+        {
+          "start": 246,
           "end": 247,
           "count": 1
         },
@@ -22199,6 +23999,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 18,
+          "count": 2
+        },
+        {
+          "start": 18,
           "end": 19,
           "count": 1
         },
@@ -22346,6 +24151,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 20,
+          "count": 3
+        },
+        {
+          "start": 20,
           "end": 21,
           "count": 1
         },
@@ -22460,10 +24270,15 @@
         {
           "start": 0,
           "end": 12,
-          "count": 8
+          "count": 9
         },
         {
           "start": 12,
+          "end": 15,
+          "count": 10
+        },
+        {
+          "start": 15,
           "end": 16,
           "count": 9
         },
@@ -22545,6 +24360,11 @@
       "parts": [
         {
           "start": 126,
+          "end": 130,
+          "count": 9
+        },
+        {
+          "start": 130,
           "end": 131,
           "count": 6
         },
@@ -22765,6 +24585,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 31,
+          "count": 2
+        },
+        {
+          "start": 31,
           "end": 32,
           "count": 1
         },
@@ -22933,6 +24758,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 212,
+          "count": 2
+        },
+        {
+          "start": 212,
+          "end": 248,
+          "count": 3
+        },
+        {
+          "start": 248,
           "end": 249,
           "count": 2
         },
@@ -23099,6 +24934,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 21,
+          "count": 3
+        },
+        {
+          "start": 21,
           "end": 22,
           "count": 2
         },
@@ -23250,6 +25090,11 @@
         {
           "start": 0,
           "end": 72,
+          "count": 1
+        },
+        {
+          "start": 116,
+          "end": 180,
           "count": 1
         },
         {
@@ -23538,6 +25383,10 @@
     "2": {
       "refs": [
         {
+          "id": "shoghi-effendi-promised-day-come-001",
+          "paragraph": 34
+        },
+        {
           "id": "ruhi7-001",
           "paragraph": 7
         }
@@ -23545,6 +25394,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 14,
+          "count": 2
+        },
+        {
+          "start": 14,
           "end": 176,
           "count": 1
         }
@@ -23693,6 +25547,11 @@
         },
         {
           "start": 178,
+          "end": 200,
+          "count": 3
+        },
+        {
+          "start": 200,
           "end": 201,
           "count": 2
         },
@@ -23800,13 +25659,18 @@
       "parts": [
         {
           "start": 0,
+          "end": 24,
+          "count": 5
+        },
+        {
+          "start": 24,
           "end": 25,
-          "count": 3
+          "count": 4
         },
         {
           "start": 25,
           "end": 61,
-          "count": 4
+          "count": 5
         },
         {
           "start": 61,
@@ -23936,6 +25800,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 48,
+          "count": 1
+        },
+        {
+          "start": 48,
+          "end": 63,
+          "count": 2
+        },
+        {
+          "start": 63,
           "end": 64,
           "count": 1
         },
@@ -24309,11 +26183,26 @@
         },
         {
           "start": 29,
+          "end": 63,
+          "count": 4
+        },
+        {
+          "start": 63,
           "end": 64,
           "count": 3
         },
         {
           "start": 64,
+          "end": 112,
+          "count": 4
+        },
+        {
+          "start": 112,
+          "end": 139,
+          "count": 5
+        },
+        {
+          "start": 139,
           "end": 252,
           "count": 4
         },
@@ -24502,6 +26391,18 @@
     "6": {
       "refs": [
         {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 126
+        },
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-004",
+          "paragraph": 8
+        },
+        {
+          "id": "shoghi-effendi-citadel-faith-005",
+          "paragraph": 93
+        },
+        {
           "id": "publications-individual-authors-bahaullah-new-era-020",
           "paragraph": 66
         }
@@ -24509,6 +26410,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 143,
+          "count": 1
+        },
+        {
+          "start": 143,
+          "end": 156,
+          "count": 4
+        },
+        {
+          "start": 156,
           "end": 919,
           "count": 1
         }
@@ -24676,6 +26587,16 @@
         },
         {
           "start": 235,
+          "end": 511,
+          "count": 4
+        },
+        {
+          "start": 511,
+          "end": 537,
+          "count": 5
+        },
+        {
+          "start": 537,
           "end": 538,
           "count": 4
         },
@@ -24740,6 +26661,10 @@
           "paragraph": 10
         },
         {
+          "id": "the-universal-house-of-justice-additional-messages-012",
+          "paragraph": 7
+        },
+        {
           "id": "the-universal-house-of-justice-messages-038",
           "paragraph": 11
         },
@@ -24765,6 +26690,16 @@
         },
         {
           "start": 516,
+          "end": 630,
+          "count": 4
+        },
+        {
+          "start": 630,
+          "end": 660,
+          "count": 5
+        },
+        {
+          "start": 660,
           "end": 970,
           "count": 4
         }
@@ -24878,6 +26813,11 @@
       ],
       "parts": [
         {
+          "start": 157,
+          "end": 186,
+          "count": 1
+        },
+        {
           "start": 921,
           "end": 964,
           "count": 1
@@ -24905,6 +26845,36 @@
         {
           "start": 298,
           "end": 597,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-038",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 725,
+          "end": 731,
+          "count": 1
+        }
+      ]
+    },
+    "34": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-121",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 436,
+          "end": 445,
           "count": 1
         }
       ]
@@ -24965,6 +26935,10 @@
     "50": {
       "refs": [
         {
+          "id": "shoghi-effendi-world-order-bahaullah-004",
+          "paragraph": 26
+        },
+        {
           "id": "the-universal-house-of-justice-messages-038",
           "paragraph": 12
         },
@@ -25005,6 +26979,16 @@
         },
         {
           "start": 692,
+          "end": 776,
+          "count": 2
+        },
+        {
+          "start": 776,
+          "end": 781,
+          "count": 3
+        },
+        {
+          "start": 781,
           "end": 933,
           "count": 2
         },
@@ -25023,6 +27007,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 451,
+          "end": 502,
+          "count": 1
+        },
         {
           "start": 513,
           "end": 577,
@@ -25392,6 +27381,11 @@
       ],
       "parts": [
         {
+          "start": 368,
+          "end": 381,
+          "count": 1
+        },
+        {
           "start": 382,
           "end": 539,
           "count": 1
@@ -25531,6 +27525,16 @@
         },
         {
           "start": 225,
+          "end": 547,
+          "count": 1
+        },
+        {
+          "start": 547,
+          "end": 574,
+          "count": 2
+        },
+        {
+          "start": 574,
           "end": 825,
           "count": 1
         }
@@ -25729,6 +27733,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 6,
+          "count": 4
+        },
+        {
+          "start": 6,
           "end": 7,
           "count": 3
         },
@@ -26105,6 +28114,11 @@
       ],
       "parts": [
         {
+          "start": 79,
+          "end": 93,
+          "count": 1
+        },
+        {
           "start": 484,
           "end": 575,
           "count": 1
@@ -26287,6 +28301,10 @@
     "84": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-messages-046",
+          "paragraph": 47
+        },
+        {
           "id": "compilations-social-action-001",
           "paragraph": 303
         },
@@ -26307,6 +28325,16 @@
         },
         {
           "start": 46,
+          "end": 182,
+          "count": 3
+        },
+        {
+          "start": 182,
+          "end": 214,
+          "count": 4
+        },
+        {
+          "start": 214,
           "end": 278,
           "count": 3
         },
@@ -26380,6 +28408,11 @@
       ],
       "parts": [
         {
+          "start": 258,
+          "end": 277,
+          "count": 2
+        },
+        {
           "start": 278,
           "end": 494,
           "count": 2
@@ -26436,6 +28469,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 22,
+          "count": 2
+        },
+        {
+          "start": 22,
           "end": 23,
           "count": 1
         },
@@ -26476,6 +28514,21 @@
         }
       ]
     },
+    "8": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 322
+        }
+      ],
+      "parts": [
+        {
+          "start": 499,
+          "end": 503,
+          "count": 1
+        }
+      ]
+    },
     "12": {
       "refs": [
         {
@@ -26484,6 +28537,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 240,
+          "end": 277,
+          "count": 1
+        },
         {
           "start": 278,
           "end": 319,
@@ -26520,6 +28578,11 @@
       ],
       "parts": [
         {
+          "start": 108,
+          "end": 138,
+          "count": 1
+        },
+        {
           "start": 149,
           "end": 229,
           "count": 1
@@ -26549,6 +28612,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 52,
+          "count": 1
+        },
         {
           "start": 53,
           "end": 294,
@@ -26647,6 +28715,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 45,
+          "count": 1
+        },
+        {
           "start": 46,
           "end": 234,
           "count": 1
@@ -26699,6 +28772,11 @@
       ],
       "parts": [
         {
+          "start": 482,
+          "end": 505,
+          "count": 1
+        },
+        {
           "start": 506,
           "end": 1384,
           "count": 1
@@ -26716,6 +28794,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 20,
+          "count": 1
+        },
+        {
           "start": 21,
           "end": 308,
           "count": 1
@@ -26732,6 +28815,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 17,
+          "count": 1
+        },
         {
           "start": 18,
           "end": 219,
@@ -26771,6 +28859,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 22,
+          "count": 1
+        },
         {
           "start": 23,
           "end": 218,
@@ -26836,7 +28929,17 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 5,
+          "count": 1
+        },
+        {
           "start": 5,
+          "end": 21,
+          "count": 3
+        },
+        {
+          "start": 21,
           "end": 22,
           "count": 2
         },
@@ -26936,6 +29039,10 @@
           "paragraph": 11
         },
         {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 466
+        },
+        {
           "id": "publications-individual-authors-bahaullah-new-era-014",
           "paragraph": 61
         }
@@ -26943,6 +29050,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 189,
+          "count": 2
+        },
+        {
+          "start": 189,
+          "end": 239,
+          "count": 3
+        },
+        {
+          "start": 239,
           "end": 359,
           "count": 2
         },
@@ -26992,6 +29109,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 31,
+          "count": 1
+        },
         {
           "start": 32,
           "end": 248,
@@ -27043,6 +29165,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 8,
+          "count": 1
+        },
+        {
+          "start": 8,
           "end": 321,
           "count": 1
         }
@@ -27087,6 +29214,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 11,
+          "count": 3
+        },
+        {
+          "start": 11,
           "end": 12,
           "count": 2
         },
@@ -27118,6 +29250,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 26,
+          "count": 2
+        },
+        {
+          "start": 26,
           "end": 27,
           "count": 1
         },
@@ -27173,6 +29310,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 13,
+          "count": 1
+        },
+        {
           "start": 14,
           "end": 320,
           "count": 1
@@ -27200,6 +29342,11 @@
       ],
       "parts": [
         {
+          "start": 840,
+          "end": 862,
+          "count": 1
+        },
+        {
           "start": 863,
           "end": 1011,
           "count": 1
@@ -27216,6 +29363,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 9,
+          "end": 20,
+          "count": 1
+        },
         {
           "start": 21,
           "end": 368,
@@ -27241,11 +29393,26 @@
       "parts": [
         {
           "start": 0,
+          "end": 7,
+          "count": 2
+        },
+        {
+          "start": 7,
           "end": 8,
           "count": 1
         },
         {
           "start": 8,
+          "end": 26,
+          "count": 2
+        },
+        {
+          "start": 26,
+          "end": 73,
+          "count": 3
+        },
+        {
+          "start": 73,
           "end": 74,
           "count": 2
         },
@@ -27297,6 +29464,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 35,
+          "count": 7
+        },
+        {
+          "start": 35,
           "end": 36,
           "count": 5
         },
@@ -27334,6 +29506,21 @@
     }
   },
   "bahaullah-gleanings-writings-bahaullah-034": {
+    "3": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-011",
+          "paragraph": 77
+        }
+      ],
+      "parts": [
+        {
+          "start": 324,
+          "end": 333,
+          "count": 1
+        }
+      ]
+    },
     "5": {
       "refs": [
         {
@@ -27421,6 +29608,11 @@
           "count": 2
         },
         {
+          "start": 1480,
+          "end": 1524,
+          "count": 1
+        },
+        {
           "start": 1526,
           "end": 1711,
           "count": 1
@@ -27441,6 +29633,16 @@
       "parts": [
         {
           "start": 76,
+          "end": 151,
+          "count": 1
+        },
+        {
+          "start": 151,
+          "end": 169,
+          "count": 2
+        },
+        {
+          "start": 169,
           "end": 170,
           "count": 1
         },
@@ -27482,6 +29684,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 15,
+          "count": 2
+        },
+        {
+          "start": 15,
           "end": 16,
           "count": 1
         },
@@ -27510,6 +29717,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 222,
+          "end": 276,
+          "count": 1
+        },
         {
           "start": 278,
           "end": 320,
@@ -27581,6 +29793,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 23,
+          "count": 1
+        },
+        {
           "start": 24,
           "end": 101,
           "count": 2
@@ -27592,6 +29809,26 @@
         },
         {
           "start": 102,
+          "end": 109,
+          "count": 2
+        },
+        {
+          "start": 109,
+          "end": 158,
+          "count": 3
+        },
+        {
+          "start": 158,
+          "end": 182,
+          "count": 2
+        },
+        {
+          "start": 182,
+          "end": 206,
+          "count": 2
+        },
+        {
+          "start": 206,
           "end": 326,
           "count": 2
         },
@@ -27632,6 +29869,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 56,
+          "count": 1
+        },
         {
           "start": 57,
           "end": 163,
@@ -27684,6 +29926,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 34,
+          "count": 1
+        },
+        {
           "start": 41,
           "end": 99,
           "count": 1
@@ -27716,6 +29963,11 @@
       ],
       "parts": [
         {
+          "start": 245,
+          "end": 265,
+          "count": 1
+        },
+        {
           "start": 266,
           "end": 480,
           "count": 1
@@ -27747,6 +29999,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 63,
+          "end": 105,
+          "count": 1
+        },
         {
           "start": 107,
           "end": 145,
@@ -27805,6 +30062,21 @@
     }
   },
   "bahaullah-summons-lord-hosts-004": {
+    "3": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 337
+        }
+      ],
+      "parts": [
+        {
+          "start": 797,
+          "end": 801,
+          "count": 1
+        }
+      ]
+    },
     "5": {
       "refs": [
         {
@@ -27813,6 +30085,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 128,
+          "end": 143,
+          "count": 1
+        },
         {
           "start": 144,
           "end": 185,
@@ -27845,11 +30122,30 @@
         {
           "id": "shoghi-effendi-promised-day-come-001",
           "paragraph": 167
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 390
         }
       ],
       "parts": [
         {
+          "start": 489,
+          "end": 493,
+          "count": 1
+        },
+        {
           "start": 494,
+          "end": 591,
+          "count": 1
+        },
+        {
+          "start": 591,
+          "end": 618,
+          "count": 2
+        },
+        {
+          "start": 618,
           "end": 694,
           "count": 1
         }
@@ -27942,6 +30238,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 11,
+          "count": 1
+        },
         {
           "start": 12,
           "end": 542,
@@ -28092,6 +30393,11 @@
           "count": 1
         },
         {
+          "start": 642,
+          "end": 649,
+          "count": 1
+        },
+        {
           "start": 650,
           "end": 816,
           "count": 1
@@ -28134,6 +30440,11 @@
       "parts": [
         {
           "start": 10,
+          "end": 53,
+          "count": 2
+        },
+        {
+          "start": 53,
           "end": 54,
           "count": 1
         },
@@ -28174,6 +30485,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 153,
+          "end": 172,
+          "count": 1
+        },
         {
           "start": 173,
           "end": 478,
@@ -28263,6 +30579,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 7,
+          "count": 2
+        },
+        {
+          "start": 7,
           "end": 8,
           "count": 1
         },
@@ -28314,6 +30635,11 @@
       "parts": [
         {
           "start": 700,
+          "end": 707,
+          "count": 2
+        },
+        {
+          "start": 707,
           "end": 708,
           "count": 1
         },
@@ -28410,6 +30736,21 @@
     }
   },
   "bahaullah-tablets-bahaullah-002": {
+    "4": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-promised-day-come-001",
+          "paragraph": 286
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 4,
+          "count": 1
+        }
+      ]
+    },
     "7": {
       "refs": [
         {
@@ -28504,6 +30845,11 @@
       ],
       "parts": [
         {
+          "start": 116,
+          "end": 168,
+          "count": 1
+        },
+        {
           "start": 586,
           "end": 652,
           "count": 1
@@ -28528,6 +30874,16 @@
       "parts": [
         {
           "start": 5,
+          "end": 61,
+          "count": 3
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "count": 3
+        },
+        {
+          "start": 69,
           "end": 147,
           "count": 3
         },
@@ -28638,6 +30994,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 560,
+          "end": 611,
+          "count": 1
+        },
         {
           "start": 618,
           "end": 679,
@@ -29182,6 +31543,11 @@
           "count": 1
         },
         {
+          "start": 873,
+          "end": 887,
+          "count": 1
+        },
+        {
           "start": 888,
           "end": 1007,
           "count": 1
@@ -29213,6 +31579,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 80,
+          "end": 89,
+          "count": 1
+        },
         {
           "start": 451,
           "end": 546,
@@ -29263,11 +31634,26 @@
         },
         {
           "start": 382,
+          "end": 406,
+          "count": 2
+        },
+        {
+          "start": 406,
           "end": 407,
           "count": 1
         },
         {
           "start": 407,
+          "end": 511,
+          "count": 2
+        },
+        {
+          "start": 511,
+          "end": 519,
+          "count": 2
+        },
+        {
+          "start": 519,
           "end": 540,
           "count": 2
         },
@@ -29294,6 +31680,16 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 9,
+          "count": 1
+        },
+        {
+          "start": 10,
+          "end": 35,
+          "count": 1
+        },
+        {
           "start": 36,
           "end": 118,
           "count": 1
@@ -29318,8 +31714,18 @@
           "count": 1
         },
         {
+          "start": 394,
+          "end": 432,
+          "count": 1
+        },
+        {
           "start": 434,
           "end": 652,
+          "count": 1
+        },
+        {
+          "start": 737,
+          "end": 766,
           "count": 1
         },
         {
@@ -29437,6 +31843,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 492,
+          "count": 1
+        },
+        {
+          "start": 492,
+          "end": 537,
+          "count": 2
+        },
+        {
+          "start": 537,
           "end": 538,
           "count": 1
         },
@@ -29487,6 +31903,11 @@
         },
         {
           "start": 801,
+          "end": 832,
+          "count": 3
+        },
+        {
+          "start": 832,
           "end": 833,
           "count": 2
         },
@@ -29517,6 +31938,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 225,
+          "end": 253,
+          "count": 1
+        },
         {
           "start": 254,
           "end": 368,
@@ -29549,6 +31975,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 313,
+          "end": 329,
+          "count": 1
+        },
         {
           "start": 330,
           "end": 495,
@@ -29630,6 +32061,11 @@
       "parts": [
         {
           "start": 356,
+          "end": 382,
+          "count": 3
+        },
+        {
+          "start": 382,
           "end": 383,
           "count": 1
         },
@@ -29684,6 +32120,11 @@
       ],
       "parts": [
         {
+          "start": 81,
+          "end": 103,
+          "count": 1
+        },
+        {
           "start": 141,
           "end": 234,
           "count": 1
@@ -29691,6 +32132,11 @@
         {
           "start": 362,
           "end": 445,
+          "count": 1
+        },
+        {
+          "start": 446,
+          "end": 466,
           "count": 1
         },
         {
@@ -29729,6 +32175,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 27,
+          "count": 1
+        },
         {
           "start": 28,
           "end": 89,
@@ -29795,13 +32246,45 @@
     "3": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-messages-292",
+          "paragraph": 14
+        },
+        {
+          "id": "official-statements-commentaries-bahaullah-001",
+          "paragraph": 42
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-017",
+          "paragraph": 7
+        },
+        {
           "id": "ruhi5-001",
           "paragraph": 73
         }
       ],
       "parts": [
         {
+          "start": 438,
+          "end": 450,
+          "count": 1
+        },
+        {
+          "start": 902,
+          "end": 910,
+          "count": 1
+        },
+        {
           "start": 1704,
+          "end": 1732,
+          "count": 1
+        },
+        {
+          "start": 1732,
+          "end": 1739,
+          "count": 2
+        },
+        {
+          "start": 1739,
           "end": 2265,
           "count": 1
         }
@@ -29810,14 +32293,38 @@
     "4": {
       "refs": [
         {
+          "id": "bahaullah-kitab-i-aqdas-204",
+          "paragraph": 2
+        },
+        {
           "id": "ruhi5-001",
           "paragraph": 74
         }
       ],
       "parts": [
         {
+          "start": 1864,
+          "end": 1870,
+          "count": 1
+        },
+        {
           "start": 2675,
           "end": 3563,
+          "count": 1
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-224",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 544,
+          "end": 548,
           "count": 1
         }
       ]
@@ -29833,6 +32340,21 @@
         {
           "start": 1072,
           "end": 1435,
+          "count": 1
+        }
+      ]
+    },
+    "36": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-011",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 323,
+          "end": 334,
           "count": 1
         }
       ]
@@ -29865,7 +32387,22 @@
           "count": 1
         },
         {
+          "start": 1701,
+          "end": 1759,
+          "count": 1
+        },
+        {
           "start": 1760,
+          "end": 2059,
+          "count": 1
+        },
+        {
+          "start": 2059,
+          "end": 2105,
+          "count": 1
+        },
+        {
+          "start": 2105,
           "end": 2121,
           "count": 1
         },
@@ -29877,6 +32414,21 @@
         {
           "start": 2234,
           "end": 2236,
+          "count": 1
+        }
+      ]
+    },
+    "45": {
+      "refs": [
+        {
+          "id": "abdul-baha-light-of-the-world-001",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 327,
+          "end": 345,
           "count": 1
         }
       ]
@@ -29904,6 +32456,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 1642,
+          "end": 1681,
+          "count": 1
+        },
         {
           "start": 1709,
           "end": 1813,
@@ -29937,6 +32494,11 @@
         {
           "start": 1013,
           "end": 1087,
+          "count": 1
+        },
+        {
+          "start": 1388,
+          "end": 1412,
           "count": 1
         },
         {
@@ -30084,6 +32646,11 @@
       ],
       "parts": [
         {
+          "start": 390,
+          "end": 434,
+          "count": 1
+        },
+        {
           "start": 435,
           "end": 650,
           "count": 1
@@ -30174,6 +32741,11 @@
       ],
       "parts": [
         {
+          "start": 300,
+          "end": 329,
+          "count": 1
+        },
+        {
           "start": 466,
           "end": 588,
           "count": 1
@@ -30219,6 +32791,11 @@
         },
         {
           "start": 699,
+          "end": 765,
+          "count": 2
+        },
+        {
+          "start": 765,
           "end": 884,
           "count": 1
         }
@@ -30307,6 +32884,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 101,
+          "end": 114,
+          "count": 1
+        },
         {
           "start": 129,
           "end": 202,
@@ -30458,6 +33040,11 @@
       ],
       "parts": [
         {
+          "start": 1012,
+          "end": 1038,
+          "count": 1
+        },
+        {
           "start": 1039,
           "end": 1065,
           "count": 1
@@ -30522,6 +33109,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 191,
+          "end": 215,
+          "count": 1
+        },
         {
           "start": 247,
           "end": 334,
@@ -30656,8 +33248,28 @@
           "count": 1
         },
         {
+          "start": 765,
+          "end": 819,
+          "count": 1
+        },
+        {
           "start": 851,
           "end": 1290,
+          "count": 1
+        }
+      ]
+    },
+    "491": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-480",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 367,
+          "end": 378,
           "count": 1
         }
       ]
@@ -30762,6 +33374,21 @@
         {
           "start": 605,
           "end": 987,
+          "count": 1
+        }
+      ]
+    },
+    "516": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-412",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 85,
+          "end": 145,
           "count": 1
         }
       ]
@@ -31350,6 +33977,10 @@
     "5": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-messages-468",
+          "paragraph": 44
+        },
+        {
           "id": "ruhi8-002",
           "paragraph": 88
         }
@@ -31357,6 +33988,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 65,
+          "count": 1
+        },
+        {
+          "start": 65,
+          "end": 69,
+          "count": 2
+        },
+        {
+          "start": 69,
           "end": 1319,
           "count": 1
         }
@@ -31418,7 +34059,17 @@
           "count": 1
         },
         {
+          "start": 492,
+          "end": 525,
+          "count": 1
+        },
+        {
           "start": 528,
+          "end": 567,
+          "count": 2
+        },
+        {
+          "start": 567,
           "end": 568,
           "count": 1
         },
@@ -31444,6 +34095,11 @@
         {
           "start": 0,
           "end": 176,
+          "count": 1
+        },
+        {
+          "start": 177,
+          "end": 222,
           "count": 1
         },
         {
@@ -31533,6 +34189,16 @@
         },
         {
           "start": 46,
+          "end": 524,
+          "count": 4
+        },
+        {
+          "start": 524,
+          "end": 552,
+          "count": 5
+        },
+        {
+          "start": 552,
           "end": 626,
           "count": 4
         },
@@ -32236,6 +34902,16 @@
         },
         {
           "start": 108,
+          "end": 198,
+          "count": 1
+        },
+        {
+          "start": 198,
+          "end": 216,
+          "count": 2
+        },
+        {
+          "start": 216,
           "end": 252,
           "count": 1
         }
@@ -32464,6 +35140,11 @@
       ],
       "parts": [
         {
+          "start": 138,
+          "end": 144,
+          "count": 1
+        },
+        {
           "start": 145,
           "end": 242,
           "count": 1
@@ -32500,6 +35181,11 @@
       "parts": [
         {
           "start": 390,
+          "end": 418,
+          "count": 4
+        },
+        {
+          "start": 418,
           "end": 505,
           "count": 3
         },
@@ -33055,6 +35741,21 @@
     }
   },
   "shoghi-effendi-world-order-bahaullah-010": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-172",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 28,
+          "end": 32,
+          "count": 1
+        }
+      ]
+    },
     "3": {
       "refs": [
         {
@@ -33097,12 +35798,24 @@
     "5": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-messages-463",
+          "paragraph": 25
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-278",
+          "paragraph": 6
+        },
+        {
           "id": "compilations-significance-formative-age-our-faith-001",
           "paragraph": 7
         },
         {
           "id": "bahaullah-kitab-i-aqdas-199",
           "paragraph": 2
+        },
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 153
         },
         {
           "id": "official-statements-commentaries-century-light-002",
@@ -33134,6 +35847,21 @@
         },
         {
           "start": 334,
+          "end": 562,
+          "count": 1
+        },
+        {
+          "start": 562,
+          "end": 593,
+          "count": 4
+        },
+        {
+          "start": 593,
+          "end": 594,
+          "count": 3
+        },
+        {
+          "start": 594,
           "end": 598,
           "count": 1
         },
@@ -33172,6 +35900,10 @@
     "6": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-messages-463",
+          "paragraph": 10
+        },
+        {
           "id": "the-universal-house-of-justice-messages-273",
           "paragraph": 11
         }
@@ -33180,6 +35912,11 @@
         {
           "start": 43,
           "end": 399,
+          "count": 1
+        },
+        {
+          "start": 2063,
+          "end": 2078,
           "count": 1
         }
       ]
@@ -33211,6 +35948,10 @@
           "paragraph": 18
         },
         {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 166
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-001",
           "paragraph": 67
         }
@@ -33218,6 +35959,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 84,
+          "count": 1
+        },
+        {
+          "start": 84,
+          "end": 101,
+          "count": 2
+        },
+        {
+          "start": 101,
           "end": 715,
           "count": 1
         },
@@ -33274,6 +36025,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 221,
+          "count": 1
+        },
+        {
+          "start": 221,
+          "end": 260,
+          "count": 2
+        },
+        {
+          "start": 260,
           "end": 261,
           "count": 1
         },
@@ -33526,6 +36287,11 @@
       ],
       "parts": [
         {
+          "start": 422,
+          "end": 437,
+          "count": 1
+        },
+        {
           "start": 438,
           "end": 548,
           "count": 1
@@ -33574,6 +36340,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 34,
+          "count": 2
+        },
+        {
+          "start": 34,
           "end": 35,
           "count": 1
         },
@@ -33630,6 +36401,16 @@
         },
         {
           "start": 773,
+          "end": 774,
+          "count": 2
+        },
+        {
+          "start": 774,
+          "end": 792,
+          "count": 3
+        },
+        {
+          "start": 792,
           "end": 819,
           "count": 2
         },
@@ -33797,6 +36578,10 @@
     "9": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-messages-078",
+          "paragraph": 53
+        },
+        {
           "id": "ruhi9-002",
           "paragraph": 64
         },
@@ -33808,6 +36593,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 690,
+          "count": 1
+        },
+        {
+          "start": 690,
+          "end": 696,
+          "count": 2
+        },
+        {
+          "start": 696,
           "end": 1154,
           "count": 1
         },
@@ -34014,6 +36809,16 @@
         },
         {
           "start": 12,
+          "end": 30,
+          "count": 6
+        },
+        {
+          "start": 30,
+          "end": 61,
+          "count": 7
+        },
+        {
+          "start": 61,
           "end": 62,
           "count": 6
         },
@@ -34029,6 +36834,16 @@
         },
         {
           "start": 184,
+          "end": 205,
+          "count": 7
+        },
+        {
+          "start": 205,
+          "end": 228,
+          "count": 7
+        },
+        {
+          "start": 228,
           "end": 490,
           "count": 7
         }
@@ -34102,6 +36917,16 @@
         },
         {
           "start": 686,
+          "end": 718,
+          "count": 4
+        },
+        {
+          "start": 718,
+          "end": 740,
+          "count": 5
+        },
+        {
+          "start": 740,
           "end": 745,
           "count": 4
         },
@@ -34349,6 +37174,21 @@
         }
       ]
     },
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-232",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 1364,
+          "end": 1387,
+          "count": 1
+        }
+      ]
+    },
     "8": {
       "refs": [
         {
@@ -34384,6 +37224,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 2,
+          "count": 2
+        },
+        {
+          "start": 2,
+          "end": 41,
+          "count": 3
+        },
+        {
+          "start": 41,
           "end": 207,
           "count": 2
         },
@@ -34622,6 +37472,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 13,
+          "count": 1
+        },
+        {
           "start": 14,
           "end": 390,
           "count": 1
@@ -34636,6 +37491,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 970,
+          "end": 983,
+          "count": 1
+        },
         {
           "start": 1007,
           "end": 1188,
@@ -34858,6 +37718,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 471,
+          "count": 1
+        },
+        {
+          "start": 471,
+          "end": 502,
+          "count": 2
+        },
+        {
+          "start": 502,
           "end": 526,
           "count": 1
         },
@@ -35060,6 +37930,21 @@
     }
   },
   "shoghi-effendi-world-order-bahaullah-002": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 163
+        }
+      ],
+      "parts": [
+        {
+          "start": 31,
+          "end": 40,
+          "count": 1
+        }
+      ]
+    },
     "5": {
       "refs": [
         {
@@ -35322,8 +38207,13 @@
       "parts": [
         {
           "start": 4,
-          "end": 112,
+          "end": 73,
           "count": 1
+        },
+        {
+          "start": 73,
+          "end": 112,
+          "count": 2
         },
         {
           "start": 116,
@@ -35346,6 +38236,11 @@
       "parts": [
         {
           "start": 328,
+          "end": 349,
+          "count": 2
+        },
+        {
+          "start": 349,
           "end": 350,
           "count": 1
         },
@@ -35479,6 +38374,11 @@
           "count": 1
         },
         {
+          "start": 148,
+          "end": 208,
+          "count": 1
+        },
+        {
           "start": 1480,
           "end": 2135,
           "count": 1
@@ -35548,11 +38448,25 @@
         {
           "id": "compilations-chaste-holy-life-001",
           "paragraph": 76
+        },
+        {
+          "id": "bahaullah-kitab-i-aqdas-180",
+          "paragraph": 1
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 6,
+          "count": 1
+        },
+        {
+          "start": 6,
+          "end": 28,
+          "count": 2
+        },
+        {
+          "start": 28,
           "end": 259,
           "count": 1
         },
@@ -35711,6 +38625,11 @@
       ],
       "parts": [
         {
+          "start": 24,
+          "end": 47,
+          "count": 1
+        },
+        {
           "start": 77,
           "end": 159,
           "count": 1
@@ -35743,13 +38662,27 @@
           "paragraph": 54
         },
         {
+          "id": "the-universal-house-of-justice-messages-078",
+          "paragraph": 44
+        },
+        {
           "id": "the-universal-house-of-justice-messages-031",
           "paragraph": 15
         }
       ],
       "parts": [
         {
+          "start": 270,
+          "end": 323,
+          "count": 1
+        },
+        {
           "start": 731,
+          "end": 778,
+          "count": 2
+        },
+        {
+          "start": 778,
           "end": 780,
           "count": 1
         },
@@ -35814,6 +38747,11 @@
       ],
       "parts": [
         {
+          "start": 625,
+          "end": 639,
+          "count": 1
+        },
+        {
           "start": 641,
           "end": 804,
           "count": 1
@@ -35846,6 +38784,21 @@
         {
           "start": 0,
           "end": 975,
+          "count": 1
+        }
+      ]
+    },
+    "73": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-279",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 293,
+          "end": 350,
           "count": 1
         }
       ]
@@ -35965,6 +38918,11 @@
       ],
       "parts": [
         {
+          "start": 1044,
+          "end": 1080,
+          "count": 1
+        },
+        {
           "start": 1081,
           "end": 1327,
           "count": 1
@@ -36082,6 +39040,11 @@
         },
         {
           "start": 3021,
+          "end": 3043,
+          "count": 4
+        },
+        {
+          "start": 3043,
           "end": 3044,
           "count": 3
         },
@@ -36150,6 +39113,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 801,
+          "end": 809,
+          "count": 1
+        },
         {
           "start": 1508,
           "end": 1629,
@@ -36276,6 +39244,11 @@
       ],
       "parts": [
         {
+          "start": 713,
+          "end": 732,
+          "count": 1
+        },
+        {
           "start": 733,
           "end": 923,
           "count": 1
@@ -36392,6 +39365,11 @@
           "count": 1
         },
         {
+          "start": 979,
+          "end": 986,
+          "count": 1
+        },
+        {
           "start": 1147,
           "end": 1248,
           "count": 1
@@ -36450,6 +39428,21 @@
         }
       ]
     },
+    "10": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-113",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 1153,
+          "end": 1161,
+          "count": 1
+        }
+      ]
+    },
     "12": {
       "refs": [
         {
@@ -36464,6 +39457,11 @@
       "parts": [
         {
           "start": 632,
+          "end": 652,
+          "count": 2
+        },
+        {
+          "start": 652,
           "end": 653,
           "count": 1
         },
@@ -36484,6 +39482,10 @@
         {
           "id": "the-universal-house-of-justice-messages-458",
           "paragraph": 9
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-401",
+          "paragraph": 7
         },
         {
           "id": "compilations-peace-001",
@@ -36554,11 +39556,31 @@
         },
         {
           "start": 1566,
+          "end": 1610,
+          "count": 4
+        },
+        {
+          "start": 1610,
+          "end": 1663,
+          "count": 5
+        },
+        {
+          "start": 1663,
           "end": 1755,
           "count": 4
         },
         {
           "start": 1755,
+          "end": 1757,
+          "count": 5
+        },
+        {
+          "start": 1757,
+          "end": 1761,
+          "count": 6
+        },
+        {
+          "start": 1761,
           "end": 2123,
           "count": 5
         },
@@ -36631,6 +39653,10 @@
     "22": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-messages-461",
+          "paragraph": 27
+        },
+        {
           "id": "compilations-peace-001",
           "paragraph": 101
         },
@@ -36643,6 +39669,11 @@
         {
           "start": 0,
           "end": 1304,
+          "count": 1
+        },
+        {
+          "start": 1309,
+          "end": 1348,
           "count": 1
         },
         {
@@ -36734,6 +39765,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 453,
+          "end": 507,
+          "count": 1
+        },
         {
           "start": 508,
           "end": 719,
@@ -36915,6 +39951,16 @@
         },
         {
           "start": 115,
+          "end": 118,
+          "count": 1
+        },
+        {
+          "start": 118,
+          "end": 171,
+          "count": 2
+        },
+        {
+          "start": 171,
           "end": 378,
           "count": 1
         },
@@ -37450,6 +40496,11 @@
       "parts": [
         {
           "start": 447,
+          "end": 505,
+          "count": 3
+        },
+        {
+          "start": 505,
           "end": 506,
           "count": 2
         },
@@ -37813,6 +40864,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 11,
+          "count": 2
+        },
+        {
+          "start": 11,
+          "end": 30,
+          "count": 3
+        },
+        {
+          "start": 30,
           "end": 43,
           "count": 2
         },
@@ -37969,12 +41030,27 @@
           "count": 2
         },
         {
+          "start": 391,
+          "end": 412,
+          "count": 1
+        },
+        {
           "start": 653,
           "end": 827,
           "count": 1
         },
         {
+          "start": 828,
+          "end": 837,
+          "count": 1
+        },
+        {
           "start": 837,
+          "end": 883,
+          "count": 3
+        },
+        {
+          "start": 883,
           "end": 884,
           "count": 2
         },
@@ -37987,6 +41063,11 @@
           "start": 1024,
           "end": 1025,
           "count": 2
+        },
+        {
+          "start": 1246,
+          "end": 1280,
+          "count": 1
         },
         {
           "start": 1292,
@@ -38088,6 +41169,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 42,
+          "count": 2
+        },
+        {
+          "start": 42,
           "end": 43,
           "count": 1
         },
@@ -38458,13 +41544,31 @@
     "17": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-messages-284",
+          "paragraph": 15
+        },
+        {
           "id": "world-centre-entry-by-troops-002",
           "paragraph": 20
+        },
+        {
+          "id": "world-centre-entry-by-troops-002",
+          "paragraph": 58
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 7,
+          "count": 1
+        },
+        {
+          "start": 7,
+          "end": 18,
+          "count": 2
+        },
+        {
+          "start": 18,
           "end": 671,
           "count": 1
         }
@@ -38669,6 +41773,21 @@
       "parts": [
         {
           "start": 0,
+          "end": 35,
+          "count": 2
+        },
+        {
+          "start": 35,
+          "end": 36,
+          "count": 1
+        },
+        {
+          "start": 36,
+          "end": 83,
+          "count": 2
+        },
+        {
+          "start": 83,
           "end": 88,
           "count": 1
         },
@@ -38926,6 +42045,10 @@
     "4": {
       "refs": [
         {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 153
+        },
+        {
           "id": "publications-individual-authors-bahaullah-new-era-021",
           "paragraph": 107
         },
@@ -38941,6 +42064,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 163,
+          "count": 2
+        },
+        {
+          "start": 163,
+          "end": 177,
+          "count": 3
+        },
+        {
+          "start": 177,
           "end": 517,
           "count": 2
         },
@@ -39136,6 +42269,21 @@
         }
       ]
     },
+    "17": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-401",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 372,
+          "end": 387,
+          "count": 1
+        }
+      ]
+    },
     "23": {
       "refs": [
         {
@@ -39255,6 +42403,16 @@
         },
         {
           "start": 581,
+          "end": 1098,
+          "count": 3
+        },
+        {
+          "start": 1098,
+          "end": 1130,
+          "count": 4
+        },
+        {
+          "start": 1130,
           "end": 1139,
           "count": 3
         },
@@ -39303,6 +42461,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 537,
+          "count": 1
+        },
+        {
+          "start": 537,
+          "end": 555,
+          "count": 2
+        },
+        {
+          "start": 555,
           "end": 556,
           "count": 1
         },
@@ -39341,6 +42509,11 @@
       "parts": [
         {
           "start": 898,
+          "end": 938,
+          "count": 3
+        },
+        {
+          "start": 938,
           "end": 939,
           "count": 1
         },
@@ -39532,6 +42705,11 @@
           "start": 102,
           "end": 287,
           "count": 2
+        },
+        {
+          "start": 432,
+          "end": 467,
+          "count": 1
         },
         {
           "start": 488,
@@ -39947,6 +43125,10 @@
           "paragraph": 15
         },
         {
+          "id": "bahaullah-kitab-i-aqdas-183",
+          "paragraph": 2
+        },
+        {
           "id": "publications-individual-authors-bahaullah-new-era-021",
           "paragraph": 112
         },
@@ -39958,6 +43140,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 339,
+          "count": 4
+        },
+        {
+          "start": 339,
+          "end": 394,
+          "count": 5
+        },
+        {
+          "start": 394,
           "end": 598,
           "count": 4
         }
@@ -40186,6 +43378,11 @@
       ],
       "parts": [
         {
+          "start": 110,
+          "end": 126,
+          "count": 1
+        },
+        {
           "start": 474,
           "end": 580,
           "count": 1
@@ -40398,6 +43595,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 217,
+          "end": 232,
+          "count": 1
+        },
         {
           "start": 268,
           "end": 360,
@@ -41187,6 +44389,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 767,
+          "end": 776,
+          "count": 1
+        },
         {
           "start": 791,
           "end": 899,
@@ -42092,6 +45299,11 @@
         },
         {
           "start": 178,
+          "end": 210,
+          "count": 5
+        },
+        {
+          "start": 210,
           "end": 211,
           "count": 4
         },
@@ -43298,6 +46510,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 72,
+          "count": 1
+        },
+        {
+          "start": 72,
+          "end": 102,
+          "count": 2
+        },
+        {
+          "start": 102,
           "end": 185,
           "count": 1
         },
@@ -43694,6 +46916,11 @@
           "count": 2
         },
         {
+          "start": 792,
+          "end": 800,
+          "count": 1
+        },
+        {
           "start": 801,
           "end": 872,
           "count": 1
@@ -43790,6 +47017,21 @@
     }
   },
   "bahaullah-gleanings-writings-bahaullah-093": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-008",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 551,
+          "end": 559,
+          "count": 1
+        }
+      ]
+    },
     "11": {
       "refs": [
         {
@@ -43866,6 +47108,11 @@
       "parts": [
         {
           "start": 222,
+          "end": 267,
+          "count": 1
+        },
+        {
+          "start": 267,
           "end": 269,
           "count": 1
         },
@@ -43915,6 +47162,16 @@
         },
         {
           "start": 139,
+          "end": 168,
+          "count": 2
+        },
+        {
+          "start": 168,
+          "end": 228,
+          "count": 3
+        },
+        {
+          "start": 228,
           "end": 244,
           "count": 2
         },
@@ -44079,6 +47336,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 300,
+          "end": 346,
+          "count": 1
+        },
         {
           "start": 347,
           "end": 390,
@@ -45240,6 +48502,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 57,
+          "count": 3
+        },
+        {
+          "start": 57,
           "end": 255,
           "count": 2
         },
@@ -45731,6 +48998,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 16,
+          "count": 1
+        },
+        {
           "start": 17,
           "end": 295,
           "count": 1
@@ -45909,6 +49181,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 18,
+          "count": 5
+        },
+        {
+          "start": 18,
           "end": 19,
           "count": 4
         },
@@ -46084,6 +49361,16 @@
         },
         {
           "start": 1016,
+          "end": 1032,
+          "count": 3
+        },
+        {
+          "start": 1032,
+          "end": 1057,
+          "count": 4
+        },
+        {
+          "start": 1057,
           "end": 1063,
           "count": 3
         },
@@ -46284,6 +49571,10 @@
     "13": {
       "refs": [
         {
+          "id": "bahaullah-kitab-i-aqdas-063",
+          "paragraph": 1
+        },
+        {
           "id": "compilations-institution-mashriqul-adhkar-001",
           "paragraph": 31
         },
@@ -46332,6 +49623,16 @@
         },
         {
           "start": 2220,
+          "end": 2317,
+          "count": 1
+        },
+        {
+          "start": 2317,
+          "end": 2344,
+          "count": 2
+        },
+        {
+          "start": 2344,
           "end": 2392,
           "count": 1
         },
@@ -46861,6 +50162,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 24,
+          "count": 1
+        },
+        {
+          "start": 24,
+          "end": 54,
+          "count": 2
+        },
+        {
+          "start": 54,
           "end": 156,
           "count": 1
         },
@@ -47275,6 +50586,11 @@
       ],
       "parts": [
         {
+          "start": 160,
+          "end": 214,
+          "count": 1
+        },
+        {
           "start": 371,
           "end": 470,
           "count": 2
@@ -47338,6 +50654,16 @@
         },
         {
           "start": 976,
+          "end": 1177,
+          "count": 3
+        },
+        {
+          "start": 1177,
+          "end": 1196,
+          "count": 4
+        },
+        {
+          "start": 1196,
           "end": 1197,
           "count": 3
         },
@@ -47678,6 +51004,11 @@
       ],
       "parts": [
         {
+          "start": 59,
+          "end": 103,
+          "count": 1
+        },
+        {
           "start": 104,
           "end": 233,
           "count": 1
@@ -47725,11 +51056,21 @@
       "parts": [
         {
           "start": 0,
-          "end": 284,
+          "end": 281,
           "count": 2
         },
         {
+          "start": 281,
+          "end": 284,
+          "count": 3
+        },
+        {
           "start": 284,
+          "end": 305,
+          "count": 3
+        },
+        {
+          "start": 305,
           "end": 306,
           "count": 2
         },
@@ -51522,6 +54863,16 @@
       "parts": [
         {
           "start": 387,
+          "end": 711,
+          "count": 3
+        },
+        {
+          "start": 711,
+          "end": 748,
+          "count": 4
+        },
+        {
+          "start": 748,
           "end": 821,
           "count": 3
         },
@@ -51558,6 +54909,16 @@
         },
         {
           "start": 1859,
+          "end": 1871,
+          "count": 1
+        },
+        {
+          "start": 1871,
+          "end": 1883,
+          "count": 1
+        },
+        {
+          "start": 1883,
           "end": 1887,
           "count": 1
         },
@@ -55840,6 +59201,21 @@
     }
   },
   "bahaullah-kitab-i-aqdas-010": {
+    "2": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-152",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 101,
+          "end": 117,
+          "count": 1
+        }
+      ]
+    },
     "7": {
       "refs": [
         {
@@ -55941,6 +59317,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 60,
+          "end": 67,
+          "count": 1
+        },
         {
           "start": 137,
           "end": 233,
@@ -56061,6 +59442,11 @@
       ],
       "parts": [
         {
+          "start": 54,
+          "end": 67,
+          "count": 1
+        },
+        {
           "start": 119,
           "end": 184,
           "count": 1
@@ -56099,6 +59485,11 @@
         },
         {
           "start": 414,
+          "end": 464,
+          "count": 2
+        },
+        {
+          "start": 464,
           "end": 667,
           "count": 1
         },
@@ -56138,6 +59529,11 @@
       ],
       "parts": [
         {
+          "start": 159,
+          "end": 194,
+          "count": 1
+        },
+        {
           "start": 195,
           "end": 291,
           "count": 1
@@ -56176,6 +59572,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 90,
+          "end": 114,
+          "count": 1
+        },
         {
           "start": 120,
           "end": 252,
@@ -56395,6 +59796,21 @@
     }
   },
   "the-universal-house-of-justice-messages-296": {
+    "6": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-085",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 308,
+          "end": 321,
+          "count": 1
+        }
+      ]
+    },
     "14": {
       "refs": [
         {
@@ -56406,6 +59822,11 @@
         {
           "start": 89,
           "end": 173,
+          "count": 1
+        },
+        {
+          "start": 174,
+          "end": 223,
           "count": 1
         },
         {
@@ -56474,6 +59895,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 39,
+          "count": 1
+        },
+        {
+          "start": 39,
+          "end": 47,
+          "count": 2
+        },
+        {
+          "start": 47,
           "end": 81,
           "count": 1
         },
@@ -56506,6 +59937,21 @@
     }
   },
   "the-bab-selections-writings-bab-001": {
+    "4": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-195",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 44,
+          "end": 73,
+          "count": 1
+        }
+      ]
+    },
     "14": {
       "refs": [
         {
@@ -56844,6 +60290,11 @@
         },
         {
           "start": 578,
+          "end": 608,
+          "count": 4
+        },
+        {
+          "start": 608,
           "end": 609,
           "count": 3
         },
@@ -57590,6 +61041,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 9,
+          "end": 22,
+          "count": 1
+        },
         {
           "start": 268,
           "end": 570,
@@ -58394,6 +61850,11 @@
       ],
       "parts": [
         {
+          "start": 145,
+          "end": 188,
+          "count": 1
+        },
+        {
           "start": 379,
           "end": 453,
           "count": 1
@@ -58733,6 +62194,10 @@
     "1": {
       "refs": [
         {
+          "id": "world-centre-entry-by-troops-001",
+          "paragraph": 69
+        },
+        {
           "id": "world-centre-entry-by-troops-002",
           "paragraph": 36
         }
@@ -58740,6 +62205,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 99,
+          "count": 1
+        },
+        {
+          "start": 99,
+          "end": 155,
+          "count": 2
+        },
+        {
+          "start": 155,
           "end": 387,
           "count": 1
         }
@@ -59389,6 +62864,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 5,
+          "count": 2
+        },
+        {
+          "start": 5,
+          "end": 39,
+          "count": 3
+        },
+        {
+          "start": 39,
           "end": 40,
           "count": 2
         },
@@ -62147,6 +65632,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 230,
+          "count": 1
+        },
+        {
+          "start": 230,
+          "end": 276,
+          "count": 2
+        },
+        {
+          "start": 276,
           "end": 285,
           "count": 1
         },
@@ -62157,6 +65652,16 @@
         },
         {
           "start": 392,
+          "end": 393,
+          "count": 1
+        },
+        {
+          "start": 393,
+          "end": 438,
+          "count": 2
+        },
+        {
+          "start": 438,
           "end": 439,
           "count": 1
         },
@@ -62629,6 +66134,11 @@
         },
         {
           "start": 909,
+          "end": 953,
+          "count": 2
+        },
+        {
+          "start": 953,
           "end": 1036,
           "count": 2
         },
@@ -62654,6 +66164,11 @@
         {
           "start": 592,
           "end": 823,
+          "count": 1
+        },
+        {
+          "start": 824,
+          "end": 880,
           "count": 1
         },
         {
@@ -62862,6 +66377,16 @@
         },
         {
           "start": 731,
+          "end": 743,
+          "count": 5
+        },
+        {
+          "start": 743,
+          "end": 784,
+          "count": 5
+        },
+        {
+          "start": 784,
           "end": 799,
           "count": 5
         },
@@ -63260,6 +66785,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 309,
+          "count": 1
+        },
+        {
+          "start": 309,
+          "end": 323,
+          "count": 2
+        },
+        {
+          "start": 323,
           "end": 382,
           "count": 1
         },
@@ -63270,6 +66805,16 @@
         },
         {
           "start": 478,
+          "end": 480,
+          "count": 1
+        },
+        {
+          "start": 480,
+          "end": 505,
+          "count": 2
+        },
+        {
+          "start": 505,
           "end": 506,
           "count": 1
         },
@@ -63712,11 +67257,25 @@
         {
           "id": "the-universal-house-of-justice-messages-168",
           "paragraph": 10
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-072",
+          "paragraph": 9
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 94,
+          "count": 1
+        },
+        {
+          "start": 94,
+          "end": 105,
+          "count": 2
+        },
+        {
+          "start": 105,
           "end": 106,
           "count": 1
         }
@@ -64890,6 +68449,21 @@
         }
       ]
     },
+    "15": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-004",
+          "paragraph": 115
+        }
+      ],
+      "parts": [
+        {
+          "start": 59,
+          "end": 90,
+          "count": 1
+        }
+      ]
+    },
     "17": {
       "refs": [
         {
@@ -65716,6 +69290,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 260,
+          "count": 1
+        },
+        {
+          "start": 260,
+          "end": 288,
+          "count": 2
+        },
+        {
+          "start": 288,
           "end": 289,
           "count": 1
         },
@@ -65927,6 +69511,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 24,
+          "count": 1
+        },
         {
           "start": 25,
           "end": 264,
@@ -66305,6 +69894,21 @@
     }
   },
   "the-universal-house-of-justice-messages-136": {
+    "6": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 363
+        }
+      ],
+      "parts": [
+        {
+          "start": 306,
+          "end": 316,
+          "count": 1
+        }
+      ]
+    },
     "9": {
       "refs": [
         {
@@ -66393,6 +69997,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 28,
+          "count": 1
+        },
+        {
           "start": 56,
           "end": 151,
           "count": 1
@@ -66432,6 +70041,11 @@
         {
           "start": 37,
           "end": 174,
+          "count": 1
+        },
+        {
+          "start": 499,
+          "end": 521,
           "count": 1
         }
       ]
@@ -66546,6 +70160,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 12,
+          "count": 2
+        },
+        {
+          "start": 12,
+          "end": 52,
+          "count": 3
+        },
+        {
+          "start": 52,
           "end": 225,
           "count": 2
         },
@@ -67426,6 +71050,11 @@
           "count": 1
         },
         {
+          "start": 839,
+          "end": 857,
+          "count": 1
+        },
+        {
           "start": 858,
           "end": 985,
           "count": 1
@@ -67512,6 +71141,16 @@
         },
         {
           "start": 1139,
+          "end": 1141,
+          "count": 3
+        },
+        {
+          "start": 1141,
+          "end": 1171,
+          "count": 3
+        },
+        {
+          "start": 1171,
           "end": 1173,
           "count": 3
         },
@@ -67993,6 +71632,10 @@
     "7": {
       "refs": [
         {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 337
+        },
+        {
           "id": "ruhi8-003",
           "paragraph": 86
         }
@@ -68000,6 +71643,16 @@
       "parts": [
         {
           "start": 755,
+          "end": 1184,
+          "count": 1
+        },
+        {
+          "start": 1184,
+          "end": 1228,
+          "count": 2
+        },
+        {
+          "start": 1228,
           "end": 1630,
           "count": 1
         }
@@ -68238,6 +71891,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 136,
+          "end": 153,
+          "count": 1
+        },
         {
           "start": 163,
           "end": 319,
@@ -68727,6 +72385,11 @@
           "count": 1
         },
         {
+          "start": 2137,
+          "end": 2172,
+          "count": 1
+        },
+        {
           "start": 2173,
           "end": 2253,
           "count": 1
@@ -68863,6 +72526,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 36,
+          "count": 1
+        },
         {
           "start": 37,
           "end": 283,
@@ -69150,6 +72818,16 @@
         },
         {
           "start": 496,
+          "end": 756,
+          "count": 1
+        },
+        {
+          "start": 756,
+          "end": 790,
+          "count": 1
+        },
+        {
+          "start": 790,
           "end": 800,
           "count": 1
         },
@@ -69920,6 +73598,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 37,
+          "count": 1
+        },
+        {
           "start": 80,
           "end": 210,
           "count": 1
@@ -70168,6 +73851,16 @@
         },
         {
           "start": 302,
+          "end": 303,
+          "count": 1
+        },
+        {
+          "start": 303,
+          "end": 323,
+          "count": 2
+        },
+        {
+          "start": 323,
           "end": 390,
           "count": 1
         },
@@ -70334,6 +74027,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 12,
+          "count": 1
+        },
+        {
+          "start": 12,
           "end": 13,
           "count": 1
         },
@@ -70900,6 +74598,25 @@
     }
   },
   "the-universal-house-of-justice-turning-point-003": {
+    "13": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 159
+        },
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 218
+        }
+      ],
+      "parts": [
+        {
+          "start": 50,
+          "end": 70,
+          "count": 1
+        }
+      ]
+    },
     "28": {
       "refs": [
         {
@@ -73805,6 +77522,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 288,
+          "end": 332,
+          "count": 1
+        },
         {
           "start": 342,
           "end": 411,
@@ -76728,6 +80450,11 @@
       ],
       "parts": [
         {
+          "start": 151,
+          "end": 166,
+          "count": 1
+        },
+        {
           "start": 170,
           "end": 229,
           "count": 1
@@ -76750,6 +80477,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 157,
+          "count": 1
+        },
+        {
+          "start": 157,
+          "end": 175,
+          "count": 2
+        },
+        {
+          "start": 175,
           "end": 194,
           "count": 1
         },
@@ -76770,6 +80507,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 552,
+          "end": 585,
+          "count": 1
+        },
         {
           "start": 595,
           "end": 695,
@@ -77858,6 +81600,11 @@
       ],
       "parts": [
         {
+          "start": 110,
+          "end": 130,
+          "count": 1
+        },
+        {
           "start": 131,
           "end": 226,
           "count": 1
@@ -77884,6 +81631,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 463,
+          "count": 1
+        },
+        {
+          "start": 463,
+          "end": 519,
+          "count": 2
+        },
+        {
+          "start": 519,
           "end": 537,
           "count": 1
         },
@@ -79317,6 +83074,11 @@
       ],
       "parts": [
         {
+          "start": 141,
+          "end": 171,
+          "count": 1
+        },
+        {
           "start": 194,
           "end": 286,
           "count": 1
@@ -79338,6 +83100,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 148,
+          "end": 191,
+          "count": 1
+        },
         {
           "start": 1706,
           "end": 1801,
@@ -79709,6 +83476,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 313,
+          "count": 1
+        },
+        {
+          "start": 313,
+          "end": 345,
+          "count": 2
+        },
+        {
+          "start": 345,
           "end": 613,
           "count": 1
         },
@@ -80262,6 +84039,11 @@
         },
         {
           "start": 334,
+          "end": 367,
+          "count": 4
+        },
+        {
+          "start": 367,
           "end": 368,
           "count": 3
         },
@@ -80369,6 +84151,16 @@
         },
         {
           "start": 525,
+          "end": 1273,
+          "count": 1
+        },
+        {
+          "start": 1273,
+          "end": 1302,
+          "count": 2
+        },
+        {
+          "start": 1302,
           "end": 1303,
           "count": 1
         },
@@ -80591,6 +84383,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 32,
+          "count": 1
+        },
+        {
+          "start": 32,
+          "end": 45,
+          "count": 2
+        },
+        {
+          "start": 45,
           "end": 46,
           "count": 1
         },
@@ -80720,6 +84522,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 85,
+          "count": 1
+        },
+        {
+          "start": 85,
+          "end": 135,
+          "count": 2
+        },
+        {
+          "start": 135,
           "end": 178,
           "count": 1
         },
@@ -80797,11 +84609,25 @@
         {
           "id": "compilations-institution-mashriqul-adhkar-001",
           "paragraph": 159
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 204
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 648,
+          "count": 1
+        },
+        {
+          "start": 648,
+          "end": 661,
+          "count": 1
+        },
+        {
+          "start": 661,
           "end": 1173,
           "count": 1
         }
@@ -80834,6 +84660,11 @@
           "start": 1086,
           "end": 1185,
           "count": 1
+        },
+        {
+          "start": 1195,
+          "end": 1253,
+          "count": 1
         }
       ]
     },
@@ -80859,6 +84690,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 557,
+          "count": 2
+        },
+        {
+          "start": 557,
+          "end": 573,
+          "count": 2
+        },
+        {
+          "start": 573,
           "end": 707,
           "count": 2
         },
@@ -81009,6 +84850,11 @@
       ],
       "parts": [
         {
+          "start": 776,
+          "end": 786,
+          "count": 1
+        },
+        {
           "start": 787,
           "end": 1034,
           "count": 1
@@ -81092,6 +84938,21 @@
     }
   },
   "abdul-baha-some-answered-questions-048": {
+    "1": {
+      "refs": [
+        {
+          "id": "abdul-baha-some-answered-questions-001",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 53,
+          "end": 60,
+          "count": 1
+        }
+      ]
+    },
     "7": {
       "refs": [
         {
@@ -81103,6 +84964,11 @@
         {
           "start": 173,
           "end": 454,
+          "count": 1
+        },
+        {
+          "start": 508,
+          "end": 546,
           "count": 1
         },
         {
@@ -83063,6 +86929,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 158,
+          "count": 1
+        },
+        {
+          "start": 158,
+          "end": 162,
+          "count": 2
+        },
+        {
+          "start": 162,
           "end": 202,
           "count": 1
         },
@@ -84178,6 +88054,11 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 27,
+          "count": 1
+        },
+        {
           "start": 28,
           "end": 165,
           "count": 1
@@ -84287,6 +88168,16 @@
         },
         {
           "start": 173,
+          "end": 265,
+          "count": 2
+        },
+        {
+          "start": 265,
+          "end": 310,
+          "count": 3
+        },
+        {
+          "start": 310,
           "end": 371,
           "count": 2
         },
@@ -84766,6 +88657,16 @@
         },
         {
           "start": 625,
+          "end": 666,
+          "count": 2
+        },
+        {
+          "start": 666,
+          "end": 693,
+          "count": 2
+        },
+        {
+          "start": 693,
           "end": 701,
           "count": 2
         },
@@ -85377,6 +89278,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 488,
+          "count": 3
+        },
+        {
+          "start": 488,
+          "end": 530,
+          "count": 3
+        },
+        {
+          "start": 530,
           "end": 532,
           "count": 3
         },
@@ -85564,6 +89475,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 3,
+          "count": 1
+        },
+        {
+          "start": 3,
+          "end": 55,
+          "count": 2
+        },
+        {
+          "start": 55,
           "end": 82,
           "count": 1
         },
@@ -85574,6 +89495,16 @@
         },
         {
           "start": 161,
+          "end": 225,
+          "count": 1
+        },
+        {
+          "start": 225,
+          "end": 243,
+          "count": 2
+        },
+        {
+          "start": 243,
           "end": 244,
           "count": 1
         },
@@ -85835,6 +89766,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 139,
+          "end": 187,
+          "count": 1
+        },
         {
           "start": 188,
           "end": 453,
@@ -87635,6 +91571,16 @@
       "parts": [
         {
           "start": 678,
+          "end": 1898,
+          "count": 1
+        },
+        {
+          "start": 1898,
+          "end": 1921,
+          "count": 2
+        },
+        {
+          "start": 1921,
           "end": 1934,
           "count": 1
         },
@@ -89417,6 +93363,11 @@
       ],
       "parts": [
         {
+          "start": 144,
+          "end": 165,
+          "count": 1
+        },
+        {
           "start": 166,
           "end": 312,
           "count": 1
@@ -89433,6 +93384,11 @@
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 23,
+          "count": 1
+        },
         {
           "start": 24,
           "end": 87,
