@@ -36,6 +36,25 @@
           ]}{documents.k.'translated' & ' ({documents.k.'translated'})'} »'
         ],
       }]
-    ]
+    ],
+    [
+      'size': 40,
+      'bold': 'true',
+      'underline': 'true',
+      'align': 'center',
+      'Further ‘Abdu’l‑Bahá',
+    ],
+    [
+      'stack': 15,
+      ...findDocuments('‘Abdu’l‑Bahá', items)->map.[(doc, i): [
+        'color': 'blue',
+        'underline': hover,
+        'link': ['doc', doc.'id'],
+        '{i}. {[
+          ...doc.'path',
+          doc.'title' | (doc.'item' & '#{doc.'item'}'),
+        ]->filter()->unique->join(', ')}{doc.'translated' & ' ({doc.'translated'})'} ({length(doc.'paragraphs')}) »',
+      ]]
+    ],
   ],
 }

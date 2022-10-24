@@ -58,11 +58,11 @@
     ],
     [
       'stack': 15,
-      ...findDocuments('Bahá’u’lláh', items)->map.[doc: [
+      ...findDocuments('Bahá’u’lláh', items)->map.[(doc, i): [
         'color': 'blue',
         'underline': hover,
         'link': ['doc', doc.'id'],
-        '{[
+        '{i}. {[
           ...doc.'path',
           doc.'title' | (doc.'item' & '#{doc.'item'}'),
         ]->filter()->unique->join(', ')}{doc.'translated' & ' ({doc.'translated'})'} ({length(doc.'paragraphs')}) »',

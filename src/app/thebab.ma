@@ -38,6 +38,25 @@
           ]}{documents.k.'translated' & ' ({documents.k.'translated'})'} »'
         ],
       }]
-    ]
+    ],
+    [
+      'size': 40,
+      'bold': 'true',
+      'underline': 'true',
+      'align': 'center',
+      'Further The Báb',
+    ],
+    [
+      'stack': 15,
+      ...findDocuments('The Báb', items)->map.[(doc, i): [
+        'color': 'blue',
+        'underline': hover,
+        'link': ['doc', doc.'id'],
+        '{i}. {[
+          ...doc.'path',
+          doc.'title' | (doc.'item' & '#{doc.'item'}'),
+        ]->filter()->unique->join(', ')}{doc.'translated' & ' ({doc.'translated'})'} ({length(doc.'paragraphs')}) »',
+      ]]
+    ],
   ],
 }
