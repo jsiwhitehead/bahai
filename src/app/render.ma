@@ -3,6 +3,7 @@
     'baseLevel': '1',
     'levelNumbers': '',
     'paraNumbers': '1',
+    'highlight': '',
     'color': colors.'link'.(doc.'author') | colors.'link'.'The World Centre',
     'allLines': doc.'paragraphs'->every.[p: p.'type' | p.'lines'],
     : [
@@ -64,6 +65,7 @@
                       ? level <= 2: 0,
                       : [0, (level - 2) * 20],
                     },
+                    'style': ['clear': 'both'],
                     '{
                       level < 4 & levelNumbers &
                       '{p.'section'->join('.')}{length(p.'section') = 1 & '.'}'
@@ -77,6 +79,7 @@
                     'color': 'black',
                     'pad': [0, 20],
                     'bold': 'true',
+                    'style': ['clear': 'both'],
                     {
                       ? p.'parts':
                         p.'parts'
@@ -111,6 +114,7 @@
                     fillParts(quotesMap.(doc.'id')?.(i)?.'parts', p.'text', p.'lines'),
                   : [
                     'stack': 17 / 2,
+                    'style': ['clear': 'both', 'white-space': 'pre-wrap'],
                     ...lineParts->map.[(parts, i): [
                       'pad': !allLines & [0, 40],
                       'uppercase': i = 1 & doc.'path'->includes('The Hidden Words'),
@@ -144,8 +148,8 @@
                       'text': p.'text'->slice(part.'start', part.'end'),
                       : {
                         ? p.'index' = 1 & i = 1: [
-                          'fill': fill,
-                          'bold': part.'quote',
+                          'fill': highlight & fill,
+                          'bold': highlight & part.'quote',
                           'size': 17 * 3,
                           'line': 1,
                           'color': color,
@@ -155,8 +159,8 @@
                           text,
                         ],
                         : [
-                          'fill': fill,
-                          'bold': part.'quote',
+                          'fill': highlight & fill,
+                          'bold': highlight & part.'quote',
                           'pad': [2.5, 0],
                           text,
                         ],

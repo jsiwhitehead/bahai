@@ -113,5 +113,51 @@
         'width': 1 / 2,
       ],
     ],
+    [
+      'size': 40,
+      'bold': 'true',
+      'underline': 'true',
+      'align': 'center',
+      'Further The Administrative Order',
+    ],
+    [
+      'bar': 'true',
+      [
+        'width': 1 / 2,
+        [
+          'pad': ['right': 20],
+          [
+            'stack': 15,
+            ...findDocuments('Shoghi Effendi', groups.1.'items')->map.[(doc, i): [
+              'color': 'blue',
+              'underline': hover,
+              'link': ['doc', doc.'id'],
+              '{i}. {[
+                ...doc.'path',
+                doc.'title' | (doc.'item' & '#{doc.'item'}'),
+              ]->filter()->unique->join(', ')}{doc.'translated' & ' ({doc.'translated'})'} ({length(doc.'paragraphs')}) »',
+            ]]
+          ],
+        ],
+      ],
+      [
+        'width': 1 / 2,
+        [
+          'pad': ['left': 20],
+          [
+            'stack': 15,
+            ...findDocuments('The Universal House of Justice', groups.2.'items')->map.[(doc, i): [
+              'color': 'blue',
+              'underline': hover,
+              'link': ['doc', doc.'id'],
+              '{i}. {[
+                ...doc.'path',
+                doc.'title' | (doc.'item' & '#{doc.'item'}'),
+              ]->filter()->unique->join(', ')}{doc.'translated' & ' ({doc.'translated'})'} ({length(doc.'paragraphs')}) »',
+            ]]
+          ],
+        ],
+      ],
+    ],
   ],
 }

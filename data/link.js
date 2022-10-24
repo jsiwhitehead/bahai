@@ -262,24 +262,23 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
                   start,
                   end: start + text.length,
                 });
-                return source;
+                return { source, paragraph };
               }
               return {};
             }
             return { text, parts, simplified };
           });
           inlineQuotes.forEach(({ text, parts, simplified }, i) => {
-            if (text && text !== "Abdu" && inlineQuotes[i + 1]?.id) {
+            if (text && text !== "Abdu" && inlineQuotes[i + 1]?.source) {
               if (
                 simplified.every((s) =>
-                  inlineQuotes[i + 1].paragraphs.some((p) =>
-                    p.simplified.join("").includes(s)
-                  )
+                  inlineQuotes[i + 1].source.paragraphs[
+                    inlineQuotes[i + 1].paragraph - 1
+                  ].simplified
+                    .join("")
+                    .includes(s)
                 )
               ) {
-                const allPara = inlineQuotes[i + 1].paragraphs.findIndex((p) =>
-                  simplified.every((s) => p.simplified.join("").includes(s))
-                );
                 const {
                   id,
                   paragraphs: [paragraph],
@@ -288,8 +287,8 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
                   index,
                   simplified,
                   parts,
-                  inlineQuotes[i + 1],
-                  allPara
+                  inlineQuotes[i + 1].source,
+                  inlineQuotes[i + 1].paragraph - 1
                 ).base;
                 const start = para.text.indexOf(text);
                 para.base.quotes = para.base.quotes || [];
