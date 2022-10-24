@@ -164,6 +164,11 @@ const map = reactiveFunc(($block, $map) =>
     apply($map, true, false, $v, k)
   )
 );
+const flatMap = reactiveFunc(($block, $map) =>
+  createBlock(resolve($block)).items.flatMap(($v, i) =>
+    resolve(apply($map, true, false, $v, i + 1))
+  )
+);
 
 const filterObject = (obj, map) =>
   Object.keys(obj).reduce(
@@ -263,6 +268,7 @@ export default {
   operation,
   toTruthy,
   map,
+  flatMap,
   filter,
   includes,
   some,
