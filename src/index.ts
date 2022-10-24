@@ -73,7 +73,7 @@ document.addEventListener("click", (e: any) => {
   }
 });
 
-const unique = (x) => [...new Set(createBlock(x).items)];
+const unique = (x) => [...new Set<any>(createBlock(x).items)];
 const toUrl = (s) =>
   s
     .normalize("NFD")
@@ -158,36 +158,31 @@ maraca(
         );
       })
       .filter((q) => q.parts.some((p) => p.count > 3)),
-    fillParts: (parts, text) => {
+    fillParts: (parts, text, lines) => {
       const firstChar = /[a-z]/i.exec(text)?.index;
-      if (!parts) {
-        if (firstChar === undefined) {
-          return [{ start: 0, end: text.length, count: 0 }];
-        }
-        return [
-          { start: 0, end: firstChar + 1, count: 0 },
-          { start: firstChar + 1, end: text.length, count: 0 },
-        ];
-      }
-      const indices = [
-        ...new Set([
-          0,
-          ...(firstChar === undefined ? [] : [firstChar + 1]),
-          ...parts
-            .filter((p) => typeof p !== "string")
-            .flatMap((p) => [p.start, p.end]),
-          text.length,
-        ]),
-      ].sort((a, b) => a - b);
-      return indices.slice(1).map((end, i) => ({
+      const indices = unique([
+        0,
+        ...(firstChar === undefined ? [] : [firstChar + 1]),
+        ...(parts || ([] as any[]))
+          .filter((p) => typeof p !== "string")
+          .flatMap((p) => [p.start, p.end]),
+        ...(lines || []),
+        text.length,
+      ]).sort((a, b) => a - b);
+      const result = indices.slice(1).map((end, i) => ({
         start: indices[i],
         end,
         count:
-          end === 1 && parts[0].start === 0
-            ? parts[0].count
-            : parts.find((p) => p.start === indices[i] || p.end === end)
-                ?.count || 0,
+          (parts || ([] as any[])).find(
+            (p) => p.start <= indices[i] && p.end >= end
+          )?.count || 0,
       }));
+      if (!lines) return result;
+      return lines
+        .slice(0, -1)
+        .map((start, i) =>
+          result.filter((p) => p.start >= start && p.end <= lines[i + 1])
+        );
     },
     getRef: (paragraphs, index) => {
       const p = paragraphs[index];

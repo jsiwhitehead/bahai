@@ -70,17 +70,6 @@
                     } {p.'title'}'
                   ],
                 },
-                ? p.'lines': [
-                  'stack': 17 / 2,
-                  ...p.'lines'->slice(0, -1)->map.[
-                    (start, i): [
-                      'pad': !allLines & [0, 40],
-                      'uppercase': i = 1 & doc.'path'->includes('The Hidden Words'),
-                      'size': 17,
-                      p.'text'->slice(start, p.'lines'.(i + 1) - 1),
-                    ]
-                  ]
-                ],
                 ? p.'id': [
                   'stack': 15,
                   [
@@ -117,6 +106,25 @@
                     ],
                   },
                 ],
+                ? p.'lines': {
+                  'lineParts':
+                    fillParts(quotesMap.(doc.'id')?.(i - 1)?.'parts', p.'text', p.'lines'),
+                  : [
+                    'stack': 17 / 2,
+                    ...lineParts->map.[(parts, i): [
+                      'pad': !allLines & [0, 40],
+                      'uppercase': i = 1 & doc.'path'->includes('The Hidden Words'),
+                      'size': 17,
+                      'inline': 'true',
+                      ...parts->map.[part: [
+                        'fill': part.'count' > 0 &
+                          'rgb(255, {240 - part.'count' * 10}, {240 - part.'count' * 10})',
+                        'pad': [2.5, 0],
+                        p.'text'->slice(part.'start', part.'end')
+                      ]]
+                    ]]
+                  ]
+                },
                 : [
                   'inline': 'true',
                   'size': p.'type' = 'info' & 16 | 17,
