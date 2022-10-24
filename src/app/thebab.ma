@@ -1,6 +1,5 @@
 {
   'items': sortIds([
-    'the-bab-selections-writings-bab-000',
     'the-bab-selections-writings-bab-001',
     'the-bab-selections-writings-bab-002',
     'the-bab-selections-writings-bab-003',
@@ -8,6 +7,7 @@
     'the-bab-selections-writings-bab-005',
     'the-bab-selections-writings-bab-006',
     'the-bab-selections-writings-bab-007',
+    'the-bab-selections-writings-bab-008',
   ]),
   : [
     'stack': 60,

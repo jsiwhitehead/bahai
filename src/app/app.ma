@@ -6,7 +6,7 @@
     ? doc.'id'->startsWith('ruhi') | doc.'id'->startsWith('compilations'): 'compilations',
     ? includes(['‘Abdu’l‑Bahá', 'Bahá’u’lláh', 'The Báb'], doc.'author') : doc.'author',
     ? doc.'id'->startsWith('quran'): 'the-quran',
-    ? doc.'id'->startsWith('bible') & doc.'id'->slice(-3)->toInt() < 39: 'the-old-testament',
+    ? doc.'id'->startsWith('bible') & doc.'id'->slice(-3)->toInt() <= 39: 'the-old-testament',
     ? doc.'id'->startsWith('bible'): 'the-new-testament',
     : 'the-administrative-order',
   }),

@@ -15,7 +15,7 @@ const findSource = (documents, doc, simplified) =>
   documents.find(
     (d) =>
       d.id !== doc.id &&
-      d.id !== "bahaullah-days-remembrance-036" &&
+      d.id !== "bahaullah-days-remembrance-037" &&
       !d.id.startsWith("prayers") &&
       (d.author !== doc.author ||
         doc.author === "The Universal House of Justice" ||
@@ -81,7 +81,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
       const text = source.paragraphs[part.paragraph].text;
       if (part.start === 0) delete part.start;
       if (part.end === text.length) delete part.end;
-      return part;
+      return { ...part, paragraph: part.paragraph + 1 };
     });
   quotes[source.id] = quotes[source.id] || {};
   for (const { paragraph, start, end } of quoteParts.filter(
@@ -89,7 +89,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
   )) {
     quotes[source.id][paragraph] = quotes[source.id][paragraph] || [];
     quotes[source.id][paragraph].push({
-      ref: { id, paragraph: index },
+      ref: { id, paragraph: index + 1 },
       start,
       end,
     });
@@ -125,7 +125,10 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
         .map(async (id) =>
           (
             await readJSON("process", id)
-          ).map((d, i) => ({ id: id + "-" + `${i}`.padStart(3, "0"), ...d }))
+          ).map((d, i) => ({
+            id: id + "-" + `${i + 1}`.padStart(3, "0"),
+            ...d,
+          }))
         )
     )
   )
@@ -274,7 +277,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
   const quoteMap = mapObject(quotes, (docQuotes, id) =>
     mapObject(docQuotes, (parts, para) => {
       const fixedParts = parts.map((p) => {
-        const text = documentMap[id].paragraphs[para].text;
+        const text = documentMap[id].paragraphs[parseInt(para, 10) - 1].text;
         return { ref: p.ref, start: p.start || 0, end: p.end || text?.length };
       });
       const splits = [

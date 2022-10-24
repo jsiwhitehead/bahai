@@ -1,11 +1,11 @@
 {
   'items': sortIds([
-    'abdul-baha-secret-divine-civilization-000',
-    'abdul-baha-tablet-august-forel-000',
-    'abdul-baha-tablets-hague-abdul-baha-000',
+    'abdul-baha-secret-divine-civilization-001',
+    'abdul-baha-tablet-august-forel-001',
     'abdul-baha-tablets-hague-abdul-baha-001',
-    'abdul-baha-travelers-narrative-000',
-    'abdul-baha-will-testament-abdul-baha-000'
+    'abdul-baha-tablets-hague-abdul-baha-002',
+    'abdul-baha-travelers-narrative-001',
+    'abdul-baha-will-testament-abdul-baha-001'
   ]),
   : [
     'stack': 60,

@@ -10,7 +10,7 @@
   ],
   ...topQuotes->map.[quote: {
     'doc': documents.(quote.'id'),
-    'para': doc.'paragraphs'.(quote.'paragraph' + 1),
+    'para': doc.'paragraphs'.(quote.'paragraph'),
     'parts': quote.'parts',
     : [
       'stack': 15,

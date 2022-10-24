@@ -82,12 +82,12 @@
                         p.'parts'
                           ->map.[
                             [...part]:
-                              documents.(p.'id').'paragraphs'.(part.'paragraph' + 1).'text'
+                              documents.(p.'id').'paragraphs'.(part.'paragraph').'text'
                                 ->slice(part.'start', part.'end'),
                             part: part,
                           ]
                           ->join(' '),
-                      : documents.(p.'id').'paragraphs'.(p.'paragraphs'.1 + 1).'text'
+                      : documents.(p.'id').'paragraphs'.(p.'paragraphs'.1).'text'
                     }
                   ],
                   {
@@ -100,7 +100,7 @@
                         colors.'link'.(documents.(p.'id').'author') |
                         colors.'link'.'The World Centre',
                       'underline': hover,
-                      'link': ['doc', p.'id', : p.'paragraphs'.1 + 1],
+                      'link': ['doc', p.'id', : p.'paragraphs'.1],
                       'style': ['width': '75%', 'margin': '0 20px 0 auto'],
                       refText,
                     ],
@@ -108,7 +108,7 @@
                 ],
                 ? p.'lines': {
                   'lineParts':
-                    fillParts(quotesMap.(doc.'id')?.(i - 1)?.'parts', p.'text', p.'lines'),
+                    fillParts(quotesMap.(doc.'id')?.(i)?.'parts', p.'text', p.'lines'),
                   : [
                     'stack': 17 / 2,
                     ...lineParts->map.[(parts, i): [
@@ -137,7 +137,7 @@
                     'clear': 'both',
                     'text-align-last': p.'type' & 'center',
                   ],
-                  ...fillParts(quotesMap.(doc.'id')?.(i - 1)?.'parts', p.'text')->map.[
+                  ...fillParts(quotesMap.(doc.'id')?.(i)?.'parts', p.'text')->map.[
                     (part, i): {
                       'strength': 240 - part.'count' * 10,
                       'fill': part.'count' > 0 & 'rgb(255, {strength}, {strength})',
@@ -163,7 +163,7 @@
                   ]
                 ]
               },
-              ...'' & (quotesMap.(doc.'id')?.(i - 1)?.'refs' | [])->map.[
+              ...'' & (quotesMap.(doc.'id')?.(i)?.'refs' | [])->map.[
                 r: [
                   'size': 16,
                   'italic': 'true',
@@ -172,7 +172,7 @@
                     colors.'link'.(documents.(r.'id').'author') |
                     colors.'link'.'The World Centre',
                   'underline': hover,
-                  'link': ['doc', r.'id', : r.'paragraph' + 1],
+                  'link': ['doc', r.'id', : r.'paragraph'],
                   'style': ['width': '75%', 'margin': '0 auto 0 0'],
                   [
                     documents.(r.'id').'author',

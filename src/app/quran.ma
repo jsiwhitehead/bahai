@@ -1,7 +1,7 @@
 {
   'item': [index:
     {
-      'id': 'quran-{padStart(index - 1, 3, 0)}',
+      'id': 'quran-{padStart(index, 3, 0)}',
       : [
         'color': 'blue',
         'underline': hover,

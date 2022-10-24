@@ -1,7 +1,7 @@
 {
   'item': [index:
     {
-      'id': 'bible-{padStart(index - 1, 3, 0)}',
+      'id': 'bible-{padStart(index, 3, 0)}',
       : [
         'color': 'blue',
         'underline': hover,
