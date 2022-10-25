@@ -5,9 +5,7 @@
     ? doc.'type' = 'Prayer': 'prayers',
     ? doc.'id'->startsWith('ruhi') | doc.'id'->startsWith('compilations'): 'home',
     ? includes(['‘Abdu’l‑Bahá', 'Bahá’u’lláh', 'The Báb'], doc.'author') : doc.'author',
-    ? doc.'id'->startsWith('quran'): 'the-quran',
-    ? doc.'id'->startsWith('bible') & doc.'id'->slice(-3)->toInt() <= 39: 'the-old-testament',
-    ? doc.'id'->startsWith('bible'): 'the-new-testament',
+    ? doc.'epoch': toUrl(doc.'epoch'),
     : 'the-administrative-order',
   }),
   'button': [(label, bold): {

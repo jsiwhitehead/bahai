@@ -97,36 +97,14 @@ const process = (source, id) => {
       }
       if (level === collectionLevel) {
         sectionPath = [];
-        const d = {
+        documents.push({
           path: [...titlePath],
           item: indexPath[level]++ || undefined,
           title,
           translated,
           ...noBlanks(configPath.reduce((res, c) => ({ ...res, ...c }), {})),
           paragraphs: [],
-        };
-        if (
-          id.startsWith("additional-") &&
-          !id.startsWith("additional-other") &&
-          title
-        ) {
-          const match = title.match(dateRegex);
-          if (match) {
-            const [_, dd, mm, yy] = match;
-            if (parseInt(yy, 10) >= 1800 && parseInt(yy, 10) <= 2050) {
-              const dateValue = parseFloat(
-                mm
-                  ? `${yy}.${[months.indexOf(mm) + 1, dd || 1]
-                      .map((x) => `${x}`.padStart(2, "0"))
-                      .join("")}`
-                  : yy
-              );
-              d.years = [dateValue, dateValue];
-            }
-          }
-        }
-        if (!d.years) d.years = authorYears[d.author];
-        documents.push(d);
+        });
       } else if (!collection) {
         const sectionLevel = level - collectionLevel;
         sectionPath = sectionPath.slice(0, sectionLevel);
@@ -144,7 +122,41 @@ const process = (source, id) => {
     }
   });
 
-  return documents;
+  return documents.map(({ paragraphs, ...d }) => {
+    if (
+      id.startsWith("additional-") &&
+      !id.startsWith("additional-other") &&
+      d.title
+    ) {
+      const match = d.title.match(dateRegex);
+      if (match) {
+        const [_, dd, mm, yy] = match;
+        if (parseInt(yy, 10) >= 1800 && parseInt(yy, 10) <= 2050) {
+          const dateValue = parseFloat(
+            mm
+              ? `${yy}.${[months.indexOf(mm) + 1, dd || 1]
+                  .map((x) => `${x}`.padStart(2, "0"))
+                  .join("")}`
+              : yy
+          );
+          d.years = [dateValue, dateValue];
+        }
+      }
+    }
+    if (!d.years) d.years = authorYears[d.author];
+    if (d.author === "Shoghi Effendi") {
+      const midYears = (d.years[0] + d.years[1]) / 2;
+      if (midYears < 1946.0424) d.epoch = "First Epoch";
+      else d.epoch = "Second Epoch";
+    } else if (d.author === "The Universal House of Justice") {
+      const midYears = (d.years[0] + d.years[1]) / 2;
+      if (midYears < 1986.0422) d.epoch = "Third Epoch";
+      else if (midYears < 2001.0422) d.epoch = "Fourth Epoch";
+      else if (midYears < 2022.0422) d.epoch = "Fifth Epoch";
+      else d.epoch = "Sixth Epoch";
+    }
+    return { ...d, paragraphs };
+  });
 };
 
 (async () => {

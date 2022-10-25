@@ -149,44 +149,8 @@ maraca(
     ),
     documents,
     findDocuments: (section) => {
-      if (section === "First Epoch") {
-        return documentsList.filter(
-          (d) =>
-            d.author === "Shoghi Effendi" &&
-            (d.years[0] + d.years[1]) / 2 < 1946.0424
-        );
-      } else if (section === "Second Epoch") {
-        return documentsList.filter(
-          (d) =>
-            d.author === "Shoghi Effendi" &&
-            (d.years[0] + d.years[1]) / 2 >= 1946.0424
-        );
-      } else if (section === "Third Epoch") {
-        return documentsList.filter(
-          (d) =>
-            d.author === "The Universal House of Justice" &&
-            (d.years[0] + d.years[1]) / 2 < 1986.0422
-        );
-      } else if (section === "Fourth Epoch") {
-        return documentsList.filter(
-          (d) =>
-            d.author === "The Universal House of Justice" &&
-            (d.years[0] + d.years[1]) / 2 >= 1986 &&
-            (d.years[0] + d.years[1]) / 2 < 2001.0422
-        );
-      } else if (section === "Fifth Epoch") {
-        return documentsList.filter(
-          (d) =>
-            d.author === "The Universal House of Justice" &&
-            (d.years[0] + d.years[1]) / 2 >= 2001 &&
-            (d.years[0] + d.years[1]) / 2 < 2022.0422
-        );
-      } else if (section === "Sixth Epoch") {
-        return documentsList.filter(
-          (d) =>
-            d.author === "The Universal House of Justice" &&
-            (d.years[0] + d.years[1]) / 2 >= 2022
-        );
+      if (section.includes("Epoch")) {
+        return documentsList.filter((d) => d.epoch === section);
       }
       return documentsList.filter(
         (d) => d.author === section && d.type !== "Prayer"

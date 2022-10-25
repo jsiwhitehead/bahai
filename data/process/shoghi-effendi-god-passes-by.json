@@ -5,6 +5,7 @@
     "title": "Foreword",
     "author": "Shoghi Effendi",
     "years": [1944, 1944],
+    "epoch": "First Epoch",
     "paragraphs": [
       {
         "text": "On the 23rd of May of this auspicious year the Bahá’í world will celebrate the centennial anniversary of the founding of the Faith of Bahá’u’lláh. It will commemorate at once the hundredth anniversary of the inception of the Bábí Dispensation, of the inauguration of the Bahá’í Era, of the commencement of the Bahá’í Cycle, and of the birth of ‘Abdu’l‑Bahá. The weight of the potentialities with which this Faith, possessing no peer or equal in the world’s spiritual history, and marking the culmination of a universal prophetic cycle, has been endowed, staggers our imagination. The brightness of the millennial glory which it must shed in the fullness of time dazzles our eyes. The magnitude of the shadow which its Author will continue to cast on successive Prophets destined to be raised up after Him eludes our calculation."
@@ -47,6 +48,7 @@
     "title": "God Passes By",
     "author": "Shoghi Effendi",
     "years": [1944, 1944],
+    "epoch": "First Epoch",
     "paragraphs": [
       {
         "section": [1],
