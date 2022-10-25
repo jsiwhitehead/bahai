@@ -1,11 +1,11 @@
 [
   'stack': 60,
   [
-    'size': 40,
+    'size': 34,
     'bold': 'true',
     'underline': 'true',
     'align': 'center',
-    '‘Abdu’l‑Bahá',
+    'Writings and Talks of ‘Abdu’l‑Bahá',
   ],
   [
     'stack': 15,

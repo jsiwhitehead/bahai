@@ -1,11 +1,20 @@
 [
   'stack': 60,
   [
-    'size': 40,
-    'bold': 'true',
-    'underline': 'true',
-    'align': 'center',
-    'Shoghi Effendi (Second Epoch)',
+    'stack': 15,
+    [
+      'size': 34,
+      'bold': 'true',
+      'underline': 'true',
+      'align': 'center',
+      'Writings of Shoghi Effendi',
+    ],
+    [
+      'size': 24,
+      'bold': 'true',
+      'align': 'center',
+      '(Second Epoch)',
+    ]
   ],
   grid(findDocuments('Second Epoch')),
 ]
