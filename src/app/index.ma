@@ -27,13 +27,22 @@
           'v': values.'value',
           : [[:'input', 'type': 'text', 'value': v, 'v':: oninput?.'target'?.'value']]
         },
-        ? !values.'span' & nextInline: [
-          [:'div', 'style': ['padding': '1px 0', 'min-height': px(size)],
-            [:'div', 'style': ['margin-top': px(-gap), 'margin-bottom': px(-gap)],
-              ...content,
-            ],
+        ? !values.'span' & nextInline: {
+          ? values.'vertical': [
+            [:'div', 'style': ['padding': '0 1px', 'min-width': px(size)],
+              [:'div', 'style': ['margin': '0 {px(-gap)}'],
+                ...content,
+              ],
+            ]
+          ],
+          : [
+            [:'div', 'style': ['padding': '1px 0', 'min-height': px(size)],
+              [:'div', 'style': ['margin': '{px(-gap)} 0'],
+                ...content,
+              ],
+            ]
           ]
-        ],
+        },
         ? values.'stack': content->map.[
           (x, i): [:'div', 'style': ['padding-top': i ! 1 & px(values.'stack')], x]
         ],
@@ -54,6 +63,8 @@
           'color': values.'color',
           'background': values.'fill',
           'text-indent': px(values.'indent'),
+          'writing-mode': values.'vertical' & 'vertical-rl',
+          'transform': values.'vertical' & 'rotate(-180deg)',
           'cursor': values.'cursor' | (values.'link' & 'pointer'),
           'padding': values.'pad'->[
             [...x]: [
