@@ -1,5 +1,4 @@
 Bahá’í Prayers
-years=[1875,1921]
 type="Prayer"
 collection
 

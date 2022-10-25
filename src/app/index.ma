@@ -87,7 +87,14 @@
           'width': values.'width' &
             { ? values.'width' <= 1 : '{values.'width' * 100}%', : px(values.'width') },
           'flex-grow': { ? values.'width': 0, : 1 },
-          'display': { ? values.'span': 'inline', ? values.'bar': 'flex', : 'block' },
+          'display': {
+            ? values.'span': 'inline',
+            ? values.'bar': 'flex',
+            ? values.'grid': 'grid',
+            : 'block'
+          },
+          'grid-template-columns': values.'grid' &
+            values.'grid'->map.[v ? +v: '{v}fr', v: v]->join(' '),
           ...values.'style',
         ],
         'href': values.'link'->[

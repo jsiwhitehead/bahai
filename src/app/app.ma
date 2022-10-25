@@ -143,19 +143,12 @@
       'pad': ['left': 235],
       [
         'pad': 50,
-        'Hello',
-        '' & url->[
+        url->[
           ['prayers']: prayers,
           ['prayers', x]: prayers,
-          ['compilations']: compilations,
-          ['quotes']: quotes,
-          ['the-administrative-order']: administrative,
           ['abdul-baha']: abdulbaha,
           ['bahaullah']: bahaullah,
           ['the-bab']: thebab,
-          ['the-new-testament']: newtestament,
-          ['the-old-testament']: oldtestament,
-          ['the-quran']: quran,
           ['doc', x]: [
             'stack': 20,
             ['color': 'blue', 'underline': hover, 'link': [group], '« Back'],

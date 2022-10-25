@@ -19,6 +19,7 @@ const findSource = (documents, doc, simplified) =>
       !d.id.startsWith("prayers") &&
       (d.author !== doc.author ||
         doc.author === "The Universal House of Justice" ||
+        doc.id.startsWith("prayers") ||
         doc.id.startsWith("bahaullah-gleanings-writings-bahaullah") ||
         doc.id.startsWith("bahaullah-days-remembrance") ||
         doc.id.startsWith("abdul-baha-selections-writings-abdul-baha") ||

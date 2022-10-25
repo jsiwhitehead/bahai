@@ -81,14 +81,16 @@ const process = (source) => {
       }
       if (level === collectionLevel) {
         sectionPath = [];
-        documents.push({
+        const d = {
           path: [...titlePath],
           item: indexPath[level]++ || undefined,
           title,
           translated,
           ...noBlanks(configPath.reduce((res, c) => ({ ...res, ...c }), {})),
           paragraphs: [],
-        });
+        };
+        if (!d.years) d.years = authorYears[d.author];
+        documents.push(d);
       } else if (!collection) {
         const sectionLevel = level - collectionLevel;
         sectionPath = sectionPath.slice(0, sectionLevel);

@@ -86,18 +86,30 @@ const toUrl = (s) =>
 
 const documentsList = Object.keys(documents)
   .map((k) => documents[k])
+  .filter((d) => d.paragraphs.every((p) => !p.id))
   .map((d) => {
     const refCounts = Object.keys(quotes[d.id] || {}).flatMap(
       (k) => unique(quotes[d.id][k].refs.map((r) => r.id)).length
     );
     return {
       ...d,
+      path: d.path && [
+        ...new Set(
+          d.path.filter(
+            (p) => !["Selections from the Writings of the Báb"].includes(p)
+          )
+        ),
+      ],
       score:
         refCounts.reduce((res, n) => res + n, 0) /
         Math.sqrt(d.paragraphs.length),
     };
   })
-  .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
+  .sort(
+    (a, b) =>
+      b.years[0] + b.years[1] - (a.years[0] + a.years[1]) ||
+      a.id.localeCompare(b.id)
+  );
 
 maraca(
   {
@@ -132,15 +144,8 @@ maraca(
       {}
     ),
     documents,
-    findDocuments: (author, ignore) => {
-      const ignoreFlat = ignore.flatMap((x) => x);
-      return documentsList.filter(
-        (d) =>
-          d.author === author &&
-          d.type !== "Prayer" &&
-          !ignoreFlat.includes(d.id)
-      );
-    },
+    findDocuments: (author) =>
+      documentsList.filter((d) => d.author === author && d.type !== "Prayer"),
     documentsList: Object.keys(documents).map((k) => documents[k]),
     quotesMap: quotes,
     topQuotes: Object.keys(quotes)
@@ -161,7 +166,12 @@ maraca(
       })
       .filter((q) => q.parts.some((p) => p.count > 3)),
     fillParts: (parts, text, lines, quotes) => {
-      const firstChar = /[a-z]/i.exec(text)?.index;
+      const firstChar = /[a-z]/i.exec(
+        text
+          .normalize("NFD")
+          .replace(/\u0323/g, "")
+          .normalize("NFC")
+      )?.index;
       const indices = unique([
         0,
         ...(firstChar === undefined ? [] : [firstChar + 1]),

@@ -2131,7 +2131,6 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^A Selection of Prayers Revealed by.*/m, ""],
       removeAfter("Notes"),
       title("", "Bahá’í Prayers", {
-        years: authorYears["‘Abdu’l‑Bahá"],
         type: "Prayer",
         collection: true,
       }),
