@@ -85,7 +85,8 @@ The Glory of Glories rest upon you!
 # Part Two: Letters from Shoghi Effendi
 collection
 
-## Letter of January 21st, 1922.
+## Letter of January 21st, 1922
+years=[1922.0121,1922.0121]
 
 Dearly beloved brethren and sisters in ‘Abdu’l‑Bahá:
 
@@ -109,7 +110,8 @@ Haifa, Palestine.
 
 January 21st, 1922.
 
-## Letter of March 5, 1922.
+## Letter of March 5, 1922
+years=[1922.0305,1922.0305]
 
 Dear fellow‑workers in the Cause of Bahá’u’lláh:—
 
@@ -162,6 +164,7 @@ Haifa, Palestine.
 March 5, 1922.
 
 ## Letter of Circa May, 1922 (undated).
+years=[1922.0501,1922.0501]
 
 IN THE NAME OF GOD
 
@@ -178,6 +181,7 @@ Haifa, Palestine.
 Circa May, 1922 (undated).
 
 ## Letter of Circa May, 1922 (undated).
+years=[1922.0501,1922.0501]
 
 ### Our Common Servitude
 
@@ -188,6 +192,7 @@ Haifa, Palestine.
 Circa May, 1922 (undated).
 
 ## Letter of December 16, 1922
+years=[1922.1216,1922.1216]
 
 To the loved ones of ‘Abdu’l‑Bahá throughout the continent of America.
 
@@ -212,6 +217,7 @@ Haifa, Palestine,
 December 16, 1922.
 
 ## Letter of December 23rd, 1922
+years=[1922.1223,1922.1223]
 
 To the members of the National Spiritual Assembly, the elected representatives of all believers throughout the continent of America.
 
@@ -254,6 +260,7 @@ P.S. I would be pleased and gratified if you could inform all the various local 
 Shoghi.
 
 ## Letter of January 12, 1923
+years=[1923.0112,1923.0112]
 
 To the members of the National Spiritual Assembly.
 
@@ -281,7 +288,8 @@ Haifa, Palestine,
 
 January 12, 1923.
 
-## Letter of January 16, 1923.
+## Letter of January 16, 1923
+years=[1923.0116,1923.0116]
 
 The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
 
@@ -306,6 +314,7 @@ Haifa, Palestine.
 January 16, 1923.
 
 ## Letter of January 17th, 1923
+years=[1923.0117,1923.0117]
 
 To the members of the National Spiritual Assembly.
 
@@ -326,6 +335,7 @@ Haifa, Palestine,
 January 17th, 1923.
 
 ## Letter of February 13, 1923
+years=[1923.0213,1923.0213]
 
 To the members of the National Spiritual Assembly.
 
@@ -346,6 +356,7 @@ Haifa, Palestine,
 February 13, 1923.
 
 ## Letter of March 12, 1923
+years=[1923.0312,1923.0312]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout America, Great Britain, Germany, France, Switzerland, Italy, Japan and Australasia.
 
@@ -467,7 +478,8 @@ March 12, 1923.
 
 P.S. On another page is given the list of the best known and most current Bahá’í terms, and other Oriental names and expressions, all properly and accurately transliterated, the faithful spelling of which by all the Western friends will avoid confusion in future, and ensure in this matter a uniformity which is greatly needed at present in all Bahá’í literature. The full code will be duly communicated to the various National Assemblies, and the transliteration of the Oriental terms mentioned in the English letters sent out by the Haifa Spiritual Assembly will provide a correct and reliable supplement to the above‑mentioned list. I feel confident that all the friends will from now on follow this system and adhere scrupulously and at all times to this code in all their writings.
 
-## Letter of April 8th, 1923.
+## Letter of April 8th, 1923
+years=[1923.0408,1923.0408]
 
 To the beloved of the Lord and the handmaids of the Merciful, the accredited delegates to the Annual Convention of America, Chicago, Illinois.
 
@@ -489,7 +501,8 @@ Haifa, Palestine.
 
 April 8, 1923.
 
-## Letter of April 9th, 1923.
+## Letter of April 9th, 1923
+years=[1923.0409,1923.0409]
 
 To the members of the American National Spiritual Assembly.
 
@@ -539,7 +552,8 @@ Haifa, Palestine.
 
 April 9th, 1923.
 
-## Letter of April 27th, 1923.
+## Letter of April 27th, 1923
+years=[1923.0427,1923.0427]
 
 To the members of the National Spiritual Assembly.
 
@@ -560,6 +574,7 @@ Haifa, Palestine,
 April 27th, 1923.
 
 ## Letter of May 6th, 1923
+years=[1923.0506,1923.0506]
 
 To the members of the National Spiritual Assembly.
 
@@ -589,7 +604,8 @@ May 6th, 1923.
 
 P.S. I enclose a copy of my translation of Bahá’u’lláh’s Words of Wisdom, which you will feel at liberty to circulate amongst the friends.
 
-## Letter of November 14, 1923.
+## Letter of November 14, 1923
+years=[1923.1114,1923.1114]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout America, care of the members of the American National Spiritual Assembly.
 
@@ -629,7 +645,8 @@ Haifa, Palestine.
 
 November 14, 1923.
 
-## Letter of November 26, 1923.
+## Letter of November 26, 1923
+years=[1923.1126,1923.1126]
 
 To the members of the American National Spiritual Assembly.
 
@@ -697,7 +714,8 @@ Haifa, Palestine.
 
 November 26, 1923.
 
-## Letter of January 4th, 1924.
+## Letter of January 4th, 1924
+years=[1924.0104,1924.0104]
 
 To the members of the American National Spiritual Assembly.
 
@@ -735,7 +753,8 @@ Haifa, Palestine,
 
 January 4th, 1924.
 
-## Letter of February 23, 1924.
+## Letter of February 23, 1924
+years=[1924.0223,1924.0223]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout America.
 
@@ -789,7 +808,8 @@ Haifa, Palestine,
 
 February 23, 1924.
 
-## Letter of September 24, 1924.
+## Letter of September 24, 1924
+years=[1924.0924,1924.0924]
 
 The beloved of the Lord and the handmaids of the Merciful throughout the Continent of America:
 
@@ -821,7 +841,8 @@ Haifa, Palestine.
 
 September 24, 1924.
 
-## Letter of November 24th, 1924.
+## Letter of November 24th, 1924
+years=[1924.1124,1924.1124]
 
 To my dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá: care of the American National Spiritual Assembly.
 
@@ -857,7 +878,8 @@ Haifa, Palestine,
 
 November 24th, 1924.
 
-## Letter of November 27, 1924.
+## Letter of November 27, 1924
+years=[1924.1127,1924.1127]
 
 To my dear friends and fellow‑workers, the members of the American National Spiritual Assembly.
 
@@ -909,7 +931,8 @@ Haifa, Palestine,
 
 November 27, 1924.
 
-## Letter of January 16, 1925.
+## Letter of January 16, 1925
+years=[1925.0116,1925.0116]
 
 To my dearly‑beloved friends, the members of the American National Spiritual Assembly.
 
@@ -949,7 +972,8 @@ Haifa, Palestine,
 
 January 16, 1925.
 
-## Letter of January 29th, 1925.
+## Letter of January 29th, 1925
+years=[1925.0129,1925.0129]
 
 To the esteemed members of the American National Spiritual Assembly.
 
@@ -985,7 +1009,8 @@ Haifa, Palestine,
 
 January 29th, 1925.
 
-## Letter of April 10th, 1925.
+## Letter of April 10th, 1925
+years=[1925.0410,1925.0410]
 
 To the members of the American National Spiritual Assembly.
 
@@ -1023,7 +1048,8 @@ Haifa, Palestine,
 
 April 10th, 1925.
 
-## Letter of May 12, 1925.
+## Letter of May 12, 1925
+years=[1925.0512,1925.0512]
 
 To the members of the American National Assembly.
 
@@ -1057,7 +1083,8 @@ Haifa, Palestine,
 
 May 12, 1925.
 
-## Letter of June 3rd, 1925.
+## Letter of June 3rd, 1925
+years=[1925.0603,1925.0603]
 
 To the beloved of God and the handmaids of the Merciful, the delegates and visitors to the Bahá’í Convention, Green Acre, Maine, U.S.A.
 
@@ -1093,7 +1120,8 @@ Haifa, Palestine,
 
 June 3rd, 1925.
 
-## Letter of October 24th, 1925.
+## Letter of October 24th, 1925
+years=[1925.1024,1925.1024]
 
 To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
@@ -1135,7 +1163,8 @@ Haifa, Palestine,
 
 October 24th, 1925.
 
-## Letter of November 6, 1925.
+## Letter of November 6, 1925
+years=[1925.1106,1925.1106]
 
 To the members of the American National Spiritual Assembly.
 
@@ -1181,7 +1210,8 @@ Haifa, Palestine,
 
 November 6, 1925.
 
-## Letter of November 30, 1925.
+## Letter of November 30, 1925
+years=[1925.1130,1925.1130]
 
 To the beloved of God and the handmaids of the Merciful in the East and in the West.
 
@@ -1203,7 +1233,8 @@ Haifa, Palestine,
 
 November 30, 1925.
 
-## Letter of January 10, 1926.
+## Letter of January 10, 1926
+years=[1926.0110,1926.0110]
 
 To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
@@ -1253,7 +1284,8 @@ Haifa, Palestine,
 
 January 10, 1926.
 
-## Letter of April 22nd, 1926.
+## Letter of April 22nd, 1926
+years=[1926.0422,1926.0422]
 
 To the beloved of the Lord and the handmaids of the Merciful through the West.
 
@@ -1287,7 +1319,8 @@ Haifa, Palestine,
 
 April 22nd, 1926.
 
-## Letter of May 11th, 1926.
+## Letter of May 11th, 1926
+years=[1926.0511,1926.0511]
 
 To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
@@ -1329,7 +1362,8 @@ Haifa, Palestine,
 
 May 11th, 1926.
 
-## Letter of October 7th, 1926.
+## Letter of October 7th, 1926
+years=[1926.1007,1926.1007]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
@@ -1367,7 +1401,8 @@ Haifa, Palestine,
 
 October 7th, 1926.
 
-## Letter of October 29, 1926.
+## Letter of October 29, 1926
+years=[1926.1029,1926.1029]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
@@ -1393,7 +1428,8 @@ Haifa, Palestine,
 
 October 29, 1926.
 
-## Letter of October 31, 1926.
+## Letter of October 31, 1926
+years=[1926.1031,1926.1031]
 
 To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
@@ -1431,7 +1467,8 @@ Haifa, Palestine,
 
 October 31, 1926.
 
-## Letter of November 14, 1926.
+## Letter of November 14, 1926
+years=[1926.1114,1926.1114]
 
 The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
 
@@ -1455,7 +1492,8 @@ Haifa, Palestine,
 
 November 14, 1926.
 
-## Letter of February 12, 1927.
+## Letter of February 12, 1927
+years=[1927.0212,1927.0212]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
@@ -1493,7 +1531,8 @@ Haifa, Palestine,
 
 February 12, 1927.
 
-## Letter of February 20, 1927.
+## Letter of February 20, 1927
+years=[1927.0220,1927.0220]
 
 To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
@@ -1537,7 +1576,8 @@ Haifa, Palestine,
 
 February 20, 1927.
 
-## Letter of April 12, 1927.
+## Letter of April 12, 1927
+years=[1927.0412,1927.0412]
 
 To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada:
 
@@ -1579,7 +1619,8 @@ Haifa, Palestine,
 
 April 12, 1927.
 
-## Letter of April 27, 1927.
+## Letter of April 27, 1927
+years=[1927.0427,1927.0427]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
 
@@ -1607,7 +1648,8 @@ Haifa, Palestine,
 
 April 27, 1927.
 
-## Letter of May 27, 1927.
+## Letter of May 27, 1927
+years=[1927.0527,1927.0527]
 
 To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada:
 
@@ -1639,7 +1681,8 @@ Haifa, Palestine,
 
 May 27, 1927.
 
-## Letter of October 17, 1927.
+## Letter of October 17, 1927
+years=[1927.1017,1927.1017]
 
 To the Honoured Members of the Bahá’í National Spiritual Assemblies throughout the West.
 
@@ -1671,7 +1714,8 @@ Haifa, Palestine;
 
 October 17, 1927.
 
-## Letter of October 18, 1927.
+## Letter of October 18, 1927
+years=[1927.1018,1927.1018]
 
 To the Members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
@@ -1711,7 +1755,8 @@ Haifa, Palestine,
 
 October 18, 1927.
 
-## Letter of December 6, 1928.
+## Letter of December 6, 1928
+years=[1928.1206,1928.1206]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
@@ -1763,7 +1808,8 @@ Haifa, Palestine,
 
 December 6, 1928.
 
-## Letter of December 6, 1928.
+## Letter of December 6, 1928
+years=[1928.1206,1928.1206]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout the East and West.
 
@@ -1787,7 +1833,8 @@ Haifa, Palestine,
 
 December 6, 1928.
 
-## Letter of December 21, 1928.
+## Letter of December 21, 1928
+years=[1928.1221,1928.1221]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
@@ -1815,7 +1862,8 @@ Haifa, Palestine,
 
 December 21, 1928.
 
-## Letter of January 1, 1929.
+## Letter of January 1, 1929
+years=[1929.0101,1929.0101]
 
 The beloved of the Lord and the handmaids of the Merciful throughout the West.
 
@@ -1859,7 +1907,8 @@ Haifa, Palestine,
 
 January 1, 1929.
 
-## Letter of February 12, 1929.
+## Letter of February 12, 1929
+years=[1929.0212,1929.0212]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
@@ -1919,7 +1968,8 @@ Haifa, Palestine,
 
 February 12, 1929.
 
-## Letter of March 20, 1929.
+## Letter of March 20, 1929
+years=[1929.0320,1929.0320]
 
 To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
@@ -1951,7 +2001,8 @@ Haifa, Palestine,
 
 March 20, 1929.
 
-## Letter of October 25, 1929.
+## Letter of October 25, 1929
+years=[1929.1025,1929.1025]
 
 The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
 
@@ -1989,7 +2040,8 @@ Haifa, Palestine,
 
 October 25, 1929.
 
-## Letter of July 17, 1932.
+## Letter of July 17, 1932
+years=[1932.0717,1932.0717]
 
 The beloved of God and the handmaids of the Merciful throughout the United States and Canada.
 
@@ -2071,7 +2123,8 @@ Haifa, Palestine.
 
 July 17, 1932.
 
-## Letter of March 16, 1933.
+## Letter of March 16, 1933
+years=[1933.0316,1933.0316]
 
 ### Non‑Participation in Political Affairs
 
@@ -2079,7 +2132,8 @@ The handling of this delicate and vital problem regarding non‑participation by
 
 March 16, 1933.
 
-## Letter of April 11, 1933.
+## Letter of April 11, 1933
+years=[1933.0411,1933.0411]
 
 ### Personalities Subordinated
 

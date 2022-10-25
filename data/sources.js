@@ -9,6 +9,21 @@ const authorYears = {
   "Shoghi Effendi": [1922, 1957],
 };
 
+const months = [
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December",
+];
+
 const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const prefix = (line, pre) => [line, (s) => `${pre}${s}`];
 const getTitle = (s, t, translated) => {
@@ -1619,6 +1634,24 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
       ["### Bahá’í Administration", "Bahá’í Administration"],
       ["House of Justice (i.e.,", "Houses of Justice (i.e.,"],
+      [
+        /^## Letter.+$/gm,
+        (a) => {
+          if (a === "## Letter of Circa May, 1922 (undated).") {
+            return `${a}\nyears=[1922.0501,1922.0501]`;
+          }
+          const [mm, dd, yy] = a
+            .replace(/\.$/, "")
+            .slice(13)
+            .replace(/(\d)(st|nd|rd|th)/g, (_, a) => a)
+            .split(/,? /g);
+          const date = `${yy}.${`${months.indexOf(mm) + 1}`.padStart(
+            2,
+            "0"
+          )}${dd.padStart(2, "0")}`;
+          return `${a.replace(/\.$/, "")}\nyears=[${date},${date}]`;
+        },
+      ],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -1634,8 +1667,15 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       prefix("Frank Ashton", "## "),
       [/^\[.*\]$\n\n/gm, (a) => `${a}## `],
       [
-        /^((?:January|February|March|April|May|June|July|August|September|October|November|December).*)\n\n(.*)/gm,
-        (_, a, b) => `## ${b}\n\n${a}`,
+        new RegExp(`^((?:${months.join("|")}) \\d.*)\\n\\n(.*)`, "gm"),
+        (_, a, b) => {
+          const [mm, dd, yy] = a.split(/,? /g);
+          const date = `${yy}.${`${months.indexOf(mm) + 1}`.padStart(
+            2,
+            "0"
+          )}${dd.padStart(2, "0")}`;
+          return `## ${b}\nyears=[${date},${date}]\n\n${a}`;
+        },
       ],
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
       ["### Citadel of Faith", "Citadel of Faith"],
@@ -1643,6 +1683,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         "“The ills from which the world now suffers,” He wrote, “will multiply; the gloom which envelops it will deepen. The Balkans will remain discontented. Its restlessness will increase. The vanquished powers will continue to agitate. They will resort to every measure that may rekindle the flame of war. Movements, newly born and world‑wide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“This darkness,” He wrote, “shall never vanish, these chronic diseases shall never be healed; nay, they shall grow fiercer from day to day. The Balkans will remain restless, and its condition will aggravate. The vanquished will not keep still, but will seize every means to kindle anew the flame of war. Modern universal movements will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
       ],
+      [/##\s*$/, ""],
     ],
     "god-passes-by": [
       [/^Shoghi Effendi[\s\S]*Foreword$/m, "Foreword"],
@@ -1687,6 +1728,17 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         collection: true,
       }),
       [/^— .* —$\n\n/gm, "# "],
+      [
+        /^(#.+)(\n\n[^#].+)*?\n\n([\[\d].+)/gm,
+        (_, a, b, c) => {
+          const [dd, mm, yy] = c.replace(/\[|\]|circa /g, "").split(/ /g);
+          const date = `${yy}.${`${months.indexOf(mm) + 1}`.padStart(
+            2,
+            "0"
+          )}${dd.padStart(2, "0")}`;
+          return `${a}\nyears=[${date},${date}]${b || ""}\n\n${c}`;
+        },
+      ],
     ],
     "world-order-bahaullah": [
       ["Selected Letters", ""],

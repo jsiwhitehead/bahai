@@ -20,6 +20,22 @@ const authorYears = {
   "Shoghi Effendi": [1922, 1957],
 };
 
+const months = [
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December",
+];
+const dateRegex = new RegExp(`(?:(\\d+) )?(?:(${months.join("|")}) )?(\\d{4})`);
+
 const getItem = (s) => {
   if (s.startsWith("^")) {
     return { type: "call", text: s.slice(2) };
@@ -39,7 +55,7 @@ const getItem = (s) => {
   return { text: s };
 };
 
-const process = (source) => {
+const process = (source, id) => {
   const documents = [];
   let collectionLevel = 0;
   let titlePath = [];
@@ -89,6 +105,26 @@ const process = (source) => {
           ...noBlanks(configPath.reduce((res, c) => ({ ...res, ...c }), {})),
           paragraphs: [],
         };
+        if (
+          id.startsWith("additional-") &&
+          !id.startsWith("additional-other") &&
+          title
+        ) {
+          const match = title.match(dateRegex);
+          if (match) {
+            const [_, dd, mm, yy] = match;
+            if (parseInt(yy, 10) >= 1800 && parseInt(yy, 10) <= 2050) {
+              const dateValue = parseFloat(
+                mm
+                  ? `${yy}.${[months.indexOf(mm) + 1, dd || 1]
+                      .map((x) => `${x}`.padStart(2, "0"))
+                      .join("")}`
+                  : yy
+              );
+              d.years = [dateValue, dateValue];
+            }
+          }
+        }
         if (!d.years) d.years = authorYears[d.author];
         documents.push(d);
       } else if (!collection) {
@@ -118,11 +154,17 @@ const process = (source) => {
     ...fs
       .readdirSync("./data/manual")
       .map((s) => s.slice(0, -4))
-      .map(async (id) => ({ id, docs: process(await readText("manual", id)) })),
+      .map(async (id) => ({
+        id,
+        docs: process(await readText("manual", id), id),
+      })),
     ...fs
       .readdirSync("./data/format")
       .map((s) => s.slice(0, -4))
-      .map(async (id) => ({ id, docs: process(await readText("format", id)) })),
+      .map(async (id) => ({
+        id,
+        docs: process(await readText("format", id), id),
+      })),
   ]);
 
   const allPrayers = [];

@@ -96,7 +96,11 @@ const documentsList = Object.keys(documents)
       path: d.path && [
         ...new Set(
           d.path.filter(
-            (p) => !["Selections from the Writings of the Báb"].includes(p)
+            (p) =>
+              ![
+                "Selections from the Writings of the Báb",
+                "Part Two: Letters from Shoghi Effendi",
+              ].includes(p)
           )
         ),
       ],
@@ -144,8 +148,50 @@ maraca(
       {}
     ),
     documents,
-    findDocuments: (author) =>
-      documentsList.filter((d) => d.author === author && d.type !== "Prayer"),
+    findDocuments: (section) => {
+      if (section === "First Epoch") {
+        return documentsList.filter(
+          (d) =>
+            d.author === "Shoghi Effendi" &&
+            (d.years[0] + d.years[1]) / 2 < 1946.0424
+        );
+      } else if (section === "Second Epoch") {
+        return documentsList.filter(
+          (d) =>
+            d.author === "Shoghi Effendi" &&
+            (d.years[0] + d.years[1]) / 2 >= 1946.0424
+        );
+      } else if (section === "Third Epoch") {
+        return documentsList.filter(
+          (d) =>
+            d.author === "The Universal House of Justice" &&
+            (d.years[0] + d.years[1]) / 2 < 1986.0422
+        );
+      } else if (section === "Fourth Epoch") {
+        return documentsList.filter(
+          (d) =>
+            d.author === "The Universal House of Justice" &&
+            (d.years[0] + d.years[1]) / 2 >= 1986 &&
+            (d.years[0] + d.years[1]) / 2 < 2001.0422
+        );
+      } else if (section === "Fifth Epoch") {
+        return documentsList.filter(
+          (d) =>
+            d.author === "The Universal House of Justice" &&
+            (d.years[0] + d.years[1]) / 2 >= 2001 &&
+            (d.years[0] + d.years[1]) / 2 < 2022.0422
+        );
+      } else if (section === "Sixth Epoch") {
+        return documentsList.filter(
+          (d) =>
+            d.author === "The Universal House of Justice" &&
+            (d.years[0] + d.years[1]) / 2 >= 2022
+        );
+      }
+      return documentsList.filter(
+        (d) => d.author === section && d.type !== "Prayer"
+      );
+    },
     documentsList: Object.keys(documents).map((k) => documents[k]),
     quotesMap: quotes,
     topQuotes: Object.keys(quotes)

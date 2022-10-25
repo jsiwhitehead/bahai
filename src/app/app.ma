@@ -146,9 +146,15 @@
         url->[
           ['prayers']: prayers,
           ['prayers', x]: prayers,
-          ['abdul-baha']: abdulbaha,
-          ['bahaullah']: bahaullah,
-          ['the-bab']: thebab,
+          ['sixth-epoch']: pages.'sixthepoch',
+          ['fifth-epoch']: pages.'fifthepoch',
+          ['fourth-epoch']: pages.'fourthepoch',
+          ['third-epoch']: pages.'thirdepoch',
+          ['second-epoch']: pages.'secondepoch',
+          ['first-epoch']: pages.'firstepoch',
+          ['abdul-baha']: pages.'abdulbaha',
+          ['bahaullah']: pages.'bahaullah',
+          ['the-bab']: pages.'thebab',
           ['doc', x]: [
             'stack': 20,
             ['color': 'blue', 'underline': hover, 'link': [group], '« Back'],

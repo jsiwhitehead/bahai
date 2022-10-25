@@ -865,12 +865,12 @@
     "35": {
       "refs": [
         {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 21
-        },
-        {
           "id": "shoghi-effendi-god-passes-by-002",
           "paragraph": 155
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 21
         },
         {
           "id": "official-statements-commentaries-bahaullah-001",
@@ -931,12 +931,12 @@
     "37": {
       "refs": [
         {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 21
-        },
-        {
           "id": "shoghi-effendi-god-passes-by-002",
           "paragraph": 155
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 21
         },
         {
           "id": "official-statements-commentaries-bahaullah-001",
@@ -1827,12 +1827,12 @@
           "paragraph": 4
         },
         {
-          "id": "shoghi-effendi-decisive-hour-064",
-          "paragraph": 7
-        },
-        {
           "id": "shoghi-effendi-world-order-bahaullah-007",
           "paragraph": 22
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-064",
+          "paragraph": 7
         },
         {
           "id": "shoghi-effendi-god-passes-by-002",
@@ -18118,1052 +18118,6 @@
       ]
     }
   },
-  "abdul-baha-tablets-divine-plan-007": {
-    "3": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 18
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 93
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 110
-        },
-        {
-          "id": "shoghi-effendi-world-order-bahaullah-006",
-          "paragraph": 13
-        }
-      ],
-      "parts": [
-        {
-          "start": 472,
-          "end": 504,
-          "count": 3
-        },
-        {
-          "start": 504,
-          "end": 505,
-          "count": 2
-        },
-        {
-          "start": 505,
-          "end": 808,
-          "count": 3
-        },
-        {
-          "start": 808,
-          "end": 809,
-          "count": 2
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 18
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 93
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 110
-        },
-        {
-          "id": "shoghi-effendi-world-order-bahaullah-006",
-          "paragraph": 13
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-348",
-          "paragraph": 8
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 37,
-          "count": 4
-        },
-        {
-          "start": 37,
-          "end": 38,
-          "count": 3
-        },
-        {
-          "start": 38,
-          "end": 65,
-          "count": 4
-        },
-        {
-          "start": 65,
-          "end": 184,
-          "count": 4
-        },
-        {
-          "start": 184,
-          "end": 567,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-037",
-          "paragraph": 2
-        },
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 6
-        },
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 18
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 25
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 80
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 111
-        },
-        {
-          "id": "shoghi-effendi-world-order-bahaullah-006",
-          "paragraph": 14
-        },
-        {
-          "id": "shoghi-effendi-god-passes-by-002",
-          "paragraph": 491
-        },
-        {
-          "id": "shoghi-effendi-god-passes-by-002",
-          "paragraph": 782
-        },
-        {
-          "id": "shoghi-effendi-citadel-faith-005",
-          "paragraph": 77
-        },
-        {
-          "id": "shoghi-effendi-citadel-faith-067",
-          "paragraph": 9
-        },
-        {
-          "id": "shoghi-effendi-citadel-faith-070",
-          "paragraph": 34
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-440",
-          "paragraph": 9
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 10,
-          "count": 6
-        },
-        {
-          "start": 10,
-          "end": 11,
-          "count": 5
-        },
-        {
-          "start": 11,
-          "end": 30,
-          "count": 6
-        },
-        {
-          "start": 30,
-          "end": 31,
-          "count": 4
-        },
-        {
-          "start": 31,
-          "end": 107,
-          "count": 5
-        },
-        {
-          "start": 107,
-          "end": 121,
-          "count": 6
-        },
-        {
-          "start": 121,
-          "end": 192,
-          "count": 6
-        },
-        {
-          "start": 192,
-          "end": 236,
-          "count": 5
-        },
-        {
-          "start": 236,
-          "end": 256,
-          "count": 6
-        },
-        {
-          "start": 256,
-          "end": 268,
-          "count": 7
-        },
-        {
-          "start": 268,
-          "end": 331,
-          "count": 8
-        },
-        {
-          "start": 331,
-          "end": 332,
-          "count": 8
-        },
-        {
-          "start": 332,
-          "end": 446,
-          "count": 2
-        },
-        {
-          "start": 446,
-          "end": 526,
-          "count": 4
-        },
-        {
-          "start": 527,
-          "end": 535,
-          "count": 1
-        },
-        {
-          "start": 535,
-          "end": 559,
-          "count": 2
-        },
-        {
-          "start": 559,
-          "end": 619,
-          "count": 1
-        },
-        {
-          "start": 620,
-          "end": 625,
-          "count": 1
-        },
-        {
-          "start": 625,
-          "end": 715,
-          "count": 2
-        },
-        {
-          "start": 715,
-          "end": 750,
-          "count": 1
-        },
-        {
-          "start": 1160,
-          "end": 1251,
-          "count": 1
-        },
-        {
-          "start": 1303,
-          "end": 1388,
-          "count": 1
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-348",
-          "paragraph": 7
-        }
-      ],
-      "parts": [
-        {
-          "start": 135,
-          "end": 249,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 24
-        },
-        {
-          "id": "shoghi-effendi-god-passes-by-002",
-          "paragraph": 759
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-464",
-          "paragraph": 30
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-079",
-          "paragraph": 8
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 266,
-          "count": 4
-        },
-        {
-          "start": 266,
-          "end": 297,
-          "count": 3
-        }
-      ]
-    },
-    "13": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 98
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 19,
-          "count": 1
-        },
-        {
-          "start": 20,
-          "end": 160,
-          "count": 1
-        }
-      ]
-    },
-    "17": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-037",
-          "paragraph": 2
-        },
-        {
-          "id": "world-centre-20180503-001",
-          "paragraph": 36
-        }
-      ],
-      "parts": [
-        {
-          "start": 97,
-          "end": 200,
-          "count": 1
-        },
-        {
-          "start": 200,
-          "end": 217,
-          "count": 2
-        },
-        {
-          "start": 217,
-          "end": 218,
-          "count": 1
-        },
-        {
-          "start": 218,
-          "end": 441,
-          "count": 2
-        }
-      ]
-    }
-  },
-  "bahaullah-gleanings-writings-bahaullah-144": {
-    "1": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-046",
-          "paragraph": 5
-        },
-        {
-          "id": "ruhi6-001",
-          "paragraph": 20
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 100,
-          "count": 1
-        },
-        {
-          "start": 107,
-          "end": 195,
-          "count": 1
-        },
-        {
-          "start": 195,
-          "end": 287,
-          "count": 2
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "ruhi10-001",
-          "paragraph": 5
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 298,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-promulgation-universal-peace-014": {
-    "4": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-062",
-          "paragraph": 19
-        },
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 223
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 333,
-          "count": 1
-        },
-        {
-          "start": 333,
-          "end": 356,
-          "count": 2
-        },
-        {
-          "start": 356,
-          "end": 357,
-          "count": 1
-        },
-        {
-          "start": 357,
-          "end": 418,
-          "count": 2
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 224
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 357,
-          "count": 1
-        },
-        {
-          "start": 562,
-          "end": 670,
-          "count": 1
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 6
-        },
-        {
-          "id": "shoghi-effendi-god-passes-by-002",
-          "paragraph": 490
-        },
-        {
-          "id": "shoghi-effendi-god-passes-by-002",
-          "paragraph": 781
-        },
-        {
-          "id": "shoghi-effendi-citadel-faith-005",
-          "paragraph": 86
-        },
-        {
-          "id": "compilations-peace-001",
-          "paragraph": 56
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-255",
-          "paragraph": 8
-        },
-        {
-          "id": "official-statements-commentaries-century-light-002",
-          "paragraph": 154
-        }
-      ],
-      "parts": [
-        {
-          "start": 439,
-          "end": 682,
-          "count": 1
-        },
-        {
-          "start": 682,
-          "end": 753,
-          "count": 4
-        },
-        {
-          "start": 753,
-          "end": 754,
-          "count": 2
-        },
-        {
-          "start": 754,
-          "end": 1168,
-          "count": 1
-        },
-        {
-          "start": 1168,
-          "end": 1173,
-          "count": 2
-        },
-        {
-          "start": 1173,
-          "end": 1181,
-          "count": 2
-        },
-        {
-          "start": 1181,
-          "end": 1291,
-          "count": 3
-        },
-        {
-          "start": 1291,
-          "end": 1361,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-tablets-divine-plan-011": {
-    "10": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-citadel-faith-035",
-          "paragraph": 5
-        },
-        {
-          "id": "compilations-institution-mashriqul-adhkar-001",
-          "paragraph": 96
-        }
-      ],
-      "parts": [
-        {
-          "start": 7,
-          "end": 127,
-          "count": 1
-        },
-        {
-          "start": 127,
-          "end": 218,
-          "count": 2
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 6
-        },
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 18
-        },
-        {
-          "id": "shoghi-effendi-god-passes-by-002",
-          "paragraph": 491
-        },
-        {
-          "id": "shoghi-effendi-god-passes-by-002",
-          "paragraph": 782
-        },
-        {
-          "id": "shoghi-effendi-citadel-faith-005",
-          "paragraph": 72
-        },
-        {
-          "id": "shoghi-effendi-citadel-faith-005",
-          "paragraph": 77
-        },
-        {
-          "id": "shoghi-effendi-citadel-faith-067",
-          "paragraph": 29
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-348",
-          "paragraph": 8
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-273",
-          "paragraph": 7
-        }
-      ],
-      "parts": [
-        {
-          "start": 328,
-          "end": 346,
-          "count": 2
-        },
-        {
-          "start": 346,
-          "end": 358,
-          "count": 4
-        },
-        {
-          "start": 358,
-          "end": 359,
-          "count": 3
-        },
-        {
-          "start": 359,
-          "end": 362,
-          "count": 4
-        },
-        {
-          "start": 362,
-          "end": 383,
-          "count": 4
-        },
-        {
-          "start": 383,
-          "end": 384,
-          "count": 4
-        },
-        {
-          "start": 384,
-          "end": 410,
-          "count": 5
-        },
-        {
-          "start": 410,
-          "end": 420,
-          "count": 6
-        },
-        {
-          "start": 420,
-          "end": 421,
-          "count": 6
-        },
-        {
-          "start": 421,
-          "end": 445,
-          "count": 5
-        },
-        {
-          "start": 445,
-          "end": 514,
-          "count": 5
-        },
-        {
-          "start": 514,
-          "end": 520,
-          "count": 4
-        },
-        {
-          "start": 520,
-          "end": 623,
-          "count": 5
-        },
-        {
-          "start": 623,
-          "end": 624,
-          "count": 4
-        }
-      ]
-    },
-    "19": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 87
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 258,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-tablets-divine-plan-008": {
-    "2": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 18
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 93
-        },
-        {
-          "id": "shoghi-effendi-world-order-bahaullah-006",
-          "paragraph": 13
-        }
-      ],
-      "parts": [
-        {
-          "start": 11,
-          "end": 40,
-          "count": 3
-        },
-        {
-          "start": 40,
-          "end": 41,
-          "count": 2
-        },
-        {
-          "start": 41,
-          "end": 75,
-          "count": 3
-        }
-      ]
-    },
-    "4": {
-      "refs": [
-        {
-          "id": "compilations-power-divine-assistance-001",
-          "paragraph": 34
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 672,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 18
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 93
-        },
-        {
-          "id": "shoghi-effendi-world-order-bahaullah-006",
-          "paragraph": 13
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 190,
-          "count": 3
-        },
-        {
-          "start": 190,
-          "end": 191,
-          "count": 2
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "ruhi10-001",
-          "paragraph": 20
-        }
-      ],
-      "parts": [
-        {
-          "start": 65,
-          "end": 1134,
-          "count": 1
-        }
-      ]
-    },
-    "11": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-world-order-bahaullah-006",
-          "paragraph": 13
-        }
-      ],
-      "parts": [
-        {
-          "start": 160,
-          "end": 171,
-          "count": 1
-        },
-        {
-          "start": 172,
-          "end": 387,
-          "count": 1
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-464",
-          "paragraph": 22
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-464",
-          "paragraph": 24
-        }
-      ],
-      "parts": [
-        {
-          "start": 21,
-          "end": 123,
-          "count": 1
-        },
-        {
-          "start": 139,
-          "end": 163,
-          "count": 1
-        },
-        {
-          "start": 220,
-          "end": 290,
-          "count": 1
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 3
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 211,
-          "count": 1
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "compilations-bahai-meetings-001",
-          "paragraph": 37
-        },
-        {
-          "id": "official-statements-commentaries-century-light-002",
-          "paragraph": 309
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 135,
-          "count": 1
-        },
-        {
-          "start": 135,
-          "end": 480,
-          "count": 2
-        },
-        {
-          "start": 480,
-          "end": 553,
-          "count": 1
-        }
-      ]
-    },
-    "20": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 80
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 47,
-          "count": 1
-        },
-        {
-          "start": 48,
-          "end": 272,
-          "count": 1
-        }
-      ]
-    },
-    "31": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 89
-        },
-        {
-          "id": "ruhi9-001",
-          "paragraph": 54
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 8,
-          "count": 1
-        },
-        {
-          "start": 8,
-          "end": 238,
-          "count": 2
-        }
-      ]
-    }
-  },
-  "abdul-baha-tablets-divine-plan-013": {
-    "3": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-citadel-faith-005",
-          "paragraph": 26
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-348",
-          "paragraph": 5
-        }
-      ],
-      "parts": [
-        {
-          "start": 280,
-          "end": 321,
-          "count": 1
-        },
-        {
-          "start": 322,
-          "end": 369,
-          "count": 1
-        },
-        {
-          "start": 369,
-          "end": 437,
-          "count": 2
-        },
-        {
-          "start": 437,
-          "end": 548,
-          "count": 1
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-348",
-          "paragraph": 5
-        },
-        {
-          "id": "official-statements-commentaries-century-light-002",
-          "paragraph": 62
-        }
-      ],
-      "parts": [
-        {
-          "start": 160,
-          "end": 187,
-          "count": 1
-        },
-        {
-          "start": 235,
-          "end": 317,
-          "count": 1
-        },
-        {
-          "start": 1274,
-          "end": 1516,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-decisive-hour-158",
-          "paragraph": 18
-        }
-      ],
-      "parts": [
-        {
-          "start": 23,
-          "end": 137,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 85
-        },
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 87
-        },
-        {
-          "id": "ruhi2-001",
-          "paragraph": 26
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 14,
-          "count": 1
-        },
-        {
-          "start": 15,
-          "end": 107,
-          "count": 1
-        },
-        {
-          "start": 261,
-          "end": 605,
-          "count": 1
-        },
-        {
-          "start": 696,
-          "end": 714,
-          "count": 1
-        },
-        {
-          "start": 715,
-          "end": 833,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-abdul-baha-150": {
     "1": {
       "refs": [
@@ -19320,6 +18274,370 @@
           "start": 255,
           "end": 264,
           "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-tablets-divine-plan-007": {
+    "3": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 93
+        },
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 110
+        },
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-006",
+          "paragraph": 13
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 472,
+          "end": 504,
+          "count": 3
+        },
+        {
+          "start": 504,
+          "end": 505,
+          "count": 2
+        },
+        {
+          "start": 505,
+          "end": 808,
+          "count": 3
+        },
+        {
+          "start": 808,
+          "end": 809,
+          "count": 2
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 93
+        },
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 110
+        },
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-006",
+          "paragraph": 13
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 18
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-348",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 37,
+          "count": 4
+        },
+        {
+          "start": 37,
+          "end": 38,
+          "count": 3
+        },
+        {
+          "start": 38,
+          "end": 65,
+          "count": 4
+        },
+        {
+          "start": 65,
+          "end": 184,
+          "count": 4
+        },
+        {
+          "start": 184,
+          "end": 567,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 25
+        },
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 80
+        },
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 111
+        },
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-006",
+          "paragraph": 14
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-037",
+          "paragraph": 2
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 491
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 782
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 6
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 18
+        },
+        {
+          "id": "shoghi-effendi-citadel-faith-005",
+          "paragraph": 77
+        },
+        {
+          "id": "shoghi-effendi-citadel-faith-067",
+          "paragraph": 9
+        },
+        {
+          "id": "shoghi-effendi-citadel-faith-070",
+          "paragraph": 34
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-440",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 10,
+          "count": 6
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "count": 5
+        },
+        {
+          "start": 11,
+          "end": 30,
+          "count": 6
+        },
+        {
+          "start": 30,
+          "end": 31,
+          "count": 4
+        },
+        {
+          "start": 31,
+          "end": 107,
+          "count": 5
+        },
+        {
+          "start": 107,
+          "end": 121,
+          "count": 6
+        },
+        {
+          "start": 121,
+          "end": 192,
+          "count": 6
+        },
+        {
+          "start": 192,
+          "end": 236,
+          "count": 5
+        },
+        {
+          "start": 236,
+          "end": 256,
+          "count": 6
+        },
+        {
+          "start": 256,
+          "end": 268,
+          "count": 7
+        },
+        {
+          "start": 268,
+          "end": 331,
+          "count": 8
+        },
+        {
+          "start": 331,
+          "end": 332,
+          "count": 8
+        },
+        {
+          "start": 332,
+          "end": 446,
+          "count": 2
+        },
+        {
+          "start": 446,
+          "end": 526,
+          "count": 4
+        },
+        {
+          "start": 527,
+          "end": 535,
+          "count": 1
+        },
+        {
+          "start": 535,
+          "end": 559,
+          "count": 2
+        },
+        {
+          "start": 559,
+          "end": 619,
+          "count": 1
+        },
+        {
+          "start": 620,
+          "end": 625,
+          "count": 1
+        },
+        {
+          "start": 625,
+          "end": 715,
+          "count": 2
+        },
+        {
+          "start": 715,
+          "end": 750,
+          "count": 1
+        },
+        {
+          "start": 1160,
+          "end": 1251,
+          "count": 1
+        },
+        {
+          "start": 1303,
+          "end": 1388,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-348",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 135,
+          "end": 249,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 759
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 24
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-464",
+          "paragraph": 30
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-079",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 266,
+          "count": 4
+        },
+        {
+          "start": 266,
+          "end": 297,
+          "count": 3
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 98
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 19,
+          "count": 1
+        },
+        {
+          "start": 20,
+          "end": 160,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-decisive-hour-037",
+          "paragraph": 2
+        },
+        {
+          "id": "world-centre-20180503-001",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 97,
+          "end": 200,
+          "count": 1
+        },
+        {
+          "start": 200,
+          "end": 217,
+          "count": 2
+        },
+        {
+          "start": 217,
+          "end": 218,
+          "count": 1
+        },
+        {
+          "start": 218,
+          "end": 441,
+          "count": 2
         }
       ]
     }
@@ -22850,6 +22168,236 @@
       ]
     }
   },
+  "abdul-baha-tablets-divine-plan-008": {
+    "2": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 93
+        },
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-006",
+          "paragraph": 13
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 11,
+          "end": 40,
+          "count": 3
+        },
+        {
+          "start": 40,
+          "end": 41,
+          "count": 2
+        },
+        {
+          "start": 41,
+          "end": 75,
+          "count": 3
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-power-divine-assistance-001",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 672,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 93
+        },
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-006",
+          "paragraph": 13
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 190,
+          "count": 3
+        },
+        {
+          "start": 190,
+          "end": 191,
+          "count": 2
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "ruhi10-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 65,
+          "end": 1134,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-006",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 160,
+          "end": 171,
+          "count": 1
+        },
+        {
+          "start": 172,
+          "end": 387,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-464",
+          "paragraph": 22
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-464",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 21,
+          "end": 123,
+          "count": 1
+        },
+        {
+          "start": 139,
+          "end": 163,
+          "count": 1
+        },
+        {
+          "start": 220,
+          "end": 290,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 211,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "compilations-bahai-meetings-001",
+          "paragraph": 37
+        },
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 309
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 135,
+          "count": 1
+        },
+        {
+          "start": 135,
+          "end": 480,
+          "count": 2
+        },
+        {
+          "start": 480,
+          "end": 553,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 80
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 47,
+          "count": 1
+        },
+        {
+          "start": 48,
+          "end": 272,
+          "count": 1
+        }
+      ]
+    },
+    "31": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 89
+        },
+        {
+          "id": "ruhi9-001",
+          "paragraph": 54
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 8,
+          "count": 1
+        },
+        {
+          "start": 8,
+          "end": 238,
+          "count": 2
+        }
+      ]
+    }
+  },
   "bahaullah-gleanings-writings-bahaullah-161": {
     "1": {
       "refs": [
@@ -23286,6 +22834,129 @@
         {
           "start": 0,
           "end": 320,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-tablets-divine-plan-013": {
+    "3": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-citadel-faith-005",
+          "paragraph": 26
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-348",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 280,
+          "end": 321,
+          "count": 1
+        },
+        {
+          "start": 322,
+          "end": 369,
+          "count": 1
+        },
+        {
+          "start": 369,
+          "end": 437,
+          "count": 2
+        },
+        {
+          "start": 437,
+          "end": 548,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-348",
+          "paragraph": 5
+        },
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 62
+        }
+      ],
+      "parts": [
+        {
+          "start": 160,
+          "end": 187,
+          "count": 1
+        },
+        {
+          "start": 235,
+          "end": 317,
+          "count": 1
+        },
+        {
+          "start": 1274,
+          "end": 1516,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 23,
+          "end": 137,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 85
+        },
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 87
+        },
+        {
+          "id": "ruhi2-001",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 14,
+          "count": 1
+        },
+        {
+          "start": 15,
+          "end": 107,
+          "count": 1
+        },
+        {
+          "start": 261,
+          "end": 605,
+          "count": 1
+        },
+        {
+          "start": 696,
+          "end": 714,
+          "count": 1
+        },
+        {
+          "start": 715,
+          "end": 833,
           "count": 1
         }
       ]
@@ -29582,6 +29253,52 @@
       ]
     }
   },
+  "bahaullah-gleanings-writings-bahaullah-144": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-decisive-hour-046",
+          "paragraph": 5
+        },
+        {
+          "id": "ruhi6-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 100,
+          "count": 1
+        },
+        {
+          "start": 107,
+          "end": 195,
+          "count": 1
+        },
+        {
+          "start": 195,
+          "end": 287,
+          "count": 2
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi10-001",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 298,
+          "count": 1
+        }
+      ]
+    }
+  },
   "the-bab-selections-writings-bab-013": {
     "1": {
       "refs": [
@@ -31639,6 +31356,289 @@
         {
           "start": 34,
           "end": 220,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-014": {
+    "4": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-062",
+          "paragraph": 19
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 223
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 333,
+          "count": 1
+        },
+        {
+          "start": 333,
+          "end": 356,
+          "count": 2
+        },
+        {
+          "start": 356,
+          "end": 357,
+          "count": 1
+        },
+        {
+          "start": 357,
+          "end": 418,
+          "count": 2
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 224
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 357,
+          "count": 1
+        },
+        {
+          "start": 562,
+          "end": 670,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 490
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 781
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 6
+        },
+        {
+          "id": "shoghi-effendi-citadel-faith-005",
+          "paragraph": 86
+        },
+        {
+          "id": "compilations-peace-001",
+          "paragraph": 56
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-255",
+          "paragraph": 8
+        },
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 154
+        }
+      ],
+      "parts": [
+        {
+          "start": 439,
+          "end": 682,
+          "count": 1
+        },
+        {
+          "start": 682,
+          "end": 753,
+          "count": 4
+        },
+        {
+          "start": 753,
+          "end": 754,
+          "count": 2
+        },
+        {
+          "start": 754,
+          "end": 1168,
+          "count": 1
+        },
+        {
+          "start": 1168,
+          "end": 1173,
+          "count": 2
+        },
+        {
+          "start": 1173,
+          "end": 1181,
+          "count": 2
+        },
+        {
+          "start": 1181,
+          "end": 1291,
+          "count": 3
+        },
+        {
+          "start": 1291,
+          "end": 1361,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-tablets-divine-plan-011": {
+    "10": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-citadel-faith-035",
+          "paragraph": 5
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 96
+        }
+      ],
+      "parts": [
+        {
+          "start": 7,
+          "end": 127,
+          "count": 1
+        },
+        {
+          "start": 127,
+          "end": 218,
+          "count": 2
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 491
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 782
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 6
+        },
+        {
+          "id": "shoghi-effendi-decisive-hour-158",
+          "paragraph": 18
+        },
+        {
+          "id": "shoghi-effendi-citadel-faith-005",
+          "paragraph": 72
+        },
+        {
+          "id": "shoghi-effendi-citadel-faith-005",
+          "paragraph": 77
+        },
+        {
+          "id": "shoghi-effendi-citadel-faith-067",
+          "paragraph": 29
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-348",
+          "paragraph": 8
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-273",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 328,
+          "end": 346,
+          "count": 2
+        },
+        {
+          "start": 346,
+          "end": 358,
+          "count": 4
+        },
+        {
+          "start": 358,
+          "end": 359,
+          "count": 3
+        },
+        {
+          "start": 359,
+          "end": 362,
+          "count": 4
+        },
+        {
+          "start": 362,
+          "end": 383,
+          "count": 4
+        },
+        {
+          "start": 383,
+          "end": 384,
+          "count": 4
+        },
+        {
+          "start": 384,
+          "end": 410,
+          "count": 5
+        },
+        {
+          "start": 410,
+          "end": 420,
+          "count": 6
+        },
+        {
+          "start": 420,
+          "end": 421,
+          "count": 6
+        },
+        {
+          "start": 421,
+          "end": 445,
+          "count": 5
+        },
+        {
+          "start": 445,
+          "end": 514,
+          "count": 5
+        },
+        {
+          "start": 514,
+          "end": 520,
+          "count": 4
+        },
+        {
+          "start": 520,
+          "end": 623,
+          "count": 5
+        },
+        {
+          "start": 623,
+          "end": 624,
+          "count": 4
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 87
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 258,
           "count": 1
         }
       ]
@@ -40802,13 +40802,22 @@
         {
           "id": "the-universal-house-of-justice-messages-430",
           "paragraph": 6
+        },
+        {
+          "id": "ruhi8-003",
+          "paragraph": 36
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 806,
+          "end": 511,
           "count": 1
+        },
+        {
+          "start": 511,
+          "end": 806,
+          "count": 2
         }
       ]
     }
@@ -41107,52 +41116,13 @@
         {
           "id": "compilations-peace-001",
           "paragraph": 150
-        },
-        {
-          "id": "official-statements-commentaries-century-light-002",
-          "paragraph": 398
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 331,
-          "count": 1
-        },
-        {
-          "start": 331,
-          "end": 489,
-          "count": 2
-        },
-        {
-          "start": 489,
-          "end": 568,
-          "count": 1
-        },
-        {
-          "start": 568,
-          "end": 582,
-          "count": 2
-        },
-        {
-          "start": 582,
-          "end": 675,
-          "count": 1
-        },
-        {
-          "start": 675,
-          "end": 695,
-          "count": 2
-        },
-        {
-          "start": 695,
-          "end": 767,
-          "count": 1
-        },
-        {
-          "start": 767,
           "end": 1021,
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -47512,12 +47482,32 @@
       ]
     }
   },
-  "additional-shoghi-effendi-006": {
+  "additional-shoghi-effendi-051": {
     "1": {
       "refs": [
         {
           "id": "compilations-chaste-holy-life-001",
           "paragraph": 20
+        },
+        {
+          "id": "compilations-excellence-all-things-001",
+          "paragraph": 25
+        },
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 77
+        },
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 78
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-193",
+          "paragraph": 12
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-193",
+          "paragraph": 13
         },
         {
           "id": "ruhi7-001",
@@ -47526,14 +47516,59 @@
       ],
       "parts": [
         {
-          "start": 0,
-          "end": 22,
+          "start": 6,
+          "end": 616,
+          "count": 1
+        },
+        {
+          "start": 616,
+          "end": 864,
           "count": 2
         },
         {
-          "start": 29,
-          "end": 636,
+          "start": 864,
+          "end": 1789,
+          "count": 3
+        },
+        {
+          "start": 1789,
+          "end": 1791,
+          "count": 1
+        },
+        {
+          "start": 1791,
+          "end": 2194,
           "count": 2
+        },
+        {
+          "start": 2194,
+          "end": 2195,
+          "count": 1
+        },
+        {
+          "start": 2195,
+          "end": 2217,
+          "count": 3
+        },
+        {
+          "start": 2217,
+          "end": 2226,
+          "count": 1
+        },
+        {
+          "start": 2226,
+          "end": 2833,
+          "count": 3
+        },
+        {
+          "start": 2833,
+          "end": 3373,
+          "count": 1
+        },
+        {
+          "start": 3373,
+          "end": 3446,
+          "count": 1
         }
       ]
     }
@@ -52083,69 +52118,6 @@
         {
           "start": 318,
           "end": 1207,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-051": {
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-excellence-all-things-001",
-          "paragraph": 25
-        },
-        {
-          "id": "compilations-trustworthiness-001",
-          "paragraph": 77
-        },
-        {
-          "id": "compilations-trustworthiness-001",
-          "paragraph": 78
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-193",
-          "paragraph": 12
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-193",
-          "paragraph": 13
-        }
-      ],
-      "parts": [
-        {
-          "start": 6,
-          "end": 616,
-          "count": 1
-        },
-        {
-          "start": 616,
-          "end": 864,
-          "count": 2
-        },
-        {
-          "start": 864,
-          "end": 1789,
-          "count": 3
-        },
-        {
-          "start": 1789,
-          "end": 1791,
-          "count": 1
-        },
-        {
-          "start": 1791,
-          "end": 2194,
-          "count": 2
-        },
-        {
-          "start": 2194,
-          "end": 3373,
-          "count": 1
-        },
-        {
-          "start": 3373,
-          "end": 3446,
           "count": 1
         }
       ]
@@ -66166,32 +66138,6 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-244": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-003",
-          "paragraph": 39
-        },
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 168
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 259,
-          "count": 2
-        },
-        {
-          "start": 259,
-          "end": 552,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-the-universal-house-of-justice-291": {
     "1": {
       "refs": [
@@ -66236,23 +66182,6 @@
         {
           "start": 0,
           "end": 380,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-293": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-003",
-          "paragraph": 54
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 914,
           "count": 1
         }
       ]
@@ -69210,6 +69139,38 @@
       ]
     }
   },
+  "additional-shoghi-effendi-224": {
+    "1": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 398
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 158,
+          "count": 1
+        },
+        {
+          "start": 165,
+          "end": 179,
+          "count": 1
+        },
+        {
+          "start": 186,
+          "end": 206,
+          "count": 1
+        },
+        {
+          "start": 213,
+          "end": 467,
+          "count": 1
+        }
+      ]
+    }
+  },
   "the-universal-house-of-justice-messages-149": {
     "4": {
       "refs": [
@@ -71921,23 +71882,6 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-219": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 59
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 565,
-          "count": 1
-        }
-      ]
-    }
-  },
   "official-statements-commentaries-century-light-002": {
     "285": {
       "refs": [
@@ -72080,128 +72024,6 @@
         {
           "start": 919,
           "end": 1443,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-221": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 91
-        },
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 188
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 597,
-          "count": 1
-        },
-        {
-          "start": 597,
-          "end": 657,
-          "count": 1
-        },
-        {
-          "start": 657,
-          "end": 658,
-          "count": 1
-        },
-        {
-          "start": 658,
-          "end": 896,
-          "count": 1
-        },
-        {
-          "start": 896,
-          "end": 1148,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 92
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 652,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-222": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 94
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 710,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 95
-        },
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 23
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 845,
-          "count": 1
-        },
-        {
-          "start": 845,
-          "end": 932,
-          "count": 1
-        },
-        {
-          "start": 932,
-          "end": 933,
-          "count": 1
-        },
-        {
-          "start": 933,
-          "end": 1014,
-          "count": 1
-        }
-      ]
-    },
-    "3": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 96
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 689,
           "count": 1
         }
       ]
@@ -72449,23 +72271,6 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-231": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 125
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1078,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-the-universal-house-of-justice-232": {
     "1": {
       "refs": [
@@ -72478,57 +72283,6 @@
         {
           "start": 0,
           "end": 726,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-233": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 129
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 421,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-234": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 131
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 531,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-235": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 133
-        }
-      ],
-      "parts": [
-        {
-          "start": 6,
-          "end": 429,
           "count": 1
         }
       ]
@@ -72674,6 +72428,73 @@
         {
           "start": 0,
           "end": 475,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-turning-point-003": {
+    "28": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 218
+        }
+      ],
+      "parts": [
+        {
+          "start": 775,
+          "end": 855,
+          "count": 1
+        },
+        {
+          "start": 856,
+          "end": 1078,
+          "count": 1
+        }
+      ]
+    },
+    "39": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 168
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 259,
+          "count": 1
+        }
+      ]
+    },
+    "44": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 159
+        }
+      ],
+      "parts": [
+        {
+          "start": 183,
+          "end": 265,
+          "count": 1
+        }
+      ]
+    },
+    "54": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 124
+        }
+      ],
+      "parts": [
+        {
+          "start": 474,
+          "end": 914,
           "count": 1
         }
       ]
@@ -72984,23 +72805,6 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-255": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 203
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 772,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-the-universal-house-of-justice-256": {
     "1": {
       "refs": [
@@ -73170,23 +72974,6 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-260": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 240
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 287,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-the-universal-house-of-justice-261": {
     "1": {
       "refs": [
@@ -73248,105 +73035,6 @@
         {
           "start": 0,
           "end": 1010,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-264": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 251
-        },
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 188
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 12,
-          "count": 1
-        },
-        {
-          "start": 12,
-          "end": 13,
-          "count": 1
-        },
-        {
-          "start": 13,
-          "end": 255,
-          "count": 1
-        },
-        {
-          "start": 255,
-          "end": 283,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 252
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 639,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-265": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 256
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 779,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-266": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 258
-        },
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 335
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 88,
-          "count": 1
-        },
-        {
-          "start": 93,
-          "end": 971,
-          "count": 1
-        },
-        {
-          "start": 971,
-          "end": 1073,
           "count": 1
         }
       ]
@@ -73515,28 +73203,6 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-200": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 284
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 306,
-          "count": 1
-        },
-        {
-          "start": 312,
-          "end": 733,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-the-universal-house-of-justice-201": {
     "1": {
       "refs": [
@@ -73571,23 +73237,6 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-202": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 290
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 594,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-the-universal-house-of-justice-203": {
     "1": {
       "refs": [
@@ -73600,128 +73249,6 @@
         {
           "start": 6,
           "end": 339,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-204": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 294
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 974,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 295
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 838,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-205": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 297
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 16,
-          "count": 1
-        },
-        {
-          "start": 28,
-          "end": 1306,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-206": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 299
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 305,
-          "count": 1
-        },
-        {
-          "start": 312,
-          "end": 404,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 300
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 796,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-208": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 314
-        },
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 293
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 105,
-          "count": 1
-        },
-        {
-          "start": 105,
-          "end": 469,
-          "count": 1
-        },
-        {
-          "start": 469,
-          "end": 610,
           "count": 1
         }
       ]
@@ -73756,40 +73283,6 @@
         {
           "start": 0,
           "end": 523,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-212": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 326
-        }
-      ],
-      "parts": [
-        {
-          "start": 6,
-          "end": 687,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-214": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 330
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 562,
           "count": 1
         }
       ]
@@ -73834,43 +73327,6 @@
           "start": 44,
           "end": 208,
           "count": 2
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-turning-point-003": {
-    "28": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 218
-        }
-      ],
-      "parts": [
-        {
-          "start": 775,
-          "end": 855,
-          "count": 1
-        },
-        {
-          "start": 856,
-          "end": 1078,
-          "count": 1
-        }
-      ]
-    },
-    "44": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 159
-        }
-      ],
-      "parts": [
-        {
-          "start": 183,
-          "end": 265,
-          "count": 1
         }
       ]
     }
@@ -83294,6 +82750,10 @@
           "paragraph": 14
         },
         {
+          "id": "the-universal-house-of-justice-messages-065",
+          "paragraph": 63
+        },
+        {
           "id": "world-centre-frontiers-learning-001",
           "paragraph": 34
         },
@@ -83354,6 +82814,26 @@
         },
         {
           "start": 1813,
+          "end": 2058,
+          "count": 1
+        },
+        {
+          "start": 2058,
+          "end": 2071,
+          "count": 2
+        },
+        {
+          "start": 2071,
+          "end": 2072,
+          "count": 1
+        },
+        {
+          "start": 2072,
+          "end": 2152,
+          "count": 2
+        },
+        {
+          "start": 2152,
           "end": 2931,
           "count": 1
         }
@@ -83536,47 +83016,6 @@
         {
           "start": 264,
           "end": 852,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-093": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-065",
-          "paragraph": 63
-        },
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 134
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 32,
-          "count": 1
-        },
-        {
-          "start": 32,
-          "end": 45,
-          "count": 2
-        },
-        {
-          "start": 45,
-          "end": 46,
-          "count": 1
-        },
-        {
-          "start": 46,
-          "end": 126,
-          "count": 2
-        },
-        {
-          "start": 126,
-          "end": 2273,
           "count": 1
         }
       ]
@@ -86198,23 +85637,6 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-136": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 36
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 295,
-          "count": 1
-        }
-      ]
-    }
-  },
   "the-universal-house-of-justice-messages-110": {
     "7": {
       "refs": [
@@ -86545,23 +85967,6 @@
         {
           "start": 0,
           "end": 548,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-139": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 124
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 440,
           "count": 1
         }
       ]
@@ -93246,6 +92651,23 @@
         {
           "start": 0,
           "end": 501,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-093": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 134
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 2273,
           "count": 1
         }
       ]

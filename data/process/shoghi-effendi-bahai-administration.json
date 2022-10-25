@@ -185,9 +185,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 1,
-    "title": "Letter of January 21st, 1922.",
+    "title": "Letter of January 21st, 1922",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1922.0121, 1922.0121],
     "paragraphs": [
       {
         "text": "Dearly beloved brethren and sisters in ‘Abdu’l‑Bahá:"
@@ -227,9 +227,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 2,
-    "title": "Letter of March 5, 1922.",
+    "title": "Letter of March 5, 1922",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1922.0305, 1922.0305],
     "paragraphs": [
       {
         "text": "Dear fellow‑workers in the Cause of Bahá’u’lláh:—"
@@ -316,7 +316,7 @@
     "item": 3,
     "title": "Letter of Circa May, 1922 (undated).",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1922.0501, 1922.0501],
     "paragraphs": [
       {
         "text": "IN THE NAME OF GOD"
@@ -346,7 +346,7 @@
     "item": 4,
     "title": "Letter of Circa May, 1922 (undated).",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1922.0501, 1922.0501],
     "paragraphs": [
       {
         "section": [1],
@@ -368,7 +368,7 @@
     "item": 5,
     "title": "Letter of December 16, 1922",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1922.1216, 1922.1216],
     "paragraphs": [
       {
         "text": "To the loved ones of ‘Abdu’l‑Bahá throughout the continent of America."
@@ -410,7 +410,7 @@
     "item": 6,
     "title": "Letter of December 23rd, 1922",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1922.1223, 1922.1223],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly, the elected representatives of all believers throughout the continent of America."
@@ -479,7 +479,7 @@
     "item": 7,
     "title": "Letter of January 12, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.0112, 1923.0112],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly."
@@ -526,9 +526,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 8,
-    "title": "Letter of January 16, 1923.",
+    "title": "Letter of January 16, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.0116, 1923.0116],
     "paragraphs": [
       {
         "text": "The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada."
@@ -570,7 +570,7 @@
     "item": 9,
     "title": "Letter of January 17th, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.0117, 1923.0117],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly."
@@ -606,7 +606,7 @@
     "item": 10,
     "title": "Letter of February 13, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.0213, 1923.0213],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly."
@@ -642,7 +642,7 @@
     "item": 11,
     "title": "Letter of March 12, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.0312, 1923.0312],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout America, Great Britain, Germany, France, Switzerland, Italy, Japan and Australasia."
@@ -838,9 +838,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 12,
-    "title": "Letter of April 8th, 1923.",
+    "title": "Letter of April 8th, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.0408, 1923.0408],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful, the accredited delegates to the Annual Convention of America, Chicago, Illinois."
@@ -877,9 +877,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 13,
-    "title": "Letter of April 9th, 1923.",
+    "title": "Letter of April 9th, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.0409, 1923.0409],
     "paragraphs": [
       {
         "text": "To the members of the American National Spiritual Assembly."
@@ -961,9 +961,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 14,
-    "title": "Letter of April 27th, 1923.",
+    "title": "Letter of April 27th, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.0427, 1923.0427],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly."
@@ -999,7 +999,7 @@
     "item": 15,
     "title": "Letter of May 6th, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.0506, 1923.0506],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly."
@@ -1049,9 +1049,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 16,
-    "title": "Letter of November 14, 1923.",
+    "title": "Letter of November 14, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.1114, 1923.1114],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout America, care of the members of the American National Spiritual Assembly."
@@ -1116,9 +1116,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 17,
-    "title": "Letter of November 26, 1923.",
+    "title": "Letter of November 26, 1923",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1923.1126, 1923.1126],
     "paragraphs": [
       {
         "text": "To the members of the American National Spiritual Assembly."
@@ -1229,9 +1229,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 18,
-    "title": "Letter of January 4th, 1924.",
+    "title": "Letter of January 4th, 1924",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1924.0104, 1924.0104],
     "paragraphs": [
       {
         "text": "To the members of the American National Spiritual Assembly."
@@ -1292,9 +1292,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 19,
-    "title": "Letter of February 23, 1924.",
+    "title": "Letter of February 23, 1924",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1924.0223, 1924.0223],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout America."
@@ -1385,9 +1385,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 20,
-    "title": "Letter of September 24, 1924.",
+    "title": "Letter of September 24, 1924",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1924.0924, 1924.0924],
     "paragraphs": [
       {
         "text": "The beloved of the Lord and the handmaids of the Merciful throughout the Continent of America:"
@@ -1441,9 +1441,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 21,
-    "title": "Letter of November 24th, 1924.",
+    "title": "Letter of November 24th, 1924",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1924.1124, 1924.1124],
     "paragraphs": [
       {
         "text": "To my dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá: care of the American National Spiritual Assembly."
@@ -1502,9 +1502,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 22,
-    "title": "Letter of November 27, 1924.",
+    "title": "Letter of November 27, 1924",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1924.1127, 1924.1127],
     "paragraphs": [
       {
         "text": "To my dear friends and fellow‑workers, the members of the American National Spiritual Assembly."
@@ -1589,9 +1589,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 23,
-    "title": "Letter of January 16, 1925.",
+    "title": "Letter of January 16, 1925",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1925.0116, 1925.0116],
     "paragraphs": [
       {
         "text": "To my dearly‑beloved friends, the members of the American National Spiritual Assembly."
@@ -1659,9 +1659,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 24,
-    "title": "Letter of January 29th, 1925.",
+    "title": "Letter of January 29th, 1925",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1925.0129, 1925.0129],
     "paragraphs": [
       {
         "text": "To the esteemed members of the American National Spiritual Assembly."
@@ -1721,9 +1721,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 25,
-    "title": "Letter of April 10th, 1925.",
+    "title": "Letter of April 10th, 1925",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1925.041, 1925.041],
     "paragraphs": [
       {
         "text": "To the members of the American National Spiritual Assembly."
@@ -1788,9 +1788,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 26,
-    "title": "Letter of May 12, 1925.",
+    "title": "Letter of May 12, 1925",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1925.0512, 1925.0512],
     "paragraphs": [
       {
         "text": "To the members of the American National Assembly."
@@ -1847,9 +1847,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 27,
-    "title": "Letter of June 3rd, 1925.",
+    "title": "Letter of June 3rd, 1925",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1925.0603, 1925.0603],
     "paragraphs": [
       {
         "text": "To the beloved of God and the handmaids of the Merciful, the delegates and visitors to the Bahá’í Convention, Green Acre, Maine, U.S.A."
@@ -1910,9 +1910,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 28,
-    "title": "Letter of October 24th, 1925.",
+    "title": "Letter of October 24th, 1925",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1925.1024, 1925.1024],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada."
@@ -1983,9 +1983,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 29,
-    "title": "Letter of November 6, 1925.",
+    "title": "Letter of November 6, 1925",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1925.1106, 1925.1106],
     "paragraphs": [
       {
         "text": "To the members of the American National Spiritual Assembly."
@@ -2063,9 +2063,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 30,
-    "title": "Letter of November 30, 1925.",
+    "title": "Letter of November 30, 1925",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1925.113, 1925.113],
     "paragraphs": [
       {
         "text": "To the beloved of God and the handmaids of the Merciful in the East and in the West."
@@ -2102,9 +2102,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 31,
-    "title": "Letter of January 10, 1926.",
+    "title": "Letter of January 10, 1926",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1926.011, 1926.011],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada."
@@ -2188,9 +2188,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 32,
-    "title": "Letter of April 22nd, 1926.",
+    "title": "Letter of April 22nd, 1926",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1926.0422, 1926.0422],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful through the West."
@@ -2246,9 +2246,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 33,
-    "title": "Letter of May 11th, 1926.",
+    "title": "Letter of May 11th, 1926",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1926.0511, 1926.0511],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada."
@@ -2318,9 +2318,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 34,
-    "title": "Letter of October 7th, 1926.",
+    "title": "Letter of October 7th, 1926",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1926.1007, 1926.1007],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the West."
@@ -2383,9 +2383,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 35,
-    "title": "Letter of October 29, 1926.",
+    "title": "Letter of October 29, 1926",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1926.1029, 1926.1029],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the West."
@@ -2429,9 +2429,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 36,
-    "title": "Letter of October 31, 1926.",
+    "title": "Letter of October 31, 1926",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1926.1031, 1926.1031],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada."
@@ -2496,9 +2496,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 37,
-    "title": "Letter of November 14, 1926.",
+    "title": "Letter of November 14, 1926",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1926.1114, 1926.1114],
     "paragraphs": [
       {
         "text": "The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada."
@@ -2539,9 +2539,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 38,
-    "title": "Letter of February 12, 1927.",
+    "title": "Letter of February 12, 1927",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1927.0212, 1927.0212],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the West."
@@ -2605,9 +2605,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 39,
-    "title": "Letter of February 20, 1927.",
+    "title": "Letter of February 20, 1927",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1927.022, 1927.022],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada."
@@ -2679,9 +2679,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 40,
-    "title": "Letter of April 12, 1927.",
+    "title": "Letter of April 12, 1927",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1927.0412, 1927.0412],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada:"
@@ -2750,9 +2750,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 41,
-    "title": "Letter of April 27, 1927.",
+    "title": "Letter of April 27, 1927",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1927.0427, 1927.0427],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada."
@@ -2799,9 +2799,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 42,
-    "title": "Letter of May 27, 1927.",
+    "title": "Letter of May 27, 1927",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1927.0527, 1927.0527],
     "paragraphs": [
       {
         "text": "To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada:"
@@ -2855,9 +2855,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 43,
-    "title": "Letter of October 17, 1927.",
+    "title": "Letter of October 17, 1927",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1927.1017, 1927.1017],
     "paragraphs": [
       {
         "text": "To the Honoured Members of the Bahá’í National Spiritual Assemblies throughout the West."
@@ -2909,9 +2909,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 44,
-    "title": "Letter of October 18, 1927.",
+    "title": "Letter of October 18, 1927",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1927.1018, 1927.1018],
     "paragraphs": [
       {
         "text": "To the Members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada."
@@ -2980,9 +2980,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 45,
-    "title": "Letter of December 6, 1928.",
+    "title": "Letter of December 6, 1928",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1928.1206, 1928.1206],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the West."
@@ -3069,9 +3069,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 46,
-    "title": "Letter of December 6, 1928.",
+    "title": "Letter of December 6, 1928",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1928.1206, 1928.1206],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the East and West."
@@ -3112,9 +3112,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 47,
-    "title": "Letter of December 21, 1928.",
+    "title": "Letter of December 21, 1928",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1928.1221, 1928.1221],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the West."
@@ -3161,9 +3161,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 48,
-    "title": "Letter of January 1, 1929.",
+    "title": "Letter of January 1, 1929",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1929.0101, 1929.0101],
     "paragraphs": [
       {
         "text": "The beloved of the Lord and the handmaids of the Merciful throughout the West."
@@ -3236,9 +3236,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 49,
-    "title": "Letter of February 12, 1929.",
+    "title": "Letter of February 12, 1929",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1929.0212, 1929.0212],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the West."
@@ -3335,9 +3335,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 50,
-    "title": "Letter of March 20, 1929.",
+    "title": "Letter of March 20, 1929",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1929.032, 1929.032],
     "paragraphs": [
       {
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the West."
@@ -3390,9 +3390,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 51,
-    "title": "Letter of October 25, 1929.",
+    "title": "Letter of October 25, 1929",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1929.1025, 1929.1025],
     "paragraphs": [
       {
         "text": "The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada."
@@ -3455,9 +3455,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 52,
-    "title": "Letter of July 17, 1932.",
+    "title": "Letter of July 17, 1932",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1932.0717, 1932.0717],
     "paragraphs": [
       {
         "text": "The beloved of God and the handmaids of the Merciful throughout the United States and Canada."
@@ -3584,9 +3584,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 53,
-    "title": "Letter of March 16, 1933.",
+    "title": "Letter of March 16, 1933",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1933.0316, 1933.0316],
     "paragraphs": [
       {
         "section": [1],
@@ -3603,9 +3603,9 @@
   {
     "path": ["Bahá’í Administration", "Part Two: Letters from Shoghi Effendi"],
     "item": 54,
-    "title": "Letter of April 11, 1933.",
+    "title": "Letter of April 11, 1933",
     "author": "Shoghi Effendi",
-    "years": [1922, 1932],
+    "years": [1933.0411, 1933.0411],
     "paragraphs": [
       {
         "section": [1],
