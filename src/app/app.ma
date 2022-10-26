@@ -6,7 +6,7 @@
     ? doc.'id'->startsWith('ruhi') | doc.'id'->startsWith('compilations'): 'home',
     ? includes(['‘Abdu’l‑Bahá', 'Bahá’u’lláh', 'The Báb'], doc.'author') : doc.'author',
     ? doc.'epoch': toUrl(doc.'epoch'),
-    : 'the-administrative-order',
+    : 'other-documents',
   }),
   'button': [(label, bold): {
     'active': (url.1 = toUrl(label)) | (group = toUrl(label)),
@@ -56,8 +56,8 @@
         'link': [],
         'Bahá’í Library'
       ],
-      button('Home', 'true'),
       button('Prayers', 'true'),
+      button('Other Documents', 'true'),
       [
         'pad': [10, 0],
         'fill': '#ddd',
@@ -150,6 +150,7 @@
         url->[
           ['prayers']: prayers,
           ['prayers', x]: prayers,
+          ['other-documents']: pages.'other',
           ['sixth-epoch']: pages.'sixthepoch',
           ['fifth-epoch']: pages.'fifthepoch',
           ['fourth-epoch']: pages.'fourthepoch',

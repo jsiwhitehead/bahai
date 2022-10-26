@@ -86,7 +86,7 @@ const toUrl = (s) =>
 
 const documentsList = Object.keys(documents)
   .map((k) => documents[k])
-  .filter((d) => d.paragraphs.every((p) => !p.id))
+  .filter((d) => !d.paragraphs.every((p) => p.id))
   .map((d) => {
     const refCounts = Object.keys(quotes[d.id] || {}).flatMap(
       (k) => unique(quotes[d.id][k].refs.map((r) => r.id)).length
@@ -110,9 +110,11 @@ const documentsList = Object.keys(documents)
           if (p.id) {
             const doc = documents[p.id];
             if (!p.parts) return doc.paragraphs[p.paragraphs[0] - 1].text;
-            return p.parts.map(({ paragraph, start, end }) =>
-              doc.paragraphs[paragraph - 1].text.slice(start, end)
-            );
+            return p.parts
+              .filter((part) => typeof part !== "string")
+              .map(({ paragraph, start, end }) =>
+                doc.paragraphs[paragraph - 1].text.slice(start, end)
+              );
           }
           return p.text;
         })
@@ -123,16 +125,14 @@ const documentsList = Object.keys(documents)
         Math.sqrt(d.paragraphs.length),
     };
   })
-  // .sort(
-  //   (a, b) =>
-  //     b.paragraphs.length - a.paragraphs.length || a.id.localeCompare(b.id)
-  // );
-  // .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
-  .sort(
-    (a, b) =>
-      b.years[0] + b.years[1] - (a.years[0] + a.years[1]) ||
-      a.id.localeCompare(b.id)
-  );
+  .map((d) => {
+    const time = d.words / 238;
+    if (time < 2.5) return { ...d, time: "1‑2 mins" };
+    if (time < 60) return { ...d, time: `${Math.round(time / 5) * 5} mins` };
+    return { ...d, time: `${Math.round(time / 6) / 10} hours` };
+  })
+  // .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
+  .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
 
 maraca(
   {
@@ -167,13 +167,43 @@ maraca(
       {}
     ),
     documents,
-    findDocuments: (section) => {
+    documentsByIds: (ids) =>
+      documentsList
+        .filter((d) => ids.includes(d.id))
+        .sort(
+          (a, b) =>
+            b.years[0] + b.years[1] - (a.years[0] + a.years[1]) ||
+            a.id.localeCompare(b.id)
+        ),
+    findDocuments: (section, ignore) => {
+      if (section === "Other") {
+        return documentsList.filter(
+          (d) =>
+            ![
+              "The Báb",
+              "Bahá’u’lláh",
+              "‘Abdu’l‑Bahá",
+              "Shoghi Effendi",
+              "The Universal House of Justice",
+            ].includes(d.author) &&
+            !d.id.startsWith("bible") &&
+            !d.id.startsWith("quran") &&
+            !d.id.startsWith("compilations") &&
+            !d.id.startsWith("ruhi") &&
+            !(ignore || []).includes(d.id)
+        );
+      }
       if (section.includes("Epoch")) {
-        return documentsList.filter((d) => d.epoch === section);
+        return documentsList.filter(
+          (d) => d.epoch === section && !(ignore || []).includes(d.id)
+        );
         // .slice(0, 50);
       }
       return documentsList.filter(
-        (d) => d.author === section && d.type !== "Prayer"
+        (d) =>
+          d.author === section &&
+          d.type !== "Prayer" &&
+          !(ignore || []).includes(d.id)
       );
       // .slice(0, 50);
     },

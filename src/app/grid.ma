@@ -1,6 +1,6 @@
 [docs:
   [
-    'grid': ['60px', 2, 3, '100px'],
+    'grid': ['60px', 2, 3, '110px'],
     [
       'pad': [15, 15, 15, 0],
       'bold': 'true',
@@ -48,7 +48,7 @@
             'hover': hover,
             'link': ['doc', doc.'id'],
             'round': ['right': 10],
-            doc.'words',
+            doc.'time',
           ],
         ]
       },
@@ -94,7 +94,7 @@
             'hover': hover,
             'link': ['doc', doc.'id'],
             'round': ['right': 10],
-            doc.'words',
+            doc.'time',
           ],
         ]
       }
