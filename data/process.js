@@ -148,7 +148,14 @@ const process = (source, id) => {
       const midYears = (d.years[0] + d.years[1]) / 2;
       if (midYears < 1946.0424) d.epoch = "First Epoch";
       else d.epoch = "Second Epoch";
-    } else if (d.author === "The Universal House of Justice") {
+    } else if (
+      [
+        "The Universal House of Justice",
+        "The World Centre",
+        "The International Teaching Centre",
+        "Research Department",
+      ].includes(d.author)
+    ) {
       const midYears = (d.years[0] + d.years[1]) / 2;
       if (midYears < 1986.0422) d.epoch = "Third Epoch";
       else if (midYears < 2001.0422) d.epoch = "Fourth Epoch";

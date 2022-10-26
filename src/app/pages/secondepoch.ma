@@ -8,7 +8,7 @@
     'shoghi-effendi-citadel-faith-073',
   ],
   : [
-    'stack': 60,
+    'stack': 40,
     [
       'stack': 15,
       [

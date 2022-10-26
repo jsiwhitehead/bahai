@@ -1,5 +1,5 @@
 Turning Point
-author="The Universal House of Justice"
+author="The World Centre"
 years=[1996,2006]
 collection
 

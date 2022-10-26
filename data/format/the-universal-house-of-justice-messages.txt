@@ -30,7 +30,6 @@ Department of the Secretariat
 
 # Riḍván Message 2022 to the Bahá’ís of the World
 years=[2022.0421,2022.0421]
-summary="Riḍván Message 2022"
 
 * The Universal House of Justice
 
@@ -416,7 +415,6 @@ May the inhabitants of Matunda Soy be the recipients of divine favour and confir
 
 # Riḍván Message 2021 to the Bahá’ís of the World
 years=[2021.042,2021.042]
-summary="Riḍván Message 2021"
 
 * The Universal House of Justice
 
@@ -554,7 +552,6 @@ Ahead of you lie times of trial and promise, of hardship and progress, of anguis
 
 # Riḍván Message 2020 to the Bahá’ís of the World
 years=[2020.042,2020.042]
-summary="Riḍván Message 2020"
 
 * The Universal House of Justice
 
@@ -704,7 +701,6 @@ The Universal House of Justice
 
 # Riḍván Message 2019 to the Bahá’ís of the World
 years=[2019.042,2019.042]
-summary="Riḍván Message 2019"
 
 * The Universal House of Justice
 
@@ -858,7 +854,6 @@ This House of Worship stands now as a symbol of the beauty inherent in the noble
 
 # Riḍván Message 2018 to the Bahá’ís of the World
 years=[2018.0421,2018.0421]
-summary="Riḍván Message 2018"
 
 * The Universal House of Justice
 
@@ -1090,7 +1085,6 @@ Department of the Secretariat
 
 # Riḍván Message 2017 to the Bahá’ís of the World
 years=[2017.042,2017.042]
-summary="Riḍván Message 2017"
 
 * The Universal House of Justice
 
@@ -1184,7 +1178,6 @@ Bowing our heads at the Threshold of the Ancient Beauty, we give thanks that He 
 
 # Riḍván Message 2016 to the Bahá’ís of the World
 years=[2016.042,2016.042]
-summary="Riḍván Message 2016"
 
 * The Universal House of Justice
 
@@ -1472,7 +1465,6 @@ Department of the Secretariat
 
 # Riḍván Message 2015 to the Bahá’ís of the World
 years=[2015.0421,2015.0421]
-summary="Riḍván Message 2015"
 
 * The Universal House of Justice
 
@@ -1564,7 +1556,6 @@ The adoption of a new calendar in each dispensation is a symbol of the power of 
 
 # Riḍván Message 2014 to the Bahá’ís of the World
 years=[2014.0421,2014.0421]
-summary="Riḍván Message 2014"
 
 * The Universal House of Justice
 
@@ -1798,7 +1789,6 @@ This welcome development is indicative of the magnitude of the reservoirs of ene
 
 # Riḍván Message 2013 to the Bahá’ís of the World
 years=[2013.0421,2013.0421]
-summary="Riḍván Message 2013"
 
 * The Universal House of Justice
 
@@ -2186,7 +2176,6 @@ We offer fervent supplications in the Holy Shrines on your behalf.
 
 # Riḍván Message 2012 to the Bahá’ís of the World
 years=[2012.0421,2012.0421]
-summary="Riḍván Message 2012"
 
 * The Universal House of Justice
 
@@ -2386,7 +2375,6 @@ The friends of Írán are dearer to me than life and soul, for in the path of Go
 
 # Riḍván Message 2011 to the Bahá’ís of the World
 years=[2011.0421,2011.0421]
-summary="Riḍván Message 2011"
 
 * The Universal House of Justice
 
@@ -2622,7 +2610,6 @@ Nearly a century has passed since these words were recorded. Stage after stage o
 
 # Riḍván Message 2010 to the Bahá’ís of the World
 years=[2010.0421,2010.0421]
-summary="Riḍván Message 2010"
 
 * The Universal House of Justice
 
@@ -3038,7 +3025,6 @@ O Divine Providence! Bestow Thine aid and vouchsafe Thine assistance. Dispel thi
 
 # Riḍván Message 2009 to the Bahá’ís of the World
 years=[2009.0421,2009.0421]
-summary="Riḍván Message 2009"
 
 * The Universal House of Justice
 
@@ -3386,7 +3372,6 @@ The work being carried out at the World Centre of the Faith represents far more 
 
 # Riḍván Message 2008 to the Bahá’ís of the World
 years=[2008.0421,2008.0421]
-summary="Riḍván Message 2008"
 
 * The Universal House of Justice
 
@@ -3516,7 +3501,6 @@ This surely is a time for the gallantry of illumined souls. Very dear friends, w
 
 # Riḍván Message 2007 to the Bahá’ís of the World
 years=[2007.0421,2007.0421]
-summary="Riḍván Message 2007"
 
 * The Universal House of Justice
 
@@ -3606,7 +3590,6 @@ Be assured of our ardent prayers in the Holy Shrines on behalf of each and every
 
 # Riḍván Message 2006 to the Bahá’ís of the World
 years=[2006.0421,2006.0421]
-summary="Riḍván Message 2006"
 
 * The Universal House of Justice
 
@@ -3818,7 +3801,6 @@ Above all, the friends need to remain ever conscious of the magnitude of the spi
 
 # Riḍván Message 2005 to the Bahá’ís of the World
 years=[2005.0421,2005.0421]
-summary="Riḍván Message 2005"
 
 * The Universal House of Justice
 
@@ -3846,7 +3828,6 @@ In our message of 26 November 1999, we referred to a series of global enterprise
 
 # Riḍván Message 2004 to the Bahá’ís of the World
 years=[2004.0421,2004.0421]
-summary="Riḍván Message 2004"
 
 * The Universal House of Justice
 
@@ -3986,7 +3967,6 @@ Each time we visit the Holy Shrines you are in the forefront of our hearts and p
 
 # Riḍván Message 2003 to the Bahá’ís of the World
 years=[2003.0421,2003.0421]
-summary="Riḍván Message 2003"
 
 * The Universal House of Justice
 
@@ -4064,7 +4044,6 @@ Be assured of our heartfelt prayers in the Holy Shrines that Bahá’u’lláh m
 
 # Riḍván Message 2002 to the Bahá’ís of the World
 years=[2002.0421,2002.0421]
-summary="Riḍván Message 2002"
 
 * The Universal House of Justice
 
@@ -4248,7 +4227,6 @@ With all the fervour of thankful hearts, we will pray at the Holy Threshold that
 
 # Riḍván Message 2001 to the Bahá’ís of the World
 years=[2001.0421,2001.0421]
-summary="Riḍván Message 2001"
 
 * The Universal House of Justice
 
@@ -5084,7 +5062,6 @@ Department of the Secretariat
 
 # Riḍván Message 2000 to the Bahá’ís of the World
 years=[2000.0421,2000.0421]
-summary="Riḍván Message 2000"
 
 * The Universal House of Justice
 
@@ -5676,7 +5653,6 @@ Department of the Secretariat
 
 # Riḍván Message 1999 to the Bahá’ís of the World
 years=[1999.0421,1999.0421]
-summary="Riḍván Message 1999"
 
 * The Universal House of Justice
 
@@ -6360,7 +6336,6 @@ We will follow your consultations this week with the heightened hope and confide
 
 # Riḍván Message 1998 to the Bahá’ís of the World
 years=[1998.0421,1998.0421]
-summary="Riḍván Message 1998"
 
 * The Universal House of Justice
 
@@ -6752,7 +6727,6 @@ In the case of all national committees, it is important to ensure that legitimat
 
 # Riḍván Message 1997 to the Bahá’ís of the World
 years=[1997.0421,1997.0421]
-summary="Riḍván Message 1997"
 
 * The Universal House of Justice
 
@@ -7216,7 +7190,6 @@ Department of the Secretariat
 
 # Riḍván Message 1996 to the Bahá’ís of the World
 years=[1996.0421,1996.0421]
-summary="Riḍván Message 1996"
 
 * The Universal House of Justice
 
@@ -7314,7 +7287,6 @@ May you all arise to seize the tasks of this crucial moment. May each inscribe h
 
 # Riḍván Message 1996—Africa to the Bahá’ís of a Nation
 years=[1996.0421,1996.0421]
-summary="Riḍván Message 1996—Africa"
 
 * The Universal House of Justice
 
@@ -7364,7 +7336,6 @@ Our ardent prayer at the Holy Threshold on your behalf is that the divine storeh
 
 # Riḍván Message 1996—Andaman and Nicobar Islands, Bangladesh, India, Nepal, and Sri Lanka to the Bahá’ís of a Nation
 years=[1996.0421,1996.0421]
-summary="Riḍván Message 1996—Andaman and Nicobar Islands, Bangladesh, India, Nepal, and Sri Lanka"
 
 * The Universal House of Justice
 
@@ -7410,7 +7381,6 @@ May the confirmations of the Blessed Beauty be ceaselessly showered upon you, an
 
 # Riḍván Message 1996—Australia and the Pacific Islands to the Bahá’ís of a Nation
 years=[1996.0421,1996.0421]
-summary="Riḍván Message 1996—Australia and the Pacific Islands"
 
 * The Universal House of Justice
 
@@ -7450,7 +7420,6 @@ Almost four decades have passed since Shoghi Effendi described the Pacific regio
 
 # Riḍván Message 1996—Europe to the Bahá’ís of a Nation
 years=[1996.0421,1996.0421]
-summary="Riḍván Message 1996—Europe"
 
 * The Universal House of Justice
 
@@ -7486,7 +7455,6 @@ For our part, we shall pray ardently at the Sacred Threshold that you, who have 
 
 # Riḍván Message 1996—Latin America and the Caribbean to the Bahá’ís of a Nation
 years=[1996.0421,1996.0421]
-summary="Riḍván Message 1996—Latin America and the Caribbean"
 
 * The Universal House of Justice
 
@@ -7518,7 +7486,6 @@ We shall remember each and all of you in our prayers in the Holy Shrines and sha
 
 # Riḍván Message 1996—North America to the Bahá’ís of a Nation
 years=[1996.0421,1996.0421]
-summary="Riḍván Message 1996—North America"
 
 * The Universal House of Justice
 
@@ -7568,7 +7535,6 @@ Our ardent prayers at the Sacred Threshold will surround and accompany you at ev
 
 # Riḍván Message 1996—Southeast Asia to the Bahá’ís of a Nation
 years=[1996.0421,1996.0421]
-summary="Riḍván Message 1996—Southeast Asia"
 
 * The Universal House of Justice
 
@@ -7604,7 +7570,6 @@ We shall pray ardently at the Sacred Threshold that the blessings of Bahá’u�
 
 # Riḍván Message 1996—Western and Central Asia to the Bahá’ís of a Nation
 years=[1996.0421,1996.0421]
-summary="Riḍván Message 1996—Western and Central Asia"
 
 * The Universal House of Justice
 
@@ -8004,7 +7969,6 @@ Department of the Secretariat
 
 # Riḍván Message 1995 to the Bahá’ís of the World
 years=[1995.0421,1995.0421]
-summary="Riḍván Message 1995"
 
 * The Universal House of Justice
 
@@ -8314,7 +8278,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1994 to the Bahá’ís of the World
 years=[1994.0421,1994.0421]
-summary="Riḍván Message 1994"
 
 * The Universal House of Justice
 
@@ -8666,7 +8629,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1993 to the Bahá’ís of the World
 years=[1993.0421,1993.0421]
-summary="Riḍván Message 1993"
 
 * The Universal House of Justice
 
@@ -9340,7 +9302,6 @@ We here make this vow: With a stirring history of divine support behind us and a
 
 # Riḍván Message 1992 to the Bahá’ís of the World
 years=[1992.0421,1992.0421]
-summary="Riḍván Message 1992"
 
 * The Universal House of Justice
 
@@ -9700,7 +9661,6 @@ Department of the Secretariat
 
 # Riḍván Message 1991 to the Bahá’ís of the World
 years=[1991.0421,1991.0421]
-summary="Riḍván Message 1991"
 
 * The Universal House of Justice
 
@@ -9930,7 +9890,6 @@ CALL UPON FRIENDS EVERY LAND RALLY SUPPORT THIS SACRED ENTERPRISE NOW INSEPARABL
 
 # Riḍván Message 1990 to the Bahá’ís of the World
 years=[1990.0421,1990.0421]
-summary="Riḍván Message 1990"
 
 * The Universal House of Justice
 
@@ -10298,7 +10257,6 @@ Department of the Secretariat
 
 # Riḍván Message 1989 to the Bahá’ís of the World
 years=[1989.0421,1989.0421]
-summary="Riḍván Message 1989"
 
 * The Universal House of Justice
 
@@ -10678,7 +10636,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1988 to the Bahá’ís of the World
 years=[1988.0421,1988.0421]
-summary="Riḍván Message 1988"
 
 * The Universal House of Justice
 
@@ -11156,7 +11113,6 @@ We rejoice to know that the entire company of Bahá’u’lláh’s loved ones j
 
 # Riḍván Message 1987 to the Bahá’ís of the World
 years=[1987.0421,1987.0421]
-summary="Riḍván Message 1987"
 
 * The Universal House of Justice
 
@@ -11838,7 +11794,6 @@ UNIVERSAL HOUSE OF JUSTICE
 
 # Riḍván Message 1986 to the Bahá’ís of the World
 years=[1986.0421,1986.0421]
-summary="Riḍván Message 1986"
 
 * The Universal House of Justice
 
@@ -12670,7 +12625,6 @@ And we offer the assurance of our prayerful remembrances of you, our trust and c
 
 # Riḍván Message 1985 to the Bahá’ís of the World
 years=[1985.0421,1985.0421]
-summary="Riḍván Message 1985"
 
 * The Universal House of Justice
 
@@ -13228,7 +13182,6 @@ Department of the Secretariat
 
 # Riḍván Message 1984 to the Bahá’ís of the World
 years=[1984.0421,1984.0421]
-summary="Riḍván Message 1984"
 
 * The Universal House of Justice
 
@@ -13742,7 +13695,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1983 to the Bahá’ís of the World
 years=[1983.0421,1983.0421]
-summary="Riḍván Message 1983"
 
 * The Universal House of Justice
 
@@ -14014,7 +13966,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1982 to the Bahá’ís of the World
 years=[1982.0421,1982.0421]
-summary="Riḍván Message 1982"
 
 * The Universal House of Justice
 
@@ -15616,7 +15567,6 @@ Department of the Secretariat
 
 # Riḍván Message 1978 to those gathered
 years=[1978.0421,1978.0421]
-summary="Riḍván Message 1978"
 
 * The Universal House of Justice
 
@@ -15736,7 +15686,6 @@ Department of the Secretariat
 
 # Letter dated 24 March 1977 to all National Assemblies
 years=[1977.0324,1977.0324]
-summary="Riḍván Message 1977"
 
 * The Universal House of Justice
 
@@ -17046,7 +16995,6 @@ Department of the Secretariat
 
 # Letter dated 4 April 1975 to all National Assemblies
 years=[1975.0404,1975.0404]
-summary="Riḍván Message 1975"
 
 * The Universal House of Justice
 
@@ -17964,7 +17912,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1973 to the Bahá’ís of the World
 years=[1973.0421,1973.0421]
-summary="Riḍván Message 1973"
 
 * The Universal House of Justice
 
@@ -18184,7 +18131,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1972 to the Bahá’ís of the World
 years=[1972.0421,1972.0421]
-summary="Riḍván Message 1972"
 
 * The Universal House of Justice
 
@@ -18354,7 +18300,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1971 to the Bahá’ís of the World
 years=[1971.0421,1971.0421]
-summary="Riḍván Message 1971"
 
 * The Universal House of Justice
 
@@ -18472,7 +18417,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1970 to all National Assemblies
 years=[1970.0421,1970.0421]
-summary="Riḍván Message 1970"
 
 * The Universal House of Justice
 
@@ -18714,7 +18658,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1969 to the Bahá’ís of the World
 years=[1969.0421,1969.0421]
-summary="Riḍván Message 1969"
 
 * The Universal House of Justice
 
@@ -18992,7 +18935,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1967 to the Bahá’ís of the World
 years=[1967.0421,1967.0421]
-summary="Riḍván Message 1967"
 
 * The Universal House of Justice
 
@@ -19152,7 +19094,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1966 to the Bahá’ís of the World
 years=[1966.0421,1966.0421]
-summary="Riḍván Message 1966"
 
 * The Universal House of Justice
 
@@ -19302,7 +19243,6 @@ With loving Bahá’í greetings,
 
 # Riḍván Message 1965 to the Bahá’ís of the World
 years=[1965.0421,1965.0421]
-summary="Riḍván Message 1965"
 
 * The Universal House of Justice
 

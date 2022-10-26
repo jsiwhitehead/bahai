@@ -2005,6 +2005,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         },
       ],
       ["## Selected Messages", "Selected Messages"],
+      [/summary="Riḍván.*/gm, ""],
       [
         `So long as these prejudices survive, there will be continuous and fearsome wars.
 
@@ -2022,7 +2023,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ],
       ["Part III", ""],
       title("", "Turning Point", {
-        author: "The Universal House of Justice",
+        author: "The World Centre",
         years: [1996, 2006],
         collection: true,
       }),

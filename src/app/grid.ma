@@ -1,30 +1,36 @@
-[docs:
+[(docs, summaries):
   [
-    'grid': ['60px', 2, 3, '110px'],
+    'size': 15,
+    'grid': ['50px', 2, 3, '90px'],
     [
-      'pad': [15, 15, 15, 0],
+      'pad': [10, 10, 10, 0],
       'bold': 'true',
       '#'
     ],
     [
-      'pad': [15, 15, 15, 0],
+      'pad': [10, 10, 10, 0],
       'bold': 'true',
       'align': 'center',
       'style': ['grid-column': '2 / 4'],
-      'Document & Source'
+      {
+        ? summaries: 'Message & Summary',
+        : 'Document & Source',
+      }
     ],
     [
-      'pad': 15,
+      'pad': 10,
       'bold': 'true',
       'Length'
     ],
     ...docs->flatMap.[(doc, i): {
-      ? doc.'path'.1 = 'Additional' & doc.'title' : {
+      ? (doc.'path'.1 = 'Additional' & doc.'title')
+        | doc.'summary'
+        | doc.'path'.1 = 'Selected Messages of the Universal House of Justice': {
         'hover':~ '',
         : [
           [
             'fill': (i % 2 = 1) & '#f6f6f6',
-            'pad': [15, 15, 15, 0],
+            'pad': [10, 10, 10, 0],
             'color': colors.'link'.(doc.'author'),
             'hover': hover,
             'link': ['doc', doc.'id'],
@@ -33,17 +39,19 @@
           ],
           [
             'fill': (i % 2 = 1) & '#f6f6f6',
-            'pad': [15, 15, 15, 0],
+            'pad': [10, 10, 10, 0],
             'color': colors.'link'.(doc.'author'),
             'hover': hover,
             'underline': hover,
             'link': ['doc', doc.'id'],
             'style': ['grid-column': '2 / 4'],
-            doc.'title',
+            'stack': 17 / 2,
+            [doc.'title'],
+            doc.'summary' & ['({doc.'summary'})'],
           ],
           [
             'fill': (i % 2 = 1) & '#f6f6f6',
-            'pad': 15,
+            'pad': 10,
             'color': colors.'link'.(doc.'author'),
             'hover': hover,
             'link': ['doc', doc.'id'],
@@ -57,7 +65,7 @@
         : [
           [
             'fill': (i % 2 = 1) & '#f6f6f6',
-            'pad': [15, 15, 15, 0],
+            'pad': [10, 10, 10, 0],
             'color': colors.'link'.(doc.'author'),
             'hover': hover,
             'link': ['doc', doc.'id'],
@@ -66,7 +74,7 @@
           ],
           [
             'fill': (i % 2 = 1) & '#f6f6f6',
-            'pad': [15, 15, 15, 0],
+            'pad': [10, 10, 10, 0],
             'color': colors.'link'.(doc.'author'),
             'hover': hover,
             'underline': hover,
@@ -79,7 +87,7 @@
           ],
           [
             'fill': (i % 2 = 1) & '#f6f6f6',
-            'pad': [15, 15, 15, 0],
+            'pad': [10, 10, 10, 0],
             'color': colors.'link'.(doc.'author'),
             'hover': hover,
             'underline': hover,
@@ -89,7 +97,7 @@
           ],
           [
             'fill': (i % 2 = 1) & '#f6f6f6',
-            'pad': 15,
+            'pad': 10,
             'color': colors.'link'.(doc.'author'),
             'hover': hover,
             'link': ['doc', doc.'id'],

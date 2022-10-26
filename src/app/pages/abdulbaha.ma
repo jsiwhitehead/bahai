@@ -7,7 +7,7 @@
     'abdul-baha-tablet-august-forel-001',
   ],
   : [
-    'stack': 60,
+    'stack': 40,
     [
       'size': 34,
       'bold': 'true',

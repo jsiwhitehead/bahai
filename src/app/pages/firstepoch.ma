@@ -15,7 +15,7 @@
     'shoghi-effendi-world-order-bahaullah-002',
   ],
   : [
-    'stack': 60,
+    'stack': 40,
     [
       'stack': 15,
       [

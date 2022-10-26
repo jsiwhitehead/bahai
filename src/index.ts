@@ -131,8 +131,8 @@ const documentsList = Object.keys(documents)
     if (time < 60) return { ...d, time: `${Math.round(time / 5) * 5} mins` };
     return { ...d, time: `${Math.round(time / 6) / 10} hours` };
   })
-  // .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
-  .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
+  .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
+// .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
 
 maraca(
   {
@@ -179,13 +179,8 @@ maraca(
       if (section === "Other") {
         return documentsList.filter(
           (d) =>
-            ![
-              "The Báb",
-              "Bahá’u’lláh",
-              "‘Abdu’l‑Bahá",
-              "Shoghi Effendi",
-              "The Universal House of Justice",
-            ].includes(d.author) &&
+            !["The Báb", "Bahá’u’lláh", "‘Abdu’l‑Bahá"].includes(d.author) &&
+            !d.epoch &&
             !d.id.startsWith("bible") &&
             !d.id.startsWith("quran") &&
             !d.id.startsWith("compilations") &&
@@ -301,7 +296,7 @@ maraca(
         ).join(", ");
       }
       const paras = p.paragraphs
-        .map((i) => doc.paragraphs[i].index)
+        .map((i) => doc.paragraphs[i - 1].index)
         .filter((i) => i !== undefined);
       return unique(
         [

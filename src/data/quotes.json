@@ -71720,6 +71720,26 @@
         }
       ]
     },
+    "8": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 239
+        }
+      ],
+      "parts": [
+        {
+          "start": 410,
+          "end": 447,
+          "count": 1
+        },
+        {
+          "start": 490,
+          "end": 620,
+          "count": 1
+        }
+      ]
+    },
     "9": {
       "refs": [
         {
@@ -71778,10 +71798,19 @@
       "refs": [
         {
           "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 194
+        },
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 33
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 358,
+          "count": 1
+        },
         {
           "start": 359,
           "end": 509,
@@ -71813,16 +71842,45 @@
         }
       ]
     },
-    "15": {
+    "14": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 48
+          "paragraph": 332
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 387,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 48
+        },
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 324
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 262,
+          "count": 1
+        },
+        {
+          "start": 262,
+          "end": 721,
+          "count": 1
+        },
+        {
+          "start": 721,
           "end": 811,
           "count": 1
         }
@@ -71878,98 +71936,6 @@
           "start": 14,
           "end": 502,
           "count": 2
-        }
-      ]
-    }
-  },
-  "official-statements-commentaries-century-light-002": {
-    "285": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 69
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 395,
-          "count": 1
-        }
-      ]
-    },
-    "287": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 71
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 927,
-          "count": 1
-        }
-      ]
-    },
-    "291": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 73
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 698,
-          "count": 1
-        }
-      ]
-    },
-    "292": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 74
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1744,
-          "count": 1
-        }
-      ]
-    },
-    "293": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 75
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1094,
-          "count": 1
-        }
-      ]
-    },
-    "306": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 77
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 642,
-          "count": 1
         }
       ]
     }
@@ -72433,28 +72399,8 @@
       ]
     }
   },
-  "the-universal-house-of-justice-turning-point-003": {
-    "28": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 218
-        }
-      ],
-      "parts": [
-        {
-          "start": 775,
-          "end": 855,
-          "count": 1
-        },
-        {
-          "start": 856,
-          "end": 1078,
-          "count": 1
-        }
-      ]
-    },
-    "39": {
+  "additional-the-universal-house-of-justice-244": {
+    "1": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-turning-point-001",
@@ -72465,36 +72411,6 @@
         {
           "start": 0,
           "end": 259,
-          "count": 1
-        }
-      ]
-    },
-    "44": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 159
-        }
-      ],
-      "parts": [
-        {
-          "start": 183,
-          "end": 265,
-          "count": 1
-        }
-      ]
-    },
-    "54": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 124
-        }
-      ],
-      "parts": [
-        {
-          "start": 474,
-          "end": 914,
           "count": 1
         }
       ]
@@ -72645,97 +72561,6 @@
         {
           "start": 0,
           "end": 1180,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-turning-point-005": {
-    "35": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 239
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 37,
-          "count": 1
-        },
-        {
-          "start": 80,
-          "end": 210,
-          "count": 1
-        }
-      ]
-    },
-    "64": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 125
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 168,
-          "count": 1
-        }
-      ]
-    },
-    "74": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 194
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 358,
-          "count": 1
-        }
-      ]
-    },
-    "125": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 332
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 387,
-          "count": 1
-        }
-      ]
-    },
-    "143": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 324
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 57
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 459,
-          "count": 2
-        },
-        {
-          "start": 459,
-          "end": 549,
           "count": 1
         }
       ]
@@ -85967,6 +85792,55 @@
         {
           "start": 0,
           "end": 548,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-turning-point-003": {
+    "54": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 124
+        }
+      ],
+      "parts": [
+        {
+          "start": 474,
+          "end": 914,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-turning-point-005": {
+    "64": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 125
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 168,
+          "count": 1
+        }
+      ]
+    },
+    "143": {
+      "refs": [
+        {
+          "id": "ruhi10-002",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 549,
           "count": 1
         }
       ]

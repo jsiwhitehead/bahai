@@ -103,8 +103,9 @@
                         colors.'link'.(documents.(p.'id').'author') |
                         colors.'link'.'The World Centre',
                       'underline': hover,
+                      'width': 0.75,
                       'link': ['doc', p.'id', : p.'paragraphs'.1],
-                      'style': ['width': '75%', 'margin': '0 20px 0 auto'],
+                      'style': ['margin': '0 20px 0 auto'],
                       refText,
                     ],
                   },
@@ -179,7 +180,8 @@
                     colors.'link'.'The World Centre',
                   'underline': hover,
                   'link': ['doc', r.'id', : r.'paragraph'],
-                  'style': ['width': '75%', 'margin': '0 auto 0 0'],
+                  'width': 0.75,
+                  'style': ['margin': '0 auto 0 0'],
                   [
                     documents.(r.'id').'author',
                     ...documents.(r.'id').'path',

@@ -1,5 +1,5 @@
 [
-  'stack': 60,
+  'stack': 40,
   [
     'size': 34,
     'bold': 'true',
