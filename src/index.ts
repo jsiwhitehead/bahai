@@ -104,11 +104,30 @@ const documentsList = Object.keys(documents)
           )
         ),
       ],
+      words: d.paragraphs
+        .flatMap((p) => {
+          if (p.section) return p.title || "";
+          if (p.id) {
+            const doc = documents[p.id];
+            if (!p.parts) return doc.paragraphs[p.paragraphs[0] - 1].text;
+            return p.parts.map(({ paragraph, start, end }) =>
+              doc.paragraphs[paragraph - 1].text.slice(start, end)
+            );
+          }
+          return p.text;
+        })
+        .map((s) => s.split(" ").length)
+        .reduce((a, b) => a + b, 0),
       score:
         refCounts.reduce((res, n) => res + n, 0) /
         Math.sqrt(d.paragraphs.length),
     };
   })
+  // .sort(
+  //   (a, b) =>
+  //     b.paragraphs.length - a.paragraphs.length || a.id.localeCompare(b.id)
+  // );
+  // .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
   .sort(
     (a, b) =>
       b.years[0] + b.years[1] - (a.years[0] + a.years[1]) ||
@@ -151,10 +170,12 @@ maraca(
     findDocuments: (section) => {
       if (section.includes("Epoch")) {
         return documentsList.filter((d) => d.epoch === section);
+        // .slice(0, 50);
       }
       return documentsList.filter(
         (d) => d.author === section && d.type !== "Prayer"
       );
+      // .slice(0, 50);
     },
     documentsList: Object.keys(documents).map((k) => documents[k]),
     quotesMap: quotes,

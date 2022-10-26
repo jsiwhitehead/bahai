@@ -68,7 +68,7 @@ const grammar = String.raw`Maraca {
     = space* "," space*
 
   merge
-    = string space* ("::" | ":?") space* value?
+    = string space* ("::" | ":~") space* value?
 
   assign
     = "*"? space* (parameters | pattern)? space* ("?" space* value)? space* ":" space* value
