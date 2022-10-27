@@ -1,7 +1,6 @@
 ‘Abdu’l‑Bahá’s Tablets to The Hague
 author="‘Abdu’l‑Bahá"
 years=[1919,1920]
-collection
 
 # First Tablet to The Hague
 

@@ -1,11 +1,14 @@
 [
   {
-    "path": ["‘Abdu’l‑Bahá’s Tablets to The Hague"],
-    "item": 1,
-    "title": "First Tablet to The Hague",
+    "path": [],
+    "title": "‘Abdu’l‑Bahá’s Tablets to The Hague",
     "author": "‘Abdu’l‑Bahá",
     "years": [1919, 1920],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "First Tablet to The Hague"
+      },
       {
         "text": "O ye esteemed ones who are pioneers among the well‑wishers of the world of humanity!"
       },
@@ -139,7 +142,7 @@
         "text": "Some time ago, during the war, a letter was written regarding the teachings of Bahá’u’lláh which may appropriately be appended to this epistle."
       },
       {
-        "section": [1]
+        "section": [2]
       },
       {
         "text": "O peoples of the world! The Sun of Truth hath risen to illumine the whole earth, and to spiritualise the community of man. Laudable are the results and the fruits thereof, abundant the holy evidences deriving from this grace. This is mercy unalloyed and purest bounty; it is light for the world and all its peoples; it is harmony and fellowship, and love and solidarity; indeed it is compassion and unity, and the end of foreignness; it is the being at one, in complete dignity and freedom, with all on earth."
@@ -161,16 +164,11 @@
       },
       {
         "text": "Soon will your swiftly passing days be over, and the fame and riches, the comforts, the joys provided by this rubbish‑heap, the world, will be gone without a trace. Summon ye, then, the people to God, and invite humanity to follow the example of the Company on high. Be ye loving fathers to the orphan, and a refuge to the helpless, and a treasury for the poor, and a cure for the ailing. Be ye the helpers of every victim of oppression, the patrons of the disadvantaged. Think ye at all times of rendering some service to every member of the human race. Pay ye no heed to aversion and rejection, to disdain, hostility, injustice: act ye in the opposite way. Be ye sincerely kind, not in appearance only. Let each one of God’s loved ones centre his attention on this: to be the Lord’s mercy to man; to be the Lord’s grace. Let him do some good to every person whose path he crosseth, and be of some benefit to him. Let him improve the character of each and all, and reorient the minds of men. In this way, the light of divine guidance will shine forth, and the blessings of God will cradle all mankind: for love is light, no matter in what abode it dwelleth; and hate is darkness, no matter where it may make its nest. O friends of God! That the hidden Mystery may stand revealed, and the secret essence of all things may be disclosed, strive ye to banish that darkness for ever and ever."
-      }
-    ]
-  },
-  {
-    "path": ["‘Abdu’l‑Bahá’s Tablets to The Hague"],
-    "item": 2,
-    "title": "Second Tablet to The Hague",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1919, 1920],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Second Tablet to The Hague"
+      },
       {
         "text": "To the esteemed members of the Executive Committee of the Central Organisation for a Durable Peace"
       },

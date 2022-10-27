@@ -64,15 +64,16 @@
     ]
   },
   {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 1,
-    "title": "Nature Is Governed by a Universal Law",
+    "path": ["Some Answered Questions"],
+    "item": 3,
+    "title": "Part 1: On the Influence of the Prophets in the Evolution of Humanity",
     "author": "‘Abdu’l‑Bahá",
     "years": [1904, 1906],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Nature Is Governed by a Universal Law"
+      },
       {
         "text": "Nature is that condition or reality which outwardly is the source of the life and death, or, in other words, of the composition and decomposition, of all things."
       },
@@ -93,19 +94,11 @@
       },
       {
         "text": "Hence it is clear that nature, in its very essence, is in the grasp of God’s might, and that it is that Eternal and Almighty One Who subjects nature to ideal laws and organising principles, and Who rules over it."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 2,
-    "title": "Proofs and Arguments for the Existence of God",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "Proofs and Arguments for the Existence of God"
+      },
       {
         "text": "Among the proofs and arguments for the existence of God is the fact that man has not created himself, but rather that his creator and fashioner is another than he. And it is certain and indisputable that the creator of man is not like man himself, because a powerless being cannot create another being, and an active creator must possess all perfections to produce his handiwork."
       },
@@ -129,19 +122,11 @@
       },
       {
         "text": "These are theoretical arguments adduced for weak souls, but if the eye of inner vision be opened, a hundred thousand clear proofs will be seen. Thus, when man feels the indwelling spirit, he is in no need of arguments for its existence; but for those who are deprived of the grace of the spirit, it is necessary to set forth external arguments."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 3,
-    "title": "The Need for an Educator",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "The Need for an Educator"
+      },
       {
         "text": "When we consider existence, we observe that the mineral, the vegetable, the animal, and the human realms, each and all, are in need of an educator."
       },
@@ -195,19 +180,11 @@
       },
       {
         "text": "It has thus been established by rational arguments that the world of existence stands in utmost need of an educator, and that its education must be achieved through a celestial power. There is no doubt that this celestial power is divine revelation, and that the world must be educated through this power which transcends human power."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 4,
-    "title": "Abraham",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Abraham"
+      },
       {
         "text": "Among those who possessed this divine power and were assisted by it was Abraham. The proof is this: Abraham was born in Mesopotamia of a family that was ignorant of the oneness of God; He opposed His own people and government, and even His own kin; He rejected all their gods; and, alone and single‑handed, He withstood a powerful nation. Such opposition and resistance were not simple or trivial. It is as though one were in this day to deny Christ among Christian nations who firmly cling to the Bible, or as though one were—God forbid!—to blaspheme Christ in the papal court, oppose all His followers, and to act thus in the most vehement manner."
       },
@@ -225,19 +202,11 @@
       },
       {
         "text": "Behold then what an accomplished Educator Abraham was!"
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 5,
-    "title": "Moses",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Moses"
+      },
       {
         "text": "Moses was for a long time a shepherd in the wilderness. To outward seeming He was a man Who had been reared in the bosom of tyranny, had become reputed among men as a murderer, had taken up the shepherd’s staff, and was fiercely hated and reviled by Pharaoh’s government and people. It was such a man Who freed a great people from the fetters of captivity and persuaded them to leave Egypt and settle in the Holy Land."
       },
@@ -255,19 +224,11 @@
       },
       {
         "text": "Observe how the people are subjected to tests and trials. Moses struck down an Egyptian to prevent an act of oppression, became known among men as a murderer—especially since the victim belonged to the ruling nation—and was obliged to flee, and it was after all this that He was raised up as a Prophet. Behold how, in spite of His disrepute, He was aided through an extraordinary power to establish such great institutions and mighty undertakings!"
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 6,
-    "title": "Christ",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Christ"
+      },
       {
         "text": "Afterwards Christ appeared, saying, “I am born of the Holy Spirit.” If it is easy today, among Christians, to acknowledge the truth of this claim, at the time it was very difficult. Thus, according to the text of the Gospel, the Pharisees said, “Is this not the son of Joseph of Nazareth, whom we know? How then can he say, ‘I have come down from heaven’?”"
       },
@@ -282,19 +243,11 @@
       },
       {
         "text": "Is this at all possible in accordance with the rules of human reason? No, by God! Then it is clear and evident that this glorious Being was a true Educator of the world of humanity and that He was aided and assisted by a divine power."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 7,
-    "title": "Muḥammad",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Muḥammad"
+      },
       {
         "text": "Now as to Muḥammad, the people of Europe and America have heard certain tales about the Prophet, to which they have given credence even though the providers of these accounts, many of whom belonged to the ranks of the Christian clergy, were either ignorant or ill‑intentioned. Likewise, a number of ignorant Muslims relayed unfounded tales concerning Muḥammad, which in their minds redounded to His glory. Thus some benighted Muslims made His polygamy the object of their highest praise and held it to be a sign of His wondrous powers, since these ignorant souls considered the multiplicity of wives to be a miraculous thing. The accounts of European historians rely for the most part upon the sayings of such ignorant people."
       },
@@ -342,19 +295,11 @@
       },
       {
         "text": "In short, multitudes of Eastern peoples were reared for thirteen centuries under the shadow of the Muḥammadan Faith. During the Middle Ages, while Europe had sunk to the lowest depths of barbarity, the Arabs excelled all other nations of the earth in sciences and crafts, mathematics, civilisation, governance, and other arts. The Educator and Prime Mover of the tribes of the Arabian Peninsula, and the Founder of the civilisation of human perfections among those contending clans, was an illiterate Man, Muḥammad. Was this illustrious Man a universal Educator or not? Let us be fair."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 8,
-    "title": "The Báb",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "The Báb"
+      },
       {
         "text": "As for the Báb⁠—may my soul be His sacrifice!—it was at a young age, that is, in the twenty‑fifth year of His blessed life, that He arose to proclaim His Cause. Among the Shí‘ihs it is universally acknowledged that He never studied in any school, nor acquired learning from any teacher. To this the people of Shíráz, each and all, bear witness. Nevertheless, He suddenly appeared before the people, endowed with consummate knowledge, and though but a merchant, confounded all the divines of Persia. Alone, He undertook a task that can scarcely be conceived, for the Persians are known throughout the world for their religious fanaticism. This illustrious Being arose with such power as to shake the foundations of the religious laws, customs, manners, morals, and habits of Persia, and instituted a new law, faith, and religion. Though the eminent men of the State, the majority of the people, and the leaders of religion arose one and all to destroy and annihilate Him, He single‑handedly withstood them and set all of Persia in motion. How numerous the divines, the leaders, and the inhabitants of that land who with perfect joy and gladness offered up their lives in His path and hastened to the field of martyrdom!"
       },
@@ -363,19 +308,11 @@
       },
       {
         "text": "The manifestation of such marvellous signs and mighty undertakings, the influence exerted upon the thoughts and minds of the people, the laying of the foundations of progress, and the establishment of the prerequisites of success and prosperity by a young merchant constitute the greatest proof that He was a universal Educator—a fact that no fair‑minded person would ever hesitate to acknowledge."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 9,
-    "title": "Bahá’u’lláh",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Bahá’u’lláh"
+      },
       {
         "text": "Bahá’u’lláh appeared at a time when Persia was plunged in the darkest ignorance and consumed by the blindest fanaticism. You have no doubt read at length the accounts that European histories provide of the morals, manners, and thoughts of the Persians during the last few centuries, and these require no repetition. Suffice it to say that Persia had sunk to such abysmal depths that foreign travellers would all deplore that a country which had in former times occupied the pinnacle of greatness and civilisation had by then fallen into such abasement, desolation, and ruin, and that its people had been reduced to utter wretchedness."
       },
@@ -453,19 +390,11 @@
       },
       {
         "text": "Now, we must be fair and acknowledge what an Educator of mankind this illustrious Being was, what marvellous signs He has manifested, and what power and might have been realised in the world of existence through Him."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 10,
-    "title": "Rational Proofs and Traditional Arguments from the Sacred Scriptures",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Rational Proofs and Traditional Arguments from the Sacred Scriptures"
+      },
       {
         "text": "Today at table let us speak a little of proofs. Had you come to this blessed spot in the days of the manifestation of that most resplendent Light, entered the court of His presence, and beheld His luminous countenance, you would have recognised that His utterance and His beauty were in want of no further proof. How numerous the souls who, upon attaining His presence, became at once confirmed believers, dispensing with any further proof ! Even those who were steeped in the deepest hatred and denial would, upon meeting Bahá’u’lláh, testify to His greatness, saying, “This is indeed a distinguished man, but how regrettable that he makes such a claim! For whatever else he might say would be acceptable.”"
       },
@@ -531,19 +460,11 @@
       },
       {
         "text": "The commencement of this lunar reckoning is from the day of the proclamation of the prophethood of Muḥammad in the land of Ḥijáz; and that was three years after the revelation of His mission, because in the beginning the prophethood of Muḥammad was concealed, and no one knew of it save Khadíjih and Ibn‑i‑Nawfal, until it was publicly announced three years later. And it was in the year 1290 from the proclamation of the mission of Muḥammad that Bahá’u’lláh announced His Revelation."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 11,
-    "title": "Commentary on the Eleventh Chapter of the Revelation of John",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Commentary on the Eleventh Chapter of the Revelation of John"
+      },
       {
         "text": "In Revelation 11:1—2 it is said: “And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein. But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty and two months.”"
       },
@@ -678,19 +599,11 @@
       },
       {
         "text": "“And there were lightnings, and voices, and thunderings, and an earthquake, and great hail”, meaning that after the appearance of the Book of the Covenant there will be a great tempest, the lightning of divine anger and wrath will flash, the thunder of the violation of the Covenant will break, the tremor of doubt will shake the earth, the hail of torments will rain upon the violators of the Covenant, and those who claim to believe will be subjected to tests and trials."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 12,
-    "title": "Commentary on the Eleventh Chapter of Isaiah",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "Commentary on the Eleventh Chapter of Isaiah"
+      },
       {
         "text": "In Isaiah 11:1—9 it is said: “And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots: And the spirit of the Lord shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord; And shall make him of quick understanding in the fear of the Lord: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears: But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked. And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins. The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them. And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox. And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den. They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.”"
       },
@@ -714,19 +627,11 @@
       },
       {
         "text": "Now, observe that these events did not take place in the Christian Dispensation, for the nations did not enlist under that single banner—that divine Branch—but in this Dispensation of the Lord of Hosts all nations and peoples will enter beneath His shadow. Likewise Israel, which had been scattered throughout the world, was not gathered together in the Holy Land in the course of the Christian Dispensation, but in the beginning of the Dispensation of Bahá’u’lláh this divine promise, which has been clearly stated in all the Books of the Prophets, has begun to materialise. Observe how from all corners of the world Jewish peoples are coming to the Holy Land, acquiring villages and lands to inhabit, and increasing day by day to such an extent that all Palestine is becoming their home."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 13,
-    "title": "Commentary on the Twelfth Chapter of the Revelation of John",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Commentary on the Twelfth Chapter of the Revelation of John"
+      },
       {
         "text": "We have explained before that what the Sacred Scriptures most often mean by the Holy City or divine Jerusalem is the religion of God, which has at times been likened to a bride, or called “Jerusalem”, or depicted as the new heaven and the new earth. Thus in Revelation, chapter 21, it is said: “And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea. And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband. And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people, and God Himself shall be with them, and be their God.”"
       },
@@ -768,19 +673,11 @@
       },
       {
         "text": "When justice is lacking, however, the people challenge, dispute, and deny the obvious. Their conduct is like that of the Pharisees in the time of Christ, who would obstinately deny the interpretations and utterances He and His Apostles made, and who would wilfully obscure the truth before the ignorant masses, saying, “These prophecies do not apply to Jesus, but to the Promised One Who will erelong appear according to the conditions mentioned in the Torah”—among which being that He would be a king, sit upon the throne of David, enforce the law of the Torah, inaugurate the most great justice, and cause the wolf and the lamb to gather at the same spring. And thus did they veil the people from recognising Christ."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 14,
-    "title": "Material and Spiritual Cycles",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Material and Spiritual Cycles"
+      },
       {
         "text": "In this material world, time has changing cycles and place is subject to varying conditions. Seasons follow one another and individuals progress, regress, and develop. At one point it is springtime and at another the autumn season; at one point it is summer and at another it is winter."
       },
@@ -825,19 +722,11 @@
       },
       {
         "text": "Were the sun to rise from the west, it would still be the sun. Indeed, from whatever point the sun may rise, it is still the sun. One must not take its appearance to be confined to a single point and regard the other points as deprived. One must not be veiled by its rising in the east and consider the west as the place of its setting and decline. One must seek after the manifold grace of God, search out the divine effulgences, and become enraptured and enthralled with any reality in which they are clearly and plainly found. Consider that, if the Jews had not clung to the horizon of Moses but had fixed their gaze upon the Sun of Truth, they would have undoubtedly beheld that Sun shining in the fullness of its divine splendour in that true dawning point that was Christ. But a thousand times alas! They clung to the name of Moses and deprived themselves of that supernal grace and heavenly splendour."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 1: On the Influence of the Prophets in the Evolution of Humanity"
-    ],
-    "item": 15,
-    "title": "True Felicity",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "True Felicity"
+      },
       {
         "text": "The honour and exaltation of every existing thing are contingent upon certain causes and conditions."
       },
@@ -868,12 +757,16 @@
     ]
   },
   {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 1,
-    "title": "Intelligible Realities and Their Expression through Sensible Forms",
+    "path": ["Some Answered Questions"],
+    "item": 4,
+    "title": "Part 2: Some Christian Subjects",
     "author": "‘Abdu’l‑Bahá",
     "years": [1904, 1906],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Intelligible Realities and Their Expression through Sensible Forms"
+      },
       {
         "text": "There is a point that is pivotal to grasping the essence of the other questions that we have discussed or will be discussing, namely, that human knowledge is of two kinds."
       },
@@ -903,16 +796,11 @@
       },
       {
         "text": "Briefly, the Manifestations of God have ever been and will ever be luminous Realities, and no change or alteration ever takes place in Their essence. At most, before Their revelation They are still and silent, like one who is asleep, and after Their revelation They are eloquent and effulgent, like one who is awake."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 2,
-    "title": "The Birth of Christ",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "The Birth of Christ"
+      },
       {
         "text": "Question: How was Christ born of the Holy Spirit?"
       },
@@ -933,16 +821,11 @@
       },
       {
         "text": "The divine philosophers say: “It follows clearly from your statement that the human species upon the terrestrial globe was originated and is not eternal. Then surely the first man had neither father nor mother, for the existence of the human species has an origin in time. Now, which is more problematic: that man should come into being, albeit gradually, with neither father nor mother, or that he should come into being without a father? As you admit that the first man came into being with neither father nor mother, whether it be gradually or in a short period of time, there can remain no doubt that a man without a human father is also possible and logically admissible. One cannot therefore simply reject this as impossible, and to do so would betray a lack of fairness. For example, if you say that this lamp was once lit with neither wick nor oil, and then say that it is impossible for it to be lit without the wick, this betrays a lack of fairness.” Christ had a mother, but the first man, according to the material philosophers, had neither father nor mother."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 3,
-    "title": "The Greatness of Christ",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "The Greatness of Christ"
+      },
       {
         "text": "Question: What is the virtue and benefit of being without a father?"
       },
@@ -960,16 +843,11 @@
       },
       {
         "text": "In brief, the honour and glory of those sanctified Souls, the Manifestations of God, are due to Their heavenly perfections, outpourings, and splendours, and to nothing else."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 4,
-    "title": "True Baptism",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "True Baptism"
+      },
       {
         "text": "In Matthew 3:13—15, it is said: “Then cometh Jesus from Galilee to Jordan unto John, to be baptised of him. But John forbad Him, saying, I have need to be baptised of Thee, and comest Thou to me? And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered Him.”"
       },
@@ -993,16 +871,11 @@
       },
       {
         "text": "But in the Dispensation of Bahá’u’lláh this symbol is no longer required, for its reality, which is to be baptised with the spirit and the love of God, has been established and realised."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 5,
-    "title": "Baptism and the Changing Law of God",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Baptism and the Changing Law of God"
+      },
       {
         "text": "Question: Is the purification of baptism useful and necessary or is it useless and unnecessary? If the former, why was it abrogated despite its necessity? And if the latter, why did John practise it despite its being unnecessary?"
       },
@@ -1029,16 +902,11 @@
       },
       {
         "text": "This subject requires deep consideration, and the reason is clear and evident. Well is it with them that reflect!"
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 6,
-    "title": "The Bread and the Wine",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "The Bread and the Wine"
+      },
       {
         "text": "Question: Christ said: “I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever.” What is the meaning of this utterance?"
       },
@@ -1068,16 +936,11 @@
       },
       {
         "text": "It is therefore clear that the bread and wine were symbols, meaning: My grace and My perfections have been given you, and since you have partaken of this manifold grace, you have attained everlasting life and received your share and portion of the heavenly sustenance."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 7,
-    "title": "The Miracles of Christ",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "The Miracles of Christ"
+      },
       {
         "text": "Question: Certain miracles have been attributed to Christ. Should these accounts be taken literally or do they have other meanings? For it has been established through sound investigation that the inherent nature of each thing does not change, that all created things are subject to a universal law and organisation from which they cannot deviate, and that hence nothing can possibly violate that universal law."
       },
@@ -1104,16 +967,11 @@
       },
       {
         "text": "As this inner sight, hearing, life, and healing are eternal, so are they truly important. Otherwise, what importance, worth, and value can mere animal life and powers possess? Even as an idle fancy, in a few days it will pass. For instance, if an unlit lamp is lighted, it will be extinguished again, but the light of the sun always shines resplendent, and this is what is important."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 8,
-    "title": "The Resurrection of Christ",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "The Resurrection of Christ"
+      },
       {
         "text": "Question: What is the meaning of Christ’s resurrection after three days?"
       },
@@ -1134,16 +992,11 @@
       },
       {
         "text": "Such is the meaning of the resurrection of Christ, and this was a true resurrection. But as the clergy did not grasp the meaning of the Gospels and did not comprehend this mystery, it was claimed that religion was opposed to science and science was incompatible with religion, for among other things the ascension of Christ in a physical body to the material heavens is contrary to the mathematical sciences. But when the truth of this matter is clarified and this symbol is explained, it is in no way contradicted by science but rather affirmed by both science and reason."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 9,
-    "title": "The Descent of the Holy Spirit upon the Apostles",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "The Descent of the Holy Spirit upon the Apostles"
+      },
       {
         "text": "Question: It is recorded in the Gospels that the Holy Spirit descended upon the Apostles. What was the manner and meaning of this descent?"
       },
@@ -1155,16 +1008,11 @@
       },
       {
         "text": "Thus the descent of the Holy Spirit means that the Apostles were attracted by the messianic Spirit, attained constancy and steadfastness, found a new life through the spirit of God’s love, and saw Christ to be their ever‑living helper and protector. They were mere drops and became the ocean; they were feeble gnats and became soaring eagles; they were all weakness and became endowed with strength. They were like mirrors that are turned towards the sun: It is certain that the rays and the effulgence of the sun will be reflected therein."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 10,
-    "title": "The Holy Spirit",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "The Holy Spirit"
+      },
       {
         "text": "Question: What is meant by “the Holy Spirit”?"
       },
@@ -1188,16 +1036,11 @@
       },
       {
         "text": "Now consider carefully that the words “for he shall not speak of himself; but whatsoever he shall hear, that shall he speak” clearly imply that the Spirit of truth is embodied in a Man Who has a soul, Who has ears to hear and a tongue to speak. Likewise Christ is called the “Spirit of God”, in the same way that we speak of the light and yet mean both the light and the lamp."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 11,
-    "title": "The Second Coming of Christ and the Day of Judgement",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "The Second Coming of Christ and the Day of Judgement"
+      },
       {
         "text": "It is recorded in the Sacred Scriptures that Christ will return and that His return is conditioned upon the fulfilment of certain signs: When He returns, He will be attended by those signs. Among them: “The sun shall be darkened, and the moon shall not give her light, and the stars shall fall from heaven.” At that time “all the tribes of the earth” shall “mourn” and lament, and “the sign of the Son of man” shall appear “in heaven”, “and they shall see the Son of man coming in the clouds of heaven with power and great glory”. Bahá’u’lláh has provided a detailed interpretation of these verses in the Kitáb‑i‑Íqán, and it need not be repeated here. Refer to it and you will grasp their meaning."
       },
@@ -1215,16 +1058,11 @@
       },
       {
         "text": "It is therefore clear and evident that these signs have inner meanings and should not be taken literally. These meanings have been fully explained in the Kitáb‑i‑Íqán: Refer to it."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 12,
-    "title": "The Trinity",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "The Trinity"
+      },
       {
         "text": "Question: What is the meaning of the Trinity and of its three Persons?"
       },
@@ -1254,16 +1092,11 @@
       },
       {
         "text": "Now, this explanation clarifies the meaning of the three Persons of the Trinity and establishes at the same time the oneness of God."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 13,
-    "title": "The Preexistence of Christ",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "The Preexistence of Christ"
+      },
       {
         "text": "Question: What is the meaning of the verse in the Gospel of John: “And now, O Father, glorify thou me with Thine own self with the glory which I had with Thee before the world was.”"
       },
@@ -1281,16 +1114,11 @@
       },
       {
         "text": "Behold the glory that the Word of God attained even in this world!"
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 14,
-    "title": "Sin and Atonement",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Sin and Atonement"
+      },
       {
         "text": "Question: In 1 Corinthians 15:22 it is written: “For as in Adam all die, even so in Christ shall all be made alive.” What is the meaning of these words?"
       },
@@ -1329,16 +1157,11 @@
       },
       {
         "text": "The form of the seed was sacrificed for the tree, but its perfections were revealed and manifested by virtue of this sacrifice: For the tree, its branches, its leaves, and its blossoms were latent and hidden within the seed, but when the form of the seed was sacrificed, its perfections were fully manifested in the leaves, blossoms, and fruit."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 15,
-    "title": "Adam and Eve",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Adam and Eve"
+      },
       {
         "text": "Question: What is the truth of the story of Adam and His eating from the tree?"
       },
@@ -1377,16 +1200,11 @@
       },
       {
         "text": "This is but one of the meanings of the biblical account of Adam. Reflect, that you may discover the others."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 16,
-    "title": "Blasphemy against the Holy Spirit",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [16],
+        "title": "Blasphemy against the Holy Spirit"
+      },
       {
         "text": "Question: “And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.”"
       },
@@ -1407,16 +1225,11 @@
       },
       {
         "text": "Our meaning is that remoteness from the candleholder is not the cause of eternal deprivation, for one may yet be awakened and guided aright, but that enmity towards the light itself is the cause of eternal deprivation and has no remedy."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 17,
-    "title": "“Many Are Called, but Few Are Chosen”",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [17],
+        "title": "“Many Are Called, but Few Are Chosen”"
+      },
       {
         "text": "Question: Christ says in the Gospel: “many are called, but few are chosen”, and in the Qur’án it is written: “He singleth out for His mercy whomsoever He pleaseth.” What is the wisdom of this?"
       },
@@ -1437,16 +1250,11 @@
       },
       {
         "text": "Now, the differences among mankind are twofold: One is a difference of degree, and this difference is not blameworthy. The other is a difference with respect to faith and certitude, the absence of which is blameworthy; for the soul must have fallen prey to its own lusts and passions to have been deprived of this bounty and bereft of the attractive power of the love of God. However praiseworthy and acceptable it may be in its human degree, yet as it is deprived of the perfections of that degree, it has become a source of deficiency and is held accountable for that reason."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 18,
-    "title": "The Return of the Prophets",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [18],
+        "title": "The Return of the Prophets"
+      },
       {
         "text": "Question: Will you explain the subject of Return?"
       },
@@ -1476,16 +1284,11 @@
       },
       {
         "text": "These considerations have been explained at length in the Kitáb‑i‑Íqán."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 19,
-    "title": "Peter and the Papacy",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [19],
+        "title": "Peter and the Papacy"
+      },
       {
         "text": "Question: In the Gospel of Matthew Christ says to Peter: “thou art Peter, and upon this rock I will build My church”. What is the meaning of this verse?"
       },
@@ -1515,16 +1318,11 @@
       },
       {
         "text": "Happy are those who spend their days in the pursuit of knowledge, in the discovery of the secrets of the universe, and in the meticulous investigation of truth! And woe to those who content themselves with ignorance, who delight in thoughtless imitation, who have fallen into the abyss of ignorance and unawareness, and who have thus wasted their lives!"
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 2: Some Christian Subjects"],
-    "item": 20,
-    "title": "Free Will and Predestination",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [20],
+        "title": "Free Will and Predestination"
+      },
       {
         "text": "Question: When an action which someone will perform becomes the object of God’s knowledge and is recorded in the “Guarded Tablet” of destiny, is it possible to resist it?"
       },
@@ -1546,15 +1344,16 @@
     ]
   },
   {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 1,
-    "title": "The Five Kinds of Spirit",
+    "path": ["Some Answered Questions"],
+    "item": 5,
+    "title": "Part 3: On the Powers and Conditions of the Manifestations of God",
     "author": "‘Abdu’l‑Bahá",
     "years": [1904, 1906],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "The Five Kinds of Spirit"
+      },
       {
         "text": "Know that in general there are five kinds of spirit. First is the vegetable spirit, which is the power that results from the composition and combination of the elements according to the wisdom and decree of the Most High, and from their mutual arrangement as well as their influence upon, and their interconnection with, other created things. When these parts and elements are separated, the associated power of growth likewise ceases to exist. So, to give an analogy, electricity results from the composition of certain constituent parts, and as soon as these parts are separated, the electrical force is immediately dissipated and lost. Such is the vegetable spirit."
       },
@@ -1581,19 +1380,11 @@
       },
       {
         "text": "In the same way, the manifestation of Bahá’u’lláh was a new springtide which appeared with the sweet savours of holiness, with the hosts of everlasting life, and with a power born of the celestial kingdom. He established the throne of God’s sovereignty in the midmost heart of the world and, through the power of the Holy Spirit, revived the souls and ushered in a new cycle."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 2,
-    "title": "The Connection between God and His Manifestations",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "The Connection between God and His Manifestations"
+      },
       {
         "text": "Question: What is the reality of the Divinity and its connection to the Daysprings of Lordly splendour and the Dawning‑Places of the light of the All‑Merciful?"
       },
@@ -1632,19 +1423,11 @@
       },
       {
         "text": "The human spirit has certain signs and manifestations in the stage of the embryo, and yet other splendours and expressions in the stages of childhood, adolescence, and maturity. The spirit is one, and yet in the embryonic stage it lacks the powers of sight and hearing, whereas in the stages of adolescence and maturity it appears with the utmost splendour and radiance. In the same way, the seed at the beginning of its growth appears only as a leaf, which is the place of appearance of the vegetable spirit; and in the stage of fruition that same spirit, that is, the power of growth, becomes manifest in the plenitude of its perfection—yet how far is the station of the leaf from that of the fruit! For from the fruit a hundred thousand leaves will in time appear, even though they all grow and develop through the same vegetable spirit. Pause then to reflect upon the difference between the virtues and perfections of Christ and the splendours and effulgences of Bahá’u’lláh, on the one hand, and the virtues of the Prophets of the House of Israel, such as Ezekiel or Samuel, on the other. All were the recipients of divine revelation, but between them there is an immeasurable distance."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 3,
-    "title": "The Three Stations of the Divine Manifestations",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "The Three Stations of the Divine Manifestations"
+      },
       {
         "text": "Know that, while the Manifestations of God possess infinite virtues and perfections, They occupy only three stations: The first is the material station; the second is the human station, which is that of the rational soul; and the third is that of divine manifestation and heavenly splendour."
       },
@@ -1671,19 +1454,11 @@
       },
       {
         "text": "In the Gospel it is said: “In the beginning was the Word, and the Word was with God.” It follows then that Christ did not attain His Messianic station and His perfections at the moment of His baptism, when the Holy Spirit descended upon Him in the form of a dove. Rather, the Word of God has always been, and will ever remain, in the loftiest heights of sanctity."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 4,
-    "title": "The Human and the Divine Stations of the Manifestations",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "The Human and the Divine Stations of the Manifestations"
+      },
       {
         "text": "We stated before that the Manifestations of God have three stations: first, the material reality, which pertains to the human body; second, the individual reality, that is, the rational soul; and third, the heavenly manifestation, which consists in the divine perfections and is the source of the life of the world, the education of the souls, the guidance of the people, and the enlightenment of all creation."
       },
@@ -1704,19 +1479,11 @@
       },
       {
         "text": "In the world of God there is no past, present, or future: All of these are one. So when Christ said, “In the beginning was the Word,” He meant that it was, is, and shall be; for in the world of God there is no time. Time holds sway over the creatures but not over God. So in the prayer where Christ says, “Hallowed be Thy name”, the meaning is that Thy name was, is, and shall be hallowed. Again, morning, noon, and evening exist in relation to the earth, but in the sun there is neither morning, nor noon, nor evening."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 5,
-    "title": "The Knowledge of the Divine Manifestations",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "The Knowledge of the Divine Manifestations"
+      },
       {
         "text": "Question: What are the limitations imposed upon the powers of the Manifestations of God and, in particular, upon Their knowledge?"
       },
@@ -1743,19 +1510,11 @@
       },
       {
         "text": "Religion, then, consists in the necessary relationships deriving from the reality of things. The universal Manifestations of God, being aware of the mysteries of creation, are fully informed of these necessary relationships and establish them as the religion of God."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 6,
-    "title": "Universal Cycles",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Universal Cycles"
+      },
       {
         "text": "Question: Mention has been made of universal cycles which occur in the world of existence. Please explain the truth of this matter."
       },
@@ -1770,19 +1529,11 @@
       },
       {
         "text": "Briefly, our claim is that a universal cycle in the world of existence comprises a vast span of time and countless ages and epochs. In such a cycle, the Manifestations of God shine forth in the visible realm until a universal and supreme Manifestation makes the world the focal centre of divine splendours and, through His revelation, brings it to the stage of maturity. The duration of His cycle is very long indeed. Other Manifestations will arise in the course of that cycle under His shadow and will renew, according to the needs of the time, certain laws pertaining to material affairs and transactions, but They will remain under His shadow. We are in the cycle which began with Adam and whose universal Manifestation is Bahá’u’lláh."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 7,
-    "title": "The Power and Perfections of the Divine Manifestations",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "The Power and Perfections of the Divine Manifestations"
+      },
       {
         "text": "Question: How far do the powers and the perfections of those Thrones of truth, the Manifestations of God, extend, and what are the limits of Their influence?"
       },
@@ -1800,19 +1551,11 @@
       },
       {
         "text": "Were we to fully explain the influence and bounties of each of the Manifestations of God, it would take a very long time. Ponder and reflect upon it yourself in order to grasp the truth of the matter."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 8,
-    "title": "The Two Kinds of Prophets",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "The Two Kinds of Prophets"
+      },
       {
         "text": "Question: How many kinds of Prophets are there in general?"
       },
@@ -1848,19 +1591,11 @@
       },
       {
         "text": "Again, consider to what an extent the original precepts of the Christian religion have been forgotten and how many heresies have sprung up. For example, Christ forbade violence and revenge and enjoined instead that evil and injury be met with benevolence and loving‑kindness. But observe how many bloody wars have taken place among the Christian nations themselves and how much oppression, cruelty, rapacity, and bloodthirstiness have resulted therefrom! Indeed, many of these wars were carried out at the behest of the popes. It is therefore abundantly clear that, with the passage of time, religions are entirely changed and altered, and hence they are renewed."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 9,
-    "title": "The Rebukes Addressed by God to the Prophets",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "The Rebukes Addressed by God to the Prophets"
+      },
       {
         "text": "Question: Certain words of rebuke have been addressed to the Prophets of God in the Sacred Scriptures. To whom are they addressed and to whom do they ultimately refer?"
       },
@@ -1899,19 +1634,11 @@
       },
       {
         "text": "In brief, our meaning is that the rebukes recorded in the Sacred Scriptures, though outwardly addressed to the Prophets—the Manifestations of God—are in reality intended for the people. Were you to peruse the Bible, this matter would become clear and evident."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 3: On the Powers and Conditions of the Manifestations of God"
-    ],
-    "item": 10,
-    "title": "The Most Great Infallibility",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "The Most Great Infallibility"
+      },
       {
         "text": "It is said in the blessed verse: “He Who is the Dawning‑place of God’s Cause hath no partner in the Most Great Infallibility. He it is Who, in the kingdom of creation, is the Manifestation of ‘He doeth whatsoever He willeth’. God hath reserved this distinction unto His own Self, and ordained for none a share in so sublime and transcendent a station.”"
       },
@@ -1945,15 +1672,16 @@
     ]
   },
   {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 1,
-    "title": "Evolution and the True Nature of Man",
+    "path": ["Some Answered Questions"],
+    "item": 6,
+    "title": "Part 4: On the Origin, Powers, and Conditions of Man",
     "author": "‘Abdu’l‑Bahá",
     "years": [1904, 1906],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Evolution and the True Nature of Man"
+      },
       {
         "text": "We now come to the question of the transformation of species and the evolutionary development of organs, that is, whether man has come from the animal kingdom."
       },
@@ -1977,19 +1705,11 @@
       },
       {
         "text": "This matter is evident and these arguments conclusive. But those which the European philosophers have adduced are speculative and inconclusive."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 2,
-    "title": "The Origin of the Universe and the Evolution of Man",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "The Origin of the Universe and the Evolution of Man"
+      },
       {
         "text": "Know that it is one of the most abstruse questions of divinity that the world of existence—that is, this endless universe—has no beginning."
       },
@@ -2022,19 +1742,11 @@
       },
       {
         "text": "Now, were one to establish the existence of vestigial organs, this would not disprove the independence and originality of the species. At most it would prove that the form, appearance, and organs of man have evolved over time. But man has always been a distinct species; he has been man, not an animal. Consider: If the embryo of man in the womb of the mother passes from one form to another which in no way resembles the former, is this a proof that the essence of the species has undergone transformation? That it was at first an animal and that its organs developed and evolved until it became a man? No, by God! How feeble and unfounded is this thought! For the originality of the human species and the independence of the essence of man are clear and evident."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 3,
-    "title": "The Difference between Man and Animal",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "The Difference between Man and Animal"
+      },
       {
         "text": "We have already had one or two conversations on the subject of the spirit, but they were not written down."
       },
@@ -2070,19 +1782,11 @@
       },
       {
         "text": "If we were to deny all that is not accessible to the senses, then we would be forced to deny realities which undoubtedly exist. For example, the ether is not sensible, although its reality can be proven. The power of gravity is not sensible, although its existence is likewise undeniable. Whence do we affirm their existence? From their signs. For instance, this light consists in the vibrations of the ether, and from these vibrations we infer its existence."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 4,
-    "title": "Evolution and the Existence of Man",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Evolution and the Existence of Man"
+      },
       {
         "text": "Question: What do you say regarding the theory of the evolution of beings to which certain European philosophers subscribe?"
       },
@@ -2109,19 +1813,11 @@
       },
       {
         "text": "The gardeners of the world of humanity are the Prophets of God."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 5,
-    "title": "Spiritual Proofs of the Originality of Man",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Spiritual Proofs of the Originality of Man"
+      },
       {
         "text": "The arguments we have adduced thus far for the originality of the human species have been rational ones. Now we will provide spiritual arguments, which are indeed the fundamental ones. For we established the existence of God through rational arguments, and it was likewise established through rational arguments that man has been man from his very inception and origin, and that the essence of his species has existed from eternity. We will now present spiritual proofs that human existence—that is, the human species—is a necessary existence and that without man the perfections of Divinity would not shine forth. But these are spiritual and not rational arguments."
       },
@@ -2139,19 +1835,11 @@
       },
       {
         "text": "The word of God is as clear as the sun. This is a spiritual argument, but it cannot be presented to the material philosophers at the outset. Rather, we must first present the rational arguments and only afterwards the spiritual ones."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 6,
-    "title": "The Appearance of the Spirit and the Mind in Man",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "The Appearance of the Spirit and the Mind in Man"
+      },
       {
         "text": "Question: Did the mind and the spirit appear in the human species from the very beginning? Or were they manifested as humanity gradually developed, or only after its development had been perfected?"
       },
@@ -2166,19 +1854,11 @@
       },
       {
         "text": "Similarly, the terrestrial globe was created, from the beginning, with all its elements, substances, minerals, parts, and components, but these appeared only gradually: first the minerals, then the plants, then the animals, and finally man. But from the beginning, these kinds and species were latent in the earthly realm and appeared gradually thereafter. For the supreme law of God and the universal natural order encompasses all things and subjects them to its rule. When you consider this universal order, you see that not a single thing reaches the limit of perfection immediately upon coming into existence, but grows and develops gradually until it reaches that stage."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 7,
-    "title": "The Appearance of the Spirit in the Body",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "The Appearance of the Spirit in the Body"
+      },
       {
         "text": "Question: What is the wisdom of the appearance of the spirit in the body?"
       },
@@ -2196,19 +1876,11 @@
       },
       {
         "text": "From this perspective one does not ask, “Why is it necessary for the rays of the sun to fall upon the mirror?”; for the relationships that bind together the realities of all things, whether spiritual or material, require that when the mirror is polished and turned towards the sun it should manifest the rays thereof. In like manner, when the elements are composed and combined according to the noblest order, arrangement, and manner, the human spirit will appear and manifest itself therein. Such is the decree of the All‑Glorious, the All‑Wise."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 8,
-    "title": "The Connection between God and His Creation",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "The Connection between God and His Creation"
+      },
       {
         "text": "Question: What is the nature of the connection between God and His creation, between the Absolute and Inaccessible One and all other beings?"
       },
@@ -2229,19 +1901,11 @@
       },
       {
         "text": "As for created things, their life consists in composition, and their death in decomposition. But matter and the universal elements cannot be entirely destroyed and annihilated. No, their annihilation is merely transformation. For instance, when man dies, his body becomes dust, but it does not become absolute non‑existence: It retains a mineral existence, but a transformation has taken place, and that composition has been subjected to decomposition. It is the same with the annihilation of all other beings; for existence does not become absolute non‑existence, and absolute non‑existence does not acquire existence."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 9,
-    "title": "The Procession of the Human Spirit from God",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "The Procession of the Human Spirit from God"
+      },
       {
         "text": "Question: In what manner does the human spirit proceed from God, since in the Torah it is said that God breathed the spirit into the body of man?"
       },
@@ -2262,19 +1926,11 @@
       },
       {
         "text": "The Sun of Truth, as we have said, has ever remained in the same condition and undergoes neither change nor alteration, neither transformation nor vicissitude. It has neither beginning nor end. But the sanctified Reality of the Word of God is even as a clear, spotless, and shining mirror wherein the heat and light, the form and image of the Sun of Truth—that is to say, all its perfections—are reflected. That is why Christ says in the Gospel, “The Father is in the Son”, meaning that the perfections of the Sun of Truth shine resplendent in this mirror. Glorified be He Who has cast His splendour upon this Reality that is sanctified above all created things!"
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 10,
-    "title": "Spirit, Soul, and Mind",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Spirit, Soul, and Mind"
+      },
       {
         "text": "Question: What is the difference between mind, spirit, and soul?"
       },
@@ -2295,19 +1951,11 @@
       },
       {
         "text": "This explanation, however brief, is complete. Reflect upon it and, God willing, you will grasp the details."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 11,
-    "title": "The Outward and the Inward Powers of Man",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "The Outward and the Inward Powers of Man"
+      },
       {
         "text": "There are five outward material powers in man which are the means of perception—that is, five powers whereby man perceives material things. They are sight, which perceives sensible forms; hearing, which perceives audible sounds; smell, which perceives odours; taste, which perceives edible things; and touch, which is distributed throughout the body and which perceives tactile realities. These five powers perceive external objects."
       },
@@ -2319,19 +1967,11 @@
       },
       {
         "text": "The outward powers are five: the power of sight, of hearing, of taste, of smell, and of touch. The inward powers are also five: the common faculty and the powers of imagination, thought, comprehension, and memory."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 12,
-    "title": "The Differences in Human Character",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "The Differences in Human Character"
+      },
       {
         "text": "Question: How many kinds of character are there in man and what are the causes of the differences and variations among them?"
       },
@@ -2370,19 +2010,11 @@
       },
       {
         "text": "This question has now been elucidated most clearly."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 13,
-    "title": "The Extent and Limitation of Human Comprehension",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "The Extent and Limitation of Human Comprehension"
+      },
       {
         "text": "Question: How far does human comprehension extend, and what are its limitations?"
       },
@@ -2397,19 +2029,11 @@
       },
       {
         "text": "The holy Manifestations have three stations: the corporeal station, the station of the rational soul, and the station of perfect manifestation of the divine splendour. Their bodies perceive things only according to the capacity of the material world, and so it is that They have at certain times expressed physical weakness. For example: “I was asleep and unconscious; the breeze of God wafted over Me, awoke Me and summoned Me to voice His call”; or when Christ was baptised in His thirtieth year and the Holy Spirit descended upon Him, having not manifested itself in Him before this time. All these things refer to the corporeal station of the Manifestations, but Their heavenly station encompasses all things, is aware of all mysteries, is informed of all signs, and rules supreme over all things. And this is equally true both before and after the intimation of Their mission. That is why Christ said: “I am Alpha and Omega, the first and the last”—that is, there has never been, nor shall there ever be, any change or alteration in Me."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 14,
-    "title": "Man’s Comprehension of God",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Man’s Comprehension of God"
+      },
       {
         "text": "Question: To what extent can human perception comprehend God?"
       },
@@ -2439,19 +2063,11 @@
       },
       {
         "text": "We cherish the hope that the loved ones of God, like unto an attractive force, will draw these bounties from their very source and arise with such radiance and exert such influence as to become the perspicuous signs of the Sun of Truth."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 15,
-    "title": "The Immortality of the Spirit (1)",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "The Immortality of the Spirit (1)"
+      },
       {
         "text": "Having established the existence of the human spirit, we must now establish its immortality."
       },
@@ -2475,19 +2091,11 @@
       },
       {
         "text": "Tomorrow we will give other proofs."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 16,
-    "title": "The Immortality of the Spirit (2)",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [16],
+        "title": "The Immortality of the Spirit (2)"
+      },
       {
         "text": "Yesterday we were discussing the immortality of the spirit. Know that the influence and perception of the human spirit is of two kinds; that is, the human spirit has two modes of operation and understanding. One mode is through the mediation of bodily instruments and organs. Thus it sees with the eye, hears with the ear, speaks with the tongue. These are actions of the spirit and operations of the human reality, but they occur through the mediation of bodily instruments. Thus, it is the spirit that sees, but by means of the eye; it is the spirit that hears, but by means of the ear; it is the spirit that speaks, but by means of the tongue."
       },
@@ -2505,19 +2113,11 @@
       },
       {
         "text": "We have already explained that the spirit of man is not contained within the body, for it is freed and sanctified from ingress and egress, which are among the properties of material bodies. Rather, the connection of the spirit with the body is like that of the sun with the mirror. Briefly, the human spirit is always in one condition. It neither falls ill with the illness of the body nor is made healthy by the latter’s health; it does not become weak or incapacitated, wretched or downtrodden, diminished or lessened—that is, it suffers no harm or ill effect on account of the infirmities of the body, even if the body were to waste away, or if the hands, feet, and tongue were to be cut off, or if the powers of sight and hearing were to be disrupted. It is therefore evident and established that the spirit is different from the body and that its immortality is not conditioned upon the latter’s, but that the spirit rules supreme in the world of the body, and that its power and influence are as plain and visible as the bounty of the sun in a mirror. But when the mirror is covered with dust or broken, it will be deprived of the rays of the sun."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 17,
-    "title": "The Infinite Perfections of Existence and the Progress of the Soul in the Next World",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [17],
+        "title": "The Infinite Perfections of Existence and the Progress of the Soul in the Next World"
+      },
       {
         "text": "Know that the degrees of existence are finite—the degrees of servitude, of prophethood, and of Divinity—but that the perfections of God and of creation are infinite. If you examine the matter with care, you will see that even in their most outward sense the perfections of existence are infinite; for it is impossible to find any created thing such that nothing superior to it can be imagined. For example, one cannot find in the mineral kingdom a ruby, or in the vegetable kingdom a rose, or in the animal kingdom a nightingale, such that an even better specimen cannot be imagined."
       },
@@ -2538,19 +2138,11 @@
       },
       {
         "text": "It is even possible for those who have died in sin and unbelief to be transformed, that is, to become the object of divine forgiveness. This is through the grace of God and not through His justice, for grace is to bestow without desert, and justice is to give that which is deserved. As we have the power to pray for those souls here, so too will we have the same power in the next world, the world of the Kingdom. Are not all the creatures in that world the creation of God? They must therefore be able to progress in that world as well. And just as they can seek illumination here through supplication, so too can they plead there for forgiveness and seek illumination through prayer and supplication. Thus, as souls can progress in this world through their entreaties and supplications, or through the prayers of holy souls, so too after death can they progress through their own prayers and supplications, particularly if they become the object of the intercession of the holy Manifestations."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 18,
-    "title": "The Progress of All Things within Their Own Degree",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [18],
+        "title": "The Progress of All Things within Their Own Degree"
+      },
       {
         "text": "Know that nothing that exists remains in a state of repose—that is, all things are in motion. They are either growing or declining, either coming from non‑existence into existence or passing from existence into non‑existence. So this flower, this hyacinth, was for a time coming from non‑existence into existence and is now passing from existence into non‑existence. This is called essential or natural motion, and it can in no wise be dissociated from created things, for it is one of their essential requirements, just as it is an essential requirement of fire to burn."
       },
@@ -2559,19 +2151,11 @@
       },
       {
         "text": "Thus, you see that however much this mineral may progress, its progress remains within its own degree; you cannot possibly bring this crystal, for example, to a state where it gains the power of sight. The moon, howsoever it may progress, can never become the shining sun, and its apogee and perigee will always remain within its own degree. And however far the Apostles might have progressed, they could never have become Christ. It is true that coal can become a diamond, but both are in the mineral degree and their constituent parts are the same."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 19,
-    "title": "The Station of Man and His Progress after Death",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [19],
+        "title": "The Station of Man and His Progress after Death"
+      },
       {
         "text": "When we examine all things with the eye of discernment, we observe that they are generally confined to three categories: mineral, vegetable, and animal. Thus there are three classes of beings and each class has its associated species. Man is the most distinguished species in that he combines the perfections of all three classes—that is, he possesses a material body, the power of growth, and the power of sensation. Beyond the mineral, vegetable, and animal perfections, however, he also possesses a special perfection of which other created things are bereft, namely, the perfections of the mind. Thus man is the noblest of all existing things."
       },
@@ -2592,19 +2176,11 @@
       },
       {
         "text": "And as the perfections of man are infinite, he can also advance in these perfections after his ascension from this world."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 20,
-    "title": "Faith and Works",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [20],
+        "title": "Faith and Works"
+      },
       {
         "text": "Question: It is said in the Kitáb‑i‑Aqdas: “. . .whoso is deprived thereof, hath gone astray, though he be the author of every righteous deed”. What is the meaning of this verse?"
       },
@@ -2616,19 +2192,11 @@
       },
       {
         "text": "This blessed verse means, therefore, that good deeds alone, without the recognition of God, cannot lead to eternal redemption, to everlasting success and salvation, and to admittance into the Kingdom of God."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 21,
-    "title": "The Subsistence of the Rational Soul after the Death of the Body",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [21],
+        "title": "The Subsistence of the Rational Soul after the Death of the Body"
+      },
       {
         "text": "Question: After the body has been cast off and the spirit has taken flight, through what will the rational soul subsist? Let us suppose that those souls who are aided by the outpourings of the Holy Spirit attain true existence and everlasting life. But what becomes of those rational souls who are veiled from God?"
       },
@@ -2652,19 +2220,11 @@
       },
       {
         "text": "Answer: These children abide under the shadow of the Divine Providence, and, as they have committed no sin and are unsullied by the defilements of the world of nature, they will become the manifestations of divine bounty and the glances of the eye of divine mercy will be directed towards them."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 22,
-    "title": "Eternal Life and Entrance into the Kingdom of God",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [22],
+        "title": "Eternal Life and Entrance into the Kingdom of God"
+      },
       {
         "text": "You have asked concerning eternal life and entrance into the Kingdom. The Kingdom is outwardly referred to as “heaven”, but this is an expression and likeness and not a factual statement or reality. For the Kingdom is not a material location but is sanctified above time and place. It is a spiritual realm, a divine world, and it is the seat of the sovereignty of the almighty Lord. It is exalted above bodies and all that is corporeal, and it is freed and sanctified from the idle conjectures of men. For to be confined to place is a characteristic of bodies and not of spirits: Time and place encompass the body, not the mind and the soul."
       },
@@ -2694,19 +2254,11 @@
       },
       {
         "text": "Likewise, those souls who are veiled from God, although they exist both in this world and in the world to come, are non‑existent and forgotten in relation to the sanctified existence of the children of the divine Kingdom."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 23,
-    "title": "Two Kinds of Fate",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [23],
+        "title": "Two Kinds of Fate"
+      },
       {
         "text": "Question: Is fate, which is mentioned in the Holy Books, an irrevocable thing? If so, what use or benefit will come from seeking to avoid it?"
       },
@@ -2715,19 +2267,11 @@
       },
       {
         "text": "But conditional fate may be likened to this: While some oil yet remains, a strong wind blows and extinguishes the lamp. This fate is conditional. It is expedient to avoid this fate, to guard oneself against it, and to be cautious and prudent. But the irrevocable fate, which is like the depletion of the oil of the lamp, cannot be changed, altered, or delayed. It is bound to occur, and the lamp will undoubtedly be extinguished."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 24,
-    "title": "The Influence of the Stars and the Interconnectedness of All Things",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [24],
+        "title": "The Influence of the Stars and the Interconnectedness of All Things"
+      },
       {
         "text": "Question: Do the stars of the heavens have a spiritual influence upon human souls or not?"
       },
@@ -2748,19 +2292,11 @@
       },
       {
         "text": "This matter deserves close examination and calls for careful attention and deep reflection."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 25,
-    "title": "Free Will and its Limits",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [25],
+        "title": "Free Will and its Limits"
+      },
       {
         "text": "Question: Is man free and unconstrained in all his actions, or is he compelled and constrained?"
       },
@@ -2787,19 +2323,11 @@
       },
       {
         "text": "This question has been clearly explained and elucidated."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 26,
-    "title": "Spiritual Disclosures",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [26],
+        "title": "Spiritual Disclosures"
+      },
       {
         "text": "Question: Some people believe that they have spiritual disclosures, that is, that they converse with spirits. How is this?"
       },
@@ -2826,19 +2354,11 @@
       },
       {
         "text": "Our meaning is that this condition which we call conversation or communication with spirits is of two kinds: One is sheer delusion, and the other, which consists in the visions mentioned in the Bible, such as those of Isaiah and John and the meeting of Christ with Moses and Elijah, is real. The latter exert a marvellous effect upon minds and thoughts and produce powerful attractions in the hearts."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 27,
-    "title": "Healing without Medicine",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [27],
+        "title": "Healing without Medicine"
+      },
       {
         "text": "Question: Some heal the sick by spiritual means—that is, without medicine. How is this?"
       },
@@ -2859,19 +2379,11 @@
       },
       {
         "text": "But the fourth kind is when healing is brought about through the power of the Holy Spirit. This depends neither upon physical contact, nor upon sight, nor even upon presence: It is not dependent upon any condition. Whether the disease be mild or severe, whether there be contact between the bodies or not, whether a connection be established between patient and physician or not, whether the patient be present or not, this healing takes place through the power of the Holy Spirit."
-      }
-    ]
-  },
-  {
-    "path": [
-      "Some Answered Questions",
-      "Part 4: On the Origin, Powers, and Conditions of Man"
-    ],
-    "item": 28,
-    "title": "Healing by Material Means",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [28],
+        "title": "Healing by Material Means"
+      },
       {
         "text": "We mentioned, in connection with the question of spiritual medicine and healing, how illnesses can be cured through spiritual powers."
       },
@@ -2899,12 +2411,16 @@
     ]
   },
   {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 1,
-    "title": "On Good and Evil",
+    "path": ["Some Answered Questions"],
+    "item": 7,
+    "title": "Part 5: Miscellaneous Subjects",
     "author": "‘Abdu’l‑Bahá",
     "years": [1904, 1906],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "On Good and Evil"
+      },
       {
         "text": "To explain the truth of this matter is difficult indeed. Know that created things are of two kinds: material and spiritual, sensible and intelligible. That is, some are perceptible to the senses, while others are only perceived by the mind."
       },
@@ -2925,31 +2441,21 @@
       },
       {
         "text": "It is thus evident that all evil is mere non‑existence. Good has a positive existence; evil is merely its absence."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 2,
-    "title": "Two Kinds of Torment",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "Two Kinds of Torment"
+      },
       {
         "text": "Know that there are two kinds of torment: subtle and palpable. For example, ignorance is itself a torment, but it is a subtle torment; indifference to God is itself a torment; falsehood is itself a torment; iniquity and treachery are torments. Indeed, all the human imperfections are torments, but they are subtle torments. A person endowed with a conscience will certainly prefer to be killed rather than to sin, and to have his tongue cut out rather than to slander and lie."
       },
       {
         "text": "The other kind of torment is palpable and consists in physical punishments such as imprisonment, beating, expulsion, and banishment. But for the people of God, to be veiled from Him is still more grievous than all these torments."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 3,
-    "title": "The Justice and Mercy of God",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "The Justice and Mercy of God"
+      },
       {
         "text": "Know that justice consists in rendering to each his due. For example, when a workman labours from morning till evening, justice requires that he be paid his wage, but bounty consists in rewarding him even when he has done no work and expended no effort. So when you give alms to a poor man who has made no effort and done nothing for your benefit to deserve it, this is bounty. Thus, Christ besought forgiveness for those responsible for His death: This is called bounty."
       },
@@ -2967,16 +2473,11 @@
       },
       {
         "text": "As for the body politic, it punishes the aggressor but not to exact revenge. The purpose of this punishment, rather, is to deter and dissuade, and to oppose iniquity and aggression, so as to prevent others from extending their hand likewise in oppression. But if the victim chooses to forgive and to show instead the greatest mercy, this is most approved in the sight of God."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 4,
-    "title": "The Punishment of Criminals",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "The Punishment of Criminals"
+      },
       {
         "text": "Question: Should a criminal be punished, or should he be forgiven and his crime overlooked?"
       },
@@ -3018,16 +2519,11 @@
       },
       {
         "text": "Therefore, the body politic must seek to prevent crimes from being committed in the first place, rather than devise harsh punishments and penalties."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 5,
-    "title": "Strikes",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Strikes"
+      },
       {
         "text": "You have asked about strikes. Great difficulties have arisen and will continue to arise from this issue. The origin of these difficulties is twofold: One is the excessive greed and rapacity of the factory owners, and the other is the gratuitous demands, the greed, and the intransigence of the workers. One must therefore seek to address both."
       },
@@ -3066,16 +2562,11 @@
       },
       {
         "text": "This is the meaning of the righteous deeds mentioned in the heavenly Books and Scriptures."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 6,
-    "title": "The Reality of the World of Being",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "The Reality of the World of Being"
+      },
       {
         "text": "The sophists hold that all existence is illusory, indeed, that each and every being is an absolute illusion that has no existence whatsoever—in other words, that the existence of created things is like a mirage, or like the reflection of an image in water or in a mirror, which is merely an appearance devoid of any basis, foundation, or ascertainable reality."
       },
@@ -3087,16 +2578,11 @@
       },
       {
         "text": "That is why Christ referred to those who were heedless of God and denied His truth as dead, even though to outward seeming they were alive; for in relation to the faithful they were indeed dead, blind, deaf, and dumb. That is what Christ meant when He said, “let the dead bury their dead”."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 7,
-    "title": "Preexistence and Origination",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Preexistence and Origination"
+      },
       {
         "text": "Question: How many kinds of preexistence and origination are there?"
       },
@@ -3117,16 +2603,11 @@
       },
       {
         "text": "Thus it is clear and evident that although created things exist, in relation to God and to His Word they are non‑existent. This is the firstness and the lastness of the Word of God, Who says, “I am the Alpha and the Omega”, for He is both the source of grace and its ultimate goal. The Creator has ever had a creation, and the rays have ever emanated and shone forth from the Sun of Truth; for a lightless sun would be impenetrable darkness. The names and attributes of God require the existence of things, and no cessation in the outpouring of God’s ancient grace can ever be contemplated, for this would be contrary to the divine perfections."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 8,
-    "title": "Reincarnation",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Reincarnation"
+      },
       {
         "text": "Question: What is to be said about reincarnation, which is a belief upheld by the followers of certain religions?"
       },
@@ -3171,16 +2652,11 @@
       },
       {
         "text": "A lamp was lit in this room last night: When another lamp is lit tonight, we say that the light of last night is shining again. When the water that had ceased to flow from a fountain flows a second time, we say that it is the same water flowing once again, or we say that this light is the same as the former light. Likewise, last spring flowers and sweet‑scented herbs bloomed and delicious fruits were produced; next year we say that those delicious fruits and those blossoms, flowers, and sweet herbs have returned. It is not that the very same constituents of last year’s flowers, after decomposing, have recombined and returned. No, the meaning is that the same freshness and delicacy, the same pleasing fragrance and wondrous colour that characterised last year’s flowers are to be exactly found in the flowers of this year. Briefly, the point is the resemblance and similarity between the former and the latter flowers. This is the “return” which is mentioned in the heavenly Scriptures. It is fully explained by Bahá’u’lláh in the Kitáb‑i‑Íqán: Refer to it, that you may be informed of the truth of the divine mysteries. Upon you be greetings and praise."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 9,
-    "title": "The Unity of Existence",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "The Unity of Existence"
+      },
       {
         "text": "Question: What is the nature of the “unity of existence” propounded by the Theosophists and the Ṣúfís, and what in reality do they intend by it? Is this belief true or not?"
       },
@@ -3237,16 +2713,11 @@
       },
       {
         "text": "After dinner, and considering the lateness of the hour, there is no time to explain further."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 10,
-    "title": "The Four Criteria of Comprehension",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "The Four Criteria of Comprehension"
+      },
       {
         "text": "There are only four accepted criteria of comprehension, that is, four criteria whereby the realities of things are understood."
       },
@@ -3270,16 +2741,11 @@
       },
       {
         "text": "But the grace of the Holy Spirit is the true criterion regarding which there is no doubt or uncertainty. That grace consists in the confirmations of the Holy Spirit which are vouchsafed to man and through which certitude is attained."
-      }
-    ]
-  },
-  {
-    "path": ["Some Answered Questions", "Part 5: Miscellaneous Subjects"],
-    "item": 11,
-    "title": "Good Deeds and Their Spiritual Prerequisites",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1904, 1906],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Good Deeds and Their Spiritual Prerequisites"
+      },
       {
         "text": "Question: Those who do good works, who are well‑wishers of all mankind, who have a praiseworthy character, who show forth love and kindness to all people, who care for the poor, and who work for universal peace—what need do they have of the divine teachings, with which they believe they can well afford to dispense? What is the condition of such people?"
       },

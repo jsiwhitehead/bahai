@@ -47,7 +47,7 @@
             'style': ['grid-column': '2 / 4'],
             'stack': 17 / 2,
             [doc.'title'],
-            doc.'summary' & ['({doc.'summary'})'],
+            doc.'summary' & ['{doc.'summary'}'],
           ],
           [
             'fill': (i % 2 = 1) & '#f6f6f6',

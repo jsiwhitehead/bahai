@@ -5,6 +5,8 @@
     'abdul-baha-will-testament-abdul-baha-001',
     'abdul-baha-tablets-hague-abdul-baha-001',
     'abdul-baha-tablet-august-forel-001',
+    'abdul-baha-memorials-faithful-001',
+    'abdul-baha-tablets-divine-plan-001',
   ],
   : [
     'stack': 40,

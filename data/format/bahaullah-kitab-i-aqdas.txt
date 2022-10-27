@@ -503,6 +503,7 @@ O people of God! That which traineth the world is Justice, for it is upheld by t
 O people of Bahá! Ye are the dawning‑places of the love of God and the daysprings of His loving‑kindness. Defile not your tongues with the cursing and reviling of any soul, and guard your eyes against that which is not seemly. Set forth that which ye possess. If it be favourably received, your end is attained; if not, to protest is vain. Leave that soul to himself and turn unto the Lord, the Protector, the Self‑Subsisting. Be not the cause of grief, much less of discord and strife. The hope is cherished that ye may obtain true education in the shelter of the tree of His tender mercies and act in accordance with that which God desireth. Ye are all the leaves of one tree and the drops of one ocean.
 
 ## Long Obligatory Prayer
+type="Prayer"
 
 * To be recited once in twenty‑four hours
 
@@ -567,6 +568,7 @@ Praise be unto Thee, O our God, that Thou hast sent down unto us that which draw
 I testify, O my God, to that whereunto Thy chosen Ones have testified, and acknowledge that which the inmates of the all‑highest Paradise and those who have circled round Thy mighty Throne have acknowledged. The kingdoms of earth and heaven are Thine, O Lord of the worlds!
 
 ## Medium Obligatory Prayer
+type="Prayer"
 
 * To be recited daily, in the morning, at noon, and in the evening
 
@@ -597,6 +599,7 @@ I bear witness to Thy unity and Thy oneness, and that Thou art God, and that the
 * (If anyone choose to recite instead of the long verse these words: “God testifieth that there is none other God but Him, the Help in Peril, the Self‑Subsisting,” it would be sufficient. And likewise, it would suffice were he, while seated, to choose to recite these words: “I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.”)
 
 ## Short Obligatory Prayer
+type="Prayer"
 
 * To be recited once in twenty‑four hours, at noon
 
@@ -605,6 +608,7 @@ I bear witness, O my God, that Thou hast created me to know Thee and to worship 
 There is none other God but Thee, the Help in Peril, the Self‑Subsisting.
 
 ## Prayer for the Dead
+type="Prayer"
 
 O my God! This is Thy servant and the son of Thy servant who hath believed in Thee and in Thy signs, and set his face towards Thee, wholly detached from all except Thee. Thou art, verily, of those who show mercy the most merciful.
 

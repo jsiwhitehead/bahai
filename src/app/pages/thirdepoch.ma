@@ -9,8 +9,6 @@
     'the-universal-house-of-justice-messages-463',
     'the-universal-house-of-justice-messages-448',
     'the-universal-house-of-justice-messages-468',
-    'the-universal-house-of-justice-messages-482',
-    'additional-the-universal-house-of-justice-016',
   ],
   : [
     'stack': 40,

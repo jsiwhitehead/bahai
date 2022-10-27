@@ -14,7 +14,11 @@
         'bold': 'true',
         'underline': !index,
         'align': 'center',
-        doc.'title',
+        'stack': 15,
+        ...{
+          ? doc.'title': [[doc.'title']],
+          : [[doc.'path'.1], ['#{doc.'item'}']],
+        }
       ],
       [
         'stack': 25,
@@ -122,7 +126,7 @@
                       'size': 17,
                       'inline': 'true',
                       ...parts->map.[part: [
-                        'fill': part.'count' > 0 &
+                        'fill': highlight & part.'count' > 0 &
                           'rgb(255, {240 - part.'count' * 10}, {240 - part.'count' * 10})',
                         'pad': [2.5, 0],
                         p.'text'->slice(part.'start', part.'end')
@@ -148,7 +152,7 @@
                       'fill': part.'count' > 0 & 'rgb(255, {strength}, {strength})',
                       'text': p.'text'->slice(part.'start', part.'end'),
                       : {
-                        ? p.'index' = 1 & i = 1: [
+                        ? p.'index' = 1 & part.'first': [
                           'fill': highlight & fill,
                           'bold': highlight & part.'quote',
                           'size': 17 * 3,

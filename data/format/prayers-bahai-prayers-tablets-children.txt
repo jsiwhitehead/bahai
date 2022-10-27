@@ -281,6 +281,7 @@ May the glory of the Most Glorious rest upon you!
 
 #
 author="‘Abdu’l‑Bahá"
+type=""
 
 O ye tender seedlings in the garden of the love of God!
 

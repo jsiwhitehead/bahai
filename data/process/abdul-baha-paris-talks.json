@@ -1,11 +1,15 @@
 [
   {
-    "path": ["Paris Talks", "Part One"],
+    "path": ["Paris Talks"],
     "item": 1,
-    "title": "The Duty of Kindness and Sympathy towards Strangers and Foreigners",
+    "title": "Part One",
     "author": "‘Abdu’l‑Bahá",
     "years": [1911, 1913],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "The Duty of Kindness and Sympathy towards Strangers and Foreigners"
+      },
       {
         "text": "October 16th and 17th, 1911"
       },
@@ -59,16 +63,11 @@
       },
       {
         "text": "This is what the near approach to God requires from you, and this is what I expect of you."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 2,
-    "title": "The Power and Value of True Thought Depend upon Its Manifestation in Action",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "The Power and Value of True Thought Depend upon Its Manifestation in Action"
+      },
       {
         "text": "October 18th"
       },
@@ -86,16 +85,11 @@
       },
       {
         "text": "This state is impossible with Spiritual Philosophers, for they ever express their high and noble thoughts in actions."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 3,
-    "title": "God Is the Great Compassionate Physician Who Alone Gives True Healing",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "God Is the Great Compassionate Physician Who Alone Gives True Healing"
+      },
       {
         "text": "October 19th"
       },
@@ -128,16 +122,11 @@
       },
       {
         "text": "It is my earnest prayer, that ye be not like unto this, but rather that ye keep your faces steadfastly turned to the light, so that ye may be as lighted torches in the dark places of life."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 4,
-    "title": "The Need for Union between the Peoples of the East and West",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "The Need for Union between the Peoples of the East and West"
+      },
       {
         "text": "Friday, October 20th"
       },
@@ -170,16 +159,11 @@
       },
       {
         "text": "This will be the paradise which is to come on earth, when all mankind will be gathered together under the tent of unity in the Kingdom of Glory."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 5,
-    "title": "God Comprehends All; He Cannot Be Comprehended",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "God Comprehends All; He Cannot Be Comprehended"
+      },
       {
         "text": "Friday evening, October 20th"
       },
@@ -263,16 +247,11 @@
       },
       {
         "text": "If you are faithful to your great work, following the Holy Sun of Truth without swerving, then will the blessed day of universal brotherhood dawn on this beautiful city."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 6,
-    "title": "The Pitiful Causes of War, and the Duty of Everyone to Strive for Peace",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "The Pitiful Causes of War, and the Duty of Everyone to Strive for Peace"
+      },
       {
         "text": "October 21st"
       },
@@ -317,16 +296,11 @@
       },
       {
         "text": "In this room today are members of many races, French, American, English, German, Italian, brothers and sisters meeting in friendship and harmony! Let this gathering be a foreshadowing of what will, in very truth, take place in this world, when every child of God realises that they are leaves of one tree, flowers in one garden, drops in one ocean, and sons and daughters of one Father, whose name is love!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 7,
-    "title": "The Sun of Truth",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "The Sun of Truth"
+      },
       {
         "text": "October 22nd"
       },
@@ -353,16 +327,11 @@
       },
       {
         "text": "God leaves not His children comfortless, but, when the darkness of winter overshadows them, then again He sends His Messengers, the Prophets, with a renewal of the blessed spring. The Sun of Truth appears again on the horizon of the world shining into the eyes of those who sleep, awaking them to behold the glory of a new dawn. Then again will the tree of humanity blossom and bring forth the fruit of righteousness for the healing of the nations. Because man has stopped his ears to the Voice of Truth and shut his eyes to the Sacred Light, neglecting the Law of God, for this reason has the darkness of war and tumult, unrest and misery, desolated the earth. I pray that you will all strive to bring each child of God into the radiance of the Sun of Truth, that the darkness may be dissipated by the penetrating rays of its glory, and the winter’s hardness and cold may be melted away by the merciful warmth of its shining."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 8,
-    "title": "The Light of Truth Is Now Shining upon the East and the West",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "The Light of Truth Is Now Shining upon the East and the West"
+      },
       {
         "text": "Monday, October 23rd"
       },
@@ -392,16 +361,11 @@
       },
       {
         "text": "My earnest desire is that you will all strive and work for this glorious end; that you will be faithful and loving workers in the building of the new spiritual civilisation; the elect of God, in willing joyful obedience carrying out His supreme design! Success is truly near at hand, for the Flag of Divinity has been raised aloft, and the Sun of the Righteousness of God appeareth upon the horizon in the sight of all men!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 9,
-    "title": "The Universal Love",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "The Universal Love"
+      },
       {
         "text": "October 24th"
       },
@@ -488,16 +452,11 @@
       },
       {
         "text": "Look at me: I am so feeble, yet I have had the strength given me to come amongst you: a poor servant of God, who has been enabled to give you this message! I shall not be with you long! One must never consider one’s own feebleness, it is the strength of the Holy Spirit of Love, which gives the power to teach. The thought of our own weakness could only bring despair. We must look higher than all earthly thoughts; detach ourselves from every material idea, crave for the things of the spirit; fix our eyes on the everlasting bountiful Mercy of the Almighty, who will fill our souls with the gladness of joyful service to His command “Love One Another.”"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 10,
-    "title": "The Imprisonment of ‘Abdu’l‑Bahá",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "The Imprisonment of ‘Abdu’l‑Bahá"
+      },
       {
         "text": "4 Avenue de Camoëns,"
       },
@@ -536,16 +495,11 @@
       },
       {
         "text": "Henceforward we shall always be together, heart and soul and spirit, pressing forward in the work till all men are gathered together under the tent of the Kingdom, singing the songs of peace."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 11,
-    "title": "God’s Greatest Gift to Man",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "God’s Greatest Gift to Man"
+      },
       {
         "text": "Thursday, October 26th"
       },
@@ -587,16 +541,11 @@
       },
       {
         "text": "Study the sciences, acquire more and more knowledge. Assuredly one may learn to the end of one’s life! Use your knowledge always for the benefit of others; so may war cease on the face of this beautiful earth, and a glorious edifice of peace and concord be raised. Strive that your high ideals may be realised in the Kingdom of God on earth, as they will be in Heaven."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 12,
-    "title": "The Clouds That Obscure the Sun of Truth",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "The Clouds That Obscure the Sun of Truth"
+      },
       {
         "text": "4 Avenue de Camoëns,"
       },
@@ -635,16 +584,11 @@
       },
       {
         "text": "This is my prayer for you all."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 13,
-    "title": "Religious Prejudices",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Religious Prejudices"
+      },
       {
         "text": "October 27th"
       },
@@ -707,16 +651,11 @@
       },
       {
         "text": "Bahá’u’lláh spent His life teaching this lesson of Love and Unity. Let us then put away from us all prejudice and intolerance, and strive with all our hearts and souls to bring about understanding and unity between Christians and Muslims."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 14,
-    "title": "The Benefits of God to Man",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "The Benefits of God to Man"
+      },
       {
         "text": "4 Avenue de Camoëns,"
       },
@@ -755,16 +694,11 @@
       },
       {
         "text": "The prayer of the prophets of God has always been, and still is: Oh God, I long to lay down my life in the path to Thee! I desire to shed my blood for Thee, and to make the supreme sacrifice."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 15,
-    "title": "Beauty and Harmony in Diversity",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Beauty and Harmony in Diversity"
+      },
       {
         "text": "October 28th"
       },
@@ -803,16 +737,11 @@
       },
       {
         "text": "Bahá’u’lláh has drawn the circle of unity, He has made a design for the uniting of all the peoples, and for the gathering of them all under the shelter of the tent of universal unity. This is the work of the Divine Bounty, and we must all strive with heart and soul until we have the reality of unity in our midst, and as we work, so will strength be given unto us. Leave all thought of self, and strive only to be obedient and submissive to the Will of God. In this way only shall we become citizens of the Kingdom of God, and attain unto life everlasting."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 16,
-    "title": "The True Meaning of the Prophecies Concerning the Coming of Christ",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [16],
+        "title": "The True Meaning of the Prophecies Concerning the Coming of Christ"
+      },
       {
         "text": "October 30th"
       },
@@ -845,16 +774,11 @@
       },
       {
         "text": "The Spirit breathing through the Holy Scriptures is food for all who hunger. God Who has given the revelation to His Prophets will surely give of His abundance daily bread to all those who ask Him faithfully."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 17,
-    "title": "The Holy Spirit, the Intermediary Power between God and Man",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [17],
+        "title": "The Holy Spirit, the Intermediary Power between God and Man"
+      },
       {
         "text": "4 Avenue de Camoëns,"
       },
@@ -899,16 +823,11 @@
       },
       {
         "text": "The two great apostles, St. Peter and St. John the Evangelist, were once simple, humble workmen, toiling for their daily bread. By the Power of the Holy Spirit their souls were illumined, and they received the eternal blessings of the Lord Christ."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 18,
-    "title": "The Two Natures in Man",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [18],
+        "title": "The Two Natures in Man"
+      },
       {
         "text": "November 1st"
       },
@@ -932,16 +851,11 @@
       },
       {
         "text": "Therefore I say unto you that ye should strive to follow the counsels of these Blessed Books, and so order your lives that ye may, following the examples set before you, become yourselves the saints of the Most High!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 19,
-    "title": "Material and Spiritual Progress",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [19],
+        "title": "Material and Spiritual Progress"
+      },
       {
         "text": "November 2nd"
       },
@@ -983,16 +897,11 @@
       },
       {
         "text": "I pray for you one and all that you may receive the Bounties of the Holy Spirit; so will you become in truth enlightened, and progress ever onward and upward to the Kingdom of God. Then shall your hearts be prepared to receive the glad tidings, your eyes shall be opened and you will see the Glory of God; your ears shall be unstopped and you will hear the call of the Kingdom, and with tongue made eloquent shall you call men to the realisation of the Divine Power and Love of God!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 20,
-    "title": "The Evolution of Matter and Development of the Soul",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [20],
+        "title": "The Evolution of Matter and Development of the Soul"
+      },
       {
         "text": "November 3rd"
       },
@@ -1043,16 +952,11 @@
       },
       {
         "text": "It is my earnest prayer that we may all be in the Kingdom of God, and near Him."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 21,
-    "title": "The Spiritual Meetings in Paris",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [21],
+        "title": "The Spiritual Meetings in Paris"
+      },
       {
         "text": "November 4th"
       },
@@ -1073,16 +977,11 @@
       },
       {
         "text": "Lift up your hearts above the present and look with eyes of faith into the future! Today the seed is sown, the grain falls upon the earth, but behold the day will come when it shall rise a glorious tree and the branches thereof shall be laden with fruit. Rejoice and be glad that this day has dawned, try to realise its power, for it is indeed wonderful! God has crowned you with honour and in your hearts has He set a radiant star; verily the light thereof shall brighten the whole world!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 22,
-    "title": "The Two Kinds of Light",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [22],
+        "title": "The Two Kinds of Light"
+      },
       {
         "text": "November 5th"
       },
@@ -1118,16 +1017,11 @@
       },
       {
         "text": "I pray that God in His mercy may illumine your hearts and souls with His glorious Light, then shall each one of you shine as a radiant star in the dark places of the world."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 23,
-    "title": "Spiritual Aspiration in the West",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [23],
+        "title": "Spiritual Aspiration in the West"
+      },
       {
         "text": "‘Abdu’l‑Bahá said:"
       },
@@ -1154,16 +1048,11 @@
       },
       {
         "text": "It is my fervent prayer that the star of the East will shed its brilliant rays on the Western world, and that the people of the West may arise in strength, earnestness, and courage, to help their brethren in the East."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 24,
-    "title": "Lecture Given at a Studio in Paris",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [24],
+        "title": "Lecture Given at a Studio in Paris"
+      },
       {
         "text": "November 6th"
       },
@@ -1202,16 +1091,11 @@
       },
       {
         "text": "I pray to God that daily ye may advance in spirituality, that God’s love may be more and more manifested in you, that the thoughts of your hearts may be purified, and that your faces may be ever turned towards Him. May you one and all approach to the threshold of unity, and enter into the Kingdom. May each of you be like unto a flaming torch, lighted and burning bright with the fire of the Love of God."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 25,
-    "title": "Bahá’u’lláh",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [25],
+        "title": "Bahá’u’lláh"
+      },
       {
         "text": "November 7th"
       },
@@ -1280,16 +1164,11 @@
       },
       {
         "text": "Although the surveillance was unremittingly strict He came and went as He wished! He died in a house situated about three kilometres from St. Jean d’Acre."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 26,
-    "title": "Good Ideas Must Be Carried into Action",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [26],
+        "title": "Good Ideas Must Be Carried into Action"
+      },
       {
         "text": "November 8th"
       },
@@ -1319,16 +1198,11 @@
       },
       {
         "text": "God, who sees all hearts, knows how far our lives are the fulfilment of our words."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 27,
-    "title": "The True Meaning of Baptism by Water and Fire",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [27],
+        "title": "The True Meaning of Baptism by Water and Fire"
+      },
       {
         "text": "November 9th"
       },
@@ -1364,16 +1238,11 @@
       },
       {
         "text": "Thus I exhort each of you, realising its power and beauty, to sacrifice all your thoughts, words and actions to bring the knowledge of the Love of God into every heart."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 28,
-    "title": "Discourse at “l’Alliance Spiritualiste”",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [28],
+        "title": "Discourse at “l’Alliance Spiritualiste”"
+      },
       {
         "text": "Salle de l’Athénée, St. Germain, Paris,"
       },
@@ -1448,16 +1317,11 @@
       },
       {
         "text": "May all our actions be spiritual, and all our interests and affections be centred in the Kingdom of Glory!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 29,
-    "title": "The Evolution of the Spirit",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [29],
+        "title": "The Evolution of the Spirit"
+      },
       {
         "text": "15 Rue Greuze, Paris,"
       },
@@ -1589,16 +1453,11 @@
       },
       {
         "text": "My prayer for you is that your spiritual faculties and aspirations may daily increase, and that you will never allow the material senses to veil from your eyes the glories of the Heavenly Illumination."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 30,
-    "title": "The Desires and Prayers of ‘Abdu’l‑Bahá",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [30],
+        "title": "The Desires and Prayers of ‘Abdu’l‑Bahá"
+      },
       {
         "text": "November 15th"
       },
@@ -1634,16 +1493,11 @@
       },
       {
         "text": "I counsel you that you study earnestly the teachings of Bahá’u’lláh, so that, God helping you, you may in deed and truth become Bahá’ís."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 31,
-    "title": "Concerning Body, Soul and Spirit",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [31],
+        "title": "Concerning Body, Soul and Spirit"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris,"
       },
@@ -1679,16 +1533,11 @@
       },
       {
         "text": "Let your ambition be the achievement on earth of a Heavenly civilisation! I ask for you the supreme blessing, that you may be so filled with the vitality of the Heavenly Spirit that you may be the cause of life to the world."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 32,
-    "title": "The Bahá’ís Must Work with Heart and Soul to Bring About a Better Condition in the World",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [32],
+        "title": "The Bahá’ís Must Work with Heart and Soul to Bring About a Better Condition in the World"
+      },
       {
         "text": "November 19th"
       },
@@ -1736,16 +1585,11 @@
       },
       {
         "text": "Only have faith, patience and courage—this is but the beginning, but surely you will succeed, for God is with you!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 33,
-    "title": "On Calumny",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [33],
+        "title": "On Calumny"
+      },
       {
         "text": "Monday, November 20th"
       },
@@ -1823,16 +1667,11 @@
       },
       {
         "text": "But always the greater the cause the more do enemies arise in larger and larger numbers to attempt its overthrow! The brighter the light the darker the shadow! Our part it is to act in accordance with the teaching of Bahá’u’lláh in humility and firm steadfastness."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 34,
-    "title": "There Can Be No True Happiness and Progress without Spirituality",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [34],
+        "title": "There Can Be No True Happiness and Progress without Spirituality"
+      },
       {
         "text": "November 21st"
       },
@@ -1865,16 +1704,11 @@
       },
       {
         "text": "Oh, peoples and nations! Arise and work and be happy! Gather together under the tent of the unity of mankind!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 35,
-    "title": "Pain and Sorrow",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [35],
+        "title": "Pain and Sorrow"
+      },
       {
         "text": "November 22nd"
       },
@@ -1925,16 +1759,11 @@
       },
       {
         "text": "This is my earnest desire, and I pray to God to grant you this favour."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 36,
-    "title": "The Perfect Human Sentiments and Virtues",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [36],
+        "title": "The Perfect Human Sentiments and Virtues"
+      },
       {
         "text": "November 23rd"
       },
@@ -1973,16 +1802,11 @@
       },
       {
         "text": "It is my heartfelt prayer that each one of you may attain to this perfect joy!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 37,
-    "title": "The Cruel Indifference of People towards the Suffering of Foreign Races",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [37],
+        "title": "The Cruel Indifference of People towards the Suffering of Foreign Races"
+      },
       {
         "text": "November 24th"
       },
@@ -2018,16 +1842,11 @@
       },
       {
         "text": "I beseech you all to pray with heart and soul that this may be accomplished."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 38,
-    "title": "We Must Not Be Discouraged by the Smallness of Our Numbers",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [38],
+        "title": "We Must Not Be Discouraged by the Smallness of Our Numbers"
+      },
       {
         "text": "November 25th"
       },
@@ -2069,16 +1888,11 @@
       },
       {
         "text": "Only have faith in the Mercy of God, and spread the Divine Truth."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part One"],
-    "item": 39,
-    "title": "Words Spoken by ‘Abdu’l‑Bahá in Pastor Wagner’s Church (Foyer de l’Ame) in Paris",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [39],
+        "title": "Words Spoken by ‘Abdu’l‑Bahá in Pastor Wagner’s Church (Foyer de l’Ame) in Paris"
+      },
       {
         "text": "November 26th"
       },
@@ -2163,8 +1977,9 @@
     ]
   },
   {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 1,
+    "path": ["Paris Talks"],
+    "item": 2,
+    "title": "Part Two",
     "author": "‘Abdu’l‑Bahá",
     "years": [1911, 1913],
     "paragraphs": [
@@ -2173,16 +1988,11 @@
       },
       {
         "text": "The Search after Truth. The Unity of Mankind. Religion ought to be the Cause of Love and Affection (Not given separately). The Unity of Religion and Science. Abolition of Prejudices. Equalisation of Means of Existence. Equality of Men before the Law. Universal Peace. Noninterference of Religion and Politics. Equality of Sex—Education of Women. The Power of the Holy Spirit."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 2,
-    "title": "Theosophical Society, Paris",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [1],
+        "title": "Theosophical Society, Paris"
+      },
       {
         "text": "Since my arrival in Paris, I have been told of the Theosophical Society, and I know that it is composed of honoured and respected men. You are men of intellect and thought, men with spiritual ideals, and it is a great pleasure for me to be among you."
       },
@@ -2308,16 +2118,11 @@
       },
       {
         "text": "“I am very grateful to you for the kind sentiments which you have just uttered. I hope that these two movements will erelong be spread all over the earth. Then will the unity of humanity have pitched its tent in the centre of the world.”"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 3,
-    "title": "The First Principle—Search after Truth",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "The First Principle—Search after Truth"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris,"
       },
@@ -2356,16 +2161,11 @@
       },
       {
         "text": "“Seek the truth, the truth shall make you free.” So shall we see the truth in all religions, for truth is in all and truth is one!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 4,
-    "title": "The Second Principle—The Unity of Mankind",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "The Second Principle—The Unity of Mankind"
+      },
       {
         "text": "November 11th"
       },
@@ -2404,28 +2204,18 @@
       },
       {
         "text": "Bahá’u’lláh said that we should love even our enemies and be to them as friends. If all men were obedient to this principle, the greatest unity and understanding would be established in the hearts of mankind."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 5,
-    "title": "The Third Principle—Love and Affection",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "The Third Principle—Love and Affection"
+      },
       {
         "text": "[“That religion ought to be a Cause of Love and Affection” is much emphasised in many of the Discourses of which the Notes are given in this book, as well as in the explanation of several of the other Principles.]"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 6,
-    "title": "The Fourth Principle—The Acceptance of the Relation between Religion and Science",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "The Fourth Principle—The Acceptance of the Relation between Religion and Science"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris,"
       },
@@ -2506,16 +2296,11 @@
       },
       {
         "text": "Put all your beliefs into harmony with science; there can be no opposition, for truth is one. When religion, shorn of its superstitions, traditions, and unintelligent dogmas, shows its conformity with science, then will there be a great unifying, cleansing force in the world which will sweep before it all wars, disagreements, discords and struggles—and then will mankind be united in the power of the Love of God."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 7,
-    "title": "The Fifth Principle—The Abolition of Prejudices",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "The Fifth Principle—The Abolition of Prejudices"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris,"
       },
@@ -2584,16 +2369,11 @@
       },
       {
         "text": "I pray that the Kingdom shall come on Earth, and that all darkness shall be driven away by the effulgence of the Heavenly Sun."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 8,
-    "title": "The Sixth Principle—Means of Existence",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "The Sixth Principle—Means of Existence"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris"
       },
@@ -2635,16 +2415,11 @@
       },
       {
         "text": "The government of the countries should conform to the Divine Law which gives equal justice to all. This is the only way in which the deplorable superfluity of great wealth and miserable, demoralising, degrading poverty can be abolished. Not until this is done will the Law of God be obeyed."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 9,
-    "title": "The Seventh Principle—Equality of Men",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "The Seventh Principle—Equality of Men"
+      },
       {
         "text": "“The Laws of God are not imposition of will, or of power, or pleasure, but the resolutions of truth, reason and justice.”"
       },
@@ -2662,16 +2437,11 @@
       },
       {
         "text": "When perfect justice reigns in every country of the Eastern and Western World, then will the earth become a place of beauty. The dignity and equality of every servant of God will be acknowledged; the ideal of the solidarity of the human race, the true brotherhood of man, will be realised; and the glorious light of the Sun of Truth will illumine the souls of all men."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 10,
-    "title": "The Eighth Principle—Universal Peace",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "The Eighth Principle—Universal Peace"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris"
       },
@@ -2704,16 +2474,11 @@
       },
       {
         "text": "Therefore appreciate “Esperanto,” for it is the beginning of the carrying out of one of the most important of the Laws of Bahá’u’lláh, and it must continue to be improved and perfected."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 11,
-    "title": "The Ninth Principle—The Noninterference of Religion with Politics",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "The Ninth Principle—The Noninterference of Religion with Politics"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris,"
       },
@@ -2773,16 +2538,11 @@
       },
       {
         "text": "By His Mercy, the Divine Bounty will be showered upon you, and for this I pray!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 12,
-    "title": "The Tenth Principle—Equality of Sex",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "The Tenth Principle—Equality of Sex"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris,"
       },
@@ -2833,16 +2593,11 @@
       },
       {
         "text": "Women must make the greatest effort to acquire spiritual power and to increase in the virtue of wisdom and holiness until their enlightenment and striving succeeds in bringing about the unity of mankind. They must work with a burning enthusiasm to spread the Teaching of Bahá’u’lláh among the peoples, so that the radiant light of the Divine Bounty may envelop the souls of all the nations of the world!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 13,
-    "title": "The Eleventh Principle—The Power of the Holy Spirit",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "The Eleventh Principle—The Power of the Holy Spirit"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris,"
       },
@@ -2899,16 +2654,11 @@
       },
       {
         "text": "This is the meaning of the power of the Holy Spirit, which I pray may be bountifully showered upon you."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 14,
-    "title": "This Great and Glorious Cause",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "This Great and Glorious Cause"
+      },
       {
         "text": "4 Avenue de Camoëns, Paris,"
       },
@@ -2935,16 +2685,11 @@
       },
       {
         "text": "Now I say unto you, bear this on your hearts and in your minds. Verily your light shall illumine the whole world, your spirituality shall affect the heart of things. You shall in truth become the lighted torches of the globe. Fear not, neither be dismayed, for your light shall penetrate the densest darkness. This is the Promise of God, which I give unto you. Rise! and serve the Power of God!"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Two"],
-    "item": 15,
-    "title": "The Last Meeting",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "The Last Meeting"
+      },
       {
         "text": "15 Rue Greuze, Paris,"
       },
@@ -3023,12 +2768,16 @@
     ]
   },
   {
-    "path": ["Paris Talks", "Part Three"],
-    "item": 1,
-    "title": "Address by ‘Abdu’l‑Bahá at the Friends’ Meeting House, St. Martin’s Lane, London, W.C.",
+    "path": ["Paris Talks"],
+    "item": 3,
+    "title": "Part Three",
     "author": "‘Abdu’l‑Bahá",
     "years": [1911, 1913],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Address by ‘Abdu’l‑Bahá at the Friends’ Meeting House, St. Martin’s Lane, London, W.C."
+      },
       {
         "text": "Sunday, January 12th, 1913"
       },
@@ -3091,16 +2840,11 @@
       },
       {
         "text": "May we indeed become mirrors reflecting the heavenly realities, and may we become so pure as to reflect the stars of heaven."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Three"],
-    "item": 2,
-    "title": "Prayer",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "Prayer"
+      },
       {
         "text": "97 Cadogan Gardens, London,"
       },
@@ -3118,31 +2862,21 @@
       },
       {
         "text": "‘Abdu’l‑Bahá: “To acquire virtues. We come from the earth; why were we transferred from the mineral to the vegetable kingdom—from the plant to the animal kingdom? So that we may attain perfection in each of these kingdoms, that we may possess the best qualities of the mineral, that we may acquire the power of growing as in the plant, that we may be adorned with the instincts of the animal and possess the faculties of sight, hearing, smell, touch and taste, until from the animal kingdom we step into the world of humanity and are gifted with reason, the power of invention, and the forces of the spirit.”"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Three"],
-    "item": 3,
-    "title": "Evil",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Evil"
+      },
       {
         "text": "“What is evil?”"
       },
       {
         "text": "‘Abdu’l‑Bahá: “Evil is imperfection. Sin is the state of man in the world of the baser nature, for in nature exist defects such as injustice, tyranny, hatred, hostility, strife: these are characteristics of the lower plane of nature. These are the sins of the world, the fruits of the tree from which Adam did eat. Through education we must free ourselves from these imperfections. The Prophets of God have been sent, the Holy Books have been written, so that man may be made free. Just as he is born into this world of imperfection from the womb of his earthly mother, so is he born into the world of spirit through divine education. When a man is born into the world of phenomena he finds the universe; when he is born from this world to the world of the spirit, he finds the Kingdom.”"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Three"],
-    "item": 4,
-    "title": "The Progress of the Soul",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "The Progress of the Soul"
+      },
       {
         "text": "“Does the soul progress more through sorrow or through the joy in this world?”"
       },
@@ -3166,16 +2900,11 @@
       },
       {
         "text": "‘Abdu’l‑Bahá: “A conversation can be held, but not as our conversation. There is no doubt that the forces of the higher worlds interplay with the forces of this plane. The heart of man is open to inspiration; this is spiritual communication. As in a dream one talks with a friend while the mouth is silent, so is it in the conversation of the spirit. A man may converse with the ego within him saying: ‘May I do this? Would it be advisable for me to do this work?’ Such as this is conversation with the higher self.”"
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Three"],
-    "item": 5,
-    "title": "The Four Kinds of Love",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "The Four Kinds of Love"
+      },
       {
         "text": "97 Cadogan Gardens, London,"
       },
@@ -3211,16 +2940,11 @@
       },
       {
         "text": "Love is only of the four kinds that I have explained. (a) The love of God towards the identity of God. Christ has said God is Love. (b) The love of God for His children—for His servants. (c) The love of man for God and (d) the love of man for man. These four kinds of love originate from God. These are rays from the Sun of Reality; these are the Breathings of the Holy Spirit; these are the Signs of the Reality."
-      }
-    ]
-  },
-  {
-    "path": ["Paris Talks", "Part Three"],
-    "item": 6,
-    "title": "Tablet Revealed by ‘Abdu’l‑Bahá",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1911, 1913],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Tablet Revealed by ‘Abdu’l‑Bahá"
+      },
       {
         "text": "August 28th, 1913"
       },

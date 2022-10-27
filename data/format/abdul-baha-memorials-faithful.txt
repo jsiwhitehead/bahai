@@ -1,7 +1,6 @@
 Memorials of the Faithful
 author="‘Abdu’l‑Bahá"
 years=[1914,1915]
-collection
 
 # Nabíl‑i‑Akbar
 

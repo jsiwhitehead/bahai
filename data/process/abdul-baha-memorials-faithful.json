@@ -1,11 +1,14 @@
 [
   {
-    "path": ["Memorials of the Faithful"],
-    "item": 1,
-    "title": "Nabíl‑i‑Akbar",
+    "path": [],
+    "title": "Memorials of the Faithful",
     "author": "‘Abdu’l‑Bahá",
     "years": [1914, 1915],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Nabíl‑i‑Akbar"
+      },
       {
         "text": "There was, in the city of Najaf, among the disciples of the widely known mujtahid, Shaykh Murtaḍá, a man without likeness or peer. His name was Áqá Muḥammad‑i‑Qá’iní, and later on he would receive, from the Manifestation, the title of Nabíl‑i‑Akbar. This eminent soul became the leading member of the mujtahid’s company of disciples. Singled out from among them all, he alone was given the rank of mujtahid—for the late Shaykh Murtaḍá was never wont to confer this degree."
       },
@@ -65,16 +68,11 @@
       },
       {
         "text": "Praise be to God, at the end he was made the recipient of heavenly grace. Upon him be the glory of God, the All‑Glorious. May God shed the brightness of the Abhá Kingdom upon his resting‑place. May God welcome him into the Paradise of reunion, and shelter him forever in the realm of the righteous, submerged in an ocean of lights."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 2,
-    "title": "Ismu’lláhu’l‑Aṣdaq",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "Ismu’lláhu’l‑Aṣdaq"
+      },
       {
         "text": "Among the Hands of the Cause of God who have departed this life and ascended to the Supreme Horizon was Jináb‑i‑Ismu’lláhu’l‑Aṣdaq. Another was Jináb‑i‑Nabíl‑i‑Akbar. Still others were Jináb‑i‑Mullá ‘Alí‑Akbar and Jináb‑i‑Shaykh Muḥammad‑Riḍáy‑i‑Yazdí. Again, among others, was the revered martyr, Áqá Mírzá Varqá."
       },
@@ -107,16 +105,11 @@
       },
       {
         "text": "He was truly Ismu’lláh, the Name of God. Fortunate is the one who circumambulates that tomb, who blesses himself with the dust of that grave. Upon him be salutations and praise in the Abhá Realm."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 3,
-    "title": "Mullá ‘Alí‑Akbar",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Mullá ‘Alí‑Akbar"
+      },
       {
         "text": "Yet another Hand of the Cause was the revered Mullá ‘Alí‑Akbar, upon him be the glory of God, the All‑Glorious. Early in life, this illustrious man attended institutions of higher learning and laboured diligently, by day and night, until he became thoroughly conversant with the learning of the day, with secular studies, philosophy, and religious jurisprudence. He frequented the gatherings of philosophers, mystics, and Shaykhís, thoughtfully traversing those areas of knowledge, intuitive wisdom, and illumination; but he thirsted after the wellspring of truth, and hungered for the bread that comes down from Heaven. No matter how he strove to perfect himself in those regions of the mind, he was never satisfied; he never reached the goal of his desires; his lips stayed parched; he was confused, perplexed, and felt that he had wandered from his path. The reason was that in all those circles he had found no passion; no joy, no ecstasy; no faintest scent of love. And as he went deeper into the core of those manifold beliefs, he discovered that from the day of the Prophet Muḥammad’s advent until our own times, innumerable sects have arisen: creeds differing among themselves; disparate opinions, divergent goals, uncounted roads and ways. And he found each one, under some plea or other, claiming to reveal spiritual truth; each one believing that it alone followed the true path—this although the Muḥammedic sea could rise in one great tide, and carry all those sects away to the ocean floor. “No cry shalt thou hear from them, nor a whisper even.”"
       },
@@ -143,16 +136,11 @@
       },
       {
         "text": "His last resting‑place is in Ṭihrán. Although his body lies under the earth, his pure spirit lives on, “in the seat of truth, in the presence of the potent King.” I long to visit the graves of the friends of God, could this be possible. These are the servants of the Blessed Beauty; in His path they were afflicted; they met with toil and sorrow; they sustained injuries and suffered harm. Upon them be the glory of God, the All‑Glorious. Unto them be salutation and praise. Upon them be God’s tender mercy, and forgiveness."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 4,
-    "title": "Shaykh Salmán",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Shaykh Salmán"
+      },
       {
         "text": "In 1266 A.H. the trusted messenger, Shaykh Salmán, first heard the summons of God, and his heart leapt for joy. He was then in Hindíyán. Irresistibly attracted, he walked all the way to Ṭihrán, where with ardent love he secretly joined the believers. On a certain day he was passing through the bázár with Áqá Muḥammad Táqíy‑i‑Káshání, and the farráshes followed him and discovered where he lived. The next day, police and farráshes came looking for him and took him to the chief of police."
       },
@@ -227,16 +215,11 @@
       },
       {
         "text": "From the dawn of history until the present day, there has never been a messenger so worthy of trust; there has never been a courier to compare with Salmán. He has left respected survivors in Iṣfáhán who, because of the troubles in Persia, are presently in distress. It is certain that the friends will see to their needs. Upon him be the glory of God, the All‑Glorious; unto him be salutations and praise."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 5,
-    "title": "Mírzá Muḥammad‑‘Alí, the Afnán",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Mírzá Muḥammad‑‘Alí, the Afnán"
+      },
       {
         "text": "In the days of Bahá’u’lláh, during the worst times in the Most Great Prison, they would not permit any of the friends either to leave the Fortress or to come in from the outside. “Skew‑Cap” and the Siyyid lived by the second gate of the city, and watched there at all times, day and night. Whenever they spied a Bahá’í traveller they would hurry away to the Governor and tell him that the traveller was bringing in letters and would carry the answers back. The Governor would then arrest the traveller, seize his papers, jail him, and drive him out. This became an established custom with the authorities and went on for a long time—indeed, for nine years until, little by little, the practice was abandoned."
       },
@@ -281,16 +264,11 @@
       },
       {
         "text": "From earliest youth until he grew helpless and old, that sacred bough of the Holy Tree, with his smiling face, shone out like a lamp in the midst of all. Then he leapt and soared to undying glory, and plunged into the ocean of light. Upon him be the breathings of his Lord, the All‑Merciful. Upon him, lapped in the waters of grace and forgiveness, be the mercy and favour of God."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 6,
-    "title": "Ḥájí Mírzá Ḥasan, the Afnán",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Ḥájí Mírzá Ḥasan, the Afnán"
+      },
       {
         "text": "Among the most eminent of those who left their homeland to join Bahá’u’lláh was Mírzá Ḥasan, the great Afnán, who during the latter days won the honour of emigrating and of receiving the favour and companionship of his Lord. The Afnán, related to the Báb, was specifically named by the Supreme Pen as an offshoot of the Holy Tree. When still a small child, he received his portion of bounty from the Báb, and showed forth an extraordinary attachment to that dazzling Beauty. Not yet adolescent, he frequented the society of the learned, and began to study sciences and arts. He reflected day and night on the most abstruse of spiritual questions, and gazed in wonderment at the mighty signs of God as written in the Book of Life. He became thoroughly versed even in such material sciences as mathematics, geometry, and geography; in brief, he was well grounded in many fields, thoroughly conversant with the thought of ancient and modern times."
       },
@@ -311,16 +289,11 @@
       },
       {
         "text": "But then came the Beloved’s departure from this world. The Afnán’s peace was shattered, his joy was changed to grief. The Supreme Affliction was upon us, separation consumed us, the once bright days turned black as night, and all those roses of other hours were dust and rubble now. He lived on for a little while, his heart smouldering, his eyes shedding their tears. But he could not bear the longing for his Well‑Beloved, and in a little while his soul gave up this life and fled to the eternal one, passed into the Heaven of abiding reunion and was immersed beneath an ocean of light. Upon him be most great mercy, plenteous bounty, and every blessing, as the ages and cycles roll on. His honoured tomb is in ‘Akká at the Manshíyyih."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 7,
-    "title": "Muḥammad‑‘Alíy‑i‑Iṣfáhání",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Muḥammad‑‘Alíy‑i‑Iṣfáhání"
+      },
       {
         "text": "Muḥammad‑‘Alí of Iṣfáhán was among the earliest of believers, guided to the Faith from its very beginning. He was one of the mystics; his house was a gathering place for them, and the philosophers. Noble, high‑minded, he was one of Iṣfáhán’s most respected citizens, and served as a host and sanctuary for every stranger, rich or poor. He had verve, an excellent disposition, was forbearing, affable, generous, a boon companion; and it was known throughout the city that he enjoyed a good time."
       },
@@ -344,16 +317,11 @@
       },
       {
         "text": "Muḥammad‑‘Alí was past eighty when he finally departed to eternal light. He had been the recipient of many Tablets from Bahá’u’lláh, and of endless bounty, under all conditions. Upon him be the glory of God the Most Glorious. Upon him be myriads of heavenly blessings; may God favour him with gladness forever and ever. His luminous grave is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 8,
-    "title": "‘Abdu’ṣ‑Ṣáliḥ, the Gardener",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "‘Abdu’ṣ‑Ṣáliḥ, the Gardener"
+      },
       {
         "text": "Among those who emigrated and were companions in the Most Great Prison was Áqá ‘Abdu’ṣ‑Ṣáliḥ. This excellent soul, a child of early believers, came from Iṣfáhán. His noble‑hearted father died, and this child grew up an orphan. There was none to rear or care for him and he was the prey of anyone who chose to do him harm. At last he became adolescent, and older now, sought out his Well‑Beloved. He emigrated to the Most Great Prison and here, at the Riḍván, achieved the honour of being appointed gardener. At this task he was second to none. In his faith, too, he was staunch, loyal, worthy of trust; as to his character, he was an embodiment of the sacred verse, “Of a noble nature art thou.” That is how he won the distinction of being gardener at the Riḍván, and of thus receiving the greatest bounty of all: almost daily, he entered the presence of Bahá’u’lláh."
       },
@@ -374,16 +342,11 @@
       },
       {
         "text": "Upon him be the glory of the All‑Glorious! Upon him be God’s gentleness and favour in the Exalted Realm."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 9,
-    "title": "Ustád Ismá‘íl",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Ustád Ismá‘íl"
+      },
       {
         "text": "Yet another from amongst that blessed company was Ustád Ismá‘íl, the builder. He was the construction overseer of Farrukh Khán (Amínu’d‑Dawlih) in Ṭihrán, living happily and prosperously, a man of high standing, well regarded by all. But he lost his heart to the Faith, and was enraptured by it, till his holy passion consumed every intervening veil. Then he cast caution aside, and became known throughout Ṭihrán as a pillar of the Bahá’ís."
       },
@@ -401,16 +364,11 @@
       },
       {
         "text": "Such was his condition, when he died. Many and many a time, Bahá’u’lláh was heard to express His satisfaction with Ustád Ismá‘íl. Blessings hemmed him round, and the eye of God was on him. Salutations be unto him, and praise. Upon him be the glory of the All‑Glorious."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 10,
-    "title": "Nabíl‑i‑Zarandí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Nabíl‑i‑Zarandí"
+      },
       {
         "text": "Still another of those who emigrated from their native land to be near Bahá’u’lláh was the great Nabíl. In the flower of youth he bade farewell to his family in Zarand and with Divine aid began to teach the Faith. He became a chief of the army of lovers, and on his quest he left Persian ‘Iráq for Mesopotamia, but could not find the One he sought. For the Well‑Beloved was then in Kurdistán, living in a cave at Sar‑Galú; and there, entirely alone in that wasteland, with no companion, no friend, no listening soul, He was communing with the beauty that dwelt in His own heart. All news of Him was completely cut off; ‘Iráq was eclipsed, and in mourning."
       },
@@ -446,16 +404,11 @@
       },
       {
         "text": "Upon him be abundant blessings; upon him be tender mercies. May he win a great victory, and a manifest grace in the Kingdom of God."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 11,
-    "title": "Darvísh Ṣidq‑‘Alí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Darvísh Ṣidq‑‘Alí"
+      },
       {
         "text": "Áqá Ṣidq‑‘Alí was yet one more of those who left their native land, journeyed to Bahá’u’lláh and were put in the Prison. He was a dervish; a man who lived free and detached from friend and stranger alike. He belonged to the mystic element and was a man of letters. He spent some time wearing the dress of poverty, drinking the wine of the Rule and travelling the Path, but unlike the other Ṣúfís he did not devote his life to dusty hashish; on the contrary, he cleansed himself of their vain imaginings and only searched for God, spoke of God, and followed the path of God."
       },
@@ -479,16 +432,11 @@
       },
       {
         "text": "Then came that hour when, not far from his Lord, he stripped off the cloak of life, and to physical eyes passed into the shadows, but to the mind’s eye betook himself to what is plain as day; and he was seated there on a throne of lasting glory. He escaped from the prison of this world, and pitched his tent in a wide and spacious land. May God ever keep him close and bless him in that mystic realm with perpetual reunion and the beatific vision; may he be wrapped in tiers of light. Upon him be the glory of God, the All‑Glorious. His grave is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 12,
-    "title": "Áqá Mírzá Maḥmúd and Áqá Riḍá",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "Áqá Mírzá Maḥmúd and Áqá Riḍá"
+      },
       {
         "text": "These two blessed souls, Mírzá Maḥmúd of Káshán and Áqá Riḍá of Shíráz, were like two lamps lit with God’s love from the oil of His knowledge. Encompassed by Divine bestowals from childhood on, they succeeded in rendering every kind of service for fifty‑five years. Their services were countless, beyond recording."
       },
@@ -509,16 +457,11 @@
       },
       {
         "text": "Unto them both be salutations and praise; upon them be compassion and glory. May God give them a home in Paradise, under the Lote‑Tree’s shade. May they be immersed in tiers of light, close beside their Lord, the Mighty, the All‑Powerful."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 13,
-    "title": "Pidar‑Ján of Qazvín",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Pidar‑Ján of Qazvín"
+      },
       {
         "text": "The late Pidar‑Ján was among those believers who emigrated to Baghdád. He was a godly old man, enamoured of the Well‑Beloved; in the garden of Divine love, he was like a rose full‑blown. He arrived there, in Baghdád, and spent his days and nights communing with God and chanting prayers; and although he walked the earth, he travelled the heights of Heaven."
       },
@@ -530,16 +473,11 @@
       },
       {
         "text": "May God make fragrant his sepulchre with the outpouring rains of His mercy and cast upon him the eye of Divine compassion. Salutations be unto him, and praise."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 14,
-    "title": "Shaykh Ṣádiq‑i‑Yazdí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Shaykh Ṣádiq‑i‑Yazdí"
+      },
       {
         "text": "Another of those who emigrated to Baghdád was Shaykh Ṣádiq of Yazd, a man esteemed, and righteous as his name, Ṣádiq. He was a towering palm in the groves of Heaven, a star flaming in the skies of the love of God."
       },
@@ -560,16 +498,11 @@
       },
       {
         "text": "May God give him to drink from “a wine cup tempered at the camphor fountain,” and send down crystal waters on his grave; may God perfume his dust in that desert place with musk, and cause to descend there range on range of light."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 15,
-    "title": "Sháh‑Muḥammad‑Amín",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Sháh‑Muḥammad‑Amín"
+      },
       {
         "text": "Sháh‑Muḥammad, who had the title of Amín, the Trusted One, was among the earliest of believers, and most deeply enamoured. He had listened to the Divine summons in the flower of his youth, and set his face toward the Kingdom. He had ripped from his gaze the veils of idle suppositions and had won his heart’s desire; neither the fancies current among the people nor the reproaches of which he was the target turned him back. Unshaken, he stood and faced a sea of troubles; staunch with the strength of the Advent day, he confronted those who tried to thwart him and block his path. The more they sought to instil doubts in his mind, the stronger he became; the more they tormented him, the more progress he made. He was a captive of the face of God, enslaved by the beauty of the All‑Glorious; a flame of God’s love, a jetting fountain of the knowledge of Him."
       },
@@ -599,16 +532,11 @@
       },
       {
         "text": "Unto him be salutations and praise; upon him be the glory of the All‑Glorious; upon him be the most great mercy of God."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 16,
-    "title": "Mashhadí Faṭṭáḥ",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [16],
+        "title": "Mashhadí Faṭṭáḥ"
+      },
       {
         "text": "Mashhadí Faṭṭáḥ was personified spirit. He was devotion itself. Brother to Ḥájí ‘Alí‑‘Askar—of the same pure lineage—through the latter he came into the Faith. Like the twins, Castor and Pollux, the two kept together in one spot, and both were illumined with the light of belief."
       },
@@ -620,16 +548,11 @@
       },
       {
         "text": "Then came the Supreme Affliction. He could not tolerate the anguish of parting with Bahá’u’lláh, and after Bahá’u’lláh’s passing, he died of grief. Blessed is he; again, blessed is he. Glad tidings to him; again, glad tidings to him. Upon him be the glory of the All‑Glorious."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 17,
-    "title": "Nabíl of Qá’in",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [17],
+        "title": "Nabíl of Qá’in"
+      },
       {
         "text": "This distinguished man, Mullá Muḥammad‑‘Alí, was one of those whose hearts were drawn to Bahá’u’lláh before the Declaration of the Báb; it was then that he drank the red wine of knowledge from the hands of the Cupbearer of grace. It happened that a prince, who was the son of Mír Asadu’lláh Khán, prince of Qá’in, was commanded to remain as a political hostage in Ṭihrán. He was young, far away from his loving father, and Mullá Muḥammad‑‘Alí was his tutor and guardian. Since the youth was a stranger in Ṭihrán, the Blessed Beauty showed him special kindness. Many a night the young prince was Bahá’u’lláh’s guest at the mansion, and Mullá Muḥammad‑‘Alí would accompany him. This was prior to the Declaration of the Báb."
       },
@@ -680,16 +603,11 @@
       },
       {
         "text": "All hail to him for this wondrous bestowal. “Blessedness awaiteth him and a goodly home . . . And God will single out for His mercy whomsoever He willeth.”"
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 18,
-    "title": "Siyyid Muḥammad‑Taqí Manshádí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [18],
+        "title": "Siyyid Muḥammad‑Taqí Manshádí"
+      },
       {
         "text": "Muḥammad‑Taqí came from the village of Manshád. When still young, he learned of the Faith of God. In holy ecstasy, his mind turned Heavenward, and his heart was flooded with light. Divine grace descended upon him; the summons of God so enraptured him that he threw the peace of Manshád to the winds. Leaving his kinsfolk and children, he set out over mountains and desert plains, passed from one halting‑place to the next, came to the seashore, crossed over the sea and at last reached the city of Haifa. From there he hastened on to ‘Akká and entered the presence of Bahá’u’lláh."
       },
@@ -710,16 +628,11 @@
       },
       {
         "text": "May God cool his feverish pain with the grace of reunion in the Kingdom, and heal his sickness with the balm of nearness to Him in the Realm of the All‑Beauteous. Upon him be the glory of God the Most Glorious."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 19,
-    "title": "Muḥammad‑‘Alí Ṣabbáq of Yazd",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [19],
+        "title": "Muḥammad‑‘Alí Ṣabbáq of Yazd"
+      },
       {
         "text": "Early in youth, Muḥammad‑‘Alí Ṣabbáq became a believer while in ‘Iráq. He tore away hindering veils and doubts, escaped from his delusions and hastened to the welcoming shelter of the Lord of Lords. A man to outward seeming without education, for he could neither read nor write, he was of sharp intelligence and a trustworthy friend. Through one of the believers, he was brought into the presence of Bahá’u’lláh, and was soon widely known to the public as a disciple. He found himself a corner to live in, close beside the house of the Blessed Beauty, and mornings and evenings would enter the presence of Bahá’u’lláh. For a time he was supremely happy."
       },
@@ -734,16 +647,11 @@
       },
       {
         "text": "The friends, one and all, were pleased with him, and he was cherished at the Holy Threshold; in this state he soared to abiding glory, leaving his kin to mourn. He was a kind man, an excellent one: content with God’s will for him, thankful, a man of dignity, long‑suffering. Upon him be the glory of the All‑Glorious. May God send down, upon his scented tomb in ‘Akká, tiers of celestial light."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 20,
-    "title": "‘Abdu’l‑Ghaffár of Iṣfáhán",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [20],
+        "title": "‘Abdu’l‑Ghaffár of Iṣfáhán"
+      },
       {
         "text": "Another of those who left their homeland to become our neighbours and fellow prisoners was ‘Abdu’l‑Ghaffár of Iṣfáhán. He was a highly perceptive individual who, on commercial business, had travelled about Asia Minor for many years. He made a journey to ‘Iráq, where Áqá Muḥammad‑‘Alí of Ṣád (Iṣfáhán) brought him into the shelter of the Faith. He soon ripped off the bandage of illusions that had blinded his eyes before, and he rose up, winging to salvation in the Heaven of Divine love. With him, the veil had been thin, almost transparent, and that is why, as the first word was imparted, he was immediately released from the world of idle imaginings and attached himself to the One Who is clear to see."
       },
@@ -758,16 +666,11 @@
       },
       {
         "text": "He was truly a man long‑suffering, and mild; a man of good character, good acts, and goodly words. Greetings and praise be unto him, and the glory of the All‑Glorious. His sweet‑scented tomb is in Damascus."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 21,
-    "title": "‘Alí Najaf‑Ábádí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [21],
+        "title": "‘Alí Najaf‑Ábádí"
+      },
       {
         "text": "Also among the emigrants and near neighbours was Áqá ‘Alí Najaf‑Ábádí. When this spiritual young man first listened to the call of God he set his lips to the holy cup and beheld the glory of the Speaker on the Mount. And when, by grace of the light, he had attained positive knowledge, he journeyed to the Most Great Prison, where he witnessed the substance of knowledge itself, and arrived at the high station of indubitable truth."
       },
@@ -776,16 +679,11 @@
       },
       {
         "text": "‘Alí Najaf‑Ábádí was tender and sensitive of heart, at all times mindful of God and remembering Him, and toward the close of his life detached, without stain, free from the contagion of this world. Sweetly, he gave up his corner of the earth, and pitched his tent in the land beyond. May God send upon him the pure savours of forgiveness, brighten his eyes with beholding the Divine Beauty in the Kingdom of Splendours, and refresh his spirit with the musk‑scented winds that blow from the Abhá Realm. Unto him be salutation and praise. His sweet and holy dust lies in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 22,
-    "title": "Mashhadí Ḥusayn and Mashhadí Muḥammad‑i‑Ádhirbáyjání",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [22],
+        "title": "Mashhadí Ḥusayn and Mashhadí Muḥammad‑i‑Ádhirbáyjání"
+      },
       {
         "text": "Mashhadí Ḥusayn and Mashhadí Muḥammad were both from the province of Ádhirbáyján. They were pure souls who took the great step in their own country: they freed themselves from friend and stranger alike, escaped from the superstitions that had blinded them before, strengthened their resolve, and bowed themselves down before the grace of God, the Lord of Life. They were blessed souls, loyal, unsullied in faith; evanescent, submissive, poor, content with the will of God, in love with His guiding Light, rejoicing over the great message. They left their province and travelled to Adrianople. Here beside the holy city they lived for quite a time in the village of Qumruq‑Kilísá. By day, they supplicated God and communed with Him; by night, they wept, bemoaning the plight of Him Whom the world hath wronged."
       },
@@ -794,16 +692,11 @@
       },
       {
         "text": "They lived outside ‘Akká in Bágh‑i‑Firdaws, worked as farmers, and spent their days returning thanks to God because once again they had won their way to the neighbourhood of grace and love. But they were natives of Ádhirbáyján, accustomed to the cold, and they could not endure the local heat. Furthermore, this was during our early days in ‘Akká, when the air was noxious, and the water unwholesome in the extreme. They both fell ill of a chronic, high fever. They bore it cheerfully, with amazing patience. During their days of illness, despite the assault of the fever, the violence of their ailment, the raging thirst, the restlessness, they remained inwardly at peace, rejoicing at the Divine glad tidings. And at a time when they were offering thanks with all their heart, they hurried away from this world and entered the other; they escaped from this cage and were released into the garden of immortality. Upon them be the mercy of God, and may He be well pleased with them. Unto them be salutations and praise. May God bring them into the Realm that abides forever, to delight in reunion with Him, to bask in the Kingdom of Splendours. Their two luminous tombs are in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 23,
-    "title": "Ḥájí ‘Abdu’r‑Raḥím‑i‑Yazdí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [23],
+        "title": "Ḥájí ‘Abdu’r‑Raḥím‑i‑Yazdí"
+      },
       {
         "text": "Ḥájí ‘Abdu’r‑Raḥím of Yazd was a precious soul, from his earliest years virtuous and God‑fearing, and known among the people as a holy man, peerless in observing his religious duties, mindful as to his acts. His strong religious faith was an indisputable fact. He served and worshipped God by day and night, was sound, mild, compassionate, a loyal friend."
       },
@@ -830,16 +723,11 @@
       },
       {
         "text": "Unto him be salutations and praise, and mercy ineffable. May God scatter on his resting‑place rays from the mysterious Realm."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 24,
-    "title": "Ḥájí ‘Abdu’lláh Najaf‑Ábádí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [24],
+        "title": "Ḥájí ‘Abdu’lláh Najaf‑Ábádí"
+      },
       {
         "text": "Once he had become a believer, Ḥájí ‘Abdu’lláh left his native Persia, hastened to the Holy Land, and under the sheltering grace of Bahá’u’lláh found peace of heart. He was a man confident, steadfast and firm; certain of the manifold bounties of God; of an excellent disposition and character."
       },
@@ -848,16 +736,11 @@
       },
       {
         "text": "Later he returned from Ghawr, settled near Bahá’u’lláh in Junayna, and came often into His presence. His eyes were fixed on the Abhá Kingdom; sometimes he would shed tears and moan, again he would rejoice, glad because he had achieved his supreme desire. He was completely detached from all but God, happy in God’s grace. He would keep a vigil most of the night, remaining in a state of prayer. Then death came at the appointed hour, and in the shadowing care of Bahá’u’lláh he ascended, hurried away from this world of dust to the high Firmament, soared upward to the secret land. Unto him be salutations, mercy and praise, in the neighbourhood of his exalted Lord."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 25,
-    "title": "Muḥammad‑Ḥádíy‑i‑Ṣaḥḥáf",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [25],
+        "title": "Muḥammad‑Ḥádíy‑i‑Ṣaḥḥáf"
+      },
       {
         "text": "Yet one more among those who emigrated and came to settle near Bahá’u’lláh was the bookbinder, Muḥammad‑Hádí. This noted man was from Iṣfáhán, and as a binder and illuminator of books he had no peer. When he gave himself up to the love of God he was alert on the path and fearless. He abandoned his home and began a dreadful journey, passing with extreme hardship from one country to another until he reached the Holy Land and became a prisoner. He stationed himself by the Holy Threshold, carefully sweeping it and keeping watch. Through his constant efforts, the square in front of Bahá’u’lláh’s house was at all times swept, sprinkled and immaculate."
       },
@@ -896,16 +779,11 @@
       },
       {
         "text": "Muḥammad‑Hádí was loyal always, and he accounted all things other than God’s good pleasure as fiction and fable, nothing more. Blessed is he for this gift bestowed upon him, glad tidings to him for the place to which he shall be led; may it do him good, this wine‑cup tempered at the camphor fountain, and may all his strivings meet with thanks and be acceptable to God."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 26,
-    "title": "Mírzá Muḥammad‑Qulí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [26],
+        "title": "Mírzá Muḥammad‑Qulí"
+      },
       {
         "text": "Jináb‑i‑Mírzá Muḥammad‑Qulí was a loyal brother of the Blessed Beauty. This great man was known even from his childhood for nobility of soul. He was newly born when his distinguished father passed away, and thus it came about that from the beginning to the end of his days, he spent his life in the sheltering arms of Bahá’u’lláh. He was detached from every selfish thought, averse to every mention except to whatever concerned the Holy Cause. He was reared in Persia under the care of Bahá’u’lláh, and in ‘Iráq as well, especially favoured by Him. In the presence of Bahá’u’lláh, it was he who would pass around the tea; and he waited upon his Brother at all times, by day and night. He was always silent. He always held fast to the Covenant of “Am I not your Lord?” He was encompassed by loving‑kindness and bounty; day and night he had access to the presence of Bahá’u’lláh; he was invariably patient and forbearing, until in the end he reached the very heights of Divine favour and acceptance."
       },
@@ -917,16 +795,11 @@
       },
       {
         "text": "When the Beloved of all mankind ascended to the Kingdom of Splendours, Mírzá Muḥammad‑Qulí remained firm in the Covenant, shunning the craft, the malice and hypocrisy which then appeared, devoting himself entirely to God, supplicating and praying. To those who would listen he gave wise advice; and he called to mind the days of the Blessed Beauty and grieved over the fact that he himself lived on. After the departure of Bahá’u’lláh, he did not draw an easeful breath; he kept company with no one, but stayed by himself most of the time, alone in his small refuge, burning with the fires of separation. Day by day he grew feebler, more helpless, until at the last he soared away to the world of God. Upon him be peace; upon him be praise and mercy, in the gardens of Heaven. His luminous grave is in Naqíb, by Tiberias."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 27,
-    "title": "Ustád Báqir and Ustád Aḥmad",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [27],
+        "title": "Ustád Báqir and Ustád Aḥmad"
+      },
       {
         "text": "And again among those who left their homeland were two carpenters, Ustád Báqir and Ustád Aḥmad. These two were brothers, of pure lineage, and natives of Káshán. From the time when both became believers each held the other in his embrace. They harkened to the voice of God, and to His cry of “Am I not your Lord?” they replied, “Yea, verily!”"
       },
@@ -938,16 +811,11 @@
       },
       {
         "text": "These two were firm believers, loyal, patient, at all times thankful, at all times supplicating God in lowliness, with their faces turned in His direction. During that long stay in the prison they were never neglectful of duty, never at fault. They were constantly joyful, for they had drunk deep of the holy cup; and when they soared upward, out of the world, the friends mourned over them and asked that by the grace of Bahá’u’lláh, they should be favoured and forgiven. These two were embosomed in bounty, and Divinely sustained, and the Blessed Beauty was well pleased with them both; with this provision for their journey, they set out for the world to come. Upon them both be the glory of God the All‑Glorious; to each be a seat of truth in the Kingdom of Splendours."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 28,
-    "title": "Muḥammad Ḥaná‑Sáb",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [28],
+        "title": "Muḥammad Ḥaná‑Sáb"
+      },
       {
         "text": "This man of dignity and rank, Áqá Muḥammad, was yet another among those who abandoned their homes, and was one of the earliest believers. From the dawn tide, he was widely known as a lover of the Most Great Light. He was then in Iṣfáhán, and he shut his eyes to this world and the next as well, and opened them to the beauty of Him Who is the embodiment of all that is lovable."
       },
@@ -959,16 +827,11 @@
       },
       {
         "text": "What a holy being he was, how great a man! He could not bear the separation very long, but died, and hastened onward to the world of lights, to the assemblage where the beauty of God is unveiled. May God shed upon his grave rays from the realm of forgiveness, and lull his spirit in the heart of Paradise. May God exalt his station in the gardens above. His bright tomb is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 29,
-    "title": "Ḥájí Faraju’lláh Tafríshí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [29],
+        "title": "Ḥájí Faraju’lláh Tafríshí"
+      },
       {
         "text": "Yet another of those who came out of their homeland to live in the neighbourhood of Bahá’u’lláh was Faraju’lláh of Tafrísh. This blessed individual was from earliest youth the servant of Bahá’u’lláh, and with his esteemed father, Áqá Luṭfu’lláh, he emigrated from Persia to Adrianople. Áqá Luṭfu’lláh was a staunch believer, lovingly devoted to the Blessed Beauty. Patient, long‑suffering, completely indifferent to this world and its vanities, he lived content in the neighbourhood of Bahá’u’lláh; and then humbly at the Threshold, with a contrite heart, he abandoned this fleeting life and soared away to the boundless realms beyond. His sweet‑scented dust is in Adrianople."
       },
@@ -977,16 +840,11 @@
       },
       {
         "text": "This servant of the Blessed Beauty was one with the believers in their afflictions and calamities; he had his share of the anguish. The favours of Bahá’u’lláh compassed him about, and he rejoiced in that boundless grace. He was among the companions, a close associate of the friends, and he had a docile heart. Although his body was thin and sickly, he was thankful, accepted it, was patient, and endured the trials of God’s path. Unto him be greetings and praise; may he receive Heavenly gifts and blessings; upon him be the glory of God the All‑Glorious. His pure sepulchre is in Bombay, India."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 30,
-    "title": "Áqá Ibráhím‑i‑Iṣfáhání and His Brothers",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [30],
+        "title": "Áqá Ibráhím‑i‑Iṣfáhání and His Brothers"
+      },
       {
         "text": "And among those who emigrated and came to settle in the Holy Land was Áqá Ibráhím, one of four honoured brothers: Muḥammad‑Ṣádiq; Muḥammad‑Ibráhím; Áqá Ḥabíbu’lláh; and Muḥammad‑‘Alí. These four lived in Baghdád with their paternal uncle, Áqá Muḥammad‑Riḍá, known as ‘Aríḍ. They all lived in the same house, and remained together day and night. Bird‑like, they shared the one nest; and they were always fresh and full of grace, like flowers in a bed."
       },
@@ -1013,16 +871,11 @@
       },
       {
         "text": "Ḥabíb was a man with a great store of patience and a joyous heart. He accustomed himself to exile and he lived in a state of yearning love. After the departure from Baghdád, the prisoners of Mosul were constantly made mention of by Bahá’u’lláh; with regard to them, He expressed His infinite favour. A few years afterward, Ḥabíb hastened away to the encompassing mercy of God, and found a nest and refuge on the boughs of the celestial Tree. There, in the Paradise of all delights, with wondrous songs he poured out his praise of the bountiful Lord."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 31,
-    "title": "Áqá Muḥammad‑Ibráhím",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [31],
+        "title": "Áqá Muḥammad‑Ibráhím"
+      },
       {
         "text": "Muḥammad‑Ibráhím, who bore the title of Manṣúr—Victorious—was a coppersmith. This man of God, yet another among the emigrants and settlers, was a native of Káshán. In the early flowering of his youth he recognised the newborn Light and drank deep of the holy cup that is “tempered at the camphor fountain.” He was a man of pleasing disposition, full of zest and the joy of life. As soon as the light of faith was lit in his heart, he left Káshán, journeyed to Baghdád, and was honoured with coming into the presence of Bahá’u’lláh."
       },
@@ -1034,16 +887,11 @@
       },
       {
         "text": "Áqá Muḥammad continued to live out his life, high of aim, unvarying as to his inner condition, with fervour and love. Then he welcomed death, laughing like a rose suddenly full‑blown, and crying, “Here am I!” Thus he quitted Haifa, exchanging it for the world above. From this narrow slip of land he hastened upward to the Well‑Beloved, soared out of this dust heap to pitch his tent in a fair and shining place. Blessings be unto him, and a goodly home. May God sheathe him in mercies; may he rest under the tabernacles of forgiveness and be brought into the gardens of Heaven."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 32,
-    "title": "Zaynu’l‑‘Ábidín Yazdí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [32],
+        "title": "Zaynu’l‑‘Ábidín Yazdí"
+      },
       {
         "text": "One of the emigrants who died along the way to the Holy Land was Zaynu’l‑‘Ábidín of Yazd. When, in Manshád, this devoted man first heard the cry of God, he was awakened to restless life. A holy passion stirred him, his soul was made new. The light of guidance flamed from the lamp of his heart; the love of God sparked a revolution in the country of his inner self. Carried away by love for the Loved One’s beauty, he left the home that was dear to him and set out for the Desired Land."
       },
@@ -1055,16 +903,11 @@
       },
       {
         "text": "Although to outward eyes he never drained the cup of meeting, never gazed upon the beauty of Bahá’u’lláh, still he achieved the very spirit of spiritual communion; he is accounted as one of those who attained the Presence, and for him the reward of those who reached that Presence is fixed and ordained. He was a stainless soul, faithful, devoted and true. He never drew a breath except in righteousness, and his single desire was to worship his Lord. He walked the ways of love; he was known to all for steadfast loyalty and pure intent. May God fill up reunion’s cup for him in a fair country, make him to enter the everlasting Kingdom, and console his eyes with beholding the lights of that mysterious Realm."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 33,
-    "title": "Ḥájí Mullá Mihdíy‑i‑Yazdí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [33],
+        "title": "Ḥájí Mullá Mihdíy‑i‑Yazdí"
+      },
       {
         "text": "Yet another who left his homeland was Mullá Mihdí of Yazd. Although to all appearances this excellent man was not of the learned class, he was an expert in the field of Muslim sacred traditions and an eloquent interpreter of orally transmitted texts. Persevering in his devotions, known for holy practices and nightly communings and vigils, his heart was illumined, and he was spiritual of mind and soul. He spent most of his time repeating communes, performing the obligatory prayers, confessing his failings and supplicating the Lord. He was one of those who penetrate mysteries, and was a confidant of the righteous. As a teacher of the Faith he was never at a loss for words, forgetting, as he taught, all restraint, pouring forth one upon another sacred traditions and texts."
       },
@@ -1076,16 +919,11 @@
       },
       {
         "text": "He set out on foot for the house of Bahá’u’lláh. Because he lacked proper shoes for the journey, his feet were bruised and torn; his sickness worsened; he could hardly move, but still he went on; somehow he reached the village of Mazra‘ih and here, close by the Mansion, he died. His heart found his Well‑Beloved One, when he could bear the separation no more. Let lovers be warned by his story; let them know how he gambled away his life in his yearning after the Light of the World. May God give him to drink of a brimming cup in the everlasting gardens; in the Supreme Assemblage, may God shed upon his face rays of light. Upon him be the glory of the Lord. His sanctified tomb is in Mazra‘ih, beside ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 34,
-    "title": "His Eminence Kalím (Mírzá Músá)",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [34],
+        "title": "His Eminence Kalím (Mírzá Músá)"
+      },
       {
         "text": "Jináb‑i‑Mírzá Músá was the true brother of Bahá’u’lláh, and from earliest childhood he was reared in the sheltering embrace of the Most Great Name. He drank in the love of God with his mother’s milk; when yet a suckling, he showed an extraordinary attachment to the Blessed Beauty. At all times he was the object of Divine grace, favour and loving‑kindness. After their distinguished father died, Mírzá Músá was brought up by Bahá’u’lláh, growing to maturity in the haven of His care. Day by day, the youth’s servitude and devotion increased. In all things, he lived according to the commandments, and he was entirely severed from any thoughts of this world."
       },
@@ -1124,16 +962,11 @@
       },
       {
         "text": "Mírzá Músá was indeed a true brother to the Blessed Beauty; this is why he remained steadfast, under all conditions, to the very end. Unto him be praise and salutations, and the breath of life, and glory; upon him be mercy and grace."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 35,
-    "title": "Ḥájí Muḥammad Khán",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [35],
+        "title": "Ḥájí Muḥammad Khán"
+      },
       {
         "text": "Another of those who left their homes and came to settle in the neighbourhood of Bahá’u’lláh was Ḥájí Muḥammad Khán. This distinguished man, a native of Sístán, was a Balúch. When he was very young, he caught fire and became a mystic—an ‘árif, or adept. As a wandering dervish, completely selfless, he went out from his home and, following the dervish rule, travelled about in search of his murshid, his perfect leader. For he yearned, as the Qalandar dervishes would say, to discover that “priest of the Magi,” or spiritual guide."
       },
@@ -1157,31 +990,21 @@
       },
       {
         "text": "May God refresh his spirit with the musk‑scented air of the Abhá Paradise, and the sweet savours of holiness that blow from the highest Heaven. Unto him be greetings and praise. His bright tomb is in Haifa."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 36,
-    "title": "Áqá Muḥammad‑Ibráhím Amír",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [36],
+        "title": "Áqá Muḥammad‑Ibráhím Amír"
+      },
       {
         "text": "Muḥammad‑Ibráhím Amír came from Nayríz. He was a blessed person; he was like a cup filled with the red wine of faith. At the time when he was first made captive by the tender Loved One, he was in the flower of his youth. Then he fell a prey to the oppressors, and following the upheaval in Nayríz and all the suffering, his persecutors laid hold of him. Three farráshes pinned his arms and tied his hands behind him; but the Amír by main strength burst his bonds, snatched a dagger from a farrásh’s belt, saved himself and ran away to ‘Iráq. There he engaged in writing down the sacred verses and later won the honour of serving at the Holy Threshold. Constant and steadfast, he remained on duty day and night. During the journey from Baghdád to Constantinople, from there to Adrianople, and from there to the Most Great Prison, he was always at hand to serve. He married the handmaid of God, Ḥabíbih, who also served at the Threshold, and his daughter Badí‘ih became the helpmeet of the late Ḥusayn‑Áqá Qahvih‑chí."
       },
       {
         "text": "Thus the Amír was steadfast in service throughout his life; but after the ascension of Bahá’u’lláh his health steadily declined, and at last he left this world of dust behind him and hastened away to the unsullied world above. May God illumine the place where he rests with rays from the all‑highest Realm. Unto him be salutations and praise. His bright shrine is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 37,
-    "title": "Mírzá Mihdíy‑i‑Káshání",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [37],
+        "title": "Mírzá Mihdíy‑i‑Káshání"
+      },
       {
         "text": "This honoured man, Mírzá Mihdí, was from Káshán. In early youth, under his father’s tutelage, he had studied sciences and arts, and had become skilled in composing both prose and verse, as well as in producing calligraphy in the style known as shikastih. He was singled out from his fellows, head and shoulders above the rest. When still a child, he learned of the Lord’s Advent, caught fire with love, and became one of those who “gave their all to purchase Joseph.” He was chief of the yearning seekers, lord of lovers; eloquently, he began to teach the Faith, and to prove the validity of the Manifestation."
       },
@@ -1202,16 +1025,11 @@
       },
       {
         "text": "May God cause him to inhale the sweet scent of holiness in the highest Paradise, and refresh him with the crystalline wine cup, tempered at the camphor fountain. Unto him be salutations and praise. His fragrant tomb is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 38,
-    "title": "Mishkín‑Qalam",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [38],
+        "title": "Mishkín‑Qalam"
+      },
       {
         "text": "Among the exiles, neighbours, and prisoners there was also a second Mír ‘Imád, the eminent calligrapher, Mishkín‑Qalam. He wielded a musk‑black pen, and his brows shone with faith. He was among the most noted of mystics, and had a witty and subtle mind. The fame of this spiritual wayfarer reached out to every land. He was the leading calligrapher of Persia and well known to all the great; he enjoyed a special position among the court ministers of Ṭihrán, and with them he was solidly established. He was famed throughout Asia Minor; his pen was the wonder of all calligraphers, for he was adept at every calligraphic style. He was besides, for human virtues, a bright star."
       },
@@ -1241,16 +1059,11 @@
       },
       {
         "text": "Finally, when I was absent, he left this darksome, narrow world and hastened away to the land of lights. There, in the haven of God’s boundless mercy, he found infinite rewards. Unto him be praise and salutations, and the Supreme Companion’s tender grace."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 39,
-    "title": "Ustád ‘Alí‑Akbar‑i‑Najjár",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [39],
+        "title": "Ustád ‘Alí‑Akbar‑i‑Najjár"
+      },
       {
         "text": "Ustád ‘Alí‑Akbar, the Cabinet‑Maker, was numbered among the just, a prince of the righteous. He was one of Persia’s earliest believers and a leading member of that company. From the beginning of the Cause a trusted confidant, he loosed his tongue to proclaim the Faith. He informed himself as to its proofs, and went deep into its Scriptures. He was also a gifted poet, writing odes in eulogy of Bahá’u’lláh."
       },
@@ -1265,16 +1078,11 @@
       },
       {
         "text": "Upon him be God’s benediction and praise, and may God bring him into the abode of peace, as He has written in His book: “For them is an abode of peace with their Lord.” “And to those who serve Him, is God full of kindness.”"
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 40,
-    "title": "Shaykh ‘Alí‑Akbar‑i‑Mázgání",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [40],
+        "title": "Shaykh ‘Alí‑Akbar‑i‑Mázgání"
+      },
       {
         "text": "This chief of free souls, of wanderers for the love of God, was only an infant when, in Mázgán, he was suckled at the breast of grace. He was a child of the eminent scholar, Shaykh‑i‑Mázgání; his noble father was one of the leading citizens of Qamṣar, near Káshán, and for piety, holiness, and the fear of God he had no peer. This father embodied all the qualities that are worthy of praise; moreover his ways were pleasing, his disposition good, he was an excellent companion, and for all these things he was well known. When he threw off restraint and openly declared himself a believer, the faithless, whether friend or stranger, turned their backs on him and began to plot his death. But he continued to further the Cause, to alert the people’s hearts, and to welcome the newcomers as generously as ever. Thus in Káshán the fame of his strong faith reached as high as the Milky Way. Then the pitiless aggressors rose up, plundered his possessions and killed him."
       },
@@ -1283,16 +1091,11 @@
       },
       {
         "text": "When the beauty of the Desired One had vanished from this world, ‘Alí‑Akbar remained loyal to the Covenant and prospered under the grace of God. By disposition and because of the intense love in his heart, he yearned to write poetry, to fashion odes and ghazals, but he lacked both metre and rhyme: I planned a poem, but my Beloved told me, “Plan only this, that thine eyes should behold Me.” With rapturous longing, his heart desired the realms of his compassionate Lord; consumed by burning love, he left this world at last, and pitched his tent in the world above. May God send down upon his grave, from the Kingdom of His forgiveness, a heavy rain of blessings, bestow a great victory upon him, and grant him mercies, pressed down and running over, in the retreats of Heaven."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 41,
-    "title": "Mírzá Muḥammad, the Servant at the Travellers’ Hospice",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [41],
+        "title": "Mírzá Muḥammad, the Servant at the Travellers’ Hospice"
+      },
       {
         "text": "This youth of God was from Iṣfáhán, and from an early age was known to its leading divines for his excellent mind. He was of gentle birth, his family was known and respected, and he was an accomplished scholar. He had profited from philosophy and history alike, from sciences and arts, but he thirsted after the secret of reality, and longed for knowledge of God. His feverish thirst was not allayed by the arts and sciences, however limpid those waters. He kept on seeking, seeking, carrying on debates in gatherings of learned men until at last he discovered the meaning of his longing dream, and the enigma, the inviolable secret, lay open before him. Suddenly he caught the scent of fresh flowers from the gardens of the splendour of God, and his heart was ashine with a ray from the Sun of Truth. Whereas before, he was like a fish taken from the water, now he had come to the wellspring of eternal life; before, he was a questing moth; now he had found the candle flame. A true seeker after truth, he was instantly revived by the supreme Glad Tidings; his heart’s eye was brightened by the new dawn of guidance. So blinding was the fire of Divine love that he turned his face away from his life, its peace, its blessings, and set out for the Most Great Prison."
       },
@@ -1304,16 +1107,11 @@
       },
       {
         "text": "At last he quit this dust heap, the earth, and took his flight to the world that has no end. May it do him good, that cup brimming with the grace of God, may he eat with healthy relish of that food which gives life to heart and soul. May God lead him to that happy journey’s end and grant him an abundant share in the gifts which shall then be bestowed."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 42,
-    "title": "Mírzá Muḥammad‑i‑Vakíl",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [42],
+        "title": "Mírzá Muḥammad‑i‑Vakíl"
+      },
       {
         "text": "One of the captives who were sent on from Baghdád to Mosul was Mírzá Muḥammad‑i‑Vakíl. This righteous soul was among those who became believers in Baghdád. It was there he drank from the cup of resignation to the will of God and sought his rest in the shade of the celestial Tree. He was a man high‑minded and worthy of trust. He was also an extremely capable and energetic administrator of important affairs, famous in ‘Iráq for his wise counsel. After he became a believer, he was distinguished by the title of Vakíl—deputy. It happened in this way:"
       },
@@ -1373,16 +1171,11 @@
       },
       {
         "text": "Mírzá Muḥammad was taken prisoner and sent away from Baghdád to Mosul, where he fell a prey to fearful ills. He had been rich; in God’s path he was now poor. He had enjoyed his ease and comfort; now, for the love of God, he suffered pain and toil. He lived on for a time in Mosul, suppliant, resigned, and lowly. And then, severed from all save God, irresistibly drawn by the gentle gales of the Lord, he rose out of this dark world to the land of light. Unto him be salutations and praise. May God shed down upon him the waters of forgiveness, and open before his grave the gates of Heaven."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 43,
-    "title": "Ḥájí Muḥammad‑Riḍáy‑i‑Shírází",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [43],
+        "title": "Ḥájí Muḥammad‑Riḍáy‑i‑Shírází"
+      },
       {
         "text": "Ḥájí Muḥammad‑Riḍá came from Shíráz. He was a man spiritually minded, lowly, contrite, the embodiment of serenity and faith. When the call of God was lifted up, that needy soul hurried into the shelter of heavenly grace. As soon as he heard the summons, “Am I not your Lord?” he cried out: “Yea, verily!” and became as a lamp to the people’s feet."
       },
@@ -1394,16 +1187,11 @@
       },
       {
         "text": "Unto him be greetings and praise, and the glory of the All‑Glorious. Upon him be compassion and most great mercy from the Lord of the High Heavens. His shining grave is in Sidon, near the place called the Station of John the Holy."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 44,
-    "title": "Ḥusayn Effendi Tabrízí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [44],
+        "title": "Ḥusayn Effendi Tabrízí"
+      },
       {
         "text": "This youth was from Tabríz, and he was filled with the love of God like a cup flowing and brimming over with red wine. In the flower of his youth he left Persia and travelled to Greece, making his living as a merchant there; till a day came when, guided by Divine bounty, he went from Greece to Smyrna, and there he was given the glad tidings of a new Manifestation on earth. He shouted aloud, was frenzied, was drunk with the music of the new message. He escaped from his debits and credits, set out to meet the Lord of his heart, and entered the presence of Bahá’u’lláh. For some time, a trusted attendant and companion, he served the Blessed Beauty. He was then directed to seek a lodging in the city of Haifa."
       },
@@ -1415,16 +1203,11 @@
       },
       {
         "text": "Praise be unto him, and salutations, and the mercy of God, and Divine acceptance. May God pardon him and make him to enter the highest Heaven, the Paradise that towers above all the rest. His sweet‑scented grave is in Haifa."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 45,
-    "title": "Jamshíd‑i‑Gurjí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [45],
+        "title": "Jamshíd‑i‑Gurjí"
+      },
       {
         "text": "Yet another of the emigrants and settlers was the valiant Jamshíd‑i‑Gurjí, who came from Georgia, but grew up in the city of Káshán. He was a fine youth, faithful, trustworthy, with a high sense of honour. When he heard of a new Faith dawning, and awoke to the tidings that on Persia’s horizons the Sun of Truth had risen, he was filled with holy ecstasy, and he longed and loved. The new fire burned away those veils of uncertainty and doubt that had closed him round; the light of Truth shed down its rays, the lamp of guidance burned before him."
       },
@@ -1442,16 +1225,11 @@
       },
       {
         "text": "Salutations be unto him, and praise. His grave, sweet as musk, is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 46,
-    "title": "Ḥájí Ja‘far‑i‑Tabrízí and His Brothers",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [46],
+        "title": "Ḥájí Ja‘far‑i‑Tabrízí and His Brothers"
+      },
       {
         "text": "There were three brothers, all from Tabríz: Ḥájí Ḥasan, Ḥájí Ja‘far, and Ḥájí Taqí. These three were like eagles soaring; they were three stars of the Faith, pulsing with the light of the love of God."
       },
@@ -1475,16 +1253,11 @@
       },
       {
         "text": "This, then, is the life story of those three brothers. All three were souls well‑assured; all three were pleased, and pleasing unto God. They were flames; they were captives of the Faith; they were pure and holy. And therefore, cut off from the world, turning their faces toward the Most High Kingdom, they ascended. May God wrap them in the garment of His grace in the realm of forgiveness, and immerse them in the waters of His mercy forever and ever. Greetings be unto them, and praise."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 47,
-    "title": "Ḥájí Mírzá Muḥammad‑Taqí, the Afnán",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [47],
+        "title": "Ḥájí Mírzá Muḥammad‑Taqí, the Afnán"
+      },
       {
         "text": "Among those souls that are righteous, that are luminous entities and Divine reflections, was Jináb‑i‑Muḥammad‑Taqí, the Afnán. His title was Vakílu’d‑Dawlih. This eminent Bough was an offshoot of the Holy Tree; in him an excellent character was allied to a noble lineage. His kinship was a true kinship. He was among those souls who, after one reading of the Book of Íqán, became believers, bewitched by the sweet savours of God, rejoicing at the recital of His verses. His agitation was such that he cried out, “Lord, Lord, here am I!” Joyously, he left Persia and hurried away to ‘Iráq. Because he was filled with longing love, he sped over the mountains and across the desert wastes, not pausing to rest until he came to Baghdád."
       },
@@ -1508,16 +1281,11 @@
       },
       {
         "text": "His bright grave is in Haifa, beside the Ḥaẓíratu’l‑Quds, near Elijah’s Cave. A tomb must be erected there, and built solidly and well. May God shed upon his resting‑place rays from the Paradise of Splendours, and lave that holy dust with the rains that beat down from the retreats of the Exalted Companion. Upon him be the glory of the All‑Glorious."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 48,
-    "title": "‘Abdu’lláh Baghdádí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [48],
+        "title": "‘Abdu’lláh Baghdádí"
+      },
       {
         "text": "When he was very young, people thought of ‘Abdu’lláh Baghdádí as a libertine, solely devoted to pleasure. He was regarded by all as the sport of inordinate desires, mired down in his physical passions. But the moment he became a believer, he was carried away by the sweet savours of God, and was changed into a new creation. He found himself in a strange rapture, completely transformed. He had been of the world, now he was of Heaven; he had lived by the flesh, now he lived by the spirit; he had walked in darkness, now he walked in light. He had been a slave to his senses, now he was a thrall of God. He had been clay and earthenware before, now he was a dear‑bought pearl; a dull and lusterless stone before, now a ruby glowing."
       },
@@ -1529,16 +1297,11 @@
       },
       {
         "text": "But his burning heart broke when he saw how victimised was Bahá’u’lláh, how patiently He suffered. ‘Abdu’lláh yearned to die for Him. And thus it came about that he offered up his life for his tender Companion, and hastened away, out of this dark world to the country of light. His luminous grave is in ‘Akká. Upon him be the glory of the All‑Glorious; upon him be mercy, out of the grace of the Lord."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 49,
-    "title": "Muḥammad‑Muṣṭafá Baghdádí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [49],
+        "title": "Muḥammad‑Muṣṭafá Baghdádí"
+      },
       {
         "text": "Muḥammad‑Muṣṭafá was a blazing light. He was the son of the famous scholar Shaykh Muḥammad‑i‑Shibl; he lived in ‘Iráq, and from his earliest youth was clearly unique and beyond compare; wise, brave, deserving in every way, he was known far and wide. From childhood, guided by his father, he had lit the light of faith in the chapel of his heart. He had rid himself of the hindering veils of illusion, gazed about with perceptive eyes, witnessed great new signs of God and, regardless of the consequences, had cried aloud: “The earth hath shone out with the light of her Lord!”"
       },
@@ -1565,16 +1328,11 @@
       },
       {
         "text": "May God lift him up to the highest Heaven, to the fellowship of glory. May God bring him into the land of lights, the mysterious Kingdom, the assemblage of the splendours of the mighty, all powerful Lord. Upon him be the glory of the All‑Glorious."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 50,
-    "title": "Sulaymán Khán‑i‑Tunukábání",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [50],
+        "title": "Sulaymán Khán‑i‑Tunukábání"
+      },
       {
         "text": "Sulaymán Khán was the emigrant and settler who was given the title of Jamáli’d‑Dín. He was born in Tunukábán, into an old family of that region. He was cradled in wealth, bred to ease, reared in the comfortable ways of luxury. From his early childhood he had high ambitions and noble aims, and he was honour and aspiration personified. At first he planned to outdistance all his fellows and achieve some lofty rank. For this reason he left his birthplace and went to the capital, Ṭihrán, where he hoped to become a leader, surpassing the rest of his generation."
       },
@@ -1607,16 +1365,11 @@
       },
       {
         "text": "Sulaymán Khán lived on in the Holy Land, near the Shrine which the Exalted Assembly circle about. He kept company with the believers until the day of inescapable death, when he set out for the mansions of Him Who liveth, and dieth not. He turned his back on this heap of dust, the world, and hurried away to the country of light. He broke out of this cage of contingent being and soared into the endless, placeless Realm. May God enfold him in the waters of His mercy, cause His forgiveness to rain down upon him, and bestow on him the wonders of abounding grace. Salutations be unto him, and praise."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 51,
-    "title": "‘Abdu’r‑Raḥmán, the Coppersmith",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [51],
+        "title": "‘Abdu’r‑Raḥmán, the Coppersmith"
+      },
       {
         "text": "This was a patient and long‑enduring man, a native of Káshán. He was one of the very earliest believers. The down was not yet upon his cheek when he drank of the love of God, saw with his own eyes the heavenly table spread out before him, and received his faith and his portion of abounding grace."
       },
@@ -1625,16 +1378,11 @@
       },
       {
         "text": "‘Abdu’r‑Raḥmán was among the prisoners exiled to Mosul, and later he fairly dragged himself to the fortress at ‘Akká. Here he lived, blessed by Bahá’u’lláh. He carried on a small business, trifling, but he was content with it, happy and at peace. Thus, walking the path of righteousness, he lived to be eighty years old, at which time, serenely patient, he soared away to the Threshold of God. May the Lord enfold him there with His bounty and compassion, and clothe him in the garment of forgiveness. His luminous grave is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 52,
-    "title": "Muḥammad‑Ibráhím‑i‑Tabrízí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [52],
+        "title": "Muḥammad‑Ibráhím‑i‑Tabrízí"
+      },
       {
         "text": "This man, noble and high‑minded, was the son of the respected ‘Abdu’l‑Faṭṭáḥ who was in the ‘Akká prison. Learning that his father was a captive there, he came with all speed to the fortress so that he too might have a share of those dire afflictions. He was a man wise, understanding, in a tumult from drinking the wine of the love of God, but with a wonderful, basic serenity and calm."
       },
@@ -1643,16 +1391,11 @@
       },
       {
         "text": "He always did what he could to provide for the happiness of the believers; he always saw to their well‑being. He was sagacious, grave, and steadfast. By God’s grace, he stayed loyal to the end, and sound in faith. May God give him to drink from the cup of forgiveness; may he sip from the spring of God’s bounty and good pleasure; may God raise him up to the heights of Divine bestowal. His sweet‑scented tomb is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 53,
-    "title": "Muḥammad‑‘Alíy‑i‑Ardikání",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [53],
+        "title": "Muḥammad‑‘Alíy‑i‑Ardikání"
+      },
       {
         "text": "In the flower of tender youth, Muḥammad‑‘Alí, the illumined, heard the cry of God, and lost his heart to heavenly grace. He entered the service of the Afnán, offshoot of the Holy Tree, and lived happy and content. This was how he came to the city of ‘Akká, and was for quite a time present at the Sacred Threshold, winning a crown of lasting glory. The eye of Bahá’u’lláh’s grace and favour was upon him. He served with a loyal heart. He had a happy nature, a comely face; he was a man believing, seeking, tested and tried."
       },
@@ -1661,16 +1404,11 @@
       },
       {
         "text": "This man was a true servant of the Threshold, a good friend to the believers. All were pleased with him, finding him an excellent companion, gentle and mild. May God succour him in His exalted Kingdom, and give him a home in the Abhá Realm, and send upon him abounding grace from the gardens of Heaven—the place of meeting, the place of the mystical contemplation of God. His amber‑scented dust is in Haifa."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 54,
-    "title": "Ḥájí Áqáy‑i‑Tabrízí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [54],
+        "title": "Ḥájí Áqáy‑i‑Tabrízí"
+      },
       {
         "text": "Early in his youth this spiritual man, who came from Tabríz, had sensed the mystic knowledge and drunk the heady wine of God, and he remained staunch as ever in the Faith during his years of helpless age."
       },
@@ -1679,16 +1417,11 @@
       },
       {
         "text": "Along with us homeless wanderers, and under the protection of the Ancient Beauty, he came to the Most Great Prison and was a confidant and companion, sharing with us the calamities and tribulations, humble and long‑enduring. Afterward, when the restrictions were somewhat relaxed, he engaged in trade, and through the bounty of Bahá’u’lláh was comfortable and at peace. But his body had become enfeebled from the earlier hardships, and all the suffering, and his faculties had deteriorated; so that ultimately he fell ill, beyond hope of a remedy; and not far from Bahá’u’lláh, and shadowed by His protection, he hastened away from this least of worlds to the high Heavens, from this dark place to the land of lights. May God immerse him in the waters of forgiveness; may He bring him into the gardens of Paradise, and there keep him safe forevermore. His pure dust rests in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 55,
-    "title": "Ustád Qulám‑‘Alíy‑i‑Najjár",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [55],
+        "title": "Ustád Qulám‑‘Alíy‑i‑Najjár"
+      },
       {
         "text": "This man, a carpenter and a master craftsman, came from Káshán. For faith and certitude, he was like a sword drawn from the scabbard. He was well known in his own city as a man righteous, true and worthy of trust. He was high‑minded, abstemious and chaste. When he became a believer, his urgent longing to meet Bahá’u’lláh could not be stilled; full of joyous love, he went out of the Land of Káf (Káshán) and travelled to ‘Iráq, where he beheld the splendour of the rising Sun."
       },
@@ -1700,16 +1433,11 @@
       },
       {
         "text": "After some years in this neighbourhood, he rose upward to the neighbourhood of the all‑embracing mercy of God, and became a friend to those who dwell in the high Heavens. He had the honour of meeting Bahá’u’lláh in both worlds. This is the most precious bestowal, the costliest of all gifts. To him be salutations and praise. His bright grave is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 56,
-    "title": "Jináb‑i‑Muníb, upon him be the Glory of the All‑Glorious",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [56],
+        "title": "Jináb‑i‑Muníb, upon him be the Glory of the All‑Glorious"
+      },
       {
         "text": "His name was Mírzá Áqá and he was spirit itself. He came from Káshán. In the days of the Báb, he was drawn to the sweet savours of God; it was then he caught fire. He was a fine youth, handsome, full of charm and grace. He was a calligrapher second to none, a poet, and he had as well a remarkable singing voice. He was wise and perceptive; staunch in the Faith of God; a flame of God’s love, severed from all but God."
       },
@@ -1736,16 +1464,11 @@
       },
       {
         "text": "His grave is in Smyrna, but it is off by itself, and deserted. Whenever this can be done, the friends must search for it, and that neglected dust must be changed into a much‑frequented shrine, so that pilgrims who visit there may breathe in the sweet scent of his last resting‑place."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 57,
-    "title": "Mírzá Muṣṭafá Naráqí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [57],
+        "title": "Mírzá Muṣṭafá Naráqí"
+      },
       {
         "text": "Among that company of pure and goodly souls was Mírzá Muṣṭafá, a leading citizen of Naráq and one of the earliest believers. His face shone with the love of God. His mind was concerned with the anemones of mystic meanings, fair as meadows and beds of flowers."
       },
@@ -1769,16 +1492,11 @@
       },
       {
         "text": "From youth till old age, this illustrious man, Mírzá Muṣṭafá, devoted his entire life to service on the pathway of God. Today he dwells in the all‑glorious Realm, in the neighbourhood of the ineffable mercy of God, and he rejoices with exceeding gladness, and he celebrates the praise of his Lord. Blessedness be his, and a goodly home. To him be tidings of great joy, from the Lord of Lords. May God grant him an exalted station, in that high Company."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 58,
-    "title": "Zaynu’l‑Muqarrabín",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [58],
+        "title": "Zaynu’l‑Muqarrabín"
+      },
       {
         "text": "This distinguished man was one of the greatest of all the Báb’s companions and all the loved ones of Bahá’u’lláh. When he lived under Islám, he was already famed for his purity and holiness of life. He was talented and highly accomplished in many directions. He was the leader and spiritual exemplar of the entire population of Najaf‑Ábád, and the eminent of that area showed him unbounded respect. When he spoke out, his was the deciding opinion; when he passed judgement, it took effect; for he was known to all as the standard, and the authority of last resort."
       },
@@ -1805,16 +1523,11 @@
       },
       {
         "text": "Unto him be salutations and praise from the luminous Realm, and the glory of the All‑Glorious from the Concourse on high, and great joy in that Kingdom which endures forever. May God provide him with an exalted station in the Abhá Paradise."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 59,
-    "title": "‘Aẓím‑i‑Tafríshí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [59],
+        "title": "‘Aẓím‑i‑Tafríshí"
+      },
       {
         "text": "This man of God came from the district of Tafrísh. He was detached from the world, fearless, independent of kindred and stranger alike. He was one of the earliest believers, and belonged to the company of the faithful. It was in Persia that he won the honour of belief, and began to assist the friends; he was a servant to every believer, a trusted helper to every traveller. With Músáy‑i‑Qumí, upon whom be the glory of God, he came to ‘Iráq, received his portion of bounty from the Light of the World, and was honoured with entering the presence of Bahá’u’lláh, attending upon Him and becoming the object of bestowals and grace."
       },
@@ -1832,16 +1545,11 @@
       },
       {
         "text": "Mercies be upon ‘Aẓím from the Kingdom of Divine compassion; God’s glory be upon him, at nightfall and the rising of the sun."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 60,
-    "title": "Mírzá Ja‘far‑i‑Yazdí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [60],
+        "title": "Mírzá Ja‘far‑i‑Yazdí"
+      },
       {
         "text": "This knight of the battlefield was one of the most learned of seekers after truth, well versed in many branches of knowledge. For a long time he was in the schools, specialising in the fundamentals of religion and religious jurisprudence, and making researches into philosophy and metaphysics, logic and history, the contemplative and the narrated sciences. He began, however, to note that his fellows were arrogant and self‑satisfied, and this repelled him. It was then that he heard the cry out of the Supreme Concourse, and without a moment’s hesitation he raised up his voice and shouted, “Yea, verily!”; and he repeated the words, “O our Lord! We have heard the voice of one that called. He called us to the Faith—‘Believe ye on your Lord’—and we have believed.”"
       },
@@ -1862,16 +1570,11 @@
       },
       {
         "text": "Greetings and praise be unto him; upon him be the glory of the All‑Glorious, and the favouring glances of the Lord. His luminous grave is in ‘Akká."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 61,
-    "title": "Ḥusayn‑Áqáy‑i‑Tabrízí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [61],
+        "title": "Ḥusayn‑Áqáy‑i‑Tabrízí"
+      },
       {
         "text": "This man who was close to the Divine Threshold was the respected son of ‘Alí‑‘Askar‑i‑Tabrízí. Full of yearning love, he came with his father from Tabríz to Adrianople, and by his own wish, went on with joy and hope to the Most Great Prison. From the day of his arrival at the fortress of ‘Akká he took over the coffee service, and waited upon the friends. This accomplished man was so patient, so docile, that over a forty‑year period, despite extreme difficulties (for day and night, friend and stranger alike thronged the doors), he attended upon each and every one who came, faithfully helping them all. During all that time Ḥusayn‑Áqá never offended a soul, nor did anyone, where he was concerned, utter a single complaint. This was truly a miracle, and no one else could have established such a record of service. He was always smiling, attentive as to the tasks committed to his care, known as a man to trust. In the Cause of God he was staunch, proud and true; in times of calamity he was patient and long‑suffering."
       },
@@ -1886,16 +1589,11 @@
       },
       {
         "text": "After forty years of serving, he forsook this swiftly passing world and soared away to the realms of God. Greetings and praise be unto him, and mercy from his bountiful Lord. May his grave be encircled with lights that stream from the exalted Companion. His resting‑place is in Haifa."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 62,
-    "title": "Ḥájí ‘Alí‑‘Askar‑i‑Tabrízí",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [62],
+        "title": "Ḥájí ‘Alí‑‘Askar‑i‑Tabrízí"
+      },
       {
         "text": "The distinguished ‘Alí‑‘Askar was a merchant from Tabríz. He was much respected in Ádhirbáyján by all who knew him, and recognised for godliness and trustworthiness, for piety and strong faith. The people of Tabríz, one and all, acknowledged his excellence and praised his character and way of life, his qualities and talents. He was one of the earliest believers, and one of the most notable."
       },
@@ -1934,16 +1632,11 @@
       },
       {
         "text": "Praise be to God! He died in the Most Great Prison, still patient and thankful, still with dignity and firm in his faith. He rose up to the retreats of the compassionate Lord. Upon him be the glory of the All‑Glorious; to him be salutations and praise: upon him be mercy and forgiveness forever and ever."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 63,
-    "title": "Áqá ‘Alíy‑i‑Qazvíní",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [63],
+        "title": "Áqá ‘Alíy‑i‑Qazvíní"
+      },
       {
         "text": "This eminent man had high ambitions and aims. He was to a supreme degree constant, loyal and firmly rooted in his faith, and he was among the earliest and greatest of the believers. At the very dawn of the new Day of Guidance he became enamoured of the Báb and began to teach. From morning till dark he worked at his craft, and almost every night he entertained the friends at supper. Being host in this way to friends in the spirit, he guided many seekers to the Faith, attracting them with the melody of the love of God. He was amazingly constant, energetic, and persevering."
       },
@@ -1967,16 +1660,11 @@
       },
       {
         "text": "Then the fixed hour was upon him, the daybreak of his hopes, and it came his turn to soar away, into the invisible realm. Sheltered under the protection of Bahá’u’lláh, he went swiftly forth to that mysterious land. To him be salutations and praise and mercy from the Lord of this world and the world to come. May God light up his resting‑place with rays from the Companion on high."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 64,
-    "title": "Áqá Muḥammad‑Báqir and Áqá Muḥammad‑Ismá‘íl, the Tailor",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [64],
+        "title": "Áqá Muḥammad‑Báqir and Áqá Muḥammad‑Ismá‘íl, the Tailor"
+      },
       {
         "text": "These were two brothers who, in the path of God, captives along with the rest, were shut in the ‘Akká fortress. They were brothers of the late Pahlaván Riḍá. They left Persia and emigrated to Adrianople, hastening to the loving‑kindness of Bahá’u’lláh; and under His protection, they came to ‘Akká."
       },
@@ -2012,31 +1700,21 @@
       },
       {
         "text": "The Blessed Beauty showered His blessings on these two brothers. In life, they were encompassed by His grace and favour; in death, they were memorialised in His Tablets. Their grave is in ‘Akká. Greetings be unto them, and praise. The glory of the All‑Glorious be upon them, and God’s mercy, and His benediction."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 65,
-    "title": "Abu’l‑Qásim of Sulṭán‑Ábád",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [65],
+        "title": "Abu’l‑Qásim of Sulṭán‑Ábád"
+      },
       {
         "text": "Another among the prisoners was Abu’l‑Qásim of Sulṭán‑Ábád, the travelling companion of Áqá Faraj. These two were unassuming, loyal and staunch. Once their souls had come alive through the breathings of the Faithful Spirit they hastened out of Persia to Adrianople, for such was the unabating cruelty of the malevolent that they could no longer remain in their own home. On foot, free of every tie, they took to the plains and hills, seeking their way across trackless waters and desert sands. How many a night they could not sleep, staying in the open with no place to lay their heads; with nothing to eat or drink, no bed but the bare earth, no food but the desert grasses. Somehow they dragged themselves along and managed to reach Adrianople. It happened that they came during the last days in that city, and were taken prisoner with the rest, and in the company of Bahá’u’lláh they travelled to the Most Great Prison."
       },
       {
         "text": "Abu’l‑Qásim fell violently ill with typhus. He died about the same time as those two brothers, Muḥammad‑Báqir and Muḥammad‑Ismá‘íl, and his pure remains were buried outside ‘Akká. The Blessed Beauty expressed approval of him and the friends, all of them, wept over his afflictions and mourned him. Upon him be the glory of the All‑Glorious."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 66,
-    "title": "Áqá Faraj",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [66],
+        "title": "Áqá Faraj"
+      },
       {
         "text": "In all these straits, Áqá Faraj was the companion of Abu’l‑Qásim. When, in Persian ‘Iráq, he first heard the uproar caused by the Advent of the Most Great Light, he shook and trembled, clapped his hands, cried out in exultation and hastened off to ‘Iráq. Overcome with delight, he entered the presence of his holy Lord. He was gathered into the loving fellowship, and blissfully received the honour of attending upon Bahá’u’lláh. Then he returned, bearing glad tidings to Sulṭán‑Ábád."
       },
@@ -2048,16 +1726,11 @@
       },
       {
         "text": "Strong in faith, in devotion, he left this life and set his face toward the Kingdom of God, to become the object of endless grace. Upon him be God’s mercy and good pleasure, in His Paradise. Greetings be unto him, and praise, in the meadows of Heaven."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 67,
-    "title": "The Consort of the King of Martyrs",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [67],
+        "title": "The Consort of the King of Martyrs"
+      },
       {
         "text": "Among the women who came out of their homeland was the sorrowing Fáṭimih Begum, widow of the King of Martyrs. She was a holy leaf of the Tree of God. From her earliest youth she was beset with uncounted ordeals. First was the disaster which overtook her noble father in the environs of Badasht, when, after terrible suffering, he died in a desert caravanserai, died hard—helpless and far from home."
       },
@@ -2111,16 +1784,11 @@
       },
       {
         "text": "Verily Thou art the Generous, the Bestower, the Forgiver, the All‑Merciful."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 68,
-    "title": "Shamsu’ḍ‑Ḍuḥá",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [68],
+        "title": "Shamsu’ḍ‑Ḍuḥá"
+      },
       {
         "text": "Khurshíd Begum, who was given the title of Shamsu’ḍ‑Ḍuḥá, the Morning Sun, was mother‑in‑law to the King of Martyrs. This eloquent, ardent handmaid of God was the cousin on her father’s side of the famous Muḥammad‑Báqir of Iṣfáhán, widely celebrated as chief of the ‘ulamás in that city. When still a child she lost both her parents, and was reared by her grandmother in the home of that famed and learned mujtahid, and well trained in various branches of knowledge, in theology, sciences and the arts."
       },
@@ -2192,16 +1860,11 @@
       },
       {
         "text": "Shamsu’ḍ‑Ḍuḥá was heavy of heart. She mourned his absence, she wasted away with longing for him, and it was all much harder because then the Supreme Affliction came upon us, the crowning anguish. The basis of her life was undermined; candle‑like, she was consumed with grieving. She grew so feeble that she took to her bed, unable to move. Still, she did not rest, nor keep silent for a moment. She would tell of days long gone, of things that had come to pass in the Cause, or she would recite from Holy Writ, or she would supplicate, and chant her prayers—until, out of the Most Great Prison, she soared away to the world of God. She hastened away from this dust gulf of perdition to an unsullied country; packed her gear and journeyed to the land of lights. Unto her be salutations and praise, and most great mercy, sheltered in the compassion of her omnipotent Lord."
-      }
-    ]
-  },
-  {
-    "path": ["Memorials of the Faithful"],
-    "item": 69,
-    "title": "Ṭáhirih",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1914, 1915],
-    "paragraphs": [
+      },
+      {
+        "section": [69],
+        "title": "Ṭáhirih"
+      },
       {
         "text": "A woman chaste and holy, a sign and token of surpassing beauty, a burning brand of the love of God, a lamp of His bestowal, was Jináb‑i‑Ṭáhirih. She was called Umm‑Salmá; she was the daughter of Ḥájí Mullá Ṣáliḥ, a mujtahid of Qazvín, and her paternal uncle was Mullá Taqí, the Imám‑Jum‘ih or leader of prayers in the cathedral mosque of that city. They married her to Mullá Muḥammad, the son of Mullá Taqí, and she gave birth to three children, two sons and a daughter; all three were bereft of the grace that encompassed their mother, and all failed to recognise the truth of the Cause."
       },

@@ -703,10 +703,10 @@ export const files = {
         "The Tablet of Ishráqát\n\nThe Eighth Ishráq",
         "## The Tablet of Ishráqát: The Eighth Ishráq",
       ],
-      title("##", "Long Obligatory Prayer"),
-      title("##", "Medium Obligatory Prayer"),
-      title("##", "Short Obligatory Prayer"),
-      title("##", "Prayer for the Dead"),
+      title("##", "Long Obligatory Prayer", { type: "Prayer" }),
+      title("##", "Medium Obligatory Prayer", { type: "Prayer" }),
+      title("##", "Short Obligatory Prayer", { type: "Prayer" }),
+      title("##", "Prayer for the Dead", { type: "Prayer" }),
       ...obligatory,
       title("#", "Questions and Answers"),
       [
@@ -1214,7 +1214,6 @@ export const files = {
       title("", "Memorials of the Faithful", {
         author: "‘Abdu’l‑Bahá",
         years: [1914, 1915],
-        collection: true,
       }),
       [/^— .* —$\n\n/gm, "# "],
     ],
@@ -1226,9 +1225,9 @@ export const files = {
         years: [1911, 1913],
         collection: true,
       }),
-      title("#", "Part One", { collection: true }),
-      title("#", "Part Two", { collection: true }),
-      title("#", "Part Three", { collection: true }),
+      title("#", "Part One"),
+      title("#", "Part Two"),
+      title("#", "Part Three"),
       [/^— .* —$\n\n/gm, "## "],
     ],
     "promulgation-universal-peace": [
@@ -1241,7 +1240,7 @@ export const files = {
         collection: true,
       }),
       [/^— .* —$\n\n(.*)\n\n(.*)/gm, (_, a, b) => `## ${b}\n\n${a}`],
-      [/^(Talk.*)$\n\n(.*)/gm, (_, a, b) => `# ${a} (${b})\ncollection`],
+      [/^(Talk.*)$\n\n(.*)/gm, (_, a, b) => `# ${a} (${b})`],
     ],
     "secret-divine-civilization": [
       ["‘Abdu’l‑Bahá", ""],
@@ -1439,7 +1438,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         author: "Laura Clifford Barney",
         years: [1908, 1908],
       }),
-      [/^(Part \d)\n\n(.*)/gm, (_, a, b) => `# ${a}: ${b}\ncollection`],
+      [/^(Part \d)\n\n(.*)/gm, (_, a, b) => `# ${a}: ${b}`],
       [/^— .* —$\n\n/gm, "## "],
     ],
     "tablet-august-forel": [
@@ -1458,7 +1457,6 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       title("", "Tablets of the Divine Plan", {
         author: "‘Abdu’l‑Bahá",
         years: [1916, 1917],
-        collection: true,
       }),
       [/^\d+$\n\n(.*)\n\n\*\*\*\n\n/gm, (_, a) => `# ${a}\n\n * `],
       [/^\*\*\*$/gm, ""],
@@ -1470,7 +1468,6 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       title("", "‘Abdu’l‑Bahá’s Tablets to The Hague", {
         author: "‘Abdu’l‑Bahá",
         years: [1919, 1920],
-        collection: true,
       }),
       title("#", "First Tablet to The Hague"),
       title("#", "Second Tablet to The Hague"),
@@ -1490,7 +1487,6 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       title("", "Twelve Table Talks given by ‘Abdu’l‑Bahá in ‘Akká", {
         author: "‘Abdu’l‑Bahá",
         years: [1904, 1907],
-        collection: true,
       }),
       [/^— .* —$\n\n/gm, "# "],
     ],
@@ -1503,6 +1499,9 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       title("#", "Part One"),
       title("#", "Part Two"),
       title("#", "Part Three"),
+      ["of the slanderer affect not", "of the slanderer affects not"],
+      ["flight into the Celestial", "flight unto the Celestial"],
+      ["guidance of the Exalted", "guidance of His Holiness, the Exalted"],
     ],
     "prayers-abdul-baha": [
       ["March 2021", ""],
@@ -1652,6 +1651,13 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
           return `${a.replace(/\.$/, "")}\nyears=[${date},${date}]`;
         },
       ],
+      ["be offered for His loved ones", "be offered up for His loved ones"],
+      ["stronghold of Thy Cause", "stronghold of Thy care"],
+      ["days and night in promoting", "days and nights in promoting"],
+      ["gold, would he seize", "gold, will he seize"],
+      ["you attract them to yourself", "you attract them to yourselves"],
+      ["just and show your fidelity", "just and to show your fidelity"],
+      ["his particular convictions", "his particular conviction"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -1765,7 +1771,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       title("#", "The Goal of a New World Order"),
       title("#", "The Golden Age of the Cause of Bahá’u’lláh"),
       title("#", "America and the Most Great Peace"),
-      title("#", "The Dispensation of Bahá’u’lláh", { collection: true }),
+      title("#", "The Dispensation of Bahá’u’lláh"),
       title("##", "Bahá’u’lláh"),
       title("##", "The Báb"),
       title("##", "‘Abdu’l‑Bahá"),
@@ -1775,6 +1781,8 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         "“The ills from which the world now suffers,” wrote ‘Abdu’l‑Bahá in January, 1920, “will multiply; the gloom which envelops it will deepen. The Balkans will remain discontented. Its restlessness will increase. The vanquished Powers will continue to agitate. They will resort to every measure that may rekindle the flame of war. Movements, newly‑born and world‑wide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“This darkness,” wrote ‘Abdu’l‑Bahá in January, 1920, “shall never vanish, these chronic diseases shall never be healed; nay, they shall grow fiercer from day to day. The Balkans will remain restless, and its condition will aggravate. The vanquished will not keep still, but will seize every means to kindle anew the flame of war. Modern universal movements will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
       ],
+      [/^[A-Z].{1,80}[a-z]$/gm, (a) => `## ${a}`],
+      ["## The World Order of Bahá’u’lláh", "The World Order of Bahá’u’lláh"],
     ],
   },
   "the-universal-house-of-justice": {
@@ -2335,6 +2343,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
           ].join("\n\n");
         },
       ],
+      prefix("\n\nO ye tender seedlings in the garden", '\ntype=""'),
       prefix("\n\nO loved ones of ‘Abdu’l‑Bahá!", '\ntype=""'),
       ["from whatever is obnoxious", "from whatsoever is obnoxious"],
     ],

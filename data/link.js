@@ -16,13 +16,17 @@ const findSource = (documents, doc, simplified) =>
     (d) =>
       d.id !== doc.id &&
       d.id !== "bahaullah-days-remembrance-037" &&
-      !d.id.startsWith("prayers") &&
+      !(d.id.startsWith("prayers") && d.type !== "Prayer") &&
       (d.author !== doc.author ||
         doc.author === "The Universal House of Justice" ||
         doc.id.startsWith("prayers") ||
         doc.id.startsWith("bahaullah-gleanings-writings-bahaullah") ||
         doc.id.startsWith("bahaullah-days-remembrance") ||
+        doc.id === "bahaullah-kitab-i-aqdas-005" ||
         doc.id.startsWith("abdul-baha-selections-writings-abdul-baha") ||
+        doc.path.includes(
+          "Part One: Excerpts from the Will and Testament of ‘Abdu’l‑Bahá"
+        ) ||
         d.type === "Prayer") &&
       d.years[0] <= doc.years[1] &&
       simplified.every((s) =>

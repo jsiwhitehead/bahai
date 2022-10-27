@@ -160,11 +160,7 @@
           ['abdul-baha']: pages.'abdulbaha',
           ['bahaullah']: pages.'bahaullah',
           ['the-bab']: pages.'thebab',
-          ['doc', x]: [
-            'stack': 20,
-            ['color': 'blue', 'underline': hover, 'link': [group], '« Back'],
-            render(doc),
-          ],
+          ['doc', x]: render(doc),
           []: 'Hello',
         ],
       ]

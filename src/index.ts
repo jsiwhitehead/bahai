@@ -131,8 +131,8 @@ const documentsList = Object.keys(documents)
     if (time < 60) return { ...d, time: `${Math.round(time / 5) * 5} mins` };
     return { ...d, time: `${Math.round(time / 6) / 10} hours` };
   })
-  .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
-// .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
+  // .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
+  .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
 
 maraca(
   {
@@ -241,6 +241,7 @@ maraca(
       const result = indices.slice(1).map((end, i) => ({
         start: indices[i],
         end,
+        first: firstChar !== undefined && end <= firstChar + 1,
         count:
           (parts || []).find((p) => p.start <= indices[i] && p.end >= end)
             ?.count || 0,

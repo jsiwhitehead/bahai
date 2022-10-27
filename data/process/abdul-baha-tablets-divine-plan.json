@@ -1,11 +1,14 @@
 [
   {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 1,
-    "title": "Tablet to the Bahá’ís of the Northeastern States",
+    "path": [],
+    "title": "Tablets of the Divine Plan",
     "author": "‘Abdu’l‑Bahá",
     "years": [1916, 1917],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "Tablet to the Bahá’ís of the Northeastern States"
+      },
       {
         "type": "info",
         "text": "Revealed on March 26, 1916, in ‘Abdu’l‑Bahá’s room at the house in Bahjí, addressed to the Bahá’ís of nine Northeastern States of the United States: Maine, Massachusetts, New Hampshire, Rhode Island, Connecticut, Vermont, Pennsylvania, New Jersey and New York."
@@ -21,16 +24,11 @@
       },
       {
         "text": "Upon you be greeting and praise!"
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 2,
-    "title": "Tablet to the Bahá’ís of the Southern States",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "Tablet to the Bahá’ís of the Southern States"
+      },
       {
         "type": "info",
         "text": "Revealed on March 27, 1916, in the garden adjacent to the Shrine of Bahá’u’lláh, addressed to the Bahá’ís of sixteen Southern States of the United States: Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Tennessee, Kentucky, Louisiana, Arkansas, Oklahoma and Texas."
@@ -49,16 +47,11 @@
       },
       {
         "text": "Therefore, ye friends of God! Appreciate ye the value of this time and be ye engaged in the sowing of the seeds, so that you may find the heavenly blessing and the lordly bestowal. Upon you be Bahá’u’l‑Abhá!"
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 3,
-    "title": "Tablet to the Bahá’ís of the Central States",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Tablet to the Bahá’ís of the Central States"
+      },
       {
         "type": "info",
         "text": "Revealed on March 29, 1916, outside the house in Bahjí, and addressed to the Bahá’ís of twelve Central States of the United States: Michigan, Wisconsin, Illinois, Indiana, Ohio, Minnesota, Iowa, Missouri, North Dakota, South Dakota, Nebraska and Kansas."
@@ -74,16 +67,11 @@
       },
       {
         "text": "Upon you be greeting and praise!"
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 4,
-    "title": "Tablet to the Bahá’ís of the Western States",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "Tablet to the Bahá’ís of the Western States"
+      },
       {
         "type": "info",
         "text": "Revealed on April 1, 1916, in ‘Abdu’l‑Bahá’s room at the house in Bahjí, addressed to the Bahá’ís of eleven Western States of the United States: New Mexico, Colorado, Arizona, Nevada, California, Wyoming, Utah, Montana, Idaho, Oregon and Washington."
@@ -108,16 +96,11 @@
       },
       {
         "text": "Upon you be greeting and praise!"
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 5,
-    "title": "Tablet to the Bahá’ís of Canada and Greenland",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "Tablet to the Bahá’ís of Canada and Greenland"
+      },
       {
         "type": "info",
         "text": "Revealed on April 5, 1916, in the garden adjacent to the Shrine of Bahá’u’lláh, and addressed to the Bahá’ís of Canada—Newfoundland, Prince Edward Island, Nova Scotia, New Brunswick, Quebec, Saskatchewan, Manitoba, Ontario, Alberta, British Columbia, Yukon, Mackenzie, Keewatin, Ungava, Franklin Islands—and Greenland."
@@ -130,16 +113,11 @@
       },
       {
         "text": "Upon you be greeting and praise!"
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 6,
-    "title": "Tablet to the Bahá’ís of the United States and Canada",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Tablet to the Bahá’ís of the United States and Canada"
+      },
       {
         "type": "info",
         "text": "Revealed on April 8, 1916, in the garden outside the Shrine of Bahá’u’lláh, and addressed to the Bahá’ís of the United States and Canada."
@@ -197,16 +175,11 @@
       },
       {
         "text": "Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the Wise, the Hearing and the Seeing."
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 7,
-    "title": "Tablet to the Bahá’ís of the United States and Canada",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Tablet to the Bahá’ís of the United States and Canada"
+      },
       {
         "type": "info",
         "text": "Revealed on April 11, 1916, in ‘Abdu’l‑Bahá’s room at the house in Bahjí, and addressed to the Bahá’ís of the United States and Canada."
@@ -288,16 +261,11 @@
       },
       {
         "text": "Verily, Thou art the Confirmer of whomsoever Thou willest in that which Thou desirest, and, verily, Thou art the All‑Powerful, the Omnipotent."
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 8,
-    "title": "Tablet to the Bahá’ís of the United States and Canada",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Tablet to the Bahá’ís of the United States and Canada"
+      },
       {
         "type": "info",
         "text": "Revealed on April 19, 1916, in ‘Abdu’l‑Bahá’s room at the house in Bahjí; on April 20, in the pilgrims’ quarters of the house in Bahjí; on April 22, in the garden adjacent to the Shrine of Bahá’u’lláh, and addressed to the Bahá’ís of the United States and Canada."
@@ -409,16 +377,11 @@
       },
       {
         "text": "Verily, Thou art the Most Generous, the Lord of grace abounding, and, verily, Thou art the Compassionate and the Merciful."
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 9,
-    "title": "Tablet to the Bahá’ís of the Northeastern States",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "Tablet to the Bahá’ís of the Northeastern States"
+      },
       {
         "type": "info",
         "text": "Revealed on February 2, 1917, in Ismá‘íl Áqá’s room at the house of ‘Abdu’l‑Bahá in Haifa, and addressed to the Bahá’ís of the nine Northeastern States of the United States: Maine, Massachusetts, New Hampshire, Rhode Island, Connecticut, Vermont, Pennsylvania, New Jersey and New York."
@@ -464,16 +427,11 @@
       },
       {
         "text": "Verily, Thou art the Powerful, the Mighty, the Wise and the Seeing."
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 10,
-    "title": "Tablet to the Bahá’ís of the Southern States",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "Tablet to the Bahá’ís of the Southern States"
+      },
       {
         "type": "info",
         "text": "Revealed on February 3, 1917, in Haifa in Ismá‘íl Áqá’s room, and addressed to the Bahá’ís of the sixteen Southern States of the United States: Delaware, Maryland, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Tennessee, Kentucky, Louisiana, Arkansas, Oklahoma and Texas."
@@ -519,16 +477,11 @@
       },
       {
         "text": "Thou art the Omnipotent and the Doer of whatsoever Thou willest."
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 11,
-    "title": "Tablet to the Bahá’ís of the Central States",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Tablet to the Bahá’ís of the Central States"
+      },
       {
         "type": "info",
         "text": "Revealed on February 8, 1917, in Bahá’u’lláh’s room at the house of ‘Abbúd in ‘Akká, and addressed to the Bahá’ís of the twelve Central States of the United States: Michigan, Wisconsin, Illinois, Indiana, Ohio, Minnesota, Iowa, Missouri, North Dakota, South Dakota, Nebraska and Kansas."
@@ -586,16 +539,11 @@
       },
       {
         "text": "O Lord! I am weak, strengthen me with Thy power and potency. My tongue falters, suffer me to utter Thy commemoration and praise. I am lowly, honour me through admitting me into Thy kingdom. I am remote, cause me to approach the threshold of Thy mercifulness. O Lord! Make me a brilliant lamp, a shining star and a blessed tree, adorned with fruit, its branches overshadowing all these regions. Verily, Thou art the Mighty, the Powerful and Unconstrained."
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 12,
-    "title": "Tablet to the Bahá’ís of the Western States",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "Tablet to the Bahá’ís of the Western States"
+      },
       {
         "type": "info",
         "text": "Revealed on February 15, 1917, in Bahá’u’lláh’s room at the house of ‘Abbúd in ‘Akká, and addressed to the Bahá’ís of the eleven Western States of the United States: New Mexico, Colorado, Arizona, Nevada, California, Wyoming, Utah, Montana, Idaho, Oregon and Washington."
@@ -638,16 +586,11 @@
       },
       {
         "text": "O Lord! I am single, alone and lowly. For me there is no support save Thee, no helper except Thee and no sustainer beside Thee. Confirm me in Thy service, assist me with the cohorts of Thine angels, make me victorious in the promotion of Thy Word and suffer me to speak out Thy wisdom amongst Thy creatures. Verily, Thou art the helper of the weak and the defender of the little ones, and verily Thou art the Powerful, the Mighty and the Unconstrained."
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 13,
-    "title": "Tablet to the Bahá’ís of Canada and Greenland",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Tablet to the Bahá’ís of Canada and Greenland"
+      },
       {
         "type": "info",
         "text": "Revealed on February 21, 1917, in Bahá’u’lláh’s room at the house of ‘Abbúd in ‘Akká, and addressed to the Bahá’ís of Canada—Newfoundland, Prince Edward Island, Nova Scotia, New Brunswick, Quebec, Saskatchewan, Manitoba, Ontario, Alberta, British Columbia, Yukon, Mackenzie, Keewatin, Ungava, Franklin Islands—and Greenland."
@@ -699,16 +642,11 @@
       },
       {
         "text": "Verily, Thou art the Powerful, the Mighty, the Omnipotent."
-      }
-    ]
-  },
-  {
-    "path": ["Tablets of the Divine Plan"],
-    "item": 14,
-    "title": "Tablet to the Bahá’ís of the United States and Canada",
-    "author": "‘Abdu’l‑Bahá",
-    "years": [1916, 1917],
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Tablet to the Bahá’ís of the United States and Canada"
+      },
       {
         "type": "info",
         "text": "Revealed on March 8, 1917, in the summerhouse (Ismá‘íl Áqá’s room) at ‘Abdu’l‑Bahá’s house in Haifa, and addressed to the Bahá’ís of the United States and Canada."

@@ -16,5 +16,5 @@
       '(Sixth Epoch)',
     ]
   ],
-  grid(findDocuments('Sixth Epoch')),
+  grid(findDocuments('Sixth Epoch'), 'true'),
 ]
