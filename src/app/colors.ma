@@ -40,5 +40,7 @@
     'The Office of Social and Economic Development': '#8e44ad',
     'The Department of Statistics': '#8e44ad',
     'Research Department': '#8e44ad',
+    'Compilation': '#8e44ad',
+    'Ruhi Institute': '#8e44ad',
   ]
 ]

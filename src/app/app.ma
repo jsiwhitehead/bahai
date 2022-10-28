@@ -3,7 +3,7 @@
   'doc': url->[['doc', id]: documents.id],
   'group': doc & toUrl({
     ? doc.'type' = 'Prayer': 'prayers',
-    ? doc.'id'->startsWith('ruhi') | doc.'id'->startsWith('compilations'): 'home',
+    ? doc.'id'->startsWith('ruhi') | doc.'id'->startsWith('compilations'): 'compilations',
     ? includes(['‘Abdu’l‑Bahá', 'Bahá’u’lláh', 'The Báb'], doc.'author') : doc.'author',
     ? doc.'epoch': toUrl(doc.'epoch'),
     : 'other-documents',
@@ -57,6 +57,7 @@
         'Bahá’í Library'
       ],
       button('Prayers', 'true'),
+      button('Compilations', 'true'),
       [
         'pad': [10, 0],
         'fill': '#ddd',
@@ -148,7 +149,7 @@
         url->[
           ['prayers']: prayers,
           ['prayers', x]: prayers,
-          ['other-documents']: pages.'other',
+          ['compilations']: pages.'compilations',
           ['sixth-epoch']: pages.'sixthepoch',
           ['fifth-epoch']: pages.'fifthepoch',
           ['fourth-epoch']: pages.'fourthepoch',

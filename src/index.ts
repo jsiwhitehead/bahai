@@ -86,7 +86,6 @@ const toUrl = (s) =>
 
 const documentsList = Object.keys(documents)
   .map((k) => documents[k])
-  .filter((d) => !d.paragraphs.every((p) => p.id))
   .map((d) => ({
     ...d,
     path: d.path && [
@@ -188,30 +187,47 @@ maraca(
             a.id.localeCompare(b.id)
         ),
     findDocuments: (section, ignore) => {
-      if (section === "Other") {
+      if (section === "Compilations") {
         return documentsList.filter(
           (d) =>
-            !["The Báb", "Bahá’u’lláh", "‘Abdu’l‑Bahá"].includes(d.author) &&
-            !d.epoch &&
-            !d.id.startsWith("bible") &&
-            !d.id.startsWith("quran") &&
-            !d.id.startsWith("compilations") &&
-            !d.id.startsWith("ruhi") &&
-            !(ignore || []).includes(d.id)
+            d.id.startsWith("compilation") ||
+            d.id.startsWith("ruhi") ||
+            d.id === "world-centre-entry-by-troops-002"
         );
+        // return documentsList.filter(
+        //   (d) =>
+        //     d.paragraphs.every((p) => p.id || p.section) &&
+        //     unique(d.paragraphs.map((p) => p.id)).filter((x) => x).length > 1
+        // );
+      }
+      if (section === "Other") {
+        return documentsList
+          .filter((d) => !d.paragraphs.every((p) => p.id || p.section))
+          .filter(
+            (d) =>
+              !["The Báb", "Bahá’u’lláh", "‘Abdu’l‑Bahá"].includes(d.author) &&
+              !d.epoch &&
+              !d.id.startsWith("bible") &&
+              !d.id.startsWith("quran") &&
+              !d.id.startsWith("compilations") &&
+              !d.id.startsWith("ruhi") &&
+              !(ignore || []).includes(d.id)
+          );
       }
       if (section.includes("Epoch")) {
-        return documentsList.filter(
-          (d) => d.epoch === section && !(ignore || []).includes(d.id)
-        );
+        return documentsList
+          .filter((d) => !d.paragraphs.every((p) => p.id || p.section))
+          .filter((d) => d.epoch === section && !(ignore || []).includes(d.id));
         // .slice(0, 50);
       }
-      return documentsList.filter(
-        (d) =>
-          d.author === section &&
-          d.type !== "Prayer" &&
-          !(ignore || []).includes(d.id)
-      );
+      return documentsList
+        .filter((d) => !d.paragraphs.every((p) => p.id || p.section))
+        .filter(
+          (d) =>
+            d.author === section &&
+            d.type !== "Prayer" &&
+            !(ignore || []).includes(d.id)
+        );
       // .slice(0, 50);
     },
     documentsList: Object.keys(documents).map((k) => documents[k]),
@@ -271,56 +287,51 @@ maraca(
     getRef: (paragraphs, index) => {
       const p = paragraphs[index - 1];
       const doc = documents[p.id];
-      if (!p.parts) {
-        const next = paragraphs[index];
+      const next = paragraphs[index];
+      if (
+        next?.id === p.id &&
+        Math.abs(
+          doc.paragraphs[next.paragraphs[0] - 1].index -
+            doc.paragraphs[p.paragraphs[0] - 1].index
+        ) <= 1
+      ) {
+        return "";
+      }
+      let j = 0;
+      while (true) {
+        const prev = paragraphs[index - j - 2];
         if (
-          next?.id === p.id &&
-          !next.parts &&
-          doc.paragraphs[next.paragraphs[0] - 1].index ===
-            doc.paragraphs[p.paragraphs[0] - 1].index + 1
+          prev?.id === p.id &&
+          Math.abs(
+            doc.paragraphs[p.paragraphs[0] - 1].index -
+              doc.paragraphs[prev.paragraphs[0] - 1].index
+          ) <=
+            j + 1
         ) {
-          return "";
+          j++;
+        } else {
+          break;
         }
-        let j = 0;
-        while (true) {
-          const prev = paragraphs[index + j - 2];
-          if (
-            prev?.id === p.id &&
-            !prev.parts &&
-            doc.paragraphs[prev.paragraphs[0] - 1].index ===
-              doc.paragraphs[p.paragraphs[0] - 1].index + j - 1
-          ) {
-            j--;
-          } else {
-            break;
-          }
-        }
-        return unique(
+      }
+      const paras = unique(
+        Array.from({ length: j + 1 }).map(
+          (_, k) =>
+            doc.paragraphs[paragraphs[index - k - 1].paragraphs[0] - 1].index
+        )
+      );
+      return {
+        text: unique(
           [
             doc.author,
             ...doc.path,
             doc.title || (doc.item && "#" + doc.item),
-            j === 0
-              ? `para ${doc.paragraphs[p.paragraphs[0] - 1].index}`
-              : `paras ${doc.paragraphs[p.paragraphs[0] - 1].index + j}-${
-                  doc.paragraphs[p.paragraphs[0] - 1].index
-                }`,
+            paras.length === 1
+              ? `para ${paras[0]}`
+              : `paras ${Math.min(...paras)}-${Math.max(...paras)}`,
           ].filter((x) => x)
-        ).join(", ");
-      }
-      const paras = p.paragraphs
-        .map((i) => doc.paragraphs[i - 1].index)
-        .filter((i) => i !== undefined);
-      return unique(
-        [
-          doc.author,
-          ...doc.path,
-          doc.title || (doc.item && "#" + doc.item),
-          paras.length > 0 &&
-            (paras.length === 1 ? "from para " : "from paras ") +
-              paras.join(", "),
-        ].filter((x) => x)
-      ).join(", ");
+        ).join(", "),
+        link: Math.min(...paras),
+      };
     },
     type: reactiveFunc((v) =>
       Object.prototype.toString.call(resolve(v)).slice(8, -1).toLowerCase()

@@ -415,6 +415,25 @@
         }
       ]
     },
+    "38": {
+      "refs": [
+        {
+          "id": "ruhi2-002",
+          "paragraph": 32
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 430,
+          "end": 486,
+          "count": 2
+        }
+      ]
+    },
     "41": {
       "refs": [
         {
@@ -462,6 +481,21 @@
     }
   },
   "bahaullah-epistle-son-wolf-001": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 95,
+          "count": 1
+        }
+      ]
+    },
     "3": {
       "refs": [
         {
@@ -648,6 +682,10 @@
         {
           "id": "ruhi2-001",
           "paragraph": 3
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 22
         }
       ],
       "parts": [
@@ -664,15 +702,20 @@
         {
           "start": 265,
           "end": 298,
-          "count": 2
+          "count": 3
         },
         {
           "start": 298,
           "end": 299,
-          "count": 1
+          "count": 2
         },
         {
           "start": 299,
+          "end": 338,
+          "count": 3
+        },
+        {
+          "start": 338,
           "end": 430,
           "count": 2
         },
@@ -1029,13 +1072,22 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 365
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 50
         }
       ],
       "parts": [
         {
+          "start": 101,
+          "end": 102,
+          "count": 1
+        },
+        {
           "start": 102,
           "end": 191,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -2142,7 +2194,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 6
+          "paragraph": 5
         }
       ],
       "parts": [
@@ -3767,6 +3819,10 @@
           "paragraph": 17
         },
         {
+          "id": "ruhi1-001",
+          "paragraph": 23
+        },
+        {
           "id": "ruhi1-003",
           "paragraph": 46
         },
@@ -3778,6 +3834,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 115,
+          "count": 1
+        },
+        {
+          "start": 115,
+          "end": 199,
+          "count": 2
+        },
+        {
+          "start": 199,
           "end": 1235,
           "count": 1
         },
@@ -4069,7 +4135,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 7
+          "paragraph": 6
         }
       ],
       "parts": [
@@ -4332,7 +4398,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 5
+          "paragraph": 4
         }
       ],
       "parts": [
@@ -5129,6 +5195,14 @@
           "paragraph": 18
         },
         {
+          "id": "ruhi6-003",
+          "paragraph": 7
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 30
+        },
+        {
           "id": "ruhi9-001",
           "paragraph": 213
         },
@@ -5140,8 +5214,13 @@
       "parts": [
         {
           "start": 0,
-          "end": 162,
+          "end": 67,
           "count": 5
+        },
+        {
+          "start": 67,
+          "end": 162,
+          "count": 6
         },
         {
           "start": 162,
@@ -5176,6 +5255,10 @@
           "paragraph": 6
         },
         {
+          "id": "ruhi6-003",
+          "paragraph": 31
+        },
+        {
           "id": "ruhi9-001",
           "paragraph": 214
         },
@@ -5196,6 +5279,16 @@
         },
         {
           "start": 156,
+          "end": 264,
+          "count": 5
+        },
+        {
+          "start": 264,
+          "end": 315,
+          "count": 6
+        },
+        {
+          "start": 315,
           "end": 476,
           "count": 5
         },
@@ -5394,6 +5487,21 @@
         {
           "start": 0,
           "end": 341,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 144
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 83,
           "count": 1
         }
       ]
@@ -5955,6 +6063,21 @@
         {
           "start": 0,
           "end": 245,
+          "count": 1
+        }
+      ]
+    },
+    "71": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 109
+        }
+      ],
+      "parts": [
+        {
+          "start": 311,
+          "end": 367,
           "count": 1
         }
       ]
@@ -7082,6 +7205,10 @@
     "150": {
       "refs": [
         {
+          "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
+          "paragraph": 3
+        },
+        {
           "id": "publications-individual-authors-bahaullah-new-era-012",
           "paragraph": 30
         },
@@ -7094,7 +7221,7 @@
         {
           "start": 0,
           "end": 965,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -8406,13 +8533,26 @@
         {
           "id": "bahaullah-summons-lord-hosts-001",
           "paragraph": 8
+        },
+        {
+          "id": "ruhi2-003",
+          "paragraph": 57
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 5
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 399,
+          "end": 330,
           "count": 2
+        },
+        {
+          "start": 330,
+          "end": 399,
+          "count": 4
         }
       ]
     },
@@ -8421,13 +8561,22 @@
         {
           "id": "bahaullah-gleanings-writings-bahaullah-118",
           "paragraph": 2
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 34
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 423,
+          "end": 334,
           "count": 1
+        },
+        {
+          "start": 334,
+          "end": 423,
+          "count": 2
         }
       ]
     },
@@ -9124,6 +9273,10 @@
         {
           "id": "ruhi9-001",
           "paragraph": 44
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 54
         }
       ],
       "parts": [
@@ -9139,8 +9292,13 @@
         },
         {
           "start": 190,
-          "end": 731,
+          "end": 659,
           "count": 1
+        },
+        {
+          "start": 659,
+          "end": 731,
+          "count": 2
         }
       ]
     },
@@ -10366,7 +10524,7 @@
         },
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 13
+          "paragraph": 12
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -12777,23 +12935,31 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 10
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 36
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 38
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 24,
-          "count": 9
+          "count": 10
         },
         {
           "start": 24,
           "end": 25,
-          "count": 8
+          "count": 9
         },
         {
           "start": 25,
           "end": 96,
-          "count": 9
+          "count": 10
         },
         {
           "start": 96,
@@ -12807,8 +12973,13 @@
         },
         {
           "start": 268,
-          "end": 433,
+          "end": 378,
           "count": 6
+        },
+        {
+          "start": 378,
+          "end": 433,
+          "count": 7
         }
       ]
     },
@@ -14068,13 +14239,22 @@
         {
           "id": "ruhi8-001",
           "paragraph": 17
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 15
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 115,
+          "end": 26,
           "count": 3
+        },
+        {
+          "start": 26,
+          "end": 115,
+          "count": 4
         },
         {
           "start": 115,
@@ -14681,7 +14861,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 10
+          "paragraph": 9
         },
         {
           "id": "publications-individual-authors-bahaullah-new-era-012",
@@ -14718,7 +14898,7 @@
         },
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 11
+          "paragraph": 10
         },
         {
           "id": "compilations-music-001",
@@ -15792,6 +15972,21 @@
         {
           "start": 0,
           "end": 219,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 101
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 96,
           "count": 1
         }
       ]
@@ -18271,18 +18466,22 @@
         {
           "id": "the-universal-house-of-justice-messages-031",
           "paragraph": 7
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 13
         }
       ],
       "parts": [
         {
           "start": 570,
           "end": 571,
-          "count": 2
+          "count": 3
         },
         {
           "start": 571,
           "end": 659,
-          "count": 4
+          "count": 5
         }
       ]
     }
@@ -20071,11 +20270,39 @@
         {
           "id": "abdul-baha-promulgation-universal-peace-006",
           "paragraph": 22
+        },
+        {
+          "id": "ruhi2-003",
+          "paragraph": 12
+        },
+        {
+          "id": "ruhi2-003",
+          "paragraph": 13
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 391,
+          "count": 1
+        },
+        {
+          "start": 391,
+          "end": 471,
+          "count": 2
+        },
+        {
+          "start": 471,
+          "end": 599,
+          "count": 1
+        },
+        {
+          "start": 599,
+          "end": 683,
+          "count": 2
+        },
+        {
+          "start": 683,
           "end": 1067,
           "count": 1
         }
@@ -20217,6 +20444,21 @@
           "start": 0,
           "end": 413,
           "count": 2
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "ruhi3-003",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 83,
+          "count": 1
         }
       ]
     },
@@ -20647,11 +20889,25 @@
         {
           "id": "publications-individual-authors-bahaullah-new-era-011",
           "paragraph": 61
+        },
+        {
+          "id": "ruhi1-001",
+          "paragraph": 24
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 14,
+          "count": 2
+        },
+        {
+          "start": 14,
+          "end": 82,
+          "count": 3
+        },
+        {
+          "start": 82,
           "end": 175,
           "count": 2
         }
@@ -20681,16 +20937,30 @@
         {
           "id": "compilations-chaste-holy-life-001",
           "paragraph": 39
+        },
+        {
+          "id": "ruhi1-001",
+          "paragraph": 4
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 15,
+          "count": 2
+        },
+        {
+          "start": 15,
+          "end": 16,
           "count": 1
         },
         {
           "start": 16,
+          "end": 86,
+          "count": 2
+        },
+        {
+          "start": 86,
           "end": 187,
           "count": 1
         }
@@ -20814,6 +21084,21 @@
           "start": 100,
           "end": 195,
           "count": 4
+        }
+      ]
+    },
+    "44": {
+      "refs": [
+        {
+          "id": "ruhi3-003",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 73,
+          "count": 1
         }
       ]
     },
@@ -20959,11 +21244,25 @@
         {
           "id": "abdul-baha-promulgation-universal-peace-009",
           "paragraph": 13
+        },
+        {
+          "id": "ruhi2-003",
+          "paragraph": 11
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 616,
+          "count": 1
+        },
+        {
+          "start": 616,
+          "end": 681,
+          "count": 2
+        },
+        {
+          "start": 681,
           "end": 968,
           "count": 1
         }
@@ -21827,6 +22126,133 @@
           "start": 0,
           "end": 446,
           "count": 2
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-046": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-bahai-administration-011",
+          "paragraph": 15
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-273",
+          "paragraph": 35
+        },
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 12
+        },
+        {
+          "id": "publications-individual-authors-bahaullah-new-era-021",
+          "paragraph": 62
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-078",
+          "paragraph": 30
+        },
+        {
+          "id": "compilations-local-spiritual-assembly-001",
+          "paragraph": 23
+        },
+        {
+          "id": "compilations-local-spiritual-assembly-001",
+          "paragraph": 24
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-032",
+          "paragraph": 14
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 9
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 23
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 221
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 471,
+          "count": 5
+        },
+        {
+          "start": 471,
+          "end": 492,
+          "count": 4
+        },
+        {
+          "start": 832,
+          "end": 941,
+          "count": 5
+        },
+        {
+          "start": 941,
+          "end": 965,
+          "count": 4
+        },
+        {
+          "start": 965,
+          "end": 1053,
+          "count": 5
+        },
+        {
+          "start": 1053,
+          "end": 1144,
+          "count": 4
+        },
+        {
+          "start": 1144,
+          "end": 1267,
+          "count": 5
+        },
+        {
+          "start": 1267,
+          "end": 1844,
+          "count": 4
+        },
+        {
+          "start": 1844,
+          "end": 2045,
+          "count": 5
+        },
+        {
+          "start": 2045,
+          "end": 2051,
+          "count": 3
+        },
+        {
+          "start": 2052,
+          "end": 2193,
+          "count": 3
+        },
+        {
+          "start": 2193,
+          "end": 2194,
+          "count": 1
+        },
+        {
+          "start": 2194,
+          "end": 2500,
+          "count": 5
+        },
+        {
+          "start": 2500,
+          "end": 2501,
+          "count": 3
+        },
+        {
+          "start": 2501,
+          "end": 2794,
+          "count": 5
         }
       ]
     }
@@ -23153,6 +23579,21 @@
         }
       ]
     },
+    "207": {
+      "refs": [
+        {
+          "id": "ruhi9-002",
+          "paragraph": 109
+        }
+      ],
+      "parts": [
+        {
+          "start": 11,
+          "end": 66,
+          "count": 1
+        }
+      ]
+    },
     "208": {
       "refs": [
         {
@@ -23162,8 +23603,8 @@
       ],
       "parts": [
         {
-          "start": 25,
-          "end": 98,
+          "start": 0,
+          "end": 99,
           "count": 1
         }
       ]
@@ -23467,6 +23908,21 @@
           "count": 1
         }
       ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "ruhi3-003",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 562,
+          "end": 652,
+          "count": 1
+        }
+      ]
     }
   },
   "bahaullah-tablets-bahaullah-004": {
@@ -23548,6 +24004,10 @@
         {
           "id": "shoghi-effendi-advent-divine-justice-001",
           "paragraph": 42
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 39
         }
       ],
       "parts": [
@@ -23558,8 +24018,13 @@
         },
         {
           "start": 60,
-          "end": 256,
+          "end": 169,
           "count": 1
+        },
+        {
+          "start": 169,
+          "end": 256,
+          "count": 2
         }
       ]
     },
@@ -23840,6 +24305,10 @@
           "paragraph": 80
         },
         {
+          "id": "compilations-chaste-holy-life-001",
+          "paragraph": 87
+        },
+        {
           "id": "ruhi6-002",
           "paragraph": 46
         }
@@ -23848,7 +24317,7 @@
         {
           "start": 0,
           "end": 62,
-          "count": 1
+          "count": 2
         },
         {
           "start": 69,
@@ -24297,6 +24766,10 @@
         {
           "id": "ruhi9-002",
           "paragraph": 52
+        },
+        {
+          "id": "ruhi3-002",
+          "paragraph": 24
         }
       ],
       "parts": [
@@ -24332,6 +24805,16 @@
         },
         {
           "start": 794,
+          "end": 795,
+          "count": 1
+        },
+        {
+          "start": 795,
+          "end": 866,
+          "count": 2
+        },
+        {
+          "start": 866,
           "end": 927,
           "count": 1
         },
@@ -24366,6 +24849,10 @@
           "paragraph": 126
         },
         {
+          "id": "ruhi1-001",
+          "paragraph": 12
+        },
+        {
           "id": "ruhi3-003",
           "paragraph": 25
         }
@@ -24374,12 +24861,17 @@
         {
           "start": 384,
           "end": 407,
+          "count": 2
+        },
+        {
+          "start": 407,
+          "end": 408,
           "count": 1
         },
         {
           "start": 408,
           "end": 476,
-          "count": 1
+          "count": 2
         },
         {
           "start": 477,
@@ -24584,9 +25076,18 @@
         {
           "id": "shoghi-effendi-advent-divine-justice-001",
           "paragraph": 42
+        },
+        {
+          "id": "ruhi9-001",
+          "paragraph": 109
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 53,
+          "count": 1
+        },
         {
           "start": 783,
           "end": 826,
@@ -24683,18 +25184,26 @@
         {
           "id": "compilations-trustworthiness-001",
           "paragraph": 7
+        },
+        {
+          "id": "ruhi1-001",
+          "paragraph": 3
+        },
+        {
+          "id": "ruhi3-002",
+          "paragraph": 14
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 5,
-          "count": 1
+          "count": 2
         },
         {
           "start": 5,
           "end": 52,
-          "count": 2
+          "count": 3
         },
         {
           "start": 52,
@@ -24708,6 +25217,16 @@
         },
         {
           "start": 221,
+          "end": 226,
+          "count": 3
+        },
+        {
+          "start": 226,
+          "end": 321,
+          "count": 4
+        },
+        {
+          "start": 321,
           "end": 447,
           "count": 3
         },
@@ -24973,21 +25492,56 @@
         {
           "id": "the-universal-house-of-justice-messages-248",
           "paragraph": 18
+        },
+        {
+          "id": "ruhi1-001",
+          "paragraph": 9
+        },
+        {
+          "id": "ruhi1-001",
+          "paragraph": 10
+        },
+        {
+          "id": "ruhi2-003",
+          "paragraph": 58
+        },
+        {
+          "id": "ruhi3-002",
+          "paragraph": 15
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 9
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 12,
-          "count": 3
+          "count": 6
         },
         {
           "start": 12,
           "end": 13,
-          "count": 2
+          "count": 5
         },
         {
           "start": 13,
+          "end": 52,
+          "count": 6
+        },
+        {
+          "start": 52,
+          "end": 53,
+          "count": 3
+        },
+        {
+          "start": 53,
+          "end": 150,
+          "count": 5
+        },
+        {
+          "start": 150,
           "end": 246,
           "count": 3
         }
@@ -25449,7 +26003,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 14
+          "paragraph": 13
         }
       ],
       "parts": [
@@ -26598,11 +27152,25 @@
         {
           "id": "ruhi10-002",
           "paragraph": 10
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 59
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 47,
+          "count": 1
+        },
+        {
+          "start": 47,
+          "end": 112,
+          "count": 2
+        },
+        {
+          "start": 112,
           "end": 372,
           "count": 1
         },
@@ -26882,6 +27450,10 @@
     "111": {
       "refs": [
         {
+          "id": "ruhi9-001",
+          "paragraph": 75
+        },
+        {
           "id": "ruhi2-003",
           "paragraph": 22
         },
@@ -26902,6 +27474,11 @@
         },
         {
           "start": 661,
+          "end": 723,
+          "count": 2
+        },
+        {
+          "start": 723,
           "end": 1086,
           "count": 1
         },
@@ -27037,6 +27614,21 @@
         }
       ]
     },
+    "90": {
+      "refs": [
+        {
+          "id": "ruhi2-003",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 83,
+          "count": 1
+        }
+      ]
+    },
     "99": {
       "refs": [
         {
@@ -27093,6 +27685,21 @@
         {
           "start": 0,
           "end": 114,
+          "count": 1
+        }
+      ]
+    },
+    "145": {
+      "refs": [
+        {
+          "id": "compilations-power-divine-assistance-001",
+          "paragraph": 54
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 90,
           "count": 1
         }
       ]
@@ -27408,7 +28015,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 42
+          "paragraph": 41
         },
         {
           "id": "publications-individual-authors-bahaullah-new-era-012",
@@ -27432,7 +28039,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 43
+          "paragraph": 42
         },
         {
           "id": "publications-individual-authors-bahaullah-new-era-012",
@@ -31798,11 +32405,20 @@
         {
           "id": "ruhi8-001",
           "paragraph": 163
+        },
+        {
+          "id": "ruhi3-002",
+          "paragraph": 49
         }
       ],
       "parts": [
         {
           "start": 136,
+          "end": 226,
+          "count": 2
+        },
+        {
+          "start": 226,
           "end": 835,
           "count": 1
         }
@@ -32211,6 +32827,25 @@
     }
   },
   "bahaullah-hidden-words-002": {
+    "4": {
+      "refs": [
+        {
+          "id": "ruhi2-003",
+          "paragraph": 56
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 70,
+          "count": 2
+        }
+      ]
+    },
     "5": {
       "refs": [
         {
@@ -32233,6 +32868,10 @@
           "paragraph": 11
         },
         {
+          "id": "ruhi1-001",
+          "paragraph": 5
+        },
+        {
           "id": "ruhi2-002",
           "paragraph": 42
         }
@@ -32242,6 +32881,11 @@
           "start": 39,
           "end": 143,
           "count": 2
+        },
+        {
+          "start": 144,
+          "end": 200,
+          "count": 1
         }
       ]
     },
@@ -32264,11 +32908,11 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 9
+          "paragraph": 8
         },
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 8
+          "paragraph": 7
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -32619,11 +33263,20 @@
         {
           "id": "ruhi9-002",
           "paragraph": 53
+        },
+        {
+          "id": "ruhi1-001",
+          "paragraph": 6
         }
       ],
       "parts": [
         {
           "start": 20,
+          "end": 99,
+          "count": 2
+        },
+        {
+          "start": 99,
           "end": 506,
           "count": 1
         }
@@ -33771,33 +34424,45 @@
         {
           "id": "the-universal-house-of-justice-additional-messages-020",
           "paragraph": 8
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 28
+        },
+        {
+          "id": "ruhi2-001",
+          "paragraph": 6
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 3
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 7,
-          "count": 2
+          "count": 5
         },
         {
           "start": 7,
           "end": 8,
-          "count": 1
+          "count": 4
         },
         {
           "start": 8,
           "end": 26,
-          "count": 2
+          "count": 5
         },
         {
           "start": 26,
           "end": 73,
-          "count": 3
+          "count": 6
         },
         {
           "start": 73,
           "end": 74,
-          "count": 2
+          "count": 5
         },
         {
           "start": 74,
@@ -34473,6 +35138,33 @@
           "count": 1
         }
       ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 53
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 63
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 75
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 100
+        }
+      ],
+      "parts": [
+        {
+          "start": 355,
+          "end": 377,
+          "count": 1
+        }
+      ]
     }
   },
   "the-bab-selections-writings-bab-079": {
@@ -34724,11 +35416,20 @@
     "18": {
       "refs": [
         {
+          "id": "ruhi3-002",
+          "paragraph": 37
+        },
+        {
           "id": "ruhi4-003",
           "paragraph": 4
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 85,
+          "count": 1
+        },
         {
           "start": 224,
           "end": 624,
@@ -35023,6 +35724,21 @@
         {
           "start": 173,
           "end": 478,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 31
+        }
+      ],
+      "parts": [
+        {
+          "start": 228,
+          "end": 292,
           "count": 1
         }
       ]
@@ -36514,6 +37230,21 @@
         {
           "start": 221,
           "end": 833,
+          "count": 1
+        }
+      ]
+    },
+    "71": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 81
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 89,
           "count": 1
         }
       ]
@@ -38480,6 +39211,41 @@
           "count": 3
         }
       ]
+    },
+    "708": {
+      "refs": [
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 19
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 52
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 66
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 72
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 126
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 146
+        }
+      ],
+      "parts": [
+        {
+          "start": 178,
+          "end": 211,
+          "count": 1
+        }
+      ]
     }
   },
   "shoghi-effendi-world-order-bahaullah-003": {
@@ -39080,6 +39846,21 @@
         {
           "start": 0,
           "end": 248,
+          "count": 1
+        }
+      ]
+    },
+    "32": {
+      "refs": [
+        {
+          "id": "compilations-local-spiritual-assembly-001",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 93,
           "count": 1
         }
       ]
@@ -41526,8 +42307,20 @@
           "paragraph": 7
         },
         {
+          "id": "the-universal-house-of-justice-messages-390",
+          "paragraph": 12
+        },
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 32
+        },
+        {
           "id": "the-universal-house-of-justice-messages-248",
           "paragraph": 22
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-220",
+          "paragraph": 50
         },
         {
           "id": "the-universal-house-of-justice-messages-195",
@@ -41550,6 +42343,10 @@
           "paragraph": 43
         },
         {
+          "id": "compilations-local-spiritual-assembly-001",
+          "paragraph": 58
+        },
+        {
           "id": "ruhi10-002",
           "paragraph": 21
         }
@@ -41558,92 +42355,97 @@
         {
           "start": 0,
           "end": 184,
-          "count": 2
+          "count": 5
         },
         {
           "start": 184,
           "end": 334,
-          "count": 3
+          "count": 6
         },
         {
           "start": 334,
           "end": 481,
-          "count": 2
+          "count": 5
         },
         {
           "start": 481,
           "end": 493,
-          "count": 3
+          "count": 7
         },
         {
           "start": 493,
           "end": 498,
-          "count": 4
+          "count": 8
         },
         {
           "start": 498,
           "end": 502,
-          "count": 3
+          "count": 7
         },
         {
           "start": 502,
           "end": 685,
-          "count": 4
+          "count": 8
         },
         {
           "start": 685,
           "end": 686,
-          "count": 3
+          "count": 7
         },
         {
           "start": 686,
           "end": 718,
-          "count": 4
+          "count": 8
         },
         {
           "start": 718,
           "end": 740,
-          "count": 5
+          "count": 9
         },
         {
           "start": 740,
           "end": 745,
-          "count": 4
+          "count": 8
         },
         {
           "start": 745,
           "end": 1077,
-          "count": 5
+          "count": 9
         },
         {
           "start": 1077,
           "end": 1281,
-          "count": 3
+          "count": 5
         },
         {
           "start": 1281,
+          "end": 1485,
+          "count": 4
+        },
+        {
+          "start": 1485,
           "end": 1486,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1486,
           "end": 1491,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1491,
           "end": 1706,
-          "count": 5
+          "count": 6
         },
         {
           "start": 1706,
           "end": 1871,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1871,
           "end": 2013,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -45319,6 +46121,36 @@
         }
       ]
     },
+    "33": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 122
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 82,
+          "count": 1
+        }
+      ]
+    },
+    "35": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 124
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 26,
+          "count": 1
+        }
+      ]
+    },
     "37": {
       "refs": [
         {
@@ -48671,7 +49503,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 44
+          "paragraph": 43
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48694,7 +49526,7 @@
         },
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 45
+          "paragraph": 44
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48718,7 +49550,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 46
+          "paragraph": 45
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48737,7 +49569,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 47
+          "paragraph": 46
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48756,7 +49588,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 48
+          "paragraph": 47
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48775,7 +49607,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 49
+          "paragraph": 48
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48794,7 +49626,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 50
+          "paragraph": 49
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48813,7 +49645,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 51
+          "paragraph": 50
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48832,7 +49664,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 52
+          "paragraph": 51
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48851,7 +49683,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 53
+          "paragraph": 52
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48870,7 +49702,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 54
+          "paragraph": 53
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48889,7 +49721,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 55
+          "paragraph": 54
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -48908,7 +49740,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 56
+          "paragraph": 55
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -49106,7 +49938,7 @@
         },
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 72
+          "paragraph": 71
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -49129,7 +49961,7 @@
         },
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 73
+          "paragraph": 72
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -49351,6 +50183,21 @@
         {
           "start": 0,
           "end": 1136,
+          "count": 1
+        }
+      ]
+    },
+    "73": {
+      "refs": [
+        {
+          "id": "compilations-women-001",
+          "paragraph": 110
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 64,
           "count": 1
         }
       ]
@@ -50209,6 +51056,21 @@
         }
       ]
     },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-peace-001",
+          "paragraph": 79
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 28,
+          "count": 1
+        }
+      ]
+    },
     "9": {
       "refs": [
         {
@@ -50235,6 +51097,21 @@
         {
           "start": 0,
           "end": 328,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-peace-001",
+          "paragraph": 82
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 65,
           "count": 1
         }
       ]
@@ -50971,6 +51848,23 @@
       ]
     }
   },
+  "additional-shoghi-effendi-138": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-peace-001",
+          "paragraph": 170
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 56,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-shoghi-effendi-322": {
     "1": {
       "refs": [
@@ -51461,6 +52355,51 @@
       ]
     }
   },
+  "bible-040": {
+    "320": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 44
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 67
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 81
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 90
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 107
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 113
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 150
+        },
+        {
+          "id": "ruhi9-002",
+          "paragraph": 108
+        }
+      ],
+      "parts": [
+        {
+          "start": 362,
+          "end": 371,
+          "count": 2
+        }
+      ]
+    }
+  },
   "additional-abdul-baha-294": {
     "1": {
       "refs": [
@@ -51881,6 +52820,21 @@
         {
           "start": 1280,
           "end": 1430,
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "refs": [
+        {
+          "id": "ruhi2-003",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 156,
+          "end": 214,
           "count": 1
         }
       ]
@@ -53614,11 +54568,25 @@
         {
           "id": "compilations-trustworthiness-001",
           "paragraph": 55
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 18
         }
       ],
       "parts": [
         {
           "start": 759,
+          "end": 871,
+          "count": 1
+        },
+        {
+          "start": 871,
+          "end": 933,
+          "count": 2
+        },
+        {
+          "start": 933,
           "end": 1069,
           "count": 1
         }
@@ -53739,61 +54707,56 @@
       ]
     }
   },
-  "abdul-baha-selections-writings-abdul-baha-046": {
+  "additional-abdul-baha-311": {
     "1": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-messages-273",
-          "paragraph": 35
+          "paragraph": 36
         },
         {
-          "id": "the-universal-house-of-justice-messages-032",
+          "id": "compilations-consultation-001",
           "paragraph": 14
         },
         {
-          "id": "ruhi10-002",
-          "paragraph": 9
+          "id": "compilations-issues-related-study-bahai-faith-001",
+          "paragraph": 82
         },
         {
-          "id": "ruhi10-002",
-          "paragraph": 23
+          "id": "the-universal-house-of-justice-additional-messages-007",
+          "paragraph": 10
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 471,
-          "count": 1
-        },
-        {
-          "start": 832,
-          "end": 965,
-          "count": 1
-        },
-        {
-          "start": 965,
-          "end": 1053,
+          "end": 29,
           "count": 2
         },
         {
-          "start": 1053,
-          "end": 1144,
+          "start": 29,
+          "end": 30,
           "count": 1
         },
         {
-          "start": 1144,
-          "end": 1267,
+          "start": 30,
+          "end": 342,
           "count": 2
         },
         {
-          "start": 1267,
-          "end": 2045,
-          "count": 1
+          "start": 342,
+          "end": 345,
+          "count": 3
         },
         {
-          "start": 2200,
-          "end": 2493,
-          "count": 1
+          "start": 345,
+          "end": 411,
+          "count": 4
+        },
+        {
+          "start": 411,
+          "end": 412,
+          "count": 3
         }
       ]
     }
@@ -54664,6 +55627,21 @@
           "count": 1
         }
       ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-bahai-meetings-001",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 53,
+          "count": 1
+        }
+      ]
     }
   },
   "additional-abdul-baha-010": {
@@ -55515,6 +56493,117 @@
       ]
     }
   },
+  "additional-bahaullah-148": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 3
+        },
+        {
+          "id": "official-statements-commentaries-prosperity-humankind-001",
+          "paragraph": 37
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-036",
+          "paragraph": 16
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 5,
+          "count": 3
+        },
+        {
+          "start": 5,
+          "end": 39,
+          "count": 4
+        },
+        {
+          "start": 39,
+          "end": 40,
+          "count": 3
+        },
+        {
+          "start": 40,
+          "end": 182,
+          "count": 4
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-149": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 4
+        },
+        {
+          "id": "official-statements-commentaries-prosperity-humankind-001",
+          "paragraph": 34
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-089",
+          "paragraph": 10
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 4
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 69
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 82,
+          "count": 3
+        },
+        {
+          "start": 82,
+          "end": 83,
+          "count": 2
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "count": 2
+        },
+        {
+          "start": 84,
+          "end": 90,
+          "count": 3
+        },
+        {
+          "start": 90,
+          "end": 158,
+          "count": 3
+        },
+        {
+          "start": 158,
+          "end": 245,
+          "count": 2
+        },
+        {
+          "start": 245,
+          "end": 325,
+          "count": 3
+        }
+      ]
+    }
+  },
   "additional-bahaullah-006": {
     "1": {
       "refs": [
@@ -55753,65 +56842,24 @@
     "15": {
       "refs": [
         {
-          "id": "publications-individual-authors-bahaullah-new-era-021",
-          "paragraph": 62
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-078",
-          "paragraph": 30
-        },
-        {
           "id": "ruhi8-002",
           "paragraph": 41
-        },
-        {
-          "id": "compilations-local-spiritual-assembly-001",
-          "paragraph": 24
-        },
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 221
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 115,
+          "end": 608,
           "count": 1
         },
         {
-          "start": 115,
-          "end": 717,
-          "count": 2
-        },
-        {
-          "start": 717,
-          "end": 1620,
+          "start": 615,
+          "end": 1826,
           "count": 1
         },
         {
-          "start": 1620,
-          "end": 1821,
-          "count": 2
-        },
-        {
-          "start": 1828,
-          "end": 1970,
-          "count": 1
-        },
-        {
-          "start": 1970,
-          "end": 2276,
-          "count": 5
-        },
-        {
-          "start": 2276,
-          "end": 2570,
-          "count": 3
-        },
-        {
-          "start": 2570,
-          "end": 2571,
+          "start": 1833,
+          "end": 2576,
           "count": 1
         }
       ]
@@ -56208,11 +57256,20 @@
         {
           "id": "compilations-consultation-001",
           "paragraph": 39
+        },
+        {
+          "id": "ruhi10-002",
+          "paragraph": 76
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 57,
+          "count": 2
+        },
+        {
+          "start": 57,
           "end": 193,
           "count": 1
         }
@@ -56497,6 +57554,26 @@
         }
       ]
     },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 158,
+          "count": 1
+        },
+        {
+          "start": 164,
+          "end": 544,
+          "count": 1
+        }
+      ]
+    },
     "8": {
       "refs": [
         {
@@ -56555,6 +57632,21 @@
         {
           "start": 0,
           "end": 98,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 63
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 65,
           "count": 1
         }
       ]
@@ -56637,6 +57729,40 @@
       ]
     }
   },
+  "additional-shoghi-effendi-017": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 72,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-027": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 90,
+          "count": 1
+        }
+      ]
+    }
+  },
   "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-024": {
     "1": {
       "refs": [
@@ -56647,11 +57773,25 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 67
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 48
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 165,
+          "count": 2
+        },
+        {
+          "start": 165,
+          "end": 266,
+          "count": 3
+        },
+        {
+          "start": 266,
           "end": 433,
           "count": 2
         }
@@ -57132,6 +58272,21 @@
         {
           "start": 318,
           "end": 1207,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 71
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 62,
           "count": 1
         }
       ]
@@ -57855,7 +59010,7 @@
         },
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 90
+          "paragraph": 89
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -57944,7 +59099,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 12
+          "paragraph": 11
         }
       ],
       "parts": [
@@ -57956,12 +59111,33 @@
       ]
     }
   },
+  "additional-bahaullah-150": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
+          "paragraph": 14
+        },
+        {
+          "id": "compilations-prayer-devotional-life-001",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 234,
+          "count": 2
+        }
+      ]
+    }
+  },
   "the-bab-selections-writings-bab-088": {
     "1": {
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 17
+          "paragraph": 16
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -57982,7 +59158,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 18
+          "paragraph": 17
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -58003,7 +59179,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 19
+          "paragraph": 18
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -58022,7 +59198,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 20
+          "paragraph": 19
         }
       ],
       "parts": [
@@ -58037,7 +59213,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 21
+          "paragraph": 20
         }
       ],
       "parts": [
@@ -58052,7 +59228,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 22
+          "paragraph": 21
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -58073,7 +59249,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 24
+          "paragraph": 23
         }
       ],
       "parts": [
@@ -58120,7 +59296,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 25
+          "paragraph": 24
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -58132,6 +59308,31 @@
           "start": 0,
           "end": 362,
           "count": 2
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-059": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
+          "paragraph": 25
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 80
+        },
+        {
+          "id": "compilations-prayer-devotional-life-001",
+          "paragraph": 96
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 390,
+          "count": 3
         }
       ]
     }
@@ -58156,7 +59357,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 27
+          "paragraph": 26
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -58175,7 +59376,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 28
+          "paragraph": 27
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -58196,7 +59397,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 29
+          "paragraph": 28
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -58235,7 +59436,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 31
+          "paragraph": 30
         },
         {
           "id": "publications-individual-authors-bahaullah-new-era-013",
@@ -58258,6 +59459,42 @@
           "count": 3
         }
       ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
+          "paragraph": 31
+        },
+        {
+          "id": "compilations-prayer-devotional-life-001",
+          "paragraph": 114
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 93,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-312": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
+          "paragraph": 32
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 307,
+          "count": 1
+        }
+      ]
     }
   },
   "additional-abdul-baha-106": {
@@ -58265,7 +59502,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 34
+          "paragraph": 33
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -58290,7 +59527,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 37
+          "paragraph": 36
         },
         {
           "id": "compilations-prayer-devotional-life-001",
@@ -58319,7 +59556,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 38
+          "paragraph": 37
         },
         {
           "id": "compilations-family-life-001",
@@ -58344,7 +59581,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 57
+          "paragraph": 56
         },
         {
           "id": "publications-individual-authors-bahaullah-new-era-012",
@@ -58367,7 +59604,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 58
+          "paragraph": 57
         },
         {
           "id": "publications-individual-authors-bahaullah-new-era-012",
@@ -58392,7 +59629,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 59
+          "paragraph": 58
         },
         {
           "id": "publications-individual-authors-bahaullah-new-era-012",
@@ -58415,7 +59652,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 60
+          "paragraph": 59
         },
         {
           "id": "publications-individual-authors-bahaullah-new-era-012",
@@ -58444,7 +59681,7 @@
       "refs": [
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
-          "paragraph": 63
+          "paragraph": 62
         },
         {
           "id": "publications-individual-authors-bahaullah-new-era-012",
@@ -59955,6 +61192,161 @@
       ]
     }
   },
+  "bahaullah-tablets-bahaullah-010": {
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 151
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 117,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi3-003",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 126,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 6
+        },
+        {
+          "id": "ruhi3-002",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 170,
+          "count": 2
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 74
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 165,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-power-divine-assistance-001",
+          "paragraph": 10
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 99,
+          "count": 2
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-family-life-001",
+          "paragraph": 7
+        },
+        {
+          "id": "compilations-family-life-001",
+          "paragraph": 179
+        },
+        {
+          "id": "ruhi3-002",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 136,
+          "count": 2
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "compilations-family-life-001",
+          "paragraph": 180
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 212,
+          "count": 1
+        }
+      ]
+    },
+    "23": {
+      "refs": [
+        {
+          "id": "compilations-issues-related-study-bahai-faith-001",
+          "paragraph": 138
+        }
+      ],
+      "parts": [
+        {
+          "start": 73,
+          "end": 221,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-159": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-power-divine-assistance-001",
+          "paragraph": 96
+        }
+      ],
+      "parts": [
+        {
+          "start": 5,
+          "end": 85,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-bahaullah-029": {
     "1": {
       "refs": [
@@ -60496,6 +61888,96 @@
     }
   },
   "additional-bahaullah-054": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 58,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 44,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 71,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 44
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 34,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 52,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 75,
+          "count": 1
+        }
+      ]
+    },
     "7": {
       "refs": [
         {
@@ -61180,6 +62662,21 @@
         }
       ]
     },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 99
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 25,
+          "count": 1
+        }
+      ]
+    },
     "4": {
       "refs": [
         {
@@ -61610,21 +63107,6 @@
         {
           "start": 0,
           "end": 278,
-          "count": 1
-        }
-      ]
-    },
-    "53": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-prosperity-humankind-001",
-          "paragraph": 34
-        }
-      ],
-      "parts": [
-        {
-          "start": 950,
-          "end": 1030,
           "count": 1
         }
       ]
@@ -62120,6 +63602,10 @@
         {
           "id": "compilations-family-life-001",
           "paragraph": 6
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 44
         }
       ],
       "parts": [
@@ -62131,7 +63617,7 @@
         {
           "start": 109,
           "end": 178,
-          "count": 4
+          "count": 5
         },
         {
           "start": 178,
@@ -62810,6 +64296,23 @@
       ]
     }
   },
+  "bible-001": {
+    "63": {
+      "refs": [
+        {
+          "id": "compilations-women-001",
+          "paragraph": 162
+        }
+      ],
+      "parts": [
+        {
+          "start": 509,
+          "end": 518,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-shoghi-effendi-175": {
     "1": {
       "refs": [
@@ -63317,12 +64820,21 @@
         {
           "id": "compilations-huququllah-right-god-001",
           "paragraph": 73
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 74
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 269,
+          "count": 1
+        },
+        {
+          "start": 270,
+          "end": 320,
           "count": 1
         }
       ]
@@ -63332,12 +64844,21 @@
         {
           "id": "compilations-huququllah-right-god-001",
           "paragraph": 75
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 76
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 202,
+          "count": 1
+        },
+        {
+          "start": 203,
+          "end": 267,
           "count": 1
         }
       ]
@@ -63513,12 +65034,21 @@
         {
           "id": "compilations-huququllah-right-god-001",
           "paragraph": 81
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 82
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 165,
+          "count": 1
+        },
+        {
+          "start": 166,
+          "end": 261,
           "count": 1
         }
       ]
@@ -63552,12 +65082,21 @@
         {
           "id": "compilations-huququllah-right-god-001",
           "paragraph": 83
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 84
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 236,
+          "count": 1
+        },
+        {
+          "start": 237,
+          "end": 310,
           "count": 1
         }
       ]
@@ -63604,7 +65143,7 @@
     }
   },
   "compilations-importance-prayer-meditation-devotional-attitude-001": {
-    "35": {
+    "34": {
       "refs": [
         {
           "id": "bahaullah-kitab-i-aqdas-009",
@@ -63624,7 +65163,7 @@
         }
       ]
     },
-    "39": {
+    "38": {
       "refs": [
         {
           "id": "bahaullah-kitab-i-aqdas-010",
@@ -63639,7 +65178,7 @@
         }
       ]
     },
-    "97": {
+    "96": {
       "refs": [
         {
           "id": "bahaullah-kitab-i-aqdas-014",
@@ -63915,6 +65454,21 @@
     }
   },
   "the-bab-selections-writings-bab-001": {
+    "10": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 127,
+          "end": 161,
+          "count": 1
+        }
+      ]
+    },
     "14": {
       "refs": [
         {
@@ -63926,6 +65480,21 @@
         {
           "start": 0,
           "end": 95,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 205
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 24,
           "count": 1
         }
       ]
@@ -63956,6 +65525,21 @@
         {
           "start": 0,
           "end": 1187,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 208
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 93,
           "count": 1
         }
       ]
@@ -63993,18 +65577,41 @@
         {
           "id": "the-universal-house-of-justice-messages-026",
           "paragraph": 17
+        },
+        {
+          "id": "ruhi2-002",
+          "paragraph": 49
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 37
         }
       ],
       "parts": [
         {
           "start": 149,
+          "end": 244,
+          "count": 1
+        },
+        {
+          "start": 244,
+          "end": 327,
+          "count": 2
+        },
+        {
+          "start": 327,
           "end": 531,
           "count": 1
         },
         {
           "start": 532,
-          "end": 801,
+          "end": 719,
           "count": 1
+        },
+        {
+          "start": 719,
+          "end": 801,
+          "count": 2
         }
       ]
     }
@@ -66794,113 +68401,6 @@
       ]
     }
   },
-  "compilations-consultation-001": {
-    "3": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-prosperity-humankind-001",
-          "paragraph": 37
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-036",
-          "paragraph": 16
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 6
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 5,
-          "count": 2
-        },
-        {
-          "start": 5,
-          "end": 39,
-          "count": 3
-        },
-        {
-          "start": 39,
-          "end": 40,
-          "count": 2
-        },
-        {
-          "start": 40,
-          "end": 182,
-          "count": 3
-        }
-      ]
-    },
-    "4": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-089",
-          "paragraph": 10
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 4
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 69
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 70
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 82,
-          "count": 2
-        },
-        {
-          "start": 82,
-          "end": 83,
-          "count": 1
-        },
-        {
-          "start": 83,
-          "end": 84,
-          "count": 1
-        },
-        {
-          "start": 84,
-          "end": 90,
-          "count": 2
-        },
-        {
-          "start": 90,
-          "end": 158,
-          "count": 2
-        },
-        {
-          "start": 158,
-          "end": 325,
-          "count": 1
-        }
-      ]
-    },
-    "32": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-220",
-          "paragraph": 50
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1082,
-          "count": 1
-        }
-      ]
-    }
-  },
   "the-universal-house-of-justice-messages-434": {
     "17": {
       "refs": [
@@ -67236,6 +68736,25 @@
         }
       ]
     },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 119
+        },
+        {
+          "id": "compilations-issues-related-study-bahai-faith-001",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 47,
+          "count": 2
+        }
+      ]
+    },
     "17": {
       "refs": [
         {
@@ -67357,11 +68876,20 @@
         {
           "id": "the-universal-house-of-justice-messages-193",
           "paragraph": 25
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 201
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 92,
+          "count": 2
+        },
+        {
+          "start": 92,
           "end": 166,
           "count": 1
         },
@@ -68774,6 +70302,31 @@
         {
           "start": 0,
           "end": 762,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-307": {
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 6
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 39
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 100
+        }
+      ],
+      "parts": [
+        {
+          "start": 139,
+          "end": 187,
           "count": 1
         }
       ]
@@ -71389,35 +72942,6 @@
         }
       ]
     },
-    "36": {
-      "refs": [
-        {
-          "id": "compilations-issues-related-study-bahai-faith-001",
-          "paragraph": 82
-        },
-        {
-          "id": "the-universal-house-of-justice-additional-messages-007",
-          "paragraph": 10
-        }
-      ],
-      "parts": [
-        {
-          "start": 582,
-          "end": 585,
-          "count": 1
-        },
-        {
-          "start": 585,
-          "end": 652,
-          "count": 2
-        },
-        {
-          "start": 652,
-          "end": 653,
-          "count": 1
-        }
-      ]
-    },
     "41": {
       "refs": [
         {
@@ -71513,125 +73037,6 @@
         {
           "start": 0,
           "end": 381,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "bahaullah-tablets-bahaullah-010": {
-    "2": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 151
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 117,
-          "count": 1
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "ruhi3-003",
-          "paragraph": 35
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 126,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 6
-        },
-        {
-          "id": "ruhi3-002",
-          "paragraph": 10
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 170,
-          "count": 2
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "ruhi3-002",
-          "paragraph": 74
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 165,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "compilations-family-life-001",
-          "paragraph": 7
-        },
-        {
-          "id": "compilations-family-life-001",
-          "paragraph": 179
-        },
-        {
-          "id": "ruhi3-002",
-          "paragraph": 25
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 136,
-          "count": 2
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "compilations-family-life-001",
-          "paragraph": 180
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 212,
-          "count": 1
-        }
-      ]
-    },
-    "23": {
-      "refs": [
-        {
-          "id": "compilations-issues-related-study-bahai-faith-001",
-          "paragraph": 138
-        }
-      ],
-      "parts": [
-        {
-          "start": 73,
-          "end": 221,
           "count": 1
         }
       ]
@@ -72871,6 +74276,51 @@
         }
       ]
     },
+    "24": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 42,
+          "count": 1
+        }
+      ]
+    },
+    "25": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 47,
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 104,
+          "count": 1
+        }
+      ]
+    },
     "28": {
       "refs": [
         {
@@ -72895,6 +74345,21 @@
         }
       ]
     },
+    "29": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 78,
+          "count": 1
+        }
+      ]
+    },
     "31": {
       "refs": [
         {
@@ -72911,6 +74376,51 @@
           "start": 0,
           "end": 242,
           "count": 2
+        }
+      ]
+    },
+    "32": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 48,
+          "count": 1
+        }
+      ]
+    },
+    "33": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 62,
+          "count": 1
+        }
+      ]
+    },
+    "34": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 64,
+          "count": 1
         }
       ]
     },
@@ -72952,6 +74462,21 @@
         }
       ]
     },
+    "38": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 75,
+          "count": 1
+        }
+      ]
+    },
     "39": {
       "refs": [
         {
@@ -72968,6 +74493,51 @@
           "start": 0,
           "end": 103,
           "count": 2
+        }
+      ]
+    },
+    "41": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 61,
+          "count": 1
+        }
+      ]
+    },
+    "42": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 54,
+          "count": 1
+        }
+      ]
+    },
+    "48": {
+      "refs": [
+        {
+          "id": "compilations-codification-law-huququllah-001",
+          "paragraph": 31
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 41,
+          "count": 1
         }
       ]
     },
@@ -79134,6 +80704,21 @@
           "count": 1
         }
       ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 210
+        }
+      ],
+      "parts": [
+        {
+          "start": 1,
+          "end": 15,
+          "count": 1
+        }
+      ]
     }
   },
   "additional-abdul-baha-199": {
@@ -79571,6 +81156,21 @@
           "start": 0,
           "end": 369,
           "count": 2
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 68,
+          "count": 1
         }
       ]
     }
@@ -81047,11 +82647,20 @@
         {
           "id": "compilations-codification-law-huququllah-001",
           "paragraph": 34
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 134
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 75,
+          "count": 2
+        },
+        {
+          "start": 75,
           "end": 180,
           "count": 1
         }
@@ -81346,6 +82955,26 @@
     }
   },
   "additional-shoghi-effendi-066": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-family-life-001",
+          "paragraph": 27
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 30,
+          "count": 1
+        },
+        {
+          "start": 37,
+          "end": 88,
+          "count": 1
+        }
+      ]
+    },
     "2": {
       "refs": [
         {
@@ -81580,6 +83209,21 @@
         }
       ]
     },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-family-life-001",
+          "paragraph": 49
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 98,
+          "count": 1
+        }
+      ]
+    },
     "3": {
       "refs": [
         {
@@ -81623,6 +83267,21 @@
         {
           "start": 0,
           "end": 481,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-family-life-001",
+          "paragraph": 53
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 96,
           "count": 1
         }
       ]
@@ -82050,6 +83709,21 @@
         {
           "start": 0,
           "end": 468,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-family-life-001",
+          "paragraph": 79
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 80,
           "count": 1
         }
       ]
@@ -83212,11 +84886,20 @@
         {
           "id": "compilations-family-life-001",
           "paragraph": 192
+        },
+        {
+          "id": "ruhi5-002",
+          "paragraph": 15
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 71,
+          "count": 2
+        },
+        {
+          "start": 71,
           "end": 637,
           "count": 1
         }
@@ -83862,6 +85545,23 @@
       ]
     }
   },
+  "additional-abdul-baha-055": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-family-life-001",
+          "paragraph": 187
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 97,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-other-001": {
     "1": {
       "refs": [
@@ -84428,6 +86128,23 @@
         {
           "start": 228,
           "end": 346,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-135": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi7-001",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 102,
           "count": 1
         }
       ]
@@ -85953,6 +87670,21 @@
         }
       ]
     },
+    "4": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 578,
+          "end": 630,
+          "count": 1
+        }
+      ]
+    },
     "5": {
       "refs": [
         {
@@ -86213,6 +87945,21 @@
           "count": 1
         }
       ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 89,
+          "count": 1
+        }
+      ]
     }
   },
   "additional-shoghi-effendi-244": {
@@ -86313,6 +88060,35 @@
           "start": 142,
           "end": 469,
           "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-days-remembrance-003": {
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 33
+        },
+        {
+          "id": "ruhi9-001",
+          "paragraph": 3
+        },
+        {
+          "id": "ruhi1-002",
+          "paragraph": 30
+        },
+        {
+          "id": "ruhi2-003",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 425,
+          "end": 498,
+          "count": 4
         }
       ]
     }
@@ -88001,6 +89777,21 @@
         }
       ]
     },
+    "11": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 247,
+          "end": 332,
+          "count": 1
+        }
+      ]
+    },
     "74": {
       "refs": [
         {
@@ -88138,6 +89929,21 @@
         {
           "start": 0,
           "end": 232,
+          "count": 1
+        }
+      ]
+    },
+    "123": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 67,
           "count": 1
         }
       ]
@@ -90106,6 +91912,74 @@
       ]
     }
   },
+  "additional-shoghi-effendi-255": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 94,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-257": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 46,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-259": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 61,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-260": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 66,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-shoghi-effendi-198": {
     "1": {
       "refs": [
@@ -91753,27 +93627,6 @@
       ]
     }
   },
-  "abdul-baha-selections-writings-abdul-baha-059": {
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-institution-mashriqul-adhkar-001",
-          "paragraph": 80
-        },
-        {
-          "id": "compilations-prayer-devotional-life-001",
-          "paragraph": 96
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 389,
-          "count": 2
-        }
-      ]
-    }
-  },
   "abdul-baha-selections-writings-abdul-baha-061": {
     "1": {
       "refs": [
@@ -92606,6 +94459,38 @@
       ]
     }
   },
+  "abdul-baha-selections-writings-abdul-baha-236": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 218
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 84,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 219
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 92,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-the-universal-house-of-justice-083": {
     "1": {
       "refs": [
@@ -93091,11 +94976,20 @@
         {
           "id": "compilations-give-me-thy-grace-serve-thy-loved-ones-001",
           "paragraph": 14
+        },
+        {
+          "id": "ruhi3-002",
+          "paragraph": 11
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 94,
+          "count": 2
+        },
+        {
+          "start": 94,
           "end": 470,
           "count": 1
         }
@@ -93632,6 +95526,21 @@
           "start": 0,
           "end": 1353,
           "count": 2
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "ruhi9-003",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 91,
+          "count": 1
         }
       ]
     },
@@ -94381,6 +96290,10 @@
       "refs": [
         {
           "id": "ruhi10-002",
+          "paragraph": 67
+        },
+        {
+          "id": "ruhi10-002",
           "paragraph": 78
         },
         {
@@ -94396,6 +96309,11 @@
         {
           "start": 86,
           "end": 166,
+          "count": 1
+        },
+        {
+          "start": 382,
+          "end": 464,
           "count": 1
         },
         {
@@ -94947,11 +96865,20 @@
         {
           "id": "ruhi1-002",
           "paragraph": 23
+        },
+        {
+          "id": "ruhi3-001",
+          "paragraph": 22
         }
       ],
       "parts": [
         {
           "start": 79,
+          "end": 129,
+          "count": 3
+        },
+        {
+          "start": 129,
           "end": 535,
           "count": 2
         }
@@ -95630,6 +97557,21 @@
         }
       ]
     },
+    "30": {
+      "refs": [
+        {
+          "id": "ruhi1-003",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 210,
+          "end": 274,
+          "count": 1
+        }
+      ]
+    },
     "69": {
       "refs": [
         {
@@ -95727,6 +97669,44 @@
         {
           "start": 0,
           "end": 812,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-128": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 65
+        },
+        {
+          "id": "ruhi2-001",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 73,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-282": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 89
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 98,
           "count": 1
         }
       ]
@@ -97668,6 +99648,36 @@
           "count": 1
         }
       ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 271
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 91,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 272
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 72,
+          "count": 1
+        }
+      ]
     }
   },
   "additional-abdul-baha-113": {
@@ -98013,17 +100023,86 @@
         }
       ]
     },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 310
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 44,
+          "count": 1
+        }
+      ]
+    },
     "4": {
       "refs": [
         {
           "id": "compilations-social-action-001",
           "paragraph": 311
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 312
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 313
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 314
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 315
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 316
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 317
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 120,
+          "count": 1
+        },
+        {
+          "start": 121,
+          "end": 146,
+          "count": 1
+        },
+        {
+          "start": 147,
+          "end": 182,
+          "count": 1
+        },
+        {
+          "start": 183,
+          "end": 213,
+          "count": 1
+        },
+        {
+          "start": 214,
+          "end": 260,
+          "count": 1
+        },
+        {
+          "start": 261,
+          "end": 287,
+          "count": 1
+        },
+        {
+          "start": 288,
+          "end": 347,
           "count": 1
         }
       ]
@@ -99662,6 +101741,21 @@
         }
       ]
     },
+    "27": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 89
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 92,
+          "count": 1
+        }
+      ]
+    },
     "28": {
       "refs": [
         {
@@ -99931,6 +102025,51 @@
         }
       ]
     },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 195
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 20,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 197
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 25,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 199
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 61,
+          "count": 1
+        }
+      ]
+    },
     "21": {
       "refs": [
         {
@@ -100071,6 +102210,21 @@
         {
           "start": 0,
           "end": 588,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 212
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 60,
           "count": 1
         }
       ]
@@ -100849,6 +103003,21 @@
         }
       ]
     },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 299
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 32,
+          "count": 1
+        }
+      ]
+    },
     "10": {
       "refs": [
         {
@@ -100940,6 +103109,21 @@
         {
           "start": 0,
           "end": 1674,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 308
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 16,
           "count": 1
         }
       ]
@@ -101145,6 +103329,31 @@
       ]
     }
   },
+  "prayers-002": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi3-001",
+          "paragraph": 55
+        },
+        {
+          "id": "ruhi3-002",
+          "paragraph": 4
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 73,
+          "count": 3
+        }
+      ]
+    }
+  },
   "prayers-032": {
     "1": {
       "refs": [
@@ -101174,6 +103383,21 @@
           "count": 1
         }
       ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 39,
+          "count": 1
+        }
+      ]
     }
   },
   "prayers-003": {
@@ -101184,13 +103408,26 @@
           "paragraph": 22
         },
         {
+          "id": "ruhi3-002",
+          "paragraph": 66
+        },
+        {
           "id": "ruhi3-003",
           "paragraph": 11
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 30
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 77,
+          "count": 2
+        },
+        {
+          "start": 77,
           "end": 114,
           "count": 2
         }
@@ -101358,6 +103595,25 @@
           "count": 2
         }
       ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 106
+        },
+        {
+          "id": "ruhi3-003",
+          "paragraph": 49
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 38,
+          "count": 2
+        }
+      ]
     }
   },
   "abdul-baha-additional-tablets-extracts-talks-099": {
@@ -101440,6 +103696,23 @@
         {
           "start": 0,
           "end": 112,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-133": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi3-003",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 103,
           "count": 1
         }
       ]
@@ -101606,6 +103879,21 @@
         {
           "start": 0,
           "end": 503,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "ruhi5-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 79,
           "count": 1
         }
       ]
@@ -102043,6 +104331,23 @@
       ]
     }
   },
+  "additional-abdul-baha-254": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi5-002",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 94,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-the-universal-house-of-justice-125": {
     "1": {
       "refs": [
@@ -102393,6 +104698,23 @@
         {
           "start": 461,
           "end": 619,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "prayers-064": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi5-003",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 401,
+          "end": 480,
           "count": 1
         }
       ]

@@ -234,6 +234,27 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
           }
         }
       });
+      if (["compilations", "ruhi"].some((s) => doc.id.startsWith(s))) {
+        doc.paragraphs = doc.paragraphs.map((paragraph, index) => {
+          if (paragraph.base.id) return paragraph;
+          const { simplified, parts } = paragraph;
+          const source =
+            simplified.join("").length > 0 &&
+            findSource(documents, doc, simplified);
+          if (!source) return paragraph;
+          const allPara = source.paragraphs.findIndex((p) =>
+            simplified.every((s) => p.simplified.join("").includes(s))
+          );
+          return getQuotePara(
+            doc.id,
+            index,
+            simplified,
+            parts,
+            source,
+            allPara
+          );
+        });
+      }
       doc.paragraphs.forEach((para, index) => {
         if (!para.base.id) {
           const inlineQuotes = [

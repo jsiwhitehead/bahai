@@ -1361,6 +1361,10 @@ export const files = {
       splitLines(/That soul which hath itself not.*/m, "Can it then hope"),
       prefix("Whoso reciteth this prayer with lowliness", "* "),
       [
+        "Evil One. . . . Should",
+        "Evil One. Discussions must all be confined to spiritual matters that pertain to the training of souls, the instruction of children, the relief of the poor, the help of the feeble throughout all classes in the world, kindness to all peoples, the diffusion of the fragrances of God and the exaltation of His Holy Word. Should",
+      ],
+      [
         `O ye lovers of truth, ye servants of humankind! Out of the flowering of your thoughts and hopes, fragrant emanations have come my way, wherefore an inner sense of obligation compelleth me to pen these words.
 
 Ye observe how the world is divided against itself, how many a land is red with blood and its very dust is caked with human gore. The fires of conflict have blazed so high that never in early times, not in the Middle Ages, not in recent centuries hath there ever been such a hideous war, a war that is even as millstones, taking for grain the skulls of men. Nay, even worse, for flourishing countries have been reduced to rubble, cities have been levelled with the ground, and many a once prosperous village hath been turned into ruin. Fathers have lost their sons, and sons their fathers. Mothers have wept away their hearts over dead children. Children have been orphaned, women left to wander, vagrants without a home. From every aspect, humankind hath sunken low. Loud are the piercing cries of fatherless children; loud the mothers’ anguished voices, reaching to the skies.
@@ -1658,6 +1662,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ["you attract them to yourself", "you attract them to yourselves"],
       ["just and show your fidelity", "just and to show your fidelity"],
       ["his particular convictions", "his particular conviction"],
+      ["second condition:—They must", "second condition . . . They must"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -2040,6 +2045,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         },
       ],
       [/^\[Principles of Bahá’í.*/m, ""],
+      [/those whom they should serve/g, "those whom they serve"],
       [
         `So long as these prejudices survive, there will be continuous and fearsome wars.
 
@@ -2435,6 +2441,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ],
       ["created thing has been revealed", "created things has been revealed"],
       ["restless, and it condition", "restless, and its condition"],
+      ["second condition:—They must", "second condition . . . They must"],
     ],
   },
   compilations: {
@@ -2506,6 +2513,10 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         years: [1990, 1990],
       }),
       [/^From/gm, "# From"],
+      ["wholly freed from estrangement", "wholly free from estrangement"],
+      ["second condition: they must", "second condition . . . they must"],
+      ["those whom they should serve", "those whom they serve"],
+      ["told by the Master to be", "told by our Master to be"],
     ],
     // covenant: [],
     // "crisis-victory": [],
@@ -2619,6 +2630,10 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         }
       ),
       [/^Extract/gm, "# Extract"],
+      [
+        "Recite ye the verses of God every morning and evening. Whoso reciteth them not hath truly failed to fulfil his pledge to the Covenant of God and His Testament, and whoso in this day turneth away therefrom hath indeed turned away from God since time immemorial. Fear ye God, O concourse of My servants!\n\nTake heed lest excessive reading and too many acts of piety in the daytime and in the night season make you vainglorious. Should a person recite but a single verse from the Holy Writings in a spirit of joy and radiance, this would be better for him than reciting wearily all the Scriptures of God, the Help in Peril, the Self‑Subsisting. Recite ye the verses of God in such measure that ye be not overtaken with fatigue or boredom. Burden not your souls so as to cause exhaustion and weigh them down, but rather endeavour to lighten them, that they may soar on the wings of revealed Verses unto the dawning‑place of His signs. This is conducive to nearer access unto God, were ye to comprehend.",
+        "Recite ye the verses of God every morn and eventide. Whoso faileth to recite them hath not been faithful to the Covenant of God and His Testament, and whoso turneth away from these holy verses in this Day is of those who throughout eternity have turned away from God. Fear ye God, O My servants, one and all. Pride not yourselves on much reading of the verses or on a multitude of pious acts by night and day; for were a man to read a single verse with joy and radiance it would be better for him than to read with lassitude all the Holy Books of God, the Help in Peril, the Self‑Subsisting. Read ye the sacred verses in such measure that ye be not overcome by languor and despondency. Lay not upon your souls that which will weary them and weigh them down, but rather what will lighten and uplift them, so that they may soar on the wings of the Divine verses towards the Dawning‑place of His manifest signs; this will draw you nearer to God, did ye but comprehend.",
+      ],
     ],
     "institution-mashriqul-adhkar": [
       removeAfter("Notes"),
@@ -2661,6 +2676,9 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         years: [2017, 2017],
       }),
       [/^[IV]+\./gm, "#"],
+      ["wholly freed from estrangement", "wholly free from estrangement"],
+      ["second condition: They must", "second condition . . . They must"],
+      ["those whom they should serve", "those whom they serve"],
     ],
     music: [
       removeAfter("Notes"),
