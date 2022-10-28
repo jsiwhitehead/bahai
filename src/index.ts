@@ -87,50 +87,62 @@ const toUrl = (s) =>
 const documentsList = Object.keys(documents)
   .map((k) => documents[k])
   .filter((d) => !d.paragraphs.every((p) => p.id))
-  .map((d) => {
-    const refCounts = Object.keys(quotes[d.id] || {}).flatMap(
-      (k) => unique(quotes[d.id][k].refs.map((r) => r.id)).length
-    );
-    return {
-      ...d,
-      path: d.path && [
-        ...new Set(
-          d.path.filter(
-            (p) =>
-              ![
-                "Selections from the Writings of the Báb",
-                "Part Two: Letters from Shoghi Effendi",
-              ].includes(p)
-          )
-        ),
-      ],
-      words: d.paragraphs
-        .flatMap((p) => {
-          if (p.section) return p.title || "";
-          if (p.id) {
-            const doc = documents[p.id];
-            if (!p.parts) return doc.paragraphs[p.paragraphs[0] - 1].text;
-            return p.parts
-              .filter((part) => typeof part !== "string")
-              .map(({ paragraph, start, end }) =>
-                doc.paragraphs[paragraph - 1].text.slice(start, end)
-              );
-          }
-          return p.text;
-        })
-        .map((s) => s.split(" ").length)
-        .reduce((a, b) => a + b, 0),
-      score:
-        refCounts.reduce((res, n) => res + n, 0) /
-        Math.sqrt(d.paragraphs.length),
-    };
-  })
+  .map((d) => ({
+    ...d,
+    path: d.path && [
+      ...new Set(
+        d.path.filter(
+          (p) =>
+            ![
+              "Selections from the Writings of the Báb",
+              "Part Two: Letters from Shoghi Effendi",
+            ].includes(p)
+        )
+      ),
+    ],
+    words: d.paragraphs
+      .flatMap((p) => {
+        if (p.section) return p.title || "";
+        if (p.id) {
+          const doc = documents[p.id];
+          if (!p.parts) return doc.paragraphs[p.paragraphs[0] - 1].text;
+          return p.parts
+            .filter((part) => typeof part !== "string")
+            .map(({ paragraph, start, end }) =>
+              doc.paragraphs[paragraph - 1].text.slice(start, end)
+            );
+        }
+        return p.text;
+      })
+      .map((s) => s.split(" ").length)
+      .reduce((a, b) => a + b, 0),
+    score: Object.keys(quotes[d.id] || {})
+      .flatMap((k) =>
+        quotes[d.id][k].parts.map(
+          (p) =>
+            d.paragraphs[parseInt(k) - 1].text
+              .slice(p.start, p.end)
+              .trim()
+              .split(" ").length * p.count
+        )
+      )
+      .reduce((res, n) => res + n, 0),
+  }))
   .map((d) => {
     const time = d.words / 238;
     if (time < 2.5) return { ...d, time: "1‑2 mins" };
     if (time < 60) return { ...d, time: `${Math.round(time / 5) * 5} mins` };
-    return { ...d, time: `${Math.round(time / 6) / 10} hours` };
+    return {
+      ...d,
+      time: `${Math.round(time / 6) / 10} hours`,
+      score: d.score / Math.sqrt(d.words),
+    };
   })
+  // .sort(
+  //   (a, b) =>
+  //     b.years[0] + b.years[1] - (a.years[0] + a.years[1]) ||
+  //     a.id.localeCompare(b.id)
+  // )
   // .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
   .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
 

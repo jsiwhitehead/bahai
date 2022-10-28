@@ -4,6 +4,7 @@
     'levelNumbers': '',
     'paraNumbers': '1',
     'highlight': '',
+    'showCitations': '',
     'color': colors.'link'.(doc.'author') | colors.'link'.'The World Centre',
     'allLines': doc.'paragraphs'->every.[p: p.'type' | p.'lines'],
     : [
@@ -174,7 +175,7 @@
                   ]
                 ]
               },
-              ...'' & (quotesMap.(doc.'id')?.(i)?.'refs' | [])->map.[
+              ...showCitations & (quotesMap.(doc.'id')?.(i)?.'refs' | [])->map.[
                 r: [
                   'size': 16,
                   'italic': 'true',

@@ -2013,7 +2013,33 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         },
       ],
       ["## Selected Messages", "Selected Messages"],
+      prefix(/^\([iv]/gm, "### "),
       [/summary="Riḍván.*/gm, ""],
+      [
+        /^\([A-Z].*/gm,
+        (a) => {
+          if (
+            ["Súrih", "Qur’án"].some((s) => a.includes(s)) ||
+            [
+              "(New appointments are indicated with an asterisk.)",
+              "(Summarised from a report received concerning the functioning of such schools in a particular country)",
+            ].includes(a)
+          ) {
+            return a;
+          }
+          return "";
+        },
+      ],
+      [
+        /^\([a-z].*/gm,
+        (a) => {
+          if (["(p. 14)", "(from a newly translated Tablet)"].includes(a)) {
+            return "";
+          }
+          return a;
+        },
+      ],
+      [/^\[Principles of Bahá’í.*/m, ""],
       [
         `So long as these prejudices survive, there will be continuous and fearsome wars.
 
@@ -2035,21 +2061,26 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         years: [1996, 2006],
         collection: true,
       }),
-      title("#", "Global Plans: Fundamental Concepts", { years: [2005, 2005] }),
+      title("#", "Global Plans: Fundamental Concepts", {
+        years: [2005.1029, 2005.1029],
+      }),
       title("#", "Additional Documents", { collection: true }),
       [/^— .* —$\n\n/gm, "## "],
-      ["## Training Institutes", "## Training Institutes\nyears=[1998,1998]"],
+      [
+        "## Training Institutes",
+        "## Training Institutes\nyears=[1998.0401,1998.0401]",
+      ],
       [
         "## Training Institutes and Systematic Growth",
-        "## Training Institutes and Systematic Growth\nyears=[2000,2000]",
+        "## Training Institutes and Systematic Growth\nyears=[2000.0201,2000.0201]",
       ],
       [
         "## Building Momentum A Coherent Approach to Growth",
-        "## Building Momentum: A Coherent Approach to Growth\nyears=[2003,2003]",
+        "## Building Momentum: A Coherent Approach to Growth\nyears=[2003.0401,2003.0401]",
       ],
       [
         "## Impact of Growth on Administration Processes",
-        "## Impact of Growth on Administration Processes\nyears=[2005,2005]",
+        "## Impact of Growth on Administration Processes\nyears=[2005.0701,2005.0701]",
       ],
       [/^a document.*\n\n.*/gm, ""],
       [

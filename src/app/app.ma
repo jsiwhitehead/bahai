@@ -57,7 +57,6 @@
         'Bahá’í Library'
       ],
       button('Prayers', 'true'),
-      button('Other Documents', 'true'),
       [
         'pad': [10, 0],
         'fill': '#ddd',
@@ -141,7 +140,6 @@
           ],
         ]
       ],
-      button('Prophetic Cycle', 'true'),
     ],
     [
       'pad': ['left': 215],

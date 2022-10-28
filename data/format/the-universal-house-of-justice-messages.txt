@@ -2000,7 +2000,7 @@ Finally, at the heart of the conceptual framework for social action lie elements
 
 Bahá’í activity in the field of social and economic development seeks to promote the well‑being of people of all walks of life, whatever their beliefs or background. It represents the efforts of the Bahá’í community to effect constructive social change, as it learns to apply the teachings of the Faith, together with knowledge accumulated in different fields of human endeavour, to social reality. Its purpose is neither to proclaim the Cause nor to serve as a vehicle for conversion. What follows below is a discussion of some of the elements of the conceptual framework that help to define its nature.
 
-(i) Coherence between the spiritual and the material
+### (i) Coherence between the spiritual and the material
 
 An exploration of the nature of social action, undertaken from a Bahá’í perspective, must necessarily place it in the broad context of the advancement of civilisation. That a global civilisation which is both materially and spiritually prosperous represents the next stage of a millennia‑long process of social evolution provides a conception of history that endows every instance of social action with a particular purpose: to foster true prosperity, with its spiritual and material dimensions, among the diverse inhabitants of the planet. A concept of vital relevance, then, is the imperative to achieve a dynamic coherence between the practical and spiritual requirements of life. ‘Abdu’l‑Bahá states that while “material civilisation is one of the means for the progress of the world of mankind,” until it is “combined with Divine civilisation, the desired result, which is the felicity of mankind, will not be attained”. He continues:
 
@@ -2012,7 +2012,7 @@ Although the relevance of scientific knowledge to development efforts is readily
 
 Social action, of whatever size and complexity, should strive to remain free of simplistic and distorted conceptions of science and religion. To this end, an imaginary duality between reason and faith—a duality that would confine reason to the realm of empirical evidence and logical argumentation and which would associate faith with superstition and irrational thought—must be avoided. The process of development has to be rational and systematic—incorporating, for example, scientific capabilities of observing, of measuring, of rigorously testing ideas—and at the same time deeply aware of faith and spiritual convictions. In the words of ‘Abdu’l‑Bahá: “faith compriseth both knowledge and the performance of good works.” Faith and reason can best be understood as attributes of the human soul through which insights and knowledge can be gained about the physical and the spiritual dimensions of existence. They make it possible to recognise the powers and capacities latent in individuals and in humanity as a whole and enable people to work for the realisation of these potentialities.
 
-(ii) Participation
+### (ii) Participation
 
 A civilisation befitting a humanity which, having passed through earlier stages of social evolution, is coming of age will not emerge through the efforts exerted by a select group of nations or even a network of national and international agencies. Rather, the challenge must be faced by all of humanity. Every member of the human family has not only the right to benefit from a materially and spiritually prosperous civilisation but also an obligation to contribute towards its construction. Social action should operate, then, on the principle of universal participation.
 
@@ -2022,7 +2022,7 @@ In this connection, it is important to realise that the application and propagat
 
 No matter how essential, a process of learning at the local level will remain limited in its effectiveness if it is not connected to a global process concerned with the material and spiritual prosperity of humanity as a whole. Structures are required, then, at all levels, from the local to the international, to facilitate learning about development. At the international level, such learning calls for a degree of conceptualisation that takes into account the broader processes of global transformation under way and which serves to adjust the overall direction of development activities accordingly. In this respect, OSED sees itself as a learning entity dedicated to the systematisation of a growing worldwide experience made possible by the participation of increasing numbers of individuals, agencies, and communities. As this participation widens, the Office strives to develop its own capacity to observe activity at the grassroots, to identify and analyse patterns that emerge under one or more sets of circumstances, and to disseminate the knowledge thus generated, strengthening structures for this purpose and lending impetus to the process of learning at all levels. The approach to development that comes into focus, then, defies categorisation into either “top‑down” or “bottom‑up”; it is one, rather, of reciprocity and interconnectedness.
 
-(iii) Capacity building
+### (iii) Capacity building
 
 When development is seen in terms of the participation of more and more people in a collective process of learning, then the concept of capacity building assumes particular importance. Thus, while any instance of social action would naturally aim at improving some aspect of the life of a population, it cannot focus simply on the provision of goods and services—an approach to development so prevalent in the world today, one which often carries with it attitudes of paternalism and which employs methods that disempower those who should be the protagonists of change. Setting and achieving specific goals to improve conditions is a legitimate concern of social action; yet, far more essential is the accompanying rise in the capacity of the participants in an endeavour to contribute to progress. Of course, the imperative to build capacity is not only relevant to the individual, important though that may be; it is equally applicable to institutions and the community, the other two protagonists in the advancement of civilisation.
 
@@ -2036,7 +2036,7 @@ What seems necessary to acknowledge here is that the increase of capacity in eac
 
 We cannot segregate the human heart from the environment outside us and say that once one of these is reformed everything will be improved. Man is organic with the world. His inner life moulds the environment and is itself also deeply affected by it. The one acts upon the other and every abiding change in the life of man is the result of these mutual reactions.
 
-(iv) Degrees of complexity
+### (iv) Degrees of complexity
 
 That the development process is inherently complex is undeniable. It can involve activity in areas such as agriculture and animal husbandry, manufacturing and marketing, the management of funds and natural resources, health and sanitation, education and socialisation, communication and community organisation. The knowledge that must be brought to bear on the development concerns of the communities of the world, then, does not fit into a single area or discipline. Interdisciplinary and multisectoral action is clearly called for. Yet the capacity to pursue such coordinated action will only appear in the Bahá’í community over the course of decades, as will the capacity to address development issues at increasingly higher levels of complexity and effectiveness.
 
@@ -2050,7 +2050,7 @@ In this respect, OSED’s efforts to strengthen the institutional capacity of Ba
 
 However useful the concept of a Bahá’í‑inspired organisation may be, its application under divers circumstances requires careful consideration. The way that such an organisation emerges from the life of a region and contributes to its progress is of paramount importance. Its establishment cannot be haphazard, nor can its creation proceed solely from the longing of two or three individuals to fulfil a personal, albeit altruistic, desire. A Bahá’í‑inspired organisation operating in a region derives meaning, in part, from its relationship to other activities; it is one of several interacting endeavours through which consistent progress is achieved. The value of such organisations in the different regions of the world to the development work is evident. Yet, the transformative power of thousands upon thousands of simple actions undertaken at the grassroots tied together in a common framework should not be underestimated.
 
-(v) Flow of resources
+### (v) Flow of resources
 
 All Bahá’í activity is carried forward in light of a fundamental belief in the oneness of humankind. All contribute their talents and resources to the advancement of a common purpose, and all share in the joy of progress. Clearly, then, the emphasis placed on local action should not be construed as favouring isolation.
 
@@ -2068,7 +2068,7 @@ In the efforts of Bahá’ís everywhere, then, can be seen the emergence of a g
 
 In addition to those elements of the conceptual framework that define the nature of Bahá’í development efforts, there are a number of concepts which shed light on the methods to be adopted. That the collective investigation of reality can best be undertaken in an atmosphere which encourages detachment from personal views, that such an ongoing investigation should give due importance to valid empirical information, that mere opinion should not be raised to the status of fact, that conclusions should correspond to the complexity of the issues at hand and not be broken up into a series of simplistic points, that the articulation of observations and conclusions should be presented in precise and dispassionate language, that progress in every area of endeavour is contingent upon the creation of an environment where powers are multiplied and manifest themselves in unified action—general concepts such as these, drawn from both science and religion, inform the specific methodological perspective discussed below.
 
-(i) Reading society and formulating a vision
+### (i) Reading society and formulating a vision
 
 As mentioned earlier, endeavours in the sphere of social action frequently take the form of modest acts carried out by small groups of individuals residing in a locality. In a sense, these stirrings at the grassroots can be considered responses to readings of social reality, even though they are seldom expressed explicitly as such at that level. For more elaborate endeavours of social and economic development, reading society with higher and higher degrees of accuracy has to become an explicit element of the methodology of learning.
 
@@ -2078,7 +2078,7 @@ It is important to note that reading the social reality of a population from wit
 
 According to their reading of society, those engaged in social action form and refine a vision of their work within the social space available to them. The word “vision” here does not simply mean a set of goals or a description of an idealised future condition. Particularly when a Bahá’í‑inspired organisation is involved, a vision has to express a general idea of how goals are to be achieved: the nature of the strategies to be devised, the approaches to be taken, the attitudes to be assumed, and even an outline of some of the methods to be employed. The vision of work articulated by such an organisation is never complete; it has to become more and more precise, be able to accommodate constantly evolving and ever more complex action, and attain increasingly high levels of accuracy in its operation.
 
-(ii) Consultation
+### (ii) Consultation
 
 If learning in action is to be the primary mode of operation in the area of social and economic development, the Bahá’í principle of consultation needs to be fully appreciated. Whether concerned with analysing a specific problem, attaining higher degrees of understanding on a given issue, or exploring possible courses of action, consultation may be seen as collective search for truth. Participants in a consultative process see reality from different points of view, and as these views are examined and understood, clarity is achieved. In this conception of the collective investigation of reality, truth is not a compromise between opposing interest groups. Nor does the desire to exercise power over one another animate participants in the consultative process. What they seek, rather, is the power of unified thought and action.
 
@@ -2088,7 +2088,7 @@ Clearly, then, not every person within an organisation will participate equally 
 
 Beyond such considerations, a consultative spirit pervades the interactions of those engaged in social action, of whatever size and complexity, and the population they serve. This does not imply that formal mechanisms are necessarily in place for this purpose. It suggests, rather, that the aspirations of the people, their observations and ideas, are ever present and are consciously incorporated into plans and programmes.
 
-(iii) Action and reflection on action
+### (iii) Action and reflection on action
 
 At the heart of every development endeavour is consistent, systematic action. Action, however, needs to be accompanied by constant reflection to ensure that it continues to serve the aims of the endeavour. Development strategies that are formulated simply in terms of projects with well‑stated goals, followed by evaluation of how and why they were or were not achieved, have limitations. An approach to development defined in terms of learning does, at times, admit formal evaluation. Yet, it depends far more on structured reflection woven into a pattern of action, through which questions can emerge and methods and approaches be adjusted.
 
@@ -2100,7 +2100,7 @@ Focused, systematic thinking and persistent, meticulous labour do not, of course
 
 One righteous act is endowed with a potency that can so elevate the dust as to cause it to pass beyond the heaven of heavens. It can tear every bond asunder, and hath the power to restore the force that hath spent itself and vanished.
 
-(iv) Utilising material means
+### (iv) Utilising material means
 
 To accomplish their aims, endeavours in the area of social action require material means. There is a tendency among many organisations in the world—including those working to achieve praiseworthy ends—to measure success principally in terms of the amount of money received and spent. Bahá’í development efforts are expected to set aside such criteria. In modest instances of social action, resources are typically contributed by the community. A more complex endeavour will have to acquire greater capacity to draw upon and utilise funds. In the case of a Bahá’í‑inspired organisation, this may extend, as mentioned earlier, to receiving grants from donor agencies. Here great care is required to ensure that, in attempting to secure funds, an organisation is not distracted from its primary purpose: capacity building within a given population.
 
@@ -6034,13 +6034,9 @@ Any reference to authoritative or binding interpretation of Bahá’í Scripture
 
 It is incumbent upon these members (of the Universal House of Justice) to . . . deliberate upon all problems which have caused difference, questions that are obscure and matters that are not expressly recorded in the Book . . . and bear upon daily transactions. . . .
 
-(Will and Testament of ‘Abdu’l‑Bahá (Wilmette: Bahá’í Publishing Trust, 1971), p. 20)
-
 Further, in response to a question raised by a National Spiritual Assembly about the Universal Court of Arbitration, the Guardian, in a letter dated 9 April 1923, defined such explanation as being in the domain of the Universal House of Justice and anticipated its function of elucidation:
 
 . . . regarding the nature and scope of the Universal Court of Arbitration, this and other similar matters will have to be explained and elucidated by the Universal House of Justice, to which, according to the Master’s explicit Instructions, all important fundamental questions must be referred. . . .
-
-(Published in Bahá’í Administration: Selected Messages 1922—1932 (Wilmette: Bahá’í Publishing Trust, 1974), p. 47)
 
 The meanings of the terms “elucidation” and “interpretation,” as they are used with regard to the functions of Bahá’í institutions, should not of course be confused with each other. The elucidations of the Universal House of Justice stem from its legislative function, and as such differ from interpretation. The divinely inspired legislation of the House of Justice does not attempt to say what the revealed Word means—it states what must be done in cases where the revealed Text or its authoritative interpretation is not explicit; and in this context it offers explanations. It is, therefore, on quite a different level from the sacred Text, and the Universal House of Justice is empowered to abrogate or amend its own legislation whenever it judges the conditions make this desirable. The major distinction between the two functions of elucidation and interpretation, to repeat the point differently, is that legislation with its resultant outcome of elucidation is susceptible of amendment by the House of Justice itself, whereas the Guardian’s interpretation is a statement of truth which cannot be varied.
 
@@ -6048,15 +6044,11 @@ While the House of Justice does not interpret, it makes deductions on the basis 
 
 Briefly, this is the wisdom of referring the laws of society to the House of Justice. In the religion of Islám, similarly, not every ordinance was explicitly revealed; nay not a tenth part of a tenth part was included in the Text; although all matters of major importance were specifically referred to, there were undoubtedly thousands of laws which were unspecified. These were devised by the divines of a later age according to the laws of Islámic jurisprudence, and individual divines made conflicting deductions from the original revealed ordinances. All these were enforced. Today this process of deduction is the right of the body of the House of Justice, and the deductions and conclusions of individual learned men have no authority, unless they are endorsed by the House of Justice. The difference is precisely this, that from the conclusions and endorsements of the body of the House of Justice whose members are elected by and known to the worldwide Bahá’í community, no differences will arise; whereas the conclusions of individual divines and scholars would definitely lead to differences, and result in schism, division, and dispersion. The oneness of the Word would be destroyed, the unity of the Faith would disappear, and the edifice of the Faith of God would be shaken.
 
-(Published in Messages from the Universal House of Justice, 1963—1986 (Wilmette: Bahá’í Publishing Trust, 1996), p. 86)
-
 In the normal use of the term, interpretation is the natural activity of an intelligent mind. As has been stated on previous occasions in the communications of the House of Justice, there is an important distinction made in the Faith between authoritative interpretation, as described above, and the interpretation which every believer is fully entitled to voice. Believers are free, indeed are encouraged, to study the Writings for themselves and to express their understanding of them. Such personal interpretations can be most illuminating, but all Bahá’ís, including the one expressing the view, however learned he may be, should realise that it is only a personal view and can never be upheld as a standard for others to accept, nor should contention ever be permitted to arise over differences in such opinions.
 
 As to your reference to the perception of certain scholars that the opinions of the House of Justice are neither binding nor authoritative, the following words of ‘Abdu’l‑Bahá are illuminating:
 
 Let it not be imagined that the House of Justice will take any decision according to its own concepts and opinions. God forbid! The Supreme House of Justice will take decisions and establish laws through the inspiration and confirmation of the Holy Spirit, because it is in the safekeeping and under the shelter and protection of the Abhá Beauty, and obedience to its decisions is a bounden and essential duty and an absolute obligation, and there is no escape for anyone.
-
-(Published in Wellspring of Guidance: Messages 1963—1968 (Wilmette: Bahá’í Publishing Trust, 1976), pp. 84—5)
 
 The House of Justice trusts that these comments will assist you to arrive at the clarification you seek, and it assures you of its prayers in the Holy Shrines on your behalf.
 
@@ -6965,8 +6957,6 @@ Electioneering is a practice foreign to the spirit of Bahá’í administration.
 Bahá’ís, nevertheless, are subject to all the pressures and standards of the prevalent culture of the society in which they live, and can only too easily be unconsciously influenced in their behaviour by the accepted norms of that culture. One of our challenging tasks as Bahá’ís, however, is to establish, through our personal conduct and through the pattern of life in our communities and institutions, those cultural standards which Bahá’u’lláh wishes us to uphold. In a description of the characteristics of those who are called upon to serve in Bahá’í administrative institutions, Shoghi Effendi says:
 
 They should never be led to suppose that they are the central ornaments of the body of the Cause, intrinsically superior to others in capacity or merit, and sole promoters of its teachings and principles. They should approach their task with extreme humility, and endeavour, by their open‑mindedness, their high sense of justice and duty, their candour, their modesty, their entire devotion to the welfare and interests of the friends, the Cause, and humanity, to win, not only the confidence and the genuine support and respect of those whom they serve, but also their esteem and real affection.
-
-(Bahá’í Administration: Selected Messages 1922—1932 (Wilmette: Bahá’í Publishing Trust, 1974), p. 64.)
 
 As such attitudes and standards become, ever more clearly, the norm of Bahá’í society, the friends will have little difficulty in distinguishing among their fellow‑believers those who are worthy of their votes.
 
@@ -8581,8 +8571,6 @@ In the following statement, Shoghi Effendi advises the Bahá’í teacher to adv
 
 Let him [the Bahá’í teacher] consider the degree of his hearer’s receptivity, and decide for himself the suitability of either the direct or indirect method of teaching, whereby he can impress upon the seeker the vital importance of the Divine Message, and persuade him to throw in his lot with those who have already embraced it. Let him remember the example set by ‘Abdu’l‑Bahá, and His constant admonition to shower such kindness upon the seeker, and exemplify to such a degree the spirit of the teachings he hopes to instil into him, that the recipient will be spontaneously impelled to identify himself with the Cause embodying such teachings. Let him refrain, at the outset, from insisting on such laws and observances as might impose too severe a strain on the seeker’s newly awakened faith, and endeavour to nurse him, patiently, tactfully, and yet determinedly, into full maturity, and aid him to proclaim his unqualified acceptance of whatever has been ordained by Bahá’u’lláh. Let him, as soon as that stage has been attained, introduce him to the body of his fellow‑believers, and seek, through constant fellowship and active participation in the local activities of his community, to enable him to contribute his share to the enrichment of its life, the furtherance of its tasks, the consolidations of its interests, and the coordination of its activities with those of its sister communities. Let him not be content until he has infused into his spiritual child so deep a longing as to impel him to arise independently, in his turn, and devote his energies to the quickening of other souls, and the upholding of the laws and principles laid down by his newly adopted Faith.
 
-(The Advent of Divine Justice, pp. 51—52)
-
 From these words of the Guardian we can see that wisdom, encouragement, persuasion, and patience, are all called for, and that these must be attuned to the response shown by the hearer. We also see that the process of deepening continues long after the new believer has enrolled in the Bahá’í community. . . .
 
 With loving Bahá’í greetings,
@@ -9790,13 +9778,9 @@ The sacred nature of Bahá’í elections, especially as it is expressed in the 
 
 constitutes the distinguishing feature and the marked superiority of the Bahá’í electoral methods over those commonly associated with political parties and factions. . . .
 
-(The Light of Divine Guidance: The Messages from the Guardian of the Bahá’í Faith to the Bahá’ís of Germany and Austria, p. 67)
-
 Further, in a letter dated 14 May 1927 Shoghi Effendi described ways in which the voters should carry out their sacred responsibilities in electing members of Spiritual Assemblies:
 
 I feel that reference to personalities before the election would give rise to misunderstanding and differences. What the friends should do is to get thoroughly acquainted with one another, to exchange views, to mix freely and discuss among themselves the requirements and qualifications for such a membership without reference or application, however indirect, to particular individuals. We should refrain from influencing the opinions of others, of canvassing for any particular individual, but should stress the necessity of getting fully acquainted with the qualifications of membership referred to in our Beloved’s Tablets and of learning more about one another through direct, personal experience rather than through the reports and opinions of our friends.
-
-[Principles of Bahá’í Administration: A Compilation, 1st Indian ed. (New Delhi: Bahá’í Publishing Trust, 1982), p. 47]
 
 It is clear then that to adopt a rule limiting the eligibility of an Assembly member for reelection would limit the freedom of choice of the electors and would add an element completely discordant to the entire pattern of Bahá’í elections.
 
@@ -10586,8 +10570,6 @@ The function of the divinely appointed interpreters is evident in the progressiv
 
 And now, concerning the House of Justice which God hath ordained as the source of all good and freed from all error, it must be elected by universal suffrage, that is, by the believers. . . . By this House is meant the Universal House of Justice, that is, in all countries a secondary House of Justice must be instituted, and these secondary Houses of Justice must elect the members of the Universal one. . . .
 
-(p. 14)
-
 And in one of His Tablets He had already written:
 
 At whatever time all the beloved of God in each country appoint their delegates, and these in turn elect their representatives, and these representatives elect a body, that body shall be regarded as the Supreme House of Justice.
@@ -10596,13 +10578,9 @@ In the following passage, ‘Abdu’l‑Bahá referred to membership of the “H
 
 The House of Justice, however, according to the explicit text of the Law of God, is confined to men; this for a wisdom of the Lord God’s, which will erelong be made manifest as clearly as the sun at high noon.
 
-(Selections from the Writings of ‘Abdu’l‑Bahá, p. 80)
-
 Later the Master clarified that it was only the Universal House of Justice whose membership was confined to men. ‘Abdu’l‑Bahá wrote:
 
 According to the ordinances of the Faith of God, women are the equals of men in all rights save only that of membership on the Universal House of Justice, for as hath been stated in the text of the Book, both the head and the members of the House of Justice are men. However, in all other bodies, such as the Temple Construction Committee, the Teaching Committee, the Spiritual Assembly, and in charitable and scientific associations, women share equally in all rights with men.
-
-(from a newly translated Tablet)
 
 Shoghi Effendi, in a letter written on his behalf to an individual believer, provided the following authoritative elaboration of this theme:
 
@@ -10753,25 +10731,17 @@ Your letter touches upon a subject which, as time passes, will increasingly enga
 
 According to the fundamental laws which We have formerly revealed in the Kitáb‑i‑Aqdas and other Tablets, all affairs are committed to the care of just kings and presidents and of the Trustees of the House of Justice.
 
-(Tablets of Bahá’u’lláh Revealed after the Kitáb‑i‑Aqdas, p. 93)
-
 Elsewhere He states:
 
 It is incumbent upon the ministers of the House of Justice to promote the Lesser Peace so that the people of the earth may be relieved from the burden of exorbitant expenditures. This matter is imperative and absolutely essential, inasmuch as hostilities and conflict lie at the root of affliction and calamity.
-
-(Tablets of Bahá’u’lláh Revealed after the Kitáb‑i‑Aqdas, p. 89)
 
 And yet again He asserts:
 
 All matters of State should be referred to the House of Justice, but acts of worship must be observed according to that which God hath revealed in His Book.
 
-(Tablets of Bahá’u’lláh Revealed after the Kitáb‑i‑Aqdas, p. 27)
-
 Furthermore, ‘Abdu’l‑Bahá is reported to have said in a talk:
 
 He [Bahá’u’lláh] has ordained and established the House of Justice, which is endowed with a political as well as a religious function, the consummate union and blending of church and state. This institution is under the protecting power of Bahá’u’lláh Himself.
-
-(The Promulgation of Universal Peace, 1982 ed., p. 455)
 
 As can be seen from the current situation in the world and the current state in the development of the Bahá’í community, statements such as these indicate a future stage in the functioning of the House of Justice and of the operation of our world community; but in the meantime, the House of Justice will determine, as particular circumstances warrant, how the Bahá’ís and their national and local institutions will relate to their respective governments.
 
@@ -10925,19 +10895,13 @@ In considering the status of believers such as Mr. . . . , it is necessary to 
 
 . . . I would only venture to state very briefly and as adequately as present circumstances permit the principal factors that must be taken into consideration before deciding whether a person may be regarded a true believer or not. Full recognition of the station of the Forerunner, the Author, and the True Exemplar of the Bahá’í Cause, as set forth in ‘Abdu’l‑Bahá’s Testament; unreserved acceptance of, and submission to, whatsoever has been revealed by their Pen; loyal and steadfast adherence to every clause of our Beloved’s sacred Will; and close association with the spirit as well as the form of the present day Bahá’í administration throughout the world—these I conceive to be the fundamental and primary considerations that must be fairly, discreetly and thoughtfully ascertained before reaching such a vital decision. . . .
 
-(Bahá’í Administration, p. 90, October 24, 1925)
-
 This specification was restated by the Universal House of Justice in addressing the issue of acceptance of new believers, when it wrote:
 
 Those who declare themselves as Bahá’ís should become enchanted with the beauty of the teachings, and touched by the love of Bahá’u’lláh. The declarants need not know all the proofs, history, laws, and principles of the Faith, but in the process of declaring themselves they must, in addition to catching the spark of faith, become basically informed about the Central Figures of the Faith, as well as the existence of laws they must follow and an administration they must obey.
 
-(From a letter to all National Spiritual Assemblies, 13 July 1964)
-
 It follows that individuals who do not satisfy these requirements cannot be regarded as members of the Bahá’í community, irrespective of whatever statements they might make concerning the nature of their belief in Bahá’u’lláh. Such a situation arises, in some instances, when a person claims to accept the station of Bahá’u’lláh but does not accept the authority of the Administrative Institutions. The Guardian clarified this matter in a letter written on his behalf, stating:
 
 . . . To accept the Cause without the administration is like to accept the teachings without acknowledging the divine station of Bahá’u’lláh. To be a Bahá’í is to accept the Cause in its entirety. To take exception to one basic principle is to deny the authority and sovereignty of Bahá’u’lláh, and therefore is to deny the Cause. . . .
-
-(Letter to a National Spiritual Assembly, 30 May 1930)
 
 If you feel that Mr. . . . does not accept “the authority and sovereignty of Bahá’u’lláh” as explained above, despite the statements he might make asserting his acceptance of the Bahá’í Faith, you should remove his name from the list of members and regard him as being a non‑Bahá’í.
 
@@ -11350,8 +11314,6 @@ The stages of the evolution of these institutions, which will synchronise with t
 
 Not only will the present‑day Spiritual Assemblies be styled differently in future, but they will be enabled also to add to their present functions those powers, duties, and prerogatives necessitated by the recognition of the Faith of Bahá’u’lláh, not merely as one of the recognised religious systems of the world, but as the State Religion of an independent and Sovereign Power.
 
-(The World Order of Bahá’u’lláh, pp. 6—7)
-
 Your specific question about whether or not Bahá’ís in North America “are permitted to run for election to school boards, town or municipal councils, hospital boards and for local enforcement officer positions” should be answered by the National Assemblies concerned.
 
 The completion of the buildings on the Arc “which will synchronise with two no less significant developments—the establishment of the Lesser Peace and the evolution of Bahá’í national and local institutions—the one outside and the other within the Bahá’í world” speaks, as you have rightly perceived, “to the readiness of the Bahá’í Administrative Order to manage the ever‑growing and complex affairs of the Cause as well as an increased capacity to interface with the non‑Bahá’í world and its institutions.”
@@ -11420,8 +11382,6 @@ It is clear from a study of the Text that infallibility is an essential attribut
 
 . . . Were He to pronounce right to be wrong or denial to be belief, He speaketh the truth as bidden by God. This is a station wherein sins or trespasses neither exist nor are mentioned.
 
-(Tablets of Bahá’u’lláh Revealed after the Kitáb‑i‑Aqdas, pp. 108, 109)
-
 ‘Abdu’l‑Bahá, in Some Answered Questions, stresses the inseparability of “essential infallibility” from the Manifestation of God, and states:
 
 . . . as the supreme Manifestations certainly possess essential infallibility, therefore whatever emanates from Them is identical with the truth, and conformable to reality. They are not under the shadow of the former laws. Whatever They say is the word of God, and whatever They perform is an upright action.
@@ -11434,27 +11394,19 @@ As to the infallibility of the content of Bahá’u’lláh’s revelation, . .
 
 Thou knowest full well that We perused not the books which men possess and We acquired not the learning current amongst them, and yet whenever We desire to quote the sayings of the learned and of the wise, presently there will appear before the face of thy Lord in the form of a tablet all that which hath appeared in the world and is revealed in the Holy Books and Scriptures. Thus do We set down in writing that which the eye perceiveth. Verily His knowledge encompasseth the earth and the heavens.
 
-(Tablets of Bahá’u’lláh Revealed after the Kitáb‑i‑Aqdas, p. 149)
-
 Mr. Cole confirms this statement by comparison of the texts concerned. There is nothing in the text of this Tablet to show conclusively whether, by quoting these passages, Bahá’u’lláh was intending to confirm their assertions, or whether He was merely referring to historical authorities that were accepted by the audience He was addressing. It must be borne in mind that accounts of past events as recorded by historians of the East do not always agree with the accounts set down by chroniclers in other parts of the world. Perhaps in the future studies will be undertaken to ascertain the facts scientifically, if this is at all possible.
 
 In reference to His Revelation, Bahá’u’lláh provides the following assurance that when viewed from the perspective of the Manifestation, the divine purpose of the verses will become apparent and questions will be resolved:
 
 The verses are sent down at one time in a form that is untroubled by the rules of grammarians, transcending what the minds of men have yet conceived; and at another time they are sent down in a style that conformeth to the standards of men. Thy Lord, verily, is potent over whatsoever He willeth by virtue of His words “Be, and it is.” Wert thou to view them with Mine eyes thou wouldst see that they are in conformity with the most consummate rules, and wouldst give thanks to the Lord, the Almighty, the Best‑Beloved.
 
-(Newly translated)
-
 As to the question of individual interpretation, while individual interpretation is the fruit of man’s rational power and conducive to a better understanding of the teachings, the application of logical analysis has inherent limitations. ‘Abdu’l‑Bahá stated:
 
 Therefore, if the criterion of reason or intellect constituted a correct and infallible standard of judgement, those who tested and applied it should have arrived at the same conclusions. As they differ and are contradictory in conclusions, it is an evidence that the method and standard of test must have been faulty and insufficient.
 
-(The Promulgation of Universal Peace: Talks Delivered by ‘Abdu’l‑Bahá during His Visit to the United States and Canada in 1912, p. 254)
-
 Understanding of the Writings requires belief in the Manifestation of God, for, as the Master states:
 
 . . . the knowledge of God is the cause of spiritual progress and attraction, and through it the perception of truth, the exaltation of humanity, divine civilisation, rightness of morals and illumination are obtained.
-
-(Some Answered Questions, p. 300)
 
 Other important components in this process include an attitude of prayerful humility, acceptance of the statements of the Manifestation, confidence in the knowledge that understanding of their meaning will emerge with meditation, study of the texts and the passage of time, willingness to acknowledge that one’s views may be erroneous, and, courage to follow in the direction defined by the authentic sacred texts.
 
@@ -12143,8 +12095,6 @@ The woman is indeed of the greater importance to the race. She has the greater b
 
 Consider, for instance, a mother who has tenderly reared a son for twenty years to the age of maturity. Surely she will not consent to having that son torn asunder and killed in the field of battle. Therefore, as woman advances toward the degree of man in power and privilege, with the right of vote and control in human government, most assuredly war will cease; for woman is naturally the most devoted and staunch advocate of international peace.
 
-(Promulgation of Universal Peace, p. 375)
-
 A further extract about women and peace is taken from a letter written on behalf of the Guardian on 24 March 1945:
 
 What ‘Abdu’l‑Bahá meant about the women arising for peace is that this is a matter which vitally affects women, and when they form a conscious and overwhelming mass of public opinion against war there can be no war. The Bahá’í women are already organised through being members of the Faith and the Administrative Order. No further organisation is needed. But they should, through teaching and through the active moral support they give to every movement directed towards peace, seek to exert a strong influence on other women’s minds in regard to this essential matter.
@@ -12728,19 +12678,13 @@ And to every people have we sent an apostle. . .
 
 God hath raised up Prophets and revealed Books as numerous as the creatures of the world, and will continue to do so to everlasting.
 
-(Selections from the Writings of the Báb, p. 125)
-
 Know thou that the absence of any reference to them [Prophets before Adam] is no proof that they did not actually exist. That no records concerning them are now available, should be attributed to their extreme remoteness, as well as to the vast changes which the earth hath undergone since their time.
-
-(Gleanings, p. 172)
 
 While Asia has clearly been blessed as the birthplace of many Manifestations of God, we have found nothing in the Writings to suggest exactly where in the world these Messengers of God in the remote past, may have arisen. In a letter written on behalf of the Guardian, we have the promise that “. . . there always have been Manifestations of God, but we do not have any record of Their names.”
 
 We are instructed to assure you that the Universal House of Justice will offer prayers at the Holy Shrines that your faith may be deepened and your perplexities resolved, and we share with you these solacing words of Bahá’u’lláh:
 
 O My servants! Sorrow not if, in these days and on this earthly plane, things contrary to your wishes have been ordained and manifested by God, for days of blissful joy, of heavenly delight, are assuredly in store for you. Worlds, holy and spiritually glorious, will be unveiled to your eyes. You are destined by Him, in this world and hereafter, to partake of their benefits, to share in their joys, and to obtain a portion of the sustaining grace. To each and every one of them you will, no doubt, attain.
-
-(Gleanings, p. 329)
 
 With loving Bahá’í greetings,
 
@@ -12786,15 +12730,9 @@ So long as these [prejudices] remain, the dread of war will continue.
 
 The sole remedy is universal peace. And this is achieved only by the establishment of a supreme Tribunal, representative of all governments and peoples. All national and international problems should be referred to this tribunal, and whatsoever be its decision that should be enforced. Were a government or people to dissent, the world as a whole should rise against it.
 
-(Selections from the Writings of ‘Abdu’l‑Bahá, [Rev. ed.] [Haifa: Bahá’í World Centre, 1982], p. 249)
-
 For example, the question of universal peace, about which Bahá’u’lláh says that the Supreme Tribunal must be established: although the League of Nations has been brought into existence, yet it is incapable of establishing universal peace. But the Supreme Tribunal which Bahá’u’lláh has described will fulfil this sacred task with the utmost might and power. And His plan is this: that the national assemblies of each country and nation—that is to say parliaments—should elect two or three persons who are the choicest of that nation, and are well informed concerning international laws and the relations between governments and aware of the essential needs of the world of humanity in this day. The number of these representatives should be in proportion to the number of inhabitants of that country. The election of these souls who are chosen by the national assembly, that is, the parliament, must be confirmed by the upper house, the congress and the cabinet and also by the president or monarch so these persons may be the elected ones of all the nation and the government. The Supreme Tribunal will be composed of these people and all mankind will thus have a share therein, for every one of these delegates is fully representative of his nation. When the Supreme Tribunal gives a ruling on any international question, either unanimously or by majority rule, there will no longer be any pretext for the plaintiff or ground of objection for the defendant. In case any of the governments or nations, in the execution of the irrefutable decision of the Supreme Tribunal, be negligent or dilatory, the rest of the nations will rise up against it, because all the governments and nations of the world are the supporters of this Supreme Tribunal. Consider what a firm foundation this is! But by a limited and restricted League the purpose will not be realised as it ought and should. This is the truth about the situation, which has been stated. . . .
 
-(Tablet to the Executive Committee of the Central Organisation for a Durable Peace, Selections from the Writings of ‘Abdu’l‑Bahá, pp. 306—7)
-
 A Supreme Tribunal shall be established by the peoples and Governments of every nation, composed of members elected from each country and Government. The members of this Great Council shall assemble in unity. All disputes of an international character shall be submitted to this Court, its work being to arrange by arbitration everything which otherwise would be a cause of war. The mission of this Tribunal would be to prevent war.
-
-(Paris Talks: Addresses Given by ‘Abdu’l‑Bahá in Paris in 1911—1912, 11th ed. [London: Bahá’í Publishing Trust, 1979], p. 155)
 
 From letters written on behalf of the Guardian to individual believers
 
@@ -13057,8 +12995,6 @@ Indeed, the chief reason for the evils now rampant in society is a lack of spiri
 It is this condition, so sadly morbid, into which society has fallen, that religion seeks to improve and transform. For the core of religious faith is that mystic feeling that unites man with God. This state of spiritual communion can be brought about and maintained by means of meditation and prayer. And this is the reason why Bahá’u’lláh has so much stressed the importance of worship. It is not sufficient for a believer to merely accept and observe the teachings. He should, in addition, cultivate the sense of spirituality which he can acquire chiefly by the means of prayer. The Bahá’í Faith, like all other Divine religions, is thus fundamentally mystic in character. Its chief goal is the development of the individual and society, through the acquisition of spiritual virtues and powers. It is the soul of man that has first to be fed. And this spiritual nourishment prayer can best provide. Laws and institutions, as viewed by Bahá’u’lláh, can become really effective only when our inner spiritual life has been perfected and transformed. Otherwise religion will degenerate into a mere organisation, and become a dead thing.
 
 The believers, particularly the young ones, should therefore realise fully the necessity of praying. For prayer is absolutely indispensable to their inner spiritual development, and this, [as] already stated, is the very foundation and purpose of the religion of God.
-
-(Published in U.S. Bahá’í News, No. 102, August 1936, p. 3)
 
 In addition to this fundamental purpose underlying all Revelation, there is a particular central purpose for each Dispensation. The one for this Dispensation is the establishment of the oneness of the world of humanity, and it is a Bahá’í teaching that the spiritual development of the soul requires not merely prayer and meditation, but also active service to one’s fellowmen in accordance with the laws and principles of the Revelation of God. The reconstruction of human society and the spiritual advancement of individual souls go hand in hand.
 
@@ -13928,8 +13864,6 @@ It may well be that we shall find some statement is couched in terms familiar to
 
 As to the ascent of Christ to the fourth heaven, as revealed in the glorious “Book of Íqán,” he [the Guardian] stated that the “fourth heaven” is a term used and a belief held by the early astronomers. The followers of the Shí‘ih sect likewise held this belief. As the Kitáb‑i‑Íqán was revealed for the guidance of that sect, this term was used in conformity with the concepts of its followers.
 
-(Translated from the Arabic)
-
 In studying such statements, however, we must have the humility to appreciate the limitations of our own knowledge and outlook, and strive always to understand the purpose of Bahá’u’lláh in making them, trying to look upon Him with His own eyes, as it were.
 
 It is hoped that the above explanations will prove useful to you in your study of the subjects in which you have expressed interest.
@@ -14697,13 +14631,9 @@ and again:
 
 So it will come to pass that when women participate fully and equally in the affairs of the world, when they enter confidently and capably the great arena of laws and politics, war will cease; . . .
 
-(The Promulgation of Universal Peace, p. 135)
-
 In the Tablet of the World, Bahá’u’lláh Himself has envisaged that women as well as men would be breadwinners in stating:
 
 Everyone, whether man or woman, should hand over to a trusted person a portion of what he or she earneth through trade, agriculture or other occupation, for the training and education of children, to be spent for this purpose with the knowledge of the Trustees of the House of Justice.
-
-(Tablets of Bahá’u’lláh Revealed after the Kitáb‑i‑Aqdas, p. 90)
 
 A very important element in the attainment of such equality is Bahá’u’lláh’s provision that boys and girls must follow essentially the same curriculum in schools.
 
@@ -15495,13 +15425,9 @@ Scholarship has a high station in the Bahá’í teachings, and Bahá’í schol
 
 Consort with all men, O people of Bahá, in a spirit of friendliness and fellowship. If ye be aware of a certain truth, if ye possess a jewel, of which others are deprived, share it with them in a language of utmost kindliness and goodwill. If it be accepted, if it fulfil its purpose, your object is attained. If any one should refuse it, leave him unto himself, and beseech God to guide him. Beware lest ye deal unkindly with him. A kindly tongue is the lodestone of the hearts of men. It is the bread of the spirit, it clotheth the words with meaning, it is the fountain of the light of wisdom and understanding. . . .
 
-(Gleanings from the Writings of Bahá’u’lláh CXXXII)
-
 and again:
 
 Should any one among you be incapable of grasping a certain truth, or be striving to comprehend it, show forth, when conversing with him, a spirit of extreme kindliness and goodwill. Help him to see and recognise the truth, without esteeming yourself to be, in the least, superior to him, or to be possessed of greater endowments.
-
-(Gleanings from the Writings of Bahá’u’lláh V)
 
 In our view there are two particular dangers to which Bahá’í scholars are exposed, and which they share with those believers who rise to eminent positions in the administration of the Cause. One danger is faced by only a few: those whose work requires them to read the writings of Covenant‑breakers. They have to remember that they are by no means immune to the spiritual poison that such works distil, and that they must approach this aspect of their work with great caution, alert to the danger that it presents. The second danger, which may well be as insidious, is that of spiritual pride and arrogance. Bahá’í scholars, especially those who are scholars in the teachings and history of the Faith itself, would be well advised to remember that scholars have often been most wrong when they have been most certain that they were right. The virtues of moderation, humility and humour in regard to one’s own work and ideas are a potent protection against this danger.
 
@@ -16909,8 +16835,6 @@ With loving Bahá’í greetings,
 
 ## Use of Radio and Television in Teaching
 
-(Extracts from letters written on behalf of Shoghi Effendi)
-
 In regard to your wish of broadcasting the Message, Shoghi Effendi would advise you to consult with the Spiritual Assembly as to whether such an action meets their approval, and if so to ask their assistance and help for finding the best means through which to carry out your plan. The idea of a wireless station is rather ambitious and requires much financial expenditure. If, however, you find it feasible and within your financial capacity you should not hesitate to do so, inasmuch as this will enable you to spread the Cause in a much easier and more efficient manner.
 
 (13 August 1933 to an individual believer)
@@ -18019,8 +17943,6 @@ Local Spiritual Assemblies are at the present newly born institutions, strugglin
 
 The Bahá’í Administration is only the first shaping of what in future will come to be the social life and laws of community living. As yet the believers are only just beginning to grasp and practice it properly. So we must have patience if at times it seems a little self‑conscious and rigid in its workings. It is because we are learning something very difficult but very wonderful—how to live together as a community of Bahá’ís, according to the glorious teachings.
 
-(From letter dated 14 October 1941 to two believers)
-
 What we find expounded in the writings of our Faith is the lofty station Local Spiritual Assemblies must attain in their gradual and at times painful development. In encouraging these Assemblies to attain this aim, there is no harm in the National Spiritual Assembly mentioning certain minimum requirements from time to time, provided it is clear that nonattainment of such standards, which by their very nature must be continuously revised with changing conditions, do not justify the withdrawal of recognition from any weak Assemblies. It would not be profitable therefore for the Universal House of Justice to lay down universal minimum standards for properly functioning Local Spiritual Assemblies, as these must necessarily differ from country to country, and even from district to district within the same country, in the process of the evolution of these Assemblies into Houses of Justice, as envisaged by Bahá’u’lláh.
 
 Among the more salient objectives to be attained by the Local Spiritual Assembly in its process of development to full maturity are to act as a loving shepherd to the Bahá’í flock, promote unity and concord among the friends, direct the teaching work, protect the Cause of God, arrange for Feasts, anniversaries and regular meetings of the community, familiarise the Bahá’ís with its plans, invite the community to offer its recommendations, promote the welfare of youth and children, and participate, as circumstances permit, in humanitarian activities. In its relationship to the individual believer, the Assembly should continuously invite and encourage him to study the Faith, to deliver its glorious message, to live in accordance with its teachings, to contribute freely and regularly to the Fund, to participate in community activities, and to seek refuge in the Assembly for advice and help, when needed.
@@ -18032,8 +17954,6 @@ In all cases submitted for its consideration the Assembly must uphold the standa
 The first quality for leadership, both among individuals and Assemblies, is the capacity to use the energy and competence that exists in the rank and file of its followers. Otherwise the more competent members of the group will go at a tangent and try to find elsewhere a field of work where they could use their energy.
 
 Shoghi Effendi hopes that the Assemblies will do their utmost in planning such teaching activities and that every single soul will be kept busy.
-
-(From letter dated 30 August 1930 written on behalf of the Guardian to the National Spiritual Assembly of the United States and Canada)
 
 In the compilation of texts we sent to all National Spiritual Assemblies in August 1970, and in the By‑Laws of a Local Spiritual Assembly, you will find all the objectives Local Spiritual Assemblies must aim at achieving in their process of growth and development. We recommend that you restudy these documents carefully and discuss this highly important problem with the Counsellors of your zone, who will be only too glad to help you encourage the development of Local Spiritual Assemblies in your country.
 
@@ -18100,8 +18020,6 @@ As with so many aspects of the Administrative Order, understanding of this subje
 In the Kitáb‑i‑‘Ahdí (the Book of His Covenant) Bahá’u’lláh wrote “Blessed are the rulers and the learned among the people of Bahá,” and referring to this very passage the beloved Guardian wrote on 4 November 1931:
 
 In this holy cycle the “learned” are, on the one hand, the Hands of the Cause of God, and, on the other, the teachers and diffusers of His teachings who do not rank as Hands, but who have attained an eminent position in the teaching work. As to the “rulers” they refer to the members of the Local, National and International Houses of Justice. The duties of each of these souls will be determined in the future.
-
-(Translated from the Persian)
 
 The Hands of the Cause of God, the Counsellors and the members of the Auxiliary Boards fall within the definition of the “learned” given by the beloved Guardian. Thus they are all intimately interrelated and it is not incorrect to refer to the three ranks collectively as one institution.
 
@@ -18863,8 +18781,6 @@ Bahá’u’lláh has, furthermore, stated that the revivification of mankind an
 
 Humanity, whether viewed in the light of man’s individual conduct or in the existing relationships between organised communities and nations, has, alas, strayed too far and suffered too great a decline to be redeemed through the unaided efforts of the best among its recognised rulers and statesmen—however disinterested their motives, however concerted their action, however unsparing in their zeal and devotion to its cause. No scheme which the calculations of the highest statesmanship may yet devise, no doctrine which the most distinguished exponents of economic theory may hope to advance, no principle which the most ardent of moralists may strive to inculcate, can provide, in the last resort, adequate foundations upon which the future of a distracted world can be built. No appeal for mutual tolerance which the worldly‑wise might raise, however compelling and insistent, can calm its passions or help restore its vigour. Nor would any general scheme of mere organised international cooperation, in whatever sphere of human activity, however ingenious in conception or extensive in scope, succeed in removing the root cause of the evil that has so rudely upset the equilibrium of present‑day society. Not even, I venture to assert, would the very act of devising the machinery required for the political and economic unification of the world—a principle that has been increasingly advocated in recent times—provide in itself the antidote against the poison that is steadily undermining the vigour of organised peoples and nations. What else, might we not confidently affirm, but the unreserved acceptance of the Divine Programme enunciated, with such simplicity and force as far back as sixty years ago, by Bahá’u’lláh, embodying in its essentials God’s divinely appointed scheme for the unification of mankind in this age, coupled with an indomitable conviction in the unfailing efficacy of each and all of its provisions, is eventually capable of withstanding the forces of internal disintegration which, if unchecked, must needs continue to eat into the vitals of a despairing society.
 
-(The World Order of Bahá’u’lláh, pp. 33—34)
-
 We are told by Shoghi Effendi that two great processes are at work in the world: the great Plan of God, tumultuous in its progress, working through mankind as a whole, tearing down barriers to world unity and forging humankind into a unified body in the fires of suffering and experience. This process will produce in God’s due time, the Lesser Peace, the political unification of the world. Mankind at that time can be likened to a body that is unified but without life. The second process, the task of breathing life into this unified body—of creating true unity and spirituality culminating in the Most Great Peace—is that of the Bahá’ís, who are labouring consciously, with detailed instructions and continuing divine guidance, to erect the fabric of the Kingdom of God on earth, into which they call their fellowmen, thus conferring upon them eternal life.
 
 The working out of God’s Major Plan proceeds mysteriously in ways directed by Him alone, but the Minor Plan that He has given us to execute, as our part in His grand design for the redemption of mankind, is clearly delineated. It is to this work that we must devote all our energies, for there is no one else to do it. So vital is this function of the Bahá’ís that Bahá’u’lláh has written: “O friends! Be not careless of the virtues with which ye have been endowed, neither be neglectful of your high destiny. Suffer not your labours to be wasted through the vain imaginations which certain hearts have devised. Ye are the stars of the heaven of understanding, the breeze that stirreth at the break of day, the soft‑flowing waters upon which must depend the very life of all men, the letters inscribed upon His sacred scroll. With the utmost unity, and in a spirit of perfect fellowship, exert yourselves, that ye may be enabled to achieve that which beseemeth this Day of God.” (Gleanings, XCVI)
@@ -19223,17 +19139,11 @@ The attainment of this objective will be facilitated and enhanced if the friends
 
 He wishes also to stress the fact that, according to our Bahá’í laws, work is forbidden on our nine Holy Days. Believers who have independent businesses or shops should refrain from working on these days. Those who are in government employ should, on religious grounds, make an effort to be excused from work; all believers, whoever their employers, should do likewise. If the government, or other employers, refuse to grant them these days off, they are not required to forfeit their employment, but they should make every effort to have the independent status of their Faith recognised and their right to hold their own religious Holy Days acknowledged.
 
-(From letter written on behalf of the Guardian to the American National Spiritual Assembly, dated 7 July 1947—Bahá’í News, No. 198, page 3)
-
 This distinction between institutions that are under full or partial Bahá’í control is of a fundamental importance. Institutions that are entirely managed by Bahá’ís are, for reasons that are only too obvious, under the obligation of enforcing all the laws and ordinances of the Faith, especially those whose observance constitutes a matter of conscience. There is no reason, no justification whatever, that they should act otherwise . . . The point which should be always remembered is that the issue in question is essentially a matter of conscience, and as such is of a binding effect upon all believers. . . .
-
-(From letter written on behalf of the Guardian to the American National Spiritual Assembly, dated 2 October 1935—Bahá’í News, No. 97, page 9)
 
 In addition, steps should be taken to have Bahá’í children excused, on religious grounds, from attending school on Bahá’í Holy Days wherever possible. The Guardian has said:
 
 Regarding children: at fifteen a Bahá’í is of age as far as keeping the laws of the Aqdas is concerned—prayer, fasting, etc. But children under fifteen should certainly observe the Bahá’í Holy Days, and not go to school, if this can be arranged, on these nine days.
-
-(From letter written on behalf of the Guardian to the American National Spiritual Assembly, dated 25 October 1947)
 
 National Assemblies should give this subject their careful consideration, and should provide ways and means for bringing this matter to the attention of the believers under their jurisdiction so that, as a matter of conscience, the mass of believers will uphold these laws and observe them.
 
@@ -19344,8 +19254,6 @@ At whatever time all the beloved of God in each country appoint their delegates,
 
 The establishment of that House is not dependent upon the conversion of all the nations of the world. For example, if conditions were favourable and no disturbances would be caused, the friends in Persia would elect their representatives, and likewise the friends in America, in India, and other areas would also elect their representatives, and these would elect a House of Justice. That House of Justice would be the Supreme House of Justice. That is all.
 
-(Makátíb‑i‑‘Abdu’l‑Bahá, Vol. III, pp. 500—501)
-
 The friends should realise that there is nothing in the Texts to indicate that the election of the Universal House of Justice could be called only by the Guardian. On the contrary, ‘Abdu’l‑Bahá envisaged the calling of its election in His own lifetime. At a time described by the Guardian as “the darkest moments of His [the Master’s] life, under ‘Abdu’l‑Ḥamíd’s regime, when He stood ready to be deported to the most inhospitable regions of Northern Africa,” and when even His life was threatened, ‘Abdu’l‑Bahá wrote to Ḥájí Mírzá Táqí Afnán, the cousin of the Báb and chief builder of the ‘Ishqábád Temple, commanding him to arrange for the election of the Universal House of Justice should the threats against the Master materialise. The second part of the Master’s Will is also relevant to such a situation and should be studied by the friends.
 
 The second series of problems vexing some of the friends centres on the question of the infallibility of the Universal House of Justice and its ability to function without the presence of the Guardian. Particular difficulty has been experienced in understanding the implications of the following statement by the beloved Guardian:
@@ -19358,11 +19266,7 @@ Let the friends who wish for a clearer understanding of this passage at the pres
 
 They have also, in unequivocal and emphatic language, appointed those twin institutions of the House of Justice and of the Guardianship as their chosen Successors, destined to apply the principles, promulgate the laws, protect the institutions, adapt loyally and intelligently the Faith to the requirements of progressive society, and consummate the incorruptible inheritance which the Founders of the Faith have bequeathed to the world.
 
-(Letter dated 21 March 1930, The World Order of Bahá’u’lláh, p. 20)
-
 It must be also clearly understood by every believer that the institution of Guardianship does not under any circumstances abrogate, or even in the slightest degree detract from, the powers granted to the Universal House of Justice by Bahá’u’lláh in the “Kitábu’l‑Aqdas,” and repeatedly and solemnly confirmed by ‘Abdu’l‑Bahá in His Will. It does not constitute in any manner a contradiction to the Will and Writings of Bahá’u’lláh, nor does it nullify any of His revealed instructions. It enhances the prestige of that exalted assembly, stabilises its supreme position, safeguards its unity, assures the continuity of its labours, without presuming in the slightest to infringe upon the inviolability of its clearly defined sphere of jurisdiction. We stand indeed too close to so monumental a document to claim for ourselves a complete understanding of all its implications, or to presume to have grasped the manifold mysteries it undoubtedly contains. . . .
-
-(Letter dated 27 February 1929, The World Order of Bahá’u’lláh, p. 8)
 
 From these statements it is made indubitably clear and evident that the Guardian of the Faith has been made the Interpreter of the Word and that the Universal House of Justice has been invested with the function of legislating on matters not expressly revealed in the teachings. The interpretation of the Guardian, functioning within his own sphere, is as authoritative and binding as the enactments of the International House of Justice, whose exclusive right and prerogative is to pronounce upon and deliver the final judgement on such laws and ordinances as Bahá’u’lláh has not expressly revealed. Neither can, nor will ever, infringe upon the sacred and prescribed domain of the other. Neither will seek to curtail the specific and undoubted authority with which both have been divinely invested.
 
@@ -19380,13 +19284,9 @@ Above all, let the hearts of the friends be assured by these words of Bahá’u�
 
 The Hand of Omnipotence hath established His Revelation upon an unassailable, an enduring foundation. Storms of human strife are powerless to undermine its basis, nor will men’s fanciful theories succeed in damaging its structure.
 
-(The World Order of Bahá’u’lláh, p. 109)
-
 and these of ‘Abdu’l‑Bahá:
 
 Verily, God effecteth that which He pleaseth; naught can annul His Covenant; naught can obstruct His favour nor oppose His Cause! He doeth with His will that which pleaseth Him and He is powerful over all things! . . .
-
-(Tablets of Abdul‑Bahá Abbás, Vol. III, p. 598)
 
 It should be understood by the friends that before legislating upon any matter the Universal House of Justice studies carefully and exhaustively both the Sacred Texts and the Writings of Shoghi Effendi on the subject. The interpretations written by the beloved Guardian cover a vast range of subjects and are equally as binding as the Text itself.
 
@@ -19394,21 +19294,13 @@ There is a profound difference between the interpretations of the Guardian and t
 
 “Such,” in the words of Shoghi Effendi, “is the immutability of His revealed Word. Such is the elasticity which characterises the functions of His appointed ministers. The first preserves the identity of His Faith, and guards the integrity of His law. The second enables it, even as a living organism, to expand and adapt itself to the needs and requirements of an ever‑changing society.”
 
-(Letter dated 21 March 1930, The World Order of Bahá’u’lláh, p. 23)
-
 Every true believer, if he is to deepen in his understanding of the Cause of Bahá’u’lláh, must needs combine profound faith in the unfailing efficacy of His Message and His Covenant, with the humility of recognising that no one of this generation can claim to have embraced the vastness of His Cause nor to have comprehended the manifold mysteries and potentialities it contains. The words of Shoghi Effendi bear ample testimony to this fact:
 
 How vast is the Revelation of Bahá’u’lláh! How great the magnitude of His blessings showered upon humanity in this day! And yet, how poor, how inadequate our conception of their significance and glory! This generation stands too close to so colossal a Revelation to appreciate, in their full measure, the infinite possibilities of His Faith, the unprecedented character of His Cause, and the mysterious dispensations of His Providence.
 
-(Letter dated 21 March 1930, The World Order of Bahá’u’lláh, p. 24)
-
 We are called upon by our beloved Master in His Will and Testament not only to adopt it [Bahá’u’lláh’s new world order] unreservedly, but to unveil its merit to all the world. To attempt to estimate its full value, and grasp its exact significance after so short a time since its inception would be premature and presumptuous on our part. We must trust to time, and the guidance of God’s Universal House of Justice, to obtain a clearer and fuller understanding of its provisions and implications. . . .
 
-(Letter dated 23 February 1924, published in Bahá’í Administration, p. 62)
-
 As to the order and the management of the spiritual affairs of the friends, that which is very important now is the consolidation of the Spiritual Assemblies in every centre, because on these fortified and unshakable foundations, God’s Supreme House of Justice shall be erected and firmly established in the days to come. When this most great Edifice shall be reared on such an immovable foundation, God’s purpose, wisdom, universal truths, mysteries and realities of the Kingdom, which the mystic revelation of Bahá’u’lláh has deposited within the Will and Testament of ‘Abdu’l‑Bahá, shall gradually be revealed and made manifest.
-
-(Letter dated 19 December 1923—translated from the Persian)
 
 Statements such as these indicate that the full meaning of the Will and Testament of ‘Abdu’l‑Bahá, as well as an understanding of the implications of the World Order ushered in by that remarkable document can be revealed only gradually to men’s eyes, and after the Universal House of Justice has come into being. The friends are called upon to trust to time and to await the guidance of the Universal House of Justice, which, as circumstances require, will make pronouncements that will resolve and clarify obscure matters.
 
