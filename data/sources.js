@@ -1674,6 +1674,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ["the Standards of Thy exalted", "the Standards of Thine exalted"],
       ["flowing from Thy all‑glorious", "flowing from Thine all‑glorious"],
       ["assisted by grace from on", "assisted by His grace from on"],
+      ["integrity of our characters, can", "integrity of our character, can"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -1812,6 +1813,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         "Consider these days in which He Who is the Ancient Beauty hath come in the Most Great Name, that He may quicken the world and unite its peoples. They, however, rose up against Him with sharpened swords, and committed that which caused the Faithful Spirit to lament, until in the end they imprisoned Him in the most desolate of cities, and broke the grasp of the faithful upon the hem of His robe. Were anyone to tell them: ‘The World Reformer is come’, they would answer and say: ‘Indeed it is proven that He is a fomenter of discord!’",
       ],
       ["century of light—has been", "century of light—hath been"],
+      ["guidance of the Exalted", "guidance of His Holiness, the Exalted"],
     ],
   },
   "the-universal-house-of-justice": {
@@ -2079,6 +2081,8 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         "unskilled physicians who have spurred on the steed of their worldly",
         "ignorant physicians, who gave full rein to their personal",
       ],
+      ["has written: “Wherefore", "has written: . . . “Wherefore"],
+      ["such belief.” See how firm", "such belief.” . . . See how firm"],
       [
         `So long as these prejudices survive, there will be continuous and fearsome wars.
 
@@ -2181,6 +2185,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         "The ongoing collection of statistics",
       ],
       ["### Turning Point", "Turning Point"],
+      ["has endowed each and all", "hast endowed each and all"],
     ],
   },
   "official-statements-commentaries": {
@@ -2963,6 +2968,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
         "one who abhors the arts and sciences",
       ],
       ["being but a mindless animal", "being but is even as a mindless animal"],
+      ["which God has “endowed each", "which God “hast endowed each"],
     ],
     trustworthiness: [
       removeAfter("Notes"),
@@ -2977,6 +2983,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
         years: [1990, 1990],
       }),
       [/^Extract/gm, "# Extract"],
+      ["the One Who hath power", "the One that hath power"],
     ],
     "universal-house-of-justice-compilation": [
       removeAfter("Index"),
@@ -2996,6 +3003,11 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
       ["our love for our beloved Master", "our love of our beloved Master"],
       ["by unwarranted inferences", "by unwarrantable inferences"],
       ["the members the Universal One", "the members of the Universal One"],
+      [/guidance of the Exalted/g, "guidance of His Holiness, the Exalted"],
+      [
+        "prolonged consultation which included consideration",
+        "prolonged consideration",
+      ],
     ],
     women: [
       removeAfter("VI.Bibliography"),
