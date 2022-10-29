@@ -1386,11 +1386,12 @@
   {
     "path": ["Additional"],
     "item": 115,
+    "title": "Cited in the Advent of Divine Justice",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
       {
-        "text": "Know thou that in every age and dispensation all divine ordinances are changed and transformed according to the requirement of the time, except the law of love, which, like a fountain, always flows and is never overtaken by change."
+        "text": "Drink ye, O handmaidens of God, the Mystic Wine from the cup of My words. Cast away, then, from you that which your minds abhor, for it hath been forbidden unto you in His Tablets and His Scriptures. Beware lest ye barter away the River that is life indeed for that which the souls of the pure‑hearted detest. Become ye intoxicated with the wine of the love of God, and not with that which deadeneth your minds, O ye that adore Him! Verily, it hath been forbidden unto every believer, whether man or woman. Thus hath the sun of My commandment shone forth above the horizon of My utterance, that the handmaidens who believe in Me may be illumined."
       }
     ]
   },
@@ -1401,13 +1402,24 @@
     "years": [1852, 1892],
     "paragraphs": [
       {
-        "text": "He who lives according to what is ordained for him—the Celestial Concourse, and the people of the Supreme Paradise, and those who are dwelling in the Dome of Greatness will pray for him, by a Command from God, the Dearest and the praiseworthy."
+        "text": "Know thou that in every age and dispensation all divine ordinances are changed and transformed according to the requirement of the time, except the law of love, which, like a fountain, always flows and is never overtaken by change."
       }
     ]
   },
   {
     "path": ["Additional"],
     "item": 117,
+    "author": "Bahá’u’lláh",
+    "years": [1852, 1892],
+    "paragraphs": [
+      {
+        "text": "He who lives according to what is ordained for him—the Celestial Concourse, and the people of the Supreme Paradise, and those who are dwelling in the Dome of Greatness will pray for him, by a Command from God, the Dearest and the praiseworthy."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 118,
     "title": "Tablet to Ra’ís",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1419,24 +1431,12 @@
   },
   {
     "path": ["Additional"],
-    "item": 118,
+    "item": 119,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
       {
         "text": "O thou who art waiting, tarry no longer, for He is come. Behold His Tabernacle and His Glory dwelling therein. It is the Ancient Glory, with a new Manifestation."
-      }
-    ]
-  },
-  {
-    "path": ["Additional"],
-    "item": 119,
-    "title": "Tablet to a Physician",
-    "author": "Bahá’u’lláh",
-    "years": [1852, 1892],
-    "paragraphs": [
-      {
-        "text": "Do not neglect medical treatment when it is necessary, but leave it off when health has been restored. Treat disease through diet, by preference, refraining from the use of drugs; and if you find what is required in a single herb, do not resort to a compound medicament. . . . Abstain from drugs when the health is good, but administer them when necessary."
       }
     ]
   },
@@ -1448,13 +1448,25 @@
     "years": [1852, 1892],
     "paragraphs": [
       {
-        "text": "Verily the most necessary thing is contentment under all circumstances; by this one is preserved from morbid conditions and lassitude. Yield not to grief and sorrow: they cause the greatest misery. Jealousy consumeth the body and anger doth burn the liver: avoid these two as you would a lion."
+        "text": "Do not neglect medical treatment when it is necessary, but leave it off when health has been restored. Treat disease through diet, by preference, refraining from the use of drugs; and if you find what is required in a single herb, do not resort to a compound medicament. . . . Abstain from drugs when the health is good, but administer them when necessary."
       }
     ]
   },
   {
     "path": ["Additional"],
     "item": 121,
+    "title": "Tablet to a Physician",
+    "author": "Bahá’u’lláh",
+    "years": [1852, 1892],
+    "paragraphs": [
+      {
+        "text": "Verily the most necessary thing is contentment under all circumstances; by this one is preserved from morbid conditions and lassitude. Yield not to grief and sorrow: they cause the greatest misery. Jealousy consumeth the body and anger doth burn the liver: avoid these two as you would a lion."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 122,
     "title": "Tablet to a Physician",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1475,7 +1487,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 122,
+    "item": 123,
     "title": "A Tablet to some Bahá’ís of Persia",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1487,7 +1499,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 123,
+    "item": 124,
     "title": "A letter to the Pope, written from Adrianople in 1867",
     "author": "Bahá’u’lláh",
     "years": [1867, 1867],
@@ -1502,7 +1514,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 124,
+    "item": 125,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1513,7 +1525,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 125,
+    "item": 126,
     "title": "Tablet to a Zoroastrian",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1528,7 +1540,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 126,
+    "item": 127,
     "title": "Tablet to Ra’ís",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1540,7 +1552,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 127,
+    "item": 128,
     "title": "Bahá’u’lláh, in Prayer and Devotional Life, no. 68, p. 29",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1552,7 +1564,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 128,
+    "item": 129,
     "title": "Bahá’u’lláh, in Women: Extracts from the Writings of Bahá’u’lláh, ‘Abdu’l‑Bahá, Shoghi Effendi and the Universal House of Justice, compiled by the Research Department of the Universal House of Justice, no. 53, p. 26",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1564,7 +1576,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 129,
+    "item": 130,
     "title": "Bahá’u’lláh, in The Bahá’í World: Volume One, p. 42",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1576,7 +1588,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 130,
+    "item": 131,
     "title": "Bahá’u’lláh, in Ḥuqúqu’lláh—The Right of God: A Compilation of Extracts from the Writings of Bahá’u’lláh and ‘Abdu’l‑Bahá and from Letters Written by and on Behalf of Shoghi Effendi and the Universal House of Justice, compiled by the Research Department of the Universal House of Justice, no. 16, p. 16",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1588,7 +1600,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 131,
+    "item": 132,
     "title": "Bahá’u’lláh, in the compilation Women, no. 3, p. 3",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1600,7 +1612,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 132,
+    "item": 133,
     "title": "Bahá’u’lláh, in “A Compilation on Bahá’í Education”, compiled by the Research Department of the Universal House of Justice, published in The Compilation of Compilations, vol. 1, no. 576, p. 251",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1612,7 +1624,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 133,
+    "item": 134,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1623,7 +1635,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 134,
+    "item": 135,
     "title": "Bahá’u’lláh, in “Guidelines for Teaching”, compiled by the Research Department of the Universal House of Justice, published in The Compilation of Compilations, vol. 2, no. 1898, p. 293",
     "author": "Bahá’u’lláh",
     "years": [1898, 1898],
@@ -1635,7 +1647,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 135,
+    "item": 136,
     "title": "Bahá’u’lláh, quoted in the Introduction to the Kitáb‑i‑Aqdas by the Universal House of Justice, p. 6",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1647,7 +1659,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 136,
+    "item": 137,
     "title": "Bahá’u’lláh, in Women: Extracts from the Writings of Bahá’u’lláh, ‘Abdu’l‑Bahá, Shoghi Effendi and the Universal House of Justice, compiled by the Research Department of the Universal House of Justice, p. 3; also in The Compilation of Compilations, vol. 2, p. 358",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1659,7 +1671,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 137,
+    "item": 138,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1670,7 +1682,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 138,
+    "item": 139,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1681,7 +1693,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 139,
+    "item": 140,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1695,7 +1707,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 140,
+    "item": 141,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1706,7 +1718,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 141,
+    "item": 142,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1717,7 +1729,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 142,
+    "item": 143,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1728,7 +1740,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 143,
+    "item": 144,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1739,7 +1751,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 144,
+    "item": 145,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1750,7 +1762,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 145,
+    "item": 146,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1761,7 +1773,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 146,
+    "item": 147,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1772,7 +1784,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 147,
+    "item": 148,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1783,7 +1795,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 148,
+    "item": 149,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1794,7 +1806,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 149,
+    "item": 150,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1805,7 +1817,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 150,
+    "item": 151,
     "title": "From a Tablet to an individual believer",
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
@@ -1817,7 +1829,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 151,
+    "item": 152,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1828,7 +1840,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 152,
+    "item": 153,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1839,7 +1851,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 153,
+    "item": 154,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1850,7 +1862,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 154,
+    "item": 155,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1861,7 +1873,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 155,
+    "item": 156,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1872,7 +1884,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 156,
+    "item": 157,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1883,7 +1895,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 157,
+    "item": 158,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1894,7 +1906,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 158,
+    "item": 159,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1905,7 +1917,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 159,
+    "item": 160,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1916,7 +1928,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 160,
+    "item": 161,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1927,7 +1939,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 161,
+    "item": 162,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1938,7 +1950,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 162,
+    "item": 163,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1949,7 +1961,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 163,
+    "item": 164,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1960,7 +1972,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 164,
+    "item": 165,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1971,7 +1983,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 165,
+    "item": 166,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1982,7 +1994,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 166,
+    "item": 167,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -1993,7 +2005,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 167,
+    "item": 168,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -2004,7 +2016,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 168,
+    "item": 169,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -2015,7 +2027,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 169,
+    "item": 170,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -2026,7 +2038,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 170,
+    "item": 171,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -2037,7 +2049,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 171,
+    "item": 172,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -2048,7 +2060,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 172,
+    "item": 173,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
@@ -2059,12 +2071,40 @@
   },
   {
     "path": ["Additional"],
-    "item": 173,
+    "item": 174,
     "author": "Bahá’u’lláh",
     "years": [1852, 1892],
     "paragraphs": [
       {
         "text": "The law of the Fast is ordained for those who are sound and healthy; as to those who are ill or debilitated, this law hath never been nor is now applicable."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 177,
+    "author": "Bahá’u’lláh",
+    "years": [1852, 1892],
+    "paragraphs": [
+      {
+        "text": "Addressing the nations, the Ancient Beauty ordaineth that in every city in the world a house be established in the name of justice wherein shall gather pure and steadfast souls to the number of the Most Great Name. At this meeting they should feel as if they were entering the Presence of God, inasmuch as this binding command hath flowed from the Pen of Him Who is the Ancient of Days. The glances of God are directed towards this Assembly."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 178,
+    "author": "Bahá’u’lláh",
+    "years": [1852, 1892],
+    "paragraphs": [
+      {
+        "text": "Once in session, it behoveth them to converse, on behalf of God’s servants, upon the affairs and interests of all. They should, for instance, accord precedence to the teaching of the Cause, inasmuch as it is a matter of supreme importance, so that all people, even as a single soul, may enter within the Tabernacle of divine Unity, and all humanity may become even as a single body. In like manner, they should consider such matters as the refinement of manners, the preservation of human dignity, the development of cities, and the polity which God hath made a bulwark for His lands and a fortress for His people."
+      },
+      {
+        "text": "The teaching of the Cause of God should be considered with a view to what, in the particular conditions of each time and age, is most conducive to its advancement and, similarly, other matters; whatever is then decided upon should be carried into effect. Care, however, should be taken lest aught be implemented contrary to that which hath been sent down in the divine verses in this Revelation of imperishable glory. For whatsoever the one true God—exalted be His glory!—hath prescribed unto His servants, the same is to their best advantage. He, verily, is kinder to you than ye are to yourselves; He, verily, is the All‑Knowing, the All‑Informed."
+      },
+      {
+        "text": "Should these souls comply with the prescribed conditions, they shall assuredly be aided through His invisible bestowals. This, truly, is an undertaking whose benefit embraceth all."
       }
     ]
   }

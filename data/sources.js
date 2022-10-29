@@ -1663,6 +1663,8 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ["just and show your fidelity", "just and to show your fidelity"],
       ["his particular convictions", "his particular conviction"],
       ["second condition:—They must", "second condition . . . They must"],
+      ["number it does not matter", "number it doth not matter"],
+      ["favour of those who he is", "favour of those whom he is"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -2464,6 +2466,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         "We have permitted you to listen to music and singing. Beware lest such listening cause you to transgress the bounds of decency and dignity. Rejoice in the joy of My Most Great Name through which the hearts are enchanted and the minds of the well‑favoured are attracted.",
         "We have made it lawful for you to listen to music and singing. Take heed, however, lest listening thereto should cause you to overstep the bounds of propriety and dignity. Let your joy be the joy born of My Most Great Name, a Name that bringeth rapture to the heart, and filleth with ecstasy the minds of all who have drawn nigh unto God.",
       ],
+      ["Such an one, indeed, is the", "Such a one, indeed, is the"],
     ],
     "codification-law-huququllah": [
       removeAfter("Notes"),
@@ -2617,6 +2620,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["March 1980", ""],
       ["Revised July 1990", ""],
       [/^\(.*/gm, ""],
+      [/^\. \. \.$/gm, ""],
       [
         "\n\nand the Devotional Attitude: A Compilation",
         " and the Devotional Attitude",
@@ -2652,6 +2656,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^Prepared by the Research Department of.*/m, ""],
       [/^September 2017.*/gm, ""],
       [/^\(.*/gm, ""],
+      [/^\. \. \.$/gm, ""],
       title("", "The Institution of the Mashriqu’l‑Adhkár", {
         author: "Compilation",
         years: [2017, 2017],
@@ -2681,6 +2686,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["August 1970", ""],
       ["Revised September 2017", ""],
       [/^\(.*/gm, ""],
+      [/^\. \. \.$/gm, ""],
       title("", "The Local Spiritual Assembly", {
         author: "Compilation",
         years: [2017, 2017],
@@ -2689,6 +2695,8 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["wholly freed from estrangement", "wholly free from estrangement"],
       ["second condition: They must", "second condition . . . They must"],
       ["those whom they should serve", "those whom they serve"],
+      ["number it does not matter", "number it doth not matter"],
+      ["vouchsafed to them. In this", "vouchsafed to them. . . . In this"],
     ],
     music: [
       removeAfter("Notes"),
@@ -2711,6 +2719,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["Compiled by: The Research Department", ""],
       ["of the Universal House of Justice", ""],
       [/^\(.*/gm, ""],
+      [/^\. \. \.$/gm, ""],
       title("", "Peace", {
         author: "Compilation",
         years: [1985, 1986],
@@ -2785,6 +2794,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["of the Universal House of Justice", ""],
       ["February 2019", ""],
       [/^\(.*/gm, ""],
+      [/^\. \. \.$/gm, ""],
       title("", "Prayer and Devotional Life", {
         author: "Compilation",
         years: [2019, 2019],

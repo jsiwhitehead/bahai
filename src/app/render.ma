@@ -198,6 +198,29 @@
                     ->join(', ')
                 ]
               ],
+              ...showCitations & (p.'quotes' | [])->map.[
+                r: [
+                  'size': 16,
+                  'italic': 'true',
+                  'align': 'left',
+                  'color':
+                    colors.'link'.(documents.(r.'id').'author') |
+                    colors.'link'.'The World Centre',
+                  'underline': hover,
+                  'link': ['doc', r.'id', : r.'paragraph'],
+                  'width': 0.75,
+                  'style': ['margin': '0 auto 0 0'],
+                  [
+                    documents.(r.'id').'author',
+                    ...documents.(r.'id').'path',
+                    documents.(r.'id').'title' |
+                      (documents.(r.'id').'item' & '#{documents.(r.'id').'item'}'),
+                  ]
+                    ->filter()
+                    ->unique()
+                    ->join(', ')
+                ]
+              ],
             ],
           ],
         ],
