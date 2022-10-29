@@ -1231,6 +1231,10 @@ export const files = {
       title("#", "Part Two"),
       title("#", "Part Three"),
       [/^— .* —$\n\n/gm, "## "],
+      [
+        "In this Revelation of Bahá’u’lláh, the women go neck and neck with the men. In no movement will they be left behind. Their rights with men are equal in degree. They will enter all the administrative branches of politics. They will attain in all such a degree as will be considered the very highest station of the world of humanity and will take part in all affairs. Rest ye assured. Do ye not look upon the present conditions; in the not far distant future the world of women will become all‑refulgent and all‑glorious, For His Holiness Bahá’u’lláh Hath Willed It so!",
+        "In the Dispensation of Bahá’u’lláh, women are advancing side by side with men. There is no area or instance where they will lag behind: they have equal rights with men, and will enter, in the future, into all branches of the administration of society. Such will be their elevation that, in every area of endeavour, they will occupy the highest levels in the human world. Rest thou assured. Look not upon their present state. In future, the world of womankind will shine with lustrous brilliance, for such is the will and purpose of Bahá’u’lláh.",
+      ],
     ],
     "promulgation-universal-peace": [
       [/^Talks Delivered by ‘Abdu’l‑Bahá during.*/m, ""],
@@ -2083,6 +2087,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ],
       ["has written: “Wherefore", "has written: . . . “Wherefore"],
       ["such belief.” See how firm", "such belief.” . . . See how firm"],
+      ["lead in practicing this", "lead in practising this"],
       [
         `So long as these prejudices survive, there will be continuous and fearsome wars.
 
@@ -3022,6 +3027,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
       }),
       [/^[IV]+\./gm, "#"],
       [/^Extract/gm, "## Extract"],
+      ["Therefore it is incumbent upon", "Therefore is it incumbent upon"],
     ],
   },
 };
