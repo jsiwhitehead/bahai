@@ -6660,10 +6660,6 @@
           "paragraph": 204
         },
         {
-          "id": "compilations-fire-and-light-001",
-          "paragraph": 142
-        },
-        {
           "id": "publications-individual-authors-bahaullah-new-era-020",
           "paragraph": 30
         }
@@ -6671,21 +6667,6 @@
       "parts": [
         {
           "start": 0,
-          "end": 135,
-          "count": 4
-        },
-        {
-          "start": 135,
-          "end": 200,
-          "count": 3
-        },
-        {
-          "start": 200,
-          "end": 265,
-          "count": 4
-        },
-        {
-          "start": 265,
           "end": 549,
           "count": 3
         }
@@ -6715,25 +6696,11 @@
         {
           "id": "bahaullah-gleanings-writings-bahaullah-056",
           "paragraph": 3
-        },
-        {
-          "id": "compilations-fire-and-light-001",
-          "paragraph": 142
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 243,
-          "count": 1
-        },
-        {
-          "start": 243,
-          "end": 414,
-          "count": 2
-        },
-        {
-          "start": 414,
           "end": 462,
           "count": 1
         }
@@ -9384,10 +9351,6 @@
           "paragraph": 11
         },
         {
-          "id": "compilations-fire-and-light-001",
-          "paragraph": 25
-        },
-        {
           "id": "ruhi3-002",
           "paragraph": 116
         }
@@ -9395,26 +9358,6 @@
       "parts": [
         {
           "start": 0,
-          "end": 185,
-          "count": 1
-        },
-        {
-          "start": 185,
-          "end": 272,
-          "count": 2
-        },
-        {
-          "start": 272,
-          "end": 273,
-          "count": 1
-        },
-        {
-          "start": 273,
-          "end": 351,
-          "count": 2
-        },
-        {
-          "start": 351,
           "end": 440,
           "count": 1
         },
@@ -11077,6 +11020,29 @@
           "start": 324,
           "end": 756,
           "count": 1
+        }
+      ]
+    },
+    "35": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 120
+        },
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-007",
+          "paragraph": 32
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 168
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 562,
+          "count": 3
         }
       ]
     },
@@ -15345,6 +15311,27 @@
           "start": 550,
           "end": 551,
           "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-210": {
+    "1": {
+      "refs": [
+        {
+          "id": "prayers-bahai-prayers-007",
+          "paragraph": 1
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 271,
+          "count": 2
         }
       ]
     }
@@ -19999,25 +19986,11 @@
         {
           "id": "compilations-huququllah-right-god-001",
           "paragraph": 40
-        },
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 111
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 27,
-          "count": 1
-        },
-        {
-          "start": 27,
-          "end": 294,
-          "count": 1
-        },
-        {
-          "start": 294,
           "end": 510,
           "count": 1
         }
@@ -22566,18 +22539,22 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 83
+        },
+        {
+          "id": "ruhi1-002",
+          "paragraph": 26
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 49,
-          "count": 2
+          "count": 3
         },
         {
           "start": 49,
-          "end": 568,
-          "count": 1
+          "end": 564,
+          "count": 2
         }
       ]
     },
@@ -29752,17 +29729,13 @@
         {
           "id": "shoghi-effendi-world-order-bahaullah-007",
           "paragraph": 21
-        },
-        {
-          "id": "compilations-fire-and-light-001",
-          "paragraph": 136
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 20,
-          "count": 3
+          "count": 2
         },
         {
           "start": 20,
@@ -29772,7 +29745,7 @@
         {
           "start": 21,
           "end": 214,
-          "count": 3
+          "count": 2
         }
       ]
     }
@@ -31203,17 +31176,13 @@
         {
           "id": "shoghi-effendi-advent-divine-justice-001",
           "paragraph": 117
-        },
-        {
-          "id": "compilations-fire-and-light-001",
-          "paragraph": 169
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 166,
-          "count": 2
+          "count": 1
         }
       ]
     }
@@ -40637,6 +40606,21 @@
           "count": 3
         }
       ]
+    },
+    "48": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1148,
+          "count": 1
+        }
+      ]
     }
   },
   "additional-shoghi-effendi-299": {
@@ -41435,21 +41419,6 @@
         {
           "start": 304,
           "end": 497,
-          "count": 1
-        }
-      ]
-    },
-    "35": {
-      "refs": [
-        {
-          "id": "compilations-fire-and-light-001",
-          "paragraph": 171
-        }
-      ],
-      "parts": [
-        {
-          "start": 243,
-          "end": 380,
           "count": 1
         }
       ]
@@ -44167,6 +44136,41 @@
       ]
     }
   },
+  "additional-abdul-baha-398": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-463",
+          "paragraph": 26
+        },
+        {
+          "id": "the-universal-house-of-justice-additional-messages-024",
+          "paragraph": 32
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 90
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 392,
+          "count": 1
+        },
+        {
+          "start": 393,
+          "end": 542,
+          "count": 3
+        },
+        {
+          "start": 542,
+          "end": 543,
+          "count": 2
+        }
+      ]
+    }
+  },
   "shoghi-effendi-advent-divine-justice-001": {
     "6": {
       "refs": [
@@ -45175,21 +45179,6 @@
         {
           "start": 0,
           "end": 279,
-          "count": 1
-        }
-      ]
-    },
-    "120": {
-      "refs": [
-        {
-          "id": "compilations-fire-and-light-001",
-          "paragraph": 168
-        }
-      ],
-      "parts": [
-        {
-          "start": 1113,
-          "end": 1677,
           "count": 1
         }
       ]
@@ -46317,23 +46306,53 @@
       ]
     }
   },
-  "shoghi-effendi-world-order-bahaullah-006": {
-    "12": {
+  "additional-shoghi-effendi-490": {
+    "1": {
       "refs": [
         {
-          "id": "the-universal-house-of-justice-messages-042",
-          "paragraph": 6
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 163
         }
       ],
       "parts": [
         {
-          "start": 971,
-          "end": 1120,
+          "start": 0,
+          "end": 843,
           "count": 1
         }
       ]
     },
-    "15": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 164
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 371,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 165
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 389,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-messages-454",
@@ -46350,48 +46369,43 @@
       ],
       "parts": [
         {
-          "start": 448,
-          "end": 506,
+          "start": 0,
+          "end": 789,
+          "count": 1
+        },
+        {
+          "start": 789,
+          "end": 846,
           "count": 3
         },
         {
-          "start": 506,
-          "end": 507,
+          "start": 846,
+          "end": 847,
           "count": 2
         },
         {
-          "start": 507,
-          "end": 643,
+          "start": 847,
+          "end": 982,
           "count": 3
-        }
-      ]
-    },
-    "34": {
-      "refs": [
+        },
         {
-          "id": "compilations-significance-formative-age-our-faith-001",
-          "paragraph": 1
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 375,
+          "start": 982,
+          "end": 983,
           "count": 1
         }
       ]
     },
-    "35": {
+    "5": {
       "refs": [
         {
-          "id": "compilations-significance-formative-age-our-faith-001",
-          "paragraph": 2
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 167
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 586,
+          "end": 1834,
           "count": 1
         }
       ]
@@ -52901,6 +52915,587 @@
       ]
     }
   },
+  "additional-bahaullah-188": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 887,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-189": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 36,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 4
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 542,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 144,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 520,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-190": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 32,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 164,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 866,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 222,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 383,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 481,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-191": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 344,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 967,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-192": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 631,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 448,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 630,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-193": {
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1254,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 942,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-194": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 538,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 22
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1421,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1014,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-195": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 734,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 834,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 510,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 27
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 326,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 553,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-196": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 745,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 30
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 834,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-197": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 31
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1120,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 32
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 494,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-198": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 309,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 494,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-376": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 698,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-377": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 642,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 38
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 523,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 378,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 54,
+          "count": 1
+        }
+      ]
+    }
+  },
   "prayers-278": {
     "1": {
       "refs": [
@@ -52913,6 +53508,1741 @@
         {
           "start": 0,
           "end": 606,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 312,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 448,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-378": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 289,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 524,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 645,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 735,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 49
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 826,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 50
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 542,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 51
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 453,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 400,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-379": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 54
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1526,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 55
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 996,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 802,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 895,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 532,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 26,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-380": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 127,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 61
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 595,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 62
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 47,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-381": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 991,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-382": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 65
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 247,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 832,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-383": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 68
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 827,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 69
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 717,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 2015,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 71
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 734,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-384": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 72
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 865,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 73
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 473,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 74
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 38,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-385": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 76
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 523,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 77
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 326,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 78
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 600,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 79
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 540,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 80
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 36,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-386": {
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 84
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 617,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 85
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1481,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 86
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 719,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 87
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 511,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1011,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 89
+        },
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 130
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 49,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-387": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 91
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 475,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 92
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 455,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 93
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1258,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 94
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 840,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 95
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 38,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-388": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 96
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 293,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 97
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 355,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 98
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 820,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 99
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 644,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-389": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 101
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1087,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 102
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 559,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 103
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 468,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 104
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 748,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 105
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 661,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 106
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 773,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-390": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 108
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 314,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 109
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 501,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 110
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 312,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 111
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 291,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 112
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 48,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-391": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 114
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-089",
+          "paragraph": 15
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-089",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 55,
+          "count": 2
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "count": 1
+        },
+        {
+          "start": 56,
+          "end": 576,
+          "count": 2
+        },
+        {
+          "start": 576,
+          "end": 1127,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 115
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 406,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 116
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 796,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 117
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 563,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 118
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 40,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-392": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 119
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 322,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 120
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1283,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 121
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 380,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 122
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 348,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 123
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 504,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 124
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 394,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-393": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 125
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 307,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 126
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 284,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 127
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 451,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 128
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 204,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 129
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 511,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-483": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 132
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 2336,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-484": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 133
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 707,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 134
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1246,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-485": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 135
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1102,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 136
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 529,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 137
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 747,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 138
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 831,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 139
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 510,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 140
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 807,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 141
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 781,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 142
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 608,
+          "count": 1
+        },
+        {
+          "start": 615,
+          "end": 680,
+          "count": 1
+        },
+        {
+          "start": 687,
+          "end": 1295,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 143
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 536,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 144
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 306,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-486": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 145
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 387,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 146
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1193,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 147
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 796,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 148
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 570,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 149
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 957,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-487": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 151
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 242,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 152
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 495,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 153
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 161,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 154
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 461,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 108,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-488": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 156
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 580,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 157
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 804,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 158
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 428,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-489": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 159
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 458,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 160
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 628,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 161
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 684,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 162
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 247,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-491": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 168
+        }
+      ],
+      "parts": [
+        {
+          "start": 855,
+          "end": 1350,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 169
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 924,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 170
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 519,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-fire-and-light-001",
+          "paragraph": 171
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 686,
           "count": 1
         }
       ]
@@ -55665,6 +57995,112 @@
       ]
     }
   },
+  "shoghi-effendi-bahai-administration-032": {
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 492,
+          "end": 523,
+          "count": 1
+        },
+        {
+          "start": 534,
+          "end": 1357,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-499": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 797,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 438,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 31,
+          "count": 1
+        },
+        {
+          "start": 38,
+          "end": 443,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-500": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 342,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 136,
+          "count": 1
+        }
+      ]
+    }
+  },
   "shoghi-effendi-bahai-administration-040": {
     "13": {
       "refs": [
@@ -55702,6 +58138,79 @@
       ]
     }
   },
+  "additional-shoghi-effendi-501": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 471,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-502": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 842,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-503": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 434,
+          "count": 1
+        },
+        {
+          "start": 441,
+          "end": 1148,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-504": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 342,
+          "count": 1
+        }
+      ]
+    }
+  },
   "shoghi-effendi-bahai-administration-060": {
     "7": {
       "refs": [
@@ -55714,6 +58223,21 @@
         {
           "start": 683,
           "end": 4409,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1522,
           "count": 1
         }
       ]
@@ -55858,6 +58382,175 @@
       ]
     }
   },
+  "additional-shoghi-effendi-505": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 19
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 123
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 586,
+          "count": 2
+        },
+        {
+          "start": 586,
+          "end": 748,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-506": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 446,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-507": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 434,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 22
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 391,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 966,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-508": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 24
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 124
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 55
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 627,
+          "count": 2
+        },
+        {
+          "start": 627,
+          "end": 746,
+          "count": 2
+        },
+        {
+          "start": 746,
+          "end": 747,
+          "count": 2
+        },
+        {
+          "start": 747,
+          "end": 826,
+          "count": 2
+        },
+        {
+          "start": 826,
+          "end": 1360,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-509": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 595,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-510": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 424,
+          "count": 1
+        }
+      ]
+    }
+  },
   "shoghi-effendi-decisive-hour-017": {
     "2": {
       "refs": [
@@ -55870,6 +58563,717 @@
         {
           "start": 0,
           "end": 894,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-511": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 276,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 782,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-512": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 30
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1156,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-513": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 32
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 580,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-514": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 322,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 290,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-515": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1005,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-516": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 28,
+          "count": 1
+        },
+        {
+          "start": 35,
+          "end": 304,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-517": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 463,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-518": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 38
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 964,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-519": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 360,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-520": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 369,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-521": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 210,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-522": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 527,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-523": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 178,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 44
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 409,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 415,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-524": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 62,
+          "count": 1
+        },
+        {
+          "start": 69,
+          "end": 93,
+          "count": 1
+        },
+        {
+          "start": 100,
+          "end": 711,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-525": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 80,
+          "count": 1
+        },
+        {
+          "start": 87,
+          "end": 230,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-526": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 353,
+          "count": 1
+        },
+        {
+          "start": 359,
+          "end": 461,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-527": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 49
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 150,
+          "count": 1
+        },
+        {
+          "start": 157,
+          "end": 285,
+          "count": 1
+        },
+        {
+          "start": 292,
+          "end": 419,
+          "count": 1
+        },
+        {
+          "start": 425,
+          "end": 491,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-528": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 50
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 405,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-529": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 325,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-530": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 53
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 610,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-531": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 54
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1286,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-532": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 55
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 245,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 181,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-533": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1464,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-534": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 39,
+          "count": 1
+        },
+        {
+          "start": 41,
+          "end": 287,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-535": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 846,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-536": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 61
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 17,
+          "count": 1
+        },
+        {
+          "start": 23,
+          "end": 527,
+          "count": 1
+        },
+        {
+          "start": 534,
+          "end": 618,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-537": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 62
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 996,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-538": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 63
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1044,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-539": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 321,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-540": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 65
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 13,
+          "count": 1
+        },
+        {
+          "start": 19,
+          "end": 318,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-541": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 140,
+          "count": 1
+        },
+        {
+          "start": 146,
+          "end": 251,
+          "count": 1
+        },
+        {
+          "start": 258,
+          "end": 422,
+          "count": 1
+        },
+        {
+          "start": 428,
+          "end": 536,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-542": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 67
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 386,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-543": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 68
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 140,
           "count": 1
         }
       ]
@@ -63260,6 +66664,53 @@
         {
           "start": 6,
           "end": 86,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-006": {
+    "12": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-042",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 971,
+          "end": 1120,
+          "count": 1
+        }
+      ]
+    },
+    "34": {
+      "refs": [
+        {
+          "id": "compilations-significance-formative-age-our-faith-001",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 375,
+          "count": 1
+        }
+      ]
+    },
+    "35": {
+      "refs": [
+        {
+          "id": "compilations-significance-formative-age-our-faith-001",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 586,
           "count": 1
         }
       ]
@@ -73099,14 +76550,6 @@
     "26": {
       "refs": [
         {
-          "id": "the-universal-house-of-justice-additional-messages-024",
-          "paragraph": 32
-        },
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 234
-        },
-        {
           "id": "compilations-universal-house-of-justice-compilation-001",
           "paragraph": 156
         }
@@ -73114,16 +76557,6 @@
       "parts": [
         {
           "start": 0,
-          "end": 708,
-          "count": 1
-        },
-        {
-          "start": 708,
-          "end": 859,
-          "count": 3
-        },
-        {
-          "start": 859,
           "end": 1228,
           "count": 1
         }
@@ -87906,20 +91339,11 @@
         {
           "id": "compilations-codification-law-huququllah-001",
           "paragraph": 34
-        },
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 134
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 75,
-          "count": 2
-        },
-        {
-          "start": 75,
           "end": 180,
           "count": 1
         }
@@ -90658,26 +94082,12 @@
         },
         {
           "id": "compilations-huququllah-right-god-001",
-          "paragraph": 25
-        },
-        {
-          "id": "compilations-huququllah-right-god-001",
           "paragraph": 120
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 43,
-          "count": 1
-        },
-        {
-          "start": 43,
-          "end": 313,
-          "count": 2
-        },
-        {
-          "start": 313,
           "end": 316,
           "count": 1
         },
@@ -91118,6 +94528,348 @@
       ]
     }
   },
+  "additional-bahaullah-199": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 696,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-200": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 4
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 117,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 455,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-201": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 927,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-202": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 51,
+          "count": 1
+        },
+        {
+          "start": 52,
+          "end": 950,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-203": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 568,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-204": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 561,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-205": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 212,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 837,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 754,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-206": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 305,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 808,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-207": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 809,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 334,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 412,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 269,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 247,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 394,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 22
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 418,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-208": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 430,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-209": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 647,
+          "count": 1
+        }
+      ]
+    }
+  },
   "additional-bahaullah-177": {
     "1": {
       "refs": [
@@ -91148,6 +94900,131 @@
         {
           "start": 207,
           "end": 291,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-211": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 27
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 394,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-212": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 344,
+          "count": 1
+        },
+        {
+          "start": 345,
+          "end": 756,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 256,
+          "count": 1
+        },
+        {
+          "start": 263,
+          "end": 449,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-213": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 32
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 474,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 92,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-214": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 363,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-215": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 173,
           "count": 1
         }
       ]
@@ -91200,6 +95077,253 @@
       ]
     }
   },
+  "additional-abdul-baha-394": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 543,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 500,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 826,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 44
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 512,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 45
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-008",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 647,
+          "count": 1
+        },
+        {
+          "start": 647,
+          "end": 709,
+          "count": 2
+        },
+        {
+          "start": 709,
+          "end": 835,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 756,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 698,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 294,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 49
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 69,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-395": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 50
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 452,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 51
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 462,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-396": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 226,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 53
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 463,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-492": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 55
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 345,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 452,
+          "count": 1
+        }
+      ]
+    }
+  },
   "the-universal-house-of-justice-messages-255": {
     "21": {
       "refs": [
@@ -91212,6 +95336,1142 @@
         {
           "start": 0,
           "end": 1151,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-304": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 339,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-305": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 61
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 406,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-306": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 62
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 607,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-216": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 65
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 538,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-217": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 193,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-218": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 85
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 323,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-219": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 86
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 178,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-397": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 423,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 89
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 435,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-399": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 91
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 203,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 92
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 140,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-400": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 93
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 201,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-401": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 95
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 230,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 96
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 443,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 97
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 270,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 98
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 615,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 99
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 203,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 100
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 337,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-493": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 102
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 25,
+          "count": 1
+        },
+        {
+          "start": 32,
+          "end": 484,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-494": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 103
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 65,
+          "count": 1
+        },
+        {
+          "start": 66,
+          "end": 172,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-495": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 104
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 153,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-496": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 105
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 440,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-307": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 107
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 375,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 108
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 169,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 109
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 201,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 110
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 376,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 111
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 339,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 112
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 523,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 113
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 688,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 114
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 190,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 115
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 232,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-308": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 116
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 173,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 117
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 184,
+          "count": 1
+        },
+        {
+          "start": 185,
+          "end": 403,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 118
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 38,
+          "count": 1
+        },
+        {
+          "start": 44,
+          "end": 348,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 119
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 426,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-309": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 122
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 830,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-310": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 123
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 595,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-311": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 124
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 380,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 125
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 513,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-312": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 126
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 32,
+          "count": 1
+        },
+        {
+          "start": 38,
+          "end": 586,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-313": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 127
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 476,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-314": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 128
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 160,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 129
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 227,
+          "count": 1
+        },
+        {
+          "start": 234,
+          "end": 330,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 130
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 161,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 131
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 104,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 132
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 216,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-315": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 133
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 352,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-316": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 134
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 75,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 135
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 148,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-317": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 136
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 543,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 137
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 315,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-318": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 138
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 224,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-319": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 139
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 239,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 140
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 460,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 141
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 206,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-320": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 142
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 528,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 143
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 136,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 145
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 70,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 147
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 185,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-321": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 148
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 237,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 149
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 451,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-322": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 150
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 795,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-323": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 151
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 230,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 152
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 543,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 153
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 235,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 154
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 449,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-324": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 242,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 156
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 215,
+          "count": 1
+        },
+        {
+          "start": 222,
+          "end": 609,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 157
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 341,
           "count": 1
         }
       ]
@@ -91254,6 +96514,785 @@
       ]
     }
   },
+  "additional-the-universal-house-of-justice-325": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 160
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1009,
+          "count": 1
+        },
+        {
+          "start": 1010,
+          "end": 1160,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 161
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 416,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 162
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 152,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 163
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 134,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 164
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 360,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-326": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 165
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 132,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 166
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 150,
+          "count": 1
+        },
+        {
+          "start": 151,
+          "end": 378,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-327": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 167
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 188,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 168
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 412,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 169
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 149,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-328": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 170
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 319,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 171
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 263,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-329": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 172
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 465,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 173
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 457,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-330": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 174
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 242,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 175
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 511,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-331": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 176
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 418,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-220": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 179
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 29,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 180
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 182
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 14,
+          "count": 1
+        },
+        {
+          "start": 14,
+          "end": 753,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-221": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 181
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 86,
+          "count": 1
+        },
+        {
+          "start": 87,
+          "end": 678,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-222": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 183
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 484,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-223": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 184
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 336,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-224": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 185
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 451,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 186
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 107,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-225": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 187
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 257,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-226": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 188
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 288,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-227": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 189
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 410,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-228": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 190
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 365,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-229": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 191
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 131,
+          "count": 1
+        },
+        {
+          "start": 138,
+          "end": 255,
+          "count": 1
+        },
+        {
+          "start": 261,
+          "end": 583,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 192
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 451,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-402": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 194
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 178,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-497": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 196
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 206,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-332": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 198
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1135,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-333": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 199
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 222,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 200
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 862,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-334": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 201
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 431,
+          "count": 1
+        },
+        {
+          "start": 438,
+          "end": 848,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 202
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 585,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-335": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 203
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 664,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 204
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 537,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 205
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 371,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 206
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 591,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-336": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 207
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 721,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 208
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 227,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 209
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 242,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-337": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 210
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 685,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 211
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 205,
+          "count": 1
+        }
+      ]
+    }
+  },
   "the-universal-house-of-justice-messages-122": {
     "13": {
       "refs": [
@@ -91266,6 +97305,180 @@
         {
           "start": 0,
           "end": 952,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-338": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 213
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 32,
+          "count": 1
+        },
+        {
+          "start": 38,
+          "end": 306,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 214
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 23,
+          "count": 1
+        },
+        {
+          "start": 29,
+          "end": 234,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 215
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 698,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 216
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 91,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 217
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 21,
+          "count": 1
+        },
+        {
+          "start": 28,
+          "end": 505,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 218
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 347,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 219
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 295,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 220
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 115,
+          "count": 1
+        },
+        {
+          "start": 122,
+          "end": 222,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-339": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 222
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 235,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 223
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 227,
           "count": 1
         }
       ]
@@ -91313,6 +97526,279 @@
         {
           "start": 256,
           "end": 1835,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-230": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 227
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 275,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-231": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 228
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 514,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-403": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 230
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 289,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-498": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 232
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 281,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-340": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 234
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 319,
+          "count": 1
+        },
+        {
+          "start": 325,
+          "end": 1044,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-341": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 235
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 27,
+          "count": 1
+        },
+        {
+          "start": 34,
+          "end": 285,
+          "count": 1
+        },
+        {
+          "start": 291,
+          "end": 329,
+          "count": 1
+        },
+        {
+          "start": 335,
+          "end": 344,
+          "count": 1
+        },
+        {
+          "start": 345,
+          "end": 515,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-342": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 236
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 694,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 237
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 744,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 238
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 410,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 239
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 291,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 240
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 166,
+          "count": 1
+        },
+        {
+          "start": 173,
+          "end": 597,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-343": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 241
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 721,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-344": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 242
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 430,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 243
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 359,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 244
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 374,
           "count": 1
         }
       ]
@@ -92021,32 +98507,6 @@
         {
           "start": 0,
           "end": 415,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "compilations-fire-and-light-001": {
-    "114": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-089",
-          "paragraph": 15
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-089",
-          "paragraph": 14
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 55,
-          "count": 1
-        },
-        {
-          "start": 56,
-          "end": 576,
           "count": 1
         }
       ]
@@ -95093,6 +101553,36 @@
         {
           "start": 247,
           "end": 332,
+          "count": 1
+        }
+      ]
+    },
+    "44": {
+      "refs": [
+        {
+          "id": "ruhi1-003",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 623,
+          "count": 1
+        }
+      ]
+    },
+    "45": {
+      "refs": [
+        {
+          "id": "ruhi1-003",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 374,
           "count": 1
         }
       ]
@@ -109721,23 +116211,6 @@
         {
           "start": 0,
           "end": 564,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "compilations-huququllah-right-god-001": {
-    "45": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-008",
-          "paragraph": 7
-        }
-      ],
-      "parts": [
-        {
-          "start": 647,
-          "end": 709,
           "count": 1
         }
       ]

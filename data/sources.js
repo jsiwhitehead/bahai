@@ -1247,6 +1247,14 @@ export const files = {
       }),
       [/^— .* —$\n\n(.*)\n\n(.*)/gm, (_, a, b) => `## ${b}\n\n${a}`],
       [/^(Talk.*)$\n\n(.*)/gm, (_, a, b) => `# ${a} (${b})`],
+      [
+        `In the beginning of his human life man was embryonic in the world of the matrix. There he received capacity and endowment for the reality of human existence. The forces and powers necessary for this world were bestowed upon him in that limited condition. In this world he needed eyes; he received them potentially in the other. He needed ears; he obtained them there in readiness and preparation for his new existence. The powers requisite in this world were conferred upon him in the world of the matrix so that when he entered this realm of real existence he not only possessed all necessary functions and powers but found provision for his material sustenance awaiting him.
+
+Therefore, in this world he must prepare himself for the life beyond. That which he needs in the world of the Kingdom must be obtained here. Just as he prepared himself in the world of the matrix by acquiring forces necessary in this sphere of existence, so, likewise, the indispensable forces of the divine existence must be potentially attained in this world.`,
+        `In the beginning of his life man was in the world of the womb, wherein he developed the capacity and worthiness to advance to this world. The powers necessary for this world he acquired in that world. He needed eyes in this world; he obtained them in the world of the womb. He needed ears in this world; he obtained them there. All the powers that were needed in this world he acquired in the world of the womb. In that world he became prepared for this world, and when he entered this world he saw that he possessed all the requisite powers and had acquired all the limbs and organs necessary for this life, in that world.
+
+It followeth that in this world too he must prepare for the world beyond. That which he needeth in the world of the Kingdom he must obtain and prepare here. Just as he acquired the powers necessary for this world in the world of the womb, so, likewise, he must obtain that which he will need in the world of the Kingdom—that is to say, all the heavenly powers—in this world.`,
+      ],
     ],
     "secret-divine-civilization": [
       ["‘Abdu’l‑Bahá", ""],
@@ -1604,6 +1612,10 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         "“The ills,” ‘Abdu’l‑Bahá, writing as far back as two decades ago, has prophesied, “from which the world now suffers will multiply; the gloom which envelops it will deepen. The Balkans will remain discontented. Its restlessness will increase. The vanquished Powers will continue to agitate. They will resort to every measure that may rekindle the flame of war. Movements, newly born and worldwide in their range, will exert their utmost for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“This darkness,” ‘Abdu’l‑Bahá, writing as far back as two decades ago, has prophesied, “shall never vanish, these chronic diseases shall never be healed; nay, they shall grow fiercer from day to day. The Balkans will remain restless, and its condition will aggravate. The vanquished will not keep still, but will seize every means to kindle anew the flame of war. Modern universal movements will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
       ],
+      [
+        "He will, erelong, out of the Bosom of Power, draw forth the",
+        "Erelong shall God draw forth, out of the bosom of power, the",
+      ],
     ],
     "bahai-administration": [
       ["Shoghi Effendi", ""],
@@ -1679,6 +1691,11 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ["flowing from Thy all‑glorious", "flowing from Thine all‑glorious"],
       ["assisted by grace from on", "assisted by His grace from on"],
       ["integrity of our characters, can", "integrity of our character, can"],
+      ["and execution of spiritual", "and extension of spiritual"],
+      ["early state of our work", "early stage of our work"],
+      ["spurred by those reflections", "spurred by these reflections"],
+      ["considerations of numbers, or", "considerations of number, or"],
+      ["the limitations of our", "the limitation of our"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -1818,6 +1835,10 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ],
       ["century of light—has been", "century of light—hath been"],
       ["guidance of the Exalted", "guidance of His Holiness, the Exalted"],
+      [
+        "He will, ere long, out of the Bosom of Power draw forth the",
+        "Erelong shall God draw forth, out of the bosom of power, the",
+      ],
     ],
   },
   "the-universal-house-of-justice": {
@@ -2623,6 +2644,12 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         "III. FROM THE LETTERS OF SHOGHI EFFENDI",
         "# From the Letters of Shoghi Effendi",
       ],
+      ["good‑pleasure, and speak", "good‑pleasure, and will speak"],
+      ["bestowals, and may become", "bestowals, may become"],
+      [
+        "He will, erelong, out of the Bosom of Power, draw forth the",
+        "Erelong shall God draw forth, out of the bosom of power, the",
+      ],
     ],
     "give-me-thy-grace-serve-thy-loved-ones": [
       removeAfter("This document has been downloaded"),
@@ -2871,6 +2898,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["# Prayer and Devotional Life", "Prayer and Devotional Life"],
       ["the doors to true knowledge", "the doors of true knowledge"],
       ["therefore fully realise the", "therefore realise fully the"],
+      ["twenty‑four hours and at midday", "twenty‑four hours at midday"],
     ],
     "sanctity-nature-bahai-elections": [
       removeAfter("This document has been downloaded"),
