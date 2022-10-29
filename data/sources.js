@@ -1564,6 +1564,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       [/^—‘Abdu’l‑Bahá$/gm, "#"],
       prefix("He is God.\n\nO ye children of", "\n\n#\n\n"),
       prefix(/^He is the All‑Glorious./m, "\n\n#\n\n"),
+      ["O Lord!\n\nPlant this tender", "O Lord! Plant this tender"],
     ],
   },
   "shoghi-effendi": {
@@ -1748,6 +1749,8 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ],
       [/^‑ .* ‑$\n\n/gm, "### "],
       ["doth not matter. It behoveth", "doth not matter. . . . It behoveth"],
+      ["so brief an interval", "so brief a span"],
+      ["honoured servants. Pointing", "honoured servants. . . . Pointing"],
     ],
     "promised-day-come": [
       ["By Shoghi Effendi", ""],

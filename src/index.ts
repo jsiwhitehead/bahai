@@ -191,8 +191,10 @@ maraca(
         return documentsList
           .filter(
             (d) =>
-              d.paragraphs.every((p) => p.id || p.section) ||
-              d.id === "compilations-importance-obligatory-prayer-fasting-001"
+              !(
+                d.paragraphs.every((p) => p.id || p.section) ||
+                d.id === "compilations-importance-obligatory-prayer-fasting-001"
+              )
           )
           .filter(
             (d) =>
