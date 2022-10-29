@@ -756,10 +756,7 @@
 
     "gasses": "gases",
 
-    "fetuses": "foetuses",
-    "fetus": "foetus",
-    "fetid": "foetid",
-    "fetal": "foetal",
+    "fulness": "fullness",
 
     "flutists": "flautists",
     "flutist": "flautist",
@@ -768,6 +765,11 @@
     "fileting": "filleting",
     "fileted": "filleted",
     "filet": "fillet",
+
+    "fetuses": "foetuses",
+    "fetus": "foetus",
+    "fetid": "foetid",
+    "fetal": "foetal",
 
     "feces": "faeces",
     "fecal": "faecal",

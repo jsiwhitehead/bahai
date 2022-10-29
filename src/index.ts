@@ -188,11 +188,15 @@ maraca(
         ),
     findDocuments: (section, ignore) => {
       if (section === "Compilations") {
-        return documentsList.filter(
-          (d) =>
-            d.id.startsWith("compilation") ||
-            d.id.startsWith("ruhi") ||
-            d.id === "world-centre-entry-by-troops-002"
+        return (
+          documentsList
+            // .filter((d) => !d.paragraphs.every((p) => p.id || p.section))
+            .filter(
+              (d) =>
+                d.id.startsWith("compilation") ||
+                d.id.startsWith("ruhi") ||
+                d.id === "world-centre-entry-by-troops-002"
+            )
         );
         // return documentsList.filter(
         //   (d) =>

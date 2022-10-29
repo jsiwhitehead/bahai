@@ -726,17 +726,6 @@
   {
     "path": ["Additional"],
     "item": 55,
-    "author": "Montreal Daily Star",
-    "years": [0, 3000],
-    "paragraphs": [
-      {
-        "text": "“Are there any signs that the permanent peace of the world will be established in anything like a reasonable period?” ‘Abdu’l‑Bahá was asked. “It will be established in this century,” He answered. “It will be universal in the twentieth century. All nations will be forced into it.”"
-      }
-    ]
-  },
-  {
-    "path": ["Additional"],
-    "item": 56,
     "title": "Comment in 1959",
     "author": "Hands of the Cause",
     "years": [0, 3000],
@@ -748,7 +737,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 57,
+    "item": 56,
     "title": "Book 5, to the Collaborators",
     "author": "Ruhi Institute",
     "years": [0, 3000],
@@ -760,7 +749,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 58,
+    "item": 57,
     "title": "Letter dated 8 July 2005 from the Department of Statistics at the Bahá’í World Centre to the National Spiritual Assembly of Namibia",
     "author": "Department of Statistics",
     "years": [0, 3000],
@@ -772,7 +761,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 59,
+    "item": 58,
     "author": "Eyewitness to how the words of Bahá’u’lláh were recorded",
     "years": [0, 3000],
     "paragraphs": [
@@ -786,7 +775,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 60,
+    "item": 59,
     "author": "Nabíl",
     "years": [0, 3000],
     "paragraphs": [

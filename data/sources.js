@@ -638,6 +638,7 @@ export const files = {
       ["discerning and illuminated heart", "discerning and illumined heart"],
       ["their hands.” Although the", "their hands.”\n\nAlthough the"],
       ["inmost selves. . . . That the", "inmost selves. . . .\n\nThat the"],
+      ["of glory, and will aid", "of glory, and shall aid"],
     ],
     "hidden-words": [
       [/^Bahá’u’lláh/m, ""],
@@ -725,6 +726,7 @@ export const files = {
         (s) => `#
         reference="${s.slice(s.indexOf(".") + 2)}"`,
       ],
+      ["of glory, and will aid", "of glory, and shall aid"],
     ],
     "kitab-i-iqan": [
       removeAfter("Notes"),
@@ -1422,6 +1424,7 @@ Praise be to Him, ye are acquainted with the various schools, institutions and p
 
 Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divine strength, and aided by His grace, ye may bestow God’s bountiful gift upon the world . . . the gift of comfort and tranquillity for all mankind.`,
       ],
+      ["thought were wellnigh impossible", "thought were well nigh impossible"],
     ],
     "some-answered-questions": [
       removeAfter("Notes"),
@@ -1670,6 +1673,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ["ourselves from all beside Thee", "ourselves from all besides Thee"],
       ["the Standards of Thy exalted", "the Standards of Thine exalted"],
       ["flowing from Thy all‑glorious", "flowing from Thine all‑glorious"],
+      ["assisted by grace from on", "assisted by His grace from on"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -1697,11 +1701,13 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ],
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
       ["### Citadel of Faith", "Citadel of Faith"],
+      [/##\s*$/, ""],
       [
         "“The ills from which the world now suffers,” He wrote, “will multiply; the gloom which envelops it will deepen. The Balkans will remain discontented. Its restlessness will increase. The vanquished powers will continue to agitate. They will resort to every measure that may rekindle the flame of war. Movements, newly born and world‑wide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“This darkness,” He wrote, “shall never vanish, these chronic diseases shall never be healed; nay, they shall grow fiercer from day to day. The Balkans will remain restless, and its condition will aggravate. The vanquished will not keep still, but will seize every means to kindle anew the flame of war. Modern universal movements will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
       ],
-      [/##\s*$/, ""],
+      ["resist His Faith? No, by Him", "resist His Faith? Nay, by Him"],
+      ["racialism, ecclesiasticism", "racialism and ecclesiasticism"],
     ],
     "god-passes-by": [
       [/^Shoghi Effendi[\s\S]*Foreword$/m, "Foreword"],
@@ -1736,6 +1742,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         "“Movements,” is the warning sounded by ‘Abdu’l‑Bahá, “newly born and worldwide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“Modern universal movements,” is the warning sounded by ‘Abdu’l‑Bahá, “will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
       ],
+      ["century of light—has been", "century of light—hath been"],
     ],
     "decisive-hour": [
       [/^Messages from Shoghi Effendi to.*/m, ""],
@@ -1790,12 +1797,21 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       title("##", "‘Abdu’l‑Bahá"),
       title("##", "The Administrative Order"),
       title("#", "The Unfoldment of World Civilisation"),
+      [/^[A-Z].{1,80}[a-z]$/gm, (a) => `## ${a}`],
+      ["## The World Order of Bahá’u’lláh", "The World Order of Bahá’u’lláh"],
       [
         "“The ills from which the world now suffers,” wrote ‘Abdu’l‑Bahá in January, 1920, “will multiply; the gloom which envelops it will deepen. The Balkans will remain discontented. Its restlessness will increase. The vanquished Powers will continue to agitate. They will resort to every measure that may rekindle the flame of war. Movements, newly‑born and world‑wide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“This darkness,” wrote ‘Abdu’l‑Bahá in January, 1920, “shall never vanish, these chronic diseases shall never be healed; nay, they shall grow fiercer from day to day. The Balkans will remain restless, and its condition will aggravate. The vanquished will not keep still, but will seize every means to kindle anew the flame of war. Modern universal movements will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
       ],
-      [/^[A-Z].{1,80}[a-z]$/gm, (a) => `## ${a}`],
-      ["## The World Order of Bahá’u’lláh", "The World Order of Bahá’u’lláh"],
+      [
+        "though created whole and perfect, has been afflicted, through divers causes, with grave ills and maladies. Not for one day did it rest, nay its sicknesses waxed more severe, as it fell under the treatment of unskilled physicians who have spurred on the steed of their worldly desires and have erred grievously.",
+        "though at its creation whole and perfect, hath been afflicted, through various causes, with grave disorders and maladies. Not for one day did it gain ease, nay its sickness waxed more severe, as it fell under the treatment of ignorant physicians, who gave full rein to their personal desires and have erred grievously.",
+      ],
+      [
+        "Consider these days in which the Ancient Beauty, He Who is the Most Great Name, hath been sent down to regenerate and unify mankind. Behold how with drawn swords they rose against Him, and committed that which caused the Faithful Spirit to tremble. And whenever We said unto them: ‘Lo, the World Reformer is come,’ they made reply: ‘He, in truth, is one of the stirrers of mischief.’",
+        "Consider these days in which He Who is the Ancient Beauty hath come in the Most Great Name, that He may quicken the world and unite its peoples. They, however, rose up against Him with sharpened swords, and committed that which caused the Faithful Spirit to lament, until in the end they imprisoned Him in the most desolate of cities, and broke the grasp of the faithful upon the hem of His robe. Were anyone to tell them: ‘The World Reformer is come’, they would answer and say: ‘Indeed it is proven that He is a fomenter of discord!’",
+      ],
+      ["century of light—has been", "century of light—hath been"],
     ],
   },
   "the-universal-house-of-justice": {
@@ -2054,6 +2070,15 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ],
       [/^\[Principles of Bahá’í.*/m, ""],
       [/those whom they should serve/g, "those whom they serve"],
+      ["of glory, and will aid", "of glory, and shall aid"],
+      [
+        "though created whole and perfect, has been afflicted, through divers causes, with grave ills and maladies",
+        "though at its creation whole and perfect, hath been afflicted, through various causes, with grave disorders and maladies",
+      ],
+      [
+        "unskilled physicians who have spurred on the steed of their worldly",
+        "ignorant physicians, who gave full rein to their personal",
+      ],
       [
         `So long as these prejudices survive, there will be continuous and fearsome wars.
 
@@ -2785,6 +2810,15 @@ To remedy this condition there must be universal peace. To bring this about, a S
 
 The sole remedy is universal peace. And this is achieved only by the establishment of a supreme Tribunal, representative of all governments and peoples. All national and international problems should be referred to this tribunal, and whatsoever be its decision that should be enforced. Were a government or people to dissent, the world as a whole should rise against it.`,
       ],
+      [
+        "though created whole and perfect, has been afflicted, through divers causes, with grave ills and maladies. Not for one day did it rest, nay its sicknesses waxed more severe, as it fell under the treatment of unskilled physicians who have spurred on the steed of their worldly desires and have erred grievously.",
+        "though at its creation whole and perfect, hath been afflicted, through various causes, with grave disorders and maladies. Not for one day did it gain ease, nay its sickness waxed more severe, as it fell under the treatment of ignorant physicians, who gave full rein to their personal desires and have erred grievously.",
+      ],
+      [
+        "Consider these days in which the Ancient Beauty, He Who is the Most Great Name, hath been sent down to regenerate and unify mankind. Behold how with drawn swords they rose against Him, and committed that which caused the Faithful Spirit to tremble. And whenever We said unto them: ‘Lo, the World Reformer is come,’ they made reply: ‘He, in truth, is one of the stirrers of mischief’",
+        "Consider these days in which He Who is the Ancient Beauty hath come in the Most Great Name, that He may quicken the world and unite its peoples. They, however, rose up against Him with sharpened swords, and committed that which caused the Faithful Spirit to lament, until in the end they imprisoned Him in the most desolate of cities, and broke the grasp of the faithful upon the hem of His robe. Were anyone to tell them: ‘The World Reformer is come’, they would answer and say: ‘Indeed it is proven that He is a fomenter of discord!’",
+      ],
+      ["century of light—has been", "century of light—hath been"],
     ],
     "power-divine-assistance": [
       removeAfter("Notes"),
@@ -2798,6 +2832,9 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         years: [1990, 1990],
       }),
       [/^From/gm, "# From"],
+      ["resist His Faith? No, by Him", "resist His Faith? Nay, by Him"],
+      ["assisted by grace from on", "assisted by His grace from on"],
+      ["some for yet another century", "some for another century"],
     ],
     "prayer-devotional-life": [
       removeAfter("Notes"),
