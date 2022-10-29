@@ -3070,13 +3070,16 @@
   {
     "path": ["Additional"],
     "item": 225,
-    "title": "From a letter dated 10 January 1936 written on behalf of Shoghi Effendi, published in Prayer and Devotional Life, no. 61, p. 25",
+    "title": "From a letter dated 10 January 1936 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the United States and Canada",
     "author": "Shoghi Effendi",
     "years": [1936.011, 1936.011],
     "epoch": "First Epoch",
     "paragraphs": [
       {
-        "text": "The daily obligatory prayers are three in number. The shortest one consists of a single verse which has to be recited once every twenty‑four hours at midday. The medium, which begins with the words, ‘The Lord is witness that there is none other God but He,’ has to be recited three times a day, in the morning, at noon and in the evening. This prayer is accompanied by certain physical acts and gestures. The long prayer, which is the most elaborate of the three, has to be recited only once in every twenty‑four hours, and at any time one feels inclined to do so."
+        "text": "The instructions that accompany these prayers, such as the washing of hands and face, of bowing down and of raising one’s hands, have been definitely ordained by Bahá’u’lláh, and as such should be entirely and confidently carried out by the believers, and particularly by the Bahá’í youth, on whose shoulders has been laid the chief responsibility of vindicating the truth and preserving the integrity of the laws and ordinances of the Faith."
+      },
+      {
+        "text": "The daily obligatory prayers are three in number. The shortest one consists of a single verse which has to be recited once every twenty‑four hours and at midday. The medium, which begins with the words, “The Lord is witness that there is none other God but He,” has to be recited three times a day, in the morning, at noon and in the evening. This prayer is accompanied by certain physical acts and gestures. The long prayer, which is the most elaborate of the three, has to be recited only once in every twenty‑four hours, and at any time one feels inclined to do so."
       },
       {
         "text": "The believer is entirely free to choose any one of these three prayers, but is under the obligation of reciting one of them, and in accordance with any specific directions with which it may be accompanied."
@@ -3229,19 +3232,6 @@
   {
     "path": ["Additional"],
     "item": 237,
-    "title": "From a letter dated 8 December 1935 written on behalf of Shoghi Effendi to an individual believer, published in The Importance of Prayer, Meditation, and the Devotional Attitude, compiled by the Research Department of the Universal House of Justice, p. 32",
-    "author": "Shoghi Effendi",
-    "years": [1935.1208, 1935.1208],
-    "epoch": "First Epoch",
-    "paragraphs": [
-      {
-        "text": "Indeed, the chief reason for the evils now rampant in society is a lack of spirituality. The materialistic civilisation of our age has so much absorbed the energy and interest of mankind, that people in general no longer feel the necessity of raising themselves above the forces and conditions of their daily material existence. There is not sufficient demand for things that we should call spiritual to differentiate them from the needs and requirements of our physical existence. The universal crisis affecting mankind is, therefore, essentially spiritual in its causes."
-      }
-    ]
-  },
-  {
-    "path": ["Additional"],
-    "item": 238,
     "title": "From a letter dated 30 June 1957 written on behalf of Shoghi Effendi to a National Spiritual Assembly, in “The National Spiritual Assembly”, published in The Compilation of Compilations, vol. 2, p. 128",
     "author": "Shoghi Effendi",
     "years": [1957.063, 1957.063],
@@ -3254,7 +3244,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 239,
+    "item": 238,
     "title": "From a letter dated 17 April 1936 written on behalf of Shoghi Effendi to an individual believer, published in Directives from the Guardian, p. 84",
     "author": "Shoghi Effendi",
     "years": [1936.0417, 1936.0417],
@@ -3267,7 +3257,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 240,
+    "item": 239,
     "title": "From a letter dated 27 March 1933 written on behalf of Shoghi Effendi to a Local Spiritual Assembly, published in Bahá’í News, no. 73, p. 2",
     "author": "Shoghi Effendi",
     "years": [1933.0327, 1933.0327],
@@ -3280,7 +3270,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 241,
+    "item": 240,
     "title": "From a letter dated 16 February 1932 written on behalf of Shoghi Effendi to an individual believer, published in The Importance of Deepening Our Knowledge and Understanding of the Faith, comp. the Research Department of the Universal House of Justice, p. 32",
     "author": "Shoghi Effendi",
     "years": [1932.0216, 1932.0216],
@@ -3296,7 +3286,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 242,
+    "item": 241,
     "title": "From a letter dated 8 November 1956 written on behalf of Shoghi Effendi to an individual believer, published in Teaching the Bahá’í Faith: Compilations and a Statement Prepared by the Research Department of the Universal House of Justice, no. 156, pp. 84‑85",
     "author": "Shoghi Effendi",
     "years": [1956.1108, 1956.1108],
@@ -3309,7 +3299,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 243,
+    "item": 242,
     "title": "From a letter dated 1 September 1933 written on behalf of Shoghi Effendi to an individual believer, published in Teaching the Bahá’í Faith, no. 92, p. 69",
     "author": "Shoghi Effendi",
     "years": [1933.0901, 1933.0901],
@@ -3322,7 +3312,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 244,
+    "item": 243,
     "title": "Shoghi Effendi, Messages to America: Selected Letters and Cablegrams Addressed to the Bahá’ís of North America, 1932‑1946, pp. 5‑6",
     "author": "Shoghi Effendi",
     "years": [1932, 1932],
@@ -3335,7 +3325,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 245,
+    "item": 244,
     "title": "Postscript in the handwriting of Shoghi Effendi appended to an unpublished letter dated 9 May 1933 written on his behalf to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1933.0509, 1933.0509],
@@ -3348,7 +3338,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 246,
+    "item": 245,
     "title": "Postscript in the handwriting of Shoghi Effendi appended to an unpublished letter dated 17 November 1932 written on his behalf to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1932.1117, 1932.1117],
@@ -3361,7 +3351,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 247,
+    "item": 246,
     "title": "From an unpublished letter dated 8 June 1933 written on behalf of Shoghi Effendi to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1933.0608, 1933.0608],
@@ -3374,7 +3364,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 248,
+    "item": 247,
     "title": "Unpublished provisional translation of a letter dated 19 January 1922 written by Shoghi Effendi to the believers in Írán",
     "author": "Shoghi Effendi",
     "years": [1922.0119, 1922.0119],
@@ -3393,7 +3383,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 249,
+    "item": 248,
     "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, cited by Rúḥíyyih Rabbání, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
@@ -3406,7 +3396,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 250,
+    "item": 249,
     "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
@@ -3419,7 +3409,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 251,
+    "item": 250,
     "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
@@ -3432,7 +3422,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 252,
+    "item": 251,
     "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
@@ -3445,7 +3435,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 253,
+    "item": 252,
     "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
@@ -3458,7 +3448,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 254,
+    "item": 253,
     "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
@@ -3471,7 +3461,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 255,
+    "item": 254,
     "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 65",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
@@ -3484,7 +3474,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 256,
+    "item": 255,
     "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
@@ -3497,7 +3487,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 257,
+    "item": 256,
     "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
@@ -3510,7 +3500,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 258,
+    "item": 257,
     "title": "From a cablegram dated 18 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 65",
     "author": "Shoghi Effendi",
     "years": [1922.1218, 1922.1218],
@@ -3523,7 +3513,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 259,
+    "item": 258,
     "title": "From a cablegram dated 19 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1219, 1922.1219],
@@ -3536,7 +3526,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 260,
+    "item": 259,
     "title": "From a cablegram dated 19 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
     "author": "Shoghi Effendi",
     "years": [1922.1219, 1922.1219],
@@ -3549,7 +3539,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 261,
+    "item": 260,
     "title": "From a letter dated 27 February 1923 written by Shoghi Effendi to the Persian believers, quoted in Extracts from the Guardian’s Letters on the Spiritual Character of Bahá’í Elections, p. 1",
     "author": "Shoghi Effendi",
     "years": [1923.0227, 1923.0227],
@@ -3562,7 +3552,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 262,
+    "item": 261,
     "title": "From a letter dated 27 December 1923 written by Shoghi Effendi to the National Spiritual Assembly of India and Burma, published in Messages of Shoghi Effendi to the Indian Subcontinent 1923‑1957, p. 10",
     "author": "Shoghi Effendi",
     "years": [1923.1227, 1923.1227],
@@ -3575,7 +3565,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 263,
+    "item": 262,
     "title": "From a letter dated 11 August 1933 written by Shoghi Effendi to an individual believer, quoted in Extracts from the Guardian’s Letters on the Spiritual Character of Bahá’í Elections, p. 3",
     "author": "Shoghi Effendi",
     "years": [1933.0811, 1933.0811],
@@ -3588,7 +3578,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 264,
+    "item": 263,
     "title": "From a letter dated 4 February 1935 written by Shoghi Effendi to an individual believer, published in The Light of Divine Guidance, vol. 1, p. 68",
     "author": "Shoghi Effendi",
     "years": [1935.0204, 1935.0204],
@@ -3601,7 +3591,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 265,
+    "item": 264,
     "title": "From a letter dated 30 August 1930 written on behalf of Shoghi Effendi to an individual believer, published in Bahá’í News, no. 46, November 1930, p. 9",
     "author": "Shoghi Effendi",
     "years": [1930.083, 1930.083],
@@ -3614,7 +3604,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 266,
+    "item": 265,
     "title": "From a letter dated 21 March 1934 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the United States and Canada, published in Bahá’í News, no. 83, May 1934, p. 1",
     "author": "Shoghi Effendi",
     "years": [1934.0321, 1934.0321],
@@ -3627,7 +3617,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 267,
+    "item": 266,
     "title": "From an unpublished letter dated 19 March 1930 written by Shoghi Effendi to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1930.0319, 1930.0319],
@@ -3643,7 +3633,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 268,
+    "item": 267,
     "title": "From an unpublished letter dated 19 March 1930 written by Shoghi Effendi to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1930.0319, 1930.0319],
@@ -3656,7 +3646,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 269,
+    "item": 268,
     "title": "Shoghi Effendi, Letters from the Guardian to Australia and New Zealand 1923‑1957, p. 97",
     "author": "Shoghi Effendi",
     "years": [1923, 1923],
@@ -3669,7 +3659,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 270,
+    "item": 269,
     "title": "From a cablegram dated 12 February 1947 sent by Shoghi Effendi, published in A Compendium of Volumes of The Bahá’í World, pp. 405‑406",
     "author": "Shoghi Effendi",
     "years": [1947.0212, 1947.0212],
@@ -3682,7 +3672,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 271,
+    "item": 270,
     "title": "From a letter dated 30 June 1949 written by Shoghi Effendi to the National Spiritual Assembly of Germany, published in The Light of Divine Guidance, vol. 1, p. 156",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
@@ -3695,7 +3685,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 272,
+    "item": 271,
     "title": "Shoghi Effendi, The Unfolding Destiny of the British Bahá’í Community: The Messages from the Guardian of the Bahá’í Faith of the Bahá’ís of the British Isles, p. 233",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -3708,7 +3698,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 273,
+    "item": 272,
     "title": "Shoghi Effendi, The Unfolding Destiny of the British Bahá’í Community: The Messages from the Guardian of the Bahá’í Faith of the Bahá’ís of the British Isles, p. 233",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -3721,7 +3711,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 274,
+    "item": 273,
     "title": "From a letter dated 9 April 1949 written by Shoghi Effendi to the National Spiritual Assembly of India and Burma, published in Messages of Shoghi Effendi to the Indian Subcontinent 1923‑1957, p. 300",
     "author": "Shoghi Effendi",
     "years": [1949.0409, 1949.0409],
@@ -3734,7 +3724,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 275,
+    "item": 274,
     "title": "From a letter dated 17 February 1943 written by Shoghi Effendi to the National Spiritual Assembly of India and Burma, published in Messages of Shoghi Effendi to the Indian Subcontinent 1923‑1957, p. 178",
     "author": "Shoghi Effendi",
     "years": [1943.0217, 1943.0217],
@@ -3747,7 +3737,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 276,
+    "item": 275,
     "title": "From an unpublished letter dated 30 January 1948 written on behalf of Shoghi Effendi to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1948.013, 1948.013],
@@ -3760,7 +3750,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 277,
+    "item": 276,
     "title": "From a cablegram dated 9 January 1951 written by Shoghi Effendi to the Bahá’ís of the world, published in Messages to the Bahá’í World 1950‑1957, p. 7",
     "author": "Shoghi Effendi",
     "years": [1951.0109, 1951.0109],
@@ -3773,7 +3763,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 278,
+    "item": 277,
     "title": "From a cablegram dated 20 December 1937 sent by Shoghi Effendi to the Bahá’ís of America, published in Messages to America: Selected Letters and Cablegrams Addressed to the Bahá’ís of North America, 1932—1946, p. 11",
     "author": "Shoghi Effendi",
     "years": [1937.122, 1937.122],
@@ -3786,7 +3776,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 279,
+    "item": 278,
     "title": "From a cablegram dated 4 May 1953 sent by Shoghi Effendi to the Bahá’ís of the world, in ibid., pp. 152‑53",
     "author": "Shoghi Effendi",
     "years": [1953.0504, 1953.0504],
@@ -3799,7 +3789,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 280,
+    "item": 279,
     "title": "From a cablegram dated 28 May 1953 sent by Shoghi Effendi to the Bahá’ís of the world, published in Messages to the Bahá’í World 1950‑1957, p. 49",
     "author": "Shoghi Effendi",
     "years": [1953.0528, 1953.0528],
@@ -3812,7 +3802,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 281,
+    "item": 280,
     "title": "From a cablegram dated 7 October 1953 written by Shoghi Effendi to the Fourth International Teaching Conference in New Delhi, in ibid., p. 169",
     "author": "Shoghi Effendi",
     "years": [1953.1007, 1953.1007],
@@ -3825,7 +3815,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 282,
+    "item": 281,
     "title": "From a letter dated April 1955 written by Shoghi Effendi to the Bahá’ís of the world, published in Messages to the Bahá’í World 1950‑1957, pp. 84‑85",
     "author": "Shoghi Effendi",
     "years": [1955.0401, 1955.0401],
@@ -3838,7 +3828,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 283,
+    "item": 282,
     "title": "From a cablegram dated 8 October 1952 sent by Shoghi Effendi to the Bahá’ís of the world, in ibid., p. 44",
     "author": "Shoghi Effendi",
     "years": [1952.1008, 1952.1008],
@@ -3851,7 +3841,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 284,
+    "item": 283,
     "title": "From a cablegram dated 4 June 1957 sent by Shoghi Effendi to the Bahá’ís of the world, in ibid., pp. 122‑23",
     "author": "Shoghi Effendi",
     "years": [1957.0604, 1957.0604],
@@ -3867,7 +3857,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 285,
+    "item": 284,
     "title": "From a cablegram dated October 1957 sent by Shoghi Effendi to the Bahá’ís of the world, in ibid., p. 127",
     "author": "Shoghi Effendi",
     "years": [1957.1001, 1957.1001],
@@ -3880,7 +3870,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 286,
+    "item": 285,
     "title": "Postscript in the handwriting of Shoghi Effendi, appended to a letter dated 11 February 1934 written on his behalf to an individual believer, published in The Light of Divine Guidance, vol. 1, p. 56",
     "author": "Shoghi Effendi",
     "years": [1934.0211, 1934.0211],
@@ -3893,7 +3883,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 287,
+    "item": 286,
     "title": "Postscript in the handwriting of Shoghi Effendi, appended to a letter dated 19 February 1934 written on his behalf to an individual believer, published in Messages of Shoghi Effendi to the Indian Subcontinent 1923‑1957, p. 110",
     "author": "Shoghi Effendi",
     "years": [1934.0219, 1934.0219],
@@ -3906,7 +3896,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 288,
+    "item": 287,
     "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 6 September 1934 written on his behalf to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1934.0906, 1934.0906],
@@ -3919,7 +3909,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 289,
+    "item": 288,
     "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 5 November 1935 written on his behalf to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1935.1105, 1935.1105],
@@ -3932,7 +3922,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 290,
+    "item": 289,
     "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 5 July 1944 written on his behalf to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1944.0705, 1944.0705],
@@ -3945,7 +3935,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 291,
+    "item": 290,
     "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 26 April 1940 written on his behalf to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1940.0426, 1940.0426],
@@ -3958,7 +3948,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 292,
+    "item": 291,
     "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 30 November 1940 written on his behalf to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1940.113, 1940.113],
@@ -3971,7 +3961,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 293,
+    "item": 292,
     "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 7 April 1947 written on his behalf to two individual believers",
     "author": "Shoghi Effendi",
     "years": [1947.0407, 1947.0407],
@@ -3984,7 +3974,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 294,
+    "item": 293,
     "title": "From a letter dated 22 September 1948 written on behalf of Shoghi Effendi to an individual believer, published in Directives from the Guardian, p. 21; also in Lights of Guidance: A Bahá’í Reference File, compiled by Helen Bassett Hornby, p. 211",
     "author": "Shoghi Effendi",
     "years": [1948.0922, 1948.0922],
@@ -3997,7 +3987,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 295,
+    "item": 294,
     "title": "From a letter dated April 1936 written on behalf of Shoghi Effendi to the National Teaching Committee of the National Spiritual Assembly of the British Isles, published in The Unfolding Destiny of the British Bahá’í Community: The Messages from the Guardian of the Bahá’í Faith to the Bahá’ís of the British Isles, p. 106",
     "author": "Shoghi Effendi",
     "years": [1936.0401, 1936.0401],
@@ -4010,7 +4000,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 296,
+    "item": 295,
     "title": "From a postscript signed by Shoghi Effendi, appended to a letter dated 20 November 1951 written on his behalf, published in Letters from the Guardian to Australia and New Zealand, 1923—1957, p. 98",
     "author": "Shoghi Effendi",
     "years": [1951.112, 1951.112],
@@ -4023,7 +4013,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 297,
+    "item": 296,
     "title": "From the foreword written by Shoghi Effendi, God Passes By, pp. xxiii—xxiv",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -4036,7 +4026,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 298,
+    "item": 297,
     "title": "From the foreword written by Shoghi Effendi, God Passes By, pp. xxiv—xxvi",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -4049,7 +4039,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 299,
+    "item": 298,
     "title": "From a letter dated 24 June 1936 written on behalf of Shoghi Effendi to an individual believer, cited in the compilation, Crisis and Victory, p. 15",
     "author": "Shoghi Effendi",
     "years": [1936.0624, 1936.0624],
@@ -4062,7 +4052,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 300,
+    "item": 299,
     "title": "Message dated June 4, 1957",
     "author": "Shoghi Effendi",
     "years": [1957, 1957],
@@ -4075,7 +4065,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 301,
+    "item": 300,
     "title": "From letter written on behalf of the Guardian to the American National Spiritual Assembly, dated 7 July 1947—Bahá’í News, No. 198, page 3",
     "author": "Shoghi Effendi",
     "years": [1947.0707, 1947.0707],
@@ -4088,7 +4078,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 302,
+    "item": 301,
     "title": "From letter written on behalf of the Guardian to the American National Spiritual Assembly, dated 2 October 1935—Bahá’í News, No. 97, page 9",
     "author": "Shoghi Effendi",
     "years": [1935.1002, 1935.1002],
@@ -4101,7 +4091,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 303,
+    "item": 302,
     "title": "From letter written on behalf of the Guardian to the American National Spiritual Assembly, dated 25 October 1947",
     "author": "Shoghi Effendi",
     "years": [1947.1025, 1947.1025],
@@ -4114,7 +4104,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 304,
+    "item": 303,
     "title": "To the Convention in Tokyo at Riḍván 1957",
     "author": "Shoghi Effendi",
     "years": [1957, 1957],
@@ -4127,7 +4117,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 305,
+    "item": 304,
     "title": "4 November 1931",
     "author": "Shoghi Effendi",
     "years": [1931.1104, 1931.1104],
@@ -4140,7 +4130,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 306,
+    "item": 305,
     "title": "From letter dated 14 October 1941 to two believers",
     "author": "Shoghi Effendi",
     "years": [1941.1014, 1941.1014],
@@ -4153,7 +4143,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 307,
+    "item": 306,
     "title": "From letter dated 30 August 1930 written on behalf of the Guardian to the National Spiritual Assembly of the United States and Canada",
     "author": "Shoghi Effendi",
     "years": [1930.083, 1930.083],
@@ -4169,7 +4159,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 308,
+    "item": 307,
     "title": "Synopsis and Codification of the Kitáb‑i‑Aqdas",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -4182,7 +4172,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 309,
+    "item": 308,
     "title": "To a National Spiritual Assembly, 14 December 1940",
     "author": "Shoghi Effendi",
     "years": [1940.1214, 1940.1214],
@@ -4195,7 +4185,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 310,
+    "item": 309,
     "title": "To an individual believer, 17 September 1952",
     "author": "Shoghi Effendi",
     "years": [1952.0917, 1952.0917],
@@ -4208,7 +4198,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 311,
+    "item": 310,
     "title": "Riḍván Message of April 1957",
     "author": "Shoghi Effendi",
     "years": [1957.0401, 1957.0401],
@@ -4227,7 +4217,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 312,
+    "item": 311,
     "title": "20 June 1942",
     "author": "Shoghi Effendi",
     "years": [1942.062, 1942.062],
@@ -4240,7 +4230,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 313,
+    "item": 312,
     "title": "5 July 1947",
     "author": "Shoghi Effendi",
     "years": [1947.0705, 1947.0705],
@@ -4253,7 +4243,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 314,
+    "item": 313,
     "title": "Recollection of Mrs. Ruth Moffett of guidance that she was told by the beloved Guardian",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -4281,7 +4271,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 315,
+    "item": 314,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4293,7 +4283,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 316,
+    "item": 315,
     "title": "To an individual believer on 22 July 1943",
     "author": "Shoghi Effendi",
     "years": [1943.0722, 1943.0722],
@@ -4306,7 +4296,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 317,
+    "item": 316,
     "title": "To an individual Bahá’í, 5 April 1956",
     "author": "Shoghi Effendi",
     "years": [1956.0405, 1956.0405],
@@ -4328,7 +4318,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 318,
+    "item": 317,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4340,7 +4330,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 319,
+    "item": 318,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4352,7 +4342,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 320,
+    "item": 319,
     "title": "Statement written in 1933",
     "author": "Shoghi Effendi",
     "years": [1933, 1933],
@@ -4365,14 +4355,14 @@
   },
   {
     "path": ["Additional"],
-    "item": 321,
-    "title": "To an individual believer on 8 December 1935",
+    "item": 320,
+    "title": "From a letter dated 8 December 1935 written on behalf of Shoghi Effendi to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1935.1208, 1935.1208],
     "epoch": "First Epoch",
     "paragraphs": [
       {
-        "text": "How to attain spirituality is, indeed, a question to which every young man and woman must sooner or later try to find a satisfactory answer. It is precisely because no such satisfactory reply has been given or found, that modern youth finds itself bewildered, and is being consequently carried away by the materialistic forces that are so powerfully undermining the foundation of man’s moral and spiritual life."
+        "text": "The problem with which you are faced is one which concerns and seriously puzzles many of our present‑day youth. How to attain spirituality is, indeed, a question to which every young man and woman must sooner or later try to find a satisfactory answer. It is precisely because no such satisfactory reply has been given or found, that modern youth finds itself bewildered, and is being consequently carried away by the materialistic forces that are so powerfully undermining the foundation of man’s moral and spiritual life."
       },
       {
         "text": "Indeed, the chief reason for the evils now rampant in society is a lack of spirituality. The materialistic civilisation of our age has so much absorbed the energy and interest of mankind, that people in general no longer feel the necessity of raising themselves above the forces and conditions of their daily material existence. There is not sufficient demand for things that we should call spiritual to differentiate them from the needs and requirements of our physical existence. The universal crisis affecting mankind is, therefore, essentially spiritual in its causes. The spirit of the age, taken on the whole, is irreligious. Man’s outlook upon life is too crude and materialistic to enable him to elevate himself into the higher realms of the spirit."
@@ -4387,7 +4377,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 322,
+    "item": 321,
     "title": "To an individual believer, 17 June 1933",
     "author": "Shoghi Effendi",
     "years": [1933.0617, 1933.0617],
@@ -4400,7 +4390,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 323,
+    "item": 322,
     "title": "To an individual believer, 19 November 1945",
     "author": "Shoghi Effendi",
     "years": [1945.1119, 1945.1119],
@@ -4413,7 +4403,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 324,
+    "item": 323,
     "title": "Letter to an individual written on his behalf on 23 January 1944",
     "author": "Shoghi Effendi",
     "years": [1944.0123, 1944.0123],
@@ -4426,7 +4416,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 325,
+    "item": 324,
     "title": "4 December 1954",
     "author": "Shoghi Effendi",
     "years": [1954.1204, 1954.1204],
@@ -4439,7 +4429,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 326,
+    "item": 325,
     "title": "15 August 1957",
     "author": "Shoghi Effendi",
     "years": [1957.0815, 1957.0815],
@@ -4452,7 +4442,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 327,
+    "item": 326,
     "title": "19 March 1938",
     "author": "Shoghi Effendi",
     "years": [1938.0319, 1938.0319],
@@ -4465,7 +4455,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 328,
+    "item": 327,
     "title": "Letter dated 11 January 1942 written on behalf of the Guardian to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1942.0111, 1942.0111],
@@ -4478,7 +4468,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 329,
+    "item": 328,
     "title": "Letter dated 19 February 1947 written on behalf of Shoghi Effendi to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1947.0219, 1947.0219],
@@ -4491,7 +4481,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 330,
+    "item": 329,
     "title": "Letter to a National Spiritual Assembly, 30 May 1930",
     "author": "Shoghi Effendi",
     "years": [1930.053, 1930.053],
@@ -4504,7 +4494,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 331,
+    "item": 330,
     "title": "Letter written on his behalf to an individual believer, 28 July 1936",
     "author": "Shoghi Effendi",
     "years": [1936.0728, 1936.0728],
@@ -4517,7 +4507,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 332,
+    "item": 331,
     "title": "Letter to the believers in ‘Ishqábád on 11 January 1923",
     "author": "Shoghi Effendi",
     "years": [1923.0111, 1923.0111],
@@ -4530,7 +4520,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 333,
+    "item": 332,
     "title": "Letter to the believers in ‘Ishqábád on 2 January 1930",
     "author": "Shoghi Effendi",
     "years": [1930.0102, 1930.0102],
@@ -4543,7 +4533,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 334,
+    "item": 333,
     "title": "Letter written by his secretary on 6 July 1944",
     "author": "Shoghi Effendi",
     "years": [1944.0706, 1944.0706],
@@ -4559,7 +4549,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 335,
+    "item": 334,
     "title": "The Light of Divine Guidance: The Messages from the Guardian of the Bahá’í Faith to the Bahá’ís of Germany and Austria, p. 67",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -4572,7 +4562,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 336,
+    "item": 335,
     "title": "Letter dated 14 May 1927",
     "author": "Shoghi Effendi",
     "years": [1927.0514, 1927.0514],
@@ -4585,7 +4575,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 337,
+    "item": 336,
     "title": "Letter dated 15 November 1956 written to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.1115, 1956.1115],
@@ -4598,7 +4588,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 338,
+    "item": 337,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4616,7 +4606,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 339,
+    "item": 338,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4628,7 +4618,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 340,
+    "item": 339,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4640,7 +4630,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 341,
+    "item": 340,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4652,7 +4642,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 342,
+    "item": 341,
     "title": "Letter to an individual believer, 19 October 1947",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
@@ -4665,7 +4655,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 343,
+    "item": 342,
     "title": "To a National Spiritual Assembly on 24 October 1947",
     "author": "Shoghi Effendi",
     "years": [1947.1024, 1947.1024],
@@ -4678,7 +4668,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 344,
+    "item": 343,
     "title": "Foreword to the Kitáb‑i‑Íqán",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -4691,7 +4681,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 345,
+    "item": 344,
     "title": "To an individual Bahá’í on 30 September 1949",
     "author": "Shoghi Effendi",
     "years": [1949.093, 1949.093],
@@ -4704,7 +4694,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 346,
+    "item": 345,
     "title": "“Concerning Membership in Non‑Bahá’í Religious Organisations”, in The Bahá’í World, volume VI, on page 199",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -4717,7 +4707,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 347,
+    "item": 346,
     "title": "Letter to an individual believer, 30 November 1930",
     "author": "Shoghi Effendi",
     "years": [1930.113, 1930.113],
@@ -4730,7 +4720,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 348,
+    "item": 347,
     "title": "Letter to an individual believer, 19 November 1939",
     "author": "Shoghi Effendi",
     "years": [1939.1119, 1939.1119],
@@ -4743,7 +4733,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 349,
+    "item": 348,
     "title": "Letter to an individual believer, 19 April 1941",
     "author": "Shoghi Effendi",
     "years": [1941.0419, 1941.0419],
@@ -4756,7 +4746,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 350,
+    "item": 349,
     "title": "To an individual believer, 19 March 1946",
     "author": "Shoghi Effendi",
     "years": [1946.0319, 1946.0319],
@@ -4772,7 +4762,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 351,
+    "item": 350,
     "title": "18 April 1941",
     "author": "Shoghi Effendi",
     "years": [1941.0418, 1941.0418],
@@ -4785,7 +4775,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 352,
+    "item": 351,
     "title": "Letter of 30 April 1953 to the All‑America Intercontinental Teaching Conference",
     "author": "Shoghi Effendi",
     "years": [1953.043, 1953.043],
@@ -4798,7 +4788,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 353,
+    "item": 352,
     "title": "Letter to the Bahá’ís of Írán, July 1925",
     "author": "Shoghi Effendi",
     "years": [1925.0701, 1925.0701],
@@ -4811,7 +4801,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 354,
+    "item": 353,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4823,7 +4813,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 355,
+    "item": 354,
     "title": "Letter dated 18 August 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0818, 1949.0818],
@@ -4836,7 +4826,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 356,
+    "item": 355,
     "title": "Letter written on behalf of the Guardian in August 1936",
     "author": "Shoghi Effendi",
     "years": [1936.0801, 1936.0801],
@@ -4849,7 +4839,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 357,
+    "item": 356,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4861,7 +4851,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 358,
+    "item": 357,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4873,7 +4863,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 359,
+    "item": 358,
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
     "epoch": "First Epoch",
@@ -4885,7 +4875,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 360,
+    "item": 359,
     "title": "Letter written to a National Spiritual Assembly",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -4898,7 +4888,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 361,
+    "item": 360,
     "title": "Letter of Riḍván 105 B.E. to the friends in the East",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -4911,7 +4901,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 362,
+    "item": 361,
     "title": "Letter dated 30 June 1957 written on behalf of Shoghi Effendi to the National Spiritual Assembly of Alaska, published in High Endeavours, pp. 35—36",
     "author": "Shoghi Effendi",
     "years": [1957.063, 1957.063],
@@ -4924,7 +4914,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 363,
+    "item": 362,
     "title": "Letter 18 February 1932, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1932.0218, 1932.0218],
@@ -4937,7 +4927,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 364,
+    "item": 363,
     "title": "Letter 19 March 1954, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1954.0319, 1954.0319],
@@ -4950,7 +4940,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 365,
+    "item": 364,
     "title": "Letter 25 March 1949, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1949.0325, 1949.0325],
@@ -4963,7 +4953,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 366,
+    "item": 365,
     "title": "Letter 11 May 1934, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1934.0511, 1934.0511],
@@ -4976,7 +4966,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 367,
+    "item": 366,
     "title": "Letter 20 December 1932, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1932.122, 1932.122],
@@ -4989,7 +4979,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 368,
+    "item": 367,
     "title": "Letter 2 August 1942, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1942.0802, 1942.0802],
@@ -5002,7 +4992,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 369,
+    "item": 368,
     "title": "Letter 13 March 1944, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
@@ -5015,7 +5005,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 370,
+    "item": 369,
     "title": "Letter 17 February 1945, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1945.0217, 1945.0217],
@@ -5028,7 +5018,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 371,
+    "item": 370,
     "title": "Letter 3 July 1948, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1948.0703, 1948.0703],
@@ -5041,7 +5031,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 372,
+    "item": 371,
     "title": "Letter 25 October 1949, on behalf Shoghi Effendi. Published in Living the Life, p. 21",
     "author": "Shoghi Effendi",
     "years": [1949.1025, 1949.1025],
@@ -5054,7 +5044,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 373,
+    "item": 372,
     "title": "Letter 15 September 1951, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1951.0915, 1951.0915],
@@ -5067,7 +5057,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 374,
+    "item": 373,
     "title": "Letter 30 June 1952, on behalf Shoghi Effendi",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
@@ -5080,7 +5070,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 375,
+    "item": 374,
     "title": "Letter 5 October 1953, on behalf Shoghi Effendi. Published in Japan Will Turn Ablaze, page 102",
     "author": "Shoghi Effendi",
     "years": [1953.1005, 1953.1005],
@@ -5093,7 +5083,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 376,
+    "item": 375,
     "title": "Letter April 1956, Shoghi Effendi. Published in Messages to the Bahá’í World, page 101",
     "author": "Shoghi Effendi",
     "years": [1956.0401, 1956.0401],
@@ -5106,7 +5096,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 377,
+    "item": 376,
     "title": "Hand‑written postscript 12 August 1957, Shoghi Effendi ",
     "author": "Shoghi Effendi",
     "years": [1957.0812, 1957.0812],
@@ -5122,7 +5112,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 378,
+    "item": 377,
     "title": "25 March 1930, written on behalf of Shoghi Effendi to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1930.0325, 1930.0325],
@@ -5135,7 +5125,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 379,
+    "item": 378,
     "title": "Written on behalf of the Guardian to an individual believer",
     "author": "Shoghi Effendi",
     "years": [1922, 1957],
@@ -5143,6 +5133,709 @@
     "paragraphs": [
       {
         "text": "We are forbidden to confess to any person, as do the Catholics to their priests, our sins and shortcomings, or to do so in public, as some religious sects do. However, if we spontaneously desire to acknowledge we have been wrong in something, or that we have some fault of character, and ask another person’s forgiveness or pardon, we are quite free to do so. The Guardian wants to point out, however, that we are not obliged to do so. It rests entirely with the individual."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 379,
+    "title": "From a letter dated 7 January 1923 written by Shoghi Effendi to the Bahá’í community of Pasadena, California",
+    "author": "Shoghi Effendi",
+    "years": [1923.0107, 1923.0107],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": ". . . He, Who has entrusted them with such a great mission to the world, is waiting and patiently waiting for them that labour in His Divine Vineyard to turn their hearts in prayer and supplication to the Almighty and seek that aid and guidance that can alone enable them to carry out His Divine Plan for this world."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 380,
+    "title": "From a letter dated 13 March 1934 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1934.0313, 1934.0313],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "The Guardian wishes you, therefore, to pray, and to supplicate the Almighty that He may give you a fuller measure of His grace; that through it your spiritual energies may be quickened and that you may become more imbued with that spirit which must needs animate, sustain and strengthen every sincere and true follower of the Faith."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 381,
+    "title": "From a letter dated 22 November 1941 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1941.1122, 1941.1122],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "He wishes again to assure you he will pray for your spiritual advancement in the Holy Shrines. The power of God can entirely transmute our characters and make of us beings entirely unlike our previous selves. Through prayer and supplication, obedience to the divine laws Bahá’u’lláh has revealed, and ever‑increasing service to His Faith, we can change ourselves."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 382,
+    "title": "From a letter dated 28 June 1945 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1945.0628, 1945.0628],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "He suggests that you all hold special prayers that God may send to you receptive souls to teach. Prayer unlocks doors that otherwise seem unopenable!"
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 383,
+    "title": "From a letter dated 30 September 1951 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1951.093, 1951.093],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "He suggests that you daily pray to Bahá’u’lláh to let you meet a soul receptive to His Message. The power of prayer is very great, and attracts the Divine confirmations. He, also, will pray for your teaching work there."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 384,
+    "title": "From a letter dated 19 October 1925 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1925.1019, 1925.1019],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "When we turn to God with our whole heart and invoke His Name, a spiritual connection is established through which we become a channel of divine influence."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 385,
+    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 30 October 1936 written on his behalf to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1936.103, 1936.103],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "The simplicity characterising the offering of Bahá’í prayers, whether obligatory or otherwise, should be maintained. Rigidity and rituals should be strictly avoided."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 386,
+    "title": "From a letter dated 19 October 1925 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1925.1019, 1925.1019],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "‘Abdu’l‑Bahá once said: “The worshipper must pray with a detached spirit, unconditional surrender of the will, concentrated attention and spiritual fervour. . . . Automatic, formal prayers which do not touch the core of the heart are of no avail.”"
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 387,
+    "title": "From a letter dated 15 June 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1935.0615, 1935.0615],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "As regards the chanting of Tablets in the Temple, Shoghi Effendi wishes in this connection to urge the friends to avoid all forms of rigidity and uniformity in matters of worship. There is no objection to the recital or chanting of prayers in the Oriental language, but there is also no obligation whatever of adopting such a form of prayer at any devotional service in the auditorium of the Temple. It should neither be required nor prohibited. The important thing that should always be borne in mind is that with the exception of certain specific obligatory prayers Bahá’u’lláh has given us no strict or special rulings in matters of worship whether in the Temple or elsewhere. Prayer is essentially a communion between man and God, and as such transcends all ritualistic forms and formulae."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 388,
+    "title": "From a letter dated 6 July 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1935.0706, 1935.0706],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "Daily prayers—with the exception of the specific obligatory prayers such as the “Namáz”—can be recited in any fashion or manner which the believer chooses. Uniformity in the case of such prayers should under no circumstances be imposed upon the friends. The worshipper should be left entirely free to pray as he wishes."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 389,
+    "title": "From a letter dated 6 December 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1935.1206, 1935.1206],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "With regard to your spiritual experiences, the Guardian has been very interested to share them. He would, however, urge you to always use and read, during your hours of meditation and prayer, the words revealed by Bahá’u’lláh and the Master."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 390,
+    "title": "From a letter dated 26 October 1938 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1938.1026, 1938.1026],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "Although you seem to feel that your prayers have not so far been answered, and do no longer have any hope that your material conditions will ameliorate, the Guardian wishes you nevertheless not to allow such disappointments to undermine your faith in the power of prayer, but rather to continue entreating the Almighty to enable you to discover the great wisdom which may be hidden behind all these sufferings. For are not our sufferings often blessings in disguise, through which God wishes to test the sincerity and depth of our faith, and thereby make us firmer in His Cause?\n. . ."
+      },
+      {
+        "text": "The true worshipper, while praying, should endeavour not so much to ask God to fulfil his wishes and desires, but rather to adjust these and make them conform to the Divine Will. Only through such an attitude can one derive that feeling of inner peace and contentment which the power of prayer alone can confer."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 391,
+    "title": "From a letter dated 16 March 1946 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1946.0316, 1946.0316],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "He feels more emphasis should be laid on the importance and power of prayer, including the use of The Greatest Name, but not over‑emphasising it. It is the spirit behind the words which is really important."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 392,
+    "title": "From a letter dated 31 January 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1949.0131, 1949.0131],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "The daily prayers are to be said each one for himself, aloud or silent makes no difference. There is no congregational prayer except that for the dead. We read healing and other prayers in our meetings, but the daily prayer is a personal obligation, so someone else reading it is not quite the same thing as saying it for yourself."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 393,
+    "title": "From a letter dated 14 January 1942 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1942.0114, 1942.0114],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": ". . . of course the Bahá’ís can and should meditate upon the significances of the writings, and endeavour to grasp their meaning to the uttermost. There can be no possible objection to this. However, certain things are, by their very nature, a mystery to us, at least in our present stage of development."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 394,
+    "title": "From a letter dated 25 January 1943 written on behalf of Shoghi Effendi to individual believers",
+    "author": "Shoghi Effendi",
+    "years": [1943.0125, 1943.0125],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "There are no set forms of meditation prescribed in the teachings, no plan, as such, for inner development. The friends are urged—nay enjoined—to pray, and they also should meditate, but the manner of doing the latter is left entirely to the individual."
+      },
+      {
+        "text": ". . ."
+      },
+      {
+        "text": "The inspiration received through meditation is of a nature that one cannot measure or determine. God can inspire into our minds things that we had no previous knowledge of, if He desires to do so."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 395,
+    "title": "From a letter dated 19 November 1945 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1945.1119, 1945.1119],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "Through meditation the doors of deeper knowledge and inspiration may be opened. Naturally, if one meditates as a Bahá’í he is connected with the Source; if a man believing in God meditates he is tuning in to the power and mercy of God; but we cannot say that any inspiration which a person, not knowing Bahá’u’lláh, or not believing in God, receives is merely from his own ego. Meditation is very important, and the Guardian sees no reason why the friends should not be taught to meditate, but they should guard against superstitious or foolish ideas creeping into it."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 396,
+    "title": "From a letter dated 27 January 1952 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1952.0127, 1952.0127],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "He thinks it would be wiser for the Bahá’ís to use the Meditations given by Bahá’u’lláh, and not any set form of meditation recommended by someone else; but the believers must be left free in these details and allowed to have personal latitude in finding their own level of communion with God."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 397,
+    "title": "From a letter dated 15 May 1944 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1944.0515, 1944.0515],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "Prayer and meditation are very important factors in deepening the spiritual life of the individual, but with them must go also action and example, as these are the tangible results of the former. Both are essential."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 398,
+    "title": "From a letter dated 29 October 1952 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1952.1029, 1952.1029],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "The Master said guidance was when the doors opened after we tried. We can pray, ask to do God’s will only, try hard, and then if we find our plan is not working out, assume it is not the right one, at least for the moment."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 399,
+    "title": "From a letter dated 6 October 1954 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1954.1006, 1954.1006],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "When a person becomes a Bahá’í, actually what takes place is that the seed of the spirit starts to grow in the human soul. This seed must be watered by the outpourings of the Holy Spirit. These gifts of the spirit are received through prayer, meditation, study of the Holy Utterances and service to the Cause of God. The fact of the matter is that service in the Cause is like the plough which ploughs the physical soil when seeds are sown. It is necessary that the soil be ploughed up, so that it can be enriched, and thus cause a stronger growth of the seed. In exactly the same way the evolution of the spirit takes place through ploughing up the soil of the heart so that it is a constant reflection of the Holy Spirit. In this way the human spirit grows and develops by leaps and bounds."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 400,
+    "title": "From a letter dated 30 May 1956 written on behalf of Shoghi Effendi to the Hands of the Cause in Asia",
+    "author": "Shoghi Effendi",
+    "years": [1956.053, 1956.053],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "The friends . . . should turn to God for guidance in prayer and meditation, should study the Teachings of the Faith and then arise and act. Prayer and meditation, and study, without action, are of no value, and action must be reinforced by these other things, which strengthen the soul and nourish the mind."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 401,
+    "title": "From a letter dated 30 May 1956 written on behalf of Shoghi Effendi to the Hands of the Cause in the United States",
+    "author": "Shoghi Effendi",
+    "years": [1956.053, 1956.053],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "The beloved Guardian has stressed over and over again, that to effectively teach the Faith, the individual must study deeply the Divine Word, imbibe its life‑giving waters, and feast upon its glorious teachings. He should then meditate on the import of the Word, and finding its spiritual depths, pray for guidance and assistance. But most important, after prayer is action. After one has prayed and meditated, he must arise, relying fully on the guidance and confirmation of Bahá’u’lláh, to teach His Faith. Perseverance in action is essential, just as wisdom and audacity are necessary for effective teaching. The individual must sacrifice all things to this great goal, and then the victories will be won."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 402,
+    "title": "From a letter dated 22 August 1957 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1957.0822, 1957.0822],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "Teaching is the source of Divine Confirmation. It is not sufficient to pray diligently for guidance, but this prayer must be followed by meditation as to the best methods of action and then action itself. Even if the action should not immediately produce results, or perhaps not be entirely correct, that does not make so much difference, because prayers can only be answered through action and if someone’s action is wrong, God can use that method of showing the pathway which is right. Therefore you and the other members of the . . . Assembly must arise and diligently teach the Cause. You will find that you will be guided and confirmed in this work."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 403,
+    "title": "From a letter dated 25 October 1934 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1934.1025, 1934.1025],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "In regard to the question which you have been asked by the London Assembly to submit to the Guardian concerning the recital of “Munájáts”: He wishes me first to draw your attention to the fact that there is a fundamental difference between “Namáz” and “Munáját”. While the former, being specifically ordained by Bahá’u’lláh, is obligatory and must, in accordance with His definite instructions given in the Aqdas, be recited privately, the latter is neither compulsory nor is there any prescribed way for its recital. But although the friends are thus left free to follow their own inclination when reading the “Munáját” they should take the utmost care that any manner they practise should not acquire too rigid a character, and thus develop into an institution."
+      },
+      {
+        "text": "This is a point which the friends should always bear in mind, lest they deviate from the clear path indicated by the Teachings."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 404,
+    "title": "From a letter dated 4 January 1936 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1936.0104, 1936.0104],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": ". . . the obligatory prayers are by their very nature of greater effectiveness and are endowed with a greater power than the non‑obligatory ones, and as such are essential."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 405,
+    "title": "From a letter dated 30 January 1937 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1937.013, 1937.013],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "You had asked about performing obligatory prayers in the Mashriqu’l‑Adhkár. He told me to write: “Obligatory prayer is not forbidden in the Mashriqu’l‑Adhkár, but the friends have not been and are not required to perform it in the Temple. Congregational prayer is prohibited, save in the Prayer for the Dead. Designating the place and determining the conditions for the recital of obligatory prayers in the Mashriqu’l‑Adhkár are secondary matters to be referred to the Spiritual Assembly of that city.”"
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 406,
+    "title": "From a letter dated 23 February 1939 written on behalf of Shoghi Effendi to individual believers",
+    "author": "Shoghi Effendi",
+    "years": [1939.0223, 1939.0223],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "You should rest assured that your strict adherence to the laws and observances enjoined by Bahá’u’lláh is the one power that can effectively guide and enable you to overcome the tests and trials of your life, and help you to continually grow and develop spiritually."
+      },
+      {
+        "text": "The Guardian particularly appreciates the fact that you have been faithfully observing Bahá’u’lláh’s injunction regarding the recital of the daily obligatory prayers, and have thereby set such a high example before your Bahá’í fellow‑youth. These daily prayers have been endowed with a special potency which only those who regularly recite them can adequately appreciate. The friends should therefore endeavour to make daily use of these prayers, whatever the peculiar circumstances and conditions of their life."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 407,
+    "title": "From a letter dated 7 December 1939 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1939.1207, 1939.1207],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "With reference to your question regarding the three daily obligatory prayers: the Bahá’í worshipper is not required to recite them all each day, but has to choose one, and should also strictly conform to any instructions revealed by Bahá’u’lláh in connection with its recital, such as the raising of hands, various genuflexions, etc. Those who for some reason or other, especially when physically unable to observe these regulations owing to illness or some bodily defect, cannot conform to these instructions should preferably choose the short prayer, which is exceedingly simple."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 408,
+    "title": "From a letter dated 24 June 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1949.0624, 1949.0624],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "He would advise you to only use the short midday Obligatory Prayer. This has no genuflections and only requires that when saying it the believer turn his face towards ‘Akká where Bahá’u’lláh is buried. This is a physical symbol of an inner reality, just as the plant stretches out to the sunlight—from which it receives life and growth—so we turn our hearts to the Manifestation of God, Bahá’u’lláh, when we pray; and we turn our faces, during this short prayer, to where His dust lies on this earth as a symbol of the inner act."
+      },
+      {
+        "text": "Bahá’u’lláh has reduced all ritual and form to an absolute minimum in His Faith. The few forms that there are—like those associated with the two longer obligatory daily prayers—are only symbols of the inner attitude. There is a wisdom in them, and a great blessing, but we cannot force ourselves to understand or feel these things, that is why He gave us also the very short and simple prayer, for those who did not feel the desire to perform the acts associated with the other two."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 409,
+    "title": "From a letter dated 17 February 1955 written on behalf of Shoghi Effendi to the Local Spiritual Assembly of Los Angeles, California",
+    "author": "Shoghi Effendi",
+    "years": [1955.0217, 1955.0217],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "As regards the questions about the proper use of the Long Obligatory Prayer: All the writings of the Faith may be read and should be read for the instruction and inspiration of the friends. This includes the specific prayers. If a believer is physically incapable of performing the genuflexions accompanying one of the prayers, and yet he longs to say it as an obligatory prayer, then he may do so. By physically incapable is meant a real physical incapacity which a physician would attest as genuine."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 410,
+    "title": "From a letter dated 8 November 1931 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1931.1108, 1931.1108],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "Ultimately it is God’s will destined for us that will be established, but we are assured that prayer for the sick is efficacious and is often answered. It may take time, but we should have faith."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 411,
+    "title": "From a letter dated 23 November 1947 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1947.1123, 1947.1123],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "He is delighted to hear you are now fully recovered and again active in your important work for the Cause. However, you should not neglect your health, but consider it the means which enables you to serve. It—the body—is like a horse which carries the personality and spirit, and as such should be well cared for so it can do its work! You should certainly safeguard your nerves, and force yourself to take time, and not only for prayer and meditation, but for real rest and relaxation. We don’t have to pray and meditate for hours in order to be spiritual."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 412,
+    "title": "From a letter dated 28 March 1953 written on behalf of Shoghi Effendi to individual believers",
+    "author": "Shoghi Effendi",
+    "years": [1953.0328, 1953.0328],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "The Guardian is happy to learn that the prayers of the friends had such a beneficial effect on the healing of Mr. . . . . Prayer is a ladder on which the soul ascends into Heaven. It is the link with the spiritual realms, and if used with true dedication, brings the spiritual forces to the aid and assistance of the believers in this world."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 413,
+    "title": "From a letter dated 10 April 1939 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1939.041, 1939.041],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "The Guardian was truly pleased to note that you have already started reading some Bahá’í books, and would specially advise you to endeavour to commit to memory certain passages from the Writings of Bahá’u’lláh, and in particular, some of His prayers. This training would undoubtedly be of tremendous help to you in your future studies of the Cause, and would also serve to considerably deepen and enrich your own spiritual life at present."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 414,
+    "title": "From a letter dated 27 April 1937 written on behalf of Shoghi Effendi to the National Spiritual Assembly of India and Burma",
+    "author": "Shoghi Effendi",
+    "years": [1937.0427, 1937.0427],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "While praying it would be better to turn one’s thoughts to the Manifestation as He continues, in the other world, to be our means of contact with the Almighty. We can, however, pray directly to God Himself."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 415,
+    "title": "From a letter dated 14 October 1937 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1937.1014, 1937.1014],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "You have asked whether our prayers go beyond Bahá’u’lláh: it all depends whether we pray to Him directly or through Him to God. We may do both, and also can pray directly to God, but our prayers would certainly be more effective and illuminating if they are addressed to Him through His Manifestation, Bahá’u’lláh."
+      },
+      {
+        "text": "Under no circumstances, however, can we, while repeating the prayers, insert the name Bahá’u’lláh where the word “God” is used. This would be tantamount to a blasphemy."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 416,
+    "title": "From a letter dated 24 July 1946 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1946.0724, 1946.0724],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "In regard to your question: we must not be rigid about praying; there is not a set of rules governing it; the main thing is we must start out with the right concept of God, the Manifestation, the Master, the Guardian—we can turn, in thought, to any one of them when we pray. For instance you can ask Bahá’u’lláh for something, or, thinking of Him, ask God for it. The same is true of the Master or the Guardian. You can turn in thought to either of them and then ask their intercession, or pray direct to God. As long as you don’t confuse their stations, and make them all equal, it does not matter much how you orient your thoughts."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 417,
+    "title": "From a letter dated 31 January 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1949.0131, 1949.0131],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "If you find you need to visualise someone when you pray, think of the Master. Through Him you can address Bahá’u’lláh. Gradually try to think of the qualities of the Manifestation, and in that way a mental form will fade out, for after all the body is not the thing, His Spirit is there and is the essential, everlasting element."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 418,
+    "title": "From a letter dated 28 July 1950 written on behalf of Shoghi Effendi to the Local Spiritual Assembly of Manchester, England",
+    "author": "Shoghi Effendi",
+    "years": [1950.0728, 1950.0728],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": ". . . the Spirit of God reaches us through the Souls of the Manifestations. We must learn to commune with Their Souls and this is what the martyrs seemed to have done, and what brought them such ecstasy of joy that life became nothing. This is the true mysticism, and the secret, inner meaning of life, which humanity has at present drifted so far from.\nAs regards your question: Bahá’u’lláh is, of course, not God and not the Creator; but through Him we can know God, and because of this position of Divine Intermediary, in a sense, He is all (or the other Prophets) we can ever know of that Infinite Essence which is God. Therefore, we address ourselves in prayer and thought to Him, or through Him to that Infinite Essence behind and beyond Him."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 419,
+    "title": "From a letter dated 23 April 1957 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1957.0423, 1957.0423],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "We must not pray to the Guardian as to God; whoever we turn to when we pray, we must have the correct concept of the station of that person: Bahá’u’lláh as the Supreme Manifestation of God, the Master as the Perfect Man, the Centre of the Covenant, the Guardian as his functions are defined in the Master’s Will. The friends need only read the Writings; the answers are all in them; we have no priests in this Faith to interpret or answer for us."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 420,
+    "title": "From a letter dated 29 October 1938 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1938.1029, 1938.1029],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "With regard to your question as to the value of intuition as a source of guidance for the individual: implicit faith in our intuitive powers is unwise, but through daily prayer and sustained effort one can discover, though not always and fully, God’s will intuitively. Under no circumstances, however, can a person be absolutely certain that he is recognising God’s will, through the exercise of his intuition. It often happens that the latter results in completely misrepresenting the truth, and thus becomes a source of error rather than of guidance."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 421,
+    "title": "From a letter dated 8 August 1942 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the British Isles",
+    "author": "Shoghi Effendi",
+    "years": [1942.0808, 1942.0808],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": ". . . the Guardian feels that it would be better for either the mothers of Bahá’í children, or some Committee your Assembly might delegate the task to, to choose excerpts from the Sacred Words to be used by the child rather than just something made up. Of course prayer can be purely spontaneous, but many of the sentences and thoughts combined in Bahá’í writings of a devotional nature are easy to grasp, and the revealed Word is endowed with a power of its own."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 422,
+    "title": "From a letter dated 27 September 1947 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1947.0927, 1947.0927],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": ". . . as the Cause embraces members of all races and religions we should be careful not to introduce into it the customs of our previous beliefs. Bahá’u’lláh has given us the obligatory prayers, also prayers before sleeping, for travellers, etc. We should not introduce a new set of prayers He has not specified, when He has given us already so many, for so many occasions."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 423,
+    "title": "From a letter dated 18 March 1950 written on behalf of Shoghi Effendi to the Local Spiritual Assembly of Punta Arenas, Chile",
+    "author": "Shoghi Effendi",
+    "years": [1950.0318, 1950.0318],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "He suggests that, in addition to your usual teaching work there, you make a special point of praying ardently not only for success in general, but that God may send to you the souls that are ready. There are such souls in every city, but to find them and make the right contact is not easy."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 424,
+    "title": "From a letter dated 18 March 1951 written on behalf of Shoghi Effendi to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1951.0318, 1951.0318],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "Regarding your question about prayer and the fact that some of our problems are not solved through prayer, we must always realise that life brings to us many situations, some of which are tests sent from God to train our characters, some of which are accidental because we live in the world of nature and are subject to the accidents of death, disease, etc., and some of which we bring on ourselves by folly, selfishness or some other weak human trait."
+      },
+      {
+        "text": "It is not correct to say that because a loved one dies, or is not cured of a disease, or a problem is not solved, that God did not answer our prayer, or that we did not pray to Him in a way to receive a favourable answer. Maybe what we prayed for was not the Will of God or was the result of an accident and it produced an irrevocable conclusion like death or disease or bankruptcy etc."
+      },
+      {
+        "text": "As you say, sometimes the Bahá’ís believe that they are carrying out the Will of God and yet we see that the results are very bad; we must therefore assume that they were deluding themselves into believing that their decision and course of action was according to His Will. What it all amounts to is this, that we should supplicate God, but always with the reservation that we prefer His Will to ours. We should also live up to the Laws of His Teachings, for the more we do this, the more we are exemplary believers, the more sure we will be of receiving a greater degree of His guidance."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 425,
+    "title": "From a letter dated 11 June 1956 written on behalf of Shoghi Effendi to a Bahá’í Study Group in Columbus, Ohio",
+    "author": "Shoghi Effendi",
+    "years": [1956.0611, 1956.0611],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "The Guardian will pray for the quickening of your souls, the unfolding of the divine mysteries, and the blessings of the Holy Spirit. It is the Holy Spirit that gives new life, and this can today be found in rich abundance, in the Writings of Bahá’u’lláh. His Words and Teachings are the Water of Life, and the sustenance of spiritual growth. Therefore you should study the Word carefully, meditate on its import and, having been touched by its spirit, associate your mind and heart with its atmosphere, then the way will become clear, and the doors be opened."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 426,
+    "title": "5 November 1934 to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1934.1105, 1934.1105],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "Concerning the directions given by Bahá’u’lláh for the recital of certain prayers, Shoghi Effendi wishes me to inform you that these regulations—which by the way are very few and simple—are of a great spiritual help to the individual believer, in that they help him to fully concentrate when praying and meditating. Their significance is thus purely spiritual."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 427,
+    "title": "15 November 1935 to two believers",
+    "author": "Shoghi Effendi",
+    "years": [1935.1115, 1935.1115],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "In prayer the believers can turn their consciousness toward the Shrine of Bahá’u’lláh, provided that in doing so they have a clear and correct understanding of His station as a Manifestation of God."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 428,
+    "title": "20 November 1937 to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1937.112, 1937.112],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "The Guardian wishes me to assure you that he sees no objection to the friends coming together for meditation and prayer. Such a communion helps in fostering fellowship among the believers, and as such is highly commendable."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 429,
+    "title": "1 May 1938 to an individual believer and a Local Spiritual Assembly",
+    "author": "Shoghi Effendi",
+    "years": [1938.0501, 1938.0501],
+    "epoch": "First Epoch",
+    "paragraphs": [
+      {
+        "text": "[. . .] was a matter of deepest [. . .] to the Guardian to hear of the news of the formation in Honolulu of a Morning Class of prayer and meditation conducted by dear Mrs. . . . in her home, inasmuch as he feels the absolute necessity for the friends to make now a special effort to cultivate the devotional side of their Bahá’í life in preparation for a more intensified and successful service, particularly in the teaching field."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 430,
+    "title": "8 June 1948 to an individual believer",
+    "author": "Shoghi Effendi",
+    "years": [1948.0608, 1948.0608],
+    "epoch": "Second Epoch",
+    "paragraphs": [
+      {
+        "text": "I might add that he does not believe any radiations of thought or healing, from any group, are going to bring peace. Prayer, no doubt, will help the world, but what it needs is to accept Bahá’u’lláh’s system so as to build up the World Order on a new foundation, a divine foundation!"
       }
     ]
   }

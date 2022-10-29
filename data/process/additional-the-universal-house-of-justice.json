@@ -1485,19 +1485,6 @@
   {
     "path": ["Additional"],
     "item": 83,
-    "title": "The Universal House of Justice, from a message dated 18 December 2014 to the Bahá’ís in Írán",
-    "author": "The Universal House of Justice",
-    "years": [2014.1218, 2014.1218],
-    "epoch": "Fifth Epoch",
-    "paragraphs": [
-      {
-        "text": "As the place from which spiritual forces are to radiate, the Mashriqu’l‑Adhkár is the focal point for dependencies to be raised up for the well‑being of humanity and is the expression of a common will and eagerness to serve. These dependencies—centres of education and scientific learning as well as cultural and humanitarian endeavour—embody the ideals of social and spiritual progress to be achieved through the application of knowledge, and demonstrate how, when religion and science are in harmony, they elevate the station of the human being and lead to the flourishing of civilisation. As your lives amply demonstrate, worship, though essential to the inner life of the human being and vital to spiritual development, must also lead to deeds that give outward expression to that inner transformation. This concept of worship—inseparable from service—is promulgated by the Mashriqu’l‑Adhkár."
-      }
-    ]
-  },
-  {
-    "path": ["Additional"],
-    "item": 84,
     "title": "From a letter dated 8 May 1984 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1984.0508, 1984.0508],
@@ -1516,7 +1503,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 85,
+    "item": 84,
     "title": "From a letter dated 30 July 1996 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1996.073, 1996.073],
@@ -1529,7 +1516,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 86,
+    "item": 85,
     "title": "The Universal House of Justice, from a memorandum dated 11 March 1997 to the Office of Social and Economic Development",
     "author": "The Universal House of Justice",
     "years": [1997.0311, 1997.0311],
@@ -1551,7 +1538,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 87,
+    "item": 86,
     "title": "From a letter dated 6 September 2006 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2006.0906, 2006.0906],
@@ -1564,7 +1551,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 88,
+    "item": 87,
     "title": "From a letter dated 11 September 2008 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2008.0911, 2008.0911],
@@ -1577,7 +1564,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 89,
+    "item": 88,
     "title": "From a letter dated 16 June 2009 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2009.0616, 2009.0616],
@@ -1590,7 +1577,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 90,
+    "item": 89,
     "title": "From a letter dated 18 July 2010 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2010.0718, 2010.0718],
@@ -1603,7 +1590,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 91,
+    "item": 90,
     "title": "From a letter dated 22 October 2012 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2012.1022, 2012.1022],
@@ -1616,7 +1603,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 92,
+    "item": 91,
     "title": "From a letter dated 19 April 2013 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2013.0419, 2013.0419],
@@ -1629,7 +1616,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 93,
+    "item": 92,
     "title": "From a letter dated 30 December 2014 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2014.123, 2014.123],
@@ -1642,7 +1629,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 94,
+    "item": 93,
     "title": "From a letter dated 22 December 1983 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1983.1222, 1983.1222],
@@ -1658,7 +1645,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 95,
+    "item": 94,
     "title": "The Universal House of Justice, from a memorandum dated 27 April 1998 to the Office of Social and Economic Development",
     "author": "The Universal House of Justice",
     "years": [1998.0427, 1998.0427],
@@ -1677,7 +1664,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 96,
+    "item": 95,
     "title": "From a letter dated 11 June 2006 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2006.0611, 2006.0611],
@@ -1690,7 +1677,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 97,
+    "item": 96,
     "title": "From a letter dated 1 October 2015 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2015.1001, 2015.1001],
@@ -1703,7 +1690,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 98,
+    "item": 97,
     "title": "From a letter dated 9 April 2017 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2017.0409, 2017.0409],
@@ -1716,7 +1703,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 99,
+    "item": 98,
     "title": "From a letter dated 27 July 1976 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1976.0727, 1976.0727],
@@ -1729,7 +1716,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 100,
+    "item": 99,
     "title": "From a letter dated 12 December 2013 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2013.1212, 2013.1212],
@@ -1742,7 +1729,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 101,
+    "item": 100,
     "title": "From a letter dated 26 January 2015 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2015.0126, 2015.0126],
@@ -1755,7 +1742,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 102,
+    "item": 101,
     "title": "From a letter dated 21 January 2014 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2014.0121, 2014.0121],
@@ -1768,7 +1755,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 103,
+    "item": 102,
     "title": "From a letter dated 22 October 2012 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2012.1022, 2012.1022],
@@ -1781,7 +1768,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 104,
+    "item": 103,
     "title": "From a letter dated 13 November 1985 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1985.1113, 1985.1113],
@@ -1797,7 +1784,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 105,
+    "item": 104,
     "title": "From a letter dated 27 November 2001 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2001.1127, 2001.1127],
@@ -1816,7 +1803,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 106,
+    "item": 105,
     "title": "From a letter dated 31 July 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0731, 2002.0731],
@@ -1838,7 +1825,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 107,
+    "item": 106,
     "title": "From a letter dated 15 November 2000 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2000.1115, 2000.1115],
@@ -1851,7 +1838,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 108,
+    "item": 107,
     "title": "From a letter dated 9 April 2008 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2008.0409, 2008.0409],
@@ -1864,7 +1851,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 109,
+    "item": 108,
     "title": "From a letter dated 30 March 2011 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2011.033, 2011.033],
@@ -1880,7 +1867,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 110,
+    "item": 109,
     "title": "From a letter dated 30 December 2014 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2014.123, 2014.123],
@@ -1896,7 +1883,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 111,
+    "item": 110,
     "title": "From a letter dated 4 April 2018 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2018.0404, 2018.0404],
@@ -1909,7 +1896,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 112,
+    "item": 111,
     "title": "From a letter dated 28 July 2016 written on behalf of the Universal House of Justice",
     "author": "The Universal House of Justice",
     "years": [2016.0728, 2016.0728],
@@ -1922,7 +1909,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 113,
+    "item": 112,
     "title": "From an unpublished letter dated 2 January 1990 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1990.0102, 1990.0102],
@@ -1935,7 +1922,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 114,
+    "item": 113,
     "title": "From an unpublished letter dated 5 November 1987 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1987.1105, 1987.1105],
@@ -1951,7 +1938,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 115,
+    "item": 114,
     "title": "From an unpublished letter dated 22 March 2012 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2012.0322, 2012.0322],
@@ -1964,7 +1951,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 116,
+    "item": 115,
     "title": "From a letter dated 9 December 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Seychelles, cited in “Building Momentum: A Coherent Approach to Growth”, a document prepared by the International Teaching Centre, published in Turning Point: Selected Messages of the Universal House of Justice and Supplementary Material, 1996—2006, p. 391",
     "author": "The Universal House of Justice",
     "years": [2001.1209, 2001.1209],
@@ -1977,7 +1964,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 117,
+    "item": 116,
     "title": "From an unpublished letter dated 14 July 2015 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2015.0714, 2015.0714],
@@ -1990,20 +1977,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 118,
-    "title": "From an authorised English translation of an unpublished letter dated 18 December 2014 written by the Universal House of Justice to the Bahá’ís in Írán",
-    "author": "The Universal House of Justice",
-    "years": [2014.1218, 2014.1218],
-    "epoch": "Fifth Epoch",
-    "paragraphs": [
-      {
-        "text": "The Twin Luminaries of this resplendent age have taught us this: Prayer is the essential spiritual conversation of the soul with its Maker, direct and without intermediation. It is the spiritual food that sustains the life of the spirit. Like the morning’s dew, it brings freshness to the heart and cleanses it, purifying it from attachments of the insistent self. It is a fire that burns away the veils and a light that leads to the ocean of reunion with the Almighty. On its wings does the soul soar in the heavens of God and draw closer to the divine reality. Upon its quality depends the development of the limitless capacities of the soul and the attraction of the bounties of God, but the prolongation of prayer is not desirable. The powers latent in prayer are manifested when it is motivated by the love of God, beyond any fear or favour, and free from ostentation and superstition. It is to be expressed with a sincere and pure heart conducive to contemplation and meditation so that the rational faculty can be illumined by its effects. Such prayer will transcend the limitation of words and go well beyond mere sounds. The sweetness of its melodies must gladden and uplift the heart and reinforce the penetrating power of the Word, transmuting earthly inclinations into heavenly attributes and inspiring selfless service to humankind."
-      }
-    ]
-  },
-  {
-    "path": ["Additional"],
-    "item": 119,
+    "item": 117,
     "title": "From an unpublished letter dated 19 May 2015 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2015.0519, 2015.0519],
@@ -2019,7 +1993,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 120,
+    "item": 118,
     "title": "From an unpublished letter dated 28 December 2008 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2008.1228, 2008.1228],
@@ -2032,7 +2006,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 121,
+    "item": 119,
     "title": "From a message dated 21 April 2008 addressed by the Universal House of Justice to the delegates attending the Tenth International Bahá’í Convention, published in Attaining the Dynamics of Growth: Glimpses from Five Continents, prepared by the International Teaching Centre, p. 3",
     "author": "The Universal House of Justice",
     "years": [2008.0421, 2008.0421],
@@ -2045,7 +2019,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 122,
+    "item": 120,
     "title": "From an unpublished letter dated 19 April 2007 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2007.0419, 2007.0419],
@@ -2058,7 +2032,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 123,
+    "item": 121,
     "title": "From an unpublished letter dated 23 February 1995 written on behalf of the Universal House of Justice to selected National Spiritual Assemblies",
     "author": "The Universal House of Justice",
     "years": [1995.0223, 1995.0223],
@@ -2071,7 +2045,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 124,
+    "item": 122,
     "title": "From a letter dated 23 November 1983 written on behalf of the Universal House of Justice to an individual believer, published in Lights of Guidance: A Bahá’í Reference File, compiled by Helen Bassett Hornby, pp. 359—60",
     "author": "The Universal House of Justice",
     "years": [1983.1123, 1983.1123],
@@ -2084,7 +2058,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 125,
+    "item": 123,
     "title": "From an unpublished letter dated 19 July 2006 written on behalf of the Universal House of Justice to two individual believers",
     "author": "The Universal House of Justice",
     "years": [2006.0719, 2006.0719],
@@ -2097,7 +2071,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 126,
+    "item": 124,
     "title": "From a memorandum dated 16 November 1988 written by Universal House of Justice to the International Teaching Centre, The Sanctity and Nature of Bahá’í Elections, no. 18, p. 4",
     "author": "The Universal House of Justice",
     "years": [1988.1116, 1988.1116],
@@ -2110,7 +2084,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 127,
+    "item": 125,
     "title": "From a memorandum dated 16 November 1988 written by the Universal House of Justice to the International Teaching Centre, The Sanctity and Nature of Bahá’í Elections, no. 29, p. 7",
     "author": "The Universal House of Justice",
     "years": [1988.1116, 1988.1116],
@@ -2123,7 +2097,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 128,
+    "item": 126,
     "title": "From a memorandum dated 16 November 1988 written by the Universal House of Justice to the International Teaching Centre, The Sanctity and Nature of Bahá’í Elections, no. 18, p. 4",
     "author": "The Universal House of Justice",
     "years": [1988.1116, 1988.1116],
@@ -2136,7 +2110,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 129,
+    "item": 127,
     "title": "From a cablegram dated 5 April 1974 sent by the Universal House of Justice to all National Spiritual Assemblies, published in Messages from the Universal House of Justice, 1963—1986, p. 271",
     "author": "The Universal House of Justice",
     "years": [1974.0405, 1974.0405],
@@ -2149,7 +2123,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 130,
+    "item": 128,
     "title": "From a letter dated 30 March 1976 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1976.033, 1976.033],
@@ -2162,7 +2136,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 131,
+    "item": 129,
     "title": "From a letter dated 24 July 2011 to an individual believer signed by the Department of the Secretariat of the Universal House of Justice",
     "author": "The Universal House of Justice",
     "years": [2011.0724, 2011.0724],
@@ -2175,7 +2149,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 132,
+    "item": 130,
     "title": "From a letter dated 9 April 2008 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2008.0409, 2008.0409],
@@ -2188,7 +2162,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 133,
+    "item": 131,
     "title": "From a cablegram sent on 26 November 1972 by the Universal House of Justice, published in Messages from the Universal House of Justice, 1963—1986, no. 123, p. 229",
     "author": "The Universal House of Justice",
     "years": [1972.1126, 1972.1126],
@@ -2201,7 +2175,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 134,
+    "item": 132,
     "title": "From a message dated 21 April 2008 written by the Universal House of Justice to the delegates attending the Tenth International Bahá’í Convention, published in Attaining the Dynamics of Growth: Glimpses from Five Continents, prepared by the International Teaching Centre, p. 2",
     "author": "The Universal House of Justice",
     "years": [2008.0421, 2008.0421],
@@ -2214,7 +2188,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 135,
+    "item": 133,
     "title": "From a message dated 21 April 2008 written by the Universal House of Justice to the delegates attending the Tenth International Bahá’í Convention, published in Attaining the Dynamics of Growth: Glimpses from Five Continents, prepared by the International Teaching Centre, p. 3",
     "author": "The Universal House of Justice",
     "years": [2008.0421, 2008.0421],
@@ -2227,7 +2201,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 136,
+    "item": 134,
     "title": "From a letter dated 21 January 1998 written on behalf of the House of Justice to the National Spiritual Assembly of Brazil, in “Training Institutes”, a document prepared for and approved by the Universal House of Justice, published in Turning Point, p. 335",
     "author": "The Universal House of Justice",
     "years": [1998.0121, 1998.0121],
@@ -2240,7 +2214,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 137,
+    "item": 135,
     "title": "From an unpublished letter dated 12 December 2000 written on behalf of the Universal House of Justice to two individual believers",
     "author": "The Universal House of Justice",
     "years": [2000.1212, 2000.1212],
@@ -2253,7 +2227,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 138,
+    "item": 136,
     "title": "From an unpublished letter dated 28 January 2013 from the Department of the Secretariat of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2013.0128, 2013.0128],
@@ -2266,7 +2240,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 139,
+    "item": 137,
     "title": "From an unpublished letter dated 2 April 2007 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2007.0402, 2007.0402],
@@ -2279,7 +2253,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 140,
+    "item": 138,
     "title": "From an unpublished letter dated 19 August 1998 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1998.0819, 1998.0819],
@@ -2292,7 +2266,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 141,
+    "item": 139,
     "title": "From an unpublished letter dated 21 November 2002 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2002.1121, 2002.1121],
@@ -2305,7 +2279,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 142,
+    "item": 140,
     "title": "From an unpublished message dated 30 May 2004 written by the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2004.053, 2004.053],
@@ -2318,7 +2292,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 143,
+    "item": 141,
     "title": "From an unpublished letter dated 20 August 2001 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2001.082, 2001.082],
@@ -2331,7 +2305,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 144,
+    "item": 142,
     "title": "From an unpublished letter dated 21 January 1998 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1998.0121, 1998.0121],
@@ -2344,7 +2318,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 145,
+    "item": 143,
     "title": "From a message dated 15 September 1996 written by the Universal House of Justice to the Bahá’ís of the world, published in Messages from the Universal House of Justice, 1986—2001, no. 235, p. 553",
     "author": "The Universal House of Justice",
     "years": [1996.0915, 1996.0915],
@@ -2357,7 +2331,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 146,
+    "item": 144,
     "title": "From a statement of the Universal House of Justice dated 22 May 2001 read on the occasion of the official opening of the Terraces of the Shrine of the Báb",
     "author": "The Universal House of Justice",
     "years": [2001.0522, 2001.0522],
@@ -2385,7 +2359,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 147,
+    "item": 145,
     "title": "From an unpublished letter dated 27 August 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0827, 2002.0827],
@@ -2398,7 +2372,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 148,
+    "item": 146,
     "title": "From an unpublished letter dated 24 April 2013 written on behalf of the Universal House of Justice to individual believers",
     "author": "The Universal House of Justice",
     "years": [2013.0424, 2013.0424],
@@ -2411,7 +2385,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 149,
+    "item": 147,
     "title": "From an unpublished letter dated 9 July 2003 written on behalf of the Universal House of Justice to an individual believer; also found, in part, in a letter dated 14 August 2002 written on its behalf to an individual believer, quoted in “Global Plans: Fundamental Concepts”, published in Turning Point: Selected Messages of the Universal House of Justice and Supplementary Material, 1996—2006, no. 41.1, p. 235",
     "author": "The Universal House of Justice",
     "years": [2003.0709, 2003.0709],
@@ -2424,7 +2398,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 150,
+    "item": 148,
     "title": "From an unpublished letter dated 6 March 2008 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2008.0306, 2008.0306],
@@ -2437,7 +2411,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 151,
+    "item": 149,
     "title": "Extract from a letter written on behalf of the Universal House of Justice to a National Spiritual Assembly on 4 April 1976",
     "author": "The Universal House of Justice",
     "years": [1976.0404, 1976.0404],
@@ -2450,7 +2424,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 152,
+    "item": 150,
     "title": "Letter dated 14 April 1975 written on behalf of the House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1975.0414, 1975.0414],
@@ -2466,7 +2440,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 153,
+    "item": 151,
     "title": "Letter of 21 July 1968 to the National Spiritual Assembly of the Bahá’ís of the United States",
     "author": "The Universal House of Justice",
     "years": [1968.0721, 1968.0721],
@@ -2479,7 +2453,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 154,
+    "item": 152,
     "title": "Memorandum dated 20 September 1994 from the Research Department of the House of Justice",
     "author": "The Universal House of Justice",
     "years": [1994.092, 1994.092],
@@ -2492,7 +2466,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 155,
+    "item": 153,
     "title": "Memorandum on Bahá’í publishing dated Riḍván 1971, to National Spiritual Assemblies",
     "author": "The Universal House of Justice",
     "years": [1971, 1971],
@@ -2505,7 +2479,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 156,
+    "item": 154,
     "title": "From a letter dated 7 May 1970 to the National Spiritual Assembly of North East Africa",
     "author": "The Universal House of Justice",
     "years": [1970.0507, 1970.0507],
@@ -2518,7 +2492,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 157,
+    "item": 155,
     "title": "Letter of 29 July 1996 to an individual",
     "author": "The Universal House of Justice",
     "years": [1996.0729, 1996.0729],
@@ -2531,7 +2505,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 158,
+    "item": 156,
     "title": "Letter of 14 December 1987",
     "author": "The Universal House of Justice",
     "years": [1987.1214, 1987.1214],
@@ -2547,7 +2521,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 159,
+    "item": 157,
     "title": "Letter dated 14 November 2012 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the United States",
     "author": "The Universal House of Justice",
     "years": [2012.1114, 2012.1114],
@@ -2563,7 +2537,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 160,
+    "item": 158,
     "title": "Letter dated 20 March 2002 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Austria",
     "author": "The Universal House of Justice",
     "years": [2002.032, 2002.032],
@@ -2576,7 +2550,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 161,
+    "item": 159,
     "title": "Letter dated 8 April 2002 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Bolivia",
     "author": "The Universal House of Justice",
     "years": [2002.0408, 2002.0408],
@@ -2589,7 +2563,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 162,
+    "item": 160,
     "title": "Letter dated 3 June 2001 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2001.0603, 2001.0603],
@@ -2602,7 +2576,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 163,
+    "item": 161,
     "title": "Letter dated 31 May 2001 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2001.0531, 2001.0531],
@@ -2615,7 +2589,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 164,
+    "item": 162,
     "title": "Letter dated 4 October 2000 written on behalf of the Universal House of Justice to the Spiritual Assembly of the Andaman and Nicobar Islands",
     "author": "The Universal House of Justice",
     "years": [2000.1004, 2000.1004],
@@ -2628,7 +2602,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 165,
+    "item": 163,
     "title": "Letter dated 23 October 2000 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Kenya",
     "author": "The Universal House of Justice",
     "years": [2000.1023, 2000.1023],
@@ -2641,7 +2615,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 166,
+    "item": 164,
     "title": "Letter dated 3 June 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Union of Myanmar",
     "author": "The Universal House of Justice",
     "years": [2001.0603, 2001.0603],
@@ -2654,7 +2628,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 167,
+    "item": 165,
     "title": "Letter dated 3 June 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Union of Myanmar",
     "author": "The Universal House of Justice",
     "years": [2001.0603, 2001.0603],
@@ -2667,7 +2641,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 168,
+    "item": 166,
     "title": "Letter dated 8 September 2000 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Eritrea",
     "author": "The Universal House of Justice",
     "years": [2000.0908, 2000.0908],
@@ -2680,7 +2654,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 169,
+    "item": 167,
     "title": "Letter dated 3 April 2000 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Guyana",
     "author": "The Universal House of Justice",
     "years": [2000.0403, 2000.0403],
@@ -2693,7 +2667,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 170,
+    "item": 168,
     "title": "Letter dated 23 December 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Brazil",
     "author": "The Universal House of Justice",
     "years": [2001.1223, 2001.1223],
@@ -2712,7 +2686,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 171,
+    "item": 169,
     "title": "Letter dated 9 December 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Seychelles",
     "author": "The Universal House of Justice",
     "years": [2001.1209, 2001.1209],
@@ -2725,7 +2699,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 172,
+    "item": 170,
     "title": "Letter dated 12 August 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0812, 2002.0812],
@@ -2738,7 +2712,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 173,
+    "item": 171,
     "title": "Letter dated 26 June 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0626, 2002.0626],
@@ -2754,7 +2728,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 174,
+    "item": 172,
     "title": "Letter 9 February 1989, Universal House of Justice",
     "author": "The Universal House of Justice",
     "years": [1989.0209, 1989.0209],
@@ -2767,7 +2741,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 175,
+    "item": 173,
     "title": "31 October 1967, Universal House of Justice. Cf. Messages from the Universal House of Justice 1963‑1986, pp. 118‑119; and Wellspring of Guidance, pp. 124‑5 and Nine Year Plan, p. 117",
     "author": "The Universal House of Justice",
     "years": [1967.1031, 1967.1031],
@@ -2786,7 +2760,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 176,
+    "item": 174,
     "title": "14 February 1972, Universal House of Justice. Published in Messages from the Universal House of Justice, 1968‑1973, pp. 85‑6",
     "author": "The Universal House of Justice",
     "years": [1972.0214, 1972.0214],
@@ -2802,7 +2776,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 177,
+    "item": 175,
     "title": "27 July 1980, Universal House of Justice",
     "author": "The Universal House of Justice",
     "years": [1980.0727, 1980.0727],
@@ -2815,7 +2789,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 178,
+    "item": 176,
     "title": "13 November 1986, on behalf Universal House of Justice",
     "author": "The Universal House of Justice",
     "years": [1986.1113, 1986.1113],
@@ -2828,7 +2802,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 179,
+    "item": 177,
     "title": "11 August 1988, on behalf Universal House of Justice",
     "author": "The Universal House of Justice",
     "years": [1988.0811, 1988.0811],
@@ -2841,7 +2815,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 180,
+    "item": 178,
     "title": "1 November 1988, on behalf Universal House of Justice",
     "author": "The Universal House of Justice",
     "years": [1988.1101, 1988.1101],
@@ -2854,7 +2828,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 181,
+    "item": 179,
     "title": "12 September 1991, on behalf Universal House of Justice",
     "author": "The Universal House of Justice",
     "years": [1991.0912, 1991.0912],
@@ -2867,7 +2841,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 182,
+    "item": 180,
     "title": "Letter dated 7 August 2012 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Germany",
     "author": "The Universal House of Justice",
     "years": [2012.0807, 2012.0807],
@@ -2880,7 +2854,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 183,
+    "item": 181,
     "title": "Letter dated 7 May 2004 written by the Universal House of Justice to the National Spiritual Assembly of India",
     "author": "The Universal House of Justice",
     "years": [2004.0507, 2004.0507],
@@ -2893,7 +2867,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 184,
+    "item": 182,
     "title": "Letter dated 26 November 2003 written on behalf of the Universal House of Justice to the National Spiritual Assembly of India",
     "author": "The Universal House of Justice",
     "years": [2003.1126, 2003.1126],
@@ -2906,7 +2880,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 185,
+    "item": 183,
     "title": "Letter dated 26 August 2003 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Mexico",
     "author": "The Universal House of Justice",
     "years": [2003.0826, 2003.0826],
@@ -2919,7 +2893,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 186,
+    "item": 184,
     "title": "Letter dated 16 September 2003 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Philippines",
     "author": "The Universal House of Justice",
     "years": [2003.0916, 2003.0916],
@@ -2938,7 +2912,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 187,
+    "item": 185,
     "title": "Letter dated 16 September 2003 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Philippines",
     "author": "The Universal House of Justice",
     "years": [2003.0916, 2003.0916],
@@ -2954,7 +2928,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 188,
+    "item": 186,
     "title": "Letter dated 14 February 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of India",
     "author": "The Universal House of Justice",
     "years": [2005.0214, 2005.0214],
@@ -2967,7 +2941,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 189,
+    "item": 187,
     "title": "Letter dated 17 November 2004 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2004.1117, 2004.1117],
@@ -2980,7 +2954,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 190,
+    "item": 188,
     "title": "Letter dated 18 August 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Germany",
     "author": "The Universal House of Justice",
     "years": [2005.0818, 2005.0818],
@@ -2993,7 +2967,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 191,
+    "item": 189,
     "title": "Letter dated 21 November 2003 written on behalf of the Universal House of Justice to the National Spiritual Assembly of India",
     "author": "The Universal House of Justice",
     "years": [2003.1121, 2003.1121],
@@ -3006,7 +2980,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 192,
+    "item": 190,
     "title": "Letter dated 27 May 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Russian Federation",
     "author": "The Universal House of Justice",
     "years": [2005.0527, 2005.0527],
@@ -3022,7 +2996,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 193,
+    "item": 191,
     "title": "Letter dated 27 October 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Democratic Republic of the Congo",
     "author": "The Universal House of Justice",
     "years": [2005.1027, 2005.1027],
@@ -3035,7 +3009,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 194,
+    "item": 192,
     "title": "Letter dated 19 October 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the United States",
     "author": "The Universal House of Justice",
     "years": [2005.1019, 2005.1019],
@@ -3051,7 +3025,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 195,
+    "item": 193,
     "title": "Letter dated 12 December 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the United States",
     "author": "The Universal House of Justice",
     "years": [2001.1212, 2001.1212],
@@ -3070,7 +3044,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 196,
+    "item": 194,
     "title": "Letter dated 27 May 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Russian Federation",
     "author": "The Universal House of Justice",
     "years": [2005.0527, 2005.0527],
@@ -3083,7 +3057,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 197,
+    "item": 195,
     "title": "Letter dated 3 March 1998 written on behalf of the Universal House of Justice to the Spiritual Assembly of Hong Kong",
     "author": "The Universal House of Justice",
     "years": [1998.0303, 1998.0303],
@@ -3096,7 +3070,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 198,
+    "item": 196,
     "title": "Letter dated 3 March 1999 written on behalf of the Universal House of Justice to the National Spiritual Assemblies of Cambodia, the Lao People’s Democratic Republic, Malaysia, Myanmar, the Philippines, Sabah, Sarawak, Singapore, and Thailand",
     "author": "The Universal House of Justice",
     "years": [1999.0303, 1999.0303],
@@ -3109,7 +3083,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 199,
+    "item": 197,
     "title": "Letter dated 29 June 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Western Caroline Islands",
     "author": "The Universal House of Justice",
     "years": [1997.0629, 1997.0629],
@@ -3122,7 +3096,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 200,
+    "item": 198,
     "title": "Letter dated 18 August 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Germany",
     "author": "The Universal House of Justice",
     "years": [2005.0818, 2005.0818],
@@ -3135,7 +3109,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 201,
+    "item": 199,
     "title": "Letter dated 9 December 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Seychelles",
     "author": "The Universal House of Justice",
     "years": [2001.1209, 2001.1209],
@@ -3148,7 +3122,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 202,
+    "item": 200,
     "title": "Letter dated 11 April 2005 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2005.0411, 2005.0411],
@@ -3161,7 +3135,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 203,
+    "item": 201,
     "title": "Letter dated 23 March 2003 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Trinidad and Tobago",
     "author": "The Universal House of Justice",
     "years": [2003.0323, 2003.0323],
@@ -3174,7 +3148,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 204,
+    "item": 202,
     "title": "Letter dated 31 July 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0731, 2002.0731],
@@ -3187,7 +3161,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 205,
+    "item": 203,
     "title": "Letter dated 14 August 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0814, 2002.0814],
@@ -3203,7 +3177,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 206,
+    "item": 204,
     "title": "Letter dated 11 April 2005 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2005.0411, 2005.0411],
@@ -3216,7 +3190,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 207,
+    "item": 205,
     "title": "Letter dated 31 July 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0731, 2002.0731],
@@ -3229,7 +3203,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 208,
+    "item": 206,
     "title": "Letter dated 19 October 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the United States",
     "author": "The Universal House of Justice",
     "years": [2005.1019, 2005.1019],
@@ -3245,7 +3219,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 209,
+    "item": 207,
     "title": "Letter dated 18 August 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Germany",
     "author": "The Universal House of Justice",
     "years": [2005.0818, 2005.0818],
@@ -3264,7 +3238,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 210,
+    "item": 208,
     "title": "Letter dated 18 September 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Côte d’Ivoire",
     "author": "The Universal House of Justice",
     "years": [1998.0918, 1998.0918],
@@ -3280,7 +3254,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 211,
+    "item": 209,
     "title": "Letter dated 10 August 1997 written on behalf of the Universal House of Justice to the National Spiritual Assemblies represented at the Fourth Bahá’í ASEAN Forum",
     "author": "The Universal House of Justice",
     "years": [1997.081, 1997.081],
@@ -3293,7 +3267,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 212,
+    "item": 210,
     "title": "Letter dated 7 April 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Belarus",
     "author": "The Universal House of Justice",
     "years": [1997.0407, 1997.0407],
@@ -3306,7 +3280,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 213,
+    "item": 211,
     "title": "Letter dated 25 December 2000 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Australia",
     "author": "The Universal House of Justice",
     "years": [2000.1225, 2000.1225],
@@ -3322,7 +3296,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 214,
+    "item": 212,
     "title": "Letter dated 13 August 2002 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Brazil",
     "author": "The Universal House of Justice",
     "years": [2002.0813, 2002.0813],
@@ -3335,7 +3309,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 215,
+    "item": 213,
     "title": "Letter dated 24 December 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the United States",
     "author": "The Universal House of Justice",
     "years": [2001.1224, 2001.1224],
@@ -3348,7 +3322,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 216,
+    "item": 214,
     "title": "Letter dated 25 March 2001 written on behalf of the Universal House of Justice to a Bahá’í agency",
     "author": "The Universal House of Justice",
     "years": [2001.0325, 2001.0325],
@@ -3361,7 +3335,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 217,
+    "item": 215,
     "title": "Letter dated 29 June 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Western Caroline Islands",
     "author": "The Universal House of Justice",
     "years": [1997.0629, 1997.0629],
@@ -3377,7 +3351,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 218,
+    "item": 216,
     "title": "Letter dated 4 July 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Russian Federation",
     "author": "The Universal House of Justice",
     "years": [2005.0704, 2005.0704],
@@ -3390,7 +3364,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 219,
+    "item": 217,
     "title": "Letter dated 2 September 2001 from the Department of the Secretariat of the Universal House of Justice to the National Spiritual Assembly of Paraguay",
     "author": "The Universal House of Justice",
     "years": [2001.0902, 2001.0902],
@@ -3403,7 +3377,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 220,
+    "item": 218,
     "title": "Letter dated 15 May 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the United States",
     "author": "The Universal House of Justice",
     "years": [2005.0515, 2005.0515],
@@ -3416,7 +3390,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 221,
+    "item": 219,
     "title": "Letter dated 18 August 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the United Kingdom",
     "author": "The Universal House of Justice",
     "years": [2005.0818, 2005.0818],
@@ -3429,7 +3403,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 222,
+    "item": 220,
     "title": "Letter dated 31 May 2005 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2005.0531, 2005.0531],
@@ -3442,7 +3416,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 223,
+    "item": 221,
     "title": "Letter dated 26 June 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0626, 2002.0626],
@@ -3455,7 +3429,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 224,
+    "item": 222,
     "title": "Letter dated 22 August 2004 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2004.0822, 2004.0822],
@@ -3468,7 +3442,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 225,
+    "item": 223,
     "title": "Letter dated 26 June 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0626, 2002.0626],
@@ -3484,7 +3458,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 226,
+    "item": 224,
     "title": "Letter dated 20 February 2003 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2003.022, 2003.022],
@@ -3497,7 +3471,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 227,
+    "item": 225,
     "title": "Letter dated 31 May 2001 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2001.0531, 2001.0531],
@@ -3510,7 +3484,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 228,
+    "item": 226,
     "title": "Letter dated 19 January 1997 written on behalf of the Universal House of Justice to the Spiritual Assembly of Thailand",
     "author": "The Universal House of Justice",
     "years": [1997.0119, 1997.0119],
@@ -3523,7 +3497,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 229,
+    "item": 227,
     "title": "Letter dated 16 March 2004 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Czech Republic",
     "author": "The Universal House of Justice",
     "years": [2004.0316, 2004.0316],
@@ -3536,7 +3510,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 230,
+    "item": 228,
     "title": "Letter dated 14 April 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Côte d’Ivoire",
     "author": "The Universal House of Justice",
     "years": [1998.0414, 1998.0414],
@@ -3549,7 +3523,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 231,
+    "item": 229,
     "title": "Letter dated 19 January 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Haiti",
     "author": "The Universal House of Justice",
     "years": [1998.0119, 1998.0119],
@@ -3562,7 +3536,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 232,
+    "item": 230,
     "title": "Letter dated 24 May 2001 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2001.0524, 2001.0524],
@@ -3575,7 +3549,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 233,
+    "item": 231,
     "title": "Letter dated 23 December 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Brazil",
     "author": "The Universal House of Justice",
     "years": [2001.1223, 2001.1223],
@@ -3588,7 +3562,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 234,
+    "item": 232,
     "title": "Letter dated 11 May 2003 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Ethiopia",
     "author": "The Universal House of Justice",
     "years": [2003.0511, 2003.0511],
@@ -3601,7 +3575,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 235,
+    "item": 233,
     "title": "Letter dated 9 June 2002 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Uganda",
     "author": "The Universal House of Justice",
     "years": [2002.0609, 2002.0609],
@@ -3614,7 +3588,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 236,
+    "item": 234,
     "title": "Letter dated 19 May 2004 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2004.0519, 2004.0519],
@@ -3627,7 +3601,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 237,
+    "item": 235,
     "title": "Letter dated 17 May 2004 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Sarawak",
     "author": "The Universal House of Justice",
     "years": [2004.0517, 2004.0517],
@@ -3640,7 +3614,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 238,
+    "item": 236,
     "title": "Letter dated 18 June 2001 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Finland",
     "author": "The Universal House of Justice",
     "years": [2001.0618, 2001.0618],
@@ -3653,7 +3627,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 239,
+    "item": 237,
     "title": "Letter dated 23 April 2004 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2004.0423, 2004.0423],
@@ -3666,7 +3640,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 240,
+    "item": 238,
     "title": "Letter dated 25 September 2001 written on behalf of the Universal House of Justice to the Spiritual Assembly of Argentina",
     "author": "The Universal House of Justice",
     "years": [2001.0925, 2001.0925],
@@ -3685,7 +3659,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 241,
+    "item": 239,
     "title": "Letter dated 27 April 2004 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2004.0427, 2004.0427],
@@ -3698,7 +3672,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 242,
+    "item": 240,
     "title": "Letter dated 4 May 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Kazakhstan",
     "author": "The Universal House of Justice",
     "years": [2005.0504, 2005.0504],
@@ -3711,7 +3685,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 243,
+    "item": 241,
     "title": "Letter dated 20 March 2002 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Austria",
     "author": "The Universal House of Justice",
     "years": [2002.032, 2002.032],
@@ -3724,7 +3698,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 244,
+    "item": 242,
     "title": "Letter dated 5 August 2004 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Canada",
     "author": "The Universal House of Justice",
     "years": [2004.0805, 2004.0805],
@@ -3740,7 +3714,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 245,
+    "item": 243,
     "title": "Letter dated 26 June 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0626, 2002.0626],
@@ -3753,7 +3727,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 246,
+    "item": 244,
     "title": "Letter dated 22 August 2002 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2002.0822, 2002.0822],
@@ -3766,7 +3740,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 247,
+    "item": 245,
     "title": "Letter dated 10 July 2005 from the Department of the Secretariat of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2005.071, 2005.071],
@@ -3779,7 +3753,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 248,
+    "item": 246,
     "title": "Letter dated 16 March 2004 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2004.0316, 2004.0316],
@@ -3792,7 +3766,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 249,
+    "item": 247,
     "title": "Letter dated 20 February 2003 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2003.022, 2003.022],
@@ -3805,7 +3779,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 250,
+    "item": 248,
     "title": "Memorandum dated 9 April 1996 written by the Universal House of Justice to the International Teaching Centre",
     "author": "The Universal House of Justice",
     "years": [1996.0409, 1996.0409],
@@ -3818,7 +3792,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 251,
+    "item": 249,
     "title": "Letter dated 11 September 2005 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2005.0911, 2005.0911],
@@ -3834,7 +3808,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 252,
+    "item": 250,
     "title": "Letter dated 18 August 2005 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Germany",
     "author": "The Universal House of Justice",
     "years": [2005.0818, 2005.0818],
@@ -3847,7 +3821,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 253,
+    "item": 251,
     "title": "Letter dated 14 September 2005 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2005.0914, 2005.0914],
@@ -3860,7 +3834,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 254,
+    "item": 252,
     "title": "Letter dated 19 November 1998 written on behalf of the Universal House of Justice to the Spiritual Assembly of Chad",
     "author": "The Universal House of Justice",
     "years": [1998.1119, 1998.1119],
@@ -3873,7 +3847,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 255,
+    "item": 253,
     "title": "Letter dated 10 August 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the United States",
     "author": "The Universal House of Justice",
     "years": [1998.081, 1998.081],
@@ -3886,7 +3860,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 256,
+    "item": 254,
     "title": "Letter dated 9 December 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Russian Federation",
     "author": "The Universal House of Justice",
     "years": [1998.1209, 1998.1209],
@@ -3899,7 +3873,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 257,
+    "item": 255,
     "title": "Letter dated 19 October 1997 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1997.1019, 1997.1019],
@@ -3912,7 +3886,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 258,
+    "item": 256,
     "title": "Letter dated 27 March 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Vanuatu",
     "author": "The Universal House of Justice",
     "years": [1998.0327, 1998.0327],
@@ -3925,7 +3899,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 259,
+    "item": 257,
     "title": "Letter dated 18 March 1999 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the United Kingdom",
     "author": "The Universal House of Justice",
     "years": [1999.0318, 1999.0318],
@@ -3938,7 +3912,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 260,
+    "item": 258,
     "title": "Letter dated 18 January 1999 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1999.0118, 1999.0118],
@@ -3951,7 +3925,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 261,
+    "item": 259,
     "title": "Letter dated 29 July 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Bolivia",
     "author": "The Universal House of Justice",
     "years": [1998.0729, 1998.0729],
@@ -3964,7 +3938,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 262,
+    "item": 260,
     "title": "Letter dated 9 October 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Papua New Guinea",
     "author": "The Universal House of Justice",
     "years": [1998.1009, 1998.1009],
@@ -3977,7 +3951,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 263,
+    "item": 261,
     "title": "Letter dated 16 March 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Tonga",
     "author": "The Universal House of Justice",
     "years": [1998.0316, 1998.0316],
@@ -3990,7 +3964,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 264,
+    "item": 262,
     "title": "Letter dated 14 April 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Côte d’Ivoire",
     "author": "The Universal House of Justice",
     "years": [1998.0414, 1998.0414],
@@ -4003,7 +3977,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 265,
+    "item": 263,
     "title": "Letter dated 5 October 1998 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1998.1005, 1998.1005],
@@ -4016,7 +3990,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 266,
+    "item": 264,
     "title": "Letter dated 9 October 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Papua New Guinea",
     "author": "The Universal House of Justice",
     "years": [1998.1009, 1998.1009],
@@ -4029,7 +4003,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 267,
+    "item": 265,
     "title": "Letter dated 10 December 1998 written on behalf of the Universal House of Justice an individual believer",
     "author": "The Universal House of Justice",
     "years": [1998.121, 1998.121],
@@ -4042,7 +4016,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 268,
+    "item": 266,
     "title": "Letter dated 5 October 1998 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1998.1005, 1998.1005],
@@ -4055,7 +4029,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 269,
+    "item": 267,
     "title": "Letter dated 20 May 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Tanzania",
     "author": "The Universal House of Justice",
     "years": [1998.052, 1998.052],
@@ -4068,7 +4042,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 270,
+    "item": 268,
     "title": "Letter dated 22 September 1999 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Norway",
     "author": "The Universal House of Justice",
     "years": [1999.0922, 1999.0922],
@@ -4081,7 +4055,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 271,
+    "item": 269,
     "title": "Letter dated 10 April 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of India",
     "author": "The Universal House of Justice",
     "years": [1998.041, 1998.041],
@@ -4094,7 +4068,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 272,
+    "item": 270,
     "title": "Memorandum dated 3 April 1997 written by the Universal House of Justice to the International Teaching Centre",
     "author": "The Universal House of Justice",
     "years": [1997.0403, 1997.0403],
@@ -4107,7 +4081,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 273,
+    "item": 271,
     "title": "Letter dated 1 June 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Uganda",
     "author": "The Universal House of Justice",
     "years": [1997.0601, 1997.0601],
@@ -4120,7 +4094,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 274,
+    "item": 272,
     "title": "Letter dated 29 August 1996 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1996.0829, 1996.0829],
@@ -4133,7 +4107,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 275,
+    "item": 273,
     "title": "Letter dated 29 July 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Sweden",
     "author": "The Universal House of Justice",
     "years": [1997.0729, 1997.0729],
@@ -4146,7 +4120,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 276,
+    "item": 274,
     "title": "Letter dated 8 May 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Bulgaria",
     "author": "The Universal House of Justice",
     "years": [1997.0508, 1997.0508],
@@ -4162,7 +4136,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 277,
+    "item": 275,
     "title": "Memorandum dated 10 July 1997 written by the Universal House of Justice to the International Teaching Centre",
     "author": "The Universal House of Justice",
     "years": [1997.071, 1997.071],
@@ -4175,7 +4149,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 278,
+    "item": 276,
     "title": "Letter dated 16 May 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Honduras",
     "author": "The Universal House of Justice",
     "years": [1997.0516, 1997.0516],
@@ -4188,7 +4162,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 279,
+    "item": 277,
     "title": "Letter dated 5 February 1997 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1997.0205, 1997.0205],
@@ -4204,7 +4178,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 280,
+    "item": 278,
     "title": "Letter dated 21 January 1998 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Brazil",
     "author": "The Universal House of Justice",
     "years": [1998.0121, 1998.0121],
@@ -4217,7 +4191,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 281,
+    "item": 279,
     "title": "Letter dated 14 November 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of El Salvador",
     "author": "The Universal House of Justice",
     "years": [1997.1114, 1997.1114],
@@ -4230,7 +4204,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 282,
+    "item": 280,
     "title": "Letter dated 3 April 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Brazil",
     "author": "The Universal House of Justice",
     "years": [1997.0403, 1997.0403],
@@ -4243,7 +4217,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 283,
+    "item": 281,
     "title": "Letter dated 24 December 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of India",
     "author": "The Universal House of Justice",
     "years": [1997.1224, 1997.1224],
@@ -4256,7 +4230,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 284,
+    "item": 282,
     "title": "Letter dated 5 December 1996 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Uganda",
     "author": "The Universal House of Justice",
     "years": [1996.1205, 1996.1205],
@@ -4269,7 +4243,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 285,
+    "item": 283,
     "title": "Letter dated 6 July 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Guyana",
     "author": "The Universal House of Justice",
     "years": [1997.0706, 1997.0706],
@@ -4282,7 +4256,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 286,
+    "item": 284,
     "title": "Letter dated 9 January 1997 written on behalf of the Universal House of Justice to the National Spiritual Assembly of the Eastern Caroline Islands",
     "author": "The Universal House of Justice",
     "years": [1997.0109, 1997.0109],
@@ -4295,7 +4269,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 287,
+    "item": 285,
     "title": "Letter dated 14 April 1995 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Panama",
     "author": "The Universal House of Justice",
     "years": [1995.0414, 1995.0414],
@@ -4308,7 +4282,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 288,
+    "item": 286,
     "title": "Letter dated 11 January 1995 written on behalf of the Universal House of Justice to the National Spiritual Assembly of Peru",
     "author": "The Universal House of Justice",
     "years": [1995.0111, 1995.0111],
@@ -4321,7 +4295,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 289,
+    "item": 287,
     "title": "From a compilation entitled “Extracts from Letters of the Universal House of Justice and the Guardian regarding Teaching the Masses” sent to all National Spiritual Assembles in March 1968 ",
     "author": "The Universal House of Justice",
     "years": [1968.0301, 1968.0301],

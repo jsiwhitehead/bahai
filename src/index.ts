@@ -330,7 +330,11 @@ maraca(
               : `paras ${Math.min(...paras)}-${Math.max(...paras)}`,
           ].filter((x) => x)
         ).join(", "),
-        link: Math.min(...paras),
+        link: Math.min(
+          ...Array.from({ length: j + 1 }).map(
+            (_, k) => paragraphs[index - k - 1].paragraphs[0]
+          )
+        ),
       };
     },
     type: reactiveFunc((v) =>

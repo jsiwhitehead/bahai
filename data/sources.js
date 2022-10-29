@@ -2634,6 +2634,16 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         "Recite ye the verses of God every morning and evening. Whoso reciteth them not hath truly failed to fulfil his pledge to the Covenant of God and His Testament, and whoso in this day turneth away therefrom hath indeed turned away from God since time immemorial. Fear ye God, O concourse of My servants!\n\nTake heed lest excessive reading and too many acts of piety in the daytime and in the night season make you vainglorious. Should a person recite but a single verse from the Holy Writings in a spirit of joy and radiance, this would be better for him than reciting wearily all the Scriptures of God, the Help in Peril, the Self‑Subsisting. Recite ye the verses of God in such measure that ye be not overtaken with fatigue or boredom. Burden not your souls so as to cause exhaustion and weigh them down, but rather endeavour to lighten them, that they may soar on the wings of revealed Verses unto the dawning‑place of His signs. This is conducive to nearer access unto God, were ye to comprehend.",
         "Recite ye the verses of God every morn and eventide. Whoso faileth to recite them hath not been faithful to the Covenant of God and His Testament, and whoso turneth away from these holy verses in this Day is of those who throughout eternity have turned away from God. Fear ye God, O My servants, one and all. Pride not yourselves on much reading of the verses or on a multitude of pious acts by night and day; for were a man to read a single verse with joy and radiance it would be better for him than to read with lassitude all the Holy Books of God, the Help in Peril, the Self‑Subsisting. Read ye the sacred verses in such measure that ye be not overcome by languor and despondency. Lay not upon your souls that which will weary them and weigh them down, but rather what will lighten and uplift them, so that they may soar on the wings of the Divine verses towards the Dawning‑place of His manifest signs; this will draw you nearer to God, did ye but comprehend.",
       ],
+      [
+        "If one friend feels love for another, he will wish to say so. Though he knows that the friend is aware that he loves him, he will still wish to say so. . . . God knows the wishes of all hearts. But the impulse to prayer is a natural one, springing from man’s love to God.",
+        "If one friend loves another, is it not natural that he should wish to say so? Though he knows that that friend is aware of his love, does he still not wish to tell him of it? . . . It is true that God knows the wishes of all hearts; but the impulse to pray is a natural one, springing from man’s love to God.",
+      ],
+      ["in thought and attitude. But", "in thought and action. But"],
+      [
+        "If a person talks to you as an unpleasant duty, with no love or pleasure in his meeting with you, do you wish to converse with him?",
+        "If a person talks to you as an unpleasant duty, finding neither love nor enjoyment in the meeting, do you wish to converse with him?",
+      ],
+      ["therefore fully realise the", "therefore realise fully the"],
     ],
     "institution-mashriqul-adhkar": [
       removeAfter("Notes"),
@@ -2784,6 +2794,8 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       prefix("The Object of Our Devotion", "## "),
       [/^[A-Z].{0,80}[a-z]$/gm, (a) => `# ${a}`],
       ["# Prayer and Devotional Life", "Prayer and Devotional Life"],
+      ["the doors to true knowledge", "the doors of true knowledge"],
+      ["therefore fully realise the", "therefore realise fully the"],
     ],
     "sanctity-nature-bahai-elections": [
       removeAfter("This document has been downloaded"),
