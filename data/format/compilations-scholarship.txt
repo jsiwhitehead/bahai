@@ -12,7 +12,7 @@ Knowledge is one of the wondrous gifts of God. It is incumbent upon everyone to 
 
 Knowledge is as wings to man’s life, and a ladder for his ascent. Its acquisition is incumbent upon everyone. The knowledge of such sciences, however, should be acquired as can profit the peoples of the earth, and not those which begin with words and end with words. Great indeed is the claim of scientists and craftsmen on the peoples of the world. . . . In truth, knowledge is a veritable treasure for man, and a source of glory, of bounty, of joy, of exaltation, of cheer and gladness unto him. Thus hath the Tongue of Grandeur spoken in this Most Great Prison.
 
-From the Writings and Utterances of ‘Abdu’l‑Bahá
+### From the Writings and Utterances of ‘Abdu’l‑Bahá
 
 Make every effort to acquire the advanced knowledge of the day, and strain every nerve to carry forward the divine civilisation. . . .
 
@@ -38,7 +38,7 @@ Know thou that he is truly learned who hath acknowledged My Revelation, and drun
 
 Consider, how can he that faileth in the day of God’s Revelation to attain unto the grace of the “Divine Presence” and to recognise His Manifestation, be justly called learned, though he may have spent aeons in the pursuit of knowledge, and acquired all the limited and material learning of men? It is surely evident that he can in no wise be regarded as possessed of true knowledge. Whereas, the most unlettered of all men, if he be honoured with this supreme distinction, he verily is accounted as one of those divinely‑learned men whose knowledge is of God; for such a man hath attained the acme of knowledge, and hath reached the furthermost summit of learning.
 
-From the Writings of ‘Abdu’l‑Bahá
+### From the Writings of ‘Abdu’l‑Bahá
 
 . . . there are those famed and accomplished men of learning, possessed of praiseworthy qualities and vast erudition, who lay hold on the strong handle of the fear of God and keep to the ways of salvation. In the mirror of their minds the forms of transcendent realities are reflected, and the lamp of their inner vision derives its light from the sun of universal knowledge. They are busy by night and by day with meticulous research into such sciences as are profitable to mankind, and they devote themselves to the training of students of capacity. It is certain that to their discerning taste, the proffered treasures of kings would not compare with a single drop of the waters of knowledge, and mountains of gold and silver could not outweigh the successful solution of a difficult problem. To them, the delights that lie outside their work are only toys for children, and the cumbersome load of unnecessary possessions is only good for the ignorant and base. Content, like the birds, they give thanks for a handful of seeds, and the song of their wisdom dazzles the minds of the world’s most wise. . . .
 
@@ -78,9 +78,9 @@ O people of God! Righteous men of learning who dedicate themselves to the guidan
 
 Beware, O My loved ones, lest ye despise the merits of My learned servants whom God hath graciously chosen to be the exponents of His Name “the Fashioner” amidst mankind. Exert your utmost endeavour that ye may develop such crafts and undertakings that everyone, whether young or old, may benefit therefrom. We are quit of those ignorant ones who fondly imagine that Wisdom is to give vent to one’s idle imaginings and to repudiate God, the Lord of all men; even as We hear some of the heedless voicing such assertions today.
 
-From the Writings and Utterances of ‘Abdu’l‑Bahá
+### From the Writings and Utterances of ‘Abdu’l‑Bahá
 
-. . . the religion of God is the promoter of truth, the founder of science and knowledge, it is full of goodwill for learned men; it is the civiliser of mankind, the discoverer of the secrets of nature, and the enlightener of the horizons of the world. Consequently, how can it be said to oppose knowledge? God forbid! Nay, for God, knowledge is the most glorious gift of man and the most noble of human perfections. To oppose knowledge is ignorant, and he who detests knowledge and science is not a man, but rather an animal without intelligence. For knowledge is light, life, felicity, perfection, beauty and the means of approaching the Threshold of Unity. It is the honour and glory of the world of humanity, and the greatest bounty of God. Knowledge is identical with guidance, and ignorance is real error.
+. . . the religion of God is the promoter of truth, the establisher of science and learning, the supporter of knowledge, the civiliser of the human race, the discoverer of the secrets of existence, and the enlightener of the horizons of the world. How then could it oppose knowledge? God forbid! On the contrary, in the sight of God knowledge is the greatest human virtue and the noblest human perfection. To oppose knowledge is pure ignorance, and one who abhors the arts and sciences is not a human being but is even as a mindless animal. For knowledge is light, life, felicity, perfection, and beauty, and causes the soul to draw nigh to the divine threshold. It is the honour and glory of the human realm and the greatest of God’s bounties. Knowledge is identical to guidance, and ignorance is the essence of error.
 
 There are certain pillars which have been established as the unshakeable supports of the Faith of God. The mightiest of these is learning and the use of the mind, the expansion of consciousness, and insight into the realities of the universe and the hidden mysteries of Almighty God.
 
@@ -104,11 +104,11 @@ The Great Being saith: The learned of the day must direct the people to acquire 
 
 True learning is that which is conducive to the well‑being of the world, not to pride and self‑conceit, or to tyranny, violence and pillage.
 
-From the Writings of ‘Abdu’l‑Bahá
+### From the Writings of ‘Abdu’l‑Bahá
 
 The primary, the most urgent requirement is the promotion of education. It is inconceivable that any nation should achieve prosperity and success unless this paramount, this fundamental concern is carried forward. The principal reason for the decline and fall of peoples is ignorance. Today the mass of the people are uninformed even as to ordinary affairs, how much less do they grasp the core of the important problems and complex needs of the time.
 
-It is therefore urgent that beneficial articles and books be written, clearly and definitely establishing what the present‑day requirements of the people are, and what will conduce to the happiness and advancement of society. These should be published and spread throughout the nation, so that at least the leaders among the people should become, to some degree, awakened, and arise to exert themselves along those lines which will lead to their abiding honour. The publication of high thoughts is the dynamic power in the arteries of life; it is the very soul of the world. Thoughts are boundless sea, and the effects and varying conditions of existence are as the separate forms and individual limits of the waves; not until the sea boils up will the waves rise and scatter their pearls of knowledge on the shore of life. . . .
+It is therefore urgent that beneficial articles and books be written, clearly and definitely establishing what the present‑day requirements of the people are, and what will conduce to the happiness and advancement of society. These should be published and spread throughout the nation, so that at least the leaders among the people should become, to some degree, awakened, and arise to exert themselves along those lines which will lead to their abiding honour. The publication of high thoughts is the dynamic power in the arteries of life; it is the very soul of the world. Thoughts are a boundless sea, and the effects and varying conditions of existence are as the separate forms and individual limits of the waves; not until the sea boils up will the waves rise and scatter their pearls of knowledge on the shore of life. . . .
 
 Public opinion must be directed toward whatever is worthy of this day, and this is impossible except through the use of adequate arguments and the adducing of clear, comprehensive and conclusive proofs. For the helpless masses know nothing of the world, and while there is no doubt that they seek and long for their own happiness, yet ignorance like a heavy veil shuts them away from it. . . .
 
@@ -132,7 +132,7 @@ Moreover, such exposure is creating in the public mind the realisation that the 
 
 If any man were to arise to defend, in his writings, the Cause of God against its assailants, such a man, however inconsiderable his share, shall be so honoured in the world to come that the Concourse on high would envy his glory. No pen can depict the loftiness of his station, neither can any tongue describe its splendour. For whosoever standeth firm and steadfast in this holy, this glorious, and exalted Revelation, such power shall be given him as to enable him to face and withstand all that is in heaven and on earth. Of this God is Himself a witness.
 
-From the Writings of ‘Abdu’l‑Bahá
+### From the Writings of ‘Abdu’l‑Bahá
 
 The second of these spiritual standards which apply to the possessor of knowledge is that he should be the defender of his faith. It is obvious that these holy words do not refer exclusively to searching out the implications of the Law, observing the forms of worship, avoiding greater and lesser sins, practicing the religious ordinances, and by all these methods, protecting the Faith. They mean rather that the whole population should be protected in every way; that every effort should be exerted to adopt a combination of all possible measures to raise up the Word of God, increase the number of believers, promote the Faith of God and exalt it and make it victorious over other religions.
 
@@ -144,7 +144,7 @@ There is an answer in the teachings for everything; unfortunately the majority o
 
 ## Expansion and Consolidation of the Bahá’í Community
 
-From the Writings of ‘Abdu’l‑Bahá
+### From the Writings of ‘Abdu’l‑Bahá
 
 Pure souls, such as Mírzá Abu’l‑Faḍl, upon him be the Glory of God, spend their nights and days in demonstrating the truth of the Revelation, by adducing conclusive and brilliant proofs and expanding the verities of the Faith, by lifting the veils, promoting the religion of God and spreading His fragrances.
 
@@ -200,9 +200,9 @@ Therefore, hath it been said: “Knowledge is a light which God casteth into the
 
 We have decreed, O people, that the highest and last end of all learning be the recognition of Him Who is the Object of all knowledge; and yet, behold how ye have allowed your learning to shut you out, as by a veil, from Him Who is the Dayspring of this Light, through Whom every hidden thing hath been revealed.
 
-From the Writings and Utterances of ‘Abdu’l‑Bahá
+### From the Writings and Utterances of ‘Abdu’l‑Bahá
 
-Although to acquire the sciences and arts is the greatest glory of mankind, this is so only on condition that man’s river floweth into the mighty Sea, and draweth from God’s ancient source His inspiration. When this cometh to pass, then every teacher is as a shoreless ocean, every pupil a prodigal fountain of knowledge. If, then, the pursuit of knowledge leadeth to the beauty of Him Who is the object of all knowledge, how excellent that goal; but if not, a mere drop will perhaps shut a man off from flooding grace, for with learning cometh arrogance and pride, and it bringeth on error and indifference to God.
+Although to acquire the sciences and arts is the greatest glory of mankind, this is so only on condition that man’s river flow into the mighty sea, and draw from God’s ancient source His inspiration. When this cometh to pass, then every teacher is as a shoreless ocean, every pupil a prodigal fountain of knowledge. If, then, the pursuit of knowledge lead to the beauty of Him Who is the object of all knowledge, how excellent that goal; but if not, a mere drop will perhaps shut a man off from flooding grace, for with learning cometh arrogance and pride, and it bringeth on error and indifference to God.
 
 The sciences of today are bridges to reality; if then they lead not to reality, naught remains but fruitless illusion. By the one true God! If learning be not a means of access to Him, the Most Manifest, it is nothing but evident loss.
 
@@ -252,7 +252,7 @@ The heart must needs therefore be cleansed from the idle sayings of men, and san
 
 It is permissible to study sciences and arts, but such sciences as are useful and would redound to the progress and advancement of the people. Thus hath it been decreed by Him Who is the Ordainer, the All‑Wise.
 
-From the Writings of ‘Abdu’l‑Bahá
+### From the Writings of ‘Abdu’l‑Bahá
 
 The individual should, prior to engaging in the study of any subject, ask himself what its uses are and what fruit and result will derive from it. If it is a useful branch of knowledge, that is, if society will gain important benefits from it, then he should certainly pursue it with all his heart. If not, if it consists in empty, profitless debates and in a vain concatenation of imaginings that lead to no result except acrimony, why devote one’s life to such useless hairsplittings and disputes.
 
@@ -292,7 +292,7 @@ Dispute not with any one concerning the things of this world and its affairs, fo
 
 Warn, O Salmán, the beloved of the one true God, not to view with too critical an eye the sayings and writings of men. Let them rather approach such sayings and writings in a spirit of open‑mindedness and loving sympathy. Those men, however, who, in this Day, have been led to assail, in their inflammatory writings, the tenets of the Cause of God, are to be treated differently. It is incumbent upon all men, each according to his ability, to refute the arguments of those that have attacked the Faith of God. Thus hath it been decreed by Him Who is the All‑Powerful, the Almighty.
 
-From the Writings of ‘Abdu’l‑Bahá
+### From the Writings of ‘Abdu’l‑Bahá
 
 Good behaviour and high moral character must come first, for unless the character be trained, acquiring knowledge will only prove injurious. Knowledge is praiseworthy when it is coupled with ethical conduct and virtuous character; otherwise it is a deadly poison, a frightful danger. A physician of evil character, and who betrayeth his trust, can bring on death, and become the source of numerous infirmities and diseases.
 
@@ -316,19 +316,19 @@ Weigh not the Book of God with such standards and sciences as are current amongs
 
 When the eyes of the people of the East were captivated by the arts and wonders of the West, they roved distraught in the wilderness of material causes, oblivious of the One Who is the Causer of Causes, and the Sustainer thereof, while such men as were the source and the wellspring of Wisdom never denied the moving Impulse behind these causes, nor the Creator or the Origin thereof. Thy Lord knoweth, yet most of the people know not.
 
-From the Utterances of ‘Abdu’l‑Bahá
+### From the Utterances of ‘Abdu’l‑Bahá
 
-There are only four accepted methods of comprehension—that is to say, the realities of things are understood by these four methods.
+There are only four accepted criteria of comprehension, that is, four criteria whereby the realities of things are understood.
 
-The first method is by the senses—that is to say, all that the eye, the ear, the taste, the smell, the touch perceive is understood by this method. Today this method is considered the most perfect by all the European philosophers: they say that the principal method of gaining knowledge is through the senses; they consider it supreme, although it is imperfect, for it commits errors. For example, the greatest of the senses is the power of sight. . . . The sight believes the earth to be motionless and sees the sun in motion, and in many similar cases it makes mistakes. Therefore, we cannot trust it.
+The first criterion is that of the senses; that is, all that the eye, the ear, the taste, the smell, and the touch perceive is called “sensible”. At present all the European philosophers hold this to be the most perfect criterion. They claim that the greatest of all criteria is that of the senses, and they regard it as sacrosanct. And yet the criterion of the senses is defective, as it can err. For example, the greatest of the senses is the power of vision. The vision, however, sees a mirage as water and reckons images reflected in mirrors as real and existing; it sees large bodies as small, perceives a whirling point as a circle, imagines the earth to be stationary and the sun to be in motion, and is subject to many other errors of a similar nature. One cannot therefore rely implicitly upon it.
 
-The second is the method of reason, which was that of the ancient philosophers, the pillars of wisdom; this is the method of the understanding. They proved things by reason and hold firmly to logical proofs; all their arguments are arguments of reason. Notwithstanding this, they differed greatly, and their opinions were contradictory. They even changed their views—that is to say, during twenty years they would prove the existence of a thing by logical arguments, and afterward they would deny it by logical arguments—so much so that Plato at first logically proved the immobility of the earth and the movement of the sun; later by logical arguments he proved that the sun was the stationary centre, and that the earth was moving. . . . Therefore, it is evident that the method of reason is not perfect, for the differences of the ancient philosophers, the want of stability and the variations of their opinions, prove this. For if it were perfect, all ought to be united in their ideas and agreed in their opinions.
+The second criterion is that of the intellect, which was the principal criterion of comprehension for those pillars of wisdom, the ancient philosophers. They deduced things through the power of the mind and relied on rational arguments: All their arguments are based upon reason. But despite this, they diverged greatly in their opinions. They would even change their own views: For twenty years they would deduce the existence of something through rational arguments, and then afterwards they would disprove the same, again through rational arguments. Even Plato at first proved through rational arguments the immobility of the earth and the movement of the sun, and then subsequently established, again through rational arguments, the centrality of the sun and the movement of the earth. . . . It is therefore evident that the criterion of reason is imperfect, as proven by the disagreements existing between the ancient philosophers as well as by their want of consistency and their propensity to change their own views. For if the criterion of intellect were perfect, all should have been united in their thoughts and agreed in their opinions.
 
-The third method of understanding is by tradition—that is, through the text of the Holy Scriptures—for people say, “In the Old and New Testaments, God spoke thus.” This method equally is not perfect, because the traditions are understood by the reason. As the reason itself is liable to err, how can it be said that in interpreting the meaning of the traditions it will not err, for it is possible for it to make mistakes, and certainty cannot be attained. This is the method of the religious leaders; whatever they understand and comprehend from the text of the books is that which their reason understands from the text, and not necessarily the real truth; for the reason is like a balance, and the meanings contained in the text of the Holy Books are like the thing which is weighed. If the balance is untrue, how can the weight be ascertained?
+The third criterion is that of tradition, that is, the text of the Sacred Scriptures, when it is said, “God said thus in the Torah”, or “God said thus in the Gospel.” This criterion is not perfect either, because the traditions must be understood by the mind. As the mind itself is liable to error, how can it be said that it will attain to perfect truth and not err in comprehending and inferring the meaning of the traditions? For it is subject to error and cannot lead to certitude. This is the criterion of the leaders of religion. What they comprehend from the text of the Book, however, is that which their minds can understand and not necessarily the truth of the matter; for the mind is like a balance, and the meanings contained in the texts are like the objects to be weighed. If the balance is untrue, how can the weight be ascertained?
 
-Know then: that which is in the hands of people, that which they believe, is liable to error. For, in proving or disproving a thing, if a proof is brought forward which is taken from the evidence of our senses, this method, as has become evident, is not perfect; if the proofs are intellectual, the same is true; or if they are traditional, such proofs also are not perfect. Therefore, there is no standard in the hands of people upon which we can rely.
+Know, therefore, that what the people possess and believe to be true is liable to error. For if in proving or disproving a thing a proof drawn from the evidence of the senses is advanced, this criterion is clearly imperfect; if a rational proof is adduced, the same holds true; and likewise if a traditional proof is given. Thus it is clear that man does not possess any criterion of knowledge that can be relied upon.
 
-But the bounty of the Holy Spirit gives the true method of comprehension which is infallible and indubitable. This is through the help of the Holy Spirit which comes to man, and this is the condition in which certainty can alone be attained.
+But the grace of the Holy Spirit is the true criterion regarding which there is no doubt or uncertainty. That grace consists in the confirmations of the Holy Spirit which are vouchsafed to man and through which certitude is attained.
 
 ### From Letters Written on Behalf of the Universal House of Justice
 

@@ -2569,6 +2569,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       }),
       [/^From/gm, "# From"],
       ["# From amongst all mankind", "From amongst all mankind"],
+      ["this advancement in all these", "this advancement and all these"],
     ],
     "family-life": [
       removeAfter("Notes"),
@@ -2583,6 +2584,11 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       }),
       [/^I+\./gm, "#"],
       [/^Extract/gm, "## Extract"],
+      ["beneficence to men, and set", "beneficence to men, and to set"],
+      [
+        "Also a father and mother endure the greatest troubles and hardships for their children; and often when the children have reached the age of maturity, the parents pass on to the other world. Rarely does it happen that a father and mother in this world see the reward of the care and trouble they have undergone for their children. Therefore, children, in return for this care and trouble, must show forth charity and beneficence, and must implore pardon and forgiveness for their parents. So you ought, in return for the love and kindness shown you by your father, to give to the poor for his sake, with greatest submission and humility implore pardon and remission of sins, and ask for the supreme mercy.",
+        "Likewise, parents endure the greatest toil and trouble for their children, and often, by the time the latter have reached the age of maturity, the former have hastened to the world beyond. Rarely do the mother and father enjoy in this world the rewards of all the pain and trouble they have endured for their children. The children must therefore, in return for this pain and trouble, make charitable contributions and perform good works in their name, and implore pardon and forgiveness for their souls. You should therefore, in return for the love and kindness of your father, give to the poor in his name and, with the utmost lowliness and fervour, pray for God’s pardon and forgiveness and seek His infinite mercy.",
+      ],
     ],
     "fire-and-light": [
       removeAfter("Notes"),
@@ -2881,8 +2887,42 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       }),
       [/^\d+\. /gm, "# "],
       [/^\d+\.\d+ /gm, "## "],
-      prefix(/^[A-Z].{0,80}[a-z]$/gm, "### "),
+      prefix(/^From (a|the|Letters|Communications)/gm, "### "),
       ["### Scholarship", "Scholarship"],
+      [
+        "the founder of science and knowledge, it is full of goodwill for learned men; it is the civiliser of mankind, the discoverer of the secrets of nature, and the enlightener of the horizons of the world. Consequently, how can it be said to oppose knowledge? God forbid! Nay, for God, knowledge is the most glorious gift of man and the most noble of human perfections. To oppose knowledge is ignorant, and he who detests knowledge and science is not a man, but rather an animal without intelligence. For knowledge is light, life, felicity, perfection, beauty and the means of approaching the Threshold of Unity. It is the honour and glory of the world of humanity, and the greatest bounty of God. Knowledge is identical with guidance, and ignorance is real error.",
+        "the establisher of science and learning, the supporter of knowledge, the civiliser of the human race, the discoverer of the secrets of existence, and the enlightener of the horizons of the world. How then could it oppose knowledge? God forbid! On the contrary, in the sight of God knowledge is the greatest human virtue and the noblest human perfection. To oppose knowledge is pure ignorance, and one who abhors the arts and sciences is not a human being but is even as a mindless animal. For knowledge is light, life, felicity, perfection, and beauty, and causes the soul to draw nigh to the divine threshold. It is the honour and glory of the human realm and the greatest of God’s bounties. Knowledge is identical to guidance, and ignorance is the essence of error.",
+      ],
+      ["Thoughts are boundless sea", "Thoughts are a boundless sea"],
+      [
+        "floweth into the mighty Sea, and draweth",
+        "flow into the mighty sea, and draw",
+      ],
+      ["pursuit of knowledge leadeth to", "pursuit of knowledge lead to"],
+      [
+        `There are only four accepted methods of comprehension—that is to say, the realities of things are understood by these four methods.
+
+The first method is by the senses—that is to say, all that the eye, the ear, the taste, the smell, the touch perceive is understood by this method. Today this method is considered the most perfect by all the European philosophers: they say that the principal method of gaining knowledge is through the senses; they consider it supreme, although it is imperfect, for it commits errors. For example, the greatest of the senses is the power of sight. . . . The sight believes the earth to be motionless and sees the sun in motion, and in many similar cases it makes mistakes. Therefore, we cannot trust it.
+
+The second is the method of reason, which was that of the ancient philosophers, the pillars of wisdom; this is the method of the understanding. They proved things by reason and hold firmly to logical proofs; all their arguments are arguments of reason. Notwithstanding this, they differed greatly, and their opinions were contradictory. They even changed their views—that is to say, during twenty years they would prove the existence of a thing by logical arguments, and afterward they would deny it by logical arguments—so much so that Plato at first logically proved the immobility of the earth and the movement of the sun; later by logical arguments he proved that the sun was the stationary centre, and that the earth was moving. . . . Therefore, it is evident that the method of reason is not perfect, for the differences of the ancient philosophers, the want of stability and the variations of their opinions, prove this. For if it were perfect, all ought to be united in their ideas and agreed in their opinions.
+
+The third method of understanding is by tradition—that is, through the text of the Holy Scriptures—for people say, “In the Old and New Testaments, God spoke thus.” This method equally is not perfect, because the traditions are understood by the reason. As the reason itself is liable to err, how can it be said that in interpreting the meaning of the traditions it will not err, for it is possible for it to make mistakes, and certainty cannot be attained. This is the method of the religious leaders; whatever they understand and comprehend from the text of the books is that which their reason understands from the text, and not necessarily the real truth; for the reason is like a balance, and the meanings contained in the text of the Holy Books are like the thing which is weighed. If the balance is untrue, how can the weight be ascertained?
+
+Know then: that which is in the hands of people, that which they believe, is liable to error. For, in proving or disproving a thing, if a proof is brought forward which is taken from the evidence of our senses, this method, as has become evident, is not perfect; if the proofs are intellectual, the same is true; or if they are traditional, such proofs also are not perfect. Therefore, there is no standard in the hands of people upon which we can rely.
+
+But the bounty of the Holy Spirit gives the true method of comprehension which is infallible and indubitable. This is through the help of the Holy Spirit which comes to man, and this is the condition in which certainty can alone be attained.`,
+        `There are only four accepted criteria of comprehension, that is, four criteria whereby the realities of things are understood.
+
+The first criterion is that of the senses; that is, all that the eye, the ear, the taste, the smell, and the touch perceive is called “sensible”. At present all the European philosophers hold this to be the most perfect criterion. They claim that the greatest of all criteria is that of the senses, and they regard it as sacrosanct. And yet the criterion of the senses is defective, as it can err. For example, the greatest of the senses is the power of vision. The vision, however, sees a mirage as water and reckons images reflected in mirrors as real and existing; it sees large bodies as small, perceives a whirling point as a circle, imagines the earth to be stationary and the sun to be in motion, and is subject to many other errors of a similar nature. One cannot therefore rely implicitly upon it.
+
+The second criterion is that of the intellect, which was the principal criterion of comprehension for those pillars of wisdom, the ancient philosophers. They deduced things through the power of the mind and relied on rational arguments: All their arguments are based upon reason. But despite this, they diverged greatly in their opinions. They would even change their own views: For twenty years they would deduce the existence of something through rational arguments, and then afterwards they would disprove the same, again through rational arguments. Even Plato at first proved through rational arguments the immobility of the earth and the movement of the sun, and then subsequently established, again through rational arguments, the centrality of the sun and the movement of the earth. . . . It is therefore evident that the criterion of reason is imperfect, as proven by the disagreements existing between the ancient philosophers as well as by their want of consistency and their propensity to change their own views. For if the criterion of intellect were perfect, all should have been united in their thoughts and agreed in their opinions.
+
+The third criterion is that of tradition, that is, the text of the Sacred Scriptures, when it is said, “God said thus in the Torah”, or “God said thus in the Gospel.” This criterion is not perfect either, because the traditions must be understood by the mind. As the mind itself is liable to error, how can it be said that it will attain to perfect truth and not err in comprehending and inferring the meaning of the traditions? For it is subject to error and cannot lead to certitude. This is the criterion of the leaders of religion. What they comprehend from the text of the Book, however, is that which their minds can understand and not necessarily the truth of the matter; for the mind is like a balance, and the meanings contained in the texts are like the objects to be weighed. If the balance is untrue, how can the weight be ascertained?
+
+Know, therefore, that what the people possess and believe to be true is liable to error. For if in proving or disproving a thing a proof drawn from the evidence of the senses is advanced, this criterion is clearly imperfect; if a rational proof is adduced, the same holds true; and likewise if a traditional proof is given. Thus it is clear that man does not possess any criterion of knowledge that can be relied upon.
+
+But the grace of the Holy Spirit is the true criterion regarding which there is no doubt or uncertainty. That grace consists in the confirmations of the Holy Spirit which are vouchsafed to man and through which certitude is attained.`,
+      ],
     ],
     "significance-formative-age-our-faith": [
       removeAfter("Notes"),
@@ -2918,6 +2958,11 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ),
       prefix(/^[A-Z].*[a-z]$/gm, "## "),
       ["## Social Action", "Social Action"],
+      [
+        "he who abhors knowledge and learning",
+        "one who abhors the arts and sciences",
+      ],
+      ["being but a mindless animal", "being but is even as a mindless animal"],
     ],
     trustworthiness: [
       removeAfter("Notes"),

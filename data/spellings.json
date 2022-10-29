@@ -523,7 +523,16 @@
         "lls": "ls",
         "ll": "l"
       },
-      "roots": ["insti", "insta", "fulfi", "enthra", "enro", "disti", "appa"]
+      "roots": [
+        "insti",
+        "insta",
+        "fulfi",
+        "enthra",
+        "enro",
+        "disti",
+        "counse",
+        "appa"
+      ]
     },
     {
       "changes": {
@@ -550,6 +559,8 @@
 
     "wagons": "waggons",
     "wagon": "waggon",
+
+    "unshakable": "unshakeable",
 
     "tranquility": "tranquillity",
 
@@ -605,6 +616,8 @@
     "plowed": "ploughed",
     "plow": "plough",
     "snowplow": "snowplough",
+
+    "practiced": "practised",
 
     "phony": "phoney",
 
@@ -940,6 +953,8 @@
     "bab": "báb",
     "bayan": "bayán",
     "baha": "bahá",
+    "bahá’i": "bahá’í",
+    "bahá’is": "bahá’ís",
     "kitab": "kitáb",
     "ridván": "riḍván",
     "ghusn": "ghuṣn",
