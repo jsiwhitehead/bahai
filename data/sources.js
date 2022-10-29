@@ -1665,6 +1665,11 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ["second condition:—They must", "second condition . . . They must"],
       ["number it does not matter", "number it doth not matter"],
       ["favour of those who he is", "favour of those whom he is"],
+      ["doth not matter. It behoveth", "doth not matter. . . . It behoveth"],
+      ["supreme victory:—‘O God", "supreme victory: . . . ‘O God"],
+      ["ourselves from all beside Thee", "ourselves from all besides Thee"],
+      ["the Standards of Thy exalted", "the Standards of Thine exalted"],
+      ["flowing from Thy all‑glorious", "flowing from Thine all‑glorious"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -1714,6 +1719,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         (_, a, b, c) => `## ${a}: ${b} (${c})`,
       ],
       [/^‑ .* ‑$\n\n/gm, "### "],
+      ["doth not matter. It behoveth", "doth not matter. . . . It behoveth"],
     ],
     "promised-day-come": [
       ["By Shoghi Effendi", ""],
@@ -2444,6 +2450,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["created thing has been revealed", "created things has been revealed"],
       ["restless, and it condition", "restless, and its condition"],
       ["second condition:—They must", "second condition . . . They must"],
+      ["own opinion and must", "own opinion and . . . must"],
     ],
   },
   compilations: {
@@ -2697,6 +2704,11 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["those whom they should serve", "those whom they serve"],
       ["number it does not matter", "number it doth not matter"],
       ["vouchsafed to them. In this", "vouchsafed to them. . . . In this"],
+      ["doth not matter. It behoveth", "doth not matter. . . . It behoveth"],
+      ["supreme victory: “O God", "supreme victory: . . . “O God"],
+      ["ourselves from all beside Thee", "ourselves from all besides Thee"],
+      ["the Standards of Thy exalted", "the Standards of Thine exalted"],
+      ["flowing from Thy all‑glorious", "flowing from Thine all‑glorious"],
     ],
     music: [
       removeAfter("Notes"),

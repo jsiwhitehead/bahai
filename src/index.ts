@@ -314,10 +314,12 @@ maraca(
         }
       }
       const paras = unique(
-        Array.from({ length: j + 1 }).map(
-          (_, k) =>
-            doc.paragraphs[paragraphs[index - k - 1].paragraphs[0] - 1].index
-        )
+        Array.from({ length: j + 1 })
+          .map(
+            (_, k) =>
+              doc.paragraphs[paragraphs[index - k - 1].paragraphs[0] - 1].index
+          )
+          .filter((x) => x)
       );
       return {
         text: unique(
@@ -325,9 +327,10 @@ maraca(
             doc.author,
             ...doc.path,
             doc.title || (doc.item && "#" + doc.item),
-            paras.length === 1
-              ? `para ${paras[0]}`
-              : `paras ${Math.min(...paras)}-${Math.max(...paras)}`,
+            paras.length > 0 &&
+              (paras.length === 1
+                ? `para ${paras[0]}`
+                : `paras ${Math.min(...paras)}-${Math.max(...paras)}`),
           ].filter((x) => x)
         ).join(", "),
         link: Math.min(

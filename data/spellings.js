@@ -80,6 +80,7 @@ const correctSpelling = (s) =>
     .replace(/\. \. \. \./g, ". . . .")
     .replace(/\. \. \./g, ". . .")
     .replace(/(\. \. \.)([a-z]{2})/g, (_, a, b) => `${a} ${b}`)
+    .replace(/([a-z]{2})(\. \. \.)/g, (_, a, b) => `${a} ${b}`)
     .replace(/ Iráq/g, " ‘Iráq")
     .replace(/ IRÁQ/g, " ‘IRÁQ")
     .replace(/Ataollah/g, "‘Aṭá’u’lláh")
