@@ -6,7 +6,7 @@
     'bold': 'true',
     'underline': 'true',
     'align': 'center',
-    'Quotes',
+    'Most Cited',
   ],
   ...topQuotes->map.[quote: {
     'doc': documents.(quote.'id'),

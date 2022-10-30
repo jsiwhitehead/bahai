@@ -3,8 +3,8 @@
     'baseLevel': '1',
     'levelNumbers': '',
     'paraNumbers': '1',
-    'highlight': '',
-    'showCitations': '',
+    'highlight': '1',
+    'showCitations': '1',
     'color': colors.'link'.(doc.'author') | colors.'link'.'The World Centre',
     'allLines': doc.'paragraphs'->every.[p: p.'type' | p.'lines'],
     : [
@@ -18,7 +18,8 @@
         'stack': 15,
         ...{
           ? doc.'title': [[doc.'title']],
-          : [[doc.'path'.1], ['#{doc.'item'}']],
+          ? !index : [[doc.'path'.1], ['#{doc.'item'}']],
+          : [],
         }
       ],
       [

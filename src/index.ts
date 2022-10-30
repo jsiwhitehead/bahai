@@ -248,15 +248,27 @@ maraca(
           ...quotes[id][k],
         }))
       )
-      .sort((a, b) => {
-        const x = a.parts.map((p) => p.count);
-        const y = b.parts.map((p) => p.count);
-        return (
-          Math.max(...y) - Math.max(...x) ||
-          y.reduce((res, n) => res + n, 0) - x.reduce((res, n) => res + n, 0)
-        );
+      .map((q) => {
+        const para = documents[q.id].paragraphs[q.paragraph - 1];
+        return {
+          ...q,
+          score:
+            q.parts
+              .filter((part) => typeof part !== "string")
+              .map(
+                ({ start, end, count }) =>
+                  para.text.slice(start, end).trim().split(" ").length * count
+              )
+              .reduce((res, n) => res + n, 0) / para.text.split(" ").length,
+        };
       })
-      .filter((q) => q.parts.some((p) => p.count > 3)),
+      .filter((q) => q.score > 4)
+      .sort(
+        (a, b) =>
+          b.score - a.score ||
+          a.id.localeCompare(b.id) ||
+          a.paragraph - b.paragraph
+      ),
     fillParts: (parts, text, lines, quotes) => {
       const firstChar = /[a-z]/i.exec(
         text

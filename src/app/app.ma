@@ -58,6 +58,7 @@
       ],
       button('Prayers', 'true'),
       button('Compilations', 'true'),
+      button('Most Cited', 'true'),
       [
         'pad': [10, 0],
         'fill': '#ddd',
@@ -150,6 +151,7 @@
           ['prayers']: prayers,
           ['prayers', x]: prayers,
           ['compilations']: pages.'compilations',
+          ['most-cited']: pages.'cited',
           ['sixth-epoch']: pages.'sixthepoch',
           ['fifth-epoch']: pages.'fifthepoch',
           ['fourth-epoch']: pages.'fourthepoch',

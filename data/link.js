@@ -16,7 +16,11 @@ const findSource = (documents, doc, simplified) =>
     (d) =>
       d.id !== doc.id &&
       d.id !== "bahaullah-days-remembrance-037" &&
-      !(d.id.startsWith("prayers") && d.type !== "Prayer") &&
+      !(
+        d.id.startsWith("prayers-bahai-prayers-0") &&
+        d.type !== "Prayer" &&
+        !d.title
+      ) &&
       (d.author !== doc.author ||
         doc.author === "The Universal House of Justice" ||
         doc.id.startsWith("prayers") ||
