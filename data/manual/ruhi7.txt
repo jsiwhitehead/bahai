@@ -1,5 +1,5 @@
 Book 7: Walking Together on a Path of Service
-author="Ruhi Institute"
+author="The Ruhi Institute"
 years=[2009,2009]
 collection
 

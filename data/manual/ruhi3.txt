@@ -1,5 +1,5 @@
 Book 3: Teaching Children’s Classes Grade 1
-author="Ruhi Institute"
+author="The Ruhi Institute"
 years=[2021,2021]
 collection
 

@@ -187,33 +187,34 @@ maraca(
             a.id.localeCompare(b.id)
         ),
     findDocuments: (section, ignore) => {
-      if (section === "Compilations") {
-        return documentsList
-          .filter(
-            (d) =>
-              !(
-                d.paragraphs.every((p) => p.id || p.section) ||
-                d.id === "compilations-importance-obligatory-prayer-fasting-001"
-              )
-          )
-          .filter(
-            (d) =>
-              d.id.startsWith("compilation") ||
-              d.id.startsWith("ruhi") ||
-              d.id === "world-centre-entry-by-troops-002"
-          );
-        // return documentsList.filter(
-        //   (d) =>
-        //     d.paragraphs.every((p) => p.id || p.section) &&
-        //     unique(d.paragraphs.map((p) => p.id)).filter((x) => x).length > 1
-        // );
+      if (section === "Collections") {
+        return (
+          documentsList
+            // .filter(
+            //   (d) =>
+            //     !(
+            //       d.paragraphs.every((p) => p.id || p.section) ||
+            //       d.id === "compilations-importance-obligatory-prayer-fasting-001"
+            //     )
+            // )
+            .filter(
+              (d) =>
+                ["The Research Department"].includes(d.author) ||
+                d.id.startsWith("compilation")
+            )
+        );
       }
       if (section === "Other") {
         return documentsList
           .filter((d) => !d.paragraphs.every((p) => p.id || p.section))
           .filter(
             (d) =>
-              !["The Báb", "Bahá’u’lláh", "‘Abdu’l‑Bahá"].includes(d.author) &&
+              ![
+                "The Báb",
+                "Bahá’u’lláh",
+                "‘Abdu’l‑Bahá",
+                "Research Department",
+              ].includes(d.author) &&
               !d.epoch &&
               !d.id.startsWith("bible") &&
               !d.id.startsWith("quran") &&

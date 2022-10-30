@@ -1,5 +1,5 @@
 Book 1: Reflections on the Life of the Spirit
-author="Ruhi Institute"
+author="The Ruhi Institute"
 years=[2020,2020]
 collection
 

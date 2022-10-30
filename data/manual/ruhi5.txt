@@ -1,5 +1,5 @@
 Book 5: Releasing the Powers of Junior Youth
-author="Ruhi Institute"
+author="The Ruhi Institute"
 years=[2022,2022]
 collection
 

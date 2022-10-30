@@ -1,5 +1,5 @@
 Book 10: Building Vibrant Communities
-author="Ruhi Institute"
+author="The Ruhi Institute"
 years=[2018,2018]
 collection
 

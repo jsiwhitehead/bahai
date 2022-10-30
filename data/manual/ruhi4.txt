@@ -1,5 +1,5 @@
 Book 4: The Twin Manifestations
-author="Ruhi Institute"
+author="The Ruhi Institute"
 years=[2021,2021]
 collection
 

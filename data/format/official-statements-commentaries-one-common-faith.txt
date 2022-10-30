@@ -1,5 +1,5 @@
 One Common Faith
-author="The World Centre"
+author="Commissioned by the Universal House of Justice"
 years=[2005,2005]
 collection
 

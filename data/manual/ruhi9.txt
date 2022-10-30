@@ -1,5 +1,5 @@
 Book 9: Gaining an Historical Perspective
-author="Ruhi Institute"
+author="The Ruhi Institute"
 years=[2019,2019]
 collection
 

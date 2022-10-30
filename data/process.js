@@ -151,9 +151,11 @@ const process = (source, id) => {
     } else if (
       [
         "The Universal House of Justice",
-        "The World Centre",
+        "Commissioned by the Universal House of Justice",
         "The International Teaching Centre",
-        "Research Department",
+        "The International Development Organisation",
+        "The Office of Social and Economic Development",
+        "Bahá’í International Community",
       ].includes(d.author)
     ) {
       const midYears = (d.years[0] + d.years[1]) / 2;

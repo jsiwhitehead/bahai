@@ -2077,6 +2077,12 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       prefix(/^\([iv]/gm, "### "),
       [/summary="Riḍván.*/gm, ""],
       [
+        /^SOCIAL ACTION\n\n.*\n\n.*/m,
+        '# Social Action\nauthor="The Office of Social and Economic Development"\nyears=[2012.1126,2012.1126]',
+      ],
+      [/^A CODIFICATION OF THE[\s\S]*?(# Letter dated 24)/m, (_, a) => a],
+      [/^## A Codification of[\s\S]*?(## The Development of)/m, (_, a) => a],
+      [
         /^\([A-Z].*/gm,
         (a) => {
           if (
@@ -2131,30 +2137,31 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ],
       ["Part III", ""],
       title("", "Turning Point", {
-        author: "The World Centre",
+        author: "Palabra Publications",
         years: [1996, 2006],
         collection: true,
       }),
       title("#", "Global Plans: Fundamental Concepts", {
+        author: "Ad Hoc Committee at the Bahá’í World Centre",
         years: [2005.1029, 2005.1029],
       }),
       title("#", "Additional Documents", { collection: true }),
       [/^— .* —$\n\n/gm, "## "],
       [
         "## Training Institutes",
-        "## Training Institutes\nyears=[1998.0401,1998.0401]",
+        `## Training Institutes\nauthor="Commissioned by the Universal House of Justice"\nyears=[1998.0401,1998.0401]`,
       ],
       [
         "## Training Institutes and Systematic Growth",
-        "## Training Institutes and Systematic Growth\nyears=[2000.0201,2000.0201]",
+        `## Training Institutes and Systematic Growth\nauthor="The International Teaching Centre"\nyears=[2000.0201,2000.0201]`,
       ],
       [
         "## Building Momentum A Coherent Approach to Growth",
-        "## Building Momentum: A Coherent Approach to Growth\nyears=[2003.0401,2003.0401]",
+        `## Building Momentum: A Coherent Approach to Growth\nauthor="The International Teaching Centre"\nyears=[2003.0401,2003.0401]`,
       ],
       [
         "## Impact of Growth on Administration Processes",
-        "## Impact of Growth on Administration Processes\nyears=[2005.0701,2005.0701]",
+        `## Impact of Growth on Administration Processes\nauthor="The International Teaching Centre"\nyears=[2005.0701,2005.0701]`,
       ],
       [/^a document.*\n\n.*/gm, ""],
       [
@@ -2224,7 +2231,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^A statement prepared by the Bahá’í.*/m, ""],
       removeAfter("Notes"),
       title("", "Bahá’u’lláh", {
-        author: "The World Centre",
+        author: "Commissioned by the Universal House of Justice",
         years: [1992, 1992],
       }),
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `# ${a}`],
@@ -2245,7 +2252,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["Naw‑Rúz, 158 B.E.", ""],
       removeAfter("Notes"),
       title("", "Century of Light", {
-        author: "The World Centre",
+        author: "Commissioned by the Universal House of Justice",
         years: [2001, 2001],
         collection: true,
       }),
@@ -2258,7 +2265,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["Naw‑Rúz, 2005", ""],
       removeAfter("References"),
       title("", "One Common Faith", {
-        author: "The World Centre",
+        author: "Commissioned by the Universal House of Justice",
         years: [2005, 2005],
         collection: true,
       }),
@@ -2269,7 +2276,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^A statement prepared by the Bahá’í.*/m, ""],
       removeAfter("This document has been downloaded"),
       title("", "The Prosperity of Humankind", {
-        author: "The World Centre",
+        author: "Bahá’í International Community",
         years: [1995, 1995],
       }),
       [/^[A-Z]{1,5}$/gm, "***"],
@@ -2285,7 +2292,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         "Recognising the Historical Context: A Call to World Leaders",
       ],
       title("", "Turning Point for All Nations", {
-        author: "The World Centre",
+        author: "Bahá’í International Community",
         years: [1995, 1995],
       }),
       [/^[IV]{1,5}\. (.*)$/gm, (_, a) => `# ${a}`],

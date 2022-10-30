@@ -34,13 +34,15 @@
     '‘Abdu’l‑Bahá': '#2980b9',
     'Shoghi Effendi': '#f39c12',
     'The Universal House of Justice': '#4834d4',
+    'Commissioned by the Universal House of Justice': '#4834d4',
     'The World Centre': '#8e44ad',
     'Bahá’í International Community': '#8e44ad',
     'The International Teaching Centre': '#8e44ad',
+    'The International Development Organisation': '#8e44ad',
     'The Office of Social and Economic Development': '#8e44ad',
     'The Department of Statistics': '#8e44ad',
-    'Research Department': '#8e44ad',
+    'The Research Department': '#8e44ad',
     'Compilation': '#8e44ad',
-    'Ruhi Institute': '#8e44ad',
+    'The Ruhi Institute': '#8e44ad',
   ]
 ]

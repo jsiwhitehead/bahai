@@ -1,5 +1,5 @@
 Book 2: Arising to Serve
-author="Ruhi Institute"
+author="The Ruhi Institute"
 years=[2020,2020]
 collection
 

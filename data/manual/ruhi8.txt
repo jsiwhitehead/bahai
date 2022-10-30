@@ -1,5 +1,5 @@
 Book 8: The Covenant of Bahá’u’lláh
-author="Ruhi Institute"
+author="The Ruhi Institute"
 years=[2016,2016]
 collection
 
