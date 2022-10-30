@@ -65,7 +65,7 @@
           'width': 1 / 3,
           'stack': 40,
           group('Occasion', ['Gathering', 'Morning', 'Evening', 'Calendar', 'The Fast']),
-          group('Special', ['Obligatory Prayers', 'Special', 'Nations', 'Narrative']),
+          group('Special', ['Obligatory Prayers', 'Special', 'Nations', 'Mashriqu’l‑Adhkár', 'Narrative']),
         ],
       ]
     ],

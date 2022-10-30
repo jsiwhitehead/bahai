@@ -2,7 +2,7 @@
   {
     "item": 1,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Nearness to God"],
@@ -17,7 +17,7 @@
   {
     "item": 2,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -32,7 +32,7 @@
   {
     "item": 3,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -47,7 +47,7 @@
   {
     "item": 4,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tests and Difficulties"],
@@ -62,7 +62,7 @@
   {
     "item": 5,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -77,7 +77,7 @@
   {
     "item": 6,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children", "Infants"],
@@ -92,7 +92,7 @@
   {
     "item": 7,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 225,
@@ -106,7 +106,7 @@
   {
     "item": 8,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Obligatory Prayers"],
@@ -130,7 +130,7 @@
   {
     "item": 9,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 259,
@@ -148,7 +148,7 @@
   {
     "item": 10,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "length": 264,
@@ -162,7 +162,7 @@
   {
     "item": 11,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tests and Difficulties"],
@@ -181,7 +181,7 @@
   {
     "item": 12,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 275,
@@ -195,7 +195,7 @@
   {
     "item": 13,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Triumph of the Cause"],
@@ -214,7 +214,7 @@
   {
     "item": 14,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 289,
@@ -228,7 +228,7 @@
   {
     "item": 15,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Teaching"],
@@ -247,7 +247,7 @@
   {
     "item": 16,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Healing"],
@@ -262,7 +262,7 @@
   {
     "item": 17,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tests and Difficulties"],
@@ -277,7 +277,7 @@
   {
     "item": 18,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -292,7 +292,7 @@
   {
     "item": 19,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Morning"],
@@ -307,7 +307,7 @@
   {
     "item": 20,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -322,7 +322,7 @@
   {
     "item": 21,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Steadfastness"],
@@ -337,7 +337,7 @@
   {
     "item": 22,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -356,7 +356,7 @@
   {
     "item": 23,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -371,7 +371,7 @@
   {
     "item": 24,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Teaching"],
@@ -386,7 +386,7 @@
   {
     "item": 25,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers and Tablets for Children"],
     "length": 364,
@@ -408,7 +408,7 @@
   {
     "item": 26,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional"],
     "length": 367,
@@ -422,7 +422,7 @@
   {
     "item": 27,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 371,
@@ -436,7 +436,7 @@
   {
     "item": 28,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -451,7 +451,7 @@
   {
     "item": 29,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children", "Infants"],
@@ -466,7 +466,7 @@
   {
     "item": 30,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Gatherings", "The Nineteen Day Feast"],
@@ -481,7 +481,7 @@
   {
     "item": 31,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Aid and Assistance"],
@@ -496,7 +496,7 @@
   {
     "item": 32,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Unity"],
@@ -511,7 +511,7 @@
   {
     "item": 33,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -530,7 +530,7 @@
   {
     "item": 34,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 401,
@@ -552,7 +552,7 @@
   {
     "item": 35,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 407,
@@ -570,7 +570,7 @@
   {
     "item": 36,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -585,7 +585,7 @@
   {
     "item": 37,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 434,
@@ -607,7 +607,7 @@
   {
     "item": 38,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -626,7 +626,7 @@
   {
     "item": 39,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 439,
@@ -640,7 +640,7 @@
   {
     "item": 40,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 441,
@@ -662,7 +662,7 @@
   {
     "item": 41,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Morning"],
@@ -681,7 +681,7 @@
   {
     "item": 42,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Gatherings"],
@@ -700,7 +700,7 @@
   {
     "item": 43,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Triumph of the Cause"],
@@ -719,7 +719,7 @@
   {
     "item": 44,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Departed"],
@@ -742,7 +742,7 @@
   {
     "item": 45,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Youth"],
@@ -761,7 +761,7 @@
   {
     "item": 46,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 460,
@@ -783,7 +783,7 @@
   {
     "item": 47,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 461,
@@ -805,7 +805,7 @@
   {
     "item": 48,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Evening", "Midnight"],
@@ -828,7 +828,7 @@
   {
     "item": 49,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers and Tablets for Children"],
     "length": 465,
@@ -846,7 +846,7 @@
   {
     "item": 50,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Firmness in the Covenant"],
@@ -865,7 +865,7 @@
   {
     "item": 51,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -880,7 +880,7 @@
   {
     "item": 52,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Youth"],
@@ -895,7 +895,7 @@
   {
     "item": 53,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -926,7 +926,7 @@
   {
     "item": 54,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers and Tablets for Children"],
     "length": 484,
@@ -940,7 +940,7 @@
   {
     "item": 55,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -959,7 +959,7 @@
   {
     "item": 56,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 488,
@@ -973,7 +973,7 @@
   {
     "item": 57,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Triumph of the Cause"],
@@ -992,7 +992,7 @@
   {
     "item": 58,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 501,
@@ -1010,7 +1010,7 @@
   {
     "item": 59,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Families", "Parents"],
@@ -1025,7 +1025,7 @@
   {
     "item": 60,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -1044,7 +1044,7 @@
   {
     "item": 61,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 511,
@@ -1062,7 +1062,7 @@
   {
     "item": 62,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 518,
@@ -1080,7 +1080,7 @@
   {
     "item": 63,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -1103,7 +1103,7 @@
   {
     "item": 64,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 525,
@@ -1117,7 +1117,7 @@
   {
     "item": 65,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Women"],
@@ -1132,7 +1132,7 @@
   {
     "item": 66,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -1151,7 +1151,7 @@
   {
     "item": 67,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -1166,7 +1166,7 @@
   {
     "item": 68,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 538,
@@ -1188,7 +1188,7 @@
   {
     "item": 69,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 545,
@@ -1206,7 +1206,7 @@
   {
     "item": 70,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 549,
@@ -1224,7 +1224,7 @@
   {
     "item": 71,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers and Tablets for Children"],
     "length": 560,
@@ -1242,7 +1242,7 @@
   {
     "item": 72,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Departed", "For Women"],
@@ -1261,7 +1261,7 @@
   {
     "item": 73,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Evening"],
@@ -1284,7 +1284,7 @@
   {
     "item": 74,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 589,
@@ -1302,7 +1302,7 @@
   {
     "item": 75,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 591,
@@ -1320,7 +1320,7 @@
   {
     "item": 76,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Aid and Assistance"],
@@ -1339,7 +1339,7 @@
   {
     "item": 77,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -1354,7 +1354,7 @@
   {
     "item": 78,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers and Tablets for Children"],
     "length": 593,
@@ -1376,7 +1376,7 @@
   {
     "item": 79,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Marriage"],
@@ -1395,7 +1395,7 @@
   {
     "item": 80,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 597,
@@ -1409,7 +1409,7 @@
   {
     "item": 81,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 603,
@@ -1431,7 +1431,7 @@
   {
     "item": 82,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -1454,7 +1454,7 @@
   {
     "item": 83,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 609,
@@ -1468,7 +1468,7 @@
   {
     "item": 84,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 609,
@@ -1482,7 +1482,7 @@
   {
     "item": 85,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Fast"],
@@ -1497,7 +1497,7 @@
   {
     "item": 86,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 618,
@@ -1519,7 +1519,7 @@
   {
     "item": 87,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 624,
@@ -1533,7 +1533,7 @@
   {
     "item": 88,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tests and Difficulties"],
@@ -1548,7 +1548,7 @@
   {
     "item": 89,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 631,
@@ -1562,7 +1562,7 @@
   {
     "item": 90,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 631,
@@ -1580,7 +1580,7 @@
   {
     "item": 91,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -1595,7 +1595,7 @@
   {
     "item": 92,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers and Tablets for Children"],
     "length": 643,
@@ -1617,7 +1617,7 @@
   {
     "item": 93,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 652,
@@ -1635,7 +1635,7 @@
   {
     "item": 94,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 655,
@@ -1661,7 +1661,7 @@
   {
     "item": 95,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -1680,7 +1680,7 @@
   {
     "item": 96,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -1707,7 +1707,7 @@
   {
     "item": 97,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 671,
@@ -1725,7 +1725,7 @@
   {
     "item": 98,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Aid and Assistance"],
@@ -1748,7 +1748,7 @@
   {
     "item": 99,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["America"],
@@ -1763,7 +1763,7 @@
   {
     "item": 100,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 685,
@@ -1777,7 +1777,7 @@
   {
     "item": 101,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -1800,7 +1800,7 @@
   {
     "item": 102,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Aid and Assistance"],
@@ -1823,7 +1823,7 @@
   {
     "item": 103,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -1850,7 +1850,7 @@
   {
     "item": 104,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Departed"],
@@ -1873,7 +1873,7 @@
   {
     "item": 105,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Ḥuqúqu’lláh: The Right of God"],
@@ -1888,7 +1888,7 @@
   {
     "item": 106,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 698,
@@ -1906,7 +1906,7 @@
   {
     "item": 107,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 699,
@@ -1920,7 +1920,7 @@
   {
     "item": 108,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 702,
@@ -1942,7 +1942,7 @@
   {
     "item": 109,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 703,
@@ -1960,7 +1960,7 @@
   {
     "item": 110,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 708,
@@ -1978,7 +1978,7 @@
   {
     "item": 111,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers and Tablets for Children"],
     "length": 709,
@@ -2000,7 +2000,7 @@
   {
     "item": 112,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Fund"],
@@ -2027,7 +2027,7 @@
   {
     "item": 113,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Steadfastness"],
@@ -2050,7 +2050,7 @@
   {
     "item": 114,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 718,
@@ -2068,7 +2068,7 @@
   {
     "item": 115,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional"],
     "length": 722,
@@ -2086,7 +2086,7 @@
   {
     "item": 116,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 732,
@@ -2100,7 +2100,7 @@
   {
     "item": 117,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -2119,7 +2119,7 @@
   {
     "item": 118,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "categories": ["Women", "Expectant Mothers"],
@@ -2138,7 +2138,7 @@
   {
     "item": 119,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 742,
@@ -2156,7 +2156,7 @@
   {
     "item": 120,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Families", "Parents"],
@@ -2175,7 +2175,7 @@
   {
     "item": 121,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -2202,7 +2202,7 @@
   {
     "item": 122,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Assembly"],
@@ -2225,7 +2225,7 @@
   {
     "item": 123,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 750,
@@ -2239,7 +2239,7 @@
   {
     "item": 124,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 757,
@@ -2253,7 +2253,7 @@
   {
     "item": 125,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -2272,7 +2272,7 @@
   {
     "item": 126,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -2291,7 +2291,7 @@
   {
     "item": 127,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Triumph of the Cause"],
@@ -2314,7 +2314,7 @@
   {
     "item": 128,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 766,
@@ -2328,7 +2328,7 @@
   {
     "item": 129,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -2343,7 +2343,7 @@
   {
     "item": 130,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
@@ -2362,7 +2362,7 @@
   {
     "item": 131,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers and Tablets for Children"],
     "length": 773,
@@ -2388,7 +2388,7 @@
   {
     "item": 132,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Departed"],
@@ -2424,7 +2424,7 @@
   {
     "item": 133,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Humanity"],
@@ -2439,7 +2439,7 @@
   {
     "item": 134,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 783,
@@ -2453,7 +2453,7 @@
   {
     "item": 135,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -2480,7 +2480,7 @@
   {
     "item": 136,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -2503,7 +2503,7 @@
   {
     "item": 137,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Aid and Assistance"],
@@ -2522,7 +2522,7 @@
   {
     "item": 138,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 794,
@@ -2540,7 +2540,7 @@
   {
     "item": 139,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 799,
@@ -2582,7 +2582,7 @@
   {
     "item": 140,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -2609,7 +2609,7 @@
   {
     "item": 141,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Fast"],
@@ -2624,7 +2624,7 @@
   {
     "item": 142,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional"],
     "length": 813,
@@ -2642,7 +2642,7 @@
   {
     "item": 143,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Youth"],
@@ -2665,7 +2665,7 @@
   {
     "item": 144,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Marriage"],
@@ -2680,7 +2680,7 @@
   {
     "item": 145,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Women"],
@@ -2703,7 +2703,7 @@
   {
     "item": 146,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -2730,7 +2730,7 @@
   {
     "item": 147,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Fast"],
@@ -2745,7 +2745,7 @@
   {
     "item": 148,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -2760,7 +2760,7 @@
   {
     "item": 149,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -2795,7 +2795,7 @@
   {
     "item": 150,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Gatherings"],
@@ -2814,7 +2814,7 @@
   {
     "item": 151,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Gatherings"],
@@ -2833,7 +2833,7 @@
   {
     "item": 152,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Humanity"],
@@ -2856,7 +2856,7 @@
   {
     "item": 153,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers and Tablets for Children"],
     "length": 849,
@@ -2882,7 +2882,7 @@
   {
     "item": 154,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Firmness in the Covenant"],
@@ -2905,7 +2905,7 @@
   {
     "item": 155,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Healing"],
@@ -2928,7 +2928,7 @@
   {
     "item": 156,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 858,
@@ -2946,7 +2946,7 @@
   {
     "item": 157,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children", "Infants"],
@@ -2965,7 +2965,7 @@
   {
     "item": 158,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Evening"],
@@ -2988,7 +2988,7 @@
   {
     "item": 159,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 881,
@@ -3006,7 +3006,7 @@
   {
     "item": 160,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 882,
@@ -3024,7 +3024,7 @@
   {
     "item": 161,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 890,
@@ -3054,7 +3054,7 @@
   {
     "item": 162,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 893,
@@ -3080,7 +3080,7 @@
   {
     "item": 163,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -3103,7 +3103,7 @@
   {
     "item": 164,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -3126,7 +3126,7 @@
   {
     "item": 165,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Women"],
@@ -3149,7 +3149,7 @@
   {
     "item": 166,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 908,
@@ -3163,7 +3163,7 @@
   {
     "item": 167,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Praise and Gratitude"],
@@ -3186,7 +3186,7 @@
   {
     "item": 168,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Families", "Husbands"],
@@ -3213,7 +3213,7 @@
   {
     "item": 169,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Departed"],
@@ -3236,7 +3236,7 @@
   {
     "item": 170,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 942,
@@ -3258,7 +3258,7 @@
   {
     "item": 171,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 943,
@@ -3276,7 +3276,7 @@
   {
     "item": 172,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 945,
@@ -3294,7 +3294,7 @@
   {
     "item": 173,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -3317,7 +3317,7 @@
   {
     "item": 174,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Praise and Gratitude"],
@@ -3336,7 +3336,7 @@
   {
     "item": 175,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 967,
@@ -3354,7 +3354,7 @@
   {
     "item": 176,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -3369,7 +3369,7 @@
   {
     "item": 177,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 971,
@@ -3387,7 +3387,7 @@
   {
     "item": 178,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional"],
     "length": 987,
@@ -3401,7 +3401,7 @@
   {
     "item": 179,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Steadfastness"],
@@ -3420,7 +3420,7 @@
   {
     "item": 180,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Service"],
@@ -3439,7 +3439,7 @@
   {
     "item": 181,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 999,
@@ -3461,7 +3461,7 @@
   {
     "item": 182,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -3492,7 +3492,7 @@
   {
     "item": 183,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Teaching"],
@@ -3515,7 +3515,7 @@
   {
     "item": 184,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 1014,
@@ -3529,7 +3529,7 @@
   {
     "item": 185,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 1015,
@@ -3551,7 +3551,7 @@
   {
     "item": 186,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 1016,
@@ -3577,7 +3577,7 @@
   {
     "item": 187,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Nearness to God"],
@@ -3596,7 +3596,7 @@
   {
     "item": 188,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -3615,7 +3615,7 @@
   {
     "item": 189,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Gatherings"],
@@ -3634,7 +3634,7 @@
   {
     "item": 190,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1028,
@@ -3652,7 +3652,7 @@
   {
     "item": 191,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1029,
@@ -3674,7 +3674,7 @@
   {
     "item": 192,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1031,
@@ -3696,7 +3696,7 @@
   {
     "item": 193,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Praise and Gratitude"],
@@ -3715,7 +3715,7 @@
   {
     "item": 194,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Departed", "For Women"],
@@ -3734,7 +3734,7 @@
   {
     "item": 195,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tests and Difficulties"],
@@ -3757,7 +3757,7 @@
   {
     "item": 196,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -3780,7 +3780,7 @@
   {
     "item": 197,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Aid and Assistance"],
@@ -3799,7 +3799,7 @@
   {
     "item": 198,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Triumph of the Cause"],
@@ -3822,7 +3822,7 @@
   {
     "item": 199,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1053,
@@ -3844,7 +3844,7 @@
   {
     "item": 200,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Humanity"],
@@ -3867,7 +3867,7 @@
   {
     "item": 201,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -3894,7 +3894,7 @@
   {
     "item": 202,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Humanity"],
@@ -3909,7 +3909,7 @@
   {
     "item": 203,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Marriage"],
@@ -3932,7 +3932,7 @@
   {
     "item": 204,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 1070,
@@ -3950,7 +3950,7 @@
   {
     "item": 205,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1077,
@@ -3968,7 +3968,7 @@
   {
     "item": 206,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1078,
@@ -3986,7 +3986,7 @@
   {
     "item": 207,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1081,
@@ -4004,7 +4004,7 @@
   {
     "item": 208,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1084,
@@ -4030,7 +4030,7 @@
   {
     "item": 209,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -4065,7 +4065,7 @@
   {
     "item": 210,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -4088,7 +4088,7 @@
   {
     "item": 211,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Firmness in the Covenant"],
@@ -4111,7 +4111,7 @@
   {
     "item": 212,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1104,
@@ -4125,7 +4125,7 @@
   {
     "item": 213,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1108,
@@ -4147,7 +4147,7 @@
   {
     "item": 214,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -4170,7 +4170,7 @@
   {
     "item": 215,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Steadfastness"],
@@ -4193,7 +4193,7 @@
   {
     "item": 216,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1120,
@@ -4219,7 +4219,7 @@
   {
     "item": 217,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -4242,7 +4242,7 @@
   {
     "item": 218,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -4269,7 +4269,7 @@
   {
     "item": 219,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1125,
@@ -4291,7 +4291,7 @@
   {
     "item": 220,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1128,
@@ -4313,7 +4313,7 @@
   {
     "item": 221,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Gatherings"],
@@ -4336,7 +4336,7 @@
   {
     "item": 222,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Teaching"],
@@ -4359,7 +4359,7 @@
   {
     "item": 223,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -4386,7 +4386,7 @@
   {
     "item": 224,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1145,
@@ -4404,7 +4404,7 @@
   {
     "item": 225,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1145,
@@ -4422,7 +4422,7 @@
   {
     "item": 226,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 1145,
@@ -4444,7 +4444,7 @@
   {
     "item": 227,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1151,
@@ -4470,7 +4470,7 @@
   {
     "item": 228,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1153,
@@ -4492,7 +4492,7 @@
   {
     "item": 229,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1157,
@@ -4514,7 +4514,7 @@
   {
     "item": 230,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Assembly"],
@@ -4545,7 +4545,7 @@
   {
     "item": 231,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Unity"],
@@ -4576,7 +4576,7 @@
   {
     "item": 232,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Nearness to God"],
@@ -4599,7 +4599,7 @@
   {
     "item": 233,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Steadfastness"],
@@ -4622,7 +4622,7 @@
   {
     "item": 234,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -4649,7 +4649,7 @@
   {
     "item": 235,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1182,
@@ -4675,7 +4675,7 @@
   {
     "item": 236,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1183,
@@ -4697,7 +4697,7 @@
   {
     "item": 237,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 1185,
@@ -4715,7 +4715,7 @@
   {
     "item": 238,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Teaching"],
@@ -4742,7 +4742,7 @@
   {
     "item": 239,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Steadfastness"],
@@ -4781,7 +4781,7 @@
   {
     "item": 240,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1192,
@@ -4803,7 +4803,7 @@
   {
     "item": 241,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1193,
@@ -4829,7 +4829,7 @@
   {
     "item": 242,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Women"],
@@ -4856,7 +4856,7 @@
   {
     "item": 243,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Firmness in the Covenant"],
@@ -4883,7 +4883,7 @@
   {
     "item": 244,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Steadfastness"],
@@ -4902,7 +4902,7 @@
   {
     "item": 245,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Gatherings"],
@@ -4929,7 +4929,7 @@
   {
     "item": 246,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1210,
@@ -4951,7 +4951,7 @@
   {
     "item": 247,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Teaching"],
@@ -4978,7 +4978,7 @@
   {
     "item": 248,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Fast"],
@@ -4997,7 +4997,7 @@
   {
     "item": 249,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Departed"],
@@ -5020,7 +5020,7 @@
   {
     "item": 250,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1223,
@@ -5042,7 +5042,7 @@
   {
     "item": 251,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1227,
@@ -5056,7 +5056,7 @@
   {
     "item": 252,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Families"],
@@ -5079,7 +5079,7 @@
   {
     "item": 253,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional"],
     "length": 1229,
@@ -5109,7 +5109,7 @@
   {
     "item": 254,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Women"],
@@ -5136,7 +5136,7 @@
   {
     "item": 255,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1234,
@@ -5158,7 +5158,7 @@
   {
     "item": 256,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Women"],
@@ -5185,7 +5185,7 @@
   {
     "item": 257,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Fast"],
@@ -5212,7 +5212,7 @@
   {
     "item": 258,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Triumph of the Cause"],
@@ -5239,7 +5239,7 @@
   {
     "item": 259,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Humanity"],
@@ -5282,7 +5282,7 @@
   {
     "item": 260,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1255,
@@ -5308,7 +5308,7 @@
   {
     "item": 261,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1260,
@@ -5330,7 +5330,7 @@
   {
     "item": 262,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tests and Difficulties"],
@@ -5353,7 +5353,7 @@
   {
     "item": 263,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1267,
@@ -5375,7 +5375,7 @@
   {
     "item": 264,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tests and Difficulties"],
@@ -5398,7 +5398,7 @@
   {
     "item": 265,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Assembly"],
@@ -5417,7 +5417,7 @@
   {
     "item": 266,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tests and Difficulties"],
@@ -5444,7 +5444,7 @@
   {
     "item": 267,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Ḥuqúqu’lláh: The Right of God"],
@@ -5467,7 +5467,7 @@
   {
     "item": 268,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1313,
@@ -5493,7 +5493,7 @@
   {
     "item": 269,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1314,
@@ -5515,7 +5515,7 @@
   {
     "item": 270,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1326,
@@ -5529,7 +5529,7 @@
   {
     "item": 271,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1330,
@@ -5551,7 +5551,7 @@
   {
     "item": 272,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1333,
@@ -5569,7 +5569,7 @@
   {
     "item": 273,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1343,
@@ -5591,7 +5591,7 @@
   {
     "item": 274,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Firmness in the Covenant"],
@@ -5618,7 +5618,7 @@
   {
     "item": 275,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1345,
@@ -5644,7 +5644,7 @@
   {
     "item": 276,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Healing"],
@@ -5663,7 +5663,7 @@
   {
     "item": 277,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Women"],
@@ -5690,7 +5690,7 @@
   {
     "item": 278,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1358,
@@ -5716,7 +5716,7 @@
   {
     "item": 279,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -5743,7 +5743,7 @@
   {
     "item": 280,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1363,
@@ -5769,7 +5769,7 @@
   {
     "item": 281,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tests and Difficulties"],
@@ -5792,7 +5792,7 @@
   {
     "item": 282,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Youth"],
@@ -5815,7 +5815,7 @@
   {
     "item": 283,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -5838,7 +5838,7 @@
   {
     "item": 284,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1372,
@@ -5864,7 +5864,7 @@
   {
     "item": 285,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Healing"],
@@ -5887,7 +5887,7 @@
   {
     "item": 286,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Healing", "For Women"],
@@ -5914,7 +5914,7 @@
   {
     "item": 287,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1395,
@@ -5932,7 +5932,7 @@
   {
     "item": 288,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Teaching"],
@@ -5955,7 +5955,7 @@
   {
     "item": 289,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -5982,7 +5982,7 @@
   {
     "item": 290,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1404,
@@ -6012,7 +6012,7 @@
   {
     "item": 291,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Teaching"],
@@ -6039,7 +6039,7 @@
   {
     "item": 292,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 1406,
@@ -6061,7 +6061,7 @@
   {
     "item": 293,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Praise and Gratitude"],
@@ -6080,7 +6080,7 @@
   {
     "item": 294,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -6107,7 +6107,7 @@
   {
     "item": 295,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Women"],
@@ -6138,7 +6138,7 @@
   {
     "item": 296,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 1431,
@@ -6156,7 +6156,7 @@
   {
     "item": 297,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -6183,7 +6183,7 @@
   {
     "item": 298,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1432,
@@ -6209,7 +6209,7 @@
   {
     "item": 299,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1450,
@@ -6231,7 +6231,7 @@
   {
     "item": 300,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Youth"],
@@ -6258,7 +6258,7 @@
   {
     "item": 301,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1471,
@@ -6280,7 +6280,7 @@
   {
     "item": 302,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Morning"],
@@ -6311,7 +6311,7 @@
   {
     "item": 303,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -6346,7 +6346,7 @@
   {
     "item": 304,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Teaching"],
@@ -6373,7 +6373,7 @@
   {
     "item": 305,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -6404,7 +6404,7 @@
   {
     "item": 306,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -6431,7 +6431,7 @@
   {
     "item": 307,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1513,
@@ -6457,7 +6457,7 @@
   {
     "item": 308,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -6480,7 +6480,7 @@
   {
     "item": 309,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Steadfastness"],
@@ -6503,7 +6503,7 @@
   {
     "item": 310,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Morning"],
@@ -6530,7 +6530,7 @@
   {
     "item": 311,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1528,
@@ -6548,7 +6548,7 @@
   {
     "item": 312,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -6587,7 +6587,7 @@
   {
     "item": 313,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1534,
@@ -6613,7 +6613,7 @@
   {
     "item": 314,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1555,
@@ -6639,7 +6639,7 @@
   {
     "item": 315,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1573,
@@ -6669,7 +6669,7 @@
   {
     "item": 316,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tablets of Visitation"],
@@ -6712,7 +6712,7 @@
   {
     "item": 317,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Aid and Assistance"],
@@ -6739,7 +6739,7 @@
   {
     "item": 318,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Steadfastness"],
@@ -6758,7 +6758,7 @@
   {
     "item": 319,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Healing", "For Infants"],
@@ -6777,7 +6777,7 @@
   {
     "item": 320,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1601,
@@ -6803,7 +6803,7 @@
   {
     "item": 321,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -6822,7 +6822,7 @@
   {
     "item": 322,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1608,
@@ -6848,7 +6848,7 @@
   {
     "item": 323,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 1610,
@@ -6870,7 +6870,7 @@
   {
     "item": 324,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1612,
@@ -6896,7 +6896,7 @@
   {
     "item": 325,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Forgiveness"],
@@ -6927,7 +6927,7 @@
   {
     "item": 326,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1637,
@@ -6949,7 +6949,7 @@
   {
     "item": 327,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Triumph of the Cause"],
@@ -6976,7 +6976,7 @@
   {
     "item": 328,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Departed", "For Women"],
@@ -6999,7 +6999,7 @@
   {
     "item": 329,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1662,
@@ -7021,7 +7021,7 @@
   {
     "item": 330,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 1674,
@@ -7043,7 +7043,7 @@
   {
     "item": 331,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1680,
@@ -7069,7 +7069,7 @@
   {
     "item": 332,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1681,
@@ -7091,7 +7091,7 @@
   {
     "item": 333,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1682,
@@ -7121,7 +7121,7 @@
   {
     "item": 334,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1684,
@@ -7147,7 +7147,7 @@
   {
     "item": 335,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1686,
@@ -7169,7 +7169,7 @@
   {
     "item": 336,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Detachment"],
@@ -7200,7 +7200,7 @@
   {
     "item": 337,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Nearness to God"],
@@ -7223,7 +7223,7 @@
   {
     "item": 338,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Gatherings"],
@@ -7254,7 +7254,7 @@
   {
     "item": 339,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Triumph of the Cause"],
@@ -7285,7 +7285,7 @@
   {
     "item": 340,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Praise and Gratitude"],
@@ -7316,7 +7316,7 @@
   {
     "item": 341,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1744,
@@ -7342,7 +7342,7 @@
   {
     "item": 342,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Intercalary Days"],
@@ -7373,7 +7373,7 @@
   {
     "item": 343,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1748,
@@ -7403,7 +7403,7 @@
   {
     "item": 344,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1764,
@@ -7429,7 +7429,7 @@
   {
     "item": 345,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1793,
@@ -7447,7 +7447,7 @@
   {
     "item": 346,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Nearness to God"],
@@ -7502,7 +7502,7 @@
   {
     "item": 347,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1823,
@@ -7520,7 +7520,7 @@
   {
     "item": 348,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1830,
@@ -7546,7 +7546,7 @@
   {
     "item": 349,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1833,
@@ -7576,7 +7576,7 @@
   {
     "item": 350,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Nearness to God"],
@@ -7591,7 +7591,7 @@
   {
     "item": 351,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1856,
@@ -7617,7 +7617,7 @@
   {
     "item": 352,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Obligatory Prayers"],
@@ -7685,7 +7685,7 @@
   {
     "item": 353,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1867,
@@ -7711,7 +7711,7 @@
   {
     "item": 354,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 1953,
@@ -7737,7 +7737,7 @@
   {
     "item": 355,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1964,
@@ -7763,7 +7763,7 @@
   {
     "item": 356,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1967,
@@ -7789,7 +7789,7 @@
   {
     "item": 357,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Prayers of ‘Abdu’l‑Bahá"],
     "length": 1968,
@@ -7815,7 +7815,7 @@
   {
     "item": 358,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 1991,
@@ -7837,7 +7837,7 @@
   {
     "item": 359,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2018,
@@ -7867,7 +7867,7 @@
   {
     "item": 360,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 2051,
@@ -7897,7 +7897,7 @@
   {
     "item": 361,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2067,
@@ -7931,7 +7931,7 @@
   {
     "item": 362,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2077,
@@ -7961,7 +7961,7 @@
   {
     "item": 363,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2082,
@@ -7987,7 +7987,7 @@
   {
     "item": 364,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2116,
@@ -8013,7 +8013,7 @@
   {
     "item": 365,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -8040,7 +8040,7 @@
   {
     "item": 366,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 2117,
@@ -8074,7 +8074,7 @@
   {
     "item": 367,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -8101,7 +8101,7 @@
   {
     "item": 368,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 2163,
@@ -8163,7 +8163,7 @@
   {
     "item": 369,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2196,
@@ -8197,7 +8197,7 @@
   {
     "item": 370,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 2232,
@@ -8215,7 +8215,7 @@
   {
     "item": 371,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2302,
@@ -8249,7 +8249,7 @@
   {
     "item": 372,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Spiritual Growth"],
@@ -8284,7 +8284,7 @@
   {
     "item": 373,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2427,
@@ -8314,7 +8314,7 @@
   {
     "item": 374,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2534,
@@ -8336,7 +8336,7 @@
   {
     "item": 375,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2561,
@@ -8362,7 +8362,7 @@
   {
     "item": 376,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2595,
@@ -8388,7 +8388,7 @@
   {
     "item": 377,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2657,
@@ -8418,7 +8418,7 @@
   {
     "item": 378,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2666,
@@ -8440,7 +8440,7 @@
   {
     "item": 379,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2697,
@@ -8474,7 +8474,7 @@
   {
     "item": 380,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2716,
@@ -8516,7 +8516,7 @@
   {
     "item": 381,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Triumph of the Cause"],
@@ -8559,7 +8559,7 @@
   {
     "item": 382,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Departed"],
@@ -8614,7 +8614,7 @@
   {
     "item": 383,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Naw‑Rúz"],
@@ -8649,7 +8649,7 @@
   {
     "item": 384,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2774,
@@ -8679,7 +8679,7 @@
   {
     "item": 385,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2793,
@@ -8709,7 +8709,7 @@
   {
     "item": 386,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
@@ -8752,7 +8752,7 @@
   {
     "item": 387,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2869,
@@ -8778,7 +8778,7 @@
   {
     "item": 388,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2876,
@@ -8804,7 +8804,7 @@
   {
     "item": 389,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 2920,
@@ -8838,7 +8838,7 @@
   {
     "item": 390,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Martyrs and Their Families"],
@@ -8881,7 +8881,7 @@
   {
     "item": 391,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": [
@@ -8944,7 +8944,7 @@
   {
     "item": 392,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 3018,
@@ -8978,7 +8978,7 @@
   {
     "item": 393,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 3045,
@@ -9016,7 +9016,7 @@
   {
     "item": 394,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Service"],
@@ -9059,7 +9059,7 @@
   {
     "item": 395,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 3165,
@@ -9089,7 +9089,7 @@
   {
     "item": 396,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 3170,
@@ -9115,7 +9115,7 @@
   {
     "item": 397,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 3199,
@@ -9137,7 +9137,7 @@
   {
     "item": 398,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Bahá’í Prayers"],
     "categories": ["Praise and Gratitude"],
@@ -9172,7 +9172,7 @@
   {
     "item": 399,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 3459,
@@ -9206,7 +9206,7 @@
   {
     "item": 400,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 3506,
@@ -9232,7 +9232,7 @@
   {
     "item": 401,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 3510,
@@ -9266,7 +9266,7 @@
   {
     "item": 402,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 3640,
@@ -9304,7 +9304,7 @@
   {
     "item": 403,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 3672,
@@ -9346,7 +9346,7 @@
   {
     "item": 404,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 3678,
@@ -9388,7 +9388,7 @@
   {
     "item": 405,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
     "length": 3708,
@@ -9418,7 +9418,7 @@
   {
     "item": 406,
     "type": "Prayer",
-    "years": [1875, 1921],
+    "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
     "length": 3801,
@@ -9456,7 +9456,7 @@
   {
     "item": 407,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Tablets of Visitation"],
@@ -9499,7 +9499,7 @@
   {
     "item": 408,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 4094,
@@ -9529,7 +9529,7 @@
   {
     "item": 409,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 4294,
@@ -9571,7 +9571,7 @@
   {
     "item": 410,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 4349,
@@ -9617,7 +9617,7 @@
   {
     "item": 411,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 4445,
@@ -9663,7 +9663,7 @@
   {
     "item": 412,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 4592,
@@ -9697,7 +9697,7 @@
   {
     "item": 413,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 4661,
@@ -9743,7 +9743,7 @@
   {
     "item": 414,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 4709,
@@ -9789,7 +9789,7 @@
   {
     "item": 415,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 4887,
@@ -9843,7 +9843,7 @@
   {
     "item": 416,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 5108,
@@ -9889,7 +9889,7 @@
   {
     "item": 417,
     "type": "Prayer",
-    "years": [1844, 1850],
+    "years": [1844, 1853],
     "author": "The Báb",
     "path": ["Selections from the Writings of the Báb"],
     "length": 5129,
@@ -9947,7 +9947,7 @@
   {
     "item": 418,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 5182,
@@ -9993,7 +9993,7 @@
   {
     "item": 419,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Fast"],
@@ -10040,7 +10040,7 @@
   {
     "item": 420,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 6579,
@@ -10094,7 +10094,7 @@
   {
     "item": 421,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Obligatory Prayers"],
@@ -10226,7 +10226,7 @@
   {
     "item": 422,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Healing"],
@@ -10426,7 +10426,7 @@
   {
     "item": 423,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Fast"],
@@ -10493,7 +10493,7 @@
   {
     "item": 424,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 8963,
@@ -10559,7 +10559,7 @@
   {
     "item": 425,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 9936,
@@ -10621,7 +10621,7 @@
   {
     "item": 426,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 10619,
@@ -10679,7 +10679,7 @@
   {
     "item": 427,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["The Fast"],
@@ -10742,7 +10742,7 @@
   {
     "item": 428,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 13192,
@@ -10820,7 +10820,7 @@
   {
     "item": 429,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Additional"],
     "length": 15666,
@@ -10902,7 +10902,7 @@
   {
     "item": 430,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 23054,
@@ -11000,7 +11000,7 @@
   {
     "item": 431,
     "type": "Prayer",
-    "years": [1852, 1892],
+    "years": [1853, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
     "length": 30757,

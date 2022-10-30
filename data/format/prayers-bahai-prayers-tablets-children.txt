@@ -1,5 +1,5 @@
 Bahá’í Prayers and Tablets for Children
-years=[1875,1921]
+years=[1892,1921]
 type="Prayer"
 collection
 

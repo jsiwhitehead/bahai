@@ -1,6 +1,6 @@
 Additional
 author="Shoghi Effendi"
-years=[1922,1957]
+years=[1921,1957]
 collection
 
 # 10 February 1926, written on Behalf of Shoghi Effendi to an individual believer

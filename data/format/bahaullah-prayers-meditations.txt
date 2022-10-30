@@ -1,6 +1,6 @@
 Prayers and Meditations
 author="Bahá’u’lláh"
-years=[1852,1892]
+years=[1853,1892]
 type="Prayer"
 collection
 

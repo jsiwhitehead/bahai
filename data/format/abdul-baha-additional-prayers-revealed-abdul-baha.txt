@@ -1,6 +1,6 @@
 Additional Prayers Revealed by ‘Abdu’l‑Bahá
 author="‘Abdu’l‑Bahá"
-years=[1875,1921]
+years=[1892,1921]
 type="Prayer"
 collection
 

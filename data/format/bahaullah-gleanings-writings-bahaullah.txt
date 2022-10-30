@@ -1,6 +1,6 @@
 Gleanings from the Writings of Bahá’u’lláh
 author="Bahá’u’lláh"
-years=[1852,1892]
+years=[1853,1892]
 collection
 
 #

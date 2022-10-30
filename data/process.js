@@ -14,10 +14,10 @@ const noBlanks = (obj) =>
   );
 
 const authorYears = {
-  "The Báb": [1844, 1850],
-  "Bahá’u’lláh": [1852, 1892],
-  "‘Abdu’l‑Bahá": [1875, 1921],
-  "Shoghi Effendi": [1922, 1957],
+  "The Báb": [1844, 1853],
+  "Bahá’u’lláh": [1853, 1892],
+  "‘Abdu’l‑Bahá": [1892, 1921],
+  "Shoghi Effendi": [1921, 1957],
 };
 
 const months = [
