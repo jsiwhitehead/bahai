@@ -2349,7 +2349,7 @@
     "years": [1914, 1914],
     "paragraphs": [
       {
-        "text": "A great melee of the civilised nations is in sight. A tremendous conflict is at hand. The world is at the threshold of a most tragic struggle. . . . Vast armies—millions of men—are being mobilised and stationed at their frontiers. They are being prepared for the fearful contest. The slightest friction will bring them into a terrific crash, and there will be a conflagration, the like of which is not recorded in the past history of mankind."
+        "text": "A great melee of the civilised nations is in sight. A tremendous conflict is at hand. The world is at the threshold of a most tragic struggle. . . . Vast armies—millions of men—are being mobilised and stationed at their frontiers. They are being prepared for the fearful contest. The slightest friction will bring them into a terrible crash, and there will be a conflagration, the like of which is not recorded in the past history of mankind."
       }
     ]
   },
@@ -5479,7 +5479,7 @@
   {
     "path": ["Additional"],
     "item": 406,
-    "title": "‘Abdu’l‑Bahá on Divine Philosophy (Boston: Tudor Press, 1918), pp. 41–42.",
+    "title": "‘Abdu’l‑Bahá on Divine Philosophy (Boston: Tudor Press, 1918), pp. 41—42.",
     "author": "‘Abdu’l‑Bahá",
     "years": [1918, 1918],
     "paragraphs": [
@@ -5491,7 +5491,7 @@
   {
     "path": ["Additional"],
     "item": 407,
-    "title": "‘Abdu’l‑Bahá on Divine Philosophy (Boston: Tudor Press, 1918), pp. 131–32.",
+    "title": "‘Abdu’l‑Bahá on Divine Philosophy (Boston: Tudor Press, 1918), pp. 131—32.",
     "author": "‘Abdu’l‑Bahá",
     "years": [1918, 1918],
     "paragraphs": [
@@ -5515,7 +5515,7 @@
   {
     "path": ["Additional"],
     "item": 409,
-    "title": "‘Abdu’l‑Bahá on Divine Philosophy (Boston: Tudor Press, 1918), pp. 111–12.",
+    "title": "‘Abdu’l‑Bahá on Divine Philosophy (Boston: Tudor Press, 1918), pp. 111—12.",
     "author": "‘Abdu’l‑Bahá",
     "years": [1918, 1918],
     "paragraphs": [
@@ -5539,12 +5539,27 @@
   {
     "path": ["Additional"],
     "item": 411,
-    "title": "Tablets of ‘Abdu’l‑Bahá Abbás, vol. 2 (New York: Bahá’í Publishing Committee, 1915), pp. 392–93.",
+    "title": "Tablets of ‘Abdu’l‑Bahá Abbás, vol. 2 (New York: Bahá’í Publishing Committee, 1915), pp. 392—93.",
     "author": "‘Abdu’l‑Bahá",
     "years": [1915, 1915],
     "paragraphs": [
       {
         "text": "O ye beloved of God, know that steadfastness and firmness in this new and wonderful Covenant is indeed the spirit that quickeneth the hearts which are overflowing with the love of the Glorious Lord; verily, it is the power which penetrates into the hearts of the people of the world! Your Lord hath assuredly promised His servants who are firm and steadfast to render them victorious at all times, to exalt their word, propagate their power, diffuse their lights, strengthen their hearts, elevate their banners, assist their hosts, brighten their stars, increase the abundance of the showers of mercy upon them, and enable the brave lions (or teachers) to conquer."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 412,
+    "title": " ‘Abdu’l‑Bahá on Divine Philosophy (Boston: Tudor Press, 1918), pp. 125—26.",
+    "author": "‘Abdu’l‑Bahá",
+    "years": [1918, 1918],
+    "paragraphs": [
+      {
+        "text": ". . . the divine reality is unlimited and immeasurable and can never stop or deteriorate, therefore the holy souls who are confirmed with this divine power are likewise endowed with eternal motion. Their progress becomes unlimited. Day unto day their lives are strengthened, the circle of their comprehension becomes wider, the sphere of their intellects becomes more effectual and their capacities are increased."
+      },
+      {
+        "text": "I desire for you that ideal power, so that you may come into the stream of uninterrupted motion and never cease progressing."
       }
     ]
   }

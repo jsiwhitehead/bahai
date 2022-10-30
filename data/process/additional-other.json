@@ -13,6 +13,18 @@
   {
     "path": ["Additional"],
     "item": 2,
+    "title": "From a cablegram sent by the Hands of the Cause of God to the Bahá’í world, received on 22 April 1963",
+    "author": "Hands of the Cause",
+    "years": [0, 3000],
+    "paragraphs": [
+      {
+        "text": "TO JUBILATION ENTIRE BAHÁ’Í WORLD VICTORIOUS COMPLETION BELOVED GUARDIAN’S UNIQUE CRUSADE NOW ADDED HUMBLE GRATITUDE PROFOUND THANKSGIVING FOLLOWERS BAHÁ’U’LLÁH FOR ERECTION UNIVERSAL HOUSE JUSTICE AUGUST BODY TO WHOM ALL BELIEVERS MUST TURN WHOSE DESTINY IS TO GUIDE UNFOLDMENT HIS EMBRYONIC WORLD ORDER THROUGH ADMINISTRATIVE INSTITUTIONS PRESCRIBED BY BAHÁ’U’LLÁH ELABORATED BY `ABDU’L‑BAHÁ LABORIOUSLY ERECTED BY SHOGHI EFFENDI AND ENSURE EARLY DAWN GOLDEN AGE FAITH WHEN THE WORD OF THE LORD WILL COVER THE EARTH AS THE WATERS COVER THE SEA."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 3,
     "title": "The Fall of Paris (London: Macmillan, 1965), p. 34.",
     "author": "Alistair Horne",
     "years": [0, 3000],
@@ -24,7 +36,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 3,
+    "item": 4,
     "title": "Introduction to A Traveller’s Narrative (Episode of the Báb).",
     "author": "Edward Granville Browne",
     "years": [1900, 1900],
@@ -36,7 +48,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 4,
+    "item": 5,
     "title": "A Traveller’s Narrative (New York: Bahá’í Publishing Committee, 1930), pp. xxxix—xl.",
     "author": "Edward Granville Browne",
     "years": [1900, 1900],
@@ -57,7 +69,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 5,
+    "item": 6,
     "title": "The Bahá’í Centenary, 1844—1944, compiled by the National Spiritual Assembly of the Bahá’ís of the United States and Canada (Wilmette: Bahá’í Publishing Committee, 1944), pp. 140—141.",
     "author": "Thornton Chase",
     "years": [0, 3000],
@@ -69,7 +81,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 6,
+    "item": 7,
     "title": "Religion for Mankind (London: George Ronald, 1956), pp. 243—244.",
     "author": "Horace Holley",
     "years": [0, 3000],
@@ -81,7 +93,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 7,
+    "item": 8,
     "title": "The Priceless Pearl (London: Bahá’í Publishing Trust, 1969), pp. 121, 123.",
     "author": "Rúḥíyyih Rabbání",
     "years": [0, 3000],
@@ -93,7 +105,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 8,
+    "item": 9,
     "title": "Excerpt from an address by Edward Granville Browne, published in Religious Systems of the World: A Contribution to the Study of Comparative Religion, 3rd ed. (New York: Macmillan, 1892), pp. 352—353.",
     "author": "Edward Granville Browne",
     "years": [1900, 1900],
@@ -105,7 +117,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 9,
+    "item": 10,
     "author": "German Federal Constitutional Court",
     "years": [0, 3000],
     "paragraphs": [
@@ -116,7 +128,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 10,
+    "item": 11,
     "title": "Signs of the Times",
     "author": "Carlyle",
     "years": [0, 3000],
@@ -128,7 +140,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 11,
+    "item": 12,
     "title": "Frederick the Great, Book I, Chap. 1",
     "author": "Carlyle",
     "years": [0, 3000],
@@ -140,7 +152,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 12,
+    "item": 13,
     "title": "Deut. xviii, 22",
     "author": "Bible",
     "years": [0, 3000],
@@ -152,7 +164,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 13,
+    "item": 14,
     "title": "Matt. vii, 15—17, 20",
     "author": "Bible",
     "years": [0, 3000],
@@ -164,7 +176,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 14,
+    "item": 15,
     "title": "Súrih lvii. 27",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -176,7 +188,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 15,
+    "item": 16,
     "author": "Tennyson",
     "years": [0, 3000],
     "paragraphs": [
@@ -196,7 +208,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 16,
+    "item": 17,
     "title": "Human Personality",
     "author": "F. W. H. Myers",
     "years": [0, 3000],
@@ -214,7 +226,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 17,
+    "item": 18,
     "title": "Daniel xii, 4—9",
     "author": "Bible",
     "years": [0, 3000],
@@ -226,7 +238,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 18,
+    "item": 19,
     "title": "Isa. ix, 2—7",
     "author": "Bible",
     "years": [0, 3000],
@@ -238,7 +250,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 19,
+    "item": 20,
     "title": "Isa. xl, 1—5",
     "author": "Bible",
     "years": [0, 3000],
@@ -250,7 +262,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 20,
+    "item": 21,
     "title": "Matt. xiii, 40—43",
     "author": "Bible",
     "years": [0, 3000],
@@ -262,7 +274,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 21,
+    "item": 22,
     "title": "I Cor. xv, 51—53",
     "author": "Bible",
     "years": [0, 3000],
@@ -274,7 +286,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 22,
+    "item": 23,
     "title": "Luke xxi, 20—24",
     "author": "Bible",
     "years": [0, 3000],
@@ -286,7 +298,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 23,
+    "item": 24,
     "title": "Matt. xxiv, 4—14",
     "author": "Bible",
     "years": [0, 3000],
@@ -298,7 +310,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 24,
+    "item": 25,
     "title": "Súrih iii, 54",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -310,7 +322,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 25,
+    "item": 26,
     "title": "Súrih v, 69",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -322,7 +334,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 26,
+    "item": 27,
     "title": "Súrih v, 17",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -334,7 +346,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 27,
+    "item": 28,
     "title": "Joel ii, 30—31; iii, 1—2, 14—16",
     "author": "Bible",
     "years": [0, 3000],
@@ -346,7 +358,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 28,
+    "item": 29,
     "title": "Súrih lxxxi",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -359,7 +371,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 29,
+    "item": 30,
     "title": "Matt. xxiv, 30—31; xxv, 31—32",
     "author": "Bible",
     "years": [0, 3000],
@@ -371,7 +383,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 30,
+    "item": 31,
     "title": "Mal. iii, 1—2; iv. 1—2",
     "author": "Bible",
     "years": [0, 3000],
@@ -383,7 +395,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 31,
+    "item": 32,
     "title": "Deut. xviii, 21—22",
     "author": "Bible",
     "years": [0, 3000],
@@ -395,7 +407,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 32,
+    "item": 33,
     "title": "Isa. lv, 10—11",
     "author": "Bible",
     "years": [0, 3000],
@@ -407,7 +419,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 33,
+    "item": 34,
     "title": "Matt. xi, 4—6",
     "author": "Bible",
     "years": [0, 3000],
@@ -419,7 +431,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 34,
+    "item": 35,
     "title": "New History of the Báb, translated by Prof. E. G. Browne",
     "author": "Jábir",
     "years": [0, 3000],
@@ -431,7 +443,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 35,
+    "item": 36,
     "author": "A Persian historian of the Bahá’í Faith",
     "years": [0, 3000],
     "paragraphs": [
@@ -442,7 +454,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 36,
+    "item": 37,
     "title": "The Modern Social Religion",
     "author": "Horace Holley",
     "years": [0, 3000],
@@ -457,7 +469,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 37,
+    "item": 38,
     "title": "Glimpses of ‘Abdu’l‑Bahá",
     "author": "M. J. M.",
     "years": [0, 3000],
@@ -469,7 +481,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 38,
+    "item": 39,
     "title": "In Galilee",
     "author": "Thornton Chase",
     "years": [0, 3000],
@@ -481,7 +493,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 39,
+    "item": 40,
     "title": "The Passing of ‘Abdu’l‑Bahá",
     "author": "Lady Blomfield and Shoghi Effendi",
     "years": [0, 3000],
@@ -502,7 +514,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 40,
+    "item": 41,
     "author": "Qur’án",
     "years": [0, 3000],
     "paragraphs": [
@@ -513,7 +525,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 41,
+    "item": 42,
     "title": "The Priceless Pearl",
     "author": "Amatu’l‑Bahá Rúḥíyyih Khánum",
     "years": [0, 3000],
@@ -528,7 +540,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 42,
+    "item": 43,
     "title": "In Galilee",
     "author": "Various",
     "years": [0, 3000],
@@ -544,7 +556,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 43,
+    "item": 44,
     "title": "Account published in Star of the West, vol. XXIV",
     "author": "Mary Hanford Ford",
     "years": [0, 3000],
@@ -556,7 +568,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 44,
+    "item": 45,
     "title": "XVI, 38",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -568,7 +580,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 45,
+    "item": 46,
     "title": "Súrih 10, verse 47",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -580,7 +592,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 46,
+    "item": 47,
     "title": "Súrih 16, verse 36",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -592,7 +604,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 47,
+    "item": 48,
     "title": "Súrih 16, verse 84",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -604,7 +616,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 48,
+    "item": 49,
     "title": "Súrih 35, verse 24",
     "author": "Qur’án",
     "years": [0, 3000],
@@ -616,7 +628,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 49,
+    "item": 50,
     "title": "Agreement with the Government of Israel, 22 April 1987",
     "author": "Government of Israel",
     "years": [0, 3000],
@@ -631,7 +643,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 50,
+    "item": 51,
     "title": "25 June 1992",
     "author": "The friends in Írán",
     "years": [0, 3000],
@@ -658,7 +670,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 51,
+    "item": 52,
     "author": "The friends in Iṣfáhán",
     "years": [0, 3000],
     "paragraphs": [
@@ -675,7 +687,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 52,
+    "item": 53,
     "author": "A well‑known scientific thinker, who is not a Bahá’í",
     "years": [0, 3000],
     "paragraphs": [
@@ -689,7 +701,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 53,
+    "item": 54,
     "title": "Secret document dated 25 February 1991",
     "author": "Íránian Supreme Revolutionary Council",
     "years": [0, 3000],
@@ -713,7 +725,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 54,
+    "item": 55,
     "title": "Court verdict",
     "author": "Íránian Court",
     "years": [0, 3000],
@@ -725,7 +737,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 55,
+    "item": 56,
     "title": "Comment in 1959",
     "author": "Hands of the Cause",
     "years": [0, 3000],
@@ -737,7 +749,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 56,
+    "item": 57,
     "title": "Book 5, to the Collaborators",
     "author": "Ruhi Institute",
     "years": [0, 3000],
@@ -749,7 +761,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 57,
+    "item": 58,
     "title": "Letter dated 8 July 2005 from the Department of Statistics at the Bahá’í World Centre to the National Spiritual Assembly of Namibia",
     "author": "Department of Statistics",
     "years": [0, 3000],
@@ -761,7 +773,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 58,
+    "item": 59,
     "author": "Eyewitness to how the words of Bahá’u’lláh were recorded",
     "years": [0, 3000],
     "paragraphs": [
@@ -775,12 +787,24 @@
   },
   {
     "path": ["Additional"],
-    "item": 59,
+    "item": 60,
     "author": "Nabíl",
     "years": [0, 3000],
     "paragraphs": [
       {
         "text": "Many a night no less than ten persons subsisted on no more than a pennyworth of dates. No one knew to whom actually belonged the shoes, the cloaks, or the robes that were to be found in their houses. Whoever went to the bazaar could claim that the shoes upon his feet were his own, and each one who entered the presence of Bahá’u’lláh could affirm that the cloak and robe he then wore belonged to him. . . . O, for the joy of those days, and the gladness and wonder of those hours!"
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 61,
+    "title": "Excerpts from a letter of the Greatest Holy Leaf to the American Bahá’ís, 1924",
+    "author": "The Greatest Holy Leaf",
+    "years": [0, 3000],
+    "paragraphs": [
+      {
+        "text": "Let us then, affectionate brothers and sisters, ponder for a while upon the underlying reason that had made God’s divine Messengers prefer a life of torture to one of ease, and those blessed martyrs, so many of them cut off in the springtime and promise of their youth, choose death with faces radiant with joy. What did the Báb sacrifice His promising youth for except out of a burning desire to have mankind live in unity and peace; and what was the spirit that animated those bold and heroic martyrs but love and adoration to a Cause they wished to triumph? What made Bahá’u’lláh, born and brought up in opulence, fling away all earthly possessions and choose upon Himself unspeakable hardships and deprivation, save for an earnest appeal to the world at large to turn their hatred for one another into genuine love and to make a world seething with blood a peaceful home for God’s children; and why did ‘Abdu’l‑Bahá who could have chosen a life of ease and comfort, prefer to lead a crusade against the strongholds of human hearts and make a direct appeal to individuals as well as groups that unless we love one another with all our might and with all our heart we are absolutely doomed. He carried a crusade not with a sword of steel but with a sword of love and affection. And if we dare call ourselves Bahá’ís it simply means that we have to follow in their wake. It means that we must always have the public weal in mind and not give up ourselves wholly to our inclinations and desires, and it means that we must picture before us the perseverance and self‑sacrifice of those early volunteers and make a whole‑hearted effort to be like unto one of them; and it shall be only in this way that we can safeguard this great Cause of God . . ."
       }
     ]
   }

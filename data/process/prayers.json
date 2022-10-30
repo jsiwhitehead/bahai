@@ -6076,6 +6076,33 @@
   {
     "item": 293,
     "type": "Prayer",
+    "years": [1844, 1850],
+    "author": "The Báb",
+    "path": ["Bahá’í Prayers"],
+    "categories": ["Detachment"],
+    "length": 1431,
+    "paragraphs": [
+      {
+        "index": 1,
+        "text": "In the Name of thy Lord, the Creator, the Sovereign, the All‑Sufficing, the Most Exalted, He Whose help is implored by all men."
+      },
+      {
+        "index": 2,
+        "text": "Say: O my God! O Thou Who art the Maker of the heavens and of the earth, O Lord of the Kingdom! Thou well knowest the secrets of my heart, while Thy Being is inscrutable to all save Thyself. Thou seest whatsoever is of me, while no one else can do this save Thee. Vouchsafe unto me, through Thy grace, what will enable me to dispense with all except Thee, and destine for me that which will make me independent of everyone else besides Thee. Grant that I may reap the benefit of my life in this world and in the next. Open to my face the portals of Thy grace, and graciously confer upon me Thy tender mercy and bestowals."
+      },
+      {
+        "index": 3,
+        "text": "O Thou Who art the Lord of grace abounding! Let Thy celestial aid surround those who love Thee, and bestow upon us the gifts and the bounties Thou dost possess. Be Thou sufficient unto us of all things, forgive our sins and have mercy upon us. Thou art our Lord and the Lord of all created things. No one else do we invoke but Thee, and naught do we beseech but Thy favours. Thou art the Lord of bounty and grace, invincible in Thy power and the most skilful in Thy designs. No God is there but Thee, the All‑Possessing, the Most Exalted."
+      },
+      {
+        "index": 4,
+        "text": "Confer Thy blessings, O my Lord, upon the Messengers, the holy ones and the righteous. Verily, Thou art God, the Peerless, the All‑Compelling."
+      }
+    ]
+  },
+  {
+    "item": 294,
+    "type": "Prayer",
     "years": [1852, 1892],
     "author": "Bahá’u’lláh",
     "path": ["Prayers and Meditations"],
@@ -6096,33 +6123,6 @@
       {
         "index": 4,
         "text": "Deny me not, O my Lord, what is with Thee, and suffer me not to be forgetful of what Thou didst desire in Thy days. Thou art, verily, the Almighty, the Most Exalted, the All‑Glorious, the All‑Wise."
-      }
-    ]
-  },
-  {
-    "item": 294,
-    "type": "Prayer",
-    "years": [1844, 1850],
-    "author": "The Báb",
-    "path": ["Bahá’í Prayers"],
-    "categories": ["Detachment"],
-    "length": 1432,
-    "paragraphs": [
-      {
-        "index": 1,
-        "text": "In the Name of thy Lord, the Creator, the Sovereign, the All‑Sufficing, the Most Exalted, He Whose help is implored by all men."
-      },
-      {
-        "index": 2,
-        "text": "Say: O my God! O Thou Who art the Maker of the heavens and of the earth, O Lord of the Kingdom! Thou well knowest the secrets of my heart, while Thy Being is inscrutable to all save Thyself. Thou seest whatsoever is of me, while no one else can do this save Thee. Vouchsafe unto me, through Thy grace, what will enable me to dispense with all except Thee, and destine for me that which will make me independent of everyone else besides Thee. Grant that I may reap the benefit of my life in this world and in the next. Open to my face the portals of Thy grace, and graciously confer upon me Thy tender mercy and bestowals."
-      },
-      {
-        "index": 3,
-        "text": "O Thou Who art the Lord of grace abounding! Let Thy celestial aid surround those who love Thee, and bestow upon us the gifts and the bounties Thou dost possess. Be Thou sufficient unto us of all things, forgive our sins and have mercy upon us. Thou art our Lord and the Lord of all created things. No one else do we invoke but Thee, and naught do we beseech but Thy favours. Thou art the Lord of bounty and grace, invincible in Thy power and the most skillful in Thy designs. No God is there but Thee, the All‑Possessing, the Most Exalted."
-      },
-      {
-        "index": 4,
-        "text": "Confer Thy blessings, O my Lord, upon the Messengers, the holy ones and the righteous. Verily, Thou art God, the Peerless, the All‑Compelling."
       }
     ]
   },

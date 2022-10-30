@@ -727,6 +727,7 @@ export const files = {
         reference="${s.slice(s.indexOf(".") + 2)}"`,
       ],
       ["of glory, and will aid", "of glory, and shall aid"],
+      ["Revelation of God, His name and", "Revelation of God, His names and"],
     ],
     "kitab-i-iqan": [
       removeAfter("Notes"),
@@ -1697,6 +1698,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ["spurred by those reflections", "spurred by these reflections"],
       ["considerations of numbers, or", "considerations of number, or"],
       ["the limitations of our", "the limitation of our"],
+      ["friends and kindreds. No", "friends and kindred. No"],
     ],
     "citadel-faith": [
       ["Messages to America 1947—1957", ""],
@@ -2510,6 +2512,10 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["restless, and it condition", "restless, and its condition"],
       ["second condition:—They must", "second condition . . . They must"],
       ["own opinion and must", "own opinion and . . . must"],
+      ["Revelation of God, His name and", "Revelation of God, His names and"],
+      ["the “Seen” and “Hidden”—all", "the “Seen” and the “Hidden”—all"],
+      ["being were deeply immersed", "being were deep immersed"],
+      ["their utterance to be the Voice", "their utterances to be the Voice"],
     ],
   },
   compilations: {

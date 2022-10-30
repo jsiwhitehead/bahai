@@ -3253,23 +3253,27 @@
         {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 82
+        },
+        {
+          "id": "ruhi9-001",
+          "paragraph": 174
         }
       ],
       "parts": [
         {
           "start": 40,
           "end": 522,
-          "count": 1
+          "count": 2
         },
         {
           "start": 523,
           "end": 529,
-          "count": 1
+          "count": 2
         },
         {
           "start": 529,
           "end": 776,
-          "count": 2
+          "count": 3
         },
         {
           "start": 776,
@@ -3549,6 +3553,10 @@
           "paragraph": 9
         },
         {
+          "id": "bahaullah-kitab-i-aqdas-166",
+          "paragraph": 4
+        },
+        {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 85
         },
@@ -3565,37 +3573,32 @@
         {
           "start": 0,
           "end": 143,
-          "count": 2
+          "count": 4
         },
         {
           "start": 143,
           "end": 186,
-          "count": 1
+          "count": 3
         },
         {
           "start": 186,
           "end": 324,
-          "count": 2
+          "count": 4
         },
         {
           "start": 324,
           "end": 350,
-          "count": 1
+          "count": 2
         },
         {
           "start": 350,
-          "end": 371,
-          "count": 3
-        },
-        {
-          "start": 371,
           "end": 385,
-          "count": 2
+          "count": 3
         },
         {
           "start": 385,
           "end": 407,
-          "count": 1
+          "count": 2
         },
         {
           "start": 407,
@@ -3605,12 +3608,12 @@
         {
           "start": 490,
           "end": 492,
-          "count": 1
+          "count": 2
         },
         {
           "start": 492,
           "end": 538,
-          "count": 2
+          "count": 3
         },
         {
           "start": 538,
@@ -3620,12 +3623,12 @@
         {
           "start": 564,
           "end": 616,
-          "count": 2
+          "count": 3
         },
         {
           "start": 616,
           "end": 636,
-          "count": 1
+          "count": 2
         },
         {
           "start": 636,
@@ -3635,32 +3638,37 @@
         {
           "start": 716,
           "end": 718,
-          "count": 1
+          "count": 2
         },
         {
           "start": 718,
           "end": 814,
-          "count": 2
+          "count": 3
         },
         {
           "start": 814,
           "end": 1252,
-          "count": 1
+          "count": 2
         },
         {
           "start": 1252,
           "end": 1478,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1478,
           "end": 1751,
+          "count": 2
+        },
+        {
+          "start": 1751,
+          "end": 1752,
           "count": 1
         },
         {
           "start": 1752,
           "end": 2669,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -20517,7 +20525,7 @@
       ]
     }
   },
-  "additional-other-029": {
+  "additional-other-030": {
     "1": {
       "refs": [
         {
@@ -37561,7 +37569,7 @@
       ]
     }
   },
-  "additional-other-004": {
+  "additional-other-005": {
     "1": {
       "refs": [
         {
@@ -47439,7 +47447,7 @@
       ]
     }
   },
-  "additional-other-041": {
+  "additional-other-042": {
     "1": {
       "refs": [
         {
@@ -47471,7 +47479,7 @@
       ]
     }
   },
-  "additional-other-042": {
+  "additional-other-043": {
     "1": {
       "refs": [
         {
@@ -47503,7 +47511,7 @@
       ]
     }
   },
-  "additional-other-043": {
+  "additional-other-044": {
     "1": {
       "refs": [
         {
@@ -50919,7 +50927,7 @@
       "parts": [
         {
           "start": 0,
-          "end": 786,
+          "end": 785,
           "count": 1
         }
       ]
@@ -55682,7 +55690,7 @@
       ]
     }
   },
-  "additional-other-045": {
+  "additional-other-046": {
     "1": {
       "refs": [
         {
@@ -55699,7 +55707,7 @@
       ]
     }
   },
-  "additional-other-047": {
+  "additional-other-048": {
     "1": {
       "refs": [
         {
@@ -56092,7 +56100,7 @@
       ]
     }
   },
-  "additional-other-049": {
+  "additional-other-050": {
     "1": {
       "refs": [
         {
@@ -56442,6 +56450,10 @@
     "100": {
       "refs": [
         {
+          "id": "ruhi9-001",
+          "paragraph": 129
+        },
+        {
           "id": "ruhi3-002",
           "paragraph": 57
         }
@@ -56450,6 +56462,11 @@
         {
           "start": 1007,
           "end": 1132,
+          "count": 2
+        },
+        {
+          "start": 1132,
+          "end": 1401,
           "count": 1
         }
       ]
@@ -61409,6 +61426,10 @@
           "paragraph": 41
         },
         {
+          "id": "ruhi8-002",
+          "paragraph": 46
+        },
+        {
           "id": "compilations-local-spiritual-assembly-001",
           "paragraph": 68
         }
@@ -61417,7 +61438,7 @@
         {
           "start": 0,
           "end": 588,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -72463,7 +72484,7 @@
       ]
     }
   },
-  "additional-other-059": {
+  "additional-other-060": {
     "1": {
       "refs": [
         {
@@ -72804,7 +72825,7 @@
       ]
     }
   },
-  "additional-other-002": {
+  "additional-other-003": {
     "1": {
       "refs": [
         {
@@ -72939,7 +72960,7 @@
       ]
     }
   },
-  "additional-other-050": {
+  "additional-other-051": {
     "1": {
       "refs": [
         {
@@ -73031,7 +73052,7 @@
       ]
     }
   },
-  "additional-other-051": {
+  "additional-other-052": {
     "1": {
       "refs": [
         {
@@ -73752,7 +73773,7 @@
       ]
     }
   },
-  "additional-other-052": {
+  "additional-other-053": {
     "1": {
       "refs": [
         {
@@ -80382,7 +80403,7 @@
       ]
     }
   },
-  "additional-other-053": {
+  "additional-other-054": {
     "1": {
       "refs": [
         {
@@ -80717,7 +80738,7 @@
       ]
     }
   },
-  "additional-other-054": {
+  "additional-other-055": {
     "1": {
       "refs": [
         {
@@ -83618,7 +83639,7 @@
       ]
     }
   },
-  "additional-other-005": {
+  "additional-other-006": {
     "1": {
       "refs": [
         {
@@ -83794,7 +83815,7 @@
       ]
     }
   },
-  "additional-other-006": {
+  "additional-other-007": {
     "1": {
       "refs": [
         {
@@ -83816,7 +83837,7 @@
       ]
     }
   },
-  "additional-other-007": {
+  "additional-other-008": {
     "1": {
       "refs": [
         {
@@ -83864,6 +83885,21 @@
         }
       ]
     },
+    "27": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 30
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 921,
+          "count": 1
+        }
+      ]
+    },
     "28": {
       "refs": [
         {
@@ -83884,6 +83920,36 @@
         {
           "start": 301,
           "end": 530,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 32
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1261,
+          "count": 1
+        }
+      ]
+    },
+    "33": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 950,
           "count": 1
         }
       ]
@@ -84013,7 +84079,7 @@
       ]
     }
   },
-  "additional-other-008": {
+  "additional-other-009": {
     "1": {
       "refs": [
         {
@@ -84045,7 +84111,7 @@
       ]
     }
   },
-  "additional-other-009": {
+  "additional-other-010": {
     "1": {
       "refs": [
         {
@@ -88699,7 +88765,7 @@
       ]
     }
   },
-  "additional-other-057": {
+  "additional-other-058": {
     "1": {
       "refs": [
         {
@@ -89335,7 +89401,7 @@
       ]
     }
   },
-  "additional-other-035": {
+  "additional-other-036": {
     "1": {
       "refs": [
         {
@@ -89352,7 +89418,7 @@
       ]
     }
   },
-  "additional-other-036": {
+  "additional-other-037": {
     "1": {
       "refs": [
         {
@@ -89535,7 +89601,7 @@
       ]
     }
   },
-  "additional-other-039": {
+  "additional-other-040": {
     "1": {
       "refs": [
         {
@@ -91102,7 +91168,7 @@
       ]
     }
   },
-  "additional-other-016": {
+  "additional-other-017": {
     "1": {
       "refs": [
         {
@@ -91188,7 +91254,7 @@
       ]
     }
   },
-  "additional-other-024": {
+  "additional-other-025": {
     "1": {
       "refs": [
         {
@@ -91215,7 +91281,7 @@
       ]
     }
   },
-  "additional-other-031": {
+  "additional-other-032": {
     "1": {
       "refs": [
         {
@@ -91455,6 +91521,26 @@
         {
           "start": 0,
           "end": 328,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 322,
+          "count": 1
+        },
+        {
+          "start": 329,
+          "end": 1618,
           "count": 1
         }
       ]
@@ -100628,33 +100714,51 @@
         {
           "id": "ruhi10-003",
           "paragraph": 54
+        },
+        {
+          "id": "ruhi9-002",
+          "paragraph": 15
+        },
+        {
+          "id": "ruhi9-003",
+          "paragraph": 42
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 62,
+          "count": 2
+        },
+        {
+          "start": 62,
+          "end": 300,
+          "count": 3
+        },
+        {
+          "start": 300,
           "end": 425,
-          "count": 1
+          "count": 2
         },
         {
           "start": 425,
           "end": 446,
-          "count": 2
+          "count": 3
         },
         {
           "start": 446,
           "end": 605,
-          "count": 3
+          "count": 4
         },
         {
           "start": 605,
           "end": 822,
-          "count": 2
+          "count": 3
         },
         {
           "start": 822,
           "end": 927,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -103064,6 +103168,40 @@
       ]
     }
   },
+  "additional-other-061": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 28
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1741,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-545": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 2064,
+          "count": 1
+        }
+      ]
+    }
+  },
   "shoghi-effendi-bahai-administration-053": {
     "5": {
       "refs": [
@@ -103552,6 +103690,21 @@
           "count": 1
         }
       ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 130
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 639,
+          "count": 1
+        }
+      ]
     }
   },
   "additional-shoghi-effendi-049": {
@@ -103857,32 +104010,18 @@
       ]
     }
   },
-  "additional-shoghi-effendi-198": {
+  "additional-other-002": {
     "1": {
       "refs": [
         {
-          "id": "ruhi8-002",
-          "paragraph": 36
-        },
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 226
+          "id": "ruhi8-003",
+          "paragraph": 2
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 202,
-          "count": 1
-        },
-        {
-          "start": 202,
-          "end": 1231,
-          "count": 2
-        },
-        {
-          "start": 1231,
-          "end": 1232,
+          "end": 546,
           "count": 1
         }
       ]
@@ -110534,6 +110673,21 @@
         }
       ]
     },
+    "76": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 197
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 626,
+          "count": 1
+        }
+      ]
+    },
     "95": {
       "refs": [
         {
@@ -110705,6 +110859,38 @@
         {
           "start": 0,
           "end": 1155,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-412": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi9-002",
+          "paragraph": 55
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 413,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi9-002",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 124,
           "count": 1
         }
       ]
@@ -112204,6 +112390,23 @@
         {
           "start": 0,
           "end": 1155,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-198": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 226
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1232,
           "count": 1
         }
       ]
