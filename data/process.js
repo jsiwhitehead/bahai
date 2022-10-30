@@ -122,7 +122,7 @@ const process = (source, id) => {
     }
   });
 
-  return documents.map(({ paragraphs, ...d }) => {
+  const result = documents.map(({ paragraphs, ...d }) => {
     if (
       id.startsWith("additional-") &&
       !id.startsWith("additional-other") &&
@@ -166,6 +166,9 @@ const process = (source, id) => {
     }
     return { ...d, paragraphs };
   });
+  return id === "the-universal-house-of-justice-messages"
+    ? result.reverse()
+    : result;
 };
 
 (async () => {

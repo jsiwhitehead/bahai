@@ -170,7 +170,13 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
     if (
       !["bible", "quran"].some((s) => doc.id.includes(s)) &&
       doc.type !== "Prayer" &&
-      !doc.id.startsWith("additional-")
+      !doc.id.startsWith("additional-") &&
+      ![
+        "the-universal-house-of-justice-messages-333",
+        "the-universal-house-of-justice-messages-341",
+        "the-universal-house-of-justice-messages-345",
+        "the-universal-house-of-justice-messages-346",
+      ].includes(doc.id)
     ) {
       doc.paragraphs = doc.paragraphs.map((paragraph, index) => {
         const { simplified, parts } = paragraph;
