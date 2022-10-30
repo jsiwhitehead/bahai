@@ -1,6 +1,6 @@
 Peace
 author="Compilation"
-years=[1985,1986]
+years=[1985.0801,1985.0801]
 
 # Extracts from the Writings of Bahá’u’lláh
 

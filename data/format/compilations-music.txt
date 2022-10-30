@@ -1,6 +1,6 @@
 Music
 author="Compilation"
-years=[1996,1996]
+years=[1996.0601,1996.0601]
 
 # From the Writings of Bahá’u’lláh
 

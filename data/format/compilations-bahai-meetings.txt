@@ -1,6 +1,6 @@
 Bahá’í Meetings
 author="Compilation"
-years=[1989,1989]
+years=[1989.0101,1989.0101]
 
 # From the Writings of Bahá’u’lláh
 

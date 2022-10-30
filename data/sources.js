@@ -2528,7 +2528,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\(.*/gm, ""],
       title("", "A Chaste and Holy Life", {
         author: "Compilation",
-        years: [1988, 1988],
+        years: [1988.0901, 1988.0901],
       }),
       title("#", "The Bahá’í Standard"),
       ["\nA Chaste and Holy Life", "\n# A Chaste and Holy Life"],
@@ -2558,7 +2558,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\(.*/gm, ""],
       title("", "Bahá’í Funds and Contributions", {
         author: "Compilation",
-        years: [1989, 1989],
+        years: [1989.0101, 1989.0101],
       }),
       [/^I+\./gm, "#"],
     ],
@@ -2572,7 +2572,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\[.*/gm, ""],
       title("", "Bahá’í Meetings", {
         author: "Compilation",
-        years: [1989, 1989],
+        years: [1989.0101, 1989.0101],
       }),
       [/^From/gm, "# From"],
     ],
@@ -2586,7 +2586,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["Consultation: A Compilation", "Consultation"],
       title("", "Consultation", {
         author: "Compilation",
-        years: [1990, 1990],
+        years: [1990.1101, 1990.1101],
       }),
       [/^From/gm, "# From"],
       ["wholly freed from estrangement", "wholly free from estrangement"],
@@ -2606,7 +2606,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\[.*/gm, ""],
       title("", "Excellence in All Things", {
         author: "Compilation",
-        years: [1990, 1990],
+        years: [1990.1101, 1990.1101],
       }),
       [/^From/gm, "# From"],
       ["# From amongst all mankind", "From amongst all mankind"],
@@ -2621,7 +2621,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\(.*/gm, ""],
       title("", "Family Life", {
         author: "Compilation",
-        years: [2008, 2008],
+        years: [2008.0301, 2008.0301],
       }),
       [/^I+\./gm, "#"],
       [/^Extract/gm, "## Extract"],
@@ -2671,7 +2671,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["", "Give Me Thy Grace to Serve Thy Loved Ones\n\n"],
       title("", "Give Me Thy Grace to Serve Thy Loved Ones", {
         author: "Compilation",
-        years: [2018, 2018],
+        years: [2018.0501, 2018.0501],
       }),
     ],
     "huququllah-right-god": [
@@ -2684,7 +2684,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\[.*/gm, ""],
       title("", "Ḥuqúqu’lláh—The Right of God", {
         author: "Compilation",
-        years: [2009, 2009],
+        years: [2009.0801, 2009.0801],
       }),
       [/^\d+\./gm, "#"],
       [/^Extract/gm, "## Extract"],
@@ -2698,7 +2698,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^[IVX]+\. /gm, ""],
       title("", "The Importance of Obligatory Prayer and Fasting", {
         author: "Compilation",
-        years: [2000, 2000],
+        years: [2000.0501, 2000.0501],
       }),
       [/^\d+\./gm, "#"],
     ],
@@ -2718,7 +2718,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         "The Importance of Prayer, Meditation and the Devotional Attitude",
         {
           author: "Compilation",
-          years: [1990, 1990],
+          years: [1990.0701, 1990.0701],
         }
       ),
       [/^Extract/gm, "# Extract"],
@@ -2747,7 +2747,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\. \. \.$/gm, ""],
       title("", "The Institution of the Mashriqu’l‑Adhkár", {
         author: "Compilation",
-        years: [2017, 2017],
+        years: [2017.0901, 2017.0901],
       }),
       [/^A Statement and Compilation Prepared.*/m, "# A Statement"],
       [/^A Compilation of Extracts from the.*/m, "# A Compilation of Extracts"],
@@ -2755,6 +2755,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^From.{0,80}$/gm, (a) => `## ${a}`],
       [/^Selected Prayers for the/m, "## Selected Prayers for the"],
       ["Upon its quality depend the", "Upon its quality depends the"],
+      ["can succeed to dissipate. And", "can succeed in dissipating. And"],
     ],
     "issues-related-study-bahai-faith": [
       removeAfter("Notes"),
@@ -2763,7 +2764,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["", "Issues Related to the Study of the Bahá’í Faith\n\n"],
       title("", "Issues Related to the Study of the Bahá’í Faith", {
         author: "Compilation",
-        years: [1999, 1999],
+        years: [1999.0407, 1999.0407],
       }),
       title("#", "Introduction"),
     ],
@@ -2778,7 +2779,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\. \. \.$/gm, ""],
       title("", "The Local Spiritual Assembly", {
         author: "Compilation",
-        years: [2017, 2017],
+        years: [2017.0901, 2017.0901],
       }),
       [/^[IV]+\./gm, "#"],
       ["wholly freed from estrangement", "wholly free from estrangement"],
@@ -2802,7 +2803,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["Compilation of Extracts from the Bahá’í Writings on Music", "Music"],
       title("", "Music", {
         author: "Compilation",
-        years: [1996, 1996],
+        years: [1996.0601, 1996.0601],
       }),
       [/^From/gm, "# From"],
       [/^Extract/gm, "# Extract"],
@@ -2816,7 +2817,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\. \. \.$/gm, ""],
       title("", "Peace", {
         author: "Compilation",
-        years: [1985, 1986],
+        years: [1985.0801, 1985.0801],
       }),
       [
         "EXTRACTS FROM THE WRITINGS OF BAHÁ’U’LLÁH:",
@@ -2886,7 +2887,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\(.*/gm, ""],
       title("", "The Power of Divine Assistance", {
         author: "Compilation",
-        years: [1990, 1990],
+        years: [1990.0701, 1990.0701],
       }),
       [/^From/gm, "# From"],
       ["resist His Faith? No, by Him", "resist His Faith? Nay, by Him"],
@@ -2903,7 +2904,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\. \. \.$/gm, ""],
       title("", "Prayer and Devotional Life", {
         author: "Compilation",
-        years: [2019, 2019],
+        years: [2019.0201, 2019.0201],
       }),
       prefix("Prayers and Healing", "## "),
       prefix("The Importance of Memorisation", "## "),
@@ -2922,7 +2923,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\(.*/gm, ""],
       title("", "The Sanctity and Nature of Bahá’í Elections", {
         author: "Compilation",
-        years: [1989, 1989],
+        years: [1989.1201, 1989.1201],
       }),
       [/^\d+\./gm, "#"],
       [/^From/gm, "## From"],
@@ -2935,7 +2936,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\(.*/gm, ""],
       title("", "Scholarship", {
         author: "Compilation",
-        years: [1995, 1995],
+        years: [1995.0201, 1995.0201],
       }),
       [/^\d+\. /gm, "# "],
       [/^\d+\.\d+ /gm, "## "],
@@ -2989,7 +2990,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
       [/^\(.*/gm, ""],
       title("", "The Significance of the Formative Age of Our Faith", {
         author: "Compilation",
-        years: [1990, 1990],
+        years: [1990.0801, 1990.0801],
       }),
     ],
     "social-action": [
@@ -2999,7 +3000,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
       [/^\(.*/gm, ""],
       title("", "Social Action", {
         author: "Compilation",
-        years: [2020, 2020],
+        years: [2020.0801, 2020.0801],
       }),
       prefix("Underlying Concepts and Principles", "# "),
       prefix("The Nature of Bahá’í Social and Economic Development", "# "),
@@ -3027,7 +3028,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
       [/^\(.*/gm, ""],
       title("", "Trustworthiness", {
         author: "Compilation",
-        years: [1990, 1990],
+        years: [1990.0801, 1990.0801],
       }),
       [/^Extract/gm, "# Extract"],
       ["the One Who hath power", "the One that hath power"],
@@ -3040,7 +3041,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
       [/^\d+\.\d+$/gm, ""],
       title("", "The Universal House of Justice", {
         author: "Compilation",
-        years: [2021, 2021],
+        years: [2021.0201, 2021.0201],
       }),
       prefix(/^[A-Z].{0,80}[a-zá]$/gm, "# "),
       ["# The Universal House of Justice", "The Universal House of Justice"],
@@ -3065,7 +3066,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
       [/^\(.*/gm, ""],
       title("", "Women", {
         author: "Compilation",
-        years: [1990, 1990],
+        years: [1990.0701, 1990.0701],
       }),
       [/^[IV]+\./gm, "#"],
       [/^Extract/gm, "## Extract"],

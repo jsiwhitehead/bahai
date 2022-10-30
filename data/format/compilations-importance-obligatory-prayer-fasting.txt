@@ -1,6 +1,6 @@
 The Importance of Obligatory Prayer and Fasting
 author="Compilation"
-years=[2000,2000]
+years=[2000.0501,2000.0501]
 
 The Universal House of Justice, in reviewing the further applicability of the laws of Bahá’u’lláh in the course of the past four years, determined that it is imperative for all Bahá’ís “to deepen their awareness of the blessings conferred by the laws which directly foster the devotional life of the individual and, thus, of the community.” Among these laws are obligatory prayer and fasting which have been characterised by the Blessed Beauty as “two wings to man’s life.”
 

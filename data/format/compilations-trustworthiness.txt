@@ -1,6 +1,6 @@
 Trustworthiness
 author="Compilation"
-years=[1990,1990]
+years=[1990.0801,1990.0801]
 
 # Extracts from the Writings of Bahá’u’lláh
 

@@ -1,6 +1,6 @@
 The Sanctity and Nature of Bahá’í Elections
 author="Compilation"
-years=[1989,1989]
+years=[1989.1201,1989.1201]
 
 # Fostering a Spiritual Attitude towards Elections
 

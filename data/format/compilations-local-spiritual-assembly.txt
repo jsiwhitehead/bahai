@@ -1,6 +1,6 @@
 The Local Spiritual Assembly
 author="Compilation"
-years=[2017,2017]
+years=[2017.0901,2017.0901]
 
 # Establishment and Station
 

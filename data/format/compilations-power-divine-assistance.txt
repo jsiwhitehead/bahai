@@ -1,6 +1,6 @@
 The Power of Divine Assistance
 author="Compilation"
-years=[1990,1990]
+years=[1990.0701,1990.0701]
 
 # From the Writings of Bahá’u’lláh
 

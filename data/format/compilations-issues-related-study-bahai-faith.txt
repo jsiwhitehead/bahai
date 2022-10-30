@@ -1,6 +1,6 @@
 Issues Related to the Study of the Bahá’í Faith
 author="Compilation"
-years=[1999,1999]
+years=[1999.0407,1999.0407]
 
 # Introduction
 

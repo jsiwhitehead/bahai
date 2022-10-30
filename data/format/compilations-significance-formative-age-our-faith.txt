@@ -1,6 +1,6 @@
 The Significance of the Formative Age of Our Faith
 author="Compilation"
-years=[1990,1990]
+years=[1990.0801,1990.0801]
 
 The passing of ‘Abdu’l‑Bahá, so sudden in the circumstances which caused it, so dramatic in its consequences, could neither impede the operation of such a dynamic force nor obscure its purpose. Those fervid appeals, embodied in the Will and Testament of a departed Master, could not but confirm its aim, define its character and reinforce the promise of its ultimate success.
 

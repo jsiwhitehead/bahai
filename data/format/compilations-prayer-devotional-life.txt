@@ -1,6 +1,6 @@
 Prayer and Devotional Life
 author="Compilation"
-years=[2019,2019]
+years=[2019.0201,2019.0201]
 
 # The Power of Prayer
 

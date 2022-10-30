@@ -1,6 +1,6 @@
 Women
 author="Compilation"
-years=[1990,1990]
+years=[1990.0701,1990.0701]
 
 # The Bahá’í Concept of Equality
 

@@ -1,6 +1,6 @@
 The Importance of Prayer, Meditation and the Devotional Attitude
 author="Compilation"
-years=[1990,1990]
+years=[1990.0701,1990.0701]
 
 # Extracts from the Writings of Bahá’u’lláh
 
