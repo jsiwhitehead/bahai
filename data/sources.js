@@ -2452,6 +2452,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       prefix("\n\nO ye tender seedlings in the garden", '\ntype=""'),
       prefix("\n\nO loved ones of ‘Abdu’l‑Bahá!", '\ntype=""'),
       ["from whatever is obnoxious", "from whatsoever is obnoxious"],
+      ["‘Abdu’l‑Bahá!\n\nMan’s life", "‘Abdu’l‑Bahá! Man’s life"],
     ],
   },
   "publications-individual-authors": {
@@ -2750,6 +2751,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\d+\./gm, "##"],
       [/^From.{0,80}$/gm, (a) => `## ${a}`],
       [/^Selected Prayers for the/m, "## Selected Prayers for the"],
+      ["Upon its quality depend the", "Upon its quality depends the"],
     ],
     "issues-related-study-bahai-faith": [
       removeAfter("Notes"),
