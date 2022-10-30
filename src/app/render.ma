@@ -3,8 +3,8 @@
     'baseLevel': '1',
     'levelNumbers': '',
     'paraNumbers': '1',
-    'highlight': '1',
-    'showCitations': '1',
+    'highlight': '',
+    'showCitations': '',
     'color': colors.'link'.(doc.'author') | colors.'link'.'The World Centre',
     'allLines': doc.'paragraphs'->every.[p: p.'type' | p.'lines'],
     : [

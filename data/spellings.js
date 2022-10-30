@@ -73,7 +73,7 @@ const correctSpelling = (s) =>
     .replace(/“'/g, "“‘")
     .replace(/'/g, "’")
     .replace(/…/g, "...")
-    .replace(/\.\.\.\./g, ". . . .")
+    .replace(/\.([  ]?\.){3,}/g, ". . . .")
     .replace(/\.\.\./g, ". . .")
     .replace(/([,!?”’])\. \. \./g, (_, m) => `${m} \. \. \.`)
     .replace(/([!?]) \. \. \. \./g, (_, m) => `${m} \. \. \.`)

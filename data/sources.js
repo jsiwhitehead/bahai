@@ -2660,6 +2660,9 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         "He will, erelong, out of the Bosom of Power, draw forth the",
         "Erelong shall God draw forth, out of the bosom of power, the",
       ],
+      splitLines(/High‑spirited souls by the.*/m, "To lay down a hundred"),
+      splitLines(/From the outset love was.*/m, "So as to put every"),
+      splitLines(/The worldly wise who garner.*/m, "For unto none was"),
     ],
     "give-me-thy-grace-serve-thy-loved-ones": [
       removeAfter("This document has been downloaded"),
