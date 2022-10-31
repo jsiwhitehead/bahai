@@ -24200,6 +24200,10 @@
           "paragraph": 42
         },
         {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 32
+        },
+        {
           "id": "ruhi1-001",
           "paragraph": 13
         }
@@ -24208,7 +24212,7 @@
         {
           "start": 138,
           "end": 399,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -24221,6 +24225,10 @@
         {
           "id": "compilations-trustworthiness-001",
           "paragraph": 6
+        },
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 32
         },
         {
           "id": "ruhi5-001",
@@ -44712,10 +44720,6 @@
     "42": {
       "refs": [
         {
-          "id": "compilations-trustworthiness-001",
-          "paragraph": 32
-        },
-        {
           "id": "the-universal-house-of-justice-messages-405",
           "paragraph": 42
         }
@@ -44724,11 +44728,6 @@
         {
           "start": 52,
           "end": 141,
-          "count": 1
-        },
-        {
-          "start": 1480,
-          "end": 2135,
           "count": 1
         }
       ]
@@ -51728,36 +51727,13 @@
         {
           "id": "compilations-peace-001",
           "paragraph": 32
-        },
-        {
-          "id": "official-statements-commentaries-century-light-002",
-          "paragraph": 319
-        },
-        {
-          "id": "ruhi9-001",
-          "paragraph": 141
         }
       ],
       "parts": [
         {
-          "start": 0,
-          "end": 84,
-          "count": 1
-        },
-        {
           "start": 91,
-          "end": 292,
-          "count": 2
-        },
-        {
-          "start": 292,
           "end": 298,
           "count": 1
-        },
-        {
-          "start": 299,
-          "end": 591,
-          "count": 2
         }
       ]
     }
@@ -88799,6 +88775,21 @@
         {
           "start": 0,
           "end": 642,
+          "count": 1
+        }
+      ]
+    },
+    "319": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 141
+        }
+      ],
+      "parts": [
+        {
+          "start": 299,
+          "end": 641,
           "count": 1
         }
       ]

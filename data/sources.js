@@ -2259,6 +2259,10 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/\n^Century of Light$/m, "\n# Century of Light"],
       title("#", "Foreword", { author: "The Universal House of Justice" }),
       [/^[A-Z]{1,5}$/gm, "***"],
+      [
+        "Today nothing but the power of the Word of God which encompasses the realities of things can bring the thoughts, the minds, the hearts and the spirits under the shade of one Tree. He is the potent in all things, the vivifier of souls, the preserver and the controller of the world of mankind.",
+        "Naught but the celestial potency of the Word of God, which rules and transcends the realities of all things, is capable of harmonizing the divergent thoughts, sentiments, ideas, and convictions of the children of men. Verily, it is the penetrating power in all things, the mover of souls and the binder and regulator in the world of humanity.",
+      ],
     ],
     "one-common-faith": [
       ["The Universal House of Justice", ""],
@@ -3039,6 +3043,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
       }),
       [/^Extract/gm, "# Extract"],
       ["the One Who hath power", "the One that hath power"],
+      ["he may be. The purpose", "he may be. . . . The purpose"],
     ],
     "universal-house-of-justice-compilation": [
       removeAfter("Index"),

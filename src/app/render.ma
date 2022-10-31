@@ -156,7 +156,7 @@
                       : {
                         ? p.'index' = 1 & part.'first': [
                           'fill': highlight & fill,
-                          'bold': highlight & part.'quote',
+                          'bold': part.'quote',
                           'size': 17 * 3,
                           'line': 1,
                           'color': color,
@@ -167,7 +167,7 @@
                         ],
                         : [
                           'fill': highlight & fill,
-                          'bold': highlight & part.'quote',
+                          'bold': part.'quote',
                           'pad': [2.5, 0],
                           text,
                         ],

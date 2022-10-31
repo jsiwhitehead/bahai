@@ -23,7 +23,7 @@
           i > 1 & parts.(i - 1).'end' ! part.'start' & ' . . . ',
           part->[
             ['count': count, 'start': start, 'end': end]: [
-              'fill': 'rgb(255, {240 - count * 10}, {240 - count * 10})',
+              'fill': '' & 'rgb(255, {240 - count * 10}, {240 - count * 10})',
               'pad': [2.5, 0],
               para.'text'->slice(start, end),
             ],

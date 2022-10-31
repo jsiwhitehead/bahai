@@ -122,7 +122,7 @@ const documentsList = Object.keys(documents)
             d.paragraphs[parseInt(k) - 1].text
               .slice(p.start, p.end)
               .trim()
-              .split(" ").length * p.count
+              .split(" ").length * Math.pow(p.count, 2)
         )
       )
       .reduce((res, n) => res + n, 0),
@@ -134,7 +134,7 @@ const documentsList = Object.keys(documents)
     return {
       ...d,
       time: `${Math.round(time / 6) / 10} hours`,
-      score: d.score / d.words,
+      score: d.score / Math.sqrt(d.words),
     };
   })
   // .sort(
@@ -187,6 +187,7 @@ maraca(
             a.id.localeCompare(b.id)
         ),
     findDocuments: (section, ignore) => {
+      const sliceNum = 50;
       if (section === "Collections") {
         return (
           documentsList
@@ -202,6 +203,7 @@ maraca(
                 ["The Research Department"].includes(d.author) ||
                 d.id.startsWith("compilation")
             )
+            .slice(0, sliceNum)
         );
       }
       if (section === "Other") {
@@ -221,13 +223,14 @@ maraca(
               !d.id.startsWith("compilations") &&
               !d.id.startsWith("ruhi") &&
               !(ignore || []).includes(d.id)
-          );
+          )
+          .slice(0, sliceNum);
       }
       if (section.includes("Epoch")) {
         return documentsList
           .filter((d) => !d.paragraphs.every((p) => p.id || p.section))
-          .filter((d) => d.epoch === section && !(ignore || []).includes(d.id));
-        // .slice(0, 50);
+          .filter((d) => d.epoch === section && !(ignore || []).includes(d.id))
+          .slice(0, sliceNum);
       }
       return documentsList
         .filter((d) => !d.paragraphs.every((p) => p.id || p.section))
@@ -236,8 +239,8 @@ maraca(
             d.author === section &&
             d.type !== "Prayer" &&
             !(ignore || []).includes(d.id)
-        );
-      // .slice(0, 50);
+        )
+        .slice(0, sliceNum);
     },
     documentsList: Object.keys(documents).map((k) => documents[k]),
     quotesMap: quotes,
@@ -246,30 +249,45 @@ maraca(
         Object.keys(quotes[id]).map((k) => ({
           id,
           paragraph: parseInt(k, 10),
+          years: documents[id].years,
           ...quotes[id][k],
         }))
       )
+      //   .sort((a, b) => {
+      //     const x = a.parts.map((p) => p.count);
+      //     const y = b.parts.map((p) => p.count);
+      //     return (
+      //       Math.max(...y) - Math.max(...x) ||
+      //       y.reduce((res, n) => res + n, 0) - x.reduce((res, n) => res + n, 0) ||
+      //       a.id.localeCompare(b.id) ||
+      //       a.paragraph - b.paragraph
+      //     );
+      //   })
+      //   .filter((q) => q.parts.some((p) => p.count > 3)),
       .map((q) => {
         const para = documents[q.id].paragraphs[q.paragraph - 1];
+        const quoteParts = q.parts
+          .filter((part) => typeof part !== "string")
+          .map(({ start, end, count }) => ({
+            words: para.text.slice(start, end).trim().split(" ").length,
+            count,
+          }));
         return {
           ...q,
           score:
-            q.parts
-              .filter((part) => typeof part !== "string")
-              .map(
-                ({ start, end, count }) =>
-                  para.text.slice(start, end).trim().split(" ").length * count
-              )
-              .reduce((res, n) => res + n, 0) / para.text.split(" ").length,
+            quoteParts.reduce(
+              (res, p) => res + p.words * Math.pow(p.count, 2),
+              0
+            ) / Math.sqrt(quoteParts.reduce((res, p) => res + p.words, 0)),
         };
       })
-      .filter((q) => q.score > 4)
       .sort(
         (a, b) =>
           b.score - a.score ||
           a.id.localeCompare(b.id) ||
           a.paragraph - b.paragraph
-      ),
+      )
+      .slice(0, 100),
     fillParts: (parts, text, lines, quotes) => {
       const firstChar = /[a-z]/i.exec(
         text
