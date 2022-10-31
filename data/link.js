@@ -15,6 +15,7 @@ const findSource = (documents, doc, simplified) =>
   documents.find(
     (d) =>
       d.id !== doc.id &&
+      !["bible", "quran"].some((s) => doc.id.startsWith(s)) &&
       d.id !== "bahaullah-days-remembrance-037" &&
       !(
         d.id.startsWith("prayers-bahai-prayers-0") &&
@@ -168,7 +169,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
   for (const doc of documents) {
     console.log(doc.id);
     if (
-      !["bible", "quran"].some((s) => doc.id.includes(s)) &&
+      !["bible", "quran"].some((s) => doc.id.startsWith(s)) &&
       doc.type !== "Prayer" &&
       !doc.id.startsWith("additional-") &&
       ![

@@ -134,7 +134,7 @@ const documentsList = Object.keys(documents)
     return {
       ...d,
       time: `${Math.round(time / 6) / 10} hours`,
-      score: d.score / Math.sqrt(d.words),
+      score: d.score / d.words,
     };
   })
   // .sort(
@@ -351,7 +351,7 @@ maraca(
             paras.length > 0 &&
               (paras.length === 1
                 ? `para ${paras[0]}`
-                : `paras ${Math.min(...paras)}-${Math.max(...paras)}`),
+                : `paras ${Math.min(...paras)}‑${Math.max(...paras)}`),
           ].filter((x) => x)
         ).join(", "),
         link: Math.min(

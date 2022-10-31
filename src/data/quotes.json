@@ -7515,7 +7515,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 47
+          "paragraph": 46
         }
       ],
       "parts": [
@@ -7879,7 +7879,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 37
+          "paragraph": 36
         }
       ],
       "parts": [
@@ -16271,7 +16271,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 80
+          "paragraph": 79
         }
       ],
       "parts": [
@@ -18074,67 +18074,12 @@
       ]
     }
   },
-  "additional-abdul-baha-347": {
+  "additional-abdul-baha-348": {
     "1": {
       "refs": [
         {
-          "id": "shoghi-effendi-bahai-administration-011",
-          "paragraph": 13
-        },
-        {
-          "id": "compilations-consultation-001",
-          "paragraph": 10
-        },
-        {
-          "id": "publications-individual-authors-bahaullah-new-era-021",
-          "paragraph": 60
-        },
-        {
-          "id": "compilations-local-spiritual-assembly-001",
-          "paragraph": 60
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 30,
-          "count": 4
-        },
-        {
-          "start": 30,
-          "end": 48,
-          "count": 3
-        },
-        {
-          "start": 48,
-          "end": 68,
-          "count": 4
-        },
-        {
-          "start": 68,
-          "end": 90,
-          "count": 3
-        },
-        {
-          "start": 90,
-          "end": 404,
-          "count": 4
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "abdul-baha-selections-writings-abdul-baha-044",
-          "paragraph": 1
-        },
-        {
           "id": "abdul-baha-selections-writings-abdul-baha-045",
           "paragraph": 1
-        },
-        {
-          "id": "shoghi-effendi-bahai-administration-011",
-          "paragraph": 14
         },
         {
           "id": "shoghi-effendi-god-passes-by-002",
@@ -18147,108 +18092,58 @@
         {
           "id": "the-universal-house-of-justice-messages-212",
           "paragraph": 8
-        },
-        {
-          "id": "compilations-consultation-001",
-          "paragraph": 11
-        },
-        {
-          "id": "publications-individual-authors-bahaullah-new-era-021",
-          "paragraph": 61
-        },
-        {
-          "id": "compilations-local-spiritual-assembly-001",
-          "paragraph": 21
-        },
-        {
-          "id": "ruhi10-002",
-          "paragraph": 17
-        },
-        {
-          "id": "ruhi2-003",
-          "paragraph": 31
         }
       ],
       "parts": [
         {
-          "start": 0,
-          "end": 431,
-          "count": 7
+          "start": 143,
+          "end": 224,
+          "count": 1
         },
         {
-          "start": 431,
-          "end": 432,
+          "start": 224,
+          "end": 246,
           "count": 2
         },
         {
-          "start": 432,
-          "end": 575,
-          "count": 3
+          "start": 246,
+          "end": 284,
+          "count": 1
         },
         {
-          "start": 575,
-          "end": 656,
-          "count": 5
+          "start": 284,
+          "end": 377,
+          "count": 2
         },
         {
-          "start": 656,
-          "end": 678,
-          "count": 6
+          "start": 377,
+          "end": 505,
+          "count": 1
         },
         {
-          "start": 678,
-          "end": 716,
-          "count": 5
+          "start": 505,
+          "end": 588,
+          "count": 2
         },
         {
-          "start": 716,
-          "end": 781,
-          "count": 6
+          "start": 588,
+          "end": 589,
+          "count": 1
         },
         {
-          "start": 781,
-          "end": 809,
-          "count": 5
+          "start": 589,
+          "end": 609,
+          "count": 2
         },
         {
-          "start": 809,
-          "end": 835,
-          "count": 4
+          "start": 609,
+          "end": 610,
+          "count": 1
         },
         {
-          "start": 835,
-          "end": 937,
-          "count": 5
-        },
-        {
-          "start": 937,
-          "end": 1020,
-          "count": 6
-        },
-        {
-          "start": 1020,
-          "end": 1021,
-          "count": 5
-        },
-        {
-          "start": 1021,
-          "end": 1041,
-          "count": 6
-        },
-        {
-          "start": 1041,
-          "end": 1042,
-          "count": 5
-        },
-        {
-          "start": 1042,
-          "end": 1187,
-          "count": 6
-        },
-        {
-          "start": 1187,
-          "end": 1193,
-          "count": 4
+          "start": 610,
+          "end": 755,
+          "count": 2
         }
       ]
     }
@@ -19810,7 +19705,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 53
+          "paragraph": 52
         }
       ],
       "parts": [
@@ -19853,7 +19748,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 57
+          "paragraph": 56
         }
       ],
       "parts": [
@@ -22583,6 +22478,55 @@
       ]
     }
   },
+  "additional-abdul-baha-347": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-bahai-administration-011",
+          "paragraph": 13
+        },
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 10
+        },
+        {
+          "id": "publications-individual-authors-bahaullah-new-era-021",
+          "paragraph": 60
+        },
+        {
+          "id": "compilations-local-spiritual-assembly-001",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 30,
+          "count": 4
+        },
+        {
+          "start": 30,
+          "end": 48,
+          "count": 3
+        },
+        {
+          "start": 48,
+          "end": 68,
+          "count": 4
+        },
+        {
+          "start": 68,
+          "end": 90,
+          "count": 3
+        },
+        {
+          "start": 90,
+          "end": 404,
+          "count": 4
+        }
+      ]
+    }
+  },
   "abdul-baha-selections-writings-abdul-baha-046": {
     "1": {
       "refs": [
@@ -22735,7 +22679,7 @@
       ]
     }
   },
-  "additional-abdul-baha-348": {
+  "additional-abdul-baha-349": {
     "1": {
       "refs": [
         {
@@ -24149,7 +24093,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 42
+          "paragraph": 41
         }
       ],
       "parts": [
@@ -24180,7 +24124,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 43
+          "paragraph": 42
         }
       ],
       "parts": [
@@ -24280,7 +24224,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 30
+          "paragraph": 29
         }
       ],
       "parts": [
@@ -25782,7 +25726,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 83
+          "paragraph": 82
         },
         {
           "id": "ruhi5-002",
@@ -26331,7 +26275,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 40
+          "paragraph": 39
         }
       ],
       "parts": [
@@ -26521,7 +26465,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 41
+          "paragraph": 40
         }
       ],
       "parts": [
@@ -28995,44 +28939,6 @@
           "count": 1
         }
       ]
-    },
-    "4": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-advent-divine-justice-001",
-          "paragraph": 115
-        },
-        {
-          "id": "shoghi-effendi-god-passes-by-002",
-          "paragraph": 150
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-237",
-          "paragraph": 6
-        }
-      ],
-      "parts": [
-        {
-          "start": 14,
-          "end": 45,
-          "count": 2
-        },
-        {
-          "start": 45,
-          "end": 46,
-          "count": 1
-        },
-        {
-          "start": 46,
-          "end": 133,
-          "count": 3
-        },
-        {
-          "start": 133,
-          "end": 134,
-          "count": 2
-        }
-      ]
     }
   },
   "bahaullah-gleanings-writings-bahaullah-157": {
@@ -29742,6 +29648,55 @@
         {
           "start": 0,
           "end": 65,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-243": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-advent-divine-justice-001",
+          "paragraph": 115
+        },
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-007",
+          "paragraph": 21
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 150
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-237",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 30,
+          "count": 3
+        },
+        {
+          "start": 30,
+          "end": 31,
+          "count": 1
+        },
+        {
+          "start": 31,
+          "end": 118,
+          "count": 4
+        },
+        {
+          "start": 118,
+          "end": 119,
+          "count": 3
+        },
+        {
+          "start": 119,
+          "end": 290,
           "count": 1
         }
       ]
@@ -32294,7 +32249,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 35
+          "paragraph": 34
         }
       ],
       "parts": [
@@ -32331,7 +32286,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 36
+          "paragraph": 35
         }
       ],
       "parts": [
@@ -33461,7 +33416,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 52
+          "paragraph": 51
         }
       ],
       "parts": [
@@ -33558,7 +33513,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 81
+          "paragraph": 80
         }
       ],
       "parts": [
@@ -33702,7 +33657,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 54
+          "paragraph": 53
         }
       ],
       "parts": [
@@ -34054,6 +34009,115 @@
           "start": 278,
           "end": 494,
           "count": 2
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-244": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-007",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 8,
+          "count": 1
+        },
+        {
+          "start": 9,
+          "end": 176,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-245": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-007",
+          "paragraph": 21
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 150
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 145,
+          "count": 2
+        },
+        {
+          "start": 145,
+          "end": 186,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-246": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-007",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 168,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-247": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-007",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 414,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-248": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-007",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 173,
+          "count": 1
+        },
+        {
+          "start": 173,
+          "end": 442,
+          "count": 1
+        },
+        {
+          "start": 442,
+          "end": 443,
+          "count": 1
         }
       ]
     }
@@ -34908,7 +34972,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 46
+          "paragraph": 45
         }
       ],
       "parts": [
@@ -34992,6 +35056,71 @@
           "start": 0,
           "end": 748,
           "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-435": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-008",
+          "paragraph": 13
+        },
+        {
+          "id": "shoghi-effendi-promised-day-come-001",
+          "paragraph": 322
+        },
+        {
+          "id": "ruhi9-002",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 18,
+          "count": 3
+        },
+        {
+          "start": 18,
+          "end": 19,
+          "count": 2
+        },
+        {
+          "start": 19,
+          "end": 136,
+          "count": 3
+        },
+        {
+          "start": 136,
+          "end": 142,
+          "count": 1
+        },
+        {
+          "start": 143,
+          "end": 330,
+          "count": 3
+        },
+        {
+          "start": 330,
+          "end": 336,
+          "count": 1
+        },
+        {
+          "start": 337,
+          "end": 610,
+          "count": 3
+        },
+        {
+          "start": 610,
+          "end": 616,
+          "count": 1
+        },
+        {
+          "start": 617,
+          "end": 1221,
+          "count": 3
         }
       ]
     }
@@ -35543,7 +35672,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 48
+          "paragraph": 47
         }
       ],
       "parts": [
@@ -35748,7 +35877,7 @@
       ]
     }
   },
-  "additional-abdul-baha-349": {
+  "additional-abdul-baha-350": {
     "1": {
       "refs": [
         {
@@ -36464,6 +36593,56 @@
       ]
     }
   },
+  "additional-bahaullah-241": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-promised-day-come-001",
+          "paragraph": 228
+        },
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 392
+        },
+        {
+          "id": "ruhi5-003",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 28,
+          "count": 1
+        },
+        {
+          "start": 29,
+          "end": 386,
+          "count": 1
+        },
+        {
+          "start": 395,
+          "end": 868,
+          "count": 1
+        },
+        {
+          "start": 868,
+          "end": 1010,
+          "count": 2
+        },
+        {
+          "start": 1017,
+          "end": 1082,
+          "count": 2
+        },
+        {
+          "start": 1082,
+          "end": 1252,
+          "count": 1
+        }
+      ]
+    }
+  },
   "the-bab-selections-writings-bab-012": {
     "2": {
       "refs": [
@@ -36615,7 +36794,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 82
+          "paragraph": 81
         }
       ],
       "parts": [
@@ -37192,6 +37371,42 @@
       ]
     }
   },
+  "additional-bahaullah-239": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 172
+        },
+        {
+          "id": "ruhi4-003",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 29,
+          "count": 2
+        },
+        {
+          "start": 36,
+          "end": 173,
+          "count": 2
+        },
+        {
+          "start": 180,
+          "end": 725,
+          "count": 2
+        },
+        {
+          "start": 732,
+          "end": 1579,
+          "count": 2
+        }
+      ]
+    }
+  },
   "bahaullah-gleanings-writings-bahaullah-058": {
     "2": {
       "refs": [
@@ -37265,6 +37480,47 @@
         {
           "start": 600,
           "end": 601,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-240": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-god-passes-by-002",
+          "paragraph": 186
+        },
+        {
+          "id": "ruhi4-003",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 203,
+          "count": 2
+        },
+        {
+          "start": 210,
+          "end": 540,
+          "count": 2
+        },
+        {
+          "start": 547,
+          "end": 587,
+          "count": 2
+        },
+        {
+          "start": 594,
+          "end": 886,
+          "count": 2
+        },
+        {
+          "start": 893,
+          "end": 1031,
           "count": 2
         }
       ]
@@ -38452,7 +38708,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 73
+          "paragraph": 72
         }
       ],
       "parts": [
@@ -38467,7 +38723,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 74
+          "paragraph": 73
         }
       ],
       "parts": [
@@ -38632,36 +38888,6 @@
         }
       ]
     },
-    "172": {
-      "refs": [
-        {
-          "id": "ruhi4-003",
-          "paragraph": 37
-        }
-      ],
-      "parts": [
-        {
-          "start": 215,
-          "end": 244,
-          "count": 1
-        },
-        {
-          "start": 251,
-          "end": 388,
-          "count": 1
-        },
-        {
-          "start": 395,
-          "end": 940,
-          "count": 1
-        },
-        {
-          "start": 947,
-          "end": 1794,
-          "count": 1
-        }
-      ]
-    },
     "174": {
       "refs": [
         {
@@ -38673,41 +38899,6 @@
         {
           "start": 648,
           "end": 1069,
-          "count": 1
-        }
-      ]
-    },
-    "186": {
-      "refs": [
-        {
-          "id": "ruhi4-003",
-          "paragraph": 40
-        }
-      ],
-      "parts": [
-        {
-          "start": 264,
-          "end": 467,
-          "count": 1
-        },
-        {
-          "start": 474,
-          "end": 804,
-          "count": 1
-        },
-        {
-          "start": 811,
-          "end": 851,
-          "count": 1
-        },
-        {
-          "start": 858,
-          "end": 1150,
-          "count": 1
-        },
-        {
-          "start": 1157,
-          "end": 1295,
           "count": 1
         }
       ]
@@ -41576,6 +41767,16 @@
       "parts": [
         {
           "start": 979,
+          "end": 1149,
+          "count": 1
+        },
+        {
+          "start": 1150,
+          "end": 1566,
+          "count": 1
+        },
+        {
+          "start": 1567,
           "end": 2012,
           "count": 1
         }
@@ -41913,26 +42114,6 @@
         {
           "start": 781,
           "end": 847,
-          "count": 1
-        }
-      ]
-    },
-    "95": {
-      "refs": [
-        {
-          "id": "ruhi2-003",
-          "paragraph": 19
-        }
-      ],
-      "parts": [
-        {
-          "start": 1236,
-          "end": 1479,
-          "count": 1
-        },
-        {
-          "start": 1486,
-          "end": 1686,
           "count": 1
         }
       ]
@@ -43560,21 +43741,6 @@
         }
       ]
     },
-    "228": {
-      "refs": [
-        {
-          "id": "ruhi5-003",
-          "paragraph": 37
-        }
-      ],
-      "parts": [
-        {
-          "start": 896,
-          "end": 1038,
-          "count": 1
-        }
-      ]
-    },
     "303": {
       "refs": [
         {
@@ -44279,7 +44445,42 @@
       ]
     }
   },
-  "additional-abdul-baha-398": {
+  "additional-shoghi-effendi-563": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-020",
+          "paragraph": 21
+        },
+        {
+          "id": "ruhi6-001",
+          "paragraph": 52
+        },
+        {
+          "id": "ruhi6-001",
+          "paragraph": 53
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 439,
+          "count": 2
+        },
+        {
+          "start": 439,
+          "end": 440,
+          "count": 1
+        },
+        {
+          "start": 440,
+          "end": 618,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-399": {
     "1": {
       "refs": [
         {
@@ -48123,36 +48324,6 @@
         }
       ]
     },
-    "13": {
-      "refs": [
-        {
-          "id": "ruhi9-002",
-          "paragraph": 2
-        }
-      ],
-      "parts": [
-        {
-          "start": 65,
-          "end": 201,
-          "count": 1
-        },
-        {
-          "start": 208,
-          "end": 395,
-          "count": 1
-        },
-        {
-          "start": 402,
-          "end": 675,
-          "count": 1
-        },
-        {
-          "start": 682,
-          "end": 1286,
-          "count": 1
-        }
-      ]
-    },
     "23": {
       "refs": [
         {
@@ -50392,7 +50563,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 56
+          "paragraph": 55
         }
       ],
       "parts": [
@@ -51102,7 +51273,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 58
+          "paragraph": 57
         }
       ],
       "parts": [
@@ -51719,7 +51890,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 59
+          "paragraph": 58
         }
       ],
       "parts": [
@@ -53611,7 +53782,7 @@
       ]
     }
   },
-  "additional-abdul-baha-376": {
+  "additional-abdul-baha-377": {
     "1": {
       "refs": [
         {
@@ -53628,7 +53799,7 @@
       ]
     }
   },
-  "additional-abdul-baha-377": {
+  "additional-abdul-baha-378": {
     "1": {
       "refs": [
         {
@@ -53737,7 +53908,7 @@
       ]
     }
   },
-  "additional-abdul-baha-378": {
+  "additional-abdul-baha-379": {
     "2": {
       "refs": [
         {
@@ -53859,7 +54030,7 @@
       ]
     }
   },
-  "additional-abdul-baha-379": {
+  "additional-abdul-baha-380": {
     "2": {
       "refs": [
         {
@@ -53951,7 +54122,7 @@
       ]
     }
   },
-  "additional-abdul-baha-380": {
+  "additional-abdul-baha-381": {
     "1": {
       "refs": [
         {
@@ -53998,7 +54169,7 @@
       ]
     }
   },
-  "additional-abdul-baha-381": {
+  "additional-abdul-baha-382": {
     "2": {
       "refs": [
         {
@@ -54015,7 +54186,7 @@
       ]
     }
   },
-  "additional-abdul-baha-382": {
+  "additional-abdul-baha-383": {
     "1": {
       "refs": [
         {
@@ -54047,7 +54218,7 @@
       ]
     }
   },
-  "additional-abdul-baha-383": {
+  "additional-abdul-baha-384": {
     "2": {
       "refs": [
         {
@@ -54109,7 +54280,7 @@
       ]
     }
   },
-  "additional-abdul-baha-384": {
+  "additional-abdul-baha-385": {
     "1": {
       "refs": [
         {
@@ -54156,7 +54327,7 @@
       ]
     }
   },
-  "additional-abdul-baha-385": {
+  "additional-abdul-baha-386": {
     "2": {
       "refs": [
         {
@@ -54233,7 +54404,7 @@
       ]
     }
   },
-  "additional-abdul-baha-386": {
+  "additional-abdul-baha-387": {
     "2": {
       "refs": [
         {
@@ -54389,7 +54560,7 @@
       ]
     }
   },
-  "additional-abdul-baha-387": {
+  "additional-abdul-baha-388": {
     "2": {
       "refs": [
         {
@@ -54466,7 +54637,7 @@
       ]
     }
   },
-  "additional-abdul-baha-388": {
+  "additional-abdul-baha-389": {
     "1": {
       "refs": [
         {
@@ -54528,7 +54699,7 @@
       ]
     }
   },
-  "additional-abdul-baha-389": {
+  "additional-abdul-baha-390": {
     "2": {
       "refs": [
         {
@@ -54620,7 +54791,7 @@
       ]
     }
   },
-  "additional-abdul-baha-390": {
+  "additional-abdul-baha-391": {
     "2": {
       "refs": [
         {
@@ -54697,7 +54868,7 @@
       ]
     }
   },
-  "additional-abdul-baha-391": {
+  "additional-abdul-baha-392": {
     "2": {
       "refs": [
         {
@@ -54797,7 +54968,7 @@
       ]
     }
   },
-  "additional-abdul-baha-392": {
+  "additional-abdul-baha-393": {
     "1": {
       "refs": [
         {
@@ -54889,7 +55060,7 @@
       ]
     }
   },
-  "additional-abdul-baha-393": {
+  "additional-abdul-baha-394": {
     "1": {
       "refs": [
         {
@@ -55864,7 +56035,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 50
+          "paragraph": 49
         }
       ],
       "parts": [
@@ -56433,7 +56604,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 49
+          "paragraph": 48
         }
       ],
       "parts": [
@@ -57746,7 +57917,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 31
+          "paragraph": 30
         }
       ],
       "parts": [
@@ -64943,7 +65114,7 @@
       ]
     }
   },
-  "additional-abdul-baha-360": {
+  "additional-abdul-baha-361": {
     "1": {
       "refs": [
         {
@@ -64960,7 +65131,7 @@
       ]
     }
   },
-  "additional-abdul-baha-361": {
+  "additional-abdul-baha-362": {
     "1": {
       "refs": [
         {
@@ -64977,7 +65148,7 @@
       ]
     }
   },
-  "additional-abdul-baha-362": {
+  "additional-abdul-baha-363": {
     "1": {
       "refs": [
         {
@@ -64994,7 +65165,7 @@
       ]
     }
   },
-  "additional-abdul-baha-363": {
+  "additional-abdul-baha-364": {
     "1": {
       "refs": [
         {
@@ -65056,7 +65227,7 @@
       ]
     }
   },
-  "additional-abdul-baha-364": {
+  "additional-abdul-baha-365": {
     "1": {
       "refs": [
         {
@@ -65847,7 +66018,7 @@
       ]
     }
   },
-  "additional-abdul-baha-365": {
+  "additional-abdul-baha-366": {
     "1": {
       "refs": [
         {
@@ -65864,7 +66035,7 @@
       ]
     }
   },
-  "additional-abdul-baha-366": {
+  "additional-abdul-baha-367": {
     "1": {
       "refs": [
         {
@@ -65881,7 +66052,7 @@
       ]
     }
   },
-  "additional-abdul-baha-367": {
+  "additional-abdul-baha-368": {
     "1": {
       "refs": [
         {
@@ -65898,7 +66069,7 @@
       ]
     }
   },
-  "additional-abdul-baha-368": {
+  "additional-abdul-baha-369": {
     "1": {
       "refs": [
         {
@@ -66882,7 +67053,7 @@
       ]
     }
   },
-  "additional-abdul-baha-369": {
+  "additional-abdul-baha-370": {
     "1": {
       "refs": [
         {
@@ -66929,7 +67100,7 @@
       ]
     }
   },
-  "additional-abdul-baha-370": {
+  "additional-abdul-baha-371": {
     "1": {
       "refs": [
         {
@@ -66961,7 +67132,7 @@
       ]
     }
   },
-  "additional-abdul-baha-371": {
+  "additional-abdul-baha-372": {
     "1": {
       "refs": [
         {
@@ -67023,7 +67194,7 @@
       ]
     }
   },
-  "additional-abdul-baha-372": {
+  "additional-abdul-baha-373": {
     "1": {
       "refs": [
         {
@@ -67040,7 +67211,7 @@
       ]
     }
   },
-  "additional-abdul-baha-373": {
+  "additional-abdul-baha-374": {
     "1": {
       "refs": [
         {
@@ -67102,7 +67273,7 @@
       ]
     }
   },
-  "additional-abdul-baha-374": {
+  "additional-abdul-baha-375": {
     "1": {
       "refs": [
         {
@@ -67119,7 +67290,7 @@
       ]
     }
   },
-  "additional-abdul-baha-375": {
+  "additional-abdul-baha-376": {
     "1": {
       "refs": [
         {
@@ -67357,7 +67528,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 16
+          "paragraph": 15
         }
       ],
       "parts": [
@@ -67859,7 +68030,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 34
+          "paragraph": 33
         }
       ],
       "parts": [
@@ -68767,7 +68938,7 @@
       ]
     }
   },
-  "additional-abdul-baha-350": {
+  "additional-abdul-baha-351": {
     "1": {
       "refs": [
         {
@@ -69460,6 +69631,195 @@
         {
           "start": 0,
           "end": 475,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-011": {
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 38
+        }
+      ],
+      "parts": [
+        {
+          "start": 333,
+          "end": 588,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-local-spiritual-assembly-001",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 328,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 322,
+          "count": 1
+        },
+        {
+          "start": 329,
+          "end": 1618,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "compilations-consultation-001",
+          "paragraph": 11
+        },
+        {
+          "id": "publications-individual-authors-bahaullah-new-era-021",
+          "paragraph": 61
+        },
+        {
+          "id": "compilations-local-spiritual-assembly-001",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 1,
+          "end": 432,
+          "count": 3
+        },
+        {
+          "start": 432,
+          "end": 435,
+          "count": 1
+        },
+        {
+          "start": 435,
+          "end": 578,
+          "count": 2
+        },
+        {
+          "start": 578,
+          "end": 784,
+          "count": 3
+        },
+        {
+          "start": 784,
+          "end": 839,
+          "count": 2
+        },
+        {
+          "start": 839,
+          "end": 1192,
+          "count": 3
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "ruhi8-002",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 608,
+          "count": 1
+        },
+        {
+          "start": 615,
+          "end": 1826,
+          "count": 1
+        },
+        {
+          "start": 1833,
+          "end": 2576,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "publications-individual-authors-bahaullah-new-era-021",
+          "paragraph": 64
+        },
+        {
+          "id": "compilations-local-spiritual-assembly-001",
+          "paragraph": 61
+        }
+      ],
+      "parts": [
+        {
+          "start": 70,
+          "end": 557,
+          "count": 1
+        },
+        {
+          "start": 557,
+          "end": 642,
+          "count": 2
+        },
+        {
+          "start": 642,
+          "end": 648,
+          "count": 1
+        },
+        {
+          "start": 648,
+          "end": 885,
+          "count": 2
+        },
+        {
+          "start": 885,
+          "end": 886,
+          "count": 1
+        },
+        {
+          "start": 886,
+          "end": 891,
+          "count": 2
+        },
+        {
+          "start": 891,
+          "end": 1295,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "publications-individual-authors-bahaullah-new-era-021",
+          "paragraph": 65
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 367,
           "count": 1
         }
       ]
@@ -76961,14 +77321,6 @@
     "21": {
       "refs": [
         {
-          "id": "ruhi6-001",
-          "paragraph": 52
-        },
-        {
-          "id": "ruhi6-001",
-          "paragraph": 53
-        },
-        {
           "id": "compilations-universal-house-of-justice-compilation-001",
           "paragraph": 151
         }
@@ -76976,26 +77328,6 @@
       "parts": [
         {
           "start": 0,
-          "end": 775,
-          "count": 1
-        },
-        {
-          "start": 775,
-          "end": 1214,
-          "count": 2
-        },
-        {
-          "start": 1214,
-          "end": 1215,
-          "count": 1
-        },
-        {
-          "start": 1215,
-          "end": 1393,
-          "count": 2
-        },
-        {
-          "start": 1393,
           "end": 1694,
           "count": 1
         }
@@ -77072,7 +77404,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 77
+          "paragraph": 76
         }
       ],
       "parts": [
@@ -77087,7 +77419,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 20
+          "paragraph": 19
         }
       ],
       "parts": [
@@ -78517,7 +78849,7 @@
       ]
     }
   },
-  "additional-abdul-baha-351": {
+  "additional-abdul-baha-352": {
     "1": {
       "refs": [
         {
@@ -78569,7 +78901,7 @@
       ]
     }
   },
-  "additional-abdul-baha-352": {
+  "additional-abdul-baha-353": {
     "1": {
       "refs": [
         {
@@ -78586,7 +78918,7 @@
       ]
     }
   },
-  "additional-abdul-baha-353": {
+  "additional-abdul-baha-354": {
     "1": {
       "refs": [
         {
@@ -78603,7 +78935,7 @@
       ]
     }
   },
-  "additional-abdul-baha-354": {
+  "additional-abdul-baha-355": {
     "1": {
       "refs": [
         {
@@ -78635,7 +78967,7 @@
       ]
     }
   },
-  "additional-abdul-baha-355": {
+  "additional-abdul-baha-356": {
     "1": {
       "refs": [
         {
@@ -78652,7 +78984,7 @@
       ]
     }
   },
-  "additional-abdul-baha-356": {
+  "additional-abdul-baha-357": {
     "1": {
       "refs": [
         {
@@ -78669,7 +79001,7 @@
       ]
     }
   },
-  "additional-abdul-baha-357": {
+  "additional-abdul-baha-358": {
     "1": {
       "refs": [
         {
@@ -78686,7 +79018,7 @@
       ]
     }
   },
-  "additional-abdul-baha-358": {
+  "additional-abdul-baha-359": {
     "1": {
       "refs": [
         {
@@ -78758,7 +79090,7 @@
       ]
     }
   },
-  "additional-abdul-baha-359": {
+  "additional-abdul-baha-360": {
     "1": {
       "refs": [
         {
@@ -92721,147 +93053,6 @@
       ]
     }
   },
-  "shoghi-effendi-bahai-administration-011": {
-    "5": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 38
-        }
-      ],
-      "parts": [
-        {
-          "start": 333,
-          "end": 588,
-          "count": 1
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "compilations-local-spiritual-assembly-001",
-          "paragraph": 25
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 328,
-          "count": 1
-        }
-      ]
-    },
-    "11": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 40
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 322,
-          "count": 1
-        },
-        {
-          "start": 329,
-          "end": 1618,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 41
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 608,
-          "count": 1
-        },
-        {
-          "start": 615,
-          "end": 1826,
-          "count": 1
-        },
-        {
-          "start": 1833,
-          "end": 2576,
-          "count": 1
-        }
-      ]
-    },
-    "17": {
-      "refs": [
-        {
-          "id": "publications-individual-authors-bahaullah-new-era-021",
-          "paragraph": 64
-        },
-        {
-          "id": "compilations-local-spiritual-assembly-001",
-          "paragraph": 61
-        }
-      ],
-      "parts": [
-        {
-          "start": 70,
-          "end": 557,
-          "count": 1
-        },
-        {
-          "start": 557,
-          "end": 642,
-          "count": 2
-        },
-        {
-          "start": 642,
-          "end": 648,
-          "count": 1
-        },
-        {
-          "start": 648,
-          "end": 885,
-          "count": 2
-        },
-        {
-          "start": 885,
-          "end": 886,
-          "count": 1
-        },
-        {
-          "start": 886,
-          "end": 891,
-          "count": 2
-        },
-        {
-          "start": 891,
-          "end": 1295,
-          "count": 1
-        }
-      ]
-    },
-    "18": {
-      "refs": [
-        {
-          "id": "publications-individual-authors-bahaullah-new-era-021",
-          "paragraph": 65
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 367,
-          "count": 1
-        }
-      ]
-    }
-  },
   "abdul-baha-selections-writings-abdul-baha-195": {
     "2": {
       "refs": [
@@ -96032,7 +96223,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 38
+          "paragraph": 37
         }
       ],
       "parts": [
@@ -97301,7 +97492,7 @@
       ]
     }
   },
-  "additional-abdul-baha-394": {
+  "additional-abdul-baha-395": {
     "1": {
       "refs": [
         {
@@ -97452,7 +97643,7 @@
       ]
     }
   },
-  "additional-abdul-baha-395": {
+  "additional-abdul-baha-396": {
     "1": {
       "refs": [
         {
@@ -97484,7 +97675,7 @@
       ]
     }
   },
-  "additional-abdul-baha-396": {
+  "additional-abdul-baha-397": {
     "1": {
       "refs": [
         {
@@ -97684,7 +97875,7 @@
       ]
     }
   },
-  "additional-abdul-baha-397": {
+  "additional-abdul-baha-398": {
     "1": {
       "refs": [
         {
@@ -97716,7 +97907,7 @@
       ]
     }
   },
-  "additional-abdul-baha-399": {
+  "additional-abdul-baha-400": {
     "1": {
       "refs": [
         {
@@ -97748,7 +97939,7 @@
       ]
     }
   },
-  "additional-abdul-baha-400": {
+  "additional-abdul-baha-401": {
     "1": {
       "refs": [
         {
@@ -97765,7 +97956,7 @@
       ]
     }
   },
-  "additional-abdul-baha-401": {
+  "additional-abdul-baha-402": {
     "1": {
       "refs": [
         {
@@ -99256,7 +99447,7 @@
       ]
     }
   },
-  "additional-abdul-baha-402": {
+  "additional-abdul-baha-403": {
     "1": {
       "refs": [
         {
@@ -99789,7 +99980,7 @@
       ]
     }
   },
-  "additional-abdul-baha-403": {
+  "additional-abdul-baha-404": {
     "1": {
       "refs": [
         {
@@ -101668,7 +101859,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 26
+          "paragraph": 25
         }
       ],
       "parts": [
@@ -102543,7 +102734,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 62
+          "paragraph": 61
         }
       ],
       "parts": [
@@ -102668,6 +102859,28 @@
       ]
     }
   },
+  "additional-shoghi-effendi-232": {
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-421",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 85,
+          "end": 135,
+          "count": 1
+        },
+        {
+          "start": 178,
+          "end": 278,
+          "count": 1
+        }
+      ]
+    }
+  },
   "the-universal-house-of-justice-additional-messages-014": {
     "6": {
       "refs": [
@@ -102761,47 +102974,6 @@
         {
           "start": 538,
           "end": 739,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-232": {
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-421",
-          "paragraph": 6
-        },
-        {
-          "id": "ruhi5-001",
-          "paragraph": 15
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 85,
-          "count": 1
-        },
-        {
-          "start": 85,
-          "end": 135,
-          "count": 2
-        },
-        {
-          "start": 135,
-          "end": 178,
-          "count": 1
-        },
-        {
-          "start": 178,
-          "end": 278,
-          "count": 2
-        },
-        {
-          "start": 278,
-          "end": 393,
           "count": 1
         }
       ]
@@ -103180,7 +103352,7 @@
       ]
     }
   },
-  "additional-abdul-baha-430": {
+  "additional-abdul-baha-431": {
     "1": {
       "refs": [
         {
@@ -103663,7 +103835,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 55
+          "paragraph": 54
         }
       ],
       "parts": [
@@ -103962,7 +104134,7 @@
       ]
     }
   },
-  "additional-abdul-baha-411": {
+  "additional-abdul-baha-412": {
     "1": {
       "refs": [
         {
@@ -105988,7 +106160,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 25
+          "paragraph": 24
         }
       ],
       "parts": [
@@ -106055,7 +106227,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 24
+          "paragraph": 23
         }
       ],
       "parts": [
@@ -106306,7 +106478,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 70
+          "paragraph": 69
         }
       ],
       "parts": [
@@ -106330,7 +106502,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 71
+          "paragraph": 70
         }
       ],
       "parts": [
@@ -106370,7 +106542,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 69
+          "paragraph": 68
         }
       ],
       "parts": [
@@ -106409,7 +106581,7 @@
       ]
     }
   },
-  "additional-abdul-baha-427": {
+  "additional-abdul-baha-428": {
     "1": {
       "refs": [
         {
@@ -107024,7 +107196,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 22
+          "paragraph": 21
         }
       ],
       "parts": [
@@ -107654,7 +107826,7 @@
       ]
     }
   },
-  "additional-abdul-baha-422": {
+  "additional-abdul-baha-423": {
     "1": {
       "refs": [
         {
@@ -108050,7 +108222,7 @@
       ]
     }
   },
-  "additional-abdul-baha-418": {
+  "additional-abdul-baha-419": {
     "1": {
       "refs": [
         {
@@ -108237,7 +108409,7 @@
       ]
     }
   },
-  "additional-abdul-baha-413": {
+  "additional-abdul-baha-414": {
     "1": {
       "refs": [
         {
@@ -108313,7 +108485,7 @@
       ]
     }
   },
-  "additional-abdul-baha-414": {
+  "additional-abdul-baha-415": {
     "1": {
       "refs": [
         {
@@ -108378,7 +108550,7 @@
       ]
     }
   },
-  "additional-abdul-baha-415": {
+  "additional-abdul-baha-416": {
     "1": {
       "refs": [
         {
@@ -108412,7 +108584,7 @@
       ]
     }
   },
-  "additional-abdul-baha-416": {
+  "additional-abdul-baha-417": {
     "1": {
       "refs": [
         {
@@ -108455,7 +108627,7 @@
       ]
     }
   },
-  "additional-abdul-baha-417": {
+  "additional-abdul-baha-418": {
     "1": {
       "refs": [
         {
@@ -108472,7 +108644,7 @@
       ]
     }
   },
-  "additional-abdul-baha-419": {
+  "additional-abdul-baha-420": {
     "1": {
       "refs": [
         {
@@ -108523,7 +108695,7 @@
       ]
     }
   },
-  "additional-abdul-baha-420": {
+  "additional-abdul-baha-421": {
     "1": {
       "refs": [
         {
@@ -108555,7 +108727,7 @@
       ]
     }
   },
-  "additional-abdul-baha-421": {
+  "additional-abdul-baha-422": {
     "1": {
       "refs": [
         {
@@ -108572,7 +108744,7 @@
       ]
     }
   },
-  "additional-abdul-baha-423": {
+  "additional-abdul-baha-424": {
     "1": {
       "refs": [
         {
@@ -108589,7 +108761,7 @@
       ]
     }
   },
-  "additional-abdul-baha-424": {
+  "additional-abdul-baha-425": {
     "1": {
       "refs": [
         {
@@ -108693,7 +108865,7 @@
       ]
     }
   },
-  "additional-abdul-baha-425": {
+  "additional-abdul-baha-426": {
     "1": {
       "refs": [
         {
@@ -108724,7 +108896,7 @@
       ]
     }
   },
-  "additional-abdul-baha-426": {
+  "additional-abdul-baha-427": {
     "1": {
       "refs": [
         {
@@ -108784,7 +108956,7 @@
       ]
     }
   },
-  "additional-abdul-baha-428": {
+  "additional-abdul-baha-429": {
     "1": {
       "refs": [
         {
@@ -108801,7 +108973,7 @@
       ]
     }
   },
-  "additional-abdul-baha-429": {
+  "additional-abdul-baha-430": {
     "1": {
       "refs": [
         {
@@ -108818,7 +108990,7 @@
       ]
     }
   },
-  "additional-abdul-baha-431": {
+  "additional-abdul-baha-432": {
     "1": {
       "refs": [
         {
@@ -109877,7 +110049,7 @@
       ]
     }
   },
-  "additional-abdul-baha-432": {
+  "additional-abdul-baha-433": {
     "1": {
       "refs": [
         {
@@ -110904,6 +111076,27 @@
           "start": 0,
           "end": 264,
           "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-044": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi10-002",
+          "paragraph": 17
+        },
+        {
+          "id": "ruhi2-003",
+          "paragraph": 31
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 431,
+          "count": 2
         }
       ]
     }
@@ -112191,7 +112384,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 33
+          "paragraph": 32
         }
       ],
       "parts": [
@@ -112768,7 +112961,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 44
+          "paragraph": 43
         }
       ],
       "parts": [
@@ -112785,7 +112978,7 @@
       ]
     }
   },
-  "additional-abdul-baha-406": {
+  "additional-abdul-baha-407": {
     "1": {
       "refs": [
         {
@@ -113183,7 +113376,7 @@
       ]
     }
   },
-  "additional-abdul-baha-412": {
+  "additional-abdul-baha-413": {
     "1": {
       "refs": [
         {
@@ -114751,6 +114944,28 @@
         {
           "start": 0,
           "end": 185,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-434": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi2-003",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 243,
+          "count": 1
+        },
+        {
+          "start": 250,
+          "end": 450,
           "count": 1
         }
       ]
@@ -117760,7 +117975,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 86
+          "paragraph": 85
         }
       ],
       "parts": [
@@ -117779,7 +117994,7 @@
         },
         {
           "id": "ruhi5-001",
-          "paragraph": 87
+          "paragraph": 86
         }
       ],
       "parts": [
@@ -118001,7 +118216,7 @@
       ]
     }
   },
-  "additional-abdul-baha-404": {
+  "additional-abdul-baha-405": {
     "1": {
       "refs": [
         {
@@ -118018,7 +118233,7 @@
       ]
     }
   },
-  "additional-abdul-baha-405": {
+  "additional-abdul-baha-406": {
     "1": {
       "refs": [
         {
@@ -120034,7 +120249,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 75
+          "paragraph": 74
         }
       ],
       "parts": [
@@ -120049,7 +120264,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 67
+          "paragraph": 66
         }
       ],
       "parts": [
@@ -120064,7 +120279,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 17
+          "paragraph": 16
         }
       ],
       "parts": [
@@ -120094,7 +120309,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 68
+          "paragraph": 67
         }
       ],
       "parts": [
@@ -120111,7 +120326,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 21
+          "paragraph": 20
         }
       ],
       "parts": [
@@ -120128,7 +120343,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 32
+          "paragraph": 31
         }
       ],
       "parts": [
@@ -120145,7 +120360,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 60
+          "paragraph": 59
         }
       ],
       "parts": [
@@ -120162,7 +120377,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 65
+          "paragraph": 64
         }
       ],
       "parts": [
@@ -120179,7 +120394,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 66
+          "paragraph": 65
         }
       ],
       "parts": [
@@ -120196,7 +120411,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 78
+          "paragraph": 77
         }
       ],
       "parts": [
@@ -120213,7 +120428,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 84
+          "paragraph": 83
         }
       ],
       "parts": [
@@ -120228,7 +120443,7 @@
       "refs": [
         {
           "id": "ruhi5-001",
-          "paragraph": 85
+          "paragraph": 84
         }
       ],
       "parts": [
@@ -120240,7 +120455,7 @@
       ]
     }
   },
-  "additional-abdul-baha-407": {
+  "additional-abdul-baha-408": {
     "1": {
       "refs": [
         {
@@ -120359,7 +120574,7 @@
       ]
     }
   },
-  "additional-abdul-baha-408": {
+  "additional-abdul-baha-409": {
     "1": {
       "refs": [
         {
@@ -120461,7 +120676,7 @@
       ]
     }
   },
-  "additional-abdul-baha-409": {
+  "additional-abdul-baha-410": {
     "1": {
       "refs": [
         {
@@ -120597,7 +120812,7 @@
       ]
     }
   },
-  "additional-abdul-baha-410": {
+  "additional-abdul-baha-411": {
     "1": {
       "refs": [
         {
