@@ -475,6 +475,6 @@ export default (script) => {
   const source = s(m).ast;
   // console.log(JSON.stringify(source, null, 2));
   const result = compile(source);
-  console.log(result);
+  // console.log(result);
   return result;
 };

@@ -56,6 +56,7 @@
         'link': [],
         'Bahá’í Library'
       ],
+      button('Search', 'true'),
       button('Prayers', 'true'),
       button('Collections', 'true'),
       button('Most Cited', 'true'),
@@ -148,6 +149,7 @@
       [
         'pad': 50,
         url->[
+          ['search']: search,
           ['prayers']: prayers,
           ['prayers', x]: prayers,
           ['collections']: pages.'collections',

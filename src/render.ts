@@ -58,7 +58,7 @@ const updateChildren = (node, children) => {
 const updateNode = (node, data) => {
   if (!data && data !== 0) return null;
 
-  if (typeof data !== "object" || data.type !== "block") {
+  if (typeof data !== "object" || (data.type !== "block" && !data[""])) {
     const text = (typeof data === "string" ? data : print(resolve(data, true)))
       .normalize("NFD")
       .replace(/\u0323/g, "")
@@ -69,16 +69,18 @@ const updateNode = (node, data) => {
     return next;
   }
 
-  const tag = resolve(data.values[""]);
+  const block = createBlock(data);
+
+  const tag = resolve(block.values[""]);
   const next =
     node?.nodeName.toLowerCase() === tag ? node : document.createElement(tag);
 
   effect(() => {
-    const { style: dataStyle = {}, ...dataValues } = data.values;
+    const { style: dataStyle = {}, ...dataValues } = block.values;
 
     const values = resolve(dataValues, true);
     const setters = Object.fromEntries(
-      Object.entries<any>(data.values)
+      Object.entries<any>(block.values)
         .filter(([k, v]) => isSourceStream(v) && k.startsWith("on"))
         .map(([k, v]) => [
           k,
@@ -102,7 +104,7 @@ const updateNode = (node, data) => {
   effect(() => {
     updateChildren(
       next,
-      data.items
+      block.items
         .map((d, i) => updateNode(next.childNodes[i], resolve(d)))
         .filter((x) => x)
     );

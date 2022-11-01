@@ -1,5 +1,6 @@
 import webfont from "webfontloader";
 import { createBrowserHistory } from "history";
+import lunr from "lunr";
 
 import { atom, resolve } from "reactivejs";
 
@@ -145,6 +146,20 @@ const documentsList = Object.keys(documents)
   // .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
   .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
 
+const searchIndex = lunr(function () {
+  this.ref("ref");
+  this.field("text");
+  this.k1(0.1);
+  this.b(0.8);
+  documentsList
+    .filter((d) => !d.id.startsWith("bible") && !d.id.startsWith("quran"))
+    .forEach((doc) => {
+      doc.paragraphs.forEach((p, i) => {
+        this.add({ ref: `${doc.id}#${i + 1}`, text: p.text });
+      });
+    });
+});
+
 maraca(
   {
     sortIds: (ids) =>
@@ -186,6 +201,14 @@ maraca(
             b.years[0] + b.years[1] - (a.years[0] + a.years[1]) ||
             a.id.localeCompare(b.id)
         ),
+    runSearch: (s) => {
+      if ((s || "").length <= 1) return [];
+      const result = searchIndex.search(s);
+      return result.slice(0, 10).map((x) => {
+        const [id, para] = x.ref.split("#");
+        return documents[id].paragraphs[parseInt(para, 10) - 1];
+      });
+    },
     findDocuments: (section, ignore) => {
       const sliceNum = 50;
       if (section === "Collections") {
