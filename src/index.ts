@@ -253,6 +253,7 @@ maraca(
           ...quotes[id][k],
         }))
       )
+      // .filter((q) => documents[q.id].author === "Bahá’u’lláh")
       //   .sort((a, b) => {
       //     const x = a.parts.map((p) => p.count);
       //     const y = b.parts.map((p) => p.count);

@@ -331,7 +331,7 @@ const compileBlock = (node, capture) => {
   );
   const values = node.items.filter((n) => ["merge", "assign"].includes(n.type));
   const functions = node.items.filter((n) => ["function"].includes(n.type));
-  if (items.length > 0 && values.length === 0 && functions.length === 0) {
+  if (values.length === 0 && functions.length === 0) {
     return `[${capture ? "~" : ""} ${items.map((n) => compile(n)).join(",")}]`;
   }
   if (values.length > 0 && items.length === 0 && functions.length === 0) {
@@ -475,6 +475,6 @@ export default (script) => {
   const source = s(m).ast;
   // console.log(JSON.stringify(source, null, 2));
   const result = compile(source);
-  // console.log(result);
+  console.log(result);
   return result;
 };

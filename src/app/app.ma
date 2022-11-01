@@ -45,13 +45,14 @@
     [
       'width': 215,
       'fill': '#eee',
-      'pad': [20, 40, 20, 0],
+      'pad': [40, 40, 20, 0],
       'stack': 25,
       'style': ['position': 'fixed', 'height': '100%'],
       [
         'size': 24,
         'bold': 'true',
         'underline': 'true',
+        'pad': ['bottom': 5],
         'link': [],
         'Bahá’í Library'
       ],
