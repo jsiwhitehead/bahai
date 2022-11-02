@@ -13,6 +13,7 @@
       'input': 'text',
       'fill': '#eee',
       'round': 50,
+      'align': 'center',
       'pad': [10, 20],
       'value': search,
     ],

@@ -5,6 +5,7 @@ import lunr from "lunr";
 import { atom, resolve } from "reactivejs";
 
 import render from "./render";
+import stem from "./porter2";
 
 import categories from "./data/categories.json";
 import prayers from "./data/prayers.json";
@@ -135,7 +136,7 @@ const documentsList = Object.keys(documents)
     return {
       ...d,
       time: `${Math.round(time / 6) / 10} hours`,
-      score: d.score / Math.sqrt(d.words),
+      score: d.score / Math.sqrt(d.words) / 500,
     };
   })
   // .sort(
@@ -146,19 +147,170 @@ const documentsList = Object.keys(documents)
   // .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
   .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
 
-const searchIndex = lunr(function () {
-  this.ref("ref");
-  this.field("text");
-  this.k1(0.1);
-  this.b(0.8);
-  documentsList
-    .filter((d) => !d.id.startsWith("bible") && !d.id.startsWith("quran"))
-    .forEach((doc) => {
-      doc.paragraphs.forEach((p, i) => {
-        this.add({ ref: `${doc.id}#${i + 1}`, text: p.text });
-      });
+const normaliseString = (s) =>
+  s
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^\w‑]/g, "");
+
+const stopWords = [
+  "a",
+  "able",
+  "about",
+  "across",
+  "after",
+  "all",
+  "almost",
+  "also",
+  "am",
+  "among",
+  "an",
+  "and",
+  "any",
+  "are",
+  "as",
+  "at",
+  "be",
+  "because",
+  "been",
+  "but",
+  "by",
+  "can",
+  "cannot",
+  "could",
+  "dear",
+  "did",
+  "do",
+  "does",
+  "either",
+  "else",
+  "ever",
+  "every",
+  "for",
+  "from",
+  "get",
+  "got",
+  "had",
+  "has",
+  "have",
+  "he",
+  "her",
+  "hers",
+  "him",
+  "his",
+  "how",
+  "however",
+  "i",
+  "if",
+  "in",
+  "into",
+  "is",
+  "it",
+  "its",
+  "just",
+  "least",
+  "let",
+  "like",
+  "likely",
+  "may",
+  "me",
+  "might",
+  "most",
+  "must",
+  "my",
+  "neither",
+  "no",
+  "nor",
+  "not",
+  "of",
+  "off",
+  "often",
+  "on",
+  "only",
+  "or",
+  "other",
+  "our",
+  "own",
+  "rather",
+  "said",
+  "say",
+  "says",
+  "she",
+  "should",
+  "since",
+  "so",
+  "some",
+  "than",
+  "that",
+  "the",
+  "their",
+  "them",
+  "then",
+  "there",
+  "these",
+  "they",
+  "this",
+  "tis",
+  "to",
+  "too",
+  "twas",
+  "us",
+  "wants",
+  "was",
+  "we",
+  "were",
+  "what",
+  "when",
+  "where",
+  "which",
+  "while",
+  "who",
+  "whom",
+  "why",
+  "will",
+  "with",
+  "would",
+  "yet",
+  "you",
+  "your",
+];
+
+lunr.tokenizer.separator = /[\s\—]+/;
+const normaliseWords = (token) => {
+  const normalised = normaliseString(token.toString());
+  if (!normalised.includes("‑")) return token.update(() => normalised);
+  return [
+    token.update(() => normalised.replace("‑", "")),
+    ...normalised.split("‑").map((s) => token.clone().update(() => s)),
+  ];
+};
+lunr.Pipeline.registerFunction(normaliseWords, "normaliseWords");
+const porter2Stemmer = (token) => token.update(() => stem(token.toString()));
+lunr.Pipeline.registerFunction(porter2Stemmer, "porter2Stemmer");
+const addSynonyms = (token) =>
+  ["gather", "meet"].includes(token.toString())
+    ? ["gather", "meet"].map((s) => token.clone().update(() => s))
+    : token;
+lunr.Pipeline.registerFunction(addSynonyms, "addSynonyms");
+
+const searchBuilder = new lunr.Builder();
+searchBuilder.pipeline.add(normaliseWords, lunr.stopWordFilter, porter2Stemmer);
+searchBuilder.searchPipeline.add(porter2Stemmer, addSynonyms);
+searchBuilder.ref("ref");
+searchBuilder.field("text");
+// searchBuilder.b(0.5);
+// searchBuilder.k1(0.1);
+documentsList
+  .filter((d) => !d.id.startsWith("bible") && !d.id.startsWith("quran"))
+  .forEach((doc) => {
+    doc.paragraphs.forEach((p, i) => {
+      searchBuilder.add(
+        { ref: `${doc.id}#${i + 1}`, text: p.text || "" },
+        { boost: doc.score }
+      );
     });
-});
+  });
+const searchIndex = searchBuilder.build();
 
 maraca(
   {
@@ -202,32 +354,29 @@ maraca(
             a.id.localeCompare(b.id)
         ),
     runSearch: (s) => {
-      if ((s || "").length <= 1) return [];
-      const result = searchIndex.search(s);
-      return result.slice(0, 10).map((x) => {
+      const terms = (s || "")
+        .split(/[\s‑-]+/g)
+        .filter((a) => a.length > 1 && !stopWords.includes(a));
+      if (terms.length === 0) return [];
+      const result = searchIndex.search(
+        terms.map((a) => `+${normaliseString(a)}`).join(" ")
+      );
+      return result.slice(0, 20).map((x) => {
         const [id, para] = x.ref.split("#");
         return documents[id].paragraphs[parseInt(para, 10) - 1];
       });
     },
     findDocuments: (section, ignore) => {
-      const sliceNum = 50;
+      const sliceNum = 100;
       if (section === "Collections") {
-        return (
-          documentsList
-            // .filter(
-            //   (d) =>
-            //     !(
-            //       d.paragraphs.every((p) => p.id || p.section) ||
-            //       d.id === "compilations-importance-obligatory-prayer-fasting-001"
-            //     )
-            // )
-            .filter(
-              (d) =>
-                ["The Research Department"].includes(d.author) ||
-                d.id.startsWith("compilation")
-            )
-            .slice(0, sliceNum)
-        );
+        return documentsList
+          .filter(
+            (d) =>
+              ["The World Centre", "The Research Department"].includes(
+                d.author
+              ) || d.id.startsWith("compilation")
+          )
+          .slice(0, sliceNum);
       }
       if (section === "Other") {
         return documentsList

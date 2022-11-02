@@ -1,7 +1,7 @@
 import fs from "fs-extra";
 
 import { files } from "./sources.js";
-import { readText, writeJSON, writeText } from "./utils.js";
+import { readText, writeText } from "./utils.js";
 
 import spellingsBase from "./spellings.json" assert { type: "json" };
 

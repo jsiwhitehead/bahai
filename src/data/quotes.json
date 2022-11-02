@@ -12879,6 +12879,10 @@
         {
           "id": "ruhi3-001",
           "paragraph": 8
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 54
         }
       ],
       "parts": [
@@ -12895,7 +12899,7 @@
         {
           "start": 360,
           "end": 512,
-          "count": 6
+          "count": 7
         },
         {
           "start": 512,
@@ -17503,6 +17507,21 @@
         {
           "start": 0,
           "end": 340,
+          "count": 1
+        }
+      ]
+    },
+    "43": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 141
+        }
+      ],
+      "parts": [
+        {
+          "start": 501,
+          "end": 843,
           "count": 1
         }
       ]
@@ -32979,6 +32998,26 @@
         }
       ]
     },
+    "199": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 289,
+          "end": 314,
+          "count": 1
+        },
+        {
+          "start": 508,
+          "end": 578,
+          "count": 1
+        }
+      ]
+    },
     "200": {
       "refs": [
         {
@@ -33048,11 +33087,20 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 246
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 56
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 213,
+          "count": 3
+        },
+        {
+          "start": 213,
           "end": 451,
           "count": 2
         }
@@ -35611,6 +35659,21 @@
     }
   },
   "abdul-baha-some-answered-questions-003": {
+    "25": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 55
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 338,
+          "count": 1
+        }
+      ]
+    },
     "75": {
       "refs": [
         {
@@ -38274,11 +38337,30 @@
         {
           "id": "ruhi3-002",
           "paragraph": 111
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 36
         }
       ],
       "parts": [
         {
           "start": 403,
+          "end": 440,
+          "count": 2
+        },
+        {
+          "start": 440,
+          "end": 442,
+          "count": 1
+        },
+        {
+          "start": 442,
+          "end": 565,
+          "count": 2
+        },
+        {
+          "start": 565,
           "end": 646,
           "count": 1
         }
@@ -76054,13 +76136,17 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 285
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 15
         }
       ],
       "parts": [
         {
           "start": 5,
           "end": 331,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -79943,6 +80029,10 @@
         {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 260
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 10
         }
       ],
       "parts": [
@@ -79953,8 +80043,23 @@
         },
         {
           "start": 1446,
-          "end": 1766,
+          "end": 1496,
           "count": 1
+        },
+        {
+          "start": 1496,
+          "end": 1619,
+          "count": 2
+        },
+        {
+          "start": 1619,
+          "end": 1620,
+          "count": 1
+        },
+        {
+          "start": 1620,
+          "end": 1766,
+          "count": 2
         }
       ]
     },
@@ -86219,16 +86324,35 @@
         {
           "id": "ruhi3-001",
           "paragraph": 2
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 24
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 121,
+          "count": 4
+        },
+        {
+          "start": 121,
           "end": 558,
           "count": 3
         },
         {
           "start": 558,
+          "end": 702,
+          "count": 2
+        },
+        {
+          "start": 702,
+          "end": 820,
+          "count": 3
+        },
+        {
+          "start": 820,
           "end": 975,
           "count": 2
         }
@@ -88775,21 +88899,6 @@
         {
           "start": 0,
           "end": 642,
-          "count": 1
-        }
-      ]
-    },
-    "319": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 141
-        }
-      ],
-      "parts": [
-        {
-          "start": 299,
-          "end": 641,
           "count": 1
         }
       ]
@@ -101612,18 +101721,27 @@
         {
           "id": "ruhi10-001",
           "paragraph": 4
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 17
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 623,
-          "count": 2
+          "count": 3
+        },
+        {
+          "start": 623,
+          "end": 624,
+          "count": 1
         },
         {
           "start": 624,
           "end": 1043,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -101792,6 +101910,21 @@
         }
       ]
     },
+    "21": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 427,
+          "end": 634,
+          "count": 1
+        }
+      ]
+    },
     "22": {
       "refs": [
         {
@@ -101851,9 +101984,28 @@
         {
           "id": "ruhi5-001",
           "paragraph": 25
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 67
         }
       ],
       "parts": [
+        {
+          "start": 427,
+          "end": 475,
+          "count": 1
+        },
+        {
+          "start": 476,
+          "end": 559,
+          "count": 1
+        },
+        {
+          "start": 560,
+          "end": 611,
+          "count": 1
+        },
         {
           "start": 786,
           "end": 1299,
@@ -101946,9 +102098,27 @@
         {
           "id": "world-centre-frontiers-learning-001",
           "paragraph": 74
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 18
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 32
         }
       ],
       "parts": [
+        {
+          "start": 946,
+          "end": 1362,
+          "count": 1
+        },
+        {
+          "start": 1362,
+          "end": 1547,
+          "count": 1
+        },
         {
           "start": 1735,
           "end": 1903,
@@ -102008,23 +102178,32 @@
         {
           "id": "ruhi9-003",
           "paragraph": 41
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 19
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 1351,
+          "end": 830,
           "count": 1
+        },
+        {
+          "start": 830,
+          "end": 1351,
+          "count": 2
         },
         {
           "start": 1351,
           "end": 1386,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1386,
           "end": 1555,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1555,
@@ -102103,6 +102282,10 @@
         {
           "id": "world-centre-higher-functioning-001",
           "paragraph": 20
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 33
         }
       ],
       "parts": [
@@ -102114,7 +102297,7 @@
         {
           "start": 383,
           "end": 632,
-          "count": 2
+          "count": 3
         },
         {
           "start": 632,
@@ -102185,6 +102368,10 @@
         {
           "id": "ruhi5-002",
           "paragraph": 2
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 28
         }
       ],
       "parts": [
@@ -102196,12 +102383,12 @@
         {
           "start": 151,
           "end": 613,
-          "count": 2
+          "count": 3
         },
         {
           "start": 613,
           "end": 1479,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -102218,12 +102405,21 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 207
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 29
         }
       ],
       "parts": [
         {
           "start": 97,
           "end": 198,
+          "count": 1
+        },
+        {
+          "start": 405,
+          "end": 606,
           "count": 1
         },
         {
@@ -102593,26 +102789,35 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 158
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 85
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 437,
-          "count": 2
+          "count": 3
         },
         {
           "start": 437,
           "end": 524,
-          "count": 3
+          "count": 4
         },
         {
           "start": 524,
           "end": 525,
-          "count": 2
+          "count": 3
         },
         {
           "start": 525,
+          "end": 682,
+          "count": 2
+        },
+        {
+          "start": 682,
           "end": 1273,
           "count": 1
         },
@@ -102747,13 +102952,31 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 103
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 27
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 31
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 357,
+          "count": 3
+        },
+        {
+          "start": 357,
           "end": 638,
           "count": 2
+        },
+        {
+          "start": 1238,
+          "end": 1402,
+          "count": 1
         }
       ]
     },
@@ -104774,12 +104997,12 @@
       "parts": [
         {
           "start": 0,
-          "end": 627,
+          "end": 630,
           "count": 1
         },
         {
-          "start": 628,
-          "end": 751,
+          "start": 631,
+          "end": 754,
           "count": 1
         }
       ]
@@ -105583,6 +105806,30 @@
         {
           "start": 59,
           "end": 452,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 23
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 803,
+          "end": 1009,
+          "count": 1
+        },
+        {
+          "start": 1010,
+          "end": 1226,
           "count": 1
         }
       ]
@@ -106833,26 +107080,55 @@
         {
           "id": "ruhi10-003",
           "paragraph": 38
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 11
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 150,
+          "count": 2
+        },
+        {
+          "start": 150,
           "end": 151,
           "count": 1
         },
         {
           "start": 151,
-          "end": 542,
+          "end": 379,
           "count": 2
+        },
+        {
+          "start": 379,
+          "end": 542,
+          "count": 3
         },
         {
           "start": 542,
           "end": 642,
-          "count": 2
+          "count": 3
         },
         {
           "start": 642,
+          "end": 643,
+          "count": 3
+        },
+        {
+          "start": 643,
+          "end": 998,
+          "count": 2
+        },
+        {
+          "start": 998,
+          "end": 1283,
+          "count": 3
+        },
+        {
+          "start": 1283,
           "end": 1401,
           "count": 2
         },
@@ -107293,38 +107569,62 @@
         {
           "id": "ruhi1-002",
           "paragraph": 33
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 40
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 488,
+          "end": 34,
+          "count": 4
+        },
+        {
+          "start": 34,
+          "end": 57,
           "count": 3
+        },
+        {
+          "start": 57,
+          "end": 198,
+          "count": 4
+        },
+        {
+          "start": 198,
+          "end": 428,
+          "count": 3
+        },
+        {
+          "start": 428,
+          "end": 488,
+          "count": 4
         },
         {
           "start": 488,
           "end": 530,
-          "count": 3
+          "count": 4
         },
         {
           "start": 530,
           "end": 532,
-          "count": 3
+          "count": 4
         },
         {
           "start": 532,
           "end": 556,
-          "count": 4
+          "count": 5
         },
         {
           "start": 556,
           "end": 768,
-          "count": 4
+          "count": 5
         },
         {
           "start": 768,
           "end": 979,
-          "count": 4
+          "count": 5
         },
         {
           "start": 979,
@@ -110878,13 +111178,22 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 212
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 82
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 568,
+          "end": 201,
           "count": 2
+        },
+        {
+          "start": 201,
+          "end": 568,
+          "count": 3
         }
       ]
     },
@@ -111489,6 +111798,10 @@
         {
           "id": "ruhi9-003",
           "paragraph": 57
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 21
         }
       ],
       "parts": [
@@ -111498,7 +111811,32 @@
           "count": 1
         },
         {
+          "start": 701,
+          "end": 909,
+          "count": 1
+        },
+        {
           "start": 910,
+          "end": 1018,
+          "count": 1
+        },
+        {
+          "start": 1018,
+          "end": 1158,
+          "count": 2
+        },
+        {
+          "start": 1158,
+          "end": 1179,
+          "count": 1
+        },
+        {
+          "start": 1179,
+          "end": 1603,
+          "count": 2
+        },
+        {
+          "start": 1603,
           "end": 1828,
           "count": 1
         }
@@ -113764,6 +114102,14 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 143
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 33
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 9
         }
       ],
       "parts": [
@@ -113774,18 +114120,28 @@
         },
         {
           "start": 13,
+          "end": 188,
+          "count": 4
+        },
+        {
+          "start": 188,
           "end": 189,
-          "count": 2
+          "count": 3
         },
         {
           "start": 189,
           "end": 917,
-          "count": 1
+          "count": 2
         },
         {
           "start": 917,
+          "end": 1144,
+          "count": 4
+        },
+        {
+          "start": 1144,
           "end": 1441,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -116803,12 +117159,36 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 304
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 3
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 901,
+          "count": 1
+        },
+        {
           "start": 901,
           "end": 1180,
+          "count": 2
+        }
+      ]
+    },
+    "34": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 4
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 680,
           "count": 1
         }
       ]
@@ -121085,6 +121465,416 @@
         {
           "start": 401,
           "end": 480,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-476": {
+    "6": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 5
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 6
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 268,
+          "count": 1
+        },
+        {
+          "start": 269,
+          "end": 497,
+          "count": 1
+        },
+        {
+          "start": 498,
+          "end": 758,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 826,
+          "end": 1005,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 12
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 13
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 69,
+          "count": 2
+        },
+        {
+          "start": 69,
+          "end": 248,
+          "count": 1
+        },
+        {
+          "start": 248,
+          "end": 372,
+          "count": 2
+        },
+        {
+          "start": 372,
+          "end": 466,
+          "count": 1
+        },
+        {
+          "start": 466,
+          "end": 812,
+          "count": 2
+        },
+        {
+          "start": 812,
+          "end": 1574,
+          "count": 1
+        },
+        {
+          "start": 2002,
+          "end": 2202,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 360,
+          "end": 436,
+          "count": 1
+        },
+        {
+          "start": 669,
+          "end": 1157,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 36
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 333,
+          "end": 669,
+          "count": 1
+        },
+        {
+          "start": 670,
+          "end": 712,
+          "count": 1
+        },
+        {
+          "start": 713,
+          "end": 1358,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 687,
+          "end": 1073,
+          "count": 1
+        }
+      ]
+    },
+    "23": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 81
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 120,
+          "count": 1
+        },
+        {
+          "start": 641,
+          "end": 856,
+          "count": 1
+        }
+      ]
+    },
+    "24": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 220,
+          "count": 1
+        },
+        {
+          "start": 793,
+          "end": 1208,
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 87
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 533,
+          "count": 1
+        },
+        {
+          "start": 1762,
+          "end": 2028,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 53
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 213,
+          "count": 1
+        },
+        {
+          "start": 342,
+          "end": 688,
+          "count": 1
+        }
+      ]
+    },
+    "30": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 61
+        },
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 299,
+          "end": 717,
+          "count": 1
+        },
+        {
+          "start": 921,
+          "end": 1152,
+          "count": 1
+        }
+      ]
+    },
+    "32": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 715,
+          "end": 919,
+          "count": 1
+        },
+        {
+          "start": 1099,
+          "end": 1731,
+          "count": 1
+        }
+      ]
+    },
+    "34": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 343,
+          "end": 550,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-469": {
+    "8": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 438,
+          "end": 468,
+          "count": 1
+        },
+        {
+          "start": 469,
+          "end": 814,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-001",
+          "paragraph": 9
+        },
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1736,
+          "count": 1
+        },
+        {
+          "start": 1736,
+          "end": 1996,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-461": {
+    "9": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 224,
+          "end": 251,
+          "count": 1
+        },
+        {
+          "start": 252,
+          "end": 1076,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 522,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-121": {
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-worldwide-conferences-additional-001",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 314,
+          "end": 375,
           "count": 1
         }
       ]
