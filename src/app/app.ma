@@ -150,8 +150,7 @@
         'pad': 50,
         url->[
           ['search']: search,
-          ['prayers']: prayers,
-          ['prayers', x]: prayers,
+          ['prayers']: pages.'prayers',
           ['collections']: pages.'collections',
           ['most-cited']: pages.'cited',
           ['sixth-epoch']: pages.'sixthepoch',

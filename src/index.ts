@@ -4,13 +4,15 @@ import lunr from "lunr";
 
 import { atom, resolve } from "reactivejs";
 
+import stem from "../data/porter2";
+
 import render from "./render";
-import stem from "./porter2";
 
 import categories from "./data/categories.json";
 import prayers from "./data/prayers.json";
 import documents from "./data/documents.json";
 import quotes from "./data/quotes.json";
+import searchIndexJSON from "./data/search.json";
 
 import "./style.css";
 
@@ -275,16 +277,6 @@ const stopWords = [
   "your",
 ];
 
-lunr.tokenizer.separator = /[\s\—]+/;
-const normaliseWords = (token) => {
-  const normalised = normaliseString(token.toString());
-  if (!normalised.includes("‑")) return token.update(() => normalised);
-  return [
-    token.update(() => normalised.replace("‑", "")),
-    ...normalised.split("‑").map((s) => token.clone().update(() => s)),
-  ];
-};
-lunr.Pipeline.registerFunction(normaliseWords, "normaliseWords");
 const porter2Stemmer = (token) => token.update(() => stem(token.toString()));
 lunr.Pipeline.registerFunction(porter2Stemmer, "porter2Stemmer");
 const addSynonyms = (token) =>
@@ -293,24 +285,7 @@ const addSynonyms = (token) =>
     : token;
 lunr.Pipeline.registerFunction(addSynonyms, "addSynonyms");
 
-const searchBuilder = new lunr.Builder();
-searchBuilder.pipeline.add(normaliseWords, lunr.stopWordFilter, porter2Stemmer);
-searchBuilder.searchPipeline.add(porter2Stemmer, addSynonyms);
-searchBuilder.ref("ref");
-searchBuilder.field("text");
-// searchBuilder.b(0.5);
-// searchBuilder.k1(0.1);
-documentsList
-  .filter((d) => !d.id.startsWith("bible") && !d.id.startsWith("quran"))
-  .forEach((doc) => {
-    doc.paragraphs.forEach((p, i) => {
-      searchBuilder.add(
-        { ref: `${doc.id}#${i + 1}`, text: p.text || "" },
-        { boost: doc.score }
-      );
-    });
-  });
-const searchIndex = searchBuilder.build();
+const searchIndex = lunr.Index.load(searchIndexJSON);
 
 maraca(
   {
@@ -355,12 +330,11 @@ maraca(
         ),
     runSearch: (s) => {
       const terms = (s || "")
-        .split(/[\s‑-]+/g)
+        .split(/[\s‑]+/g)
+        .map((a) => normaliseString(a))
         .filter((a) => a.length > 1 && !stopWords.includes(a));
       if (terms.length === 0) return [];
-      const result = searchIndex.search(
-        terms.map((a) => `+${normaliseString(a)}`).join(" ")
-      );
+      const result = searchIndex.search(terms.map((a) => `+${a}`).join(" "));
       return result.slice(0, 20).map((x) => {
         const [id, para] = x.ref.split("#");
         return documents[id].paragraphs[parseInt(para, 10) - 1];
@@ -376,6 +350,12 @@ maraca(
                 d.author
               ) || d.id.startsWith("compilation")
           )
+          .slice(0, sliceNum);
+      }
+      if (section === "Prayers") {
+        return documentsList
+          .filter((d) => !d.paragraphs.every((p) => p.id || p.section))
+          .filter((d) => d.type === "Prayer")
           .slice(0, sliceNum);
       }
       if (section === "Other") {

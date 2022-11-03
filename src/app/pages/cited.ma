@@ -2,7 +2,7 @@
   'stack': 60,
   'style': ['max-width': '620px', 'margin': '0 auto'],
   [
-    'size': 40,
+    'size': 34,
     'bold': 'true',
     'underline': 'true',
     'align': 'center',

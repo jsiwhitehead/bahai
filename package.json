@@ -9,7 +9,8 @@
     "spellings": "node ./data/spellings.js",
     "format": "node ./data/format.js",
     "process": "node ./data/process.js",
-    "link": "node ./data/link.js"
+    "link": "node ./data/link.js",
+    "search": "node ./data/search.js"
   },
   "devDependencies": {
     "fs-extra": "^10.1.0",
