@@ -19,25 +19,26 @@
     ],
     [
       'stack': 60,
+      'align': 'justify',
       'style': ['max-width': '620px', 'margin': '0 auto'],
       ...runSearch(search)->map.[p:
-      {
-        ? p.'section': ['bold': 'true', p.'title' | '* * *'],
-        ? p.'id' & p.'parts': 
-          [
-            p.'parts'
-              ->map.[
-                [...part]:
-                  documents.(p.'id').'paragraphs'.(part.'paragraph').'text'
-                    ->slice(part.'start', part.'end'),
-                part: part,
-              ]
-              ->join(' ')
-          ],
-        ? p.'id': [documents.(p.'id').'paragraphs'.(p.'paragraphs'.1).'text'],
-        : [p.'text'],
-      }
-    ]
+        {
+          ? p.'section': ['bold': 'true', p.'title' | '* * *'],
+          ? p.'id' & p.'parts':
+            [
+              p.'parts'
+                ->map.[
+                  [...part]:
+                    documents.(p.'id').'paragraphs'.(part.'paragraph').'text'
+                      ->slice(part.'start', part.'end'),
+                  part: part,
+                ]
+                ->join(' ')
+            ],
+          ? p.'id': [documents.(p.'id').'paragraphs'.(p.'paragraphs'.1).'text'],
+          : [p.'text'],
+        }
+      ]
     ],
   ],
 }
