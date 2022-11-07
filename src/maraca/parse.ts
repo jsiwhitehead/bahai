@@ -400,15 +400,12 @@ const compile = (node, block = false) => {
           (n.type === "function" && !n.arg) || (n.type === "assign" && !n.key)
       )
     ) {
-      const items = node.items.slice(
-        0,
-        node.items.findIndex((n) => n.type === "assign") + 1
-      );
-      const last = items.pop();
-      return items.reduceRight(
+      const i = node.items.findIndex((n) => n.type === "assign");
+      const last = i === -1 ? null : node.items.splice(i, 1)[0];
+      return node.items.reduceRight(
         (res, n) =>
           `toTruthy(${compile(n.test)}) ? ${compile(n.value)} : ${res}`,
-        compile(last.value)
+        last ? compile(last.value) : '""'
       );
     }
     return `apply(${compileBlock(node, false)}, false, false, "")`;

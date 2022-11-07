@@ -10,6 +10,7 @@
       'lineHeight': { ? line > 3 : line, : line * size },
       'gap': (lineHeight - size) * 0.5 + 1,
       'hover': values.'hover',
+      'click': values.'click',
       'filtered': items->filter(),
       'nextInline': values.'inline' | filtered->some.[[...x]: '', x: 'true'],
       'content':
@@ -23,9 +24,19 @@
           x: render(x),
         ],
       'inner': {
-        ? values.'input': {
+        ? values.'input' = 'text': {
           'v': values.'value',
           : [[:'input', 'type': 'text', 'value': v, 'v':: oninput?.'target'?.'value']]
+        },
+        ? values.'input' = 'select': {
+          'v': values.'value',
+          : [[
+            :'select',
+            'v':: oninput?.'target'?.'value',
+            ...values.'options'->map.[o:
+              [:'option', 'value': o, o],
+            ],
+          ]]
         },
         ? !values.'span' & nextInline: {
           ? values.'vertical': [
@@ -59,7 +70,17 @@
           'font-style': values.'italic' & 'italic',
           'text-decoration': values.'underline' & 'underline',
           'text-transform': values.'uppercase' & 'uppercase',
-          'text-align': values.'align',
+          'text-align': {
+            ? ['justify-left', 'justify-center', 'justify-right']->includes(values.'align'):
+              'justify',
+            : values.'align',
+          },
+          'text-align-last': {
+            ? values.'align' = 'justify-left': 'left',
+            ? values.'align' = 'justify-center': 'center',
+            ? values.'align' = 'justify-right': 'right',
+            : values.'align',
+          },
           'color': values.'color',
           'background': values.'fill',
           'text-indent': px(values.'indent'),
@@ -103,6 +124,7 @@
         ],
         'hover':: onmouseenter & 'true',
         'hover':: onmouseleave & '',
+        'click':: onclick & 'true',
         ...inner,
       ]
     },

@@ -31,6 +31,14 @@ const print = (x, space?) =>
     .replace(/"__undefined__"/g, "undefined")
     .replace(/"__NaN__"/g, "NaN");
 
+const debounce = (func, timeout) => {
+  let timer;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => func(...args), timeout);
+  };
+};
+
 const applyUpdate = (node, ref, values, style = false) => {
   const prev = node[`__${ref}`] || {};
   for (const key in { ...prev, ...values }) {
@@ -38,8 +46,17 @@ const applyUpdate = (node, ref, values, style = false) => {
       if (style) {
         node.style[key] = values[key] || null;
       } else {
-        if (values[key] === null || values[key] === undefined) delete node[key];
-        else node[key] = values[key];
+        if (values[key] === null || values[key] === undefined) {
+          delete node[key];
+        } else if (
+          key === "oninput" &&
+          node.tagName === "INPUT" &&
+          node.type === "text"
+        ) {
+          node[key] = debounce(values[key], 500);
+        } else {
+          node[key] = values[key];
+        }
       }
     }
   }

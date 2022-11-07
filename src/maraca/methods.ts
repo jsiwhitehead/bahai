@@ -177,13 +177,15 @@ const filterObject = (obj, map) =>
   );
 const filterBlock = (block, func) =>
   createBlock(
-    block.items.filter((v, i) => func(v, i)),
+    block.items.filter((v, i) => func(v, i + 1)),
     filterObject(block.values, func)
   );
-const filter = reactiveFunc(($block, $map = reactiveFunc((x) => x)) =>
-  filterBlock(createBlock(resolve($block)), ($v, k) =>
-    toTruthy(resolve(apply($map, true, false, $v, k)))
-  )
+const filter = reactiveFunc(
+  ($block, $map = reactiveFunc((x) => x)) =>
+    filterBlock(createBlock(resolve($block)), ($v, k) =>
+      toTruthy(resolve(apply($map, true, false, $v, k)))
+    ),
+  2
 );
 
 const includes = reactiveFunc(($block, $value) => {
