@@ -12,6 +12,16 @@ const normaliseString = (s) =>
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/[^\w‑]/g, "");
 
+const simplifyText = (s = "") =>
+  s &&
+  s
+    .replace(/\([^\)]*\)/g, "")
+    .replace(/\[[^\]]*\]/g, "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\W/g, "")
+    .toLowerCase();
+
 const porter2Stemmer = (token) => token.update(() => stem(token.toString()));
 lunr.Pipeline.registerFunction(porter2Stemmer, "porter2Stemmer");
 const addSynonyms = (token) =>
@@ -55,11 +65,22 @@ const compare = (sort, a, b) => {
       y.reduce((res, n) => res + n, 0) - x.reduce((res, n) => res + n, 0)
     );
   }
+  if (sort.startsWith("cited-")) {
+    return sort === "cited-desc" ? b.score - a.score : a.score - b.score;
+  }
   if (sort === "Date") {
     return a.years[0] + a.years[1] - (b.years[0] + b.years[1]);
   }
+  if (sort.startsWith("year-")) {
+    const x = a.years[0] + a.years[1];
+    const y = b.years[0] + b.years[1];
+    return sort === "year-desc" ? y - x : x - y;
+  }
   if (sort === "Length") {
     return b.words - a.words;
+  }
+  if (sort.startsWith("length-")) {
+    return sort === "length-desc" ? b.words - a.words : a.words - b.words;
   }
   return 0;
 };
@@ -194,21 +215,26 @@ const documentsList = Object.keys(documents).map((id) => {
   const words = paragraphs
     .map((p) => getText(p).split(" ").length)
     .reduce((res, n) => res + n, 0);
+  const path =
+    doc.path &&
+    unique(
+      doc.path
+        .filter(
+          (p) =>
+            ![
+              "Selections from the Writings of the Báb",
+              "Part Two: Letters from Shoghi Effendi",
+            ].includes(p)
+        )
+        .filter((x) => x)
+    );
   return {
     ...doc,
-    path:
-      doc.path &&
-      unique(
-        doc.path
-          .filter(
-            (p) =>
-              ![
-                "Selections from the Writings of the Báb",
-                "Part Two: Letters from Shoghi Effendi",
-              ].includes(p)
-          )
-          .filter((x) => x)
-      ),
+    path,
+    searchPath: [...path, doc.title]
+      .filter((x) => x)
+      .map((s) => simplifyText(s))
+      .join(""),
     words,
     time: getTime(words),
     score:
@@ -261,15 +287,6 @@ const authorGroups = {
 
 export const getParagraph = (id, para) => documents[id].paragraphs[para - 1];
 
-const simplifyText = (s = "") =>
-  s &&
-  s
-    .replace(/\([^\)]*\)/g, "")
-    .replace(/\[[^\]]*\]/g, "")
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/\W/g, "")
-    .toLowerCase();
 const getSearchParas = (search) => {
   if (/title\s*=/.test(search)) {
     const title = simplifyText(search.split("=")[1]);
@@ -288,17 +305,21 @@ const getSearchParas = (search) => {
     }));
 };
 
-export const runSearch = (author, search, view, sort) => {
+export const getDocuments = (author, search, sort) => {
   const allAuthors = authorGroups[author] || [author];
-  if (view === "Documents") {
-    return documentsList
-      .filter(
-        (d) => allAuthors.includes(d.author) || allAuthors.includes(d.epoch)
-      )
-      .sort((a, b) => compare(sort, a, b) || a.id.localeCompare(b.id))
-      .slice(0, 50);
-  }
+  const simplifySearch = search.split(/\s+/g).map((s) => simplifyText(s));
+  return documentsList
+    .filter(
+      (d) =>
+        (allAuthors.includes(d.author) || allAuthors.includes(d.epoch)) &&
+        simplifySearch.every((s) => d.searchPath.includes(s))
+    )
+    .sort((a, b) => compare(sort, a, b) || a.id.localeCompare(b.id))
+    .slice(0, 50);
+};
 
+export const runSearch = (author, docId, search, view, sort) => {
+  const allAuthors = authorGroups[author] || [author];
   const searchResult = getSearchParas(search || "");
   const authorResult = searchResult.filter(
     (p) => allAuthors.includes(p.author) || allAuthors.includes(p.epoch)

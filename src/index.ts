@@ -4,7 +4,7 @@ import { createBrowserHistory } from "history";
 import { atom, reactiveFunc, resolve } from "reactivejs";
 
 import render from "./render";
-import { getParagraph, runSearch } from "./getData";
+import { getDocuments, getParagraph, runSearch } from "./getData";
 
 import "./style.css";
 
@@ -83,6 +83,7 @@ maraca(
     tick,
     url,
     toUrl,
+    getDocuments,
     getParagraph,
     runSearch,
     type: reactiveFunc((v) =>
@@ -94,6 +95,8 @@ maraca(
     length: (x) =>
       typeof x === "string" ? x.length : createBlock(x).items.length,
     slice: (str, start, end) => str.slice(start || undefined, end || undefined),
+    roundNum: (x, pow) =>
+      Math.round((x + Number.EPSILON) * Math.pow(10, pow)) / Math.pow(10, pow),
   },
   source,
   // (data) => console.log(JSON.stringify(resolve(data, true).index, null, 2))
