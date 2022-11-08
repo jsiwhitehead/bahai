@@ -655,28 +655,32 @@
         {
           "id": "the-universal-house-of-justice-messages-453",
           "paragraph": 8
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 144
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 228,
-          "count": 2
+          "count": 3
         },
         {
           "start": 228,
           "end": 298,
-          "count": 3
+          "count": 4
         },
         {
           "start": 298,
           "end": 300,
-          "count": 2
+          "count": 3
         },
         {
           "start": 300,
           "end": 488,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -765,6 +769,10 @@
         {
           "id": "ruhi2-002",
           "paragraph": 22
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 30
         }
       ],
       "parts": [
@@ -776,32 +784,32 @@
         {
           "start": 60,
           "end": 120,
-          "count": 3
+          "count": 4
         },
         {
           "start": 120,
           "end": 213,
-          "count": 2
+          "count": 3
         },
         {
           "start": 213,
           "end": 265,
-          "count": 1
+          "count": 2
         },
         {
           "start": 265,
           "end": 298,
-          "count": 6
+          "count": 7
         },
         {
           "start": 298,
           "end": 299,
-          "count": 5
+          "count": 6
         },
         {
           "start": 299,
           "end": 338,
-          "count": 6
+          "count": 7
         },
         {
           "start": 338,
@@ -1372,6 +1380,21 @@
         }
       ]
     },
+    "76": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 157
+        }
+      ],
+      "parts": [
+        {
+          "start": 338,
+          "end": 783,
+          "count": 1
+        }
+      ]
+    },
     "77": {
       "refs": [
         {
@@ -1543,13 +1566,21 @@
         {
           "id": "ruhi12-001",
           "paragraph": 37
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 36
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 116
         }
       ],
       "parts": [
         {
           "start": 1,
           "end": 1238,
-          "count": 1
+          "count": 2
         },
         {
           "start": 1239,
@@ -1584,6 +1615,21 @@
         {
           "start": 297,
           "end": 501,
+          "count": 1
+        }
+      ]
+    },
+    "172": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 136
+        }
+      ],
+      "parts": [
+        {
+          "start": 333,
+          "end": 424,
           "count": 1
         }
       ]
@@ -2316,38 +2362,47 @@
         {
           "id": "ruhi9-001",
           "paragraph": 229
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 176
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 485,
+          "end": 36,
           "count": 3
+        },
+        {
+          "start": 36,
+          "end": 485,
+          "count": 4
         },
         {
           "start": 485,
           "end": 486,
-          "count": 2
+          "count": 3
         },
         {
           "start": 486,
           "end": 553,
-          "count": 1
+          "count": 2
         },
         {
           "start": 553,
           "end": 632,
-          "count": 2
+          "count": 3
         },
         {
           "start": 632,
           "end": 794,
-          "count": 1
+          "count": 2
         },
         {
           "start": 794,
           "end": 946,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -2998,13 +3053,27 @@
         {
           "id": "ruhi9-001",
           "paragraph": 165
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 18
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 361,
+          "end": 155,
+          "count": 5
+        },
+        {
+          "start": 155,
+          "end": 226,
           "count": 4
+        },
+        {
+          "start": 226,
+          "end": 361,
+          "count": 5
         },
         {
           "start": 361,
@@ -3051,13 +3120,21 @@
         {
           "id": "ruhi9-001",
           "paragraph": 169
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 19
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 20
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 122,
-          "count": 4
+          "count": 5
         },
         {
           "start": 122,
@@ -3072,7 +3149,7 @@
         {
           "start": 225,
           "end": 517,
-          "count": 4
+          "count": 5
         },
         {
           "start": 517,
@@ -3082,7 +3159,7 @@
         {
           "start": 518,
           "end": 542,
-          "count": 4
+          "count": 5
         },
         {
           "start": 542,
@@ -3091,6 +3168,11 @@
         },
         {
           "start": 578,
+          "end": 780,
+          "count": 5
+        },
+        {
+          "start": 780,
           "end": 897,
           "count": 4
         },
@@ -3506,6 +3588,10 @@
         {
           "id": "ruhi9-001",
           "paragraph": 174
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 143
         }
       ],
       "parts": [
@@ -3526,6 +3612,16 @@
         },
         {
           "start": 776,
+          "end": 1552,
+          "count": 1
+        },
+        {
+          "start": 1552,
+          "end": 1649,
+          "count": 2
+        },
+        {
+          "start": 1649,
           "end": 2024,
           "count": 1
         }
@@ -3552,6 +3648,10 @@
         {
           "id": "ruhi9-001",
           "paragraph": 175
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 143
         }
       ],
       "parts": [
@@ -3567,26 +3667,36 @@
         },
         {
           "start": 32,
-          "end": 208,
+          "end": 135,
           "count": 3
+        },
+        {
+          "start": 135,
+          "end": 208,
+          "count": 4
         },
         {
           "start": 208,
           "end": 268,
-          "count": 4
+          "count": 5
         },
         {
           "start": 268,
           "end": 353,
-          "count": 5
+          "count": 6
         },
         {
           "start": 353,
           "end": 354,
-          "count": 3
+          "count": 4
         },
         {
           "start": 354,
+          "end": 457,
+          "count": 3
+        },
+        {
+          "start": 457,
           "end": 738,
           "count": 2
         }
@@ -4171,13 +4281,17 @@
         {
           "id": "ruhi9-001",
           "paragraph": 230
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 35
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 387,
-          "count": 3
+          "count": 4
         },
         {
           "start": 387,
@@ -4415,11 +4529,20 @@
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
           "paragraph": 6
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 108
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 257,
+          "count": 2
+        },
+        {
+          "start": 257,
           "end": 543,
           "count": 1
         }
@@ -5389,11 +5512,20 @@
         {
           "id": "ruhi4-003",
           "paragraph": 72
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 32
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 233,
+          "count": 6
+        },
+        {
+          "start": 233,
           "end": 293,
           "count": 5
         },
@@ -5496,38 +5628,42 @@
         {
           "id": "ruhi4-003",
           "paragraph": 74
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 128
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 67,
-          "count": 5
+          "count": 6
         },
         {
           "start": 67,
           "end": 162,
-          "count": 6
+          "count": 7
         },
         {
           "start": 162,
           "end": 256,
-          "count": 4
+          "count": 5
         },
         {
           "start": 256,
           "end": 257,
-          "count": 3
+          "count": 4
         },
         {
           "start": 257,
           "end": 592,
-          "count": 5
+          "count": 6
         },
         {
           "start": 592,
           "end": 593,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -5818,58 +5954,62 @@
         {
           "id": "compilations-local-spiritual-assembly-001",
           "paragraph": 17
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 220
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 22,
-          "count": 4
+          "count": 5
         },
         {
           "start": 22,
           "end": 23,
-          "count": 3
+          "count": 4
         },
         {
           "start": 23,
           "end": 184,
-          "count": 4
+          "count": 5
         },
         {
           "start": 184,
           "end": 331,
-          "count": 1
+          "count": 2
         },
         {
           "start": 331,
           "end": 484,
-          "count": 5
+          "count": 6
         },
         {
           "start": 484,
           "end": 485,
-          "count": 4
+          "count": 5
         },
         {
           "start": 485,
           "end": 696,
-          "count": 5
+          "count": 6
         },
         {
           "start": 696,
           "end": 724,
-          "count": 4
+          "count": 5
         },
         {
           "start": 724,
           "end": 725,
-          "count": 3
+          "count": 4
         },
         {
           "start": 725,
           "end": 839,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -6357,13 +6497,22 @@
         {
           "id": "shoghi-effendi-promised-day-come-001",
           "paragraph": 306
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 206
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 153,
+          "end": 95,
           "count": 2
+        },
+        {
+          "start": 95,
+          "end": 153,
+          "count": 3
         },
         {
           "start": 153,
@@ -7440,48 +7589,52 @@
         {
           "id": "ruhi14-001",
           "paragraph": 79
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 129
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 5,
-          "count": 4
+          "count": 5
         },
         {
           "start": 5,
           "end": 70,
-          "count": 5
+          "count": 6
         },
         {
           "start": 70,
           "end": 93,
-          "count": 4
+          "count": 5
         },
         {
           "start": 93,
           "end": 182,
-          "count": 6
+          "count": 7
         },
         {
           "start": 182,
           "end": 183,
-          "count": 5
+          "count": 6
         },
         {
           "start": 183,
           "end": 239,
-          "count": 6
+          "count": 7
         },
         {
           "start": 239,
           "end": 389,
-          "count": 5
+          "count": 6
         },
         {
           "start": 389,
           "end": 608,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -7563,13 +7716,27 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 17
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 101
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 965,
+          "end": 51,
+          "count": 4
+        },
+        {
+          "start": 51,
+          "end": 309,
           "count": 3
+        },
+        {
+          "start": 309,
+          "end": 965,
+          "count": 4
         }
       ]
     },
@@ -7614,18 +7781,22 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 3
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 124
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 140,
-          "count": 1
+          "count": 2
         },
         {
           "start": 140,
           "end": 280,
-          "count": 2
+          "count": 3
         },
         {
           "start": 280,
@@ -7929,28 +8100,36 @@
         {
           "id": "ruhi4-001",
           "paragraph": 12
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 107
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 22
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 38,
-          "count": 5
+          "count": 6
         },
         {
           "start": 38,
           "end": 44,
-          "count": 6
+          "count": 7
         },
         {
           "start": 44,
           "end": 53,
-          "count": 5
+          "count": 6
         },
         {
           "start": 53,
           "end": 143,
-          "count": 6
+          "count": 7
         },
         {
           "start": 143,
@@ -7965,17 +8144,17 @@
         {
           "start": 399,
           "end": 407,
-          "count": 3
+          "count": 4
         },
         {
           "start": 407,
           "end": 478,
-          "count": 4
+          "count": 5
         },
         {
           "start": 478,
           "end": 479,
-          "count": 3
+          "count": 4
         },
         {
           "start": 479,
@@ -8610,6 +8789,10 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 294
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 236
         }
       ],
       "parts": [
@@ -8621,7 +8804,7 @@
         {
           "start": 8,
           "end": 293,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -9066,6 +9249,10 @@
         {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 125
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 158
         }
       ],
       "parts": [
@@ -9076,8 +9263,13 @@
         },
         {
           "start": 325,
-          "end": 1019,
+          "end": 326,
           "count": 1
+        },
+        {
+          "start": 326,
+          "end": 1019,
+          "count": 2
         }
       ]
     },
@@ -10927,6 +11119,10 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 47
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 109
         }
       ],
       "parts": [
@@ -10937,6 +11133,11 @@
         },
         {
           "start": 1699,
+          "end": 1907,
+          "count": 4
+        },
+        {
+          "start": 1907,
           "end": 1908,
           "count": 3
         },
@@ -11070,48 +11271,60 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 12
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 26
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 122
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 159
         }
       ],
       "parts": [
         {
           "start": 55,
           "end": 201,
-          "count": 2
+          "count": 3
         },
         {
           "start": 201,
           "end": 202,
-          "count": 1
+          "count": 2
         },
         {
           "start": 202,
           "end": 276,
-          "count": 2
+          "count": 3
         },
         {
           "start": 276,
           "end": 400,
-          "count": 3
+          "count": 4
         },
         {
           "start": 400,
           "end": 402,
-          "count": 2
+          "count": 3
         },
         {
           "start": 402,
           "end": 462,
-          "count": 9
+          "count": 10
         },
         {
           "start": 462,
           "end": 463,
-          "count": 7
+          "count": 8
         },
         {
           "start": 463,
           "end": 528,
-          "count": 9
+          "count": 10
         }
       ]
     },
@@ -11242,6 +11455,10 @@
         {
           "id": "the-universal-house-of-justice-messages-406",
           "paragraph": 6
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 24
         }
       ],
       "parts": [
@@ -11253,27 +11470,27 @@
         {
           "start": 145,
           "end": 282,
-          "count": 2
+          "count": 3
         },
         {
           "start": 282,
           "end": 283,
-          "count": 1
+          "count": 2
         },
         {
           "start": 283,
           "end": 332,
-          "count": 3
+          "count": 4
         },
         {
           "start": 332,
           "end": 333,
-          "count": 2
+          "count": 3
         },
         {
           "start": 333,
           "end": 409,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -12292,23 +12509,27 @@
         {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 101
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 202
         }
       ],
       "parts": [
         {
           "start": 776,
           "end": 814,
-          "count": 3
+          "count": 4
         },
         {
           "start": 814,
           "end": 815,
-          "count": 1
+          "count": 2
         },
         {
           "start": 815,
           "end": 910,
-          "count": 3
+          "count": 4
         },
         {
           "start": 910,
@@ -12567,73 +12788,77 @@
         {
           "id": "official-statements-commentaries-one-common-faith-002",
           "paragraph": 61
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 160
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 61,
-          "count": 3
+          "count": 4
         },
         {
           "start": 61,
           "end": 62,
-          "count": 2
+          "count": 3
         },
         {
           "start": 62,
           "end": 186,
-          "count": 4
+          "count": 5
         },
         {
           "start": 186,
           "end": 225,
-          "count": 2
+          "count": 3
         },
         {
           "start": 225,
           "end": 255,
-          "count": 6
+          "count": 7
         },
         {
           "start": 255,
           "end": 259,
-          "count": 7
+          "count": 8
         },
         {
           "start": 259,
           "end": 267,
-          "count": 6
+          "count": 7
         },
         {
           "start": 267,
           "end": 388,
-          "count": 7
+          "count": 8
         },
         {
           "start": 388,
           "end": 427,
-          "count": 6
+          "count": 7
         },
         {
           "start": 427,
           "end": 558,
-          "count": 7
+          "count": 8
         },
         {
           "start": 558,
           "end": 585,
-          "count": 6
+          "count": 7
         },
         {
           "start": 585,
           "end": 718,
-          "count": 5
+          "count": 6
         },
         {
           "start": 718,
           "end": 768,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -12714,33 +12939,41 @@
         {
           "id": "ruhi6-003",
           "paragraph": 12
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 28
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 146
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 91,
-          "count": 11
+          "count": 12
         },
         {
           "start": 91,
           "end": 115,
-          "count": 12
+          "count": 13
         },
         {
           "start": 115,
           "end": 116,
-          "count": 10
+          "count": 11
         },
         {
           "start": 116,
           "end": 123,
-          "count": 11
+          "count": 12
         },
         {
           "start": 123,
           "end": 189,
-          "count": 12
+          "count": 13
         },
         {
           "start": 189,
@@ -13016,6 +13249,10 @@
         {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 174
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 25
         }
       ],
       "parts": [
@@ -13027,12 +13264,12 @@
         {
           "start": 8,
           "end": 244,
-          "count": 3
+          "count": 4
         },
         {
           "start": 244,
           "end": 397,
-          "count": 2
+          "count": 3
         },
         {
           "start": 397,
@@ -13353,6 +13590,18 @@
           "paragraph": 8
         },
         {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 34
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 233
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 235
+        },
+        {
           "id": "world-centre-worldwide-conferences-001",
           "paragraph": 54
         }
@@ -13361,17 +13610,22 @@
         {
           "start": 0,
           "end": 125,
-          "count": 5
+          "count": 6
         },
         {
           "start": 125,
+          "end": 336,
+          "count": 5
+        },
+        {
+          "start": 336,
           "end": 360,
           "count": 4
         },
         {
           "start": 360,
           "end": 512,
-          "count": 9
+          "count": 10
         },
         {
           "start": 512,
@@ -13633,6 +13887,14 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 10
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 204
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 31
         }
       ],
       "parts": [
@@ -13664,12 +13926,12 @@
         {
           "start": 268,
           "end": 378,
-          "count": 6
+          "count": 7
         },
         {
           "start": 378,
           "end": 433,
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -13761,18 +14023,22 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 219
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 229
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 173,
-          "count": 4
+          "count": 5
         },
         {
           "start": 173,
           "end": 270,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -14341,12 +14607,12 @@
       "parts": [
         {
           "start": 0,
-          "end": 911,
+          "end": 912,
           "count": 2
         },
         {
-          "start": 911,
-          "end": 1611,
+          "start": 912,
+          "end": 1612,
           "count": 1
         }
       ]
@@ -15597,23 +15863,27 @@
         {
           "id": "ruhi3-001",
           "paragraph": 21
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 100
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 216,
-          "count": 7
+          "count": 8
         },
         {
           "start": 216,
           "end": 626,
-          "count": 5
+          "count": 6
         },
         {
           "start": 626,
           "end": 756,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -16288,26 +16558,49 @@
         {
           "id": "compilations-universal-house-of-justice-compilation-001",
           "paragraph": 12
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 127
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 166
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 187,
+          "count": 2
+        },
+        {
+          "start": 187,
           "end": 226,
-          "count": 1
+          "count": 2
         },
         {
           "start": 226,
           "end": 336,
-          "count": 2
+          "count": 3
         },
         {
           "start": 336,
           "end": 337,
-          "count": 1
+          "count": 2
         },
         {
           "start": 337,
+          "end": 507,
+          "count": 3
+        },
+        {
+          "start": 507,
+          "end": 508,
+          "count": 3
+        },
+        {
+          "start": 508,
           "end": 509,
           "count": 2
         },
@@ -16318,8 +16611,13 @@
         },
         {
           "start": 674,
-          "end": 1343,
+          "end": 1116,
           "count": 2
+        },
+        {
+          "start": 1116,
+          "end": 1343,
+          "count": 3
         }
       ]
     },
@@ -16443,18 +16741,22 @@
         {
           "id": "ruhi2-002",
           "paragraph": 13
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 29
         }
       ],
       "parts": [
         {
           "start": 119,
           "end": 205,
-          "count": 6
+          "count": 7
         },
         {
           "start": 205,
           "end": 206,
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -16730,13 +17032,22 @@
         {
           "id": "publications-individual-authors-bahaullah-new-era-011",
           "paragraph": 48
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 207
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 705,
+          "end": 644,
           "count": 2
+        },
+        {
+          "start": 644,
+          "end": 705,
+          "count": 3
         }
       ]
     }
@@ -17928,6 +18239,10 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 88
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 172
         }
       ],
       "parts": [
@@ -17969,27 +18284,27 @@
         {
           "start": 839,
           "end": 963,
-          "count": 4
+          "count": 5
         },
         {
           "start": 963,
           "end": 1166,
-          "count": 6
+          "count": 7
         },
         {
           "start": 1166,
           "end": 1300,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1300,
           "end": 1352,
-          "count": 5
+          "count": 6
         },
         {
           "start": 1352,
           "end": 1418,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1418,
@@ -19256,13 +19571,22 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 73
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 188
         }
       ],
       "parts": [
         {
+          "start": 225,
+          "end": 233,
+          "count": 1
+        },
+        {
           "start": 233,
           "end": 1046,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -20617,13 +20941,17 @@
         {
           "id": "ruhi5-001",
           "paragraph": 52
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 56
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 153,
-          "count": 5
+          "count": 6
         },
         {
           "start": 153,
@@ -21711,23 +22039,31 @@
         {
           "id": "ruhi3-003",
           "paragraph": 3
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 33
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 89
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 17,
-          "count": 1
+          "count": 2
         },
         {
           "start": 17,
           "end": 83,
-          "count": 2
+          "count": 3
         },
         {
           "start": 83,
           "end": 155,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -21752,43 +22088,47 @@
         {
           "id": "ruhi3-002",
           "paragraph": 9
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 193
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 17,
-          "count": 3
+          "count": 4
         },
         {
           "start": 17,
           "end": 163,
-          "count": 4
+          "count": 5
         },
         {
           "start": 163,
           "end": 186,
-          "count": 3
+          "count": 4
         },
         {
           "start": 186,
           "end": 244,
-          "count": 4
+          "count": 5
         },
         {
           "start": 244,
           "end": 256,
-          "count": 3
+          "count": 4
         },
         {
           "start": 256,
           "end": 330,
-          "count": 4
+          "count": 5
         },
         {
           "start": 330,
           "end": 486,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -21813,18 +22153,22 @@
         {
           "id": "ruhi3-001",
           "paragraph": 27
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 140
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 14,
-          "count": 2
+          "count": 3
         },
         {
           "start": 14,
           "end": 202,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -22058,18 +22402,22 @@
         {
           "id": "ruhi5-002",
           "paragraph": 13
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 90
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 323,
-          "count": 5
+          "count": 6
         },
         {
           "start": 323,
           "end": 436,
-          "count": 7
+          "count": 8
         }
       ]
     },
@@ -22324,13 +22672,17 @@
         {
           "id": "ruhi1-003",
           "paragraph": 24
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 95
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 181,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -22577,26 +22929,35 @@
         {
           "id": "ruhi2-002",
           "paragraph": 45
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 208
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 19,
-          "count": 3
+          "count": 4
         },
         {
           "start": 19,
           "end": 122,
-          "count": 5
+          "count": 6
         },
         {
           "start": 122,
           "end": 178,
-          "count": 4
+          "count": 5
         },
         {
           "start": 178,
+          "end": 488,
+          "count": 4
+        },
+        {
+          "start": 488,
           "end": 632,
           "count": 3
         }
@@ -23688,6 +24049,10 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 221
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 222
         }
       ],
       "parts": [
@@ -23754,17 +24119,17 @@
         {
           "start": 2194,
           "end": 2500,
-          "count": 5
+          "count": 6
         },
         {
           "start": 2500,
           "end": 2501,
-          "count": 3
+          "count": 4
         },
         {
           "start": 2501,
           "end": 2794,
-          "count": 5
+          "count": 6
         }
       ]
     }
@@ -25155,18 +25520,27 @@
         {
           "id": "shoghi-effendi-advent-divine-justice-001",
           "paragraph": 85
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 48
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 33,
+          "count": 2
+        },
+        {
+          "start": 33,
+          "end": 34,
           "count": 1
         },
         {
           "start": 34,
           "end": 1016,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -25825,38 +26199,46 @@
         {
           "id": "ruhi2-002",
           "paragraph": 53
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 165
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 203
         }
       ],
       "parts": [
         {
           "start": 374,
           "end": 400,
-          "count": 10
+          "count": 11
         },
         {
           "start": 400,
           "end": 401,
-          "count": 6
+          "count": 7
         },
         {
           "start": 401,
           "end": 441,
-          "count": 10
+          "count": 11
         },
         {
           "start": 441,
           "end": 490,
-          "count": 9
+          "count": 10
         },
         {
           "start": 490,
           "end": 491,
-          "count": 8
+          "count": 9
         },
         {
           "start": 491,
           "end": 624,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -26419,6 +26801,10 @@
         {
           "id": "ruhi3-002",
           "paragraph": 24
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 119
         }
       ],
       "parts": [
@@ -26440,22 +26826,22 @@
         {
           "start": 412,
           "end": 452,
-          "count": 4
+          "count": 5
         },
         {
           "start": 452,
           "end": 498,
-          "count": 5
+          "count": 6
         },
         {
           "start": 498,
           "end": 499,
-          "count": 2
+          "count": 3
         },
         {
           "start": 499,
           "end": 630,
-          "count": 3
+          "count": 4
         },
         {
           "start": 630,
@@ -26619,12 +27005,21 @@
         {
           "id": "ruhi-junior-youth-texts-005",
           "paragraph": 3
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 153
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 80,
+          "count": 2
+        },
+        {
+          "start": 80,
+          "end": 351,
           "count": 1
         }
       ]
@@ -27198,28 +27593,32 @@
         {
           "id": "the-universal-house-of-justice-messages-432",
           "paragraph": 10
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 58
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 33,
-          "count": 2
+          "count": 3
         },
         {
           "start": 33,
           "end": 34,
-          "count": 1
+          "count": 2
         },
         {
           "start": 34,
           "end": 490,
-          "count": 2
+          "count": 3
         },
         {
           "start": 490,
           "end": 661,
-          "count": 1
+          "count": 2
         },
         {
           "start": 736,
@@ -27768,13 +28167,17 @@
         {
           "id": "compilations-importance-prayer-meditation-devotional-attitude-001",
           "paragraph": 13
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 110
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 362,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -28685,6 +29088,10 @@
         {
           "id": "compilations-women-001",
           "paragraph": 146
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 248
         }
       ],
       "parts": [
@@ -28696,12 +29103,12 @@
         {
           "start": 178,
           "end": 339,
-          "count": 2
+          "count": 3
         },
         {
           "start": 339,
           "end": 593,
-          "count": 2
+          "count": 3
         },
         {
           "start": 593,
@@ -29079,6 +29486,10 @@
         {
           "id": "the-universal-house-of-justice-messages-250",
           "paragraph": 13
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 246
         }
       ],
       "parts": [
@@ -29090,10 +29501,15 @@
         {
           "start": 322,
           "end": 467,
-          "count": 2
+          "count": 3
         },
         {
           "start": 467,
+          "end": 724,
+          "count": 2
+        },
+        {
+          "start": 724,
           "end": 725,
           "count": 1
         },
@@ -29113,6 +29529,10 @@
         {
           "id": "compilations-women-001",
           "paragraph": 140
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 246
         }
       ],
       "parts": [
@@ -29124,7 +29544,7 @@
         {
           "start": 256,
           "end": 411,
-          "count": 1
+          "count": 2
         },
         {
           "start": 411,
@@ -29288,13 +29708,26 @@
         {
           "id": "ruhi3-002",
           "paragraph": 56
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 57
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 215
         }
       ],
       "parts": [
         {
           "start": 511,
+          "end": 567,
+          "count": 2
+        },
+        {
+          "start": 567,
           "end": 568,
-          "count": 1
+          "count": 2
         },
         {
           "start": 569,
@@ -29304,12 +29737,12 @@
         {
           "start": 661,
           "end": 723,
-          "count": 3
+          "count": 4
         },
         {
           "start": 723,
           "end": 1086,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1086,
@@ -29372,6 +29805,21 @@
           "count": 1
         }
       ]
+    },
+    "127": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 330,
+          "count": 1
+        }
+      ]
     }
   },
   "abdul-baha-paris-talks-001": {
@@ -29427,13 +29875,21 @@
         {
           "id": "ruhi14-001",
           "paragraph": 63
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 52
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 91
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 225,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -29442,12 +29898,35 @@
         {
           "id": "ruhi14-001",
           "paragraph": 64
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 53
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 92
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 320,
+          "count": 2
+        }
+      ]
+    },
+    "25": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 54
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 191,
           "count": 1
         }
       ]
@@ -29492,6 +29971,10 @@
         {
           "id": "ruhi2-003",
           "paragraph": 23
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 55
         }
       ],
       "parts": [
@@ -29503,7 +29986,7 @@
         {
           "start": 100,
           "end": 244,
-          "count": 5
+          "count": 6
         },
         {
           "start": 244,
@@ -29523,6 +30006,21 @@
         {
           "start": 0,
           "end": 83,
+          "count": 1
+        }
+      ]
+    },
+    "93": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 229,
           "count": 1
         }
       ]
@@ -29706,11 +30204,20 @@
         {
           "id": "ruhi9-001",
           "paragraph": 76
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 212
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 251,
+          "count": 2
+        },
+        {
+          "start": 251,
           "end": 252,
           "count": 1
         }
@@ -29721,12 +30228,21 @@
         {
           "id": "ruhi6-001",
           "paragraph": 57
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 212
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 300,
+          "count": 2
+        },
+        {
+          "start": 300,
+          "end": 568,
           "count": 1
         }
       ]
@@ -29850,13 +30366,17 @@
         {
           "id": "ruhi5-002",
           "paragraph": 27
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 47
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 365,
-          "count": 1
+          "count": 2
         },
         {
           "start": 366,
@@ -30234,6 +30754,36 @@
         }
       ]
     },
+    "496": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 85
+        }
+      ],
+      "parts": [
+        {
+          "start": 156,
+          "end": 330,
+          "count": 1
+        }
+      ]
+    },
+    "497": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 86
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 107,
+          "count": 1
+        }
+      ]
+    },
     "503": {
       "refs": [
         {
@@ -30336,6 +30886,21 @@
         {
           "start": 0,
           "end": 115,
+          "count": 1
+        }
+      ]
+    },
+    "632": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 422,
           "count": 1
         }
       ]
@@ -31569,51 +32134,64 @@
         {
           "id": "ruhi4-001",
           "paragraph": 7
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 27
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 149
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 12,
-          "count": 9
+          "count": 10
         },
         {
           "start": 12,
           "end": 15,
-          "count": 10
+          "count": 11
         },
         {
           "start": 15,
           "end": 16,
-          "count": 9
+          "count": 10
         },
         {
           "start": 16,
           "end": 83,
-          "count": 10
+          "count": 11
         },
         {
           "start": 83,
           "end": 84,
-          "count": 9
+          "count": 10
         },
         {
           "start": 84,
           "end": 166,
-          "count": 8
+          "count": 9
         },
         {
           "start": 166,
           "end": 352,
-          "count": 5
+          "count": 6
         },
         {
           "start": 352,
           "end": 353,
-          "count": 4
+          "count": 5
         },
         {
           "start": 353,
+          "end": 508,
+          "count": 3
+        },
+        {
+          "start": 508,
           "end": 509,
           "count": 2
         }
@@ -31660,28 +32238,37 @@
         {
           "id": "publications-individual-authors-bahaullah-new-era-015",
           "paragraph": 22
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 149
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 126,
+          "count": 1
+        },
+        {
           "start": 126,
           "end": 130,
-          "count": 9
+          "count": 10
         },
         {
           "start": 130,
           "end": 131,
-          "count": 6
+          "count": 7
         },
         {
           "start": 131,
           "end": 210,
-          "count": 9
+          "count": 10
         },
         {
           "start": 210,
           "end": 283,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -31947,16 +32534,25 @@
         {
           "id": "ruhi4-001",
           "paragraph": 3
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 23
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 14,
-          "count": 2
+          "count": 3
         },
         {
           "start": 14,
+          "end": 108,
+          "count": 4
+        },
+        {
+          "start": 108,
           "end": 431,
           "count": 3
         }
@@ -32830,11 +33426,25 @@
         {
           "id": "ruhi1-003",
           "paragraph": 56
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 93
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 15,
+          "count": 2
+        },
+        {
+          "start": 15,
+          "end": 292,
+          "count": 3
+        },
+        {
+          "start": 292,
           "end": 509,
           "count": 2
         }
@@ -34066,6 +34676,14 @@
         {
           "id": "ruhi5-001",
           "paragraph": 34
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 117
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 195
         }
       ],
       "parts": [
@@ -34081,8 +34699,13 @@
         },
         {
           "start": 516,
+          "end": 892,
+          "count": 7
+        },
+        {
+          "start": 892,
           "end": 970,
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -34107,38 +34730,55 @@
         {
           "id": "ruhi5-001",
           "paragraph": 35
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 151
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 173
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 196
         }
       ],
       "parts": [
         {
           "start": 158,
           "end": 429,
-          "count": 2
+          "count": 3
         },
         {
           "start": 429,
           "end": 813,
-          "count": 3
+          "count": 4
         },
         {
           "start": 813,
           "end": 814,
-          "count": 1
+          "count": 2
         },
         {
           "start": 814,
+          "end": 946,
+          "count": 3
+        },
+        {
+          "start": 946,
           "end": 948,
-          "count": 2
+          "count": 3
         },
         {
           "start": 948,
           "end": 1199,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1199,
           "end": 1380,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -34155,33 +34795,37 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 108
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 151
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 40,
-          "count": 1
+          "count": 2
         },
         {
           "start": 40,
           "end": 93,
-          "count": 2
+          "count": 3
         },
         {
           "start": 93,
           "end": 226,
-          "count": 3
+          "count": 4
         },
         {
           "start": 226,
           "end": 227,
-          "count": 2
+          "count": 3
         },
         {
           "start": 227,
           "end": 530,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -34239,12 +34883,31 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 245
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 179
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 916,
+          "count": 2
+        }
+      ]
+    },
+    "41": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 300,
           "count": 1
         }
       ]
@@ -34529,13 +35192,17 @@
         {
           "id": "ruhi8-003",
           "paragraph": 176
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 133
         }
       ],
       "parts": [
         {
           "start": 251,
           "end": 757,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -34594,26 +35261,35 @@
         {
           "id": "the-universal-house-of-justice-messages-353",
           "paragraph": 33
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 50
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 337,
-          "count": 3
+          "count": 4
         },
         {
           "start": 337,
           "end": 501,
-          "count": 4
+          "count": 5
         },
         {
           "start": 501,
           "end": 714,
-          "count": 5
+          "count": 6
         },
         {
           "start": 714,
+          "end": 868,
+          "count": 5
+        },
+        {
+          "start": 868,
           "end": 869,
           "count": 4
         },
@@ -34752,6 +35428,10 @@
         {
           "id": "ruhi3-002",
           "paragraph": 49
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 184
         }
       ],
       "parts": [
@@ -34762,8 +35442,13 @@
         },
         {
           "start": 226,
-          "end": 835,
+          "end": 359,
           "count": 1
+        },
+        {
+          "start": 359,
+          "end": 835,
+          "count": 2
         }
       ]
     },
@@ -34832,17 +35517,45 @@
         {
           "id": "official-statements-commentaries-century-light-002",
           "paragraph": 261
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 49
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 178
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 367,
+          "count": 1
+        },
+        {
+          "start": 367,
+          "end": 368,
+          "count": 1
+        },
+        {
           "start": 368,
           "end": 381,
+          "count": 2
+        },
+        {
+          "start": 381,
+          "end": 382,
           "count": 1
         },
         {
           "start": 382,
           "end": 539,
+          "count": 2
+        },
+        {
+          "start": 539,
+          "end": 1020,
           "count": 1
         }
       ]
@@ -34999,13 +35712,17 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 109
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 200
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 777,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -35020,6 +35737,10 @@
           "paragraph": 246
         },
         {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 241
+        },
+        {
           "id": "world-centre-worldwide-conferences-001",
           "paragraph": 56
         }
@@ -35028,10 +35749,15 @@
         {
           "start": 0,
           "end": 213,
-          "count": 3
+          "count": 4
         },
         {
           "start": 213,
+          "end": 284,
+          "count": 3
+        },
+        {
+          "start": 284,
           "end": 451,
           "count": 2
         }
@@ -35099,13 +35825,17 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 247
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 243
         }
       ],
       "parts": [
         {
           "start": 662,
           "end": 805,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -35345,6 +36075,50 @@
       ]
     }
   },
+  "additional-abdul-baha-453": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-004",
+          "paragraph": 22
+        },
+        {
+          "id": "shoghi-effendi-promised-day-come-001",
+          "paragraph": 322
+        },
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 147
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 209
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 22,
+          "count": 3
+        },
+        {
+          "start": 22,
+          "end": 23,
+          "count": 1
+        },
+        {
+          "start": 23,
+          "end": 92,
+          "count": 3
+        },
+        {
+          "start": 99,
+          "end": 275,
+          "count": 4
+        }
+      ]
+    }
+  },
   "bahaullah-hidden-words-002": {
     "4": {
       "refs": [
@@ -35493,6 +36267,10 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 23
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 84
         }
       ],
       "parts": [
@@ -35509,7 +36287,7 @@
         {
           "start": 16,
           "end": 184,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -35841,18 +36619,26 @@
         {
           "id": "ruhi5-001",
           "paragraph": 53
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 115
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 253
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 169,
-          "count": 1
+          "count": 2
         },
         {
           "start": 169,
           "end": 278,
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -35915,6 +36701,21 @@
         {
           "start": 484,
           "end": 575,
+          "count": 1
+        }
+      ]
+    },
+    "58": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 254
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 121,
           "count": 1
         }
       ]
@@ -36144,23 +36945,27 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 303
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 112
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 46,
-          "count": 1
+          "count": 2
         },
         {
           "start": 46,
           "end": 278,
-          "count": 4
+          "count": 5
         },
         {
           "start": 278,
           "end": 431,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -36181,23 +36986,27 @@
         {
           "id": "ruhi2-003",
           "paragraph": 46
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 121
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 14,
-          "count": 2
+          "count": 3
         },
         {
           "start": 14,
           "end": 39,
-          "count": 3
+          "count": 4
         },
         {
           "start": 39,
           "end": 172,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -36911,13 +37720,17 @@
         {
           "id": "shoghi-effendi-world-order-bahaullah-007",
           "paragraph": 67
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 14
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 200,
-          "count": 1
+          "count": 2
         },
         {
           "start": 207,
@@ -36958,38 +37771,52 @@
         {
           "id": "shoghi-effendi-citadel-faith-060",
           "paragraph": 12
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 13
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 5,
+          "count": 1
+        },
+        {
           "start": 5,
           "end": 22,
-          "count": 2
+          "count": 3
         },
         {
           "start": 22,
           "end": 71,
-          "count": 3
+          "count": 4
         },
         {
           "start": 71,
           "end": 72,
-          "count": 2
+          "count": 3
+        },
+        {
+          "start": 72,
+          "end": 73,
+          "count": 1
         },
         {
           "start": 73,
           "end": 78,
-          "count": 1
+          "count": 2
         },
         {
           "start": 78,
           "end": 186,
-          "count": 2
+          "count": 3
         },
         {
           "start": 186,
           "end": 187,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -37478,43 +38305,52 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 28
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 164
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 7,
-          "count": 6
+          "count": 7
         },
         {
           "start": 7,
           "end": 8,
-          "count": 5
+          "count": 6
         },
         {
           "start": 8,
           "end": 26,
-          "count": 6
+          "count": 7
         },
         {
           "start": 26,
           "end": 73,
-          "count": 7
+          "count": 8
         },
         {
           "start": 73,
           "end": 74,
-          "count": 6
+          "count": 7
         },
         {
           "start": 74,
           "end": 205,
-          "count": 2
+          "count": 3
         },
         {
           "start": 205,
           "end": 306,
-          "count": 3
+          "count": 4
+        },
+        {
+          "start": 306,
+          "end": 659,
+          "count": 1
         }
       ]
     }
@@ -37703,33 +38539,52 @@
         {
           "id": "shoghi-effendi-promised-day-come-001",
           "paragraph": 301
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 148
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 66,
+          "count": 1
+        },
+        {
           "start": 66,
           "end": 75,
+          "count": 2
+        },
+        {
+          "start": 75,
+          "end": 76,
           "count": 1
         },
         {
           "start": 76,
           "end": 151,
-          "count": 1
+          "count": 2
         },
         {
           "start": 151,
           "end": 169,
-          "count": 2
+          "count": 3
         },
         {
           "start": 169,
           "end": 170,
-          "count": 1
+          "count": 2
         },
         {
           "start": 170,
           "end": 339,
-          "count": 2
+          "count": 3
+        },
+        {
+          "start": 339,
+          "end": 611,
+          "count": 1
         }
       ]
     },
@@ -37876,6 +38731,36 @@
         {
           "start": 144,
           "end": 611,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 38
+        }
+      ],
+      "parts": [
+        {
+          "start": 168,
+          "end": 378,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 38
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 168,
           "count": 1
         }
       ]
@@ -38050,6 +38935,45 @@
         {
           "start": 767,
           "end": 1447,
+          "count": 1
+        }
+      ]
+    },
+    "135": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 131
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 132
+        }
+      ],
+      "parts": [
+        {
+          "start": 158,
+          "end": 968,
+          "count": 1
+        },
+        {
+          "start": 969,
+          "end": 1299,
+          "count": 1
+        }
+      ]
+    },
+    "138": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 132
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 460,
           "count": 1
         }
       ]
@@ -40452,6 +41376,21 @@
         }
       ]
     },
+    "59": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 187
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 977,
+          "count": 1
+        }
+      ]
+    },
     "60": {
       "refs": [
         {
@@ -40465,13 +41404,17 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 76
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 185
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 369,
-          "count": 3
+          "count": 4
         },
         {
           "start": 369,
@@ -40501,6 +41444,10 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 202
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 190
         }
       ],
       "parts": [
@@ -40526,11 +41473,21 @@
         },
         {
           "start": 498,
-          "end": 903,
+          "end": 602,
           "count": 3
         },
         {
+          "start": 602,
+          "end": 903,
+          "count": 4
+        },
+        {
           "start": 903,
+          "end": 1490,
+          "count": 3
+        },
+        {
+          "start": 1490,
           "end": 1621,
           "count": 2
         }
@@ -41143,48 +42100,52 @@
         {
           "id": "compilations-local-spiritual-assembly-001",
           "paragraph": 5
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 221
         }
       ],
       "parts": [
         {
           "start": 356,
           "end": 382,
-          "count": 3
+          "count": 4
         },
         {
           "start": 382,
           "end": 383,
-          "count": 1
+          "count": 2
         },
         {
           "start": 383,
           "end": 520,
-          "count": 3
+          "count": 4
         },
         {
           "start": 520,
           "end": 521,
-          "count": 1
+          "count": 2
         },
         {
           "start": 521,
           "end": 548,
-          "count": 2
+          "count": 3
         },
         {
           "start": 548,
           "end": 552,
-          "count": 3
+          "count": 4
         },
         {
           "start": 552,
           "end": 784,
-          "count": 5
+          "count": 6
         },
         {
           "start": 784,
           "end": 884,
-          "count": 4
+          "count": 5
         }
       ]
     }
@@ -42913,46 +43874,55 @@
         {
           "id": "compilations-universal-house-of-justice-compilation-001",
           "paragraph": 117
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 218
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 15,
-          "count": 4
+          "count": 5
         },
         {
           "start": 15,
           "end": 46,
-          "count": 3
+          "count": 4
         },
         {
           "start": 46,
           "end": 524,
-          "count": 4
+          "count": 5
         },
         {
           "start": 524,
           "end": 552,
-          "count": 5
+          "count": 6
         },
         {
           "start": 552,
           "end": 626,
-          "count": 4
+          "count": 5
         },
         {
           "start": 626,
           "end": 752,
-          "count": 5
+          "count": 6
         },
         {
           "start": 752,
           "end": 753,
-          "count": 4
+          "count": 5
         },
         {
           "start": 753,
+          "end": 992,
+          "count": 2
+        },
+        {
+          "start": 992,
           "end": 993,
           "count": 1
         },
@@ -43152,13 +44122,17 @@
         {
           "id": "compilations-universal-house-of-justice-compilation-001",
           "paragraph": 130
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 61
         }
       ],
       "parts": [
         {
           "start": 554,
           "end": 989,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -44817,12 +45791,21 @@
         {
           "id": "the-universal-house-of-justice-messages-210",
           "paragraph": 11
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 217
         }
       ],
       "parts": [
         {
           "start": 43,
           "end": 399,
+          "count": 2
+        },
+        {
+          "start": 399,
+          "end": 522,
           "count": 1
         }
       ]
@@ -45399,27 +46382,41 @@
         {
           "id": "publications-individual-authors-bahaullah-new-era-021",
           "paragraph": 106
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 219
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 137,
-          "count": 1
+          "count": 2
         },
         {
           "start": 137,
           "end": 246,
-          "count": 2
+          "count": 3
         },
         {
           "start": 246,
           "end": 336,
+          "count": 2
+        },
+        {
+          "start": 336,
+          "end": 1253,
           "count": 1
         },
         {
           "start": 1253,
           "end": 1629,
+          "count": 2
+        },
+        {
+          "start": 1629,
+          "end": 1798,
           "count": 1
         }
       ]
@@ -45780,103 +46777,107 @@
         {
           "id": "ruhi10-002",
           "paragraph": 21
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 225
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 184,
-          "count": 5
+          "count": 6
         },
         {
           "start": 184,
           "end": 334,
-          "count": 6
+          "count": 7
         },
         {
           "start": 334,
           "end": 481,
-          "count": 5
+          "count": 6
         },
         {
           "start": 481,
           "end": 493,
-          "count": 7
+          "count": 8
         },
         {
           "start": 493,
           "end": 498,
-          "count": 8
+          "count": 9
         },
         {
           "start": 498,
           "end": 502,
-          "count": 7
+          "count": 8
         },
         {
           "start": 502,
           "end": 685,
-          "count": 8
+          "count": 9
         },
         {
           "start": 685,
           "end": 686,
-          "count": 7
+          "count": 8
         },
         {
           "start": 686,
           "end": 718,
-          "count": 8
+          "count": 9
         },
         {
           "start": 718,
           "end": 740,
-          "count": 9
+          "count": 10
         },
         {
           "start": 740,
           "end": 745,
-          "count": 8
+          "count": 9
         },
         {
           "start": 745,
           "end": 1077,
-          "count": 9
+          "count": 10
         },
         {
           "start": 1077,
           "end": 1281,
-          "count": 5
+          "count": 6
         },
         {
           "start": 1281,
           "end": 1485,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1485,
           "end": 1486,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1486,
           "end": 1491,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1491,
           "end": 1706,
-          "count": 6
+          "count": 7
         },
         {
           "start": 1706,
           "end": 1871,
-          "count": 5
+          "count": 6
         },
         {
           "start": 1871,
           "end": 2013,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -46346,18 +47347,27 @@
         {
           "id": "the-universal-house-of-justice-messages-082",
           "paragraph": 10
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 62
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 13,
+          "count": 2
+        },
+        {
+          "start": 13,
+          "end": 14,
           "count": 1
         },
         {
           "start": 14,
           "end": 390,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -47294,12 +48304,26 @@
         {
           "id": "the-universal-house-of-justice-messages-405",
           "paragraph": 42
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 68
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 52,
+          "count": 1
+        },
+        {
           "start": 52,
           "end": 141,
+          "count": 2
+        },
+        {
+          "start": 141,
+          "end": 489,
           "count": 1
         }
       ]
@@ -48492,13 +49516,17 @@
         {
           "id": "official-statements-commentaries-one-common-faith-002",
           "paragraph": 33
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 63
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 201,
-          "count": 2
+          "count": 3
         },
         {
           "start": 201,
@@ -48527,21 +49555,12 @@
         {
           "id": "compilations-peace-001",
           "paragraph": 92
-        },
-        {
-          "id": "official-statements-commentaries-century-light-002",
-          "paragraph": 147
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 1304,
-          "count": 1
-        },
-        {
-          "start": 1677,
-          "end": 1853,
           "count": 1
         }
       ]
@@ -48638,88 +49657,92 @@
         {
           "id": "publications-individual-authors-bahaullah-new-era-021",
           "paragraph": 95
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 67
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 92,
-          "count": 4
+          "count": 5
         },
         {
           "start": 92,
           "end": 93,
-          "count": 2
+          "count": 3
         },
         {
           "start": 93,
           "end": 289,
-          "count": 4
+          "count": 5
         },
         {
           "start": 289,
           "end": 293,
-          "count": 3
+          "count": 4
         },
         {
           "start": 293,
           "end": 596,
-          "count": 4
+          "count": 5
         },
         {
           "start": 596,
           "end": 597,
-          "count": 3
+          "count": 4
         },
         {
           "start": 597,
           "end": 814,
-          "count": 6
+          "count": 7
         },
         {
           "start": 814,
           "end": 815,
-          "count": 4
+          "count": 5
         },
         {
           "start": 815,
           "end": 910,
-          "count": 5
+          "count": 6
         },
         {
           "start": 910,
           "end": 911,
-          "count": 4
+          "count": 5
         },
         {
           "start": 911,
           "end": 912,
-          "count": 3
+          "count": 4
         },
         {
           "start": 912,
           "end": 1024,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1024,
           "end": 1026,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1026,
           "end": 1131,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1131,
           "end": 1133,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1133,
           "end": 1168,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1168,
@@ -48840,96 +49863,105 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 52
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 65
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 25,
-          "count": 2
+          "count": 3
         },
         {
           "start": 25,
           "end": 64,
-          "count": 5
+          "count": 6
         },
         {
           "start": 64,
           "end": 65,
-          "count": 4
+          "count": 5
         },
         {
           "start": 65,
           "end": 127,
-          "count": 5
+          "count": 6
         },
         {
           "start": 127,
           "end": 128,
-          "count": 4
+          "count": 5
         },
         {
           "start": 128,
           "end": 131,
-          "count": 3
+          "count": 4
         },
         {
           "start": 131,
           "end": 213,
-          "count": 4
+          "count": 5
         },
         {
           "start": 213,
           "end": 214,
-          "count": 3
+          "count": 4
         },
         {
           "start": 214,
           "end": 215,
-          "count": 1
+          "count": 2
         },
         {
           "start": 215,
           "end": 218,
-          "count": 2
+          "count": 3
         },
         {
           "start": 218,
           "end": 434,
-          "count": 1
+          "count": 2
         },
         {
           "start": 434,
           "end": 438,
-          "count": 2
+          "count": 3
         },
         {
           "start": 438,
           "end": 542,
-          "count": 3
+          "count": 4
         },
         {
           "start": 542,
           "end": 748,
-          "count": 4
+          "count": 5
         },
         {
           "start": 748,
           "end": 948,
-          "count": 3
+          "count": 4
         },
         {
           "start": 948,
           "end": 951,
-          "count": 4
+          "count": 5
         },
         {
           "start": 951,
           "end": 959,
-          "count": 6
+          "count": 7
         },
         {
           "start": 959,
+          "end": 1068,
+          "count": 8
+        },
+        {
+          "start": 1068,
           "end": 1069,
           "count": 7
         },
@@ -48958,18 +49990,22 @@
         {
           "id": "the-universal-house-of-justice-messages-458",
           "paragraph": 10
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 65
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 50,
-          "count": 2
+          "count": 3
         },
         {
           "start": 50,
           "end": 330,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -50869,58 +51905,111 @@
         {
           "id": "ruhi9-002",
           "paragraph": 47
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 64
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 169
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 29,
-          "count": 4
+          "count": 5
         },
         {
           "start": 29,
           "end": 56,
-          "count": 3
+          "count": 4
         },
         {
           "start": 56,
           "end": 152,
-          "count": 4
+          "count": 5
         },
         {
           "start": 152,
           "end": 153,
-          "count": 3
+          "count": 4
         },
         {
           "start": 153,
           "end": 159,
-          "count": 4
+          "count": 5
         },
         {
           "start": 159,
           "end": 200,
-          "count": 3
+          "count": 4
         },
         {
           "start": 200,
+          "end": 288,
+          "count": 5
+        },
+        {
+          "start": 288,
+          "end": 289,
+          "count": 5
+        },
+        {
+          "start": 289,
           "end": 658,
           "count": 4
         },
         {
           "start": 658,
-          "end": 783,
+          "end": 659,
           "count": 2
         },
         {
+          "start": 659,
+          "end": 783,
+          "count": 3
+        },
+        {
           "start": 783,
-          "end": 922,
+          "end": 892,
           "count": 1
+        },
+        {
+          "start": 892,
+          "end": 922,
+          "count": 2
         },
         {
           "start": 922,
           "end": 1177,
-          "count": 2
+          "count": 3
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 161
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 138,
+          "count": 1
+        },
+        {
+          "start": 172,
+          "end": 176,
+          "count": 1
+        },
+        {
+          "start": 241,
+          "end": 664,
+          "count": 1
         }
       ]
     },
@@ -51504,13 +52593,22 @@
         {
           "id": "ruhi9-002",
           "paragraph": 71
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 214
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 1396,
+          "end": 1216,
           "count": 1
+        },
+        {
+          "start": 1216,
+          "end": 1396,
+          "count": 2
         }
       ]
     },
@@ -51613,18 +52711,22 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 38
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 167
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 442,
-          "count": 4
+          "count": 5
         },
         {
           "start": 442,
           "end": 609,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -51649,13 +52751,26 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 54
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 66
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 168
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 285,
+          "count": 5
+        },
+        {
+          "start": 285,
           "end": 612,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -52035,13 +53150,22 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 328
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 262
         }
       ],
       "parts": [
         {
           "start": 82,
-          "end": 1147,
+          "end": 502,
           "count": 1
+        },
+        {
+          "start": 502,
+          "end": 1147,
+          "count": 2
         }
       ]
     },
@@ -53949,18 +55073,37 @@
         }
       ]
     },
+    "62": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 213
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 780,
+          "count": 1
+        }
+      ]
+    },
     "66": {
       "refs": [
         {
           "id": "compilations-women-001",
           "paragraph": 31
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 245
         }
       ],
       "parts": [
         {
           "start": 8,
           "end": 1153,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -54182,6 +55325,66 @@
         }
       ]
     },
+    "81": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 189
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 178,
+          "count": 1
+        }
+      ]
+    },
+    "82": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 180
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 168,
+          "count": 1
+        }
+      ]
+    },
+    "91": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 186
+        }
+      ],
+      "parts": [
+        {
+          "start": 220,
+          "end": 355,
+          "count": 1
+        }
+      ]
+    },
+    "95": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 181
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 151,
+          "count": 1
+        }
+      ]
+    },
     "107": {
       "refs": [
         {
@@ -54236,6 +55439,81 @@
         }
       ]
     },
+    "132": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 255
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 204,
+          "count": 1
+        }
+      ]
+    },
+    "139": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 258
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 432,
+          "count": 1
+        }
+      ]
+    },
+    "140": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 259
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 591,
+          "count": 1
+        }
+      ]
+    },
+    "141": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 260
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 264,
+          "count": 1
+        }
+      ]
+    },
+    "142": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 261
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 290,
+          "count": 1
+        }
+      ]
+    },
     "152": {
       "refs": [
         {
@@ -54255,17 +55533,41 @@
         }
       ]
     },
+    "178": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 256
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 168,
+          "count": 1
+        }
+      ]
+    },
     "179": {
       "refs": [
         {
           "id": "ruhi-junior-youth-texts-006",
           "paragraph": 27
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 257
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 270,
+          "count": 2
+        },
+        {
+          "start": 270,
+          "end": 353,
           "count": 1
         }
       ]
@@ -54808,6 +56110,21 @@
     }
   },
   "abdul-baha-promulgation-universal-peace-005": {
+    "5": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 145
+        }
+      ],
+      "parts": [
+        {
+          "start": 1833,
+          "end": 1921,
+          "count": 1
+        }
+      ]
+    },
     "11": {
       "refs": [
         {
@@ -54832,18 +56149,22 @@
         {
           "id": "compilations-women-001",
           "paragraph": 141
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 247
         }
       ],
       "parts": [
         {
           "start": 809,
           "end": 1209,
-          "count": 1
+          "count": 2
         },
         {
           "start": 1209,
           "end": 1759,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -55019,18 +56340,22 @@
         {
           "id": "ruhi14-001",
           "paragraph": 71
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 199
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 608,
-          "count": 2
+          "count": 3
         },
         {
           "start": 625,
           "end": 903,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -55182,6 +56507,21 @@
     }
   },
   "abdul-baha-promulgation-universal-peace-022": {
+    "29": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 156
+        }
+      ],
+      "parts": [
+        {
+          "start": 901,
+          "end": 1394,
+          "count": 1
+        }
+      ]
+    },
     "70": {
       "refs": [
         {
@@ -56179,33 +57519,57 @@
         {
           "id": "the-universal-house-of-justice-messages-171",
           "paragraph": 65
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 150
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 222,
+          "count": 1
+        },
+        {
           "start": 222,
           "end": 267,
-          "count": 1
+          "count": 2
         },
         {
           "start": 267,
           "end": 269,
-          "count": 1
+          "count": 2
         },
         {
           "start": 269,
           "end": 348,
-          "count": 1
+          "count": 2
         },
         {
           "start": 348,
           "end": 400,
-          "count": 1
+          "count": 2
         }
       ]
     }
   },
   "bahaullah-gleanings-writings-bahaullah-027": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 138
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 565,
+          "count": 1
+        }
+      ]
+    },
     "2": {
       "refs": [
         {
@@ -56223,63 +57587,72 @@
         {
           "id": "ruhi1-003",
           "paragraph": 34
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 141
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 67,
-          "count": 2
+          "count": 3
         },
         {
           "start": 67,
           "end": 139,
-          "count": 1
+          "count": 2
         },
         {
           "start": 139,
           "end": 168,
-          "count": 2
+          "count": 3
         },
         {
           "start": 168,
           "end": 228,
-          "count": 3
+          "count": 4
         },
         {
           "start": 228,
           "end": 244,
-          "count": 2
+          "count": 3
         },
         {
           "start": 244,
+          "end": 349,
+          "count": 4
+        },
+        {
+          "start": 349,
           "end": 350,
           "count": 3
         },
         {
           "start": 357,
           "end": 520,
-          "count": 2
+          "count": 3
         },
         {
           "start": 520,
           "end": 543,
-          "count": 3
+          "count": 4
         },
         {
           "start": 543,
           "end": 554,
-          "count": 2
+          "count": 3
         },
         {
           "start": 554,
           "end": 656,
-          "count": 3
+          "count": 4
         },
         {
           "start": 656,
           "end": 755,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -56354,6 +57727,10 @@
         {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 69
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 21
         }
       ],
       "parts": [
@@ -56390,10 +57767,20 @@
         {
           "start": 1418,
           "end": 1501,
+          "count": 2
+        },
+        {
+          "start": 1501,
+          "end": 1502,
           "count": 1
         },
         {
           "start": 1502,
+          "end": 1764,
+          "count": 2
+        },
+        {
+          "start": 1764,
           "end": 1845,
           "count": 1
         },
@@ -59854,6 +61241,21 @@
         }
       ]
     },
+    "65": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 130
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 238,
+          "count": 1
+        }
+      ]
+    },
     "80": {
       "refs": [
         {
@@ -59907,6 +61309,21 @@
         {
           "start": 1359,
           "end": 1401,
+          "count": 1
+        }
+      ]
+    },
+    "107": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 210
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 983,
           "count": 1
         }
       ]
@@ -61800,13 +63217,17 @@
         {
           "id": "ruhi2-003",
           "paragraph": 50
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 120
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 353,
-          "count": 4
+          "count": 5
         }
       ]
     }
@@ -65139,11 +66560,20 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 134
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 12
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 121,
+          "count": 3
+        },
+        {
+          "start": 121,
           "end": 379,
           "count": 2
         }
@@ -65230,13 +66660,17 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 34
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 11
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 240,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -65298,13 +66732,22 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 27
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 102
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 362,
+          "end": 150,
           "count": 2
+        },
+        {
+          "start": 150,
+          "end": 362,
+          "count": 3
         }
       ]
     }
@@ -65537,6 +66980,10 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 77
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 105
         }
       ],
       "parts": [
@@ -65548,22 +66995,22 @@
         {
           "start": 32,
           "end": 88,
-          "count": 3
+          "count": 4
         },
         {
           "start": 88,
           "end": 195,
-          "count": 4
+          "count": 5
         },
         {
           "start": 195,
           "end": 216,
-          "count": 3
+          "count": 4
         },
         {
           "start": 216,
           "end": 359,
-          "count": 4
+          "count": 5
         }
       ]
     }
@@ -65879,23 +67326,37 @@
         {
           "id": "ruhi1-002",
           "paragraph": 9
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 103
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 121,
+          "count": 5
+        },
+        {
+          "start": 121,
           "end": 122,
           "count": 4
         },
         {
           "start": 129,
+          "end": 347,
+          "count": 5
+        },
+        {
+          "start": 347,
           "end": 348,
           "count": 4
         },
         {
           "start": 355,
           "end": 431,
-          "count": 4
+          "count": 5
         }
       ]
     }
@@ -66262,13 +67723,17 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 69
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 104
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 215,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -66592,48 +68057,61 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 64
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 170
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 194
         }
       ],
       "parts": [
         {
           "start": 59,
           "end": 168,
-          "count": 4
+          "count": 5
         },
         {
           "start": 168,
           "end": 325,
-          "count": 2
+          "count": 3
         },
         {
           "start": 325,
           "end": 326,
-          "count": 1
+          "count": 2
         },
         {
           "start": 326,
           "end": 365,
-          "count": 2
+          "count": 3
         },
         {
           "start": 365,
           "end": 380,
-          "count": 1
+          "count": 2
         },
         {
           "start": 380,
+          "end": 407,
+          "count": 3
+        },
+        {
+          "start": 407,
           "end": 408,
-          "count": 2
+          "count": 3
         },
         {
           "start": 521,
           "end": 662,
-          "count": 3
+          "count": 4
         },
         {
           "start": 662,
           "end": 729,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -66644,13 +68122,17 @@
         {
           "id": "compilations-power-divine-assistance-001",
           "paragraph": 19
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 4
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 143,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -66659,13 +68141,17 @@
         {
           "id": "compilations-power-divine-assistance-001",
           "paragraph": 20
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 5
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 222,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -66674,13 +68160,17 @@
         {
           "id": "compilations-power-divine-assistance-001",
           "paragraph": 21
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 177
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 527,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -68853,6 +70343,21 @@
     }
   },
   "the-universal-house-of-justice-messages-171": {
+    "4": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 77
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 579,
+          "count": 1
+        }
+      ]
+    },
     "6": {
       "refs": [
         {
@@ -69042,6 +70547,26 @@
         {
           "start": 0,
           "end": 811,
+          "count": 1
+        }
+      ]
+    },
+    "30": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 78
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 284,
+          "count": 1
+        },
+        {
+          "start": 663,
+          "end": 709,
           "count": 1
         }
       ]
@@ -69317,23 +70842,27 @@
         {
           "id": "compilations-family-life-001",
           "paragraph": 91
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 240
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 80,
-          "count": 2
+          "count": 3
         },
         {
           "start": 80,
           "end": 241,
-          "count": 1
+          "count": 2
         },
         {
           "start": 241,
           "end": 421,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -69512,6 +71041,10 @@
         {
           "id": "ruhi-junior-youth-texts-001",
           "paragraph": 4
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 113
         }
       ],
       "parts": [
@@ -69527,6 +71060,11 @@
         },
         {
           "start": 227,
+          "end": 292,
+          "count": 3
+        },
+        {
+          "start": 292,
           "end": 293,
           "count": 2
         }
@@ -69908,6 +71446,10 @@
         {
           "id": "ruhi12-001",
           "paragraph": 42
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 249
         }
       ],
       "parts": [
@@ -69919,7 +71461,7 @@
         {
           "start": 27,
           "end": 267,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -69936,13 +71478,17 @@
         {
           "id": "ruhi12-001",
           "paragraph": 43
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 250
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 345,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -69959,13 +71505,17 @@
         {
           "id": "ruhi12-001",
           "paragraph": 44
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 251
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 123,
-          "count": 3
+          "count": 4
         }
       ]
     }
@@ -72985,28 +74535,32 @@
         {
           "id": "ruhi10-002",
           "paragraph": 6
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 228
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 5,
-          "count": 3
+          "count": 4
         },
         {
           "start": 5,
           "end": 39,
-          "count": 4
+          "count": 5
         },
         {
           "start": 39,
           "end": 40,
-          "count": 3
+          "count": 4
         },
         {
           "start": 40,
           "end": 182,
-          "count": 4
+          "count": 5
         }
       ]
     }
@@ -73229,13 +74783,17 @@
         {
           "id": "compilations-local-spiritual-assembly-001",
           "paragraph": 21
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 223
         }
       ],
       "parts": [
         {
           "start": 1,
           "end": 432,
-          "count": 3
+          "count": 4
         },
         {
           "start": 432,
@@ -73245,22 +74803,22 @@
         {
           "start": 435,
           "end": 578,
-          "count": 2
+          "count": 3
         },
         {
           "start": 578,
           "end": 784,
-          "count": 3
+          "count": 4
         },
         {
           "start": 784,
           "end": 839,
-          "count": 2
+          "count": 3
         },
         {
           "start": 839,
           "end": 1192,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -73269,21 +74827,45 @@
         {
           "id": "ruhi8-002",
           "paragraph": 41
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 224
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 115,
+          "count": 1
+        },
+        {
+          "start": 115,
           "end": 608,
+          "count": 2
+        },
+        {
+          "start": 608,
+          "end": 615,
           "count": 1
         },
         {
           "start": 615,
+          "end": 1825,
+          "count": 2
+        },
+        {
+          "start": 1825,
           "end": 1826,
           "count": 1
         },
         {
           "start": 1833,
+          "end": 2575,
+          "count": 2
+        },
+        {
+          "start": 2575,
           "end": 2576,
           "count": 1
         }
@@ -73412,38 +74994,42 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 222
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 230
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 210,
-          "count": 2
+          "count": 3
         },
         {
           "start": 210,
           "end": 288,
-          "count": 3
+          "count": 4
         },
         {
           "start": 288,
           "end": 294,
-          "count": 1
+          "count": 2
         },
         {
           "start": 294,
           "end": 479,
-          "count": 2
+          "count": 3
         },
         {
           "start": 479,
           "end": 480,
-          "count": 1
+          "count": 2
         },
         {
           "start": 480,
           "end": 770,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -73715,33 +75301,37 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 227
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 231
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 4,
-          "count": 2
+          "count": 3
         },
         {
           "start": 4,
           "end": 29,
-          "count": 3
+          "count": 4
         },
         {
           "start": 29,
           "end": 37,
-          "count": 2
+          "count": 3
         },
         {
           "start": 37,
           "end": 70,
-          "count": 3
+          "count": 4
         },
         {
           "start": 70,
           "end": 551,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -74206,28 +75796,32 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 67
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 237
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 164,
-          "count": 3
+          "count": 4
         },
         {
           "start": 164,
           "end": 165,
-          "count": 2
+          "count": 3
         },
         {
           "start": 165,
           "end": 266,
-          "count": 3
+          "count": 4
         },
         {
           "start": 266,
           "end": 433,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -74669,6 +76263,10 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 71
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 175
         }
       ],
       "parts": [
@@ -74680,12 +76278,12 @@
         {
           "start": 24,
           "end": 150,
-          "count": 2
+          "count": 3
         },
         {
           "start": 150,
           "end": 509,
-          "count": 3
+          "count": 4
         },
         {
           "start": 509,
@@ -74961,23 +76559,32 @@
         {
           "id": "ruhi14-001",
           "paragraph": 136
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 118
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 617,
+          "end": 338,
           "count": 2
+        },
+        {
+          "start": 338,
+          "end": 617,
+          "count": 3
         },
         {
           "start": 617,
           "end": 953,
-          "count": 3
+          "count": 4
         },
         {
           "start": 953,
           "end": 1142,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -76580,6 +78187,10 @@
         {
           "id": "ruhi3-003",
           "paragraph": 37
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 205
         }
       ],
       "parts": [
@@ -76600,6 +78211,16 @@
         },
         {
           "start": 532,
+          "end": 639,
+          "count": 1
+        },
+        {
+          "start": 639,
+          "end": 718,
+          "count": 2
+        },
+        {
+          "start": 718,
           "end": 719,
           "count": 1
         },
@@ -77267,32 +78888,46 @@
         {
           "id": "ruhi1-003",
           "paragraph": 30
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 82
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 100,
+          "end": 54,
           "count": 1
+        },
+        {
+          "start": 54,
+          "end": 100,
+          "count": 2
         },
         {
           "start": 100,
           "end": 114,
-          "count": 2
+          "count": 3
         },
         {
           "start": 114,
           "end": 179,
-          "count": 1
+          "count": 2
         },
         {
           "start": 179,
           "end": 242,
-          "count": 2
+          "count": 3
         },
         {
           "start": 242,
           "end": 424,
+          "count": 2
+        },
+        {
+          "start": 424,
+          "end": 660,
           "count": 1
         }
       ]
@@ -77317,11 +78952,25 @@
         {
           "id": "ruhi1-003",
           "paragraph": 43
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 94
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 99,
+          "count": 1
+        },
+        {
+          "start": 99,
+          "end": 249,
+          "count": 2
+        },
+        {
+          "start": 249,
           "end": 581,
           "count": 1
         }
@@ -77700,13 +79349,17 @@
         {
           "id": "ruhi6-001",
           "paragraph": 18
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 123
         }
       ],
       "parts": [
         {
           "start": 149,
           "end": 327,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -79747,13 +81400,17 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 69
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 174
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 128,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -87557,13 +89214,17 @@
         {
           "id": "compilations-importance-obligatory-prayer-fasting-001",
           "paragraph": 5
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 106
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 226,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -90275,6 +91936,10 @@
           "paragraph": 2
         },
         {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 73
+        },
+        {
           "id": "world-centre-worldwide-conferences-additional-001",
           "paragraph": 24
         }
@@ -90283,25 +91948,30 @@
         {
           "start": 0,
           "end": 121,
-          "count": 4
+          "count": 5
         },
         {
           "start": 121,
           "end": 558,
-          "count": 3
+          "count": 4
         },
         {
           "start": 558,
           "end": 702,
-          "count": 2
+          "count": 3
         },
         {
           "start": 702,
           "end": 820,
-          "count": 3
+          "count": 4
         },
         {
           "start": 820,
+          "end": 821,
+          "count": 3
+        },
+        {
+          "start": 821,
           "end": 975,
           "count": 2
         }
@@ -92614,23 +94284,45 @@
         {
           "id": "ruhi1-003",
           "paragraph": 45
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 97
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 98
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 234
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 557,
+          "end": 88,
           "count": 1
         },
         {
+          "start": 88,
+          "end": 557,
+          "count": 2
+        },
+        {
           "start": 828,
+          "end": 1080,
+          "count": 2
+        },
+        {
+          "start": 1080,
           "end": 1383,
           "count": 1
         },
         {
           "start": 1800,
           "end": 2136,
-          "count": 1
+          "count": 2
         },
         {
           "start": 2137,
@@ -98814,6 +100506,21 @@
         }
       ]
     },
+    "155": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 242
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 594,
+          "count": 1
+        }
+      ]
+    },
     "169": {
       "refs": [
         {
@@ -98825,6 +100532,21 @@
         {
           "start": 10,
           "end": 602,
+          "count": 1
+        }
+      ]
+    },
+    "193": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 211
+        }
+      ],
+      "parts": [
+        {
+          "start": 618,
+          "end": 1096,
           "count": 1
         }
       ]
@@ -99788,6 +101510,21 @@
         {
           "start": 71,
           "end": 637,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 267,
           "count": 1
         }
       ]
@@ -101271,6 +103008,31 @@
     }
   },
   "bahaullah-gleanings-writings-bahaullah-094": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 137
+        }
+      ],
+      "parts": [
+        {
+          "start": 57,
+          "end": 60,
+          "count": 1
+        },
+        {
+          "start": 140,
+          "end": 189,
+          "count": 1
+        },
+        {
+          "start": 214,
+          "end": 257,
+          "count": 1
+        }
+      ]
+    },
     "4": {
       "refs": [
         {
@@ -104682,13 +106444,32 @@
         {
           "id": "ruhi9-002",
           "paragraph": 82
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 71
         }
       ],
       "parts": [
         {
           "start": 256,
-          "end": 1835,
+          "end": 304,
           "count": 1
+        },
+        {
+          "start": 304,
+          "end": 1538,
+          "count": 2
+        },
+        {
+          "start": 1538,
+          "end": 1599,
+          "count": 1
+        },
+        {
+          "start": 1599,
+          "end": 1835,
+          "count": 2
         }
       ]
     }
@@ -105747,13 +107528,32 @@
         {
           "id": "ruhi10-001",
           "paragraph": 11
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 75
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 1467,
+          "end": 556,
           "count": 1
+        },
+        {
+          "start": 556,
+          "end": 600,
+          "count": 2
+        },
+        {
+          "start": 600,
+          "end": 613,
+          "count": 1
+        },
+        {
+          "start": 613,
+          "end": 1467,
+          "count": 2
         }
       ]
     },
@@ -105770,11 +107570,20 @@
         {
           "id": "ruhi9-002",
           "paragraph": 9
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 76
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 759,
+          "count": 2
+        },
+        {
+          "start": 759,
           "end": 920,
           "count": 1
         },
@@ -105976,11 +107785,20 @@
         {
           "id": "ruhi1-003",
           "paragraph": 26
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 87
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 156,
+          "count": 2
+        },
+        {
+          "start": 156,
           "end": 374,
           "count": 1
         }
@@ -106584,13 +108402,17 @@
         {
           "id": "ruhi4-002",
           "paragraph": 25
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 3
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 130,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -107924,6 +109746,14 @@
           "paragraph": 158
         },
         {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 74
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 198
+        },
+        {
           "id": "world-centre-worldwide-conferences-001",
           "paragraph": 85
         }
@@ -107961,41 +109791,56 @@
         },
         {
           "start": 1006,
-          "end": 1273,
+          "end": 1148,
           "count": 2
+        },
+        {
+          "start": 1148,
+          "end": 1273,
+          "count": 3
         },
         {
           "start": 1273,
           "end": 1302,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1302,
           "end": 1303,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1303,
           "end": 1454,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1454,
           "end": 1525,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1525,
           "end": 1813,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1813,
           "end": 1814,
-          "count": 1
+          "count": 2
         },
         {
           "start": 1814,
+          "end": 1854,
+          "count": 3
+        },
+        {
+          "start": 1854,
+          "end": 2057,
+          "count": 3
+        },
+        {
+          "start": 2057,
           "end": 2058,
           "count": 2
         },
@@ -108140,13 +109985,21 @@
         {
           "id": "ruhi5-001",
           "paragraph": 61
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 162
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 197
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 363,
-          "count": 5
+          "count": 6
         }
       ]
     }
@@ -108163,6 +110016,10 @@
           "paragraph": 103
         },
         {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 72
+        },
+        {
           "id": "world-centre-worldwide-conferences-additional-001",
           "paragraph": 27
         },
@@ -108175,16 +110032,26 @@
         {
           "start": 0,
           "end": 357,
-          "count": 3
+          "count": 4
         },
         {
           "start": 357,
           "end": 638,
-          "count": 2
+          "count": 3
+        },
+        {
+          "start": 638,
+          "end": 1238,
+          "count": 1
         },
         {
           "start": 1238,
           "end": 1402,
+          "count": 2
+        },
+        {
+          "start": 1402,
+          "end": 1649,
           "count": 1
         }
       ]
@@ -108333,11 +110200,30 @@
         {
           "id": "ruhi-junior-youth-texts-012",
           "paragraph": 12
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 147
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 51,
+          "count": 2
+        },
+        {
+          "start": 51,
+          "end": 96,
+          "count": 1
+        },
+        {
+          "start": 96,
+          "end": 637,
+          "count": 2
+        },
+        {
+          "start": 637,
           "end": 644,
           "count": 1
         }
@@ -109797,6 +111683,10 @@
         {
           "id": "ruhi3-002",
           "paragraph": 13
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 46
         }
       ],
       "parts": [
@@ -109817,6 +111707,16 @@
         },
         {
           "start": 612,
+          "end": 613,
+          "count": 1
+        },
+        {
+          "start": 613,
+          "end": 862,
+          "count": 2
+        },
+        {
+          "start": 862,
           "end": 1148,
           "count": 1
         }
@@ -112347,17 +114247,31 @@
         {
           "id": "the-universal-house-of-justice-messages-453",
           "paragraph": 18
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 79
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 27,
+          "count": 2
+        },
+        {
+          "start": 27,
+          "end": 28,
           "count": 1
         },
         {
           "start": 28,
           "end": 165,
+          "count": 2
+        },
+        {
+          "start": 165,
+          "end": 940,
           "count": 1
         }
       ]
@@ -117251,12 +119165,26 @@
         {
           "id": "ruhi9-001",
           "paragraph": 10
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 139
         }
       ],
       "parts": [
         {
           "start": 31,
+          "end": 135,
+          "count": 2
+        },
+        {
+          "start": 135,
           "end": 258,
+          "count": 1
+        },
+        {
+          "start": 458,
+          "end": 619,
           "count": 1
         }
       ]
@@ -117793,13 +119721,27 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 139
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 88
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 300,
+          "end": 47,
+          "count": 3
+        },
+        {
+          "start": 47,
+          "end": 75,
           "count": 2
+        },
+        {
+          "start": 75,
+          "end": 300,
+          "count": 3
         }
       ]
     }
@@ -118754,13 +120696,27 @@
         {
           "id": "ruhi5-001",
           "paragraph": 32
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 83
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 124,
+          "count": 3
+        },
+        {
+          "start": 124,
           "end": 125,
           "count": 2
+        },
+        {
+          "start": 278,
+          "end": 513,
+          "count": 1
         }
       ]
     },
@@ -118794,6 +120750,10 @@
         {
           "id": "ruhi1-003",
           "paragraph": 38
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 142
         }
       ],
       "parts": [
@@ -118805,10 +120765,15 @@
         {
           "start": 10,
           "end": 199,
-          "count": 2
+          "count": 3
         },
         {
           "start": 199,
+          "end": 806,
+          "count": 3
+        },
+        {
+          "start": 806,
           "end": 1077,
           "count": 2
         }
@@ -118836,13 +120801,22 @@
         {
           "id": "ruhi9-001",
           "paragraph": 11
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 154
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 885,
+          "end": 173,
           "count": 1
+        },
+        {
+          "start": 173,
+          "end": 885,
+          "count": 2
         }
       ]
     },
@@ -120952,13 +122926,17 @@
         {
           "id": "ruhi1-003",
           "paragraph": 22
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 96
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 168,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -121660,7 +123638,7 @@
       "parts": [
         {
           "start": 0,
-          "end": 1003,
+          "end": 1002,
           "count": 1
         }
       ]
@@ -122770,11 +124748,25 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 80
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 171
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 374,
+          "count": 1
+        },
+        {
+          "start": 374,
+          "end": 600,
+          "count": 2
+        },
+        {
+          "start": 600,
           "end": 1090,
           "count": 1
         }
@@ -123677,13 +125669,17 @@
         {
           "id": "ruhi3-001",
           "paragraph": 66
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 51
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 281,
-          "count": 2
+          "count": 3
         },
         {
           "start": 281,
@@ -124201,6 +126197,21 @@
     }
   },
   "abdul-baha-tablet-august-forel-001": {
+    "17": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 183
+        }
+      ],
+      "parts": [
+        {
+          "start": 1102,
+          "end": 1888,
+          "count": 1
+        }
+      ]
+    },
     "33": {
       "refs": [
         {
@@ -124767,7 +126778,7 @@
       "parts": [
         {
           "start": 0,
-          "end": 558,
+          "end": 557,
           "count": 1
         }
       ]
@@ -128825,6 +130836,285 @@
         {
           "start": 401,
           "end": 480,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "prayers-053": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 79,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 7
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 106,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 117,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 124,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 43,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-bab-selections-writings-bab-067": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 461,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-bab-selections-writings-bab-078": {
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 287,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-451": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 194,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-206": {
+    "3": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 490,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 44
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 374,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-249": {
+    "12": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 385,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-452": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 111
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 251,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-tablets-bahaullah-039": {
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 126
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 923,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-138": {
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 31,
+          "end": 326,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-122": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 182
+        }
+      ],
+      "parts": [
+        {
+          "start": 61,
+          "end": 300,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-250": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 238
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 287,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-251": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 239
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 297,
           "count": 1
         }
       ]

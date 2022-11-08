@@ -355,10 +355,11 @@ export const runSearch = (author, docId, search, minQuote) => {
   const authorResult = searchResult.filter(
     (p) => allAuthors.includes(p.author) || allAuthors.includes(p.epoch)
   );
-  // const sortResult = authorResult.sort(
-  //   (a, b) => compare(sort, a, b) || a.id.localeCompare(b.id) || a.para - b.para
-  // );
-  return authorResult.slice(0, 50);
+  const sortResult = authorResult.sort(
+    (a, b) =>
+      compare("Relevance", a, b) || a.id.localeCompare(b.id) || a.para - b.para
+  );
+  return sortResult.slice(0, 50);
 };
 
 // para.text.slice(start, end).trim().split(" ").length,

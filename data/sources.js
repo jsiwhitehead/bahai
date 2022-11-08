@@ -995,6 +995,7 @@ export const files = {
       ["and to deny them not", "and deny them not"],
       ["what Thou hadst commanded", "what Thou hast commanded"],
       ["Lord of the worlds and the Desire", "Lord of the world and the Desire"],
+      ["sublime knowledge I, therefore", "sublime knowledge. I, therefore"],
     ],
     "additional-prayers-revealed-bahaullah": [
       removeAfter("This document has been downloaded"),
@@ -2284,6 +2285,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
         years: [1995, 1995],
       }),
       [/^[A-Z]{1,5}$/gm, "***"],
+      ["collective coming‑ of‑age", "collective coming‑of‑age"],
     ],
     "turning-point-all-nations": [
       [/^A statement prepared by the Bahá’í.*/m, ""],

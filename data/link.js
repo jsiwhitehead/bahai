@@ -245,7 +245,11 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
           }
         }
       });
-      if (["compilations", "ruhi"].some((s) => doc.id.startsWith(s))) {
+      if (
+        ["compilations", "ruhi", "world-centre-bahai-org"].some((s) =>
+          doc.id.startsWith(s)
+        )
+      ) {
         doc.paragraphs = doc.paragraphs.map((paragraph, index) => {
           if (paragraph.base.id) return paragraph;
           const { simplified, parts } = paragraph;

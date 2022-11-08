@@ -87,6 +87,7 @@
             [
               'stack': 15,
               renderPara(p, [
+                'index': docId & p.'paragraph'.'index',
                 'highlight': '',
                 'minQuote': minQuote,
               ]),
