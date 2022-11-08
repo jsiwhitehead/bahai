@@ -104,7 +104,7 @@ const paragraphParts = (p, quotes) => {
   if (p.section && p.title) {
     const level = p.section.length;
     return [
-      level < 4
+      level < 4 && false
         ? `${p.section.join(".")}${p.section.length === 1 ? "." : ""} ${
             p.title
           }`
@@ -160,10 +160,12 @@ const paragraphParts = (p, quotes) => {
     return p.lines
       .slice(0, -1)
       .map((start, i) =>
-        result.filter((a) => a.start >= start && a.end <= p.lines[i + 1])
+        result
+          .filter((a) => a.start >= start && a.end <= p.lines[i + 1])
+          .map((a) => (!a.first && !a.count && !a.quote ? a.text : a))
       );
   }
-  return result;
+  return result.map((a) => (!a.first && !a.count && !a.quote ? a.text : a));
 };
 
 const paragraphsMap = {};
@@ -231,12 +233,35 @@ const documentsList = Object.keys(documents).map((id) => {
   return {
     ...doc,
     path,
+    refPath: unique(
+      [
+        doc.author,
+        ...(doc.path || []).filter(
+          (p) =>
+            ![
+              "Selections from the Writings of the Báb",
+              "Part Two: Letters from Shoghi Effendi",
+              "Selected Messages of the Universal House of Justice",
+              "Additional",
+            ].includes(p)
+        ),
+        doc.title || (doc.item && `#${doc.item}`),
+      ]
+        .filter((x) => x)
+        .map((s) => (s.length > 50 ? s : s.replace(/ /g, " ")))
+    ),
     searchPath: [...path, doc.title]
       .filter((x) => x)
       .map((s) => simplifyText(s))
       .join(""),
     words,
     time: getTime(words),
+    maxQuote: Math.max(
+      0,
+      ...Object.keys(quotes[id] || {}).flatMap((k) =>
+        quotes[id][k].parts.map((p) => p.count)
+      )
+    ),
     score:
       Object.keys(quotes[id] || {})
         .flatMap((k) =>
@@ -305,6 +330,9 @@ const getSearchParas = (search) => {
     }));
 };
 
+export const documentById = (docId) =>
+  documentsList.find((d) => d.id === docId);
+
 export const getDocuments = (author, search, sort) => {
   const allAuthors = authorGroups[author] || [author];
   const simplifySearch = search.split(/\s+/g).map((s) => simplifyText(s));
@@ -318,16 +346,19 @@ export const getDocuments = (author, search, sort) => {
     .slice(0, 50);
 };
 
-export const runSearch = (author, docId, search, view, sort) => {
-  const allAuthors = authorGroups[author] || [author];
+export const runSearch = (author, docId, search, minQuote) => {
   const searchResult = getSearchParas(search || "");
+  if (docId) {
+    return searchResult.filter((p) => p.id === docId && p.maxQuote >= minQuote);
+  }
+  const allAuthors = authorGroups[author] || [author];
   const authorResult = searchResult.filter(
     (p) => allAuthors.includes(p.author) || allAuthors.includes(p.epoch)
   );
-  const sortResult = authorResult.sort(
-    (a, b) => compare(sort, a, b) || a.id.localeCompare(b.id) || a.para - b.para
-  );
-  return sortResult.slice(0, 50);
+  // const sortResult = authorResult.sort(
+  //   (a, b) => compare(sort, a, b) || a.id.localeCompare(b.id) || a.para - b.para
+  // );
+  return authorResult.slice(0, 50);
 };
 
 // para.text.slice(start, end).trim().split(" ").length,
@@ -416,18 +447,7 @@ export const runSearch = (author, docId, search, view, sort) => {
 // : [
 //   'stack': { ? index: 35, : 60 },
 //   'style': ['max-width': '620px', 'margin': '0 auto'],
-//   [
-//     'size': { ? index: 26, : 34 },
-//     'bold': 'true',
-//     'underline': !index,
-//     'align': 'center',
-//     'stack': 15,
-//     ...{
-//       ? doc.'title': [[doc.'title']],
-//       ? !index : [[doc.'path'.1], ['#{doc.'item'}']],
-//       : [],
-//     }
-//   ],
+
 //   [
 //     'stack': 25,
 //     'align': 'justify',

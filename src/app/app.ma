@@ -1,9 +1,15 @@
 {
   'author':~ 'Bahá’í Era',
+  'view':~ 'Documents',
   'docId':~ '',
   'search':~ '',
-  'view':~ 'Documents',
-  'sort':~ 'Relevance',
+  'docInfo': docId & documentById(docId),
+  'minQuote': {
+    ? view = 'Cited': 1,
+    ? view = 'Most Cited': docInfo.'maxQuote' * 0.5,
+    : 0,
+  },
+  'view':: { ? docId: 'All', : 'Documents' },
   : [
     'size': 17,
     'font': 'Atkinson Hyperlegible',
@@ -13,7 +19,7 @@
     'stack': 60,
     [
       'stack': 30,
-      authorSelect(author),
+      !docId & authorSelect(author),
       [
         'grid': ['100px', 1],
         'style': ['align-items': 'center', 'column-gap': '20px', 'row-gap': '20px'],
@@ -24,12 +30,17 @@
           'round': 50,
           'align': 'center',
           'pad': [5, 10],
-          'options': [
-            'Documents',
-            'Paragraphs',
-            'Cited',
-            'Most Cited',
-          ],
+          'options': {
+            ? docId: [
+              'All',
+              'Cited',
+              'Most Cited',
+            ],
+            : [
+              'Documents',
+              'Paragraphs',
+            ],
+          },
           'value': view,
         ],
         ['bold': 'true', 'Search:'],
@@ -44,30 +55,50 @@
       ],
     ],
     {
-      ? view = 'Documents': docGrid(author, search),
+      ? !docId & view = 'Documents': docGrid(author, search, docId),
       : [
-        'stack': { ? sort = 'Document': 25, : 60 },
         'align': 'justify-left',
         'style': ['max-width': '620px', 'margin': '0 auto'],
-        ...runSearch(author, docId, search, view, sort)->map.[p:
+        'stack': 60,
+        docId & [
+          'bold': 'true',
+          'align': 'center',
+          'stack': 25,
           [
+            'color': 'blue',
+            'underline': hover,
+            'cursor': 'pointer',
+            'docId':: click & '',
+            '« Back',
+          ],
+          [
+            'size': 34,
+            'underline': 'true',
             'stack': 15,
-            renderPara(p, [
-              'highlight': '',
-              'minQuote': {
-                ? view = 'Cited': 1,
-                ? view = 'Most Cited': p.'maxQuote' * 0.75,
-                : 0,
-              },
-            ]),
-            sort ! 'Document' & [
-              'size': 16,
-              'italic': 'true',
-              'align': 'right',
-              'color': colors.'link'.(p.'author'),
-              'width': 0.75,
-              'style': ['margin': '0 0 0 auto'],
-              p.'refPath'->join(', ')
+            ...{
+              ? docInfo.'title': [[docInfo.'title']],
+              : [[docInfo.'path'.1], ['#{docInfo.'item'}']],
+            }
+          ]
+        ],
+        [
+          'stack': { ? docId: 25, : 60 },
+          ...runSearch(author, docId, search, minQuote)->map.[p:
+            [
+              'stack': 15,
+              renderPara(p, [
+                'highlight': '',
+                'minQuote': minQuote,
+              ]),
+              !docId & [
+                'size': 16,
+                'italic': 'true',
+                'align': 'right',
+                'color': colors.'link'.(p.'author'),
+                'width': 0.75,
+                'style': ['margin': '0 0 0 auto'],
+                p.'refPath'->join(', ')
+              ]
             ]
           ]
         ]

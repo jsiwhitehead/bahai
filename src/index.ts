@@ -4,7 +4,7 @@ import { createBrowserHistory } from "history";
 import { atom, reactiveFunc, resolve } from "reactivejs";
 
 import render from "./render";
-import { getDocuments, getParagraph, runSearch } from "./getData";
+import { documentById, getDocuments, getParagraph, runSearch } from "./getData";
 
 import "./style.css";
 
@@ -83,6 +83,7 @@ maraca(
     tick,
     url,
     toUrl,
+    documentById,
     getDocuments,
     getParagraph,
     runSearch,

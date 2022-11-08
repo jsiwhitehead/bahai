@@ -1,7 +1,7 @@
 [(para, config): {
   'p': para.'paragraph',
   'color': colors.'link'.(para.'author') | colors.'link'.'The World Centre',
-  'level': p.'section' & p.'title' & (length(p.'section') + config.'baseLevel'),
+  'level': p.'section' & p.'title' & (length(p.'section') + (config.'baseLevel' | 0)),
   'renderPart': [
     [...part]: {
       'fill': config.'highlight' & part.'count' > 0 &
@@ -12,7 +12,7 @@
           'line': 1,
           'color': color,
           'fill': fill,
-          'bold': part.'quote',
+          'bold': config.'inlineQuote' & part.'quote',
           'pad': ['right': 8],
           'width': 'auto',
           'style': ['float': 'left'],
@@ -20,7 +20,7 @@
         ],
         : [
           'fill': fill,
-          'bold': part.'quote',
+          'bold': config.'inlineQuote' & part.'quote',
           'pad': [2.5, 0],
           part.'text',
         ],
@@ -70,7 +70,7 @@
         'uppercase': level = 1 | p.'type' = 'call',
         'bold': level <= 2 | p.'id',
         'italic': level > 2 | p.'type' = 'info',
-        'indent': !p.'type' & (p.'index' ! 1) & 20,
+        'indent': !p.'type' & !p.'id' & (p.'index' ! 1) & 20,
         'pad': {
           ? p.'type': [0, 60],
           ? p.'id': [0, 20],
@@ -85,13 +85,36 @@
             [
               'inline': 'true',
               'uppercase': i = 1 & para.'path'.1 = 'The Hidden Words',
-              ...chunk->filter.[x: x.'count' >= config.'minQuote']->renderParts
+              ...chunk
+                ->filter.[
+                  [...x]: config.'minQuote' = 0 | x.'count' >= config.'minQuote',
+                  x: config.'minQuote' = 0
+                ]
+                ->renderParts
             ]
           ],
-          : para.'parts'->filter.[x: x.'count' >= config.'minQuote']->renderParts,
+          : para.'parts'
+            ->filter.[
+              [...x]: config.'minQuote' = 0 | x.'count' >= config.'minQuote',
+              x: config.'minQuote' = 0
+            ]
+            ->renderParts,
         },
         'style': ['clear': 'both', 'white-space': 'pre-wrap'],
       ],
+      p.'id' & {
+        'doc': documentById(p.'id'),
+        : [
+          'size': 16,
+          'italic': 'true',
+          'align': 'right',
+          'color': colors.'link'.(doc.'author') | colors.'link'.'The World Centre',
+          'width': 0.75,
+          'pad': [0, 20],
+          'style': ['margin': '0 0 0 auto'],
+          doc.'refPath'->join(', ')
+        ]
+      }
     ],
   ]
 }]
