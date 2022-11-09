@@ -7,7 +7,7 @@
       'fill': config.'highlight' & part.'count' > 0 &
         'rgb(255, {240 - part.'count' * 10}, {240 - part.'count' * 10})',
       : {
-        ? part.'first': [
+        ? config.'index' & part.'first': [
           'size': 17 * 3,
           'line': 1,
           'color': color,
@@ -73,7 +73,7 @@
         'uppercase': level = 1 | p.'type' = 'call',
         'bold': level <= 2 | p.'id',
         'italic': level > 2 | p.'type' = 'info',
-        'indent': !p.'type' & !p.'id' & !p.'lines' & (p.'index' ! 1) & 20,
+        'indent': config.'index' & !p.'type' & !p.'id' & !p.'lines' & (p.'index' ! 1) & 20,
         'pad': {
           ? p.'type': [0, 60],
           ? p.'id': [0, 20],

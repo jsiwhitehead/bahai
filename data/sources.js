@@ -1439,6 +1439,7 @@ Praise be to Him, ye are acquainted with the various schools, institutions and p
 Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divine strength, and aided by His grace, ye may bestow God’s bountiful gift upon the world . . . the gift of comfort and tranquillity for all mankind.`,
       ],
       ["thought were wellnigh impossible", "thought were well nigh impossible"],
+      ["bestow on them heavenly", "bestow upon them heavenly"],
     ],
     "some-answered-questions": [
       removeAfter("Notes"),
@@ -2530,6 +2531,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["the “Seen” and “Hidden”—all", "the “Seen” and the “Hidden”—all"],
       ["being were deeply immersed", "being were deep immersed"],
       ["their utterance to be the Voice", "their utterances to be the Voice"],
+      ["vouchsafed to them. In this", "vouchsafed to them. . . . In this"],
     ],
   },
   compilations: {
