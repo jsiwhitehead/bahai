@@ -3,13 +3,10 @@
   'view':~ 'Documents',
   'docId':~ '',
   'search':~ '',
+  'show':~ 'All',
   'docInfo': docId & documentById(docId),
-  'minQuote': {
-    ? view = 'Cited': 1,
-    ? view = 'Most Cited': docInfo.'maxQuote' * 0.5,
-    : 0,
-  },
-  'view':: { ? docId: 'All', : 'Documents' },
+  'show':: docId & 'All',
+  'search':: docId & '',
   : [
     'size': 17,
     'font': 'Atkinson Hyperlegible',
@@ -30,17 +27,10 @@
           'round': 50,
           'align': 'center',
           'pad': [5, 10],
-          'options': {
-            ? docId: [
-              'All',
-              'Cited',
-              'Most Cited',
-            ],
-            : [
-              'Documents',
-              'Paragraphs',
-            ],
-          },
+          'options': [
+            'Documents',
+            'Paragraphs',
+          ],
           'value': view,
         ],
         ['bold': 'true', 'Search:'],
@@ -51,6 +41,20 @@
           'align': 'center',
           'pad': [5, 10],
           'value': search,
+        ],
+        (docId | view = 'Paragraphs') & ['bold': 'true', 'Show:'],
+        (docId | view = 'Paragraphs') & [
+          'input': 'select',
+          'fill': '#eee',
+          'round': 50,
+          'align': 'center',
+          'pad': [5, 10],
+          'options': [
+            'All',
+            'Cited',
+            'Most Cited',
+          ],
+          'value': show,
         ],
       ],
     ],
@@ -83,13 +87,13 @@
         ],
         [
           'stack': { ? docId: 25, : 60 },
-          ...runSearch(author, docId, search, minQuote)->map.[p:
+          ...runSearch(author, docId, search, show)->map.[p:
             [
               'stack': 15,
               renderPara(p, [
                 'index': docId & p.'paragraph'.'index',
                 'highlight': '',
-                'minQuote': minQuote,
+                'partial': show ! 'All',
               ]),
               !docId & [
                 'size': 16,

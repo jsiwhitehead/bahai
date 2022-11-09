@@ -87,8 +87,8 @@ const compare = (sort, a, b) => {
 
 const unique = (x) => [...new Set<any>(x)];
 
-const getFirstChar = (index, text) => {
-  if (index !== 1) return undefined;
+const getFirstChar = (index, lines, text) => {
+  if (index !== 1 || lines) return undefined;
   const result = /[a-z]/i.exec(
     text
       .normalize("NFD")
@@ -132,7 +132,7 @@ const paragraphParts = (p, quotes) => {
       },
     ];
   }
-  const firstChar = getFirstChar(p.index, p.text);
+  const firstChar = getFirstChar(p.index, p.lines, p.text);
   const indices = unique([
     0,
     ...(firstChar === undefined ? [] : [firstChar]),
@@ -157,13 +157,12 @@ const paragraphParts = (p, quotes) => {
     };
   });
   if (p.lines) {
-    return p.lines
-      .slice(0, -1)
-      .map((start, i) =>
-        result
-          .filter((a) => a.start >= start && a.end <= p.lines[i + 1])
-          .map((a) => (!a.first && !a.count && !a.quote ? a.text : a))
-      );
+    return p.lines.slice(0, -1).map((start, i) =>
+      result
+        .filter((a) => a.start >= start && a.end <= p.lines[i + 1])
+        .map((a) => ({ ...a, start: a.start - start, end: a.end - start }))
+        .map((a) => (!a.first && !a.count && !a.quote ? a.text : a))
+    );
   }
   return result.map((a) => (!a.first && !a.count && !a.quote ? a.text : a));
 };
@@ -346,10 +345,30 @@ export const getDocuments = (author, search, sort) => {
     .slice(0, 50);
 };
 
-export const runSearch = (author, docId, search, minQuote) => {
+const filterParts = (p, minQuote) => {
+  if (p.paragraph.lines) {
+    return {
+      ...p,
+      parts: p.parts.map((x) =>
+        x.filter((a) => typeof a !== "string" && a.count >= minQuote)
+      ),
+    };
+  }
+  return {
+    ...p,
+    parts: p.parts.filter((a) => typeof a !== "string" && a.count >= minQuote),
+  };
+};
+
+export const runSearch = (author, docId, search, show) => {
   const searchResult = getSearchParas(search || "");
   if (docId) {
-    return searchResult.filter((p) => p.id === docId && p.maxQuote >= minQuote);
+    if (show === "All") return searchResult.filter((p) => p.id === docId);
+    const minQuote =
+      show === "Cited" ? 1 : Math.floor(documentById(docId).maxQuote * 0.75);
+    return searchResult
+      .filter((p) => p.id === docId && p.maxQuote >= minQuote)
+      .map((p) => filterParts(p, minQuote));
   }
   const allAuthors = authorGroups[author] || [author];
   const authorResult = searchResult.filter(
@@ -359,7 +378,13 @@ export const runSearch = (author, docId, search, minQuote) => {
     (a, b) =>
       compare("Relevance", a, b) || a.id.localeCompare(b.id) || a.para - b.para
   );
-  return sortResult.slice(0, 50);
+  if (show === "All") return sortResult.slice(0, 50);
+  return sortResult
+    .filter((p) => p.maxQuote > 0)
+    .map((p) =>
+      filterParts(p, show === "Cited" ? 1 : Math.floor(p.maxQuote * 0.75))
+    )
+    .slice(0, 50);
 };
 
 // para.text.slice(start, end).trim().split(" ").length,

@@ -16149,6 +16149,97 @@
       ]
     }
   },
+  "additional-other-062": {
+    "1": {
+      "refs": [
+        {
+          "id": "bahaullah-gems-divine-mysteries-002",
+          "paragraph": 73
+        },
+        {
+          "id": "bahaullah-kitab-i-iqan-003",
+          "paragraph": 128
+        },
+        {
+          "id": "abdul-baha-some-answered-questions-004",
+          "paragraph": 63
+        },
+        {
+          "id": "abdul-baha-promulgation-universal-peace-002",
+          "paragraph": 93
+        },
+        {
+          "id": "abdul-baha-promulgation-universal-peace-009",
+          "paragraph": 37
+        },
+        {
+          "id": "abdul-baha-promulgation-universal-peace-015",
+          "paragraph": 17
+        },
+        {
+          "id": "abdul-baha-promulgation-universal-peace-016",
+          "paragraph": 48
+        },
+        {
+          "id": "abdul-baha-promulgation-universal-peace-017",
+          "paragraph": 23
+        },
+        {
+          "id": "abdul-baha-promulgation-universal-peace-017",
+          "paragraph": 100
+        },
+        {
+          "id": "abdul-baha-promulgation-universal-peace-020",
+          "paragraph": 12
+        },
+        {
+          "id": "abdul-baha-tablets-divine-plan-001",
+          "paragraph": 212
+        },
+        {
+          "id": "publications-individual-authors-bahaullah-new-era-019",
+          "paragraph": 44
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 89,
+          "count": 4
+        },
+        {
+          "start": 89,
+          "end": 90,
+          "count": 3
+        },
+        {
+          "start": 90,
+          "end": 178,
+          "count": 11
+        },
+        {
+          "start": 178,
+          "end": 179,
+          "count": 10
+        },
+        {
+          "start": 179,
+          "end": 214,
+          "count": 1
+        },
+        {
+          "start": 214,
+          "end": 235,
+          "count": 3
+        },
+        {
+          "start": 235,
+          "end": 236,
+          "count": 2
+        }
+      ]
+    }
+  },
   "the-bab-selections-writings-bab-108": {
     "1": {
       "refs": [
@@ -17317,77 +17408,6 @@
         {
           "start": 427,
           "end": 504,
-          "count": 1
-        }
-      ]
-    },
-    "73": {
-      "refs": [
-        {
-          "id": "abdul-baha-some-answered-questions-004",
-          "paragraph": 63
-        },
-        {
-          "id": "abdul-baha-promulgation-universal-peace-002",
-          "paragraph": 93
-        },
-        {
-          "id": "abdul-baha-promulgation-universal-peace-009",
-          "paragraph": 37
-        },
-        {
-          "id": "abdul-baha-promulgation-universal-peace-015",
-          "paragraph": 17
-        },
-        {
-          "id": "abdul-baha-promulgation-universal-peace-016",
-          "paragraph": 48
-        },
-        {
-          "id": "abdul-baha-promulgation-universal-peace-017",
-          "paragraph": 23
-        },
-        {
-          "id": "abdul-baha-promulgation-universal-peace-017",
-          "paragraph": 100
-        },
-        {
-          "id": "abdul-baha-promulgation-universal-peace-020",
-          "paragraph": 12
-        },
-        {
-          "id": "abdul-baha-tablets-divine-plan-001",
-          "paragraph": 212
-        },
-        {
-          "id": "publications-individual-authors-bahaullah-new-era-019",
-          "paragraph": 44
-        }
-      ],
-      "parts": [
-        {
-          "start": 530,
-          "end": 619,
-          "count": 2
-        },
-        {
-          "start": 619,
-          "end": 620,
-          "count": 1
-        },
-        {
-          "start": 620,
-          "end": 708,
-          "count": 9
-        },
-        {
-          "start": 708,
-          "end": 709,
-          "count": 8
-        },
-        {
-          "start": 744,
-          "end": 765,
           "count": 1
         }
       ]

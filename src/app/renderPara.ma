@@ -28,16 +28,19 @@
     },
     part: part,
   ],
-  'renderParts': [parts: [
-    parts.1.'start' > 0 & '. . . ',
-    ...parts->flatMap.[(part, i): [
-      i > 1 & (part.'start' - parts.(i - 1).'end' = 1) &
-        para.'text'->slice(part.'start' - 1, part.'start'),
-      i > 1 & (part.'start' - parts.(i - 1).'end' > 1) & ' . . . ',
-      renderPart(part),
+  'renderParts': {
+    ? config.'partial': [parts: [
+      parts.1.'start' > 0 & '. . . ',
+      ...parts->flatMap.[(part, i): [
+        i > 1 & (part.'start' - parts.(i - 1).'end' = 1) &
+          para.'text'->slice(part.'start' - 1, part.'start'),
+        i > 1 & (part.'start' - parts.(i - 1).'end' > 1) & ' . . . ',
+        renderPart(part),
+      ]],
+      parts.(length(parts)).'end' < length(para.'text') & ' . . .',
     ]],
-    parts.(length(parts)).'end' < length(para.'text') & ' . . .',
-  ]],
+    : [parts: parts->map.renderPart],
+  },
   : [
     'id': i,
     'style': ['position': 'relative'],
@@ -70,7 +73,7 @@
         'uppercase': level = 1 | p.'type' = 'call',
         'bold': level <= 2 | p.'id',
         'italic': level > 2 | p.'type' = 'info',
-        'indent': !p.'type' & !p.'id' & (p.'index' ! 1) & 20,
+        'indent': !p.'type' & !p.'id' & !p.'lines' & (p.'index' ! 1) & 20,
         'pad': {
           ? p.'type': [0, 60],
           ? p.'id': [0, 20],
@@ -85,20 +88,10 @@
             [
               'inline': 'true',
               'uppercase': i = 1 & para.'path'.1 = 'The Hidden Words',
-              ...chunk
-                ->filter.[
-                  [...x]: config.'minQuote' = 0 | x.'count' >= config.'minQuote',
-                  x: config.'minQuote' = 0
-                ]
-                ->renderParts
+              ...chunk->renderParts
             ]
           ],
-          : para.'parts'
-            ->filter.[
-              [...x]: config.'minQuote' = 0 | x.'count' >= config.'minQuote',
-              x: config.'minQuote' = 0
-            ]
-            ->renderParts,
+          : para.'parts'->renderParts,
         },
         'style': ['clear': 'both', 'white-space': 'pre-wrap'],
       ],
