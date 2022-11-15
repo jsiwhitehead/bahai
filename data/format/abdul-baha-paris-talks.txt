@@ -4,6 +4,7 @@ years=[1911,1913]
 collection
 
 # Part One
+collection
 
 ## The Duty of Kindness and Sympathy towards Strangers and Foreigners
 
@@ -1292,10 +1293,7 @@ I beseech you, one and all, to add your prayers to mine to the end that war and 
 All down the ages we see how blood has stained the surface of the earth; but now a ray of greater light has come, man’s intelligence is greater, spirituality is beginning to grow, and a time is surely coming when the religions of the world will be at peace. Let us leave the discordant arguments concerning outward forms, and let us join together to hasten forward the Divine Cause of unity, until all humanity knows itself to be one family, joined together in love.
 
 # Part Two
-
-The Eleven Principles out of the Teaching of Bahá’u’lláh, Explained by ‘Abdu’l‑Bahá in Paris.
-
-The Search after Truth. The Unity of Mankind. Religion ought to be the Cause of Love and Affection (Not given separately). The Unity of Religion and Science. Abolition of Prejudices. Equalisation of Means of Existence. Equality of Men before the Law. Universal Peace. Noninterference of Religion and Politics. Equality of Sex—Education of Women. The Power of the Holy Spirit.
+collection
 
 ## Theosophical Society, Paris
 
@@ -1806,6 +1804,7 @@ This I say only to your outer selves; I do not say it to your souls, for our sou
 Be comforted, and rest assured that day and night I shall turn to the Kingdom of the Most Glorious in supplication for you, that day by day you may grow better and holier, nearer to God, and more and more illumined by the radiance of His Love.
 
 # Part Three
+collection
 
 ## Address by ‘Abdu’l‑Bahá at the Friends’ Meeting House, St. Martin’s Lane, London, W.C.
 

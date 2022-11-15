@@ -5,7 +5,6 @@
   'search':~ '',
   'show':~ 'All',
   'docInfo': docId & documentById(docId),
-  'show':: docId & 'All',
   'search':: docId & '',
   : [
     'size': 17,

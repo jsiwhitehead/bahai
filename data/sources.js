@@ -1229,9 +1229,11 @@ export const files = {
         years: [1911, 1913],
         collection: true,
       }),
-      title("#", "Part One"),
-      title("#", "Part Two"),
-      title("#", "Part Three"),
+      [/^The Eleven Principles out of the Teaching.*/m, ""],
+      [/^The Search after Truth\. The Unity of Mankind.*/m, ""],
+      title("#", "Part One", { collection: true }),
+      title("#", "Part Two", { collection: true }),
+      title("#", "Part Three", { collection: true }),
       [/^— .* —$\n\n/gm, "## "],
       [
         "In this Revelation of Bahá’u’lláh, the women go neck and neck with the men. In no movement will they be left behind. Their rights with men are equal in degree. They will enter all the administrative branches of politics. They will attain in all such a degree as will be considered the very highest station of the world of humanity and will take part in all affairs. Rest ye assured. Do ye not look upon the present conditions; in the not far distant future the world of women will become all‑refulgent and all‑glorious, For His Holiness Bahá’u’lláh Hath Willed It so!",
@@ -1248,7 +1250,7 @@ export const files = {
         collection: true,
       }),
       [/^— .* —$\n\n(.*)\n\n(.*)/gm, (_, a, b) => `## ${b}\n\n${a}`],
-      [/^(Talk.*)$\n\n(.*)/gm, (_, a, b) => `# ${a} (${b})`],
+      [/^(Talk.*)$\n\n(.*)/gm, (_, a, b) => `# ${a} (${b})\ncollection`],
       [
         `In the beginning of his human life man was embryonic in the world of the matrix. There he received capacity and endowment for the reality of human existence. The forces and powers necessary for this world were bestowed upon him in that limited condition. In this world he needed eyes; he received them potentially in the other. He needed ears; he obtained them there in readiness and preparation for his new existence. The powers requisite in this world were conferred upon him in the world of the matrix so that when he entered this realm of real existence he not only possessed all necessary functions and powers but found provision for his material sustenance awaiting him.
 
@@ -1460,7 +1462,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         author: "Laura Clifford Barney",
         years: [1908, 1908],
       }),
-      [/^(Part \d)\n\n(.*)/gm, (_, a, b) => `# ${a}: ${b}`],
+      [/^(Part \d)\n\n(.*)/gm, (_, a, b) => `# ${a}: ${b}\ncollection`],
       [/^— .* —$\n\n/gm, "## "],
     ],
     "tablet-august-forel": [
@@ -1479,6 +1481,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       title("", "Tablets of the Divine Plan", {
         author: "‘Abdu’l‑Bahá",
         years: [1916, 1917],
+        collection: true,
       }),
       [/^\d+$\n\n(.*)\n\n\*\*\*\n\n/gm, (_, a) => `# ${a}\n\n * `],
       [/^\*\*\*$/gm, ""],
@@ -1490,6 +1493,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       title("", "‘Abdu’l‑Bahá’s Tablets to The Hague", {
         author: "‘Abdu’l‑Bahá",
         years: [1919, 1920],
+        collection: true,
       }),
       title("#", "First Tablet to The Hague"),
       title("#", "Second Tablet to The Hague"),
@@ -1509,6 +1513,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       title("", "Twelve Table Talks given by ‘Abdu’l‑Bahá in ‘Akká", {
         author: "‘Abdu’l‑Bahá",
         years: [1904, 1907],
+        collection: true,
       }),
       [/^— .* —$\n\n/gm, "# "],
     ],

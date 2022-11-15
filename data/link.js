@@ -146,7 +146,9 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
     .map((d) => ({
       ...d,
       paragraphs: d.paragraphs.map((base) => {
-        const parts = (base.text || "").split(/\s*(\. \. \.|\[[^\]]*\])\s*/g);
+        const parts = (base.text || "").split(
+          /(\s*(?:\. \. \.|\[[^\]]*\])\s*)/g
+        );
         return {
           base,
           text: base.text || "",
@@ -276,7 +278,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
             ...para.text.split(/“([^”]+)”/g).filter((_, i) => i % 2 === 1),
             ...para.text.split(/‘([^’]+)’/g).filter((_, i) => i % 2 === 1),
           ].map((text) => {
-            const parts = text.split(/\s*(\. \. \.|\[[^\]]*\])\s*/g);
+            const parts = text.split(/(\s*(?:\. \. \.|\[[^\]]*\])\s*)/g);
             const simplified = parts.map((s) => simplifyText(s));
             if (simplified.join("").length >= 50) {
               const source = findSource(documents, doc, simplified);

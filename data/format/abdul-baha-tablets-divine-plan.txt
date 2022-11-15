@@ -1,6 +1,7 @@
 Tablets of the Divine Plan
 author="‘Abdu’l‑Bahá"
 years=[1916,1917]
+collection
 
 # Tablet to the Bahá’ís of the Northeastern States
 
