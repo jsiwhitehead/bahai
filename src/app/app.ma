@@ -4,6 +4,7 @@
   'docId':~ '',
   'search':~ '',
   'show':~ 'All',
+  'page':~ 1,
   'docInfo': docId & documentById(docId),
   'search':: docId & '',
   : [
@@ -55,6 +56,16 @@
           ],
           'value': show,
         ],
+        (view = 'Paragraphs') & ['bold': 'true', 'Page:'],
+        (view = 'Paragraphs') & [
+          'input': 'select',
+          'fill': '#eee',
+          'round': 50,
+          'align': 'center',
+          'pad': [5, 10],
+          'options': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+          'value': page,
+        ],
       ],
     ],
     {
@@ -86,7 +97,7 @@
         ],
         [
           'stack': { ? docId: 25, : 60 },
-          ...runSearch(author, docId, search, show)->map.[p:
+          ...runSearch(author, docId, search, show, page)->map.[p:
             [
               'stack': 15,
               renderPara(p, [

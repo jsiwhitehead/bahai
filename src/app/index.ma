@@ -34,7 +34,7 @@
             :'select',
             'v':: oninput?.'target'?.'value',
             ...values.'options'->map.[o:
-              [:'option', 'value': o, o],
+              [:'option', 'selected': v = o, 'value': o, o],
             ],
           ]]
         },

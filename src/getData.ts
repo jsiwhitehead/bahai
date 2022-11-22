@@ -360,7 +360,7 @@ const filterParts = (p, minQuote) => {
   };
 };
 
-export const runSearch = (author, docId, search, show) => {
+export const runSearch = (author, docId, search, show, page) => {
   const searchResult = getSearchParas(search || "");
   if (docId) {
     if (show === "All") return searchResult.filter((p) => p.id === docId);
@@ -378,13 +378,13 @@ export const runSearch = (author, docId, search, show) => {
     (a, b) =>
       compare("Relevance", a, b) || a.id.localeCompare(b.id) || a.para - b.para
   );
-  if (show === "All") return sortResult.slice(0, 50);
+  if (show === "All") return sortResult.slice((page - 1) * 50, page * 50);
   return sortResult
     .filter((p) => p.maxQuote > 0)
     .map((p) =>
       filterParts(p, show === "Cited" ? 1 : Math.floor(p.maxQuote * 0.75))
     )
-    .slice(0, 50);
+    .slice((page - 1) * 50, page * 50);
 };
 
 // para.text.slice(start, end).trim().split(" ").length,
