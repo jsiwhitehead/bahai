@@ -434,6 +434,10 @@
     "34": {
       "refs": [
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 140
+        },
+        {
           "id": "ruhi8-001",
           "paragraph": 104
         },
@@ -446,7 +450,12 @@
         {
           "start": 0,
           "end": 251,
-          "count": 2
+          "count": 3
+        },
+        {
+          "start": 251,
+          "end": 530,
+          "count": 1
         }
       ]
     },
@@ -1782,6 +1791,21 @@
         {
           "start": 115,
           "end": 218,
+          "count": 1
+        }
+      ]
+    },
+    "215": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 141
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 636,
           "count": 1
         }
       ]
@@ -3742,11 +3766,25 @@
         {
           "id": "shoghi-effendi-promised-day-come-001",
           "paragraph": 215
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 10
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 242,
+          "count": 1
+        },
+        {
           "start": 242,
+          "end": 403,
+          "count": 2
+        },
+        {
+          "start": 403,
           "end": 727,
           "count": 1
         }
@@ -4942,6 +4980,21 @@
           "start": 1226,
           "end": 1311,
           "count": 2
+        }
+      ]
+    },
+    "279": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 624,
+          "end": 969,
+          "count": 1
         }
       ]
     },
@@ -6344,6 +6397,10 @@
           "paragraph": 3
         },
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 4
+        },
+        {
           "id": "ruhi7-003",
           "paragraph": 13
         }
@@ -6352,12 +6409,12 @@
         {
           "start": 0,
           "end": 338,
-          "count": 3
+          "count": 4
         },
         {
           "start": 338,
           "end": 567,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -7328,13 +7385,17 @@
         {
           "id": "compilations-music-001",
           "paragraph": 5
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 5
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 533,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -9883,6 +9944,10 @@
           "paragraph": 11
         },
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 6
+        },
+        {
           "id": "ruhi3-002",
           "paragraph": 116
         }
@@ -9890,6 +9955,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 439,
+          "count": 2
+        },
+        {
+          "start": 439,
           "end": 440,
           "count": 1
         },
@@ -12107,26 +12177,6 @@
         {
           "start": 485,
           "end": 486,
-          "count": 1
-        }
-      ]
-    },
-    "118": {
-      "refs": [
-        {
-          "id": "shoghi-effendi-world-order-bahaullah-007",
-          "paragraph": 30
-        }
-      ],
-      "parts": [
-        {
-          "start": 365,
-          "end": 460,
-          "count": 1
-        },
-        {
-          "start": 581,
-          "end": 693,
           "count": 1
         }
       ]
@@ -14349,6 +14399,21 @@
           "start": 196,
           "end": 363,
           "count": 2
+        }
+      ]
+    },
+    "46": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 501,
+          "count": 1
         }
       ]
     }
@@ -17253,6 +17318,21 @@
         }
       ]
     },
+    "48": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 438,
+          "count": 1
+        }
+      ]
+    },
     "53": {
       "refs": [
         {
@@ -17318,6 +17398,21 @@
         {
           "start": 0,
           "end": 399,
+          "count": 1
+        }
+      ]
+    },
+    "113": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 272,
           "count": 1
         }
       ]
@@ -17984,6 +18079,10 @@
         {
           "id": "ruhi14-001",
           "paragraph": 109
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 18
         }
       ],
       "parts": [
@@ -17999,8 +18098,13 @@
         },
         {
           "start": 222,
-          "end": 1055,
+          "end": 864,
           "count": 1
+        },
+        {
+          "start": 864,
+          "end": 1055,
+          "count": 2
         }
       ]
     },
@@ -18600,6 +18704,10 @@
         {
           "id": "ruhi10-001",
           "paragraph": 52
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 20
         }
       ],
       "parts": [
@@ -18610,8 +18718,23 @@
         },
         {
           "start": 267,
-          "end": 742,
+          "end": 528,
           "count": 1
+        },
+        {
+          "start": 528,
+          "end": 587,
+          "count": 2
+        },
+        {
+          "start": 587,
+          "end": 588,
+          "count": 1
+        },
+        {
+          "start": 588,
+          "end": 742,
+          "count": 2
         }
       ]
     },
@@ -20085,6 +20208,10 @@
     "5": {
       "refs": [
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 148
+        },
+        {
           "id": "ruhi8-001",
           "paragraph": 132
         }
@@ -20092,6 +20219,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 182,
+          "count": 2
+        },
+        {
+          "start": 182,
           "end": 1864,
           "count": 1
         }
@@ -20907,6 +21039,10 @@
           "paragraph": 21
         },
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 149
+        },
+        {
           "id": "official-statements-commentaries-century-light-002",
           "paragraph": 238
         },
@@ -20967,6 +21103,16 @@
         },
         {
           "start": 281,
+          "end": 486,
+          "count": 2
+        },
+        {
+          "start": 486,
+          "end": 718,
+          "count": 3
+        },
+        {
+          "start": 718,
           "end": 719,
           "count": 2
         },
@@ -21826,6 +21972,10 @@
         {
           "id": "world-centre-bahai-org-001",
           "paragraph": 193
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 18
         }
       ],
       "parts": [
@@ -21847,20 +21997,30 @@
         {
           "start": 186,
           "end": 244,
-          "count": 5
+          "count": 6
         },
         {
           "start": 244,
+          "end": 245,
+          "count": 5
+        },
+        {
+          "start": 245,
           "end": 256,
           "count": 4
         },
         {
           "start": 256,
           "end": 330,
-          "count": 5
+          "count": 6
         },
         {
           "start": 330,
+          "end": 331,
+          "count": 5
+        },
+        {
+          "start": 331,
           "end": 486,
           "count": 4
         }
@@ -22667,6 +22827,10 @@
         {
           "id": "world-centre-bahai-org-001",
           "paragraph": 208
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 12
         }
       ],
       "parts": [
@@ -22687,8 +22851,23 @@
         },
         {
           "start": 178,
-          "end": 488,
+          "end": 179,
           "count": 4
+        },
+        {
+          "start": 179,
+          "end": 232,
+          "count": 5
+        },
+        {
+          "start": 232,
+          "end": 233,
+          "count": 4
+        },
+        {
+          "start": 233,
+          "end": 488,
+          "count": 5
         },
         {
           "start": 488,
@@ -24796,11 +24975,35 @@
         {
           "id": "the-universal-house-of-justice-messages-422",
           "paragraph": 19
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 9
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 60,
+          "count": 1
+        },
+        {
+          "start": 60,
+          "end": 138,
+          "count": 2
+        },
+        {
+          "start": 138,
+          "end": 152,
+          "count": 1
+        },
+        {
+          "start": 152,
+          "end": 235,
+          "count": 2
+        },
+        {
+          "start": 235,
           "end": 341,
           "count": 1
         }
@@ -25507,6 +25710,10 @@
         {
           "id": "shoghi-effendi-advent-divine-justice-001",
           "paragraph": 42
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 7
         }
       ],
       "parts": [
@@ -25518,6 +25725,11 @@
         {
           "start": 48,
           "end": 148,
+          "count": 1
+        },
+        {
+          "start": 733,
+          "end": 897,
           "count": 1
         }
       ]
@@ -26404,6 +26616,21 @@
           "count": 1
         }
       ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 146
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 245,
+          "count": 1
+        }
+      ]
     }
   },
   "abdul-baha-selections-writings-abdul-baha-003": {
@@ -26761,6 +26988,10 @@
           "paragraph": 45
         },
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 77
+        },
+        {
           "id": "the-universal-house-of-justice-messages-274",
           "paragraph": 7
         },
@@ -26777,17 +27008,37 @@
         },
         {
           "start": 144,
+          "end": 547,
+          "count": 1
+        },
+        {
+          "start": 547,
           "end": 705,
+          "count": 2
+        },
+        {
+          "start": 705,
+          "end": 829,
           "count": 1
         },
         {
           "start": 836,
           "end": 868,
+          "count": 2
+        },
+        {
+          "start": 868,
+          "end": 869,
           "count": 1
         },
         {
           "start": 869,
           "end": 980,
+          "count": 2
+        },
+        {
+          "start": 980,
+          "end": 1054,
           "count": 1
         }
       ]
@@ -31314,13 +31565,17 @@
         {
           "id": "shoghi-effendi-advent-divine-justice-001",
           "paragraph": 118
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 3
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 119,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -31331,13 +31586,17 @@
         {
           "id": "shoghi-effendi-advent-divine-justice-001",
           "paragraph": 118
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 137
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 302,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -31348,6 +31607,10 @@
         {
           "id": "shoghi-effendi-advent-divine-justice-001",
           "paragraph": 118
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 138
         },
         {
           "id": "compilations-power-divine-assistance-001",
@@ -31366,7 +31629,7 @@
         {
           "start": 0,
           "end": 372,
-          "count": 4
+          "count": 5
         }
       ]
     }
@@ -31510,6 +31773,10 @@
           "paragraph": 119
         },
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 139
+        },
+        {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 75
         },
@@ -31540,7 +31807,17 @@
         },
         {
           "start": 221,
+          "end": 380,
+          "count": 1
+        },
+        {
+          "start": 380,
           "end": 582,
+          "count": 2
+        },
+        {
+          "start": 582,
+          "end": 735,
           "count": 1
         },
         {
@@ -31551,12 +31828,12 @@
         {
           "start": 995,
           "end": 1320,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1320,
           "end": 1554,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -34748,6 +35025,37 @@
       ]
     }
   },
+  "additional-abdul-baha-454": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-006",
+          "paragraph": 17
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 32,
+          "count": 2
+        },
+        {
+          "start": 32,
+          "end": 33,
+          "count": 1
+        },
+        {
+          "start": 33,
+          "end": 247,
+          "count": 2
+        }
+      ]
+    }
+  },
   "additional-bahaullah-244": {
     "1": {
       "refs": [
@@ -35113,6 +35421,66 @@
           "start": 0,
           "end": 525,
           "count": 1
+        }
+      ]
+    }
+  },
+  "additional-bahaullah-252": {
+    "1": {
+      "refs": [
+        {
+          "id": "shoghi-effendi-world-order-bahaullah-007",
+          "paragraph": 30
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-043",
+          "paragraph": 6
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 79
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 160,
+          "count": 3
+        },
+        {
+          "start": 160,
+          "end": 192,
+          "count": 3
+        },
+        {
+          "start": 192,
+          "end": 193,
+          "count": 3
+        },
+        {
+          "start": 200,
+          "end": 327,
+          "count": 2
+        },
+        {
+          "start": 327,
+          "end": 422,
+          "count": 2
+        },
+        {
+          "start": 422,
+          "end": 543,
+          "count": 2
+        },
+        {
+          "start": 543,
+          "end": 655,
+          "count": 2
+        },
+        {
+          "start": 655,
+          "end": 656,
+          "count": 2
         }
       ]
     }
@@ -36384,6 +36752,41 @@
         {
           "start": 770,
           "end": 829,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 74
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 210,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 75
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 176,
+          "count": 1
+        },
+        {
+          "start": 183,
+          "end": 424,
           "count": 1
         }
       ]
@@ -38497,6 +38900,10 @@
     "1": {
       "refs": [
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 4
+        },
+        {
           "id": "ruhi9-001",
           "paragraph": 186
         }
@@ -38505,7 +38912,7 @@
         {
           "start": 0,
           "end": 372,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -38527,6 +38934,10 @@
     "3": {
       "refs": [
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 5
+        },
+        {
           "id": "ruhi9-001",
           "paragraph": 188
         }
@@ -38535,7 +38946,7 @@
         {
           "start": 0,
           "end": 562,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -40397,11 +40808,20 @@
     "617": {
       "refs": [
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 46
+        },
+        {
           "id": "the-universal-house-of-justice-messages-259",
           "paragraph": 12
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 616,
+          "count": 1
+        },
         {
           "start": 1011,
           "end": 1156,
@@ -40674,6 +41094,51 @@
           "count": 3
         }
       ]
+    },
+    "800": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 107
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 469,
+          "count": 1
+        }
+      ]
+    },
+    "801": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 108
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 548,
+          "count": 1
+        }
+      ]
+    },
+    "804": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 109
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 934,
+          "count": 1
+        }
+      ]
     }
   },
   "shoghi-effendi-world-order-bahaullah-003": {
@@ -40716,6 +41181,21 @@
         }
       ]
     },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 918,
+          "count": 1
+        }
+      ]
+    },
     "11": {
       "refs": [
         {
@@ -40725,22 +41205,46 @@
         {
           "id": "the-universal-house-of-justice-messages-110",
           "paragraph": 10
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 35
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 82,
+          "count": 1
+        },
+        {
           "start": 82,
           "end": 172,
+          "count": 2
+        },
+        {
+          "start": 172,
+          "end": 176,
           "count": 1
         },
         {
           "start": 176,
           "end": 202,
+          "count": 2
+        },
+        {
+          "start": 202,
+          "end": 203,
           "count": 1
         },
         {
           "start": 203,
           "end": 326,
+          "count": 2
+        },
+        {
+          "start": 326,
+          "end": 1198,
           "count": 1
         }
       ]
@@ -40754,23 +41258,37 @@
         {
           "id": "the-universal-house-of-justice-messages-110",
           "paragraph": 11
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 36
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 176,
+          "count": 2
+        },
+        {
+          "start": 176,
+          "end": 177,
           "count": 1
         },
         {
           "start": 177,
           "end": 222,
+          "count": 2
+        },
+        {
+          "start": 222,
+          "end": 223,
           "count": 1
         },
         {
           "start": 223,
           "end": 703,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -41144,6 +41662,10 @@
     "24": {
       "refs": [
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 151
+        },
+        {
           "id": "publications-individual-authors-bahaullah-new-era-017",
           "paragraph": 35
         },
@@ -41156,7 +41678,7 @@
         {
           "start": 0,
           "end": 194,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -42291,21 +42813,6 @@
         }
       ]
     },
-    "30": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-043",
-          "paragraph": 6
-        }
-      ],
-      "parts": [
-        {
-          "start": 304,
-          "end": 497,
-          "count": 1
-        }
-      ]
-    },
     "40": {
       "refs": [
         {
@@ -43423,6 +43930,21 @@
     }
   },
   "shoghi-effendi-bahai-administration-028": {
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 32
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 337,
+          "count": 1
+        }
+      ]
+    },
     "9": {
       "refs": [
         {
@@ -45061,8 +45583,42 @@
     }
   },
   "shoghi-effendi-advent-divine-justice-001": {
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 97
+        }
+      ],
+      "parts": [
+        {
+          "start": 805,
+          "end": 1026,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 98
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 325,
+          "count": 1
+        }
+      ]
+    },
     "6": {
       "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 41
+        },
         {
           "id": "ruhi9-002",
           "paragraph": 88
@@ -45071,13 +45627,22 @@
       "parts": [
         {
           "start": 0,
-          "end": 929,
+          "end": 339,
           "count": 1
+        },
+        {
+          "start": 339,
+          "end": 929,
+          "count": 2
         }
       ]
     },
     "7": {
       "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 42
+        },
         {
           "id": "ruhi9-002",
           "paragraph": 89
@@ -45087,7 +45652,7 @@
         {
           "start": 0,
           "end": 434,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -45116,6 +45681,41 @@
         {
           "start": 116,
           "end": 226,
+          "count": 1
+        }
+      ]
+    },
+    "27": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 639,
+          "count": 1
+        },
+        {
+          "start": 1485,
+          "end": 2930,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 99
+        }
+      ],
+      "parts": [
+        {
+          "start": 717,
+          "end": 1579,
           "count": 1
         }
       ]
@@ -45286,6 +45886,10 @@
     "44": {
       "refs": [
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 161
+        },
+        {
           "id": "compilations-sanctity-nature-bahai-elections-001",
           "paragraph": 6
         },
@@ -45302,40 +45906,55 @@
         {
           "start": 0,
           "end": 235,
-          "count": 2
+          "count": 3
         },
         {
           "start": 235,
           "end": 236,
-          "count": 1
+          "count": 2
         },
         {
           "start": 236,
           "end": 238,
-          "count": 2
+          "count": 3
         },
         {
           "start": 238,
           "end": 239,
-          "count": 1
+          "count": 2
         },
         {
           "start": 239,
           "end": 445,
-          "count": 2
+          "count": 3
         },
         {
           "start": 445,
           "end": 446,
-          "count": 1
+          "count": 2
         },
         {
           "start": 446,
           "end": 558,
-          "count": 2
+          "count": 3
         },
         {
           "start": 558,
+          "end": 823,
+          "count": 2
+        },
+        {
+          "start": 823,
+          "end": 1083,
+          "count": 1
+        },
+        {
+          "start": 1083,
+          "end": 1326,
+          "count": 2
+        },
+        {
+          "start": 1326,
           "end": 2041,
           "count": 1
         }
@@ -45395,6 +46014,10 @@
           "paragraph": 1
         },
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 33
+        },
+        {
           "id": "the-universal-house-of-justice-messages-405",
           "paragraph": 43
         },
@@ -45407,87 +46030,87 @@
         {
           "start": 0,
           "end": 5,
-          "count": 2
+          "count": 3
         },
         {
           "start": 5,
           "end": 27,
-          "count": 3
+          "count": 4
         },
         {
           "start": 27,
           "end": 29,
-          "count": 2
+          "count": 3
         },
         {
           "start": 29,
           "end": 112,
-          "count": 3
+          "count": 4
         },
         {
           "start": 112,
           "end": 257,
-          "count": 2
+          "count": 3
         },
         {
           "start": 257,
           "end": 350,
-          "count": 1
+          "count": 2
         },
         {
           "start": 350,
           "end": 476,
-          "count": 2
+          "count": 3
         },
         {
           "start": 476,
           "end": 489,
-          "count": 1
+          "count": 2
         },
         {
           "start": 489,
           "end": 505,
-          "count": 2
+          "count": 3
         },
         {
           "start": 505,
           "end": 533,
-          "count": 1
+          "count": 2
         },
         {
           "start": 533,
           "end": 582,
-          "count": 2
+          "count": 3
         },
         {
           "start": 582,
           "end": 583,
-          "count": 1
+          "count": 2
         },
         {
           "start": 583,
           "end": 636,
-          "count": 2
+          "count": 3
         },
         {
           "start": 636,
           "end": 800,
-          "count": 1
+          "count": 2
         },
         {
           "start": 800,
           "end": 802,
-          "count": 1
+          "count": 2
         },
         {
           "start": 802,
           "end": 913,
-          "count": 2
+          "count": 3
         },
         {
           "start": 913,
           "end": 1176,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -45558,21 +46181,35 @@
         {
           "id": "the-universal-house-of-justice-messages-453",
           "paragraph": 15
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 20
         }
       ],
       "parts": [
         {
           "start": 731,
           "end": 778,
-          "count": 2
+          "count": 3
         },
         {
           "start": 778,
+          "end": 779,
+          "count": 2
+        },
+        {
+          "start": 779,
           "end": 780,
           "count": 1
         },
         {
           "start": 780,
+          "end": 859,
+          "count": 3
+        },
+        {
+          "start": 859,
           "end": 887,
           "count": 2
         },
@@ -45643,8 +46280,27 @@
         }
       ]
     },
+    "63": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 44
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1206,
+          "count": 1
+        }
+      ]
+    },
     "64": {
       "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 45
+        },
         {
           "id": "the-universal-house-of-justice-messages-210",
           "paragraph": 54
@@ -45652,8 +46308,18 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 18,
+          "count": 1
+        },
+        {
           "start": 18,
           "end": 201,
+          "count": 2
+        },
+        {
+          "start": 201,
+          "end": 864,
           "count": 1
         }
       ]
@@ -46005,6 +46671,21 @@
         {
           "start": 1508,
           "end": 1629,
+          "count": 1
+        }
+      ]
+    },
+    "105": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 162
+        }
+      ],
+      "parts": [
+        {
+          "start": 631,
+          "end": 1358,
           "count": 1
         }
       ]
@@ -47749,6 +48430,10 @@
     "46": {
       "refs": [
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 157
+        },
+        {
           "id": "the-universal-house-of-justice-messages-218",
           "paragraph": 8
         },
@@ -47777,87 +48462,122 @@
         {
           "start": 0,
           "end": 9,
-          "count": 1
+          "count": 2
         },
         {
           "start": 9,
           "end": 225,
-          "count": 3
+          "count": 4
+        },
+        {
+          "start": 225,
+          "end": 253,
+          "count": 1
         },
         {
           "start": 253,
           "end": 260,
-          "count": 1
+          "count": 2
         },
         {
           "start": 260,
           "end": 382,
-          "count": 2
+          "count": 3
+        },
+        {
+          "start": 382,
+          "end": 391,
+          "count": 1
         },
         {
           "start": 391,
           "end": 412,
+          "count": 2
+        },
+        {
+          "start": 412,
+          "end": 653,
           "count": 1
         },
         {
           "start": 653,
           "end": 827,
+          "count": 2
+        },
+        {
+          "start": 827,
+          "end": 828,
           "count": 1
         },
         {
           "start": 828,
           "end": 837,
-          "count": 1
+          "count": 2
         },
         {
           "start": 837,
           "end": 883,
-          "count": 3
+          "count": 4
         },
         {
           "start": 883,
           "end": 884,
-          "count": 2
+          "count": 3
         },
         {
           "start": 884,
           "end": 1024,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1024,
           "end": 1025,
-          "count": 2
+          "count": 3
+        },
+        {
+          "start": 1025,
+          "end": 1246,
+          "count": 1
         },
         {
           "start": 1246,
           "end": 1280,
+          "count": 2
+        },
+        {
+          "start": 1280,
+          "end": 1292,
           "count": 1
         },
         {
           "start": 1292,
           "end": 1443,
+          "count": 2
+        },
+        {
+          "start": 1443,
+          "end": 1444,
           "count": 1
         },
         {
           "start": 1444,
           "end": 1557,
-          "count": 1
+          "count": 2
         },
         {
           "start": 1557,
           "end": 1563,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1563,
           "end": 1643,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1643,
           "end": 1750,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -47879,6 +48599,10 @@
     "48": {
       "refs": [
         {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 158
+        },
+        {
           "id": "the-universal-house-of-justice-messages-268",
           "paragraph": 13
         },
@@ -47889,13 +48613,38 @@
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 626,
+          "count": 1
+        },
+        {
           "start": 626,
           "end": 949,
+          "count": 2
+        },
+        {
+          "start": 949,
+          "end": 1325,
           "count": 1
         },
         {
           "start": 1325,
           "end": 1637,
+          "count": 2
+        }
+      ]
+    },
+    "49": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 159
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1031,
           "count": 1
         }
       ]
@@ -47905,18 +48654,32 @@
         {
           "id": "the-universal-house-of-justice-messages-036",
           "paragraph": 14
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 160
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 410,
+          "count": 1
+        },
+        {
           "start": 410,
           "end": 545,
+          "count": 2
+        },
+        {
+          "start": 545,
+          "end": 742,
           "count": 1
         },
         {
           "start": 742,
           "end": 934,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -48384,6 +49147,21 @@
           "start": 500,
           "end": 733,
           "count": 4
+        }
+      ]
+    },
+    "27": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 243,
+          "end": 919,
+          "count": 1
         }
       ]
     }
@@ -49180,6 +49958,36 @@
         }
       ]
     },
+    "60": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 38
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 826,
+          "count": 1
+        }
+      ]
+    },
+    "62": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 371,
+          "count": 1
+        }
+      ]
+    },
     "76": {
       "refs": [
         {
@@ -49524,6 +50332,66 @@
         {
           "start": 206,
           "end": 305,
+          "count": 1
+        }
+      ]
+    },
+    "101": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 93
+        }
+      ],
+      "parts": [
+        {
+          "start": 443,
+          "end": 977,
+          "count": 1
+        }
+      ]
+    },
+    "102": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 94
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 389,
+          "count": 1
+        }
+      ]
+    },
+    "103": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 95
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 968,
+          "count": 1
+        }
+      ]
+    },
+    "104": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 96
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 537,
           "count": 1
         }
       ]
@@ -50844,13 +51712,17 @@
         {
           "id": "the-universal-house-of-justice-messages-109",
           "paragraph": 16
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 82
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 845,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -51796,13 +52668,17 @@
         {
           "id": "the-universal-house-of-justice-messages-148",
           "paragraph": 15
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 143
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 450,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -52319,12 +53195,61 @@
         {
           "id": "the-universal-house-of-justice-messages-163",
           "paragraph": 8
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 127
         }
       ],
       "parts": [
         {
+          "start": 1052,
+          "end": 1295,
+          "count": 1
+        },
+        {
           "start": 1295,
           "end": 1421,
+          "count": 2
+        },
+        {
+          "start": 1421,
+          "end": 1619,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 69
+        }
+      ],
+      "parts": [
+        {
+          "start": 340,
+          "end": 535,
+          "count": 1
+        },
+        {
+          "start": 975,
+          "end": 1293,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 128
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1178,
           "count": 1
         }
       ]
@@ -54503,13 +55428,17 @@
         {
           "id": "compilations-fire-and-light-001",
           "paragraph": 15
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 142
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 631,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -54533,13 +55462,17 @@
         {
           "id": "compilations-fire-and-light-001",
           "paragraph": 17
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 144
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 630,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -54751,13 +55684,22 @@
         {
           "id": "compilations-fire-and-light-001",
           "paragraph": 31
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 81
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 834,
+          "end": 422,
           "count": 1
+        },
+        {
+          "start": 422,
+          "end": 834,
+          "count": 2
         }
       ]
     }
@@ -56187,13 +57129,17 @@
         {
           "id": "compilations-fire-and-light-001",
           "paragraph": 135
+        },
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 91
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 2336,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -56921,6 +57867,21 @@
           "count": 2
         }
       ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 133
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 601,
+          "count": 1
+        }
+      ]
     }
   },
   "additional-other-046": {
@@ -57446,6 +58407,2302 @@
       ]
     }
   },
+  "abdul-baha-selections-writings-abdul-baha-195": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 48,
+          "end": 584,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-369",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 238,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-196": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 45,
+          "count": 1
+        },
+        {
+          "start": 51,
+          "end": 362,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1993,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 155,
+          "end": 912,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi7-001",
+          "paragraph": 41
+        },
+        {
+          "id": "ruhi11-001",
+          "paragraph": 55
+        },
+        {
+          "id": "ruhi12-001",
+          "paragraph": 65
+        },
+        {
+          "id": "ruhi5-002",
+          "paragraph": 30
+        }
+      ],
+      "parts": [
+        {
+          "start": 332,
+          "end": 652,
+          "count": 4
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-power-divine-assistance-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 194,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-197": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 362,
+          "end": 598,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 19
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 296,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-455": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 645,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 797,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 22
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 265,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-456": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 858,
+          "count": 1
+        },
+        {
+          "start": 865,
+          "end": 881,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-457": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 780,
+          "count": 1
+        },
+        {
+          "start": 787,
+          "end": 1028,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-127": {
+    "3": {
+      "refs": [
+        {
+          "id": "ruhi10-002",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 596,
+          "end": 905,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 346,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 67,
+          "end": 859,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-015": {
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 28
+        },
+        {
+          "id": "ruhi8-002",
+          "paragraph": 108
+        }
+      ],
+      "parts": [
+        {
+          "start": 206,
+          "end": 768,
+          "count": 2
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 337,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-025": {
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 30
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 466,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 31
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 345,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 158
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 611,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-047": {
+    "12": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 480,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-decisive-hour-016": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1190,
+          "count": 1
+        },
+        {
+          "start": 2227,
+          "end": 2597,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-decisive-hour-041": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 598,
+          "end": 793,
+          "count": 1
+        },
+        {
+          "start": 1189,
+          "end": 1469,
+          "count": 1
+        },
+        {
+          "start": 2376,
+          "end": 2986,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-571": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1321,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-572": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 49
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 305,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-573": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 51
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 843,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-574": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 768,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 53
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 458,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-298": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 54
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 128,
+          "count": 1
+        },
+        {
+          "start": 134,
+          "end": 739,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 55
+        },
+        {
+          "id": "ruhi4-003",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 565,
+          "count": 2
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 155,
+          "count": 1
+        },
+        {
+          "start": 160,
+          "end": 1015,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-575": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 256,
+          "count": 1
+        },
+        {
+          "start": 263,
+          "end": 899,
+          "count": 1
+        },
+        {
+          "start": 906,
+          "end": 1025,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-576": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 318,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-577": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 302,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 231,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-578": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 61
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 621,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-371": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 63
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 56,
+          "count": 1
+        },
+        {
+          "start": 63,
+          "end": 316,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 234,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 65
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 21,
+          "count": 1
+        },
+        {
+          "start": 28,
+          "end": 54,
+          "count": 1
+        },
+        {
+          "start": 69,
+          "end": 602,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-128": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 67
+        },
+        {
+          "id": "ruhi8-002",
+          "paragraph": 139
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 384,
+          "count": 2
+        },
+        {
+          "start": 384,
+          "end": 593,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-372": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 68
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 139,
+          "count": 1
+        },
+        {
+          "start": 145,
+          "end": 191,
+          "count": 1
+        },
+        {
+          "start": 198,
+          "end": 281,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-373": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 69
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 421,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-374": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 330,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 71
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 239,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-029": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 4
+        },
+        {
+          "id": "ruhi5-001",
+          "paragraph": 32
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 83
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 124,
+          "count": 3
+        },
+        {
+          "start": 124,
+          "end": 125,
+          "count": 2
+        },
+        {
+          "start": 278,
+          "end": 513,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 76
+        },
+        {
+          "id": "ruhi4-003",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 482,
+          "count": 2
+        },
+        {
+          "start": 482,
+          "end": 488,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "prayers-417": {
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 78
+        }
+      ],
+      "parts": [
+        {
+          "start": 213,
+          "end": 320,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-tablets-bahaullah-025": {
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 80
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 944,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-222": {
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 84
+        }
+      ],
+      "parts": [
+        {
+          "start": 115,
+          "end": 347,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-women-001",
+          "paragraph": 108
+        },
+        {
+          "id": "compilations-family-life-001",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 407,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-458": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 85
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-479",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1277,
+          "count": 1
+        },
+        {
+          "start": 1277,
+          "end": 1492,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-459": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 86
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 675,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 87
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 715,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-460": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 782,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-089": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 89
+        },
+        {
+          "id": "compilations-power-divine-assistance-001",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 419,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-057": {
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 92
+        }
+      ],
+      "parts": [
+        {
+          "start": 1927,
+          "end": 2527,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-decisive-hour-085": {
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 100
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 963,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 101
+        },
+        {
+          "id": "world-centre-entry-by-troops-001",
+          "paragraph": 96
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1259,
+          "count": 2
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 102
+        },
+        {
+          "id": "world-centre-entry-by-troops-001",
+          "paragraph": 97
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 499,
+          "count": 2
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 103
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 706,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 104
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 378,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 105
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 655,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-god-passes-by-001": {
+    "6": {
+      "refs": [
+        {
+          "id": "official-statements-commentaries-century-light-002",
+          "paragraph": 312
+        }
+      ],
+      "parts": [
+        {
+          "start": 592,
+          "end": 818,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 106
+        }
+      ],
+      "parts": [
+        {
+          "start": 2770,
+          "end": 2873,
+          "count": 1
+        },
+        {
+          "start": 3192,
+          "end": 3992,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-decisive-hour-158": {
+    "15": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-237",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 621,
+          "end": 1170,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-246",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1156,
+          "count": 1
+        }
+      ]
+    },
+    "23": {
+      "refs": [
+        {
+          "id": "ruhi9-002",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1089,
+          "count": 1
+        }
+      ]
+    },
+    "28": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 110
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 979,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 111
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 452,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-citadel-faith-073": {
+    "25": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 112
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 555,
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 113
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 637,
+          "count": 1
+        }
+      ]
+    },
+    "29": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 114
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 187
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 547,
+          "count": 2
+        }
+      ]
+    },
+    "36": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-276",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 50,
+          "end": 406,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-579": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 115
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 717,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 116
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 567,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-580": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 118
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 287,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 119
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 125,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-581": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 120
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 11,
+          "count": 1
+        },
+        {
+          "start": 18,
+          "end": 218,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-582": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 121
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 390,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-583": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 122
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 689,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-584": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 123
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 249,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-585": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 124
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 384,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-586": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 125
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 393,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-127": {
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 129
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 348,
+          "count": 1
+        },
+        {
+          "start": 354,
+          "end": 665,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 130
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 627,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 131
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1110,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 132
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 909,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-180": {
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 134
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 777,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-207": {
+    "8": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-410",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 552,
+          "end": 585,
+          "count": 1
+        },
+        {
+          "start": 595,
+          "end": 695,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "ruhi5-002",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 591,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-380",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 294,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 147
+        },
+        {
+          "id": "ruhi2-001",
+          "paragraph": 32
+        },
+        {
+          "id": "ruhi3-002",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 132,
+          "count": 2
+        },
+        {
+          "start": 132,
+          "end": 446,
+          "count": 1
+        },
+        {
+          "start": 446,
+          "end": 733,
+          "count": 2
+        },
+        {
+          "start": 733,
+          "end": 833,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-040": {
+    "13": {
+      "refs": [
+        {
+          "id": "compilations-bahai-funds-contributions-001",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 847,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 152
+        }
+      ],
+      "parts": [
+        {
+          "start": 412,
+          "end": 757,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 153
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1595,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-405",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 384,
+          "end": 491,
+          "count": 1
+        },
+        {
+          "start": 492,
+          "end": 558,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-bahai-administration-049": {
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-excellence-all-things-001",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1043,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 556,
+          "end": 571,
+          "count": 1
+        },
+        {
+          "start": 614,
+          "end": 660,
+          "count": 1
+        },
+        {
+          "start": 844,
+          "end": 1123,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 154
+        },
+        {
+          "id": "compilations-excellence-all-things-001",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 326,
+          "count": 2
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "compilations-excellence-all-things-001",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 281,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-587": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1868,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-214": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 156
+        },
+        {
+          "id": "compilations-trustworthiness-001",
+          "paragraph": 92
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1140,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-588": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 163
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 96,
+          "count": 1
+        },
+        {
+          "start": 108,
+          "end": 935,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-589": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 164
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1266,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-590": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 165
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 873,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 166
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 527,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 167
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 817,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-591": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 169
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 854,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-592": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 170
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 287,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-593": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 171
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 661,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-594": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 172
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 720,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 173
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 179,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 174
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 825,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 175
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 502,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-595": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 176
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 185,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-596": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 177
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 567,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-597": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 178
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 160,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-375": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 180
+        },
+        {
+          "id": "the-universal-house-of-justice-the-institution-of-the-counsellors-001",
+          "paragraph": 92
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 683,
+          "count": 1
+        },
+        {
+          "start": 683,
+          "end": 695,
+          "count": 2
+        },
+        {
+          "start": 695,
+          "end": 707,
+          "count": 1
+        },
+        {
+          "start": 707,
+          "end": 771,
+          "count": 2
+        },
+        {
+          "start": 771,
+          "end": 1860,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 181
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 482,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 182
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 458,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-376": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 184
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 227,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 185
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 553,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 186
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 294,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-377": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 187
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 411,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-378": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-crisis-victory-001",
+          "paragraph": 188
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 312,
+          "count": 1
+        }
+      ]
+    }
+  },
   "abdul-baha-promulgation-universal-peace-135": {
     "5": {
       "refs": [
@@ -57833,12 +61090,31 @@
         {
           "id": "the-universal-house-of-justice-messages-207",
           "paragraph": 10
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 13
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 8,
+          "count": 2
+        },
+        {
+          "start": 8,
+          "end": 9,
+          "count": 1
+        },
+        {
+          "start": 9,
           "end": 33,
+          "count": 2
+        },
+        {
+          "start": 33,
+          "end": 288,
           "count": 1
         }
       ]
@@ -57848,12 +61124,26 @@
         {
           "id": "the-universal-house-of-justice-messages-207",
           "paragraph": 10
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 13
         }
       ],
       "parts": [
         {
           "start": 175,
           "end": 280,
+          "count": 1
+        },
+        {
+          "start": 281,
+          "end": 296,
+          "count": 1
+        },
+        {
+          "start": 297,
+          "end": 505,
           "count": 1
         }
       ]
@@ -59426,43 +62716,6 @@
         {
           "start": 0,
           "end": 136,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-bahai-administration-040": {
-    "13": {
-      "refs": [
-        {
-          "id": "compilations-bahai-funds-contributions-001",
-          "paragraph": 12
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 847,
-          "count": 1
-        }
-      ]
-    },
-    "19": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-405",
-          "paragraph": 37
-        }
-      ],
-      "parts": [
-        {
-          "start": 384,
-          "end": 491,
-          "count": 1
-        },
-        {
-          "start": 492,
-          "end": 558,
           "count": 1
         }
       ]
@@ -64638,50 +67891,6 @@
       ]
     }
   },
-  "abdul-baha-selections-writings-abdul-baha-196": {
-    "5": {
-      "refs": [
-        {
-          "id": "ruhi7-001",
-          "paragraph": 41
-        },
-        {
-          "id": "ruhi11-001",
-          "paragraph": 55
-        },
-        {
-          "id": "ruhi12-001",
-          "paragraph": 65
-        },
-        {
-          "id": "ruhi5-002",
-          "paragraph": 30
-        }
-      ],
-      "parts": [
-        {
-          "start": 332,
-          "end": 652,
-          "count": 4
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "compilations-power-divine-assistance-001",
-          "paragraph": 41
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 194,
-          "count": 1
-        }
-      ]
-    }
-  },
   "abdul-baha-selections-writings-abdul-baha-208": {
     "1": {
       "refs": [
@@ -65206,23 +68415,6 @@
         {
           "start": 0,
           "end": 654,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-089": {
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-power-divine-assistance-001",
-          "paragraph": 59
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 425,
           "count": 1
         }
       ]
@@ -68305,27 +71497,6 @@
       ]
     }
   },
-  "abdul-baha-selections-writings-abdul-baha-222": {
-    "10": {
-      "refs": [
-        {
-          "id": "compilations-women-001",
-          "paragraph": 108
-        },
-        {
-          "id": "compilations-family-life-001",
-          "paragraph": 1
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 407,
-          "count": 2
-        }
-      ]
-    }
-  },
   "additional-abdul-baha-049": {
     "1": {
       "refs": [
@@ -70983,95 +74154,6 @@
       ]
     }
   },
-  "shoghi-effendi-bahai-administration-049": {
-    "8": {
-      "refs": [
-        {
-          "id": "compilations-excellence-all-things-001",
-          "paragraph": 45
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1043,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "compilations-trustworthiness-001",
-          "paragraph": 88
-        }
-      ],
-      "parts": [
-        {
-          "start": 556,
-          "end": 571,
-          "count": 1
-        },
-        {
-          "start": 614,
-          "end": 660,
-          "count": 1
-        },
-        {
-          "start": 844,
-          "end": 1123,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "compilations-excellence-all-things-001",
-          "paragraph": 46
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 326,
-          "count": 1
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "compilations-excellence-all-things-001",
-          "paragraph": 47
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 281,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-214": {
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-trustworthiness-001",
-          "paragraph": 92
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1140,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-shoghi-effendi-215": {
     "1": {
       "refs": [
@@ -72578,6 +75660,10 @@
           "paragraph": 30
         },
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 19
+        },
+        {
           "id": "compilations-family-life-001",
           "paragraph": 106
         }
@@ -72586,10 +75672,15 @@
         {
           "start": 0,
           "end": 539,
-          "count": 1
+          "count": 2
         },
         {
           "start": 539,
+          "end": 832,
+          "count": 4
+        },
+        {
+          "start": 832,
           "end": 897,
           "count": 3
         },
@@ -73103,6 +76194,10 @@
           "paragraph": 20
         },
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 28
+        },
+        {
           "id": "ruhi3-001",
           "paragraph": 25
         }
@@ -73111,17 +76206,17 @@
         {
           "start": 0,
           "end": 147,
-          "count": 1
+          "count": 2
         },
         {
           "start": 147,
           "end": 546,
-          "count": 2
+          "count": 3
         },
         {
           "start": 546,
           "end": 996,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -74471,19 +77566,48 @@
           "paragraph": 1
         },
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 17
+        },
+        {
           "id": "ruhi7-003",
           "paragraph": 10
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 190,
+          "count": 1
+        },
+        {
           "start": 190,
           "end": 260,
+          "count": 2
+        },
+        {
+          "start": 260,
+          "end": 265,
           "count": 1
         },
         {
           "start": 265,
           "end": 416,
+          "count": 2
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 377,
           "count": 1
         }
       ]
@@ -74552,33 +77676,37 @@
         {
           "id": "compilations-scholarship-001",
           "paragraph": 136
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 45
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 39,
-          "count": 1
+          "count": 2
         },
         {
           "start": 39,
           "end": 47,
-          "count": 2
+          "count": 3
         },
         {
           "start": 47,
           "end": 81,
-          "count": 1
+          "count": 2
         },
         {
           "start": 81,
           "end": 195,
-          "count": 2
+          "count": 3
         },
         {
           "start": 195,
           "end": 469,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -74587,13 +77715,17 @@
         {
           "id": "compilations-scholarship-001",
           "paragraph": 137
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 46
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 447,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -74848,6 +77980,10 @@
           "paragraph": 89
         },
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 6
+        },
+        {
           "id": "ruhi6-001",
           "paragraph": 43
         },
@@ -74868,35 +78004,40 @@
         {
           "start": 0,
           "end": 126,
-          "count": 4
+          "count": 5
         },
         {
           "start": 126,
           "end": 171,
-          "count": 3
+          "count": 4
         },
         {
           "start": 171,
           "end": 172,
-          "count": 1
+          "count": 2
         },
         {
           "start": 172,
           "end": 336,
-          "count": 2
+          "count": 3
         },
         {
           "start": 336,
           "end": 617,
-          "count": 1
+          "count": 2
         },
         {
           "start": 617,
           "end": 814,
-          "count": 2
+          "count": 3
         },
         {
           "start": 814,
+          "end": 919,
+          "count": 2
+        },
+        {
+          "start": 919,
           "end": 920,
           "count": 1
         },
@@ -75097,53 +78238,6 @@
         {
           "start": 587,
           "end": 832,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-decisive-hour-158": {
-    "15": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-237",
-          "paragraph": 20
-        }
-      ],
-      "parts": [
-        {
-          "start": 621,
-          "end": 1170,
-          "count": 1
-        }
-      ]
-    },
-    "20": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-246",
-          "paragraph": 16
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1156,
-          "count": 1
-        }
-      ]
-    },
-    "23": {
-      "refs": [
-        {
-          "id": "ruhi9-002",
-          "paragraph": 59
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1089,
           "count": 1
         }
       ]
@@ -75493,6 +78587,10 @@
     "7": {
       "refs": [
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 7
+        },
+        {
           "id": "ruhi1-003",
           "paragraph": 43
         },
@@ -75514,7 +78612,17 @@
         },
         {
           "start": 249,
+          "end": 352,
+          "count": 1
+        },
+        {
+          "start": 352,
           "end": 581,
+          "count": 2
+        },
+        {
+          "start": 581,
+          "end": 801,
           "count": 1
         }
       ]
@@ -76878,38 +79986,6 @@
         {
           "start": 381,
           "end": 598,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-decisive-hour-085": {
-    "11": {
-      "refs": [
-        {
-          "id": "world-centre-entry-by-troops-001",
-          "paragraph": 96
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1259,
-          "count": 1
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "world-centre-entry-by-troops-001",
-          "paragraph": 97
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 499,
           "count": 1
         }
       ]
@@ -78765,6 +81841,10 @@
     "11": {
       "refs": [
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 77
+        },
+        {
           "id": "ruhi10-001",
           "paragraph": 43
         }
@@ -78773,7 +81853,7 @@
         {
           "start": 0,
           "end": 321,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -78784,6 +81864,14 @@
           "paragraph": 91
         },
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 78
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 79
+        },
+        {
           "id": "compilations-social-action-001",
           "paragraph": 375
         }
@@ -78792,22 +81880,37 @@
         {
           "start": 0,
           "end": 16,
+          "count": 2
+        },
+        {
+          "start": 16,
+          "end": 17,
           "count": 1
         },
         {
           "start": 17,
           "end": 71,
-          "count": 1
+          "count": 2
         },
         {
           "start": 71,
-          "end": 723,
+          "end": 435,
+          "count": 3
+        },
+        {
+          "start": 435,
+          "end": 436,
           "count": 2
+        },
+        {
+          "start": 436,
+          "end": 723,
+          "count": 3
         },
         {
           "start": 723,
           "end": 919,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -78912,6 +82015,10 @@
           "paragraph": 103
         },
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 21
+        },
+        {
           "id": "ruhi6-001",
           "paragraph": 58
         },
@@ -78927,6 +82034,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 456,
+          "count": 3
+        },
+        {
+          "start": 456,
           "end": 457,
           "count": 2
         },
@@ -80609,38 +83721,6 @@
       ]
     }
   },
-  "shoghi-effendi-citadel-faith-073": {
-    "29": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 187
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 547,
-          "count": 1
-        }
-      ]
-    },
-    "36": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-276",
-          "paragraph": 18
-        }
-      ],
-      "parts": [
-        {
-          "start": 50,
-          "end": 406,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-shoghi-effendi-353": {
     "1": {
       "refs": [
@@ -80829,35 +83909,48 @@
         {
           "id": "compilations-music-001",
           "paragraph": 10
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 100
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 9,
-          "count": 1
+          "count": 2
         },
         {
           "start": 16,
           "end": 269,
-          "count": 1
+          "count": 2
         }
       ]
     }
   },
-  "additional-abdul-baha-353": {
+  "additional-abdul-baha-465": {
     "1": {
       "refs": [
         {
           "id": "compilations-music-001",
           "paragraph": 11
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 25
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 363,
+          "end": 23,
           "count": 1
+        },
+        {
+          "start": 23,
+          "end": 386,
+          "count": 2
         }
       ]
     }
@@ -80970,6 +84063,10 @@
           "paragraph": 18
         },
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 14
+        },
+        {
           "id": "compilations-institution-mashriqul-adhkar-001",
           "paragraph": 105
         }
@@ -80978,7 +84075,7 @@
         {
           "start": 0,
           "end": 717,
-          "count": 2
+          "count": 3
         }
       ]
     }
@@ -81070,13 +84167,17 @@
         {
           "id": "compilations-music-001",
           "paragraph": 26
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 31
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 436,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -81244,13 +84345,17 @@
         {
           "id": "compilations-music-001",
           "paragraph": 39
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 44
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 434,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -81261,13 +84366,17 @@
         {
           "id": "compilations-music-001",
           "paragraph": 40
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 48
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 626,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -81276,13 +84385,17 @@
         {
           "id": "compilations-music-001",
           "paragraph": 41
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 49
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 169,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -81327,13 +84440,17 @@
         {
           "id": "compilations-music-001",
           "paragraph": 44
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 53
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 906,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -82647,6 +85764,10 @@
     "35": {
       "refs": [
         {
+          "id": "compilations-importance-art-001",
+          "paragraph": 114
+        },
+        {
           "id": "ruhi7-003",
           "paragraph": 21
         }
@@ -82655,6 +85776,11 @@
         {
           "start": 0,
           "end": 478,
+          "count": 2
+        },
+        {
+          "start": 478,
+          "end": 927,
           "count": 1
         }
       ]
@@ -83280,6 +86406,1501 @@
         {
           "start": 342,
           "end": 574,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-006": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 744,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-461": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 18,
+          "count": 1
+        },
+        {
+          "start": 25,
+          "end": 777,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-462": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 355,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-463": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 326,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-276": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 13
+        },
+        {
+          "id": "ruhi7-003",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 41,
+          "count": 1
+        },
+        {
+          "start": 41,
+          "end": 480,
+          "count": 2
+        },
+        {
+          "start": 480,
+          "end": 552,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-additional-tablets-extracts-talks-092": {
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 385,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-108": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 254
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 352,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 255
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 170,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 16
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 256
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 355,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-110": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 20
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 371
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 39,
+          "count": 1
+        },
+        {
+          "start": 39,
+          "end": 395,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-464": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 22
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 176,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 381,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 166,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-some-answered-questions-060": {
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 26
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 75
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 552,
+          "count": 1
+        },
+        {
+          "start": 552,
+          "end": 712,
+          "count": 2
+        },
+        {
+          "start": 712,
+          "end": 1096,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-466": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 360,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-467": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 30
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 17,
+          "count": 1
+        },
+        {
+          "start": 23,
+          "end": 438,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-598": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 167,
+          "count": 1
+        },
+        {
+          "start": 174,
+          "end": 645,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-599": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 703,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-600": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 285,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-601": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 38
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 418,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 390,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 187,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-602": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 230,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 392,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 520,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-603": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 47,
+          "count": 1
+        },
+        {
+          "start": 54,
+          "end": 281,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-604": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 50
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 786,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-605": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 51
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 413,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-606": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 586,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-607": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 54
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 340,
+          "count": 1
+        },
+        {
+          "start": 347,
+          "end": 484,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-608": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 55
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 335,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-609": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 390,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 329,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-610": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 749,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-023": {
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 623,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-379": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 61
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 593,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 62
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 329,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-380": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 63
+        },
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 85
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 562,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-381": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 536,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-382": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 65
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 561,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 597,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-383": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 67
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 381,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-384": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 68
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 737,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-385": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 527,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 71
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 382,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-386": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 72
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 11,
+          "count": 1
+        },
+        {
+          "start": 18,
+          "end": 253,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 73
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 577,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-387": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 74
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 502,
+          "count": 1
+        },
+        {
+          "start": 509,
+          "end": 691,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-388": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 75
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 11,
+          "count": 1
+        },
+        {
+          "start": 18,
+          "end": 294,
+          "count": 1
+        },
+        {
+          "start": 301,
+          "end": 320,
+          "count": 1
+        },
+        {
+          "start": 327,
+          "end": 555,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-389": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 76
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 655,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-390": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 80
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 545,
+          "count": 1
+        },
+        {
+          "start": 552,
+          "end": 1325,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-391": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 81
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 535,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 82
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 257,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-394": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 83
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 158,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 86
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 485,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 87
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 172,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 675,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-392": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 84
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 256,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-395": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 89
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 640,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 90
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 278,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 91
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 459,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 92
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 488,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 93
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 519,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 94
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 195,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 96
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 436,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 97
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 372,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-126": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 95
+        },
+        {
+          "id": "ruhi5-001",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 80,
+          "end": 204,
+          "count": 1
+        },
+        {
+          "start": 288,
+          "end": 408,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "ruhi7-001",
+          "paragraph": 14
+        }
+      ],
+      "parts": [
+        {
+          "start": 148,
+          "end": 991,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-396": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 98
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 951,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 99
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 222,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 102
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 210,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 104
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 387,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-611": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 101
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 252,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-548": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 103
+        },
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 114
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 106,
+          "count": 1
+        },
+        {
+          "start": 106,
+          "end": 378,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-397": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 105
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 195,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-398": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 106
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 787,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-111": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 107
+        },
+        {
+          "id": "compilations-give-me-thy-grace-serve-thy-loved-ones-001",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 743,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-399": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 108
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 602,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-400": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 109
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 436,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 110
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 423,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 111
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 213,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-401": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 112
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 210,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-402": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 113
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 167,
+          "count": 1
+        },
+        {
+          "start": 174,
+          "end": 482,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-279": {
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-importance-art-001",
+          "paragraph": 115
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 654,
           "count": 1
         }
       ]
@@ -87689,23 +92310,6 @@
       ]
     }
   },
-  "shoghi-effendi-bahai-administration-025": {
-    "15": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-002",
-          "paragraph": 158
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 611,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-abdul-baha-146": {
     "1": {
       "refs": [
@@ -88193,23 +92797,6 @@
         {
           "start": 668,
           "end": 828,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-god-passes-by-001": {
-    "6": {
-      "refs": [
-        {
-          "id": "official-statements-commentaries-century-light-002",
-          "paragraph": 312
-        }
-      ],
-      "parts": [
-        {
-          "start": 592,
-          "end": 818,
           "count": 1
         }
       ]
@@ -96011,23 +100598,6 @@
       ]
     }
   },
-  "abdul-baha-selections-writings-abdul-baha-195": {
-    "2": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-369",
-          "paragraph": 16
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 238,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-other-001": {
     "1": {
       "refs": [
@@ -99184,82 +103754,6 @@
       ]
     }
   },
-  "abdul-baha-selections-writings-abdul-baha-207": {
-    "8": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-410",
-          "paragraph": 10
-        }
-      ],
-      "parts": [
-        {
-          "start": 552,
-          "end": 585,
-          "count": 1
-        },
-        {
-          "start": 595,
-          "end": 695,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "ruhi5-002",
-          "paragraph": 35
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 591,
-          "count": 1
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-380",
-          "paragraph": 8
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 294,
-          "count": 1
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "ruhi2-001",
-          "paragraph": 32
-        },
-        {
-          "id": "ruhi3-002",
-          "paragraph": 26
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 132,
-          "count": 1
-        },
-        {
-          "start": 446,
-          "end": 733,
-          "count": 1
-        }
-      ]
-    }
-  },
   "bahaullah-gleanings-writings-bahaullah-075": {
     "1": {
       "refs": [
@@ -99647,38 +104141,6 @@
         {
           "start": 0,
           "end": 180,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "bahaullah-gleanings-writings-bahaullah-126": {
-    "2": {
-      "refs": [
-        {
-          "id": "ruhi5-001",
-          "paragraph": 37
-        }
-      ],
-      "parts": [
-        {
-          "start": 80,
-          "end": 204,
-          "count": 1
-        }
-      ]
-    },
-    "4": {
-      "refs": [
-        {
-          "id": "ruhi7-001",
-          "paragraph": 14
-        }
-      ],
-      "parts": [
-        {
-          "start": 148,
-          "end": 991,
           "count": 1
         }
       ]
@@ -100519,23 +104981,6 @@
         {
           "start": 6,
           "end": 221,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-276": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi7-003",
-          "paragraph": 12
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 439,
           "count": 1
         }
       ]
@@ -104949,6 +109394,21 @@
     }
   },
   "abdul-baha-paris-talks-001": {
+    "7": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 93,
+          "count": 1
+        }
+      ]
+    },
     "8": {
       "refs": [
         {
@@ -107494,13 +111954,27 @@
         {
           "id": "world-centre-bahai-org-001",
           "paragraph": 197
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 19
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 363,
+          "end": 67,
+          "count": 7
+        },
+        {
+          "start": 67,
+          "end": 68,
           "count": 6
+        },
+        {
+          "start": 68,
+          "end": 363,
+          "count": 7
         }
       ]
     }
@@ -110856,23 +115330,6 @@
       ]
     }
   },
-  "shoghi-effendi-bahai-administration-015": {
-    "3": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 108
-        }
-      ],
-      "parts": [
-        {
-          "start": 206,
-          "end": 768,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-shoghi-effendi-277": {
     "1": {
       "refs": [
@@ -111033,23 +115490,6 @@
         {
           "start": 0,
           "end": 457,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-128": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi8-002",
-          "paragraph": 139
-        }
-      ],
-      "parts": [
-        {
-          "start": 6,
-          "end": 593,
           "count": 1
         }
       ]
@@ -115224,23 +119664,6 @@
       ]
     }
   },
-  "additional-shoghi-effendi-548": {
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-institution-mashriqul-adhkar-001",
-          "paragraph": 114
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 378,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-shoghi-effendi-549": {
     "1": {
       "refs": [
@@ -117495,23 +121918,6 @@
       ]
     }
   },
-  "abdul-baha-promulgation-universal-peace-127": {
-    "3": {
-      "refs": [
-        {
-          "id": "ruhi10-002",
-          "paragraph": 34
-        }
-      ],
-      "parts": [
-        {
-          "start": 596,
-          "end": 905,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-abdul-baha-242": {
     "1": {
       "refs": [
@@ -118180,23 +122586,6 @@
         {
           "start": 0,
           "end": 249,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-111": {
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-give-me-thy-grace-serve-thy-loved-ones-001",
-          "paragraph": 12
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 743,
           "count": 1
         }
       ]
@@ -119298,56 +123687,6 @@
         {
           "start": 60,
           "end": 146,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "bahaullah-gleanings-writings-bahaullah-029": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 4
-        },
-        {
-          "id": "ruhi5-001",
-          "paragraph": 32
-        },
-        {
-          "id": "world-centre-bahai-org-001",
-          "paragraph": 83
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 124,
-          "count": 3
-        },
-        {
-          "start": 124,
-          "end": 125,
-          "count": 2
-        },
-        {
-          "start": 278,
-          "end": 513,
-          "count": 1
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "ruhi4-003",
-          "paragraph": 33
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 482,
           "count": 1
         }
       ]
@@ -124141,13 +128480,22 @@
         {
           "id": "the-universal-house-of-justice-messages-466",
           "paragraph": 10
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 30
         }
       ],
       "parts": [
         {
+          "start": 647,
+          "end": 668,
+          "count": 1
+        },
+        {
           "start": 669,
           "end": 813,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -124337,23 +128685,6 @@
         {
           "start": 6,
           "end": 494,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-some-answered-questions-060": {
-    "3": {
-      "refs": [
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 75
-        }
-      ],
-      "parts": [
-        {
-          "start": 552,
-          "end": 1096,
           "count": 1
         }
       ]
@@ -125409,53 +129740,6 @@
       ]
     }
   },
-  "additional-abdul-baha-108": {
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 254
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 352,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 255
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 170,
-          "count": 1
-        }
-      ]
-    },
-    "3": {
-      "refs": [
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 256
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 355,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-abdul-baha-109": {
     "1": {
       "refs": [
@@ -126445,23 +130729,6 @@
         {
           "start": 0,
           "end": 301,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-110": {
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 371
-        }
-      ],
-      "parts": [
-        {
-          "start": 39,
-          "end": 395,
           "count": 1
         }
       ]
@@ -128055,23 +132322,6 @@
         {
           "start": 0,
           "end": 196,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-298": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi4-003",
-          "paragraph": 34
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 565,
           "count": 1
         }
       ]
@@ -129935,11 +134185,25 @@
         {
           "id": "the-universal-house-of-justice-messages-473",
           "paragraph": 5
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 26
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 63,
+          "count": 1
+        },
+        {
+          "start": 63,
+          "end": 183,
+          "count": 2
+        },
+        {
+          "start": 183,
           "end": 184,
           "count": 1
         }
@@ -131786,6 +136050,23 @@
         {
           "start": 314,
           "end": 375,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-128": {
+    "13": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 145,
+          "end": 225,
           "count": 1
         }
       ]

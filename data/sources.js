@@ -2615,7 +2615,35 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["told by the Master to be", "told by our Master to be"],
     ],
     // covenant: [],
-    // "crisis-victory": [],
+    "crisis-victory": [
+      removeAfter("Index"),
+      ["October 1987", ""],
+      [/^Compiled by the Research Department.*/m, ""],
+      [/^\(.*/gm, ""],
+      [/\(‘Abdu’l‑Bahá, cited in.*/, ""],
+      [/^Shoghi Effendi,.*/gm, ""],
+      title("", "Crisis and Victory", {
+        author: "Compilation",
+        years: [1987.1001, 1987.1001],
+      }),
+      [/^“The/gm, "# “The"],
+      [/^Extracts from/gm, "## Extracts from"],
+      [
+        "And if a nightingale soar upward from the clay of self and dwell in the rose bower of the heart, and in Arabian melodies and sweet Íránian songs recount the mysteries of God—a single word of which quickeneth to fresh, new life the bodies of the dead, and bestoweth the Holy Spirit upon the mouldering bones of this existence—thou wilt behold a thousand claws of envy, a myriad beaks of rancour hunting after Him and with all their power intent upon His death.",
+        "And if a nightingale soar beyond the clay of self and dwell in the rose bower of the heart, and in Arabian melodies and sweet Persian tones recount the mysteries of God—a single word whereof quickeneth anew every lifeless form and bestoweth the spirit of holiness upon every mouldering bone—thou wilt behold a thousand claws of envy and a myriad talons of hatred hunting after Him and striving with all their power to encompass His death.",
+      ],
+      [
+        "O My friend! Many a hound pursueth this gazelle of the desert of oneness; many a talon claweth at this thrush of the eternal garden. Pitiless ravens do lie in wait for this bird of the heavens of God, and the huntsman of envy stalketh this deer of the meadow of love.",
+        "O My friend! Many a hound hunteth this gazelle of the desert of oneness; many an eagle pursueth this nightingale of the garden of eternity. Ravens of hatred lie in wait for this bird of the heavens of God, and the huntsman of envy stalketh this deer of the meadow of love.",
+      ],
+      ["have wellnigh overwhelmed the", "has well‑nigh overwhelmed the"],
+      ["attacks which organised", "attacks which the organised"],
+      ["and international level to", "and international levels to"],
+      ["“Say: O people of God!", "Say: O people of God!"],
+      ["Unconstrained.” “Say: Beware", "Unconstrained.\n\nSay: Beware"],
+      ["reins of omnipotent might.”", "reins of omnipotent might."],
+      ["You should exhort all the", "Ye should exhort all the"],
+    ],
     "excellence-all-things": [
       removeAfter("Notes"),
       ["A Compilation Prepared by the Research Department", ""],
@@ -2709,7 +2737,22 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       [/^\d+\./gm, "#"],
       [/^Extract/gm, "## Extract"],
     ],
-    // "importance-art": [],
+    "importance-art": [
+      removeAfter("Notes"),
+      [/^A Compilation Prepared by the.*/m, ""],
+      [/^of the Universal House.*/m, ""],
+      ["August 1998", ""],
+      [/^\(.*/gm, ""],
+      title("", "The Importance of the Arts in Promoting the Faith", {
+        author: "Compilation",
+        years: [1998.0801, 1998.0801],
+      }),
+      [/^From/gm, "# From"],
+      [
+        "The first condition of perception in the world of nature is the perception of the rational soul. In this perception and in this power all men are sharers, whether they be neglectful or vigilant, believers or deniers.\n\nThis human rational soul is God’s creation; it encompasses and excels other creatures; as it is more noble and distinguished, it encompasses things. The power of the rational soul can discover the realities of things, comprehend the peculiarities of beings, and penetrate the mysteries of existence. All sciences, knowledge, arts, wonders, institutions, discoveries and enterprises come from the exercised intelligence of the rational soul.",
+        "The foremost degree of comprehension in the world of nature is that of the rational soul. This power and comprehension is shared in common by all men, whether they be heedless or aware, wayward or faithful. In the creation of God, the rational soul of man encompasses and is distinguished above all other created things: It is by virtue of its nobility and distinction that it encompasses them all. Through the power of the rational soul, man can discover the realities of things, comprehend their properties, and penetrate the mysteries of existence. All the sciences, branches of learning, arts, inventions, institutions, undertakings, and discoveries have resulted from the comprehension of the rational soul.",
+      ],
+    ],
     "importance-obligatory-prayer-fasting": [
       removeAfter("Notes"),
       ["A Compilation Prepared by the Research Department", ""],
@@ -2913,6 +2956,10 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["resist His Faith? No, by Him", "resist His Faith? Nay, by Him"],
       ["assisted by grace from on", "assisted by His grace from on"],
       ["some for yet another century", "some for another century"],
+      [
+        "And now you, if you act in accordance with the teachings of Bahá’u’lláh, may rest assured that you will be aided and confirmed. In all affairs which you undertake, you shall be rendered victorious, and all the inhabitants of the earth cannot withstand you. You are the conquerors, because the power of the Holy Spirit is your assistant. Above and over physical forces, phenomenal forces, the Holy Spirit itself shall aid you.",
+        "And now, if you act in accordance with the teachings of Bahá’u’lláh, you may rest assured that you will be aided and confirmed. You will be rendered victorious in all that you undertake, and all the inhabitants of the earth will be unable to withstand you. You are conquerors, because the power of the Holy Spirit assisteth you. Above and beyond all physical and phenomenal forces, the Holy Spirit itself shall aid you.",
+      ],
     ],
     "prayer-devotional-life": [
       removeAfter("Notes"),
