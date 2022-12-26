@@ -1,5 +1,5 @@
 {
-  "prayers-399": {
+  "prayers-401": {
     "2": {
       "refs": [
         {
@@ -5551,6 +5551,10 @@
           "paragraph": 1
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 3
+        },
+        {
           "id": "ruhi7-001",
           "paragraph": 16
         },
@@ -5575,10 +5579,15 @@
         {
           "start": 0,
           "end": 233,
-          "count": 6
+          "count": 7
         },
         {
           "start": 233,
+          "end": 288,
+          "count": 6
+        },
+        {
+          "start": 288,
           "end": 293,
           "count": 5
         },
@@ -5589,6 +5598,16 @@
         },
         {
           "start": 384,
+          "end": 386,
+          "count": 5
+        },
+        {
+          "start": 386,
+          "end": 623,
+          "count": 6
+        },
+        {
+          "start": 623,
           "end": 697,
           "count": 5
         }
@@ -5609,6 +5628,10 @@
           "paragraph": 409
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 4
+        },
+        {
           "id": "compilations-chaste-holy-life-001",
           "paragraph": 4
         },
@@ -5625,12 +5648,12 @@
         {
           "start": 0,
           "end": 108,
-          "count": 4
+          "count": 5
         },
         {
           "start": 108,
           "end": 200,
-          "count": 6
+          "count": 7
         },
         {
           "start": 200,
@@ -5639,8 +5662,13 @@
         },
         {
           "start": 505,
-          "end": 861,
+          "end": 616,
           "count": 2
+        },
+        {
+          "start": 616,
+          "end": 861,
+          "count": 3
         }
       ]
     },
@@ -7090,7 +7118,7 @@
     "90": {
       "refs": [
         {
-          "id": "abdul-baha-additional-tablets-extracts-talks-026",
+          "id": "abdul-baha-additional-tablets-extracts-talks-027",
           "paragraph": 6
         },
         {
@@ -14539,7 +14567,7 @@
       ]
     }
   },
-  "prayers-384": {
+  "prayers-386": {
     "2": {
       "refs": [
         {
@@ -14595,7 +14623,7 @@
       ]
     }
   },
-  "prayers-206": {
+  "prayers-207": {
     "1": {
       "refs": [
         {
@@ -14627,7 +14655,7 @@
       ]
     }
   },
-  "prayers-426": {
+  "prayers-428": {
     "1": {
       "refs": [
         {
@@ -14818,7 +14846,7 @@
       ]
     }
   },
-  "prayers-431": {
+  "prayers-433": {
     "2": {
       "refs": [
         {
@@ -15606,7 +15634,7 @@
       ]
     }
   },
-  "prayers-408": {
+  "prayers-410": {
     "2": {
       "refs": [
         {
@@ -17580,7 +17608,7 @@
       ]
     }
   },
-  "prayers-292": {
+  "prayers-293": {
     "1": {
       "refs": [
         {
@@ -17612,7 +17640,7 @@
       ]
     }
   },
-  "prayers-245": {
+  "prayers-246": {
     "1": {
       "refs": [
         {
@@ -17644,7 +17672,7 @@
       ]
     }
   },
-  "prayers-223": {
+  "prayers-224": {
     "1": {
       "refs": [
         {
@@ -17700,7 +17728,7 @@
       ]
     }
   },
-  "prayers-149": {
+  "prayers-150": {
     "1": {
       "refs": [
         {
@@ -17722,7 +17750,7 @@
       ]
     }
   },
-  "prayers-267": {
+  "prayers-268": {
     "1": {
       "refs": [
         {
@@ -17876,7 +17904,7 @@
     "1": {
       "refs": [
         {
-          "id": "abdul-baha-additional-tablets-extracts-talks-036",
+          "id": "abdul-baha-additional-tablets-extracts-talks-037",
           "paragraph": 2
         },
         {
@@ -18908,7 +18936,7 @@
       ]
     }
   },
-  "prayers-197": {
+  "prayers-198": {
     "1": {
       "refs": [
         {
@@ -18972,7 +19000,7 @@
       ]
     }
   },
-  "prayers-202": {
+  "prayers-203": {
     "1": {
       "refs": [
         {
@@ -19034,7 +19062,7 @@
       ]
     }
   },
-  "prayers-307": {
+  "prayers-308": {
     "1": {
       "refs": [
         {
@@ -19130,7 +19158,7 @@
       ]
     }
   },
-  "prayers-266": {
+  "prayers-267": {
     "1": {
       "refs": [
         {
@@ -19393,7 +19421,7 @@
       ]
     }
   },
-  "prayers-151": {
+  "prayers-152": {
     "1": {
       "refs": [
         {
@@ -19463,7 +19491,7 @@
       ]
     }
   },
-  "prayers-169": {
+  "prayers-170": {
     "1": {
       "refs": [
         {
@@ -19510,7 +19538,7 @@
       ]
     }
   },
-  "prayers-174": {
+  "prayers-175": {
     "1": {
       "refs": [
         {
@@ -19542,7 +19570,7 @@
       ]
     }
   },
-  "prayers-170": {
+  "prayers-171": {
     "1": {
       "refs": [
         {
@@ -19574,7 +19602,7 @@
       ]
     }
   },
-  "prayers-305": {
+  "prayers-306": {
     "1": {
       "refs": [
         {
@@ -19644,7 +19672,7 @@
       ]
     }
   },
-  "prayers-198": {
+  "prayers-199": {
     "1": {
       "refs": [
         {
@@ -19701,7 +19729,7 @@
       ]
     }
   },
-  "prayers-199": {
+  "prayers-200": {
     "1": {
       "refs": [
         {
@@ -19786,7 +19814,7 @@
       ]
     }
   },
-  "prayers-387": {
+  "prayers-389": {
     "1": {
       "refs": [
         {
@@ -19929,7 +19957,7 @@
       ]
     }
   },
-  "prayers-310": {
+  "prayers-311": {
     "1": {
       "refs": [
         {
@@ -19976,7 +20004,7 @@
       ]
     }
   },
-  "prayers-317": {
+  "prayers-318": {
     "2": {
       "refs": [
         {
@@ -20402,6 +20430,10 @@
           "paragraph": 5
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 36
+        },
+        {
           "id": "publications-individual-authors-bahaullah-new-era-021",
           "paragraph": 44
         },
@@ -20414,7 +20446,7 @@
         {
           "start": 0,
           "end": 699,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -20439,6 +20471,10 @@
         {
           "id": "the-universal-house-of-justice-messages-035",
           "paragraph": 9
+        },
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 42
         },
         {
           "id": "the-universal-house-of-justice-additional-messages-035",
@@ -20497,57 +20533,57 @@
         {
           "start": 0,
           "end": 152,
-          "count": 6
+          "count": 7
         },
         {
           "start": 152,
           "end": 161,
-          "count": 7
+          "count": 8
         },
         {
           "start": 161,
           "end": 283,
-          "count": 8
+          "count": 9
         },
         {
           "start": 283,
           "end": 326,
-          "count": 7
+          "count": 8
         },
         {
           "start": 326,
           "end": 327,
-          "count": 6
+          "count": 7
         },
         {
           "start": 327,
           "end": 360,
-          "count": 7
+          "count": 8
         },
         {
           "start": 360,
           "end": 455,
-          "count": 5
+          "count": 6
         },
         {
           "start": 455,
           "end": 464,
-          "count": 6
+          "count": 7
         },
         {
           "start": 464,
           "end": 586,
-          "count": 5
+          "count": 6
         },
         {
           "start": 586,
           "end": 587,
-          "count": 5
+          "count": 6
         },
         {
           "start": 587,
           "end": 854,
-          "count": 4
+          "count": 5
         },
         {
           "start": 854,
@@ -20890,6 +20926,10 @@
           "paragraph": 7
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 37
+        },
+        {
           "id": "the-universal-house-of-justice-messages-205",
           "paragraph": 8
         },
@@ -20918,15 +20958,20 @@
         {
           "start": 0,
           "end": 115,
-          "count": 4
+          "count": 5
         },
         {
           "start": 115,
           "end": 185,
-          "count": 4
+          "count": 5
         },
         {
           "start": 185,
+          "end": 356,
+          "count": 4
+        },
+        {
+          "start": 356,
           "end": 357,
           "count": 3
         },
@@ -21043,6 +21088,10 @@
           "paragraph": 149
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 38
+        },
+        {
           "id": "official-statements-commentaries-century-light-002",
           "paragraph": 238
         },
@@ -21139,22 +21188,22 @@
         {
           "start": 1173,
           "end": 1196,
-          "count": 9
+          "count": 10
         },
         {
           "start": 1196,
           "end": 1197,
-          "count": 8
+          "count": 9
         },
         {
           "start": 1197,
           "end": 1315,
-          "count": 9
+          "count": 10
         },
         {
           "start": 1315,
           "end": 1443,
-          "count": 8
+          "count": 9
         },
         {
           "start": 1443,
@@ -21510,7 +21559,7 @@
       ]
     }
   },
-  "prayers-246": {
+  "prayers-247": {
     "1": {
       "refs": [
         {
@@ -21597,7 +21646,7 @@
       ]
     }
   },
-  "prayers-222": {
+  "prayers-223": {
     "1": {
       "refs": [
         {
@@ -21629,7 +21678,7 @@
       ]
     }
   },
-  "prayers-260": {
+  "prayers-261": {
     "1": {
       "refs": [
         {
@@ -21718,7 +21767,7 @@
       ]
     }
   },
-  "prayers-203": {
+  "prayers-204": {
     "1": {
       "refs": [
         {
@@ -21763,7 +21812,7 @@
       ]
     }
   },
-  "prayers-152": {
+  "prayers-153": {
     "1": {
       "refs": [
         {
@@ -21804,7 +21853,7 @@
       ]
     }
   },
-  "prayers-339": {
+  "prayers-341": {
     "1": {
       "refs": [
         {
@@ -22924,7 +22973,7 @@
       ]
     }
   },
-  "prayers-177": {
+  "prayers-178": {
     "1": {
       "refs": [
         {
@@ -22976,7 +23025,7 @@
       ]
     }
   },
-  "prayers-232": {
+  "prayers-233": {
     "1": {
       "refs": [
         {
@@ -23141,7 +23190,7 @@
       ]
     }
   },
-  "prayers-210": {
+  "prayers-211": {
     "1": {
       "refs": [
         {
@@ -23203,7 +23252,7 @@
       ]
     }
   },
-  "prayers-392": {
+  "prayers-394": {
     "1": {
       "refs": [
         {
@@ -23398,7 +23447,7 @@
       ]
     }
   },
-  "prayers-304": {
+  "prayers-305": {
     "2": {
       "refs": [
         {
@@ -23519,7 +23568,7 @@
       ]
     }
   },
-  "prayers-183": {
+  "prayers-184": {
     "2": {
       "refs": [
         {
@@ -23588,7 +23637,7 @@
       ]
     }
   },
-  "prayers-147": {
+  "prayers-148": {
     "2": {
       "refs": [
         {
@@ -23637,7 +23686,7 @@
       ]
     }
   },
-  "prayers-150": {
+  "prayers-151": {
     "2": {
       "refs": [
         {
@@ -23684,7 +23733,7 @@
       ]
     }
   },
-  "prayers-313": {
+  "prayers-314": {
     "1": {
       "refs": [
         {
@@ -26495,6 +26544,10 @@
           "paragraph": 43
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 7
+        },
+        {
           "id": "compilations-trustworthiness-001",
           "paragraph": 54
         },
@@ -26524,23 +26577,28 @@
         },
         {
           "start": 15,
-          "end": 249,
+          "end": 125,
           "count": 4
+        },
+        {
+          "start": 125,
+          "end": 249,
+          "count": 5
         },
         {
           "start": 249,
           "end": 480,
-          "count": 5
+          "count": 6
         },
         {
           "start": 480,
           "end": 804,
-          "count": 4
+          "count": 5
         },
         {
           "start": 804,
           "end": 966,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -28571,6 +28629,26 @@
           "start": 190,
           "end": 191,
           "count": 2
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 60,
+          "end": 543,
+          "count": 1
+        },
+        {
+          "start": 1367,
+          "end": 1764,
+          "count": 1
         }
       ]
     },
@@ -31343,6 +31421,26 @@
         {
           "start": 693,
           "end": 1490,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 217,
+          "end": 491,
+          "count": 1
+        },
+        {
+          "start": 616,
+          "end": 733,
           "count": 1
         }
       ]
@@ -36000,7 +36098,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-001": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-027": {
     "3": {
       "refs": [
         {
@@ -39599,7 +39697,7 @@
       ]
     }
   },
-  "prayers-194": {
+  "prayers-195": {
     "1": {
       "refs": [
         {
@@ -40227,6 +40325,10 @@
     "458": {
       "refs": [
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 31
+        },
+        {
           "id": "ruhi8-001",
           "paragraph": 10
         }
@@ -40235,12 +40337,16 @@
         {
           "start": 0,
           "end": 876,
-          "count": 1
+          "count": 2
         }
       ]
     },
     "459": {
       "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 32
+        },
         {
           "id": "ruhi8-001",
           "paragraph": 12
@@ -40249,13 +40355,31 @@
       "parts": [
         {
           "start": 0,
-          "end": 945,
+          "end": 32,
+          "count": 2
+        },
+        {
+          "start": 32,
+          "end": 367,
           "count": 1
+        },
+        {
+          "start": 367,
+          "end": 945,
+          "count": 2
         }
       ]
     },
     "460": {
       "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 64
+        },
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 65
+        },
         {
           "id": "the-universal-house-of-justice-messages-210",
           "paragraph": 10
@@ -40264,12 +40388,22 @@
       "parts": [
         {
           "start": 191,
+          "end": 214,
+          "count": 2
+        },
+        {
+          "start": 214,
           "end": 215,
           "count": 1
         },
         {
           "start": 247,
           "end": 334,
+          "count": 2
+        },
+        {
+          "start": 1049,
+          "end": 1294,
           "count": 1
         }
       ]
@@ -41335,6 +41469,10 @@
           "paragraph": 25
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 39
+        },
+        {
           "id": "official-statements-commentaries-century-light-002",
           "paragraph": 165
         },
@@ -41411,13 +41549,23 @@
         },
         {
           "start": 993,
-          "end": 1009,
+          "end": 997,
+          "count": 3
+        },
+        {
+          "start": 997,
+          "end": 998,
           "count": 2
+        },
+        {
+          "start": 998,
+          "end": 1009,
+          "count": 3
         },
         {
           "start": 1009,
           "end": 1430,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -42940,19 +43088,53 @@
     "76": {
       "refs": [
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 16
+        },
+        {
           "id": "bahaullah-kitab-i-aqdas-068",
           "paragraph": 1
         }
       ],
       "parts": [
         {
+          "start": 1,
+          "end": 51,
+          "count": 1
+        },
+        {
+          "start": 108,
+          "end": 194,
+          "count": 1
+        },
+        {
+          "start": 668,
+          "end": 687,
+          "count": 1
+        },
+        {
+          "start": 728,
+          "end": 767,
+          "count": 1
+        },
+        {
           "start": 767,
           "end": 776,
+          "count": 2
+        },
+        {
+          "start": 776,
+          "end": 791,
           "count": 1
         },
         {
           "start": 791,
           "end": 899,
+          "count": 2
+        },
+        {
+          "start": 899,
+          "end": 985,
           "count": 1
         }
       ]
@@ -42994,6 +43176,10 @@
           "paragraph": 8
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 27
+        },
+        {
           "id": "ruhi8-001",
           "paragraph": 54
         },
@@ -43010,12 +43196,12 @@
         {
           "start": 0,
           "end": 998,
-          "count": 3
+          "count": 4
         },
         {
           "start": 998,
           "end": 1167,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -43038,13 +43224,13 @@
           "count": 1
         },
         {
-          "start": 841,
-          "end": 1333,
+          "start": 842,
+          "end": 1334,
           "count": 1
         },
         {
-          "start": 1340,
-          "end": 1686,
+          "start": 1341,
+          "end": 1687,
           "count": 1
         }
       ]
@@ -43107,6 +43293,10 @@
     "87": {
       "refs": [
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 21
+        },
+        {
           "id": "publications-individual-authors-bahaullah-new-era-010",
           "paragraph": 81
         }
@@ -43115,7 +43305,7 @@
         {
           "start": 122,
           "end": 390,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -43496,6 +43686,10 @@
           "paragraph": 13
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 43
+        },
+        {
           "id": "the-universal-house-of-justice-messages-285",
           "paragraph": 8
         },
@@ -43517,32 +43711,32 @@
         {
           "start": 22,
           "end": 483,
-          "count": 3
+          "count": 4
         },
         {
           "start": 483,
           "end": 600,
-          "count": 4
+          "count": 5
         },
         {
           "start": 600,
           "end": 601,
-          "count": 2
+          "count": 3
         },
         {
           "start": 601,
           "end": 609,
-          "count": 5
+          "count": 6
         },
         {
           "start": 609,
           "end": 689,
-          "count": 6
+          "count": 7
         },
         {
           "start": 689,
           "end": 800,
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -43708,6 +43902,10 @@
           "paragraph": 16
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 44
+        },
+        {
           "id": "the-universal-house-of-justice-additional-messages-035",
           "paragraph": 13
         },
@@ -43733,42 +43931,42 @@
         {
           "start": 290,
           "end": 622,
-          "count": 3
+          "count": 4
         },
         {
           "start": 622,
           "end": 773,
-          "count": 4
+          "count": 5
         },
         {
           "start": 773,
           "end": 774,
-          "count": 3
+          "count": 4
         },
         {
           "start": 774,
           "end": 792,
-          "count": 4
+          "count": 5
         },
         {
           "start": 792,
           "end": 819,
-          "count": 3
+          "count": 4
         },
         {
           "start": 819,
           "end": 1240,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1240,
           "end": 1247,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1247,
           "end": 1451,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -48065,6 +48263,10 @@
     "7": {
       "refs": [
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 46
+        },
+        {
           "id": "the-universal-house-of-justice-messages-298",
           "paragraph": 15
         },
@@ -48076,6 +48278,11 @@
       "parts": [
         {
           "start": 0,
+          "end": 278,
+          "count": 3
+        },
+        {
+          "start": 278,
           "end": 491,
           "count": 2
         },
@@ -48291,6 +48498,10 @@
           "paragraph": 12
         },
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 54
+        },
+        {
           "id": "the-universal-house-of-justice-additional-messages-035",
           "paragraph": 9
         },
@@ -48335,18 +48546,23 @@
         },
         {
           "start": 296,
-          "end": 590,
+          "end": 410,
           "count": 2
+        },
+        {
+          "start": 410,
+          "end": 590,
+          "count": 3
         },
         {
           "start": 590,
           "end": 738,
-          "count": 1
+          "count": 2
         },
         {
           "start": 738,
           "end": 1313,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -49742,6 +49958,36 @@
         {
           "start": 241,
           "end": 664,
+          "count": 1
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 166,
+          "end": 176,
+          "count": 1
+        },
+        {
+          "start": 213,
+          "end": 382,
+          "count": 1
+        },
+        {
+          "start": 587,
+          "end": 683,
+          "count": 1
+        },
+        {
+          "start": 733,
+          "end": 997,
           "count": 1
         }
       ]
@@ -52060,7 +52306,7 @@
       ]
     }
   },
-  "prayers-145": {
+  "prayers-146": {
     "1": {
       "refs": [
         {
@@ -52170,7 +52416,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-031": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-057": {
     "1": {
       "refs": [
         {
@@ -53348,7 +53594,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-095": {
+  "abdul-baha-additional-tablets-extracts-talks-096": {
     "1": {
       "refs": [
         {
@@ -53453,7 +53699,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-021": {
+  "abdul-baha-additional-tablets-extracts-talks-022": {
     "1": {
       "refs": [
         {
@@ -55847,7 +56093,7 @@
       ]
     }
   },
-  "prayers-283": {
+  "prayers-284": {
     "1": {
       "refs": [
         {
@@ -57805,6 +58051,10 @@
     "7": {
       "refs": [
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 49
+        },
+        {
           "id": "compilations-universal-house-of-justice-compilation-001",
           "paragraph": 96
         }
@@ -57813,7 +58063,7 @@
         {
           "start": 0,
           "end": 1039,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -58454,8 +58704,8 @@
           "count": 1
         },
         {
-          "start": 51,
-          "end": 362,
+          "start": 52,
+          "end": 363,
           "count": 1
         }
       ]
@@ -59312,7 +59562,7 @@
       ]
     }
   },
-  "prayers-417": {
+  "prayers-419": {
     "4": {
       "refs": [
         {
@@ -60703,6 +60953,578 @@
       ]
     }
   },
+  "additional-the-universal-house-of-justice-016": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 1
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 178
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 975,
+          "count": 2
+        },
+        {
+          "start": 975,
+          "end": 1013,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-tablets-bahaullah-036": {
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 159
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 459,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-237",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 239,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 101,
+          "count": 1
+        },
+        {
+          "start": 205,
+          "end": 410,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-bab-selections-writings-bab-078": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 10
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 16
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 287,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "abdul-baha-light-of-the-world-062": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 182,
+          "end": 1265,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "prayers-434": {
+    "8": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 29
+        }
+      ],
+      "parts": [
+        {
+          "start": 242,
+          "end": 462,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 11
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 154
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 173,
+          "count": 1
+        },
+        {
+          "start": 173,
+          "end": 885,
+          "count": 2
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 511,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 383,
+          "count": 1
+        }
+      ]
+    },
+    "24": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 516,
+          "count": 1
+        }
+      ]
+    },
+    "39": {
+      "refs": [
+        {
+          "id": "compilations-prayer-devotional-life-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 551,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-bab-selections-writings-bab-130": {
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 201,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-028": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 581,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-104": {
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 24
+        },
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 378,
+          "count": 1
+        },
+        {
+          "start": 379,
+          "end": 842,
+          "count": 1
+        },
+        {
+          "start": 1786,
+          "end": 1942,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 26
+        }
+      ],
+      "parts": [
+        {
+          "start": 140,
+          "end": 403,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-constitution-001": {
+    "3": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 21
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 154,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 28
+        },
+        {
+          "id": "ruhi8-003",
+          "paragraph": 22
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 86
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1126,
+          "count": 3
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 546,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 193,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 25
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 87
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 630,
+          "count": 2
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 26
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 285,
+          "count": 2
+        },
+        {
+          "start": 285,
+          "end": 575,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 27
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 89
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 92,
+          "count": 2
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 28
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 90
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 244,
+          "count": 2
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 29
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 91
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 609,
+          "count": 2
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-210",
+          "paragraph": 61
+        },
+        {
+          "id": "ruhi8-003",
+          "paragraph": 30
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 92
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 275,
+          "count": 2
+        },
+        {
+          "start": 275,
+          "end": 347,
+          "count": 3
+        },
+        {
+          "start": 347,
+          "end": 467,
+          "count": 2
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 31
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 93
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 747,
+          "count": 2
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 32
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 94
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 450,
+          "count": 2
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 408,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "ruhi8-003",
+          "paragraph": 35
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 95
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 857,
+          "count": 2
+        }
+      ]
+    }
+  },
   "abdul-baha-promulgation-universal-peace-135": {
     "5": {
       "refs": [
@@ -60770,6 +61592,10 @@
     "16": {
       "refs": [
         {
+          "id": "compilations-covenant-001",
+          "paragraph": 30
+        },
+        {
           "id": "official-statements-commentaries-century-light-002",
           "paragraph": 79
         },
@@ -60782,12 +61608,1074 @@
         {
           "start": 0,
           "end": 398,
+          "count": 3
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-033": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 528,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-034": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 160,
+          "count": 1
+        },
+        {
+          "start": 167,
+          "end": 284,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-020": {
+    "5": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-024",
+          "paragraph": 28
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 135
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 115,
+          "count": 1
+        },
+        {
+          "start": 121,
+          "end": 291,
+          "count": 1
+        },
+        {
+          "start": 298,
+          "end": 581,
+          "count": 1
+        },
+        {
+          "start": 581,
+          "end": 809,
+          "count": 2
+        },
+        {
+          "start": 809,
+          "end": 912,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 136
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1335,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 137
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 550,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 51
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 138
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 184,
+          "count": 2
+        },
+        {
+          "start": 184,
+          "end": 970,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 52
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 140
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 486,
+          "count": 2
+        },
+        {
+          "start": 486,
+          "end": 582,
+          "count": 1
+        },
+        {
+          "start": 582,
+          "end": 1645,
+          "count": 2
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 141
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 189,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 146
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1306,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 147
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1088,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 148
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 505,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 149
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 149
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 40,
+          "count": 1
+        },
+        {
+          "start": 40,
+          "end": 636,
+          "count": 2
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 150
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 379,
+          "count": 1
+        },
+        {
+          "start": 386,
+          "end": 708,
+          "count": 1
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 151
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1694,
+          "count": 1
+        }
+      ]
+    },
+    "22": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 152
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 262,
+          "count": 1
+        }
+      ]
+    },
+    "23": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 153
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 339,
+          "count": 1
+        }
+      ]
+    },
+    "25": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 50
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 381,
+          "count": 2
+        },
+        {
+          "start": 381,
+          "end": 1096,
+          "count": 1
+        },
+        {
+          "start": 1103,
+          "end": 1740,
+          "count": 1
+        }
+      ]
+    },
+    "26": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 156
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1228,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-035": {
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 157
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 398,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 158
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 419,
+          "count": 1
+        },
+        {
+          "start": 445,
+          "end": 574,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 159
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 235,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 160
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 524,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 161
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 181,
+          "count": 1
+        },
+        {
+          "start": 187,
+          "end": 1301,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 53
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 162
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 256,
+          "count": 2
+        },
+        {
+          "start": 256,
+          "end": 1207,
+          "count": 1
+        }
+      ]
+    },
+    "11": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 163
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 677,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 165
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 541,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 166
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 233,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 167
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 812,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 168
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 127,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 169
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 404,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 170
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 137,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 171
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 211,
+          "count": 1
+        },
+        {
+          "start": 222,
+          "end": 851,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 172
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1095,
+          "count": 1
+        },
+        {
+          "start": 1102,
+          "end": 1175,
+          "count": 1
+        },
+        {
+          "start": 1182,
+          "end": 1475,
+          "count": 1
+        },
+        {
+          "start": 1481,
+          "end": 1686,
+          "count": 1
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 55
+        },
+        {
+          "id": "ruhi8-001",
+          "paragraph": 42
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 173
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 104,
+          "count": 2
+        },
+        {
+          "start": 104,
+          "end": 401,
+          "count": 3
+        },
+        {
+          "start": 401,
+          "end": 1778,
+          "count": 2
+        }
+      ]
+    },
+    "22": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 174
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 685,
+          "count": 1
+        }
+      ]
+    },
+    "23": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 175
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1116,
+          "count": 1
+        }
+      ]
+    },
+    "24": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 176
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 618,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-185": {
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 58
+        },
+        {
+          "id": "compilations-power-divine-assistance-001",
+          "paragraph": 39
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 199,
+          "count": 1
+        },
+        {
+          "start": 199,
+          "end": 531,
           "count": 2
         }
       ]
     }
   },
-  "prayers-420": {
+  "the-universal-house-of-justice-messages-055": {
+    "25": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 59
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 615,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-035": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 367,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-029": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 62
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 415,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 63
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 149,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-193": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 317,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-030": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 67
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 288,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-031": {
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 68
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 481,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "shoghi-effendi-world-order-bahaullah-006": {
+    "12": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-messages-442",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 971,
+          "end": 1120,
+          "count": 1
+        }
+      ]
+    },
+    "25": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 69
+        }
+      ],
+      "parts": [
+        {
+          "start": 1769,
+          "end": 2268,
+          "count": 1
+        }
+      ]
+    },
+    "34": {
+      "refs": [
+        {
+          "id": "compilations-significance-formative-age-our-faith-001",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 375,
+          "count": 1
+        }
+      ]
+    },
+    "35": {
+      "refs": [
+        {
+          "id": "compilations-significance-formative-age-our-faith-001",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 586,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-126": {
+    "14": {
+      "refs": [
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 119
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 881,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 188
+        }
+      ],
+      "parts": [
+        {
+          "start": 246,
+          "end": 2070,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 189
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 664,
+          "count": 1
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 190
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 638,
+          "count": 1
+        }
+      ]
+    },
+    "22": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 191
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1648,
+          "count": 1
+        }
+      ]
+    },
+    "23": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 70
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 504,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-187": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi8-001",
+          "paragraph": 139
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 578,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi8-001",
+          "paragraph": 140
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 484,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 20
+        },
+        {
+          "id": "publications-individual-authors-bahaullah-new-era-014",
+          "paragraph": 59
+        },
+        {
+          "id": "ruhi8-001",
+          "paragraph": 141
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1,
+          "count": 1
+        },
+        {
+          "start": 1,
+          "end": 174,
+          "count": 3
+        },
+        {
+          "start": 174,
+          "end": 384,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "prayers-422": {
     "1": {
       "refs": [
         {
@@ -62273,277 +64161,6 @@
           "start": 1063,
           "end": 1168,
           "count": 5
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-constitution-001": {
-    "3": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 21
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 154,
-          "count": 1
-        }
-      ]
-    },
-    "4": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 22
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 86
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1126,
-          "count": 2
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 23
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 546,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 24
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 193,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 25
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 87
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 630,
-          "count": 2
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 26
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 88
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 285,
-          "count": 2
-        },
-        {
-          "start": 285,
-          "end": 575,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 27
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 89
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 92,
-          "count": 2
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 28
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 90
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 244,
-          "count": 2
-        }
-      ]
-    },
-    "11": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 29
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 91
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 609,
-          "count": 2
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-210",
-          "paragraph": 61
-        },
-        {
-          "id": "ruhi8-003",
-          "paragraph": 30
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 92
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 275,
-          "count": 2
-        },
-        {
-          "start": 275,
-          "end": 347,
-          "count": 3
-        },
-        {
-          "start": 347,
-          "end": 467,
-          "count": 2
-        }
-      ]
-    },
-    "13": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 31
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 93
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 747,
-          "count": 2
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 32
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 94
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 450,
-          "count": 2
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 33
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 408,
-          "count": 1
-        }
-      ]
-    },
-    "17": {
-      "refs": [
-        {
-          "id": "ruhi8-003",
-          "paragraph": 35
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 95
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 857,
-          "count": 2
         }
       ]
     }
@@ -64055,8 +65672,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 354,
+          "start": 6,
+          "end": 355,
           "count": 1
         }
       ]
@@ -64394,8 +66011,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 645,
+          "start": 6,
+          "end": 646,
           "count": 1
         }
       ]
@@ -64634,8 +66251,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 439,
+          "start": 6,
+          "end": 440,
           "count": 1
         }
       ]
@@ -64717,8 +66334,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 375,
+          "start": 6,
+          "end": 376,
           "count": 1
         }
       ]
@@ -65553,13 +67170,13 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 450,
+          "start": 6,
+          "end": 451,
           "count": 2
         },
         {
-          "start": 450,
-          "end": 766,
+          "start": 451,
+          "end": 767,
           "count": 1
         }
       ]
@@ -66306,7 +67923,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-017": {
+  "abdul-baha-additional-tablets-extracts-talks-018": {
     "1": {
       "refs": [
         {
@@ -67618,7 +69235,7 @@
       ]
     }
   },
-  "prayers-368": {
+  "prayers-370": {
     "2": {
       "refs": [
         {
@@ -67652,7 +69269,7 @@
       ]
     }
   },
-  "prayers-189": {
+  "prayers-190": {
     "1": {
       "refs": [
         {
@@ -67669,7 +69286,7 @@
       ]
     }
   },
-  "prayers-259": {
+  "prayers-260": {
     "2": {
       "refs": [
         {
@@ -67686,7 +69303,7 @@
       ]
     }
   },
-  "prayers-318": {
+  "prayers-320": {
     "3": {
       "refs": [
         {
@@ -67823,23 +69440,6 @@
           "start": 0,
           "end": 494,
           "count": 2
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-185": {
-    "2": {
-      "refs": [
-        {
-          "id": "compilations-power-divine-assistance-001",
-          "paragraph": 39
-        }
-      ],
-      "parts": [
-        {
-          "start": 199,
-          "end": 531,
-          "count": 1
         }
       ]
     }
@@ -70797,8 +72397,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 917,
+          "start": 6,
+          "end": 918,
           "count": 1
         }
       ]
@@ -70997,7 +72597,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-015": {
+  "abdul-baha-additional-tablets-extracts-talks-016": {
     "2": {
       "refs": [
         {
@@ -72667,53 +74267,6 @@
         {
           "start": 509,
           "end": 518,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-world-order-bahaullah-006": {
-    "12": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-442",
-          "paragraph": 6
-        }
-      ],
-      "parts": [
-        {
-          "start": 971,
-          "end": 1120,
-          "count": 1
-        }
-      ]
-    },
-    "34": {
-      "refs": [
-        {
-          "id": "compilations-significance-formative-age-our-faith-001",
-          "paragraph": 1
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 375,
-          "count": 1
-        }
-      ]
-    },
-    "35": {
-      "refs": [
-        {
-          "id": "compilations-significance-formative-age-our-faith-001",
-          "paragraph": 2
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 586,
           "count": 1
         }
       ]
@@ -75474,7 +77027,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-024": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-050": {
     "1": {
       "refs": [
         {
@@ -76013,7 +77566,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-014": {
+  "abdul-baha-additional-tablets-extracts-talks-015": {
     "3": {
       "refs": [
         {
@@ -76048,13 +77601,13 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 23,
+          "start": 6,
+          "end": 24,
           "count": 1
         },
         {
-          "start": 23,
-          "end": 185,
+          "start": 24,
+          "end": 186,
           "count": 2
         }
       ]
@@ -76375,8 +77928,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 699,
+          "start": 6,
+          "end": 700,
           "count": 1
         }
       ]
@@ -76580,7 +78133,7 @@
       "parts": [
         {
           "start": 0,
-          "end": 432,
+          "end": 433,
           "count": 1
         }
       ]
@@ -76852,7 +78405,7 @@
       ]
     }
   },
-  "prayers-348": {
+  "prayers-350": {
     "1": {
       "refs": [
         {
@@ -77374,7 +78927,7 @@
       ]
     }
   },
-  "prayers-425": {
+  "prayers-427": {
     "1": {
       "refs": [
         {
@@ -77649,7 +79202,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-104": {
+  "abdul-baha-additional-tablets-extracts-talks-105": {
     "1": {
       "refs": [
         {
@@ -77726,6 +79279,23 @@
           "start": 0,
           "end": 447,
           "count": 2
+        }
+      ]
+    }
+  },
+  "compilations-covenant-001": {
+    "20": {
+      "refs": [
+        {
+          "id": "bahaullah-kitab-i-aqdas-151",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 360,
+          "end": 451,
+          "count": 1
         }
       ]
     }
@@ -78238,38 +79808,6 @@
         {
           "start": 587,
           "end": 832,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "bahaullah-tablets-bahaullah-036": {
-    "2": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 159
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 459,
-          "count": 1
-        }
-      ]
-    },
-    "4": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-237",
-          "paragraph": 26
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 239,
           "count": 1
         }
       ]
@@ -81210,8 +82748,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 331,
+          "start": 6,
+          "end": 332,
           "count": 3
         }
       ]
@@ -82297,291 +83835,6 @@
         {
           "start": 0,
           "end": 198,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-020": {
-    "5": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-additional-messages-024",
-          "paragraph": 28
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 135
-        }
-      ],
-      "parts": [
-        {
-          "start": 6,
-          "end": 115,
-          "count": 1
-        },
-        {
-          "start": 121,
-          "end": 291,
-          "count": 1
-        },
-        {
-          "start": 298,
-          "end": 581,
-          "count": 1
-        },
-        {
-          "start": 581,
-          "end": 809,
-          "count": 2
-        },
-        {
-          "start": 809,
-          "end": 912,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 136
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1335,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 137
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 550,
-          "count": 1
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 138
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 970,
-          "count": 1
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 140
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1645,
-          "count": 1
-        }
-      ]
-    },
-    "11": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 141
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 189,
-          "count": 1
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 146
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1306,
-          "count": 1
-        }
-      ]
-    },
-    "17": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 147
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1088,
-          "count": 1
-        }
-      ]
-    },
-    "18": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 148
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 505,
-          "count": 1
-        }
-      ]
-    },
-    "19": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 149
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 149
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 40,
-          "count": 1
-        },
-        {
-          "start": 40,
-          "end": 636,
-          "count": 2
-        }
-      ]
-    },
-    "20": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 150
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 379,
-          "count": 1
-        },
-        {
-          "start": 386,
-          "end": 708,
-          "count": 1
-        }
-      ]
-    },
-    "21": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 151
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1694,
-          "count": 1
-        }
-      ]
-    },
-    "22": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 152
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 262,
-          "count": 1
-        }
-      ]
-    },
-    "23": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 153
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 339,
-          "count": 1
-        }
-      ]
-    },
-    "25": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 155
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1096,
-          "count": 1
-        },
-        {
-          "start": 1103,
-          "end": 1740,
-          "count": 1
-        }
-      ]
-    },
-    "26": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 156
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1228,
           "count": 1
         }
       ]
@@ -84048,8 +85301,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 147,
+          "start": 6,
+          "end": 148,
           "count": 1
         }
       ]
@@ -84540,7 +85793,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-111": {
+  "abdul-baha-additional-tablets-extracts-talks-112": {
     "1": {
       "refs": [
         {
@@ -86411,7 +87664,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-006": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-032": {
     "1": {
       "refs": [
         {
@@ -86515,7 +87768,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-092": {
+  "abdul-baha-additional-tablets-extracts-talks-093": {
     "3": {
       "refs": [
         {
@@ -91120,7 +92373,7 @@
       ]
     }
   },
-  "prayers-249": {
+  "prayers-250": {
     "1": {
       "refs": [
         {
@@ -91152,7 +92405,7 @@
       ]
     }
   },
-  "prayers-148": {
+  "prayers-149": {
     "1": {
       "refs": [
         {
@@ -91186,7 +92439,7 @@
       ]
     }
   },
-  "prayers-179": {
+  "prayers-180": {
     "1": {
       "refs": [
         {
@@ -91220,7 +92473,7 @@
       ]
     }
   },
-  "prayers-430": {
+  "prayers-432": {
     "1": {
       "refs": [
         {
@@ -92077,8 +93330,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 231,
+          "start": 6,
+          "end": 232,
           "count": 2
         }
       ]
@@ -92535,7 +93788,7 @@
       ]
     }
   },
-  "prayers-427": {
+  "prayers-429": {
     "3": {
       "refs": [
         {
@@ -95630,7 +96883,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-025": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-051": {
     "1": {
       "refs": [
         {
@@ -99189,67 +100442,6 @@
       ]
     }
   },
-  "abdul-baha-selections-writings-abdul-baha-187": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi8-001",
-          "paragraph": 139
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 578,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "ruhi8-001",
-          "paragraph": 140
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 484,
-          "count": 1
-        }
-      ]
-    },
-    "3": {
-      "refs": [
-        {
-          "id": "publications-individual-authors-bahaullah-new-era-014",
-          "paragraph": 59
-        },
-        {
-          "id": "ruhi8-001",
-          "paragraph": 141
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1,
-          "count": 1
-        },
-        {
-          "start": 1,
-          "end": 174,
-          "count": 2
-        },
-        {
-          "start": 174,
-          "end": 384,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-bahaullah-124": {
     "1": {
       "refs": [
@@ -101606,28 +102798,23 @@
       ],
       "parts": [
         {
-          "start": 0,
-          "end": 5,
-          "count": 1
-        },
-        {
-          "start": 5,
-          "end": 158,
+          "start": 6,
+          "end": 159,
           "count": 2
         },
         {
-          "start": 158,
-          "end": 311,
+          "start": 159,
+          "end": 312,
           "count": 1
         },
         {
-          "start": 311,
-          "end": 499,
+          "start": 312,
+          "end": 500,
           "count": 2
         },
         {
-          "start": 499,
-          "end": 834,
+          "start": 500,
+          "end": 835,
           "count": 1
         }
       ]
@@ -102719,8 +103906,8 @@
       ],
       "parts": [
         {
-          "start": 5,
-          "end": 989,
+          "start": 6,
+          "end": 990,
           "count": 1
         }
       ]
@@ -104241,7 +105428,7 @@
       ]
     }
   },
-  "prayers-188": {
+  "prayers-189": {
     "1": {
       "refs": [
         {
@@ -104636,7 +105823,7 @@
       ]
     }
   },
-  "prayers-201": {
+  "prayers-202": {
     "1": {
       "refs": [
         {
@@ -105037,7 +106224,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-005": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-031": {
     "1": {
       "refs": [
         {
@@ -105054,7 +106241,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-004": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-030": {
     "1": {
       "refs": [
         {
@@ -105071,7 +106258,7 @@
       ]
     }
   },
-  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-019": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-045": {
     "1": {
       "refs": [
         {
@@ -105590,7 +106777,7 @@
       ]
     }
   },
-  "prayers-268": {
+  "prayers-269": {
     "1": {
       "refs": [
         {
@@ -109887,7 +111074,7 @@
       ]
     }
   },
-  "prayers-429": {
+  "prayers-431": {
     "5": {
       "refs": [
         {
@@ -110481,7 +111668,7 @@
       ]
     }
   },
-  "prayers-239": {
+  "prayers-240": {
     "1": {
       "refs": [
         {
@@ -112282,7 +113469,7 @@
       ]
     }
   },
-  "prayers-377": {
+  "prayers-379": {
     "1": {
       "refs": [
         {
@@ -112358,14 +113545,14 @@
       ],
       "parts": [
         {
-          "start": 9,
-          "end": 804,
+          "start": 10,
+          "end": 805,
           "count": 1
         }
       ]
     }
   },
-  "prayers-341": {
+  "prayers-343": {
     "1": {
       "refs": [
         {
@@ -112423,7 +113610,7 @@
       ]
     }
   },
-  "prayers-366": {
+  "prayers-368": {
     "4": {
       "refs": [
         {
@@ -112440,7 +113627,7 @@
       ]
     }
   },
-  "prayers-340": {
+  "prayers-342": {
     "3": {
       "refs": [
         {
@@ -113546,7 +114733,7 @@
       ]
     }
   },
-  "prayers-155": {
+  "prayers-156": {
     "2": {
       "refs": [
         {
@@ -113660,7 +114847,7 @@
       ]
     }
   },
-  "prayers-144": {
+  "prayers-145": {
     "1": {
       "refs": [
         {
@@ -113733,7 +114920,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-003": {
+  "abdul-baha-additional-tablets-extracts-talks-004": {
     "1": {
       "refs": [
         {
@@ -113816,337 +115003,6 @@
         {
           "start": 0,
           "end": 515,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-035": {
-    "5": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 157
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 398,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 158
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 419,
-          "count": 1
-        },
-        {
-          "start": 445,
-          "end": 574,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 159
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 235,
-          "count": 1
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 160
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 524,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 161
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 181,
-          "count": 1
-        },
-        {
-          "start": 187,
-          "end": 1301,
-          "count": 1
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 162
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1207,
-          "count": 1
-        }
-      ]
-    },
-    "11": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 163
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 677,
-          "count": 1
-        }
-      ]
-    },
-    "13": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 165
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 541,
-          "count": 1
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 166
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 233,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 167
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 812,
-          "count": 1
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 168
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 127,
-          "count": 1
-        }
-      ]
-    },
-    "17": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 169
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 404,
-          "count": 1
-        }
-      ]
-    },
-    "18": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 170
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 137,
-          "count": 1
-        }
-      ]
-    },
-    "19": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 171
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 211,
-          "count": 1
-        },
-        {
-          "start": 222,
-          "end": 851,
-          "count": 1
-        }
-      ]
-    },
-    "20": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 172
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1095,
-          "count": 1
-        },
-        {
-          "start": 1102,
-          "end": 1175,
-          "count": 1
-        },
-        {
-          "start": 1182,
-          "end": 1475,
-          "count": 1
-        },
-        {
-          "start": 1481,
-          "end": 1686,
-          "count": 1
-        }
-      ]
-    },
-    "21": {
-      "refs": [
-        {
-          "id": "ruhi8-001",
-          "paragraph": 42
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 173
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 104,
-          "count": 1
-        },
-        {
-          "start": 104,
-          "end": 401,
-          "count": 2
-        },
-        {
-          "start": 401,
-          "end": 1778,
-          "count": 1
-        }
-      ]
-    },
-    "22": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 174
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 685,
-          "count": 1
-        }
-      ]
-    },
-    "23": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 175
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1116,
-          "count": 1
-        }
-      ]
-    },
-    "24": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 176
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 618,
           "count": 1
         }
       ]
@@ -119193,7 +120049,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-036": {
+  "abdul-baha-additional-tablets-extracts-talks-037": {
     "1": {
       "refs": [
         {
@@ -120568,7 +121424,7 @@
       ]
     }
   },
-  "prayers-254": {
+  "prayers-255": {
     "2": {
       "refs": [
         {
@@ -120630,7 +121486,7 @@
       ]
     }
   },
-  "prayers-143": {
+  "prayers-144": {
     "1": {
       "refs": [
         {
@@ -122088,7 +122944,7 @@
       ]
     }
   },
-  "prayers-231": {
+  "prayers-232": {
     "2": {
       "refs": [
         {
@@ -122810,7 +123666,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-030": {
+  "abdul-baha-additional-tablets-extracts-talks-031": {
     "1": {
       "refs": [
         {
@@ -123244,7 +124100,7 @@
       ]
     }
   },
-  "prayers-303": {
+  "prayers-304": {
     "4": {
       "refs": [
         {
@@ -123306,7 +124162,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-032": {
+  "abdul-baha-additional-tablets-extracts-talks-033": {
     "1": {
       "refs": [
         {
@@ -123554,7 +124410,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-042": {
+  "abdul-baha-additional-tablets-extracts-talks-043": {
     "1": {
       "refs": [
         {
@@ -123782,92 +124638,6 @@
       ]
     }
   },
-  "prayers-432": {
-    "8": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 29
-        }
-      ],
-      "parts": [
-        {
-          "start": 242,
-          "end": 462,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 11
-        },
-        {
-          "id": "world-centre-bahai-org-001",
-          "paragraph": 154
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 173,
-          "count": 1
-        },
-        {
-          "start": 173,
-          "end": 885,
-          "count": 2
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 12
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 511,
-          "count": 1
-        }
-      ]
-    },
-    "17": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 13
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 383,
-          "count": 1
-        }
-      ]
-    },
-    "39": {
-      "refs": [
-        {
-          "id": "compilations-prayer-devotional-life-001",
-          "paragraph": 20
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 551,
-          "count": 1
-        }
-      ]
-    }
-  },
   "abdul-baha-some-answered-questions-061": {
     "7": {
       "refs": [
@@ -123985,7 +124755,7 @@
       ]
     }
   },
-  "prayers-374": {
+  "prayers-376": {
     "2": {
       "refs": [
         {
@@ -124197,7 +124967,7 @@
       ]
     }
   },
-  "prayers-294": {
+  "prayers-295": {
     "1": {
       "refs": [
         {
@@ -124278,7 +125048,7 @@
       ]
     }
   },
-  "prayers-413": {
+  "prayers-415": {
     "4": {
       "refs": [
         {
@@ -124421,7 +125191,7 @@
       ]
     }
   },
-  "prayers-300": {
+  "prayers-301": {
     "2": {
       "refs": [
         {
@@ -124438,7 +125208,7 @@
       ]
     }
   },
-  "prayers-376": {
+  "prayers-378": {
     "1": {
       "refs": [
         {
@@ -124455,7 +125225,7 @@
       ]
     }
   },
-  "prayers-196": {
+  "prayers-197": {
     "1": {
       "refs": [
         {
@@ -125556,7 +126326,7 @@
       ]
     }
   },
-  "prayers-422": {
+  "prayers-424": {
     "2": {
       "refs": [
         {
@@ -125631,7 +126401,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-093": {
+  "abdul-baha-additional-tablets-extracts-talks-094": {
     "1": {
       "refs": [
         {
@@ -125682,7 +126452,7 @@
       ]
     }
   },
-  "prayers-236": {
+  "prayers-237": {
     "3": {
       "refs": [
         {
@@ -128289,7 +129059,7 @@
       ]
     }
   },
-  "prayers-347": {
+  "prayers-349": {
     "2": {
       "refs": [
         {
@@ -128816,83 +129586,6 @@
         {
           "start": 0,
           "end": 578,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-126": {
-    "14": {
-      "refs": [
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 119
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 881,
-          "count": 1
-        }
-      ]
-    },
-    "19": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 188
-        }
-      ],
-      "parts": [
-        {
-          "start": 246,
-          "end": 2070,
-          "count": 1
-        }
-      ]
-    },
-    "20": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 189
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 664,
-          "count": 1
-        }
-      ]
-    },
-    "21": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 190
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 638,
-          "count": 1
-        }
-      ]
-    },
-    "22": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 191
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1648,
           "count": 1
         }
       ]
@@ -130185,7 +130878,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-106": {
+  "abdul-baha-additional-tablets-extracts-talks-107": {
     "1": {
       "refs": [
         {
@@ -130666,7 +131359,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-001": {
+  "abdul-baha-additional-tablets-extracts-talks-002": {
     "1": {
       "refs": [
         {
@@ -131622,7 +132315,7 @@
       ]
     }
   },
-  "prayers-395": {
+  "prayers-397": {
     "2": {
       "refs": [
         {
@@ -131963,7 +132656,7 @@
       ]
     }
   },
-  "additional-bahaullah-134": {
+  "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah-009": {
     "1": {
       "refs": [
         {
@@ -132020,7 +132713,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-099": {
+  "abdul-baha-additional-tablets-extracts-talks-100": {
     "1": {
       "refs": [
         {
@@ -132811,23 +133504,6 @@
         {
           "start": 33,
           "end": 915,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-016": {
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 178
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1013,
           "count": 1
         }
       ]
@@ -134128,7 +134804,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-048": {
+  "abdul-baha-additional-tablets-extracts-talks-049": {
     "1": {
       "refs": [
         {
@@ -134145,7 +134821,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-049": {
+  "abdul-baha-additional-tablets-extracts-talks-050": {
     "1": {
       "refs": [
         {
@@ -134495,7 +135171,7 @@
       ]
     }
   },
-  "prayers-350": {
+  "prayers-352": {
     "4": {
       "refs": [
         {
@@ -134716,7 +135392,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-028": {
+  "abdul-baha-additional-tablets-extracts-talks-029": {
     "1": {
       "refs": [
         {
@@ -134733,7 +135409,7 @@
       ]
     }
   },
-  "abdul-baha-additional-tablets-extracts-talks-029": {
+  "abdul-baha-additional-tablets-extracts-talks-030": {
     "1": {
       "refs": [
         {
@@ -134940,7 +135616,7 @@
       ]
     }
   },
-  "prayers-409": {
+  "prayers-411": {
     "5": {
       "refs": [
         {
@@ -134957,7 +135633,7 @@
       ]
     }
   },
-  "prayers-356": {
+  "prayers-358": {
     "2": {
       "refs": [
         {
@@ -134974,7 +135650,7 @@
       ]
     }
   },
-  "prayers-216": {
+  "prayers-217": {
     "1": {
       "refs": [
         {
@@ -134991,7 +135667,7 @@
       ]
     }
   },
-  "prayers-401": {
+  "prayers-403": {
     "3": {
       "refs": [
         {
@@ -135008,7 +135684,7 @@
       ]
     }
   },
-  "prayers-282": {
+  "prayers-283": {
     "2": {
       "refs": [
         {
@@ -135025,7 +135701,7 @@
       ]
     }
   },
-  "prayers-234": {
+  "prayers-235": {
     "2": {
       "refs": [
         {
@@ -135042,7 +135718,7 @@
       ]
     }
   },
-  "prayers-319": {
+  "prayers-321": {
     "1": {
       "refs": [
         {
@@ -135059,7 +135735,7 @@
       ]
     }
   },
-  "prayers-404": {
+  "prayers-406": {
     "7": {
       "refs": [
         {
@@ -135182,23 +135858,6 @@
         {
           "start": 0,
           "end": 461,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-bab-selections-writings-bab-078": {
-    "2": {
-      "refs": [
-        {
-          "id": "world-centre-bahai-org-001",
-          "paragraph": 16
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 287,
           "count": 1
         }
       ]

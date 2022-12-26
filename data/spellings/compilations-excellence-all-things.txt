@@ -10,11 +10,11 @@ Revised November 1990
 
 From the Writings of Bahá’u’lláh
 
-. . .Say: Beware, O people of Bahá, lest ye walk in the ways of them whose words differ from their deeds. Strive that ye may be enabled to manifest to the peoples of the earth the signs of God, and to mirror forth His commandments. Let your acts be a guide unto all mankind, for the professions of most men, be they high or low, differ from their conduct. It is through your deeds that ye can distinguish yourselves from others. Through them the brightness of your light can be shed upon the whole earth. Happy is the man that heedeth My counsel, and keepeth the precepts prescribed by Him Who is the All‑Knowing, the All‑Wise.
+. . . Say: Beware, O people of Bahá, lest ye walk in the ways of them whose words differ from their deeds. Strive that ye may be enabled to manifest to the peoples of the earth the signs of God, and to mirror forth His commandments. Let your acts be a guide unto all mankind, for the professions of most men, be they high or low, differ from their conduct. It is through your deeds that ye can distinguish yourselves from others. Through them the brightness of your light can be shed upon the whole earth. Happy is the man that heedeth My counsel, and keepeth the precepts prescribed by Him Who is the All‑Knowing, the All‑Wise.
 
 (“Gleanings from the Writings of Bahá’u’lláh”, rev. ed. (Wilmette: Bahá’í Publishing Trust, 1984), sec. 139, p. 305) [1]
 
-. . .Let each morn be better than its eve and each morrow richer than its yesterday. Man’s merit lieth in service and virtue and not in the pageantry of wealth and riches. . . . Guard against idleness and sloth, and cling unto that which profiteth mankind, whether young or old, whether high or low. . . .
+. . . Let each morn be better than its eve and each morrow richer than its yesterday. Man’s merit lieth in service and virtue and not in the pageantry of wealth and riches. . . . Guard against idleness and sloth, and cling unto that which profiteth mankind, whether young or old, whether high or low. . . .
 
 (“Tablets of Bahá’u’lláh Revealed after the Kitáb‑i‑Aqdas”, (Wilmette: Bahá’í Publishing Trust, 1988), p. 138) [2]
 
@@ -56,7 +56,7 @@ Wherefore, O loved ones of God! Make ye a mighty effort till you yourselves beto
 
 (“Selections from the Writings of ‘Abdu’l‑Bahá”, sec. 102, p. 129) [10]
 
-. . .They must be constantly encouraged and made eager to gain all the summits of human accomplishment, so that from their earliest years they will be taught to have high aims, to conduct themselves well, to be chaste, pure, and undefiled, and will learn to be of powerful resolve and firm of purpose in all things. . . .
+. . . They must be constantly encouraged and made eager to gain all the summits of human accomplishment, so that from their earliest years they will be taught to have high aims, to conduct themselves well, to be chaste, pure, and undefiled, and will learn to be of powerful resolve and firm of purpose in all things. . . .
 
 (“Selections from the Writings of ‘Abdu’l‑Bahá”, sec. 110, p. 135) [11]
 
@@ -88,7 +88,7 @@ Now amidst all the peoples of the world must the beloved arise, with a heart eve
 
 (“Selections from the Writings of ‘Abdu’l‑Bahá”, sec. 193, p. 232) [17]
 
-. . .I beg of Him to bestow His confirmations upon those loved ones, dwellers in that pure and holy land, and to grant them successful outcomes in all things: that in their character, their behaviour, their words, their way of life, in all they are and do, He will make them to achieve distinction among men; that He will gather them into the world community, their hearts filled with ecstasy and fervour and yearning love, with knowledge and certitude, with steadfastness and unity, their faces beauteous and bright.
+. . . I beg of Him to bestow His confirmations upon those loved ones, dwellers in that pure and holy land, and to grant them successful outcomes in all things: that in their character, their behaviour, their words, their way of life, in all they are and do, He will make them to achieve distinction among men; that He will gather them into the world community, their hearts filled with ecstasy and fervour and yearning love, with knowledge and certitude, with steadfastness and unity, their faces beauteous and bright.
 
 (“Selections from the Writings of ‘Abdu’l‑Bahá”, sec. 207, p. 260) [18]
 
@@ -122,13 +122,13 @@ It is clear that learning is the greatest bestowal of God; that knowledge and th
 
 [25]
 
-. . .O loving friends! Exert every effort to acquire the various branches of knowledge and true understanding. Strain every nerve to achieve both material and spiritual accomplishments.
+. . . O loving friends! Exert every effort to acquire the various branches of knowledge and true understanding. Strain every nerve to achieve both material and spiritual accomplishments.
 
 Encourage the children from their earliest years to master every kind of learning, and make them eager to become skilled in every art—the aim being that through the favouring grace of God, the heart of each one may become even as a mirror disclosing the secrets of the universe, penetrating the innermost reality of all things; and that each may earn world‑wide fame in all branches of knowledge, science and the arts.
 
 [26]
 
-. . .Utilise every means to make this School a garden of the All‑Merciful, from which the lights of learning will cast their beams, and wherein the children, whether Bahá’í or other, will be educated to such a degree as to become God’s gifts to man, and the pride of the human race. Let them make the greatest progress in the shortest span of time, let them open wide their eyes and uncover the inner realities of all things, become proficient in every art and skill, and learn to comprehend the secrets of all things even as they are—this faculty being one of the clearly evident effects of servitude to the Holy Threshold.
+. . . Utilise every means to make this School a garden of the All‑Merciful, from which the lights of learning will cast their beams, and wherein the children, whether Bahá’í or other, will be educated to such a degree as to become God’s gifts to man, and the pride of the human race. Let them make the greatest progress in the shortest span of time, let them open wide their eyes and uncover the inner realities of all things, become proficient in every art and skill, and learn to comprehend the secrets of all things even as they are—this faculty being one of the clearly evident effects of servitude to the Holy Threshold.
 
 [27]
 
@@ -154,7 +154,7 @@ I hope that while you are studying in this college you may so excel all other st
 
 (“Star of the West”, vol. 9, no. 9 (20 August 1918), pp. 98—99) [32]
 
-. . .I hope that through the favour and bounty of the Blessed Beauty, his holiness the Báb, and the ineffable blessings which hallow this holy shrine, the confirmations of the Kingdom of Abhá may encircle you, and that you may be characterised with the shining qualities and brilliant attributes of the Bahá’í life. May your morality become more defined day by day! May your faith and assurance be increased day by day! May your attraction to the Kingdom of Abhá be intensified day by day! May your attainment in sciences and arts become more universal day by day! Perchance, God willing, you may become perfect and accomplished from every standpoint and be the means of the enlightenment of Persia.
+. . . I hope that through the favour and bounty of the Blessed Beauty, his holiness the Báb, and the ineffable blessings which hallow this holy shrine, the confirmations of the Kingdom of Abhá may encircle you, and that you may be characterised with the shining qualities and brilliant attributes of the Bahá’í life. May your morality become more defined day by day! May your faith and assurance be increased day by day! May your attraction to the Kingdom of Abhá be intensified day by day! May your attainment in sciences and arts become more universal day by day! Perchance, God willing, you may become perfect and accomplished from every standpoint and be the means of the enlightenment of Persia.
 
 (“Star of the West”, vol. 9, no. 9 (20 August 1918), pp. 99—100) [33]
 
@@ -236,7 +236,7 @@ He feels that the youth, in particular, must constantly and determinedly strive 
 
 (19 September 1946 to the Bahá’í youth attending the Green Acre Summer School) [51]
 
-. . .The eyes of the people of the world are beginning to be focused on us; and, as humanity’s plight goes from bad to worse, we will be watched ever more intently by non‑Bahá’ís, to see whether we do uphold our own institutions whole‑heartedly; whether we are the people of the new creation or not; whether we live up to our beliefs, principles and laws in deed as well as word. We cannot be too careful. We cannot be too exemplary.
+. . . The eyes of the people of the world are beginning to be focused on us; and, as humanity’s plight goes from bad to worse, we will be watched ever more intently by non‑Bahá’ís, to see whether we do uphold our own institutions whole‑heartedly; whether we are the people of the new creation or not; whether we live up to our beliefs, principles and laws in deed as well as word. We cannot be too careful. We cannot be too exemplary.
 
 (5 August 1955 to the National Spiritual Assembly of the British Isles, published in “Unfolding Destiny: The Messages from the Guardian of the Bahá’í Faith to the Bahá’í Community of the British Isles” (London: Bahá’í Publishing Trust, 1981), p. 350) [52]
 
