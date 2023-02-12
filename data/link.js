@@ -366,7 +366,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
     };
   }, {});
   await fs.promises.writeFile(
-    `./src/data/documents.json`,
+    `./server/data/documents.json`,
     prettify(JSON.stringify(documentMap, null, 2), "json"),
     "utf-8"
   );
@@ -406,13 +406,8 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
     })
   );
   await fs.promises.writeFile(
-    `./src/data/quotes.json`,
+    `./server/data/quotes.json`,
     prettify(JSON.stringify(quoteMap, null, 2), "json"),
     "utf-8"
-  );
-
-  await fs.promises.copyFile(
-    "./data/process/prayers.json",
-    "./src/data/prayers.json"
   );
 })();

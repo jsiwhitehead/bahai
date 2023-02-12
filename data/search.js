@@ -11,10 +11,10 @@ const normaliseString = (s) =>
 
 (async () => {
   const documents = JSON.parse(
-    await fs.promises.readFile(`./src/data/documents.json`, "utf-8")
+    await fs.promises.readFile(`./server/data/documents.json`, "utf-8")
   );
   const quotes = JSON.parse(
-    await fs.promises.readFile(`./src/data/quotes.json`, "utf-8")
+    await fs.promises.readFile(`./server/data/quotes.json`, "utf-8")
   );
   const documentsList = Object.keys(documents)
     .map((k) => documents[k])
@@ -91,7 +91,7 @@ const normaliseString = (s) =>
   const searchIndex = searchBuilder.build();
 
   await fs.promises.writeFile(
-    `./src/data/search.json`,
+    `./server/data/search.json`,
     JSON.stringify(searchIndex),
     "utf-8"
   );

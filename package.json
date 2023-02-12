@@ -10,20 +10,25 @@
     "format": "node ./data/format.js",
     "process": "node ./data/process.js",
     "link": "node ./data/link.js",
-    "search": "node ./data/search.js"
+    "search": "node ./data/search.js",
+    "server": "node ./server/index.js"
   },
   "devDependencies": {
-    "fs-extra": "^10.1.0",
-    "node-fetch": "^3.2.10",
-    "parse5": "^7.1.1",
-    "prettier": "^2.7.1",
-    "typescript": "^4.8.4",
-    "vite": "^3.2.3"
+    "fs-extra": "^11.1.0",
+    "node-fetch": "^3.3.0",
+    "parse5": "^7.1.2",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.1"
   },
   "dependencies": {
+    "@koa/cors": "^4.0.0",
     "history": "^5.3.0",
+    "koa": "^2.14.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^12.0.0",
     "lunr": "^2.3.9",
-    "ohm-js": "^16.4.0",
+    "ohm-js": "^16.6.0",
     "reactivejs": "github:jsiwhitehead/reactivejs",
     "webfontloader": "^1.6.28"
   }

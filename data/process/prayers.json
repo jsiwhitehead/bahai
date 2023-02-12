@@ -358,6 +358,34 @@
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
+    "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
+    "length": 355,
+    "paragraphs": [
+      {
+        "index": 1,
+        "text": "O Lord! Bless this family and grant it happiness in both this world and the world to come. Confirm this distinguished person in the greatest service to the human world, which is the unity of all mankind, that he may attain to Thy good‑pleasure in this world and obtain a bounteous portion from the surging ocean of divine outpourings in this luminous age."
+      }
+    ]
+  },
+  {
+    "item": 24,
+    "type": "Prayer",
+    "years": [1853, 1892],
+    "author": "Bahá’u’lláh",
+    "path": ["Additional Prayers Revealed by Bahá’u’lláh"],
+    "length": 359,
+    "paragraphs": [
+      {
+        "index": 1,
+        "text": "I swear by Thy glory, O my God! I am astonished at them and at that which they have manifested in the path of Thy love. Blessings and joy be upon them! . . . Methinks Thou didst fashion them for Thy love and didst single them out for attraction to Thee; Thou didst infuse into them the spirit of Thy Cause and didst reveal unto them the beauty of Thy oneness."
+      }
+    ]
+  },
+  {
+    "item": 25,
+    "type": "Prayer",
+    "years": [1892, 1921],
+    "author": "‘Abdu’l‑Bahá",
     "path": ["Bahá’í Prayers"],
     "categories": ["Children"],
     "length": 362,
@@ -369,7 +397,7 @@
     ]
   },
   {
-    "item": 24,
+    "item": 26,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -384,7 +412,7 @@
     ]
   },
   {
-    "item": 25,
+    "item": 27,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -406,7 +434,7 @@
     ]
   },
   {
-    "item": 26,
+    "item": 28,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -420,7 +448,7 @@
     ]
   },
   {
-    "item": 27,
+    "item": 29,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -434,7 +462,7 @@
     ]
   },
   {
-    "item": 28,
+    "item": 30,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -449,7 +477,7 @@
     ]
   },
   {
-    "item": 29,
+    "item": 31,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -464,7 +492,7 @@
     ]
   },
   {
-    "item": 30,
+    "item": 32,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -479,7 +507,7 @@
     ]
   },
   {
-    "item": 31,
+    "item": 33,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -494,7 +522,7 @@
     ]
   },
   {
-    "item": 32,
+    "item": 34,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -509,7 +537,7 @@
     ]
   },
   {
-    "item": 33,
+    "item": 35,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -528,7 +556,7 @@
     ]
   },
   {
-    "item": 34,
+    "item": 36,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -550,7 +578,7 @@
     ]
   },
   {
-    "item": 35,
+    "item": 37,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -568,7 +596,7 @@
     ]
   },
   {
-    "item": 36,
+    "item": 38,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -583,7 +611,7 @@
     ]
   },
   {
-    "item": 37,
+    "item": 39,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -605,7 +633,7 @@
     ]
   },
   {
-    "item": 38,
+    "item": 40,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -624,7 +652,7 @@
     ]
   },
   {
-    "item": 39,
+    "item": 41,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -638,7 +666,7 @@
     ]
   },
   {
-    "item": 40,
+    "item": 42,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -660,7 +688,7 @@
     ]
   },
   {
-    "item": 41,
+    "item": 43,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -679,7 +707,7 @@
     ]
   },
   {
-    "item": 42,
+    "item": 44,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -698,7 +726,7 @@
     ]
   },
   {
-    "item": 43,
+    "item": 45,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -717,7 +745,7 @@
     ]
   },
   {
-    "item": 44,
+    "item": 46,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -740,7 +768,7 @@
     ]
   },
   {
-    "item": 45,
+    "item": 47,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -759,7 +787,7 @@
     ]
   },
   {
-    "item": 46,
+    "item": 48,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -781,7 +809,7 @@
     ]
   },
   {
-    "item": 47,
+    "item": 49,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -803,7 +831,7 @@
     ]
   },
   {
-    "item": 48,
+    "item": 50,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -826,7 +854,7 @@
     ]
   },
   {
-    "item": 49,
+    "item": 51,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -844,7 +872,7 @@
     ]
   },
   {
-    "item": 50,
+    "item": 52,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -863,7 +891,7 @@
     ]
   },
   {
-    "item": 51,
+    "item": 53,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -878,7 +906,7 @@
     ]
   },
   {
-    "item": 52,
+    "item": 54,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -893,7 +921,7 @@
     ]
   },
   {
-    "item": 53,
+    "item": 55,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -924,7 +952,7 @@
     ]
   },
   {
-    "item": 54,
+    "item": 56,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -938,7 +966,7 @@
     ]
   },
   {
-    "item": 55,
+    "item": 57,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -957,7 +985,7 @@
     ]
   },
   {
-    "item": 56,
+    "item": 58,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -971,7 +999,7 @@
     ]
   },
   {
-    "item": 57,
+    "item": 59,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -990,7 +1018,7 @@
     ]
   },
   {
-    "item": 58,
+    "item": 60,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1008,7 +1036,7 @@
     ]
   },
   {
-    "item": 59,
+    "item": 61,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1023,7 +1051,7 @@
     ]
   },
   {
-    "item": 60,
+    "item": 62,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1042,7 +1070,7 @@
     ]
   },
   {
-    "item": 61,
+    "item": 63,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1060,7 +1088,7 @@
     ]
   },
   {
-    "item": 62,
+    "item": 64,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1078,7 +1106,7 @@
     ]
   },
   {
-    "item": 63,
+    "item": 65,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1101,7 +1129,7 @@
     ]
   },
   {
-    "item": 64,
+    "item": 66,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1115,7 +1143,7 @@
     ]
   },
   {
-    "item": 65,
+    "item": 67,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1130,7 +1158,7 @@
     ]
   },
   {
-    "item": 66,
+    "item": 68,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1144,7 +1172,7 @@
     ]
   },
   {
-    "item": 67,
+    "item": 69,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1163,7 +1191,7 @@
     ]
   },
   {
-    "item": 68,
+    "item": 70,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1178,7 +1206,7 @@
     ]
   },
   {
-    "item": 69,
+    "item": 71,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1200,7 +1228,7 @@
     ]
   },
   {
-    "item": 70,
+    "item": 72,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1218,7 +1246,7 @@
     ]
   },
   {
-    "item": 71,
+    "item": 73,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1236,7 +1264,7 @@
     ]
   },
   {
-    "item": 72,
+    "item": 74,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1254,7 +1282,7 @@
     ]
   },
   {
-    "item": 73,
+    "item": 75,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1273,7 +1301,7 @@
     ]
   },
   {
-    "item": 74,
+    "item": 76,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1296,7 +1324,7 @@
     ]
   },
   {
-    "item": 75,
+    "item": 77,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1314,7 +1342,7 @@
     ]
   },
   {
-    "item": 76,
+    "item": 78,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1332,7 +1360,7 @@
     ]
   },
   {
-    "item": 77,
+    "item": 79,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1351,7 +1379,7 @@
     ]
   },
   {
-    "item": 78,
+    "item": 80,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1366,7 +1394,7 @@
     ]
   },
   {
-    "item": 79,
+    "item": 81,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1388,7 +1416,7 @@
     ]
   },
   {
-    "item": 80,
+    "item": 82,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1407,7 +1435,7 @@
     ]
   },
   {
-    "item": 81,
+    "item": 83,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1421,7 +1449,7 @@
     ]
   },
   {
-    "item": 82,
+    "item": 84,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1443,7 +1471,7 @@
     ]
   },
   {
-    "item": 83,
+    "item": 85,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1466,7 +1494,7 @@
     ]
   },
   {
-    "item": 84,
+    "item": 86,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1480,7 +1508,7 @@
     ]
   },
   {
-    "item": 85,
+    "item": 87,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1494,7 +1522,7 @@
     ]
   },
   {
-    "item": 86,
+    "item": 88,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1509,7 +1537,7 @@
     ]
   },
   {
-    "item": 87,
+    "item": 89,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1531,7 +1559,7 @@
     ]
   },
   {
-    "item": 88,
+    "item": 90,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1545,7 +1573,7 @@
     ]
   },
   {
-    "item": 89,
+    "item": 91,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1560,7 +1588,7 @@
     ]
   },
   {
-    "item": 90,
+    "item": 92,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1574,7 +1602,7 @@
     ]
   },
   {
-    "item": 91,
+    "item": 93,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1592,7 +1620,7 @@
     ]
   },
   {
-    "item": 92,
+    "item": 94,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1607,7 +1635,7 @@
     ]
   },
   {
-    "item": 93,
+    "item": 95,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1629,7 +1657,7 @@
     ]
   },
   {
-    "item": 94,
+    "item": 96,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1647,7 +1675,7 @@
     ]
   },
   {
-    "item": 95,
+    "item": 97,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1673,7 +1701,7 @@
     ]
   },
   {
-    "item": 96,
+    "item": 98,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1692,7 +1720,7 @@
     ]
   },
   {
-    "item": 97,
+    "item": 99,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1719,7 +1747,7 @@
     ]
   },
   {
-    "item": 98,
+    "item": 100,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1737,7 +1765,7 @@
     ]
   },
   {
-    "item": 99,
+    "item": 101,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1760,7 +1788,7 @@
     ]
   },
   {
-    "item": 100,
+    "item": 102,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1775,7 +1803,7 @@
     ]
   },
   {
-    "item": 101,
+    "item": 103,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1789,7 +1817,7 @@
     ]
   },
   {
-    "item": 102,
+    "item": 104,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1812,7 +1840,7 @@
     ]
   },
   {
-    "item": 103,
+    "item": 105,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1835,7 +1863,7 @@
     ]
   },
   {
-    "item": 104,
+    "item": 106,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1862,7 +1890,7 @@
     ]
   },
   {
-    "item": 105,
+    "item": 107,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1885,7 +1913,7 @@
     ]
   },
   {
-    "item": 106,
+    "item": 108,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1900,7 +1928,7 @@
     ]
   },
   {
-    "item": 107,
+    "item": 109,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -1918,7 +1946,7 @@
     ]
   },
   {
-    "item": 108,
+    "item": 110,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -1932,7 +1960,7 @@
     ]
   },
   {
-    "item": 109,
+    "item": 111,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1954,7 +1982,7 @@
     ]
   },
   {
-    "item": 110,
+    "item": 112,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -1972,7 +2000,7 @@
     ]
   },
   {
-    "item": 111,
+    "item": 113,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -1990,7 +2018,7 @@
     ]
   },
   {
-    "item": 112,
+    "item": 114,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2012,7 +2040,7 @@
     ]
   },
   {
-    "item": 113,
+    "item": 115,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2039,7 +2067,7 @@
     ]
   },
   {
-    "item": 114,
+    "item": 116,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -2062,7 +2090,7 @@
     ]
   },
   {
-    "item": 115,
+    "item": 117,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2080,7 +2108,7 @@
     ]
   },
   {
-    "item": 116,
+    "item": 118,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2098,7 +2126,7 @@
     ]
   },
   {
-    "item": 117,
+    "item": 119,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -2112,7 +2140,7 @@
     ]
   },
   {
-    "item": 118,
+    "item": 120,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -2131,7 +2159,7 @@
     ]
   },
   {
-    "item": 119,
+    "item": 121,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2150,7 +2178,7 @@
     ]
   },
   {
-    "item": 120,
+    "item": 122,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2168,7 +2196,7 @@
     ]
   },
   {
-    "item": 121,
+    "item": 123,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -2187,7 +2215,7 @@
     ]
   },
   {
-    "item": 122,
+    "item": 124,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2214,7 +2242,7 @@
     ]
   },
   {
-    "item": 123,
+    "item": 125,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2237,7 +2265,7 @@
     ]
   },
   {
-    "item": 124,
+    "item": 126,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2251,7 +2279,7 @@
     ]
   },
   {
-    "item": 125,
+    "item": 127,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2265,7 +2293,7 @@
     ]
   },
   {
-    "item": 126,
+    "item": 128,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2284,7 +2312,7 @@
     ]
   },
   {
-    "item": 127,
+    "item": 129,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -2303,7 +2331,7 @@
     ]
   },
   {
-    "item": 128,
+    "item": 130,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2326,7 +2354,7 @@
     ]
   },
   {
-    "item": 129,
+    "item": 131,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2340,7 +2368,7 @@
     ]
   },
   {
-    "item": 130,
+    "item": 132,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2355,7 +2383,7 @@
     ]
   },
   {
-    "item": 131,
+    "item": 133,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2374,7 +2402,7 @@
     ]
   },
   {
-    "item": 132,
+    "item": 134,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2400,7 +2428,7 @@
     ]
   },
   {
-    "item": 133,
+    "item": 135,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2436,7 +2464,7 @@
     ]
   },
   {
-    "item": 134,
+    "item": 136,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2451,7 +2479,7 @@
     ]
   },
   {
-    "item": 135,
+    "item": 137,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -2465,7 +2493,7 @@
     ]
   },
   {
-    "item": 136,
+    "item": 138,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2492,7 +2520,7 @@
     ]
   },
   {
-    "item": 137,
+    "item": 139,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2515,7 +2543,7 @@
     ]
   },
   {
-    "item": 138,
+    "item": 140,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2534,7 +2562,7 @@
     ]
   },
   {
-    "item": 139,
+    "item": 141,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2552,7 +2580,7 @@
     ]
   },
   {
-    "item": 140,
+    "item": 142,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2594,7 +2622,7 @@
     ]
   },
   {
-    "item": 141,
+    "item": 143,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2621,7 +2649,7 @@
     ]
   },
   {
-    "item": 142,
+    "item": 144,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2636,7 +2664,7 @@
     ]
   },
   {
-    "item": 143,
+    "item": 145,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2662,7 +2690,7 @@
     ]
   },
   {
-    "item": 144,
+    "item": 146,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2680,7 +2708,7 @@
     ]
   },
   {
-    "item": 145,
+    "item": 147,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2703,7 +2731,7 @@
     ]
   },
   {
-    "item": 146,
+    "item": 148,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2718,7 +2746,7 @@
     ]
   },
   {
-    "item": 147,
+    "item": 149,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2741,7 +2769,7 @@
     ]
   },
   {
-    "item": 148,
+    "item": 150,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2768,7 +2796,7 @@
     ]
   },
   {
-    "item": 149,
+    "item": 151,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2783,7 +2811,7 @@
     ]
   },
   {
-    "item": 150,
+    "item": 152,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2798,7 +2826,7 @@
     ]
   },
   {
-    "item": 151,
+    "item": 153,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2833,7 +2861,7 @@
     ]
   },
   {
-    "item": 152,
+    "item": 154,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2852,7 +2880,7 @@
     ]
   },
   {
-    "item": 153,
+    "item": 155,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2871,7 +2899,7 @@
     ]
   },
   {
-    "item": 154,
+    "item": 156,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2894,7 +2922,7 @@
     ]
   },
   {
-    "item": 155,
+    "item": 157,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2920,7 +2948,7 @@
     ]
   },
   {
-    "item": 156,
+    "item": 158,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2943,7 +2971,7 @@
     ]
   },
   {
-    "item": 157,
+    "item": 159,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -2966,7 +2994,7 @@
     ]
   },
   {
-    "item": 158,
+    "item": 160,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -2984,7 +3012,7 @@
     ]
   },
   {
-    "item": 159,
+    "item": 161,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3003,7 +3031,7 @@
     ]
   },
   {
-    "item": 160,
+    "item": 162,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3026,7 +3054,7 @@
     ]
   },
   {
-    "item": 161,
+    "item": 163,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -3044,7 +3072,7 @@
     ]
   },
   {
-    "item": 162,
+    "item": 164,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3062,7 +3090,7 @@
     ]
   },
   {
-    "item": 163,
+    "item": 165,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3092,7 +3120,7 @@
     ]
   },
   {
-    "item": 164,
+    "item": 166,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3118,7 +3146,7 @@
     ]
   },
   {
-    "item": 165,
+    "item": 167,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3141,7 +3169,7 @@
     ]
   },
   {
-    "item": 166,
+    "item": 168,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3164,7 +3192,7 @@
     ]
   },
   {
-    "item": 167,
+    "item": 169,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3187,7 +3215,7 @@
     ]
   },
   {
-    "item": 168,
+    "item": 170,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -3201,7 +3229,7 @@
     ]
   },
   {
-    "item": 169,
+    "item": 171,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3224,7 +3252,7 @@
     ]
   },
   {
-    "item": 170,
+    "item": 172,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3251,7 +3279,25 @@
     ]
   },
   {
-    "item": 171,
+    "item": 173,
+    "type": "Prayer",
+    "years": [1892, 1921],
+    "author": "‘Abdu’l‑Bahá",
+    "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
+    "length": 920,
+    "paragraphs": [
+      {
+        "index": 1,
+        "text": "He is God."
+      },
+      {
+        "index": 2,
+        "text": "O Thou kind Lord! Illumine the hearts with the light of Thy most great guidance. Revive the souls through Thy most joyful glad‑tidings. Illumine the eyes by granting them to behold Thy lights. Make the ears attentive by causing them to hear Thy call. Enable us to enter the Kingdom of Thy holiness and quicken us with the breaths of the Holy Spirit. Give us everlasting life and grant us heavenly perfections. O Lord! Make our lives to be a ransom for Thy sake and bestow upon us a new spirit. Confer upon us heavenly power and bestow upon us everlasting joy. Confirm us in service to the world of humanity. Make us instruments of concord, binding together the hearts. O Lord! Awaken us from our slumber and grant us wisdom and understanding, that we may unravel the secrets of Thy Book and discover the mysteries that lie hid in Thy Words. Thou art the Almighty. Thou art the Giver. Thou art the Ever‑Loving."
+      }
+    ]
+  },
+  {
+    "item": 174,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3274,7 +3320,7 @@
     ]
   },
   {
-    "item": 172,
+    "item": 175,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3296,7 +3342,7 @@
     ]
   },
   {
-    "item": 173,
+    "item": 176,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3314,7 +3360,7 @@
     ]
   },
   {
-    "item": 174,
+    "item": 177,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3332,7 +3378,7 @@
     ]
   },
   {
-    "item": 175,
+    "item": 178,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3355,7 +3401,7 @@
     ]
   },
   {
-    "item": 176,
+    "item": 179,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3374,7 +3420,7 @@
     ]
   },
   {
-    "item": 177,
+    "item": 180,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -3392,7 +3438,7 @@
     ]
   },
   {
-    "item": 178,
+    "item": 181,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3407,7 +3453,7 @@
     ]
   },
   {
-    "item": 179,
+    "item": 182,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3425,7 +3471,7 @@
     ]
   },
   {
-    "item": 180,
+    "item": 183,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3439,7 +3485,7 @@
     ]
   },
   {
-    "item": 181,
+    "item": 184,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3458,7 +3504,7 @@
     ]
   },
   {
-    "item": 182,
+    "item": 185,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3477,7 +3523,7 @@
     ]
   },
   {
-    "item": 183,
+    "item": 186,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3499,7 +3545,7 @@
     ]
   },
   {
-    "item": 184,
+    "item": 187,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3530,7 +3576,7 @@
     ]
   },
   {
-    "item": 185,
+    "item": 188,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3553,7 +3599,7 @@
     ]
   },
   {
-    "item": 186,
+    "item": 189,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3567,7 +3613,7 @@
     ]
   },
   {
-    "item": 187,
+    "item": 190,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3589,7 +3635,7 @@
     ]
   },
   {
-    "item": 188,
+    "item": 191,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3615,7 +3661,7 @@
     ]
   },
   {
-    "item": 189,
+    "item": 192,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3634,7 +3680,7 @@
     ]
   },
   {
-    "item": 190,
+    "item": 193,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -3653,7 +3699,7 @@
     ]
   },
   {
-    "item": 191,
+    "item": 194,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3672,7 +3718,7 @@
     ]
   },
   {
-    "item": 192,
+    "item": 195,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3690,7 +3736,7 @@
     ]
   },
   {
-    "item": 193,
+    "item": 196,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3712,7 +3758,7 @@
     ]
   },
   {
-    "item": 194,
+    "item": 197,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3734,7 +3780,7 @@
     ]
   },
   {
-    "item": 195,
+    "item": 198,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3753,7 +3799,7 @@
     ]
   },
   {
-    "item": 196,
+    "item": 199,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3772,7 +3818,7 @@
     ]
   },
   {
-    "item": 197,
+    "item": 200,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3795,7 +3841,7 @@
     ]
   },
   {
-    "item": 198,
+    "item": 201,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3818,7 +3864,7 @@
     ]
   },
   {
-    "item": 199,
+    "item": 202,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3837,7 +3883,7 @@
     ]
   },
   {
-    "item": 200,
+    "item": 203,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3860,7 +3906,7 @@
     ]
   },
   {
-    "item": 201,
+    "item": 204,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3882,7 +3928,7 @@
     ]
   },
   {
-    "item": 202,
+    "item": 205,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3905,7 +3951,7 @@
     ]
   },
   {
-    "item": 203,
+    "item": 206,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3932,7 +3978,7 @@
     ]
   },
   {
-    "item": 204,
+    "item": 207,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3947,7 +3993,7 @@
     ]
   },
   {
-    "item": 205,
+    "item": 208,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -3970,7 +4016,7 @@
     ]
   },
   {
-    "item": 206,
+    "item": 209,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -3988,7 +4034,7 @@
     ]
   },
   {
-    "item": 207,
+    "item": 210,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4006,7 +4052,7 @@
     ]
   },
   {
-    "item": 208,
+    "item": 211,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4024,7 +4070,7 @@
     ]
   },
   {
-    "item": 209,
+    "item": 212,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4042,7 +4088,7 @@
     ]
   },
   {
-    "item": 210,
+    "item": 213,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4068,7 +4114,7 @@
     ]
   },
   {
-    "item": 211,
+    "item": 214,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4103,7 +4149,7 @@
     ]
   },
   {
-    "item": 212,
+    "item": 215,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4126,7 +4172,7 @@
     ]
   },
   {
-    "item": 213,
+    "item": 216,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4149,7 +4195,7 @@
     ]
   },
   {
-    "item": 214,
+    "item": 217,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4163,7 +4209,7 @@
     ]
   },
   {
-    "item": 215,
+    "item": 218,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4185,7 +4231,7 @@
     ]
   },
   {
-    "item": 216,
+    "item": 219,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4208,7 +4254,7 @@
     ]
   },
   {
-    "item": 217,
+    "item": 220,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4231,7 +4277,7 @@
     ]
   },
   {
-    "item": 218,
+    "item": 221,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4257,7 +4303,7 @@
     ]
   },
   {
-    "item": 219,
+    "item": 222,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4280,7 +4326,7 @@
     ]
   },
   {
-    "item": 220,
+    "item": 223,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -4307,7 +4353,7 @@
     ]
   },
   {
-    "item": 221,
+    "item": 224,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4329,7 +4375,7 @@
     ]
   },
   {
-    "item": 222,
+    "item": 225,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4351,7 +4397,7 @@
     ]
   },
   {
-    "item": 223,
+    "item": 226,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4374,7 +4420,7 @@
     ]
   },
   {
-    "item": 224,
+    "item": 227,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4397,7 +4443,7 @@
     ]
   },
   {
-    "item": 225,
+    "item": 228,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4424,7 +4470,7 @@
     ]
   },
   {
-    "item": 226,
+    "item": 229,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4442,7 +4488,7 @@
     ]
   },
   {
-    "item": 227,
+    "item": 230,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4460,7 +4506,7 @@
     ]
   },
   {
-    "item": 228,
+    "item": 231,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -4482,7 +4528,7 @@
     ]
   },
   {
-    "item": 229,
+    "item": 232,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4508,7 +4554,7 @@
     ]
   },
   {
-    "item": 230,
+    "item": 233,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4530,7 +4576,7 @@
     ]
   },
   {
-    "item": 231,
+    "item": 234,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4552,7 +4598,7 @@
     ]
   },
   {
-    "item": 232,
+    "item": 235,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4583,7 +4629,7 @@
     ]
   },
   {
-    "item": 233,
+    "item": 236,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4614,7 +4660,7 @@
     ]
   },
   {
-    "item": 234,
+    "item": 237,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4637,7 +4683,7 @@
     ]
   },
   {
-    "item": 235,
+    "item": 238,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4660,7 +4706,7 @@
     ]
   },
   {
-    "item": 236,
+    "item": 239,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4687,7 +4733,7 @@
     ]
   },
   {
-    "item": 237,
+    "item": 240,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4713,7 +4759,7 @@
     ]
   },
   {
-    "item": 238,
+    "item": 241,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4735,7 +4781,7 @@
     ]
   },
   {
-    "item": 239,
+    "item": 242,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4753,7 +4799,7 @@
     ]
   },
   {
-    "item": 240,
+    "item": 243,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4780,7 +4826,7 @@
     ]
   },
   {
-    "item": 241,
+    "item": 244,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4819,7 +4865,7 @@
     ]
   },
   {
-    "item": 242,
+    "item": 245,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4841,7 +4887,7 @@
     ]
   },
   {
-    "item": 243,
+    "item": 246,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4867,7 +4913,7 @@
     ]
   },
   {
-    "item": 244,
+    "item": 247,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4894,7 +4940,7 @@
     ]
   },
   {
-    "item": 245,
+    "item": 248,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4921,7 +4967,7 @@
     ]
   },
   {
-    "item": 246,
+    "item": 249,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4940,7 +4986,7 @@
     ]
   },
   {
-    "item": 247,
+    "item": 250,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -4967,7 +5013,7 @@
     ]
   },
   {
-    "item": 248,
+    "item": 251,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -4989,7 +5035,7 @@
     ]
   },
   {
-    "item": 249,
+    "item": 252,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5016,7 +5062,7 @@
     ]
   },
   {
-    "item": 250,
+    "item": 253,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5035,7 +5081,7 @@
     ]
   },
   {
-    "item": 251,
+    "item": 254,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5058,7 +5104,7 @@
     ]
   },
   {
-    "item": 252,
+    "item": 255,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5080,7 +5126,7 @@
     ]
   },
   {
-    "item": 253,
+    "item": 256,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -5094,7 +5140,7 @@
     ]
   },
   {
-    "item": 254,
+    "item": 257,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -5117,7 +5163,7 @@
     ]
   },
   {
-    "item": 255,
+    "item": 258,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -5147,7 +5193,7 @@
     ]
   },
   {
-    "item": 256,
+    "item": 259,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5174,7 +5220,7 @@
     ]
   },
   {
-    "item": 257,
+    "item": 260,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5196,7 +5242,7 @@
     ]
   },
   {
-    "item": 258,
+    "item": 261,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5223,7 +5269,7 @@
     ]
   },
   {
-    "item": 259,
+    "item": 262,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5250,7 +5296,7 @@
     ]
   },
   {
-    "item": 260,
+    "item": 263,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -5277,7 +5323,7 @@
     ]
   },
   {
-    "item": 261,
+    "item": 264,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -5320,7 +5366,7 @@
     ]
   },
   {
-    "item": 262,
+    "item": 265,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5346,7 +5392,7 @@
     ]
   },
   {
-    "item": 263,
+    "item": 266,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5368,7 +5414,7 @@
     ]
   },
   {
-    "item": 264,
+    "item": 267,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5391,7 +5437,7 @@
     ]
   },
   {
-    "item": 265,
+    "item": 268,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5413,7 +5459,7 @@
     ]
   },
   {
-    "item": 266,
+    "item": 269,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -5436,7 +5482,7 @@
     ]
   },
   {
-    "item": 267,
+    "item": 270,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -5455,7 +5501,7 @@
     ]
   },
   {
-    "item": 268,
+    "item": 271,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5482,7 +5528,7 @@
     ]
   },
   {
-    "item": 269,
+    "item": 272,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5505,7 +5551,7 @@
     ]
   },
   {
-    "item": 270,
+    "item": 273,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5531,7 +5577,7 @@
     ]
   },
   {
-    "item": 271,
+    "item": 274,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -5553,7 +5599,7 @@
     ]
   },
   {
-    "item": 272,
+    "item": 275,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5567,7 +5613,7 @@
     ]
   },
   {
-    "item": 273,
+    "item": 276,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5589,7 +5635,7 @@
     ]
   },
   {
-    "item": 274,
+    "item": 277,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5607,7 +5653,7 @@
     ]
   },
   {
-    "item": 275,
+    "item": 278,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5629,7 +5675,7 @@
     ]
   },
   {
-    "item": 276,
+    "item": 279,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5656,7 +5702,7 @@
     ]
   },
   {
-    "item": 277,
+    "item": 280,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5682,7 +5728,7 @@
     ]
   },
   {
-    "item": 278,
+    "item": 281,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5701,7 +5747,7 @@
     ]
   },
   {
-    "item": 279,
+    "item": 282,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5728,7 +5774,7 @@
     ]
   },
   {
-    "item": 280,
+    "item": 283,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5754,7 +5800,7 @@
     ]
   },
   {
-    "item": 281,
+    "item": 284,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5781,7 +5827,7 @@
     ]
   },
   {
-    "item": 282,
+    "item": 285,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5807,7 +5853,7 @@
     ]
   },
   {
-    "item": 283,
+    "item": 286,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5830,7 +5876,7 @@
     ]
   },
   {
-    "item": 284,
+    "item": 287,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -5853,7 +5899,7 @@
     ]
   },
   {
-    "item": 285,
+    "item": 288,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5876,7 +5922,7 @@
     ]
   },
   {
-    "item": 286,
+    "item": 289,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5902,7 +5948,7 @@
     ]
   },
   {
-    "item": 287,
+    "item": 290,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5925,7 +5971,7 @@
     ]
   },
   {
-    "item": 288,
+    "item": 291,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5952,7 +5998,7 @@
     ]
   },
   {
-    "item": 289,
+    "item": 292,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5970,7 +6016,7 @@
     ]
   },
   {
-    "item": 290,
+    "item": 293,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -5993,7 +6039,7 @@
     ]
   },
   {
-    "item": 291,
+    "item": 294,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -6020,7 +6066,7 @@
     ]
   },
   {
-    "item": 292,
+    "item": 295,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6050,7 +6096,7 @@
     ]
   },
   {
-    "item": 293,
+    "item": 296,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6077,7 +6123,7 @@
     ]
   },
   {
-    "item": 294,
+    "item": 297,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6099,7 +6145,7 @@
     ]
   },
   {
-    "item": 295,
+    "item": 298,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6118,7 +6164,7 @@
     ]
   },
   {
-    "item": 296,
+    "item": 299,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6145,7 +6191,7 @@
     ]
   },
   {
-    "item": 297,
+    "item": 300,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6176,7 +6222,7 @@
     ]
   },
   {
-    "item": 298,
+    "item": 301,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -6194,7 +6240,7 @@
     ]
   },
   {
-    "item": 299,
+    "item": 302,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -6221,7 +6267,7 @@
     ]
   },
   {
-    "item": 300,
+    "item": 303,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6247,7 +6293,7 @@
     ]
   },
   {
-    "item": 301,
+    "item": 304,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6269,7 +6315,7 @@
     ]
   },
   {
-    "item": 302,
+    "item": 305,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -6296,7 +6342,7 @@
     ]
   },
   {
-    "item": 303,
+    "item": 306,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6318,7 +6364,7 @@
     ]
   },
   {
-    "item": 304,
+    "item": 307,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6349,7 +6395,7 @@
     ]
   },
   {
-    "item": 305,
+    "item": 308,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -6384,7 +6430,7 @@
     ]
   },
   {
-    "item": 306,
+    "item": 309,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -6411,7 +6457,7 @@
     ]
   },
   {
-    "item": 307,
+    "item": 310,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6442,7 +6488,7 @@
     ]
   },
   {
-    "item": 308,
+    "item": 311,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -6469,7 +6515,7 @@
     ]
   },
   {
-    "item": 309,
+    "item": 312,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6495,7 +6541,7 @@
     ]
   },
   {
-    "item": 310,
+    "item": 313,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6518,7 +6564,7 @@
     ]
   },
   {
-    "item": 311,
+    "item": 314,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -6541,7 +6587,7 @@
     ]
   },
   {
-    "item": 312,
+    "item": 315,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6568,7 +6614,7 @@
     ]
   },
   {
-    "item": 313,
+    "item": 316,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6586,7 +6632,7 @@
     ]
   },
   {
-    "item": 314,
+    "item": 317,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -6625,7 +6671,7 @@
     ]
   },
   {
-    "item": 315,
+    "item": 318,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6651,7 +6697,7 @@
     ]
   },
   {
-    "item": 316,
+    "item": 319,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6677,7 +6723,7 @@
     ]
   },
   {
-    "item": 317,
+    "item": 320,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6707,7 +6753,7 @@
     ]
   },
   {
-    "item": 318,
+    "item": 321,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -6750,7 +6796,7 @@
     ]
   },
   {
-    "item": 319,
+    "item": 322,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6772,7 +6818,7 @@
     ]
   },
   {
-    "item": 320,
+    "item": 323,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -6799,7 +6845,7 @@
     ]
   },
   {
-    "item": 321,
+    "item": 324,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -6818,7 +6864,7 @@
     ]
   },
   {
-    "item": 322,
+    "item": 325,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6837,7 +6883,7 @@
     ]
   },
   {
-    "item": 323,
+    "item": 326,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -6863,7 +6909,7 @@
     ]
   },
   {
-    "item": 324,
+    "item": 327,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6882,7 +6928,7 @@
     ]
   },
   {
-    "item": 325,
+    "item": 328,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6908,7 +6954,7 @@
     ]
   },
   {
-    "item": 326,
+    "item": 329,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -6930,7 +6976,7 @@
     ]
   },
   {
-    "item": 327,
+    "item": 330,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6956,7 +7002,7 @@
     ]
   },
   {
-    "item": 328,
+    "item": 331,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -6987,7 +7033,7 @@
     ]
   },
   {
-    "item": 329,
+    "item": 332,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7009,7 +7055,7 @@
     ]
   },
   {
-    "item": 330,
+    "item": 333,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -7036,7 +7082,7 @@
     ]
   },
   {
-    "item": 331,
+    "item": 334,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -7059,7 +7105,7 @@
     ]
   },
   {
-    "item": 332,
+    "item": 335,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7081,7 +7127,7 @@
     ]
   },
   {
-    "item": 333,
+    "item": 336,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -7103,7 +7149,7 @@
     ]
   },
   {
-    "item": 334,
+    "item": 337,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -7129,7 +7175,7 @@
     ]
   },
   {
-    "item": 335,
+    "item": 338,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7151,7 +7197,7 @@
     ]
   },
   {
-    "item": 336,
+    "item": 339,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7181,7 +7227,7 @@
     ]
   },
   {
-    "item": 337,
+    "item": 340,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7207,7 +7253,7 @@
     ]
   },
   {
-    "item": 338,
+    "item": 341,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7229,7 +7275,7 @@
     ]
   },
   {
-    "item": 339,
+    "item": 342,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7260,7 +7306,7 @@
     ]
   },
   {
-    "item": 340,
+    "item": 343,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -7283,7 +7329,7 @@
     ]
   },
   {
-    "item": 341,
+    "item": 344,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -7314,7 +7360,7 @@
     ]
   },
   {
-    "item": 342,
+    "item": 345,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -7345,7 +7391,7 @@
     ]
   },
   {
-    "item": 343,
+    "item": 346,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7376,7 +7422,7 @@
     ]
   },
   {
-    "item": 344,
+    "item": 347,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7402,7 +7448,7 @@
     ]
   },
   {
-    "item": 345,
+    "item": 348,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7433,7 +7479,7 @@
     ]
   },
   {
-    "item": 346,
+    "item": 349,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7463,7 +7509,7 @@
     ]
   },
   {
-    "item": 347,
+    "item": 350,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7489,7 +7535,7 @@
     ]
   },
   {
-    "item": 348,
+    "item": 351,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7507,7 +7553,7 @@
     ]
   },
   {
-    "item": 349,
+    "item": 352,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -7562,7 +7608,7 @@
     ]
   },
   {
-    "item": 350,
+    "item": 353,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7580,7 +7626,7 @@
     ]
   },
   {
-    "item": 351,
+    "item": 354,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7606,7 +7652,7 @@
     ]
   },
   {
-    "item": 352,
+    "item": 355,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7636,7 +7682,7 @@
     ]
   },
   {
-    "item": 353,
+    "item": 356,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -7651,7 +7697,7 @@
     ]
   },
   {
-    "item": 354,
+    "item": 357,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7677,7 +7723,7 @@
     ]
   },
   {
-    "item": 355,
+    "item": 358,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7745,7 +7791,7 @@
     ]
   },
   {
-    "item": 356,
+    "item": 359,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7771,7 +7817,7 @@
     ]
   },
   {
-    "item": 357,
+    "item": 360,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -7797,7 +7843,7 @@
     ]
   },
   {
-    "item": 358,
+    "item": 361,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7823,7 +7869,7 @@
     ]
   },
   {
-    "item": 359,
+    "item": 362,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7849,7 +7895,7 @@
     ]
   },
   {
-    "item": 360,
+    "item": 363,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -7875,7 +7921,7 @@
     ]
   },
   {
-    "item": 361,
+    "item": 364,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7897,7 +7943,7 @@
     ]
   },
   {
-    "item": 362,
+    "item": 365,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7927,7 +7973,7 @@
     ]
   },
   {
-    "item": 363,
+    "item": 366,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -7957,7 +8003,7 @@
     ]
   },
   {
-    "item": 364,
+    "item": 367,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -7991,7 +8037,7 @@
     ]
   },
   {
-    "item": 365,
+    "item": 368,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8021,7 +8067,7 @@
     ]
   },
   {
-    "item": 366,
+    "item": 369,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8047,7 +8093,7 @@
     ]
   },
   {
-    "item": 367,
+    "item": 370,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8073,7 +8119,7 @@
     ]
   },
   {
-    "item": 368,
+    "item": 371,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -8100,7 +8146,7 @@
     ]
   },
   {
-    "item": 369,
+    "item": 372,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -8134,7 +8180,7 @@
     ]
   },
   {
-    "item": 370,
+    "item": 373,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -8161,7 +8207,7 @@
     ]
   },
   {
-    "item": 371,
+    "item": 374,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8223,7 +8269,7 @@
     ]
   },
   {
-    "item": 372,
+    "item": 375,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8257,7 +8303,7 @@
     ]
   },
   {
-    "item": 373,
+    "item": 376,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -8275,7 +8321,7 @@
     ]
   },
   {
-    "item": 374,
+    "item": 377,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8309,7 +8355,7 @@
     ]
   },
   {
-    "item": 375,
+    "item": 378,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8344,7 +8390,7 @@
     ]
   },
   {
-    "item": 376,
+    "item": 379,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8374,7 +8420,7 @@
     ]
   },
   {
-    "item": 377,
+    "item": 380,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8396,7 +8442,7 @@
     ]
   },
   {
-    "item": 378,
+    "item": 381,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8422,7 +8468,7 @@
     ]
   },
   {
-    "item": 379,
+    "item": 382,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8448,7 +8494,7 @@
     ]
   },
   {
-    "item": 380,
+    "item": 383,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8478,7 +8524,7 @@
     ]
   },
   {
-    "item": 381,
+    "item": 384,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8500,7 +8546,7 @@
     ]
   },
   {
-    "item": 382,
+    "item": 385,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8534,7 +8580,7 @@
     ]
   },
   {
-    "item": 383,
+    "item": 386,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8576,7 +8622,7 @@
     ]
   },
   {
-    "item": 384,
+    "item": 387,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -8619,7 +8665,7 @@
     ]
   },
   {
-    "item": 385,
+    "item": 388,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8674,7 +8720,7 @@
     ]
   },
   {
-    "item": 386,
+    "item": 389,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8709,7 +8755,7 @@
     ]
   },
   {
-    "item": 387,
+    "item": 390,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8739,7 +8785,7 @@
     ]
   },
   {
-    "item": 388,
+    "item": 391,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8769,7 +8815,7 @@
     ]
   },
   {
-    "item": 389,
+    "item": 392,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -8812,7 +8858,7 @@
     ]
   },
   {
-    "item": 390,
+    "item": 393,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8838,7 +8884,7 @@
     ]
   },
   {
-    "item": 391,
+    "item": 394,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8864,7 +8910,7 @@
     ]
   },
   {
-    "item": 392,
+    "item": 395,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -8898,7 +8944,7 @@
     ]
   },
   {
-    "item": 393,
+    "item": 396,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -8941,7 +8987,7 @@
     ]
   },
   {
-    "item": 394,
+    "item": 397,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
@@ -9004,7 +9050,7 @@
     ]
   },
   {
-    "item": 395,
+    "item": 398,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9038,7 +9084,7 @@
     ]
   },
   {
-    "item": 396,
+    "item": 399,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -9076,7 +9122,7 @@
     ]
   },
   {
-    "item": 397,
+    "item": 400,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9119,7 +9165,7 @@
     ]
   },
   {
-    "item": 398,
+    "item": 401,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9149,7 +9195,7 @@
     ]
   },
   {
-    "item": 399,
+    "item": 402,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9175,7 +9221,7 @@
     ]
   },
   {
-    "item": 400,
+    "item": 403,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -9197,7 +9243,7 @@
     ]
   },
   {
-    "item": 401,
+    "item": 404,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -9232,7 +9278,7 @@
     ]
   },
   {
-    "item": 402,
+    "item": 405,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9266,7 +9312,7 @@
     ]
   },
   {
-    "item": 403,
+    "item": 406,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9292,7 +9338,7 @@
     ]
   },
   {
-    "item": 404,
+    "item": 407,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9326,7 +9372,7 @@
     ]
   },
   {
-    "item": 405,
+    "item": 408,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9364,7 +9410,7 @@
     ]
   },
   {
-    "item": 406,
+    "item": 409,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9406,7 +9452,7 @@
     ]
   },
   {
-    "item": 407,
+    "item": 410,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9448,7 +9494,7 @@
     ]
   },
   {
-    "item": 408,
+    "item": 411,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9478,16 +9524,16 @@
     ]
   },
   {
-    "item": 409,
+    "item": 412,
     "type": "Prayer",
     "years": [1892, 1921],
     "author": "‘Abdu’l‑Bahá",
     "path": ["Additional Prayers Revealed by ‘Abdu’l‑Bahá"],
-    "length": 3801,
+    "length": 3788,
     "paragraphs": [
       {
         "index": 1,
-        "text": "He is the All‑Glorious."
+        "text": "He is God!"
       },
       {
         "index": 2,
@@ -9516,7 +9562,7 @@
     ]
   },
   {
-    "item": 410,
+    "item": 413,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9559,7 +9605,7 @@
     ]
   },
   {
-    "item": 411,
+    "item": 414,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9589,7 +9635,7 @@
     ]
   },
   {
-    "item": 412,
+    "item": 415,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9631,7 +9677,7 @@
     ]
   },
   {
-    "item": 413,
+    "item": 416,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -9677,7 +9723,7 @@
     ]
   },
   {
-    "item": 414,
+    "item": 417,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9723,7 +9769,7 @@
     ]
   },
   {
-    "item": 415,
+    "item": 418,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9757,7 +9803,7 @@
     ]
   },
   {
-    "item": 416,
+    "item": 419,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9803,7 +9849,7 @@
     ]
   },
   {
-    "item": 417,
+    "item": 420,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9849,7 +9895,7 @@
     ]
   },
   {
-    "item": 418,
+    "item": 421,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -9903,7 +9949,7 @@
     ]
   },
   {
-    "item": 419,
+    "item": 422,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -9949,7 +9995,7 @@
     ]
   },
   {
-    "item": 420,
+    "item": 423,
     "type": "Prayer",
     "years": [1844, 1853],
     "author": "The Báb",
@@ -10007,7 +10053,7 @@
     ]
   },
   {
-    "item": 421,
+    "item": 424,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10053,7 +10099,7 @@
     ]
   },
   {
-    "item": 422,
+    "item": 425,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10100,7 +10146,7 @@
     ]
   },
   {
-    "item": 423,
+    "item": 426,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10154,7 +10200,7 @@
     ]
   },
   {
-    "item": 424,
+    "item": 427,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10286,7 +10332,7 @@
     ]
   },
   {
-    "item": 425,
+    "item": 428,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10486,7 +10532,7 @@
     ]
   },
   {
-    "item": 426,
+    "item": 429,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10553,7 +10599,7 @@
     ]
   },
   {
-    "item": 427,
+    "item": 430,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10619,7 +10665,7 @@
     ]
   },
   {
-    "item": 428,
+    "item": 431,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10681,7 +10727,7 @@
     ]
   },
   {
-    "item": 429,
+    "item": 432,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10739,7 +10785,7 @@
     ]
   },
   {
-    "item": 430,
+    "item": 433,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10802,7 +10848,7 @@
     ]
   },
   {
-    "item": 431,
+    "item": 434,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10880,7 +10926,7 @@
     ]
   },
   {
-    "item": 432,
+    "item": 435,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -10962,7 +11008,7 @@
     ]
   },
   {
-    "item": 433,
+    "item": 436,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
@@ -11060,7 +11106,7 @@
     ]
   },
   {
-    "item": 434,
+    "item": 437,
     "type": "Prayer",
     "years": [1853, 1892],
     "author": "Bahá’u’lláh",
