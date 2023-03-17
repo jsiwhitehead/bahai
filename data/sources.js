@@ -932,6 +932,7 @@ export const files = {
         }
       ),
       [/^—Bahá’u’lláh$/gm, "#"],
+      [/^Zaynu’l‑Muqarrabín./m, ""],
       [/^Cf. Qur’án 17:23..*/m, ""],
       [/^Inscription on the tombstone of Ḥusayn.*/m, ""],
       [/^Cf. Qur’án 18:46..*/m, ""],
@@ -959,6 +960,9 @@ export const files = {
       [/^the Báb/m, ""],
       [/^Mírzá Hádí Dawlat‑Ábádí/m, ""],
       [/^Mírzá Yaḥyá/m, ""],
+      prefix(/^A number of people in various regions/m, "#\n\n"),
+      prefix(/^It is indeed a most excellent favour/m, "#\n\n"),
+      prefix(/^O ye in mortal graves! The peace of God/m, "#\n\n"),
       prefix(/^Teach ye your children so that they/m, "#\n\n"),
       prefix(/^We have caused thee to return to thy/m, "#\n\n"),
       prefix(/^He is the Eternal.\n\nḤusayn, son of ‘Ayn/m, "#\n\n"),
@@ -971,7 +975,6 @@ export const files = {
       prefix(/^All the days have been honoured, O my/m, "#\n\n"),
       prefix(/^He is God, exalted be He: Wisdom and/m, "#\n\n"),
       prefix(/^O My Leaf! . . . Thou art with the/m, "#\n\n"),
-
       prefix(/^Thou hast mentioned the station of parents/m, "#\n\n"),
       prefix(/^The Divine Lote‑Tree speaketh forth; hearken/m, "#\n\n"),
       prefix(/^During these days the laws of God have shone/m, "#\n\n"),
