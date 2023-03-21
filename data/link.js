@@ -91,7 +91,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
       const text = source.paragraphs[part.paragraph].text;
       if (part.start === 0) delete part.start;
       if (part.end === text.length) delete part.end;
-      return { ...part, paragraph: part.paragraph + 1 };
+      return { ...part, paragraph: part.paragraph };
     });
   quotes[source.id] = quotes[source.id] || {};
   for (const { paragraph, start, end } of quoteParts.filter(
@@ -99,7 +99,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
   )) {
     quotes[source.id][paragraph] = quotes[source.id][paragraph] || [];
     quotes[source.id][paragraph].push({
-      ref: { id, paragraph: index + 1 },
+      ref: { id, paragraph: index },
       start,
       end,
     });
@@ -316,7 +316,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
               if (
                 simplified.every((s) =>
                   inlineQuotes[i + 1].source.paragraphs[
-                    inlineQuotes[i + 1].paragraph - 1
+                    inlineQuotes[i + 1].paragraph
                   ].simplified
                     .join("")
                     .includes(s)
@@ -331,7 +331,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
                   simplified,
                   parts,
                   inlineQuotes[i + 1].source,
-                  inlineQuotes[i + 1].paragraph - 1
+                  inlineQuotes[i + 1].paragraph
                 ).base;
                 const start = para.text.indexOf(text);
                 para.base.quotes = para.base.quotes || [];
@@ -374,7 +374,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
   const quoteMap = mapObject(quotes, (docQuotes, id) =>
     mapObject(docQuotes, (parts, para) => {
       const fixedParts = parts.map((p) => {
-        const text = documentMap[id].paragraphs[parseInt(para, 10) - 1].text;
+        const text = documentMap[id].paragraphs[parseInt(para, 10)].text;
         return { ref: p.ref, start: p.start || 0, end: p.end || text?.length };
       });
       const splits = [
