@@ -24,11 +24,11 @@ const normaliseString = (s) =>
           if (p.section) return p.title || "";
           if (p.id) {
             const doc = documents[p.id];
-            if (!p.parts) return doc.paragraphs[p.paragraphs[0] - 1].text;
+            if (!p.parts) return doc.paragraphs[p.paragraphs[0]].text;
             return p.parts
               .filter((part) => typeof part !== "string")
               .map(({ paragraph, start, end }) =>
-                doc.paragraphs[paragraph - 1].text.slice(start, end)
+                doc.paragraphs[paragraph].text.slice(start, end)
               );
           }
           return p.text;
@@ -39,7 +39,7 @@ const normaliseString = (s) =>
         .flatMap((k) =>
           quotes[d.id][k].parts.map(
             (p) =>
-              d.paragraphs[parseInt(k) - 1].text
+              d.paragraphs[parseInt(k)].text
                 .slice(p.start, p.end)
                 .trim()
                 .split(" ").length * Math.pow(p.count, 2)

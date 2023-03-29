@@ -6141,6 +6141,10 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 168
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-485",
+          "paragraph": 5
         }
       ],
       "parts": [
@@ -6152,15 +6156,25 @@
         {
           "start": 32,
           "end": 50,
-          "count": 2
+          "count": 3
         },
         {
           "start": 50,
           "end": 122,
-          "count": 3
+          "count": 4
         },
         {
           "start": 122,
+          "end": 266,
+          "count": 2
+        },
+        {
+          "start": 266,
+          "end": 355,
+          "count": 3
+        },
+        {
+          "start": 355,
           "end": 437,
           "count": 2
         }

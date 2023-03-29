@@ -42,6 +42,8 @@ const getText = (root) => {
   const walk = (node) => {
     if (node.nodeName === "#text") {
       result += node.value;
+    } else if (node.tagName === "br") {
+      result += " ";
     } else if (node.tagName === "hr") {
       result += "\n***\n";
     } else if (node.tagName && !["a", "script", "sup"].includes(node.tagName)) {
