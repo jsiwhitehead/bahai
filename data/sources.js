@@ -1824,6 +1824,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ],
       ["resist His Faith? No, by Him", "resist His Faith? Nay, by Him"],
       ["racialism, ecclesiasticism", "racialism and ecclesiasticism"],
+      ["in diverse theatres and in", "in divers theatres and in"],
     ],
     "god-passes-by": [
       [/^Shoghi Effendi[\s\S]*Foreword$/m, "Foreword"],
@@ -2601,10 +2602,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       }),
       title("#", "Introduction"),
       title("#", "Epilogue"),
-      [
-        "\nBahá’u’lláh and the New Era",
-        "\n# Bahá’u’lláh and the New Era\ncollection",
-      ],
+      ["\nBahá’u’lláh and the New Era", "\n# Bahá’u’lláh and the New Era"],
       [/^— .* —$\n\n/gm, "## "],
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
       ["### Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],

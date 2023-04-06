@@ -114,12 +114,16 @@
     ]
   },
   {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 1,
-    "title": "The Glad Tidings",
+    "path": ["Bahá’u’lláh and the New Era"],
+    "item": 7,
+    "title": "Bahá’u’lláh and the New Era",
     "author": "John E. Esslemont",
     "years": [2006, 2006],
     "paragraphs": [
+      {
+        "section": [1],
+        "title": "The Glad Tidings"
+      },
       {
         "text": "The Promised One of all the peoples of the world hath appeared. All peoples and communities have been expecting a Revelation, and He, Bahá’u’lláh, is the foremost teacher and educator of all mankind."
       },
@@ -127,7 +131,7 @@
         "text": "—‘Abdu’l‑Bahá"
       },
       {
-        "section": [1],
+        "section": [1, 1],
         "title": "The Greatest Event in History"
       },
       {
@@ -146,7 +150,7 @@
         "text": "Surely the advent of this “Educator of Mankind,” in the latter days, when He appears, must be the greatest event in human history. And the Bahá’í Movement is proclaiming to the world the glad tidings that this Educator has in fact appeared, that His Revelation has been delivered and recorded and may be studied by every earnest seeker, that the “Day of the Lord” has already dawned and the “Sun of Righteousness” arisen. As yet only a few on the mountaintops have caught sight of the Glorious Orb, but already its rays are illumining heaven and earth, and erelong it will rise above the mountains and shine with full strength on the plains and valleys too, giving life and guidance to all."
       },
       {
-        "section": [2],
+        "section": [1, 2],
         "title": "The Changing World"
       },
       {
@@ -162,7 +166,7 @@
         "text": "Compared with the eighteenth century the present time is as the dawn after darkness, or as the spring after winter. The world is stirring with new life, thrilling with new ideals and hopes. Things that but a few years ago seemed impossible dreams are now accomplished facts. Others that seemed centuries ahead of us have already become matters of “practical politics.” We fly in the air and make voyages under the sea. We send messages around the world with the speed of lightning. Within a few decades we have seen miracles too numerous to mention."
       },
       {
-        "section": [3],
+        "section": [1, 3],
         "title": "The Sun of Righteousness"
       },
       {
@@ -175,7 +179,7 @@
         "text": "But, in the world of nature, the Spring brings about not only the growth and awakening of new life but also the destruction and removal of the old and effete; for the same sun, that makes the flowers to spring and the trees to bud, causes also the decay and disintegration of what is dead and useless; it loosens the ice and melts the snow of winter, and sets free the flood and the storm that cleanse and purify the earth. So it is also in the spiritual world. The spiritual sunshine causes similar commotion and change. Thus the Day of Resurrection is also the Day of Judgement, in which corruptions and imitations of the truth and outworn ideas and customs are discarded and destroyed, in which the ice and snow of prejudice and superstition, which accumulated during the season of winter, are melted and transformed, and energies long frozen and pent up are released to flood and renovate the world."
       },
       {
-        "section": [4],
+        "section": [1, 4],
         "title": "The Mission of Bahá’u’lláh"
       },
       {
@@ -188,7 +192,7 @@
         "text": "His message, unique in its comprehensiveness and scope, is wonderfully in accord with the signs and needs of the times. Never were the new problems confronting men so gigantic and complex as now. Never were the proposed solutions so numerous and conflicting. Never was the need of a great world teacher so urgent or so widely felt. Never, perhaps, was the expectancy of such a teacher so confident or so general."
       },
       {
-        "section": [5],
+        "section": [1, 5],
         "title": "Fulfilment of Prophecies"
       },
       {
@@ -210,7 +214,7 @@
         "text": "Bahá’u’lláh has written much in explanation of the prophecies of old, but it is not on these that He depends for proof of His Prophethood. The sun is its own proof, to all that have the power of perception. When it rises we need no ancient predictions to assure us of its shining. So with the Manifestation of God when He appears. Were all the former prophecies swept into oblivion, He would still be His own abundant and sufficient proof to all whose spiritual senses are open."
       },
       {
-        "section": [6],
+        "section": [1, 6],
         "title": "Proofs of Prophethood"
       },
       {
@@ -229,7 +233,7 @@
         "text": "In the chapters that follow, we shall endeavour to show whether Bahá’u’lláh’s claim to Prophethood stands or falls by application of these tests: whether the things that He had spoken have followed and come to pass, and whether His fruits have been good or evil; in other words, whether His prophecies are being fulfilled and His ordinances established, and whether His lifework has contributed to the education and upliftment of humanity and the betterment of morals, or the contrary."
       },
       {
-        "section": [7],
+        "section": [1, 7],
         "title": "Difficulties of Investigation"
       },
       {
@@ -239,7 +243,7 @@
         "text": "In religion, as in science, truth reveals her mysteries only to the humble and reverent seeker, who is ready to lay aside every prejudice and superstition—to sell all that he has, in order that he may buy the “one pearl of great price.” To understand the Bahá’í Faith in its full significance, we must undertake its study in the spirit of sincere and selfless devotion to truth, persevering in the path of search and relying on divine guidance. In the Writings of its Founders we shall find the master key to the mysteries of this great spiritual awakening, and the ultimate criterion of its value. Unfortunately, here again there are difficulties in the way of the student who is unacquainted with the Persian and Arabic languages in which the teachings are written. Only a small proportion of the Writings has been translated into English, and many of the translations which have appeared leave much to be desired, both in accuracy and style. But despite the imperfection and inadequacy of historical narratives and translations, the greatest essential truths which form the massive and firm foundations of this Cause stand out like mountains from the mists of uncertainty."
       },
       {
-        "section": [8],
+        "section": [1, 8],
         "title": "Aim of Book"
       },
       {
@@ -250,16 +254,11 @@
       },
       {
         "text": "The real object, therefore, in spreading the knowledge of a prophetic revelation is that those who become convinced of its truth may proceed to practice its principles, to “lead the life” and diffuse the glad tidings, thus hastening the advent of that blessed day when God’s Will shall be done on earth as it is in Heaven."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 2,
-    "title": "The Báb: The Forerunner",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [2],
+        "title": "The Báb: The Forerunner"
+      },
       {
         "text": "Verily the oppressor hath slain the Beloved of the worlds that he might thereby quench the Light of God amidst His creatures and withhold mankind from the Stream of Celestial Life in the days of his Lord, the Gracious, the Bountiful."
       },
@@ -267,7 +266,7 @@
         "text": "—Bahá’u’lláh, Tablet to Ra’ís."
       },
       {
-        "section": [1],
+        "section": [2, 1],
         "title": "Birthplace of the New Revelation"
       },
       {
@@ -283,7 +282,7 @@
         "text": "Yet, notwithstanding all this, the light of spiritual life was not extinct in Persia. Here and there, amid the prevailing worldliness and superstition, could still be found some saintly souls, and in many a heart the longing for God was cherished, as in the hearts of Anna and Simeon before the appearance of Jesus. Many were eagerly awaiting the coming of a promised Messenger of God, and confident that the time of His advent was at hand. Such was the state of affairs in Persia when the Báb, the Herald of a new era, set all the country in commotion with His message."
       },
       {
-        "section": [2],
+        "section": [2, 2],
         "title": "Early Life"
       },
       {
@@ -293,7 +292,7 @@
         "text": "As a youth He was noted for great personal beauty and charm of manner, and also for exceptional piety, and nobility of character. He was unfailing in His observance of the prayers, fasts and other ordinances of the Muḥammadan religion, and not only obeyed the letter, but lived in the spirit of the Prophet’s teachings. He married when about twenty‑two years of age. Of this marriage one son was born, who died while still an infant, in the first year of the Báb’s public ministry."
       },
       {
-        "section": [3],
+        "section": [2, 3],
         "title": "Declaration"
       },
       {
@@ -303,14 +302,14 @@
         "text": "In those days belief in the imminent appearance of a Divine Messenger was especially prevalent among a sect known as the Shaykhís, and it was to a distinguished divine belonging to this sect, called Mullá Ḥusayn Bushrú’í, that the Báb first announced His mission. The exact date of this announcement is given in the Bayán, one of the Báb’s Writings, as two hours and eleven minutes after sunset on the eve preceding the fifth day of the month of Jamádíyu’l‑Avval 1260 A.H. ‘Abdu’l‑Bahá was born in the course of the same night, but the exact hour of His birth has not been ascertained. After some days of anxious investigation and study, Mullá Ḥusayn became firmly convinced that the Messenger long expected by the Shí‘ihs had indeed appeared. His eager enthusiasm over this discovery was soon shared by several of his friends. Before long the majority of the Shaykhís accepted the Báb, becoming known as Bábís; and soon the fame of the young Prophet began to spread like wildfire throughout the land."
       },
       {
-        "section": [4],
+        "section": [2, 4],
         "title": "Spread of the Bábí Movement"
       },
       {
         "text": "The first eighteen disciples of the Báb (with Himself as nineteenth) became known as “Letters of the Living.” These disciples He sent to different parts of Persia and Turkistán to spread the news of His advent. Meantime He Himself set out on a pilgrimage to Mecca, where He arrived in December 1844, and there openly declared His mission. On His return to Búshihr great excitement was caused by the announcement of His Bábhood. The fire of His eloquence, the wonder of His rapid and inspired writings, His extraordinary wisdom and knowledge, His courage and zeal as a reformer, aroused the greatest enthusiasm among His followers, but excited a corresponding degree of alarm and enmity among the orthodox Muslims. The Shí‘ih doctors vehemently denounced Him, and persuaded the Governor of Fárs, namely Ḥusayn Khán, a fanatical and tyrannical ruler, to undertake the suppression of the new heresy. Then commenced for the Báb a long series of imprisonments, deportations, examinations before tribunals, scourgings and indignities, which ended only with His martyrdom in 1850."
       },
       {
-        "section": [5],
+        "section": [2, 5],
         "title": "Claims of the Báb"
       },
       {
@@ -320,7 +319,7 @@
         "text": "But the Báb did not stop even with the claim of Mihdíhood. He adopted the sacred title of “Nuqṭiyiúlá” or “Primal Point.” This was a title applied to Muḥammad Himself by His followers. Even the Imáms were secondary in importance to the “Point,” from Whom they derived their inspiration and authority. In assuming this title, the Báb claimed to rank, like Muḥammad, in the series of great Founders of Religion, and for this reason, in the eyes of the Shí‘ihs, He was regarded as an impostor, just as Moses and Jesus before Him had been regarded as impostors. He even inaugurated a new calendar, restoring the solar year, and dating the commencement of the New Era from the year of His own Declaration."
       },
       {
-        "section": [6],
+        "section": [2, 6],
         "title": "Persecution Increases"
       },
       {
@@ -330,7 +329,7 @@
         "text": "In him shall be the perfection of Moses, the preciousness of Jesus, and the patience of Job; his saints shall be abased in his time, and their heads shall be exchanged as presents, even as the heads of the Turk and the Deylamite are exchanged as presents; they shall be slain and burned, and shall be afraid, fearful and dismayed; the earth shall be dyed with their blood, and lamentation shall prevail amongst their women; these are my saints indeed.—New History of the Báb, translated by Prof. E. G. Browne."
       },
       {
-        "section": [7],
+        "section": [2, 7],
         "title": "Martyrdom of the Báb"
       },
       {
@@ -340,14 +339,14 @@
         "text": "By this foul deed the Barrack Square of Tabríz became a second Calvary. The enemies of the Báb enjoyed a guilty thrill of triumph, thinking that this hated tree of the Bábí faith was now severed at the root, and its complete eradication would be easy! But their triumph was short‑lived! They did not realise that the Tree of Truth cannot be felled by any material axe. Had they but known, this very crime of theirs was the means of giving greater vigour to the Cause. The martyrdom of the Báb fulfilled His own cherished wish and inspired His followers with increased zeal. Such was the fire of their spiritual enthusiasm that the bitter winds of persecution but fanned it to a fiercer blaze: The greater the efforts at extinction, the higher mounted the flames."
       },
       {
-        "section": [8],
+        "section": [2, 8],
         "title": "Tomb on Mount Carmel"
       },
       {
         "text": "After the Báb’s martyrdom, His remains, with those of His devoted companion, were thrown on the edge of the moat outside the city wall. On the second night they were rescued at midnight by some of the Bábís, and after being concealed for years in secret depositories in Persia, were ultimately brought, with great danger and difficulty, to the Holy Land. There they are now interred in a tomb beautifully situated on the slope of Mount Carmel, not far from the Cave of Elijah, and only a few miles from the spot where Bahá’u’lláh spent His last years and where His remains now lie. Among the thousands of pilgrims from all parts of the world who come to pay homage at the Holy Tomb of Bahá’u’lláh, none omits to offer a prayer also at the shrine of His devoted lover and forerunner, the Báb."
       },
       {
-        "section": [9],
+        "section": [2, 9],
         "title": "Writings of Báb"
       },
       {
@@ -360,7 +359,7 @@
         "text": "Some of these [the Báb’s Writings] were commentaries on, and interpretations of the verses of the Qur’án; some were prayers, homilies, and hints of [the true significance of certain] passages; others were exhortations, admonitions, dissertations on the different branches of the doctrine of the Divine Unity . . . encouragements to amendment of character, severance from worldly states, and dependence on the inspirations of God. But the essence and purport of his compositions were the praises and descriptions of that Reality soon to appear which was his only object and aim, his darling, and his desire. For he regarded his own appearance as that of a harbinger of good tidings, and considered his own real nature merely as a means for the manifestation of the greater perfections of that One. And indeed he ceased not from celebrating Him by night or day for a single instant, but used to signify to all his followers that they should expect His arising: in such wise that he declares in his writings, “I am a letter out of that most mighty book and a dew‑drop from that limitless ocean, and, when He shall appear, my true nature, my mysteries, riddles, and intimations will become evident, and the embryo of this religion shall develop through the grades of its being and ascent, attain to the station of ‘the most comely of forms,’ and become adorned with the robe of ‘blessed be God, the Best of Creators.’” . . . and so inflamed was he with His flame that commemoration of Him was the bright candle of his dark nights in the fortress of Máh‑Kú, and remembrance of Him was the best of companions in the straits of the prison of Chihríq. Thereby he obtained spiritual enlargements; with His wine was he inebriated; and at remembrance of Him did he rejoice.—A Traveller’s Narrative (Episode of the Báb)."
       },
       {
-        "section": [10],
+        "section": [2, 10],
         "title": "He Whom God Shall Make Manifest"
       },
       {
@@ -370,14 +369,14 @@
         "text": "He counted Himself happy in enduring any affliction, if by so doing He could smooth the path, by ever so little, for “Him Whom God shall make manifest,” Who was, He declared, the sole source of His inspiration as well as the sole object of His love."
       },
       {
-        "section": [11],
+        "section": [2, 11],
         "title": "Resurrection, Paradise, and Hell"
       },
       {
         "text": "An important part of the Báb’s teaching is His explanation of the terms Resurrection, Day of Judgement, Paradise and Hell. By the Resurrection is meant, He said, the appearance of a new Manifestation of the Sun of Truth. The raising of the dead means the spiritual awakening of those who are asleep in the graves of ignorance, heedlessness and lust. The Day of Judgement is the Day of the new Manifestation, by acceptance or rejection of Whose Revelation the sheep are separated from the goats, for the sheep know the voice of the Good Shepherd and follow Him. Paradise is the joy of knowing and loving God, as revealed through His Manifestation, thereby attaining to the utmost perfection of which one is capable, and, after death, obtaining entrance to the Kingdom of God and the life everlasting. Hell is simply deprivation of that knowledge of God with consequent failure to attain divine perfection, and loss of the Eternal Favour. He definitely declared that these terms have no real meaning apart from this; and that the prevalent ideas regarding the resurrection of the material body, a material heaven and hell, and the like, are mere figments of the imagination. He taught that man has a life after death, and that in the afterlife progress towards perfection is limitless."
       },
       {
-        "section": [12],
+        "section": [2, 12],
         "title": "Social and Ethical Teachings"
       },
       {
@@ -390,7 +389,7 @@
         "text": "So worship God that if the recompense of thy worship of Him were to be the Fire, no alteration in thy worship of Him would be produced. If you worship from fear, that is unworthy of the threshold of the holiness of God. . . . So also, if your gaze is on Paradise, and if you worship in hope of that; for then you have made God’s creation a Partner with Him.—Bábís of Persia, II, by Prof. E. G. Browne, J.R.A.S., vol. xxi."
       },
       {
-        "section": [13],
+        "section": [2, 13],
         "title": "Passion and Triumph"
       },
       {
@@ -401,16 +400,11 @@
       },
       {
         "text": "The Báb has endured and the Báb has triumphed. Thousands have testified to the sincerity of their love for Him by sacrificing their lives and their all in His service. Kings might well envy His power over men’s hearts and lives. Moreover, “He Whom the Lord shall make manifest” has appeared, has confirmed the claims and accepted the devotion of His forerunner, and made Him partaker of His Glory."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 3,
-    "title": "Bahá’u’lláh: The Glory of God",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [3],
+        "title": "Bahá’u’lláh: The Glory of God"
+      },
       {
         "text": "O thou who art waiting, tarry no longer, for He is come. Behold His Tabernacle and His Glory dwelling therein. It is the Ancient Glory, with a new Manifestation."
       },
@@ -418,7 +412,7 @@
         "text": "—Bahá’u’lláh."
       },
       {
-        "section": [1],
+        "section": [3, 1],
         "title": "Birth and Early Life"
       },
       {
@@ -452,7 +446,7 @@
         "text": "One night, in a dream, these exalted words were heard on every side: “Verily, We shall render Thee victorious by Thyself and by Thy Pen. Grieve Thou not for that which hath befallen Thee, neither be Thou afraid, for Thou art in safety. Erelong will God raise up the treasures of the earth—men who will aid Thee through Thyself and through Thy Name, wherewith God hath revived the hearts of such as have recognised Him.”—Epistle to the Son of the Wolf."
       },
       {
-        "section": [2],
+        "section": [3, 2],
         "title": "Exile to Baghdád"
       },
       {
@@ -465,7 +459,7 @@
         "text": "As soon as His health permitted, Bahá’u’lláh began to teach inquirers and to encourage and exhort the believers, and soon peace and happiness reigned among the Bábís. This, however, was short‑lived. Bahá’u’lláh’s half brother, Mírzá Yaḥyá, also known as Ṣubḥ‑i‑Azal, arrived in Baghdád, and soon afterwards differences, secretly instigated by him, began to grow, just as similar divisions had arisen among the disciples of Christ. These differences (which later, in Adrianople, became open and violent) were very painful to Bahá’u’lláh, Whose whole aim in life was the promotion of unity among the people of the world."
       },
       {
-        "section": [3],
+        "section": [3, 3],
         "title": "Two Years in the Wilderness"
       },
       {
@@ -478,7 +472,7 @@
         "text": "What pen can recount the things We beheld upon Our return! Two years have elapsed during which Our enemies have ceaselessly and assiduously contrived to exterminate Us, whereunto all witness.—Kitáb‑i‑Íqán."
       },
       {
-        "section": [4],
+        "section": [3, 4],
         "title": "Opposition of Mullás"
       },
       {
@@ -488,21 +482,21 @@
         "text": "It was characteristic of Bahá’u’lláh that, at this crisis, when at the instigation of the Muḥammadan Mullás the Persian and Turkish Governments were combining their efforts to eradicate the Movement, He remained calm and serene, encouraging and inspiring His followers and writing imperishable words of consolation and guidance. ‘Abdu’l‑Bahá related how the Hidden Words were written at this time. Bahá’u’lláh would often go for a walk along the bank of the Tigris. He would come back looking very happy and write down those lyric gems of wise counsel which have brought help and healing to thousands of aching and troubled hearts. For years, only a few manuscript copies of the Hidden Words were in existence, and these had to be carefully concealed lest they should fall into the hands of the enemies that abounded, but now this little volume is probably the best known of all Bahá’u’lláh’s works, and is read in every quarter of the globe. The Book of Íqán is another well‑known work of Bahá’u’lláh’s written about the same period, towards the end of His sojourn at Baghdád (1862—1863 A.D.)"
       },
       {
-        "section": [5],
+        "section": [3, 5],
         "title": "Declaration at Riḍván near Baghdád"
       },
       {
         "text": "After much negotiation, at the request of the Persian Government, an order was issued by the Turkish Government summoning Bahá’u’lláh to Constantinople. On receipt of this news His followers were in consternation. They besieged the house of their beloved Leader to such an extent that the family encamped in the Garden of Najíb Páshá outside the town for twelve days, while the caravan was being prepared for the long journey. It was on the first of these twelve days (April 22 to May 3, 1863, i.e., nineteen years after the Báb’s Declaration) that Bahá’u’lláh announced to several of His followers the glad tidings that He was the One Whose coming had been foretold by the Báb—the Chosen of God, the Promised One of all the Prophets. The Garden where this memorable Declaration took place has become known to Bahá’ís as the “Garden of Riḍván,” and the days Bahá’u’lláh spent there are commemorated in the “Feast of Riḍván,” which is held annually on the anniversary of those twelve days. During those days Bahá’u’lláh, instead of being sad or depressed, showed the greatest joy, dignity and power. His followers became happy and enthusiastic, and great crowds came to pay their respects to Him. All the notables of Baghdád, even the Governor himself, came to honour the departing prisoner."
       },
       {
-        "section": [6],
+        "section": [3, 6],
         "title": "Constantinople and Adrianople"
       },
       {
         "text": "The journey to Constantinople lasted between three and four months, the party consisting of Bahá’u’lláh with members of His family and twenty‑six disciples. Arrived in Constantinople they found themselves prisoners in a small house in which they were very much overcrowded. Later they got somewhat better quarters, but after four months they were again moved on, this time to Adrianople. The journey to Adrianople, although it lasted but a few days, was the most terrible they had yet undertaken. Snow fell heavily most of the time, and as they were destitute of proper clothing and food, their sufferings were extreme. For the first winter in Adrianople, Bahá’u’lláh and His family, numbering twelve persons, were accommodated in a small house of three rooms, comfortless and vermin infested. In the spring they were given a more comfortable abode. They remained in Adrianople for four and a half years. Here Bahá’u’lláh resumed His teaching and gathered about Him a large following. He publicly announced His mission and was enthusiastically accepted by the majority of the Bábís, who were known thereafter as Bahá’ís. A minority, however, under the leadership of Bahá’u’lláh’s half brother, Mírzá Yaḥyá, became violently opposed to Him and joined with their former enemies, the Shí‘ihs, in plotting for His overthrow. Great troubles ensued, and at last the Turkish Government banished both Bábís and Bahá’ís from Adrianople, exiling Bahá’u’lláh and His followers to ‘Akká, in Palestine, where they arrived (according to Nabíl) on August 31, 1868, while Mírzá Yaḥyá and his party were sent to Cyprus."
       },
       {
-        "section": [7],
+        "section": [3, 7],
         "title": "Letters to Kings"
       },
       {
@@ -530,14 +524,14 @@
         "text": "During the imprisonment in the barracks, visitors were rigidly excluded. Several of the Bahá’ís of Persia came all the way on foot for the purpose of seeing their beloved Leader, but were refused admittance within the city walls. They used to go to a place on the plain outside the third moat, from which they could see the windows of Bahá’u’lláh’s quarters. He would show Himself to them at one of the windows and after gazing on Him from afar, they would weep and return to their homes, fired with new zeal for sacrifice and service."
       },
       {
-        "section": [8],
+        "section": [3, 8],
         "title": "Restrictions Relaxed"
       },
       {
         "text": "At last the imprisonment was mitigated. A mobilisation of Turkish troops occurred and the barracks were required for soldiers. Bahá’u’lláh and His family were transferred to a house by themselves and the rest of the party were accommodated in a caravanserai in the town. Bahá’u’lláh was confined for seven more years in this house. In a small room near that in which He was imprisoned, thirteen of His household, including both sexes, had to accommodate themselves as best they could! In the earlier part of their stay in this house they suffered greatly from insufficiency of accommodation, inadequate food supply and a lack of the ordinary conveniences of life. After a time, however, a few additional rooms were placed at their disposal and they were able to live in comparative comfort. From the time Bahá’u’lláh and His companions left the barracks, visitors were allowed to see them, and gradually the severe restrictions imposed by the Imperial firmans were more and more left in abeyance, although now and then reimposed for a time."
       },
       {
-        "section": [9],
+        "section": [3, 9],
         "title": "Prison Gates Opened"
       },
       {
@@ -580,14 +574,14 @@
         "text": "Such, so far as I can recall them, were the words which, besides many others, I heard from Behá. Let those who read them consider well with themselves whether such doctrines merit death and bonds, and whether the world is more likely gain or lose by their diffusion.—Introduction to A Traveller’s Narrative (Episode of the Báb)."
       },
       {
-        "section": [10],
+        "section": [3, 10],
         "title": "Ascension"
       },
       {
         "text": "Thus simply and serenely did Bahá’u’lláh pass the evening of His life on earth until, after an attack of fever, He passed away on the 29th of May, 1892, at the age of seventy‑five. Among the last Tablets He revealed was His Will and Testament, which He wrote with His own hand and duly signed and sealed. Nine days after His death the seals were broken by His eldest son, in the presence of members of the family and a few friends, and the contents of the short but remarkable document were made known. By this will ‘Abdu’l‑Bahá was constituted His father’s representative and the expounder of His teachings, and the family and relatives of Bahá’u’lláh and all believers were instructed to turn to Him and obey Him. By this arrangement sectarianism and division were provided against and the unity of the Cause assured."
       },
       {
-        "section": [11],
+        "section": [3, 11],
         "title": "Prophethood of Bahá’u’lláh"
       },
       {
@@ -636,7 +630,7 @@
         "text": "Naught is seen in My temple but the Temple of God, and in My beauty but His Beauty, and in My being but His Being, and in My self but His Self, and in My movement but His Movement, and in My acquiescence but His Acquiescence, and in My pen but His Pen, the Mighty, the All‑Praised. There hath not been in My soul but the Truth, and in Myself naught could be seen but God.—The Summons of the Lord of Hosts, Súriy‑i‑Haykal."
       },
       {
-        "section": [12],
+        "section": [3, 12],
         "title": "His Mission"
       },
       {
@@ -670,7 +664,7 @@
         "text": "“The fullness of time” has come and with it the Promised Deliverer!"
       },
       {
-        "section": [13],
+        "section": [3, 13],
         "title": "His Writings"
       },
       {
@@ -689,7 +683,7 @@
         "text": "It is because of this that His Cause had effect among the learned and cultured, spiritual poets and well‑known writers. Even some of the leaders of the Ṣúfís and of other sets, and some of the political ministers who were writers, were attracted by His words, for they exceeded those of all other writers in sweetness and depth of spiritual meaning."
       },
       {
-        "section": [14],
+        "section": [3, 14],
         "title": "The Bahá’í Spirit"
       },
       {
@@ -700,16 +694,11 @@
       },
       {
         "text": "Such was the faith inspired by Bahá’u’lláh. He announced His own mission, as the Báb had foretold that He would, and, thanks to the devoted labours of His great Forerunner, there were thousands ready to acclaim His Advent—thousands who had shaken off superstitions and prejudices, and were waiting with pure hearts and open minds for the Manifestation of God’s Promised Glory. Poverty and chains, sordid circumstances and outward ignominy could not hide from them the Spiritual Glory of their Lord—nay, these dark earthly surroundings only served to enhance the brilliance of His real Splendour."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 4,
-    "title": "‘Abdu’l‑Bahá: The Servant of Bahá",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [4],
+        "title": "‘Abdu’l‑Bahá: The Servant of Bahá"
+      },
       {
         "text": "When the ocean of My presence hath ebbed and the Book of My Revelation is ended, turn your faces towards Him Whom God hath purposed, Who hath branched from this Ancient Root."
       },
@@ -717,7 +706,7 @@
         "text": "—Bahá’u’lláh, Kitáb‑i‑Aqdas."
       },
       {
-        "section": [1],
+        "section": [4, 1],
         "title": "Birth and Childhood"
       },
       {
@@ -739,7 +728,7 @@
         "text": "When His father went away for two years in the wilderness, ‘Abbás was heartbroken. His chief consolation consisted in copying and committing to memory the Tablets of the Báb, and much of His time was spent in solitary meditation. When at last His father returned, the boy was overwhelmed with joy."
       },
       {
-        "section": [2],
+        "section": [4, 2],
         "title": "Youth"
       },
       {
@@ -755,7 +744,7 @@
         "text": "During the years spent in Adrianople, ‘Abdu’l‑Bahá endeared Himself to everyone. He taught much, and became generally known as the “Master.” At ‘Akká, when nearly all the party were ill with typhoid, malaria, and dysentery, He washed the patients, nursed them, fed them, watched with them, taking no rest, until utterly exhausted, He Himself took dysentery, and for about a month remained in a dangerous condition. In ‘Akká, as in Adrianople, all classes, from the Governor to the most wretched beggar, learned to love and respect Him."
       },
       {
-        "section": [3],
+        "section": [4, 3],
         "title": "Marriage"
       },
       {
@@ -768,7 +757,7 @@
         "text": "The marriage proved exceedingly happy and harmonious. Of the children born to them four daughters have survived the rigours of their long imprisonment, and, through their beautiful lives of service, have endeared themselves to all who have been privileged to know them."
       },
       {
-        "section": [4],
+        "section": [4, 4],
         "title": "Centre of the Covenant"
       },
       {
@@ -781,7 +770,7 @@
         "text": "In accordance with instructions received from His father, ‘Abdu’l‑Bahá was erecting a building on the side of Mount Carmel, above Haifa, which was intended to be the permanent resting‑place of the remains of the Báb, and also to contain a number of rooms for meetings and services. They represented to the authorities that this building was intended as a fort, and that ‘Abdu’l‑Bahá and His followers meant to entrench themselves there, defy the Government, and endeavour to gain possession of the neighbouring region of Syria."
       },
       {
-        "section": [5],
+        "section": [4, 5],
         "title": "Strict Imprisonment Renewed"
       },
       {
@@ -830,7 +819,7 @@
         "text": "Anyone can be happy in the state of comfort, ease, health, success, pleasure and joy; but if one be happy and contented in the time of trouble, hardship and prevailing disease, that is the proof of nobility."
       },
       {
-        "section": [6],
+        "section": [4, 6],
         "title": "Turkish Commissions of Investigation"
       },
       {
@@ -843,14 +832,14 @@
         "text": "The four corrupt officials who constituted the last investigating commission arrived in ‘Akká in the early part of the winter of 1907, stayed one month, and departed for Constantinople, after finishing their so called “investigation,” prepared to report that the charges against ‘Abdu’l‑Bahá had been substantiated and to recommend His exile or execution. No sooner had they got back to Turkey, however, than the Revolution broke out there and the four commissioners, who belonged to the old regime, had to flee for their lives. The Young Turks established their supremacy, and all political and religious prisoners in the Ottoman Empire were set free. In September 1908 ‘Abdu’l‑Bahá was released from prison, and in the following year ‘Abdu’l‑Ẓamíd, the Sulṭán, became himself a prisoner."
       },
       {
-        "section": [7],
+        "section": [4, 7],
         "title": "Western Tours"
       },
       {
         "text": "After His release, ‘Abdu’l‑Bahá continued the same holy life of ceaseless activity in teaching, correspondence, ministering to the poor and the sick, with merely the change from ‘Akká to Haifa and from Haifa to Alexandria, until August 1911, when He started on His first visit to the Western world. During His tours in the West, ‘Abdu’l‑Bahá met men of every shade of opinion and amply fulfilled the command of Bahá’u’lláh to “Consort with all the people with joy and fragrance.” He reached London early in September 1911, and spent a month there, during which, besides daily talks with inquirers and many other activities, He addressed the congregations of the Rev. R. J. Campbell at the City Temple, and of Archdeacon Wilberforce at St. John’s, Westminster, and breakfasted with the Lord Mayor. He then proceeded to Paris, where His time was occupied in giving daily addresses and talks to eager listeners of many nationalities and types. In December He returned to Egypt, and next spring, in response to the earnest entreaty of the American friends, He proceeded to the United States, arriving in New York in April 1912. During the next nine months He travelled through America, from coast to coast, addressing all sorts and conditions of men—university students, Socialists, Mormons, Jews, Christians, Agnostics, Esperantists, Peace Societies, New Thought Clubs, Women’s Suffrage Societies, and speaking in churches of almost every denomination, in each case giving addresses suited to the audience and the occasion. On December 5 He sailed for Great Britain, where He passed six weeks, visiting Liverpool, London, Bristol and Edinburgh. In Edinburgh He gave a notable address to the Esperanto Society, in which He announced that He had encouraged the Bahá’ís of the East to study Esperanto in order to further better understanding between the East and the West. After two months in Paris, spent as before in daily interviews and conference, He proceeded to Stuttgart, where He held a series of very successful meetings with the German Bahá’ís; thence to Budapest and Vienna, founding new groups in these places, returning, in May 1913, to Egypt, and on December 5, 1913, to Haifa."
       },
       {
-        "section": [8],
+        "section": [4, 8],
         "title": "Return to Holy Land"
       },
       {
@@ -890,7 +879,7 @@
         "text": "Both during the European War and after its close ‘Abdu’l‑Bahá, amidst countless other activities, was able to pour forth a series of great and inspiring letters which, when communications were reopened, roused believers throughout the world to new enthusiasm and zeal for service. Under the inspiration of these letters the Cause progressed by leaps and bounds and everywhere the Faith showed signs of new vitality and vigour."
       },
       {
-        "section": [9],
+        "section": [4, 9],
         "title": "War Time at Haifa"
       },
       {
@@ -912,7 +901,7 @@
         "text": "From the beginning of the British occupation, large numbers of soldiers and Government officials of all ranks, even the highest, sought interviews with ‘Abdu’l‑Bahá, delighting in His illuminating talks, His breadth of view and depth of insight, His dignified courtesy and genial hospitality. So profoundly impressed were the Government representatives by His noble character and His great work in the interests of peace conciliation, and the true prosperity of the people, that a knighthood of the British Empire was conferred on ‘Abdu’l‑Bahá, the ceremony taking place in the garden of the Military Governor of Haifa on the 27th day of April, 1920."
       },
       {
-        "section": [10],
+        "section": [4, 10],
         "title": "Last Years"
       },
       {
@@ -946,7 +935,7 @@
         "text": "Surely here was a fitting tribute to the memory of One Who had laboured all His life for unity of religions, of races, of tongues—a tribute, and also a proof, that His lifework had not been in vain, that the ideals of Bahá’u’lláh, which were His inspiration, nay, His very life, were already beginning to permeate the world and to break down the barriers of sect and caste that for centuries had alienated Muslim, Christian, Jew, and the other diverse factions into which the human family has been riven."
       },
       {
-        "section": [11],
+        "section": [4, 11],
         "title": "Writings and Addresses"
       },
       {
@@ -983,21 +972,16 @@
         "text": "By this statement, and by numerous others in which ‘Abdu’l‑Bahá emphasised the importance of basing one’s knowledge of the Faith upon His general Tablets, a foundation for unity of belief was established, with the result that the differences of understanding caused by reference to His Tablets to individuals, in which the Master answered personal questions, rapidly disappeared. Above all, the establishment of a definite administrative order, with the Guardian at its head, transferred to institutions all authority previously wielded in the form of prestige and influence by individual Bahá’ís in the various local groups."
       },
       {
-        "section": [12],
+        "section": [4, 12],
         "title": "Exemplar of Bahá’í Life"
       },
       {
         "text": "Bahá’u’lláh was preeminently the Revealer of the Word. His forty years’ imprisonment gave Him but limited opportunities of intercourse with His fellowmen. To ‘Abdu’l‑Bahá, therefore, fell the important task of becoming the exponent of the Revelation, the Doer of the Word, the Great Exemplar of the Bahá’í life in actual contact with the world of today, in the most diverse phases of its myriad activities. He showed that it is still possible, amid the whirl and rush of modern life, amid the self‑love and struggle for material prosperity that everywhere prevail, to live the life of entire devotion to God and to the service of one’s fellows, which Christ and Bahá’u’lláh and all the Prophets have demanded of men. Through trial and vicissitudes, calumnies, and treachery on the one hand, and through love and praise, devotion and veneration on the other, He stood like a lighthouse founded on a rock, around which wintry tempests rage and the summer ocean plays, His poise and serenity remaining ever steadfast and unshaken. He lived the life of faith, and calls on His followers to live it here and now. He raised amid a warring world the Banner of Unity and Peace, the Standard of a New Era, and He assures those who rally to its support that they shall be inspired by the Spirit of the New Day. It is the same Holy Spirit which inspired the Prophets and Saints of old, but it is a new outpouring of that Spirit, suited to the needs of the new time."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 5,
-    "title": "What is a Bahá’í",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [5],
+        "title": "What is a Bahá’í"
+      },
       {
         "text": "Man must show forth fruits. A fruitless man, in the words of His Holiness the Spirit [Jesus], is like a fruitless tree, and a fruitless tree is fit for fire."
       },
@@ -1008,7 +992,7 @@
         "text": "Herbert Spencer once remarked that by no political alchemy is it possible to get golden conduct out of leaden instincts, and it is equally true that by no political alchemy is it possible to make a golden society out of leaden individuals. Bahá’u’lláh, like all previous Prophets, proclaimed this truth and taught that in order to establish the Kingdom of God in the world, it must first be established in the hearts of men. In examining the Bahá’í teachings, therefore, we shall commence with the instructions of Bahá’u’lláh for individual conduct, and try to form a clear picture of what it means to be a Bahá’í."
       },
       {
-        "section": [1],
+        "section": [5, 1],
         "title": "Living the Life"
       },
       {
@@ -1021,7 +1005,7 @@
         "text": "One who does not know God’s Messengers, however, is like a plant growing in the shade. Although it knows not the sun, it is, nevertheless, absolutely dependent on it. The great Prophets are spiritual suns, and Bahá’u’lláh is the sun of this “day” in which we live. The suns of former days have warmed and vivified the world, and had those suns not shone, the earth would not be cold and dead, but it is the sunshine of today that alone can ripen the fruits which the suns of former days have kissed into life."
       },
       {
-        "section": [2],
+        "section": [5, 2],
         "title": "Devotion to God"
       },
       {
@@ -1031,7 +1015,7 @@
         "text": "Intellectual assent to a creed does not make a man a Bahá’í, nor does outward rectitude of conduct. Bahá’u’lláh requires of His followers wholehearted and complete devotion. God alone has the right to make such a demand, but Bahá’u’lláh speaks as the Manifestation of God, and the Revealer of His Will. Previous Manifestations have been equally clear on this point. Christ said: “If any man come after me, let him deny himself, and take up his cross daily, and follow me. For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.” In different words, all the Divine Manifestations have made this same demand from Their followers, and the history of religion shows clearly that as long as the demand has been frankly recognised and accepted, religion has flourished, despite all earthly opposition, despite affliction, persecution and martyrdom of the believers. On the other hand, whenever compromise has crept in, and “respectability” has taken the place of complete consecration, then religion has decayed. It has become fashionable, but it has lost its power to save and transform, its power to work miracles. True religion has never yet been fashionable. God grant that one day it may become so; but it is still true, as in the days of Christ, that “strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.” The gateway of spiritual birth, like the gateway of natural birth, admits men only one by one, and without encumbrances. If, in the future, more people succeed in entering that way than in the past, it will not be because of any widening of the gate, but because of a greater disposition on the part of men to make the “great surrender” which God demands; because long and bitter experience has at last brought them to see the folly of choosing their own way instead of God’s way."
       },
       {
-        "section": [3],
+        "section": [5, 3],
         "title": "Search After Truth"
       },
       {
@@ -1053,7 +1037,7 @@
         "text": "The Manifestation is the Perfect Man, the great Exemplar for Mankind, the First Fruit of the tree of humanity. Until we know Him we do not know the latent possibilities within ourselves. Christ tells us to consider the lilies how they grow, and declares that Solomon in all his glory was not arrayed like one of these. The lily grows from a very unattractive‑looking bulb. If we had never seen a lily in bloom, never gazed on its matchless grace of foliage and flower, how could we know the reality contained in that bulb? We might dissect it most carefully and examine it most minutely, but we should never discover the dormant beauty which the gardener knows how to awaken. So until we have seen the Glory of God revealed in the Manifestation, we can have no idea of the spiritual beauty latent in our own nature and in that of our fellows. By knowing and loving the Manifestation of God and following His teachings we are enabled, little by little, to realise the potential perfections within ourselves; then, and not till then, does the meaning and purpose of life and of the universe become apparent to us."
       },
       {
-        "section": [4],
+        "section": [5, 4],
         "title": "Love of God"
       },
       {
@@ -1087,7 +1071,7 @@
         "text": "Every soul of the beloved ones must love the others and withhold not his possessions and life from them, and by all means he must endeavour to make the other joyous and happy. But these others must also be disinterested and self‑sacrificing. Thus may this Sunrise flood the horizons, this Melody gladden and make happy all the people, this divine Remedy become the panacea for every disease, this Spirit of Truth become the cause of life for every soul."
       },
       {
-        "section": [5],
+        "section": [5, 5],
         "title": "Severance"
       },
       {
@@ -1103,7 +1087,7 @@
         "text": "O My Servant! Free thyself from the fetters of this world, and loose thy soul from the prison of self. Seize thy chance, for it will come to thee no more.—The Hidden Words."
       },
       {
-        "section": [6],
+        "section": [5, 6],
         "title": "Obedience"
       },
       {
@@ -1113,7 +1097,7 @@
         "text": "Implicit obedience is not a popular virtue in these democratic days, and indeed entire submission to the will of any mere man would be disastrous. But the Unity of Humanity can be attained only by complete harmony of each and all with the Divine will. Unless that Will be clearly revealed, and men abandon all other leaders and obey the Divine Messenger, then conflict and strife will go on, and men will continue to oppose each other, to devote a large part of their energy to frustrating the efforts of their brother men, instead of working harmoniously together for the Glory of God and the common good."
       },
       {
-        "section": [7],
+        "section": [5, 7],
         "title": "Service"
       },
       {
@@ -1126,7 +1110,7 @@
         "text": "In the Bahá’í Cause arts, sciences and all crafts are counted as worship. The man who makes a piece of notepaper to the best of his ability, conscientiously, concentrating all his forces on perfecting it, is giving praise to God. Briefly, all effort and exertion put forth by man from the fullness of his heart is worship, if it is prompted by the highest motives and the will to do service to humanity. This is worship: to serve mankind and to minister to the needs of the people. Service is prayer. A physician ministering to the sick, gently, tenderly, free from prejudice and believing in the solidarity of the human race, is giving praise."
       },
       {
-        "section": [8],
+        "section": [5, 8],
         "title": "Teaching"
       },
       {
@@ -1151,7 +1135,7 @@
         "text": "O people of Bahá! Ye are the dawning‑places of the love of God and the daysprings of His loving‑kindness. Defile not your tongues with the cursing and reviling of any soul, and guard your eyes against that which is not seemly. Set forth that which ye possess. If it be favourably received, your end is attained; if not, to protest is vain. Leave that soul to himself and turn unto the Lord, the Protector, the Self‑Subsisting. Be not the cause of grief, much less of discord and strife. The hope is cherished that ye may obtain true education in the shelter of the tree of His tender mercies and act in accordance with that which God desireth. Ye are all the leaves of one tree and the drops of one ocean."
       },
       {
-        "section": [9],
+        "section": [5, 9],
         "title": "Courtesy and Reverence"
       },
       {
@@ -1182,7 +1166,7 @@
         "text": "Such counsel appears unintelligible and self‑contradictory until we realise that while the outer carnal man may be a hater and ill‑wisher, there is in everyone an inner, spiritual nature which is the real man, from whom only love and goodwill can proceed. It is to this real, inner man in each of our neighbours that we must direct our thought and love. When he awakens into activity, the outer man will be transformed and renewed."
       },
       {
-        "section": [10],
+        "section": [5, 10],
         "title": "The Sin‑covering Eye"
       },
       {
@@ -1213,7 +1197,7 @@
         "text": "The worst human quality and the most great sin is backbiting, more especially when it emanates from the tongues of the believers of God. If some means were devised so that the doors of backbiting could be shut eternally, and each one of the believers of God unsealed his lips in praise of others, then the teachings of His Holiness Bahá’u’lláh would be spread, the hearts illumined, the spirits glorified, and the human world would attain to everlasting felicity."
       },
       {
-        "section": [11],
+        "section": [5, 11],
         "title": "Humility"
       },
       {
@@ -1241,7 +1225,7 @@
         "text": "When the sinner findeth himself wholly detached and freed from all save God, he should beg forgiveness and pardon from Him. Confession of sins and transgressions before human beings is not permissible, as it hath never been nor will ever be conducive to divine forgiveness. Moreover such confession before people results in one’s humiliation and abasement, and God—exalted be His glory—wisheth not the humiliation of His servants. Verily He is the Compassionate, the Merciful. The sinner should, between himself and God, implore mercy from the Ocean of mercy, beg forgiveness from the Heaven of generosity . . ."
       },
       {
-        "section": [12],
+        "section": [5, 12],
         "title": "Truthfulness and Honesty"
       },
       {
@@ -1266,7 +1250,7 @@
         "text": "Let the light of truth and honesty shine from your faces so that all may know that your word, in business or pleasure, is a word to trust and be sure of. Forget self and work for the whole. (Message to the London Bahá’ís, October 1911.)"
       },
       {
-        "section": [13],
+        "section": [5, 13],
         "title": "Self‑Realisation"
       },
       {
@@ -1286,16 +1270,11 @@
       },
       {
         "text": "The life to which Bahá’u’lláh calls His followers is surely one of such nobility that in all the vast range of human possibility there is nothing more lofty or beautiful to which man could aspire. Realisation of the spiritual self in ourselves means realisation of the sublime truth that we are from God and to Him shall we return. This return to God is the glorious goal of the Bahá’í; but to attain this goal the only path is that of obedience to His chosen Messengers, and especially to His Messenger for the time in which we live, Bahá’u’lláh, the prophet of the New Era."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 6,
-    "title": "Prayer",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [6],
+        "title": "Prayer"
+      },
       {
         "text": "Prayer is a ladder by which everyone may ascend to Heaven."
       },
@@ -1303,7 +1282,7 @@
         "text": "—Muḥammad."
       },
       {
-        "section": [1],
+        "section": [6, 1],
         "title": "Conversation with God"
       },
       {
@@ -1322,7 +1301,7 @@
         "text": "The tongue is unable to give an account of these, and utterance falls exceedingly short. The pen is useless in this court, and the ink gives no result but blackness. . . . Heart alone can communicate to heart the state of the knower; this is not the work of a messenger, nor can it be contained in letters."
       },
       {
-        "section": [2],
+        "section": [6, 2],
         "title": "The Devotional Attitude"
       },
       {
@@ -1353,7 +1332,7 @@
         "text": "Intone, O My servant, the verses of God that have been received by thee, . . . that the sweetness of thy melody may kindle thine own soul, and attract the hearts of all men. Whoso reciteth, in the privacy of his chamber, the verses revealed by God, the scattering angels of the Almighty shall scatter abroad the fragrance of the words uttered by his mouth. . . .—Gleaning from the Writings of Bahá’u’lláh."
       },
       {
-        "section": [3],
+        "section": [6, 3],
         "title": "Necessity for a Mediator"
       },
       {
@@ -1381,7 +1360,7 @@
         "text": "A man who tries to worship God without turning to His Manifestation is like a man in a dungeon trying through his imagination to revel in the glories of the sunshine."
       },
       {
-        "section": [4],
+        "section": [6, 4],
         "title": "Prayer Indispensable and Obligatory"
       },
       {
@@ -1409,7 +1388,7 @@
         "text": "Bahá’u’lláh has revealed three daily obligatory prayers. The believer is free to choose any one of these three prayers, but is under the obligation of reciting one of them, and in the manner Bahá’u’lláh has prescribed."
       },
       {
-        "section": [5],
+        "section": [6, 5],
         "title": "Congregational Prayer"
       },
       {
@@ -1425,7 +1404,7 @@
         "text": "To think in this way is useless imagination, for where many are gathered together their force is greater. Separate soldiers fighting alone and individually have not the force of a united army. If all the soldiers in this spiritual war gather together, then their united spiritual feelings help each other, and their prayers become acceptable. (From notes taken by Miss Ethel J. Rosenberg.)"
       },
       {
-        "section": [6],
+        "section": [6, 6],
         "title": "Prayer the Language of Love"
       },
       {
@@ -1444,7 +1423,7 @@
         "text": "In the highest prayer, men pray only for the love of God, not because they fear Him or hell, or hope for bounty or heaven. . . . When a man falls in love with a human being, it is impossible for him to keep from mentioning the name of his beloved. How much more difficult is it to keep from mentioning the Name of God when one has come to love Him. . . . The spiritual man finds no delight in anything save in commemoration of God. (From notes of Miss Alma Robertson and other pilgrims, November and December 1900.)"
       },
       {
-        "section": [7],
+        "section": [6, 7],
         "title": "Deliverance from Calamities"
       },
       {
@@ -1472,7 +1451,7 @@
         "text": "As to the subject of babes and children and weak ones who are afflicted by the hands of the oppressors . . . for those souls there is a recompense in another world . . . that suffering is the greatest mercy of God. Verily that mercy of the Lord is far better than all the comfort of this world and the growth and development appertaining to this place of mortality."
       },
       {
-        "section": [8],
+        "section": [6, 8],
         "title": "Prayer and Natural Law"
       },
       {
@@ -1482,7 +1461,7 @@
         "text": "Another difficulty which some find perplexing is that prayer seems too feeble a force to produce the great results often claimed to it. Analogy may serve to clear up this difficulty also. A small force, when applied to the sluice gate of a reservoir, may release and regulate an enormous flow of water‑power, or, when applied to the steering gear of an ocean liner, may control the course of the huge vessel. In the Bahá’í view, the power that brings about answers to prayer is the inexhaustible Power of God. The part of the suppliant is only to exert the feeble force necessary to release the flow or determine the course of the Divine Bounty, which is ever ready to serve those who have learned how to draw upon it."
       },
       {
-        "section": [9],
+        "section": [6, 9],
         "title": "Bahá’í Prayers"
       },
       {
@@ -1544,16 +1523,11 @@
       },
       {
         "text": "Bahá’í prayer is not, however, confined to the use of prescribed forms, important as those are. Bahá’u’lláh teaches that one’s whole life should be a prayer, that work done in the right spirit is worship, that every thought, word and deed devoted to the Glory of God and the good of one’s fellows is prayer, in the truest sense of the word."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 7,
-    "title": "Health and Healing",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [7],
+        "title": "Health and Healing"
+      },
       {
         "text": "Turning the face towards God brings healing to the body, the mind and the soul."
       },
@@ -1561,7 +1535,7 @@
         "text": "—‘Abdu’l‑Bahá."
       },
       {
-        "section": [1],
+        "section": [7, 1],
         "title": "Body and Soul"
       },
       {
@@ -1571,7 +1545,7 @@
         "text": "The body should be the servant of the soul, never its master, but it should be a willing, obedient and efficient servant, and should be treated with the consideration which a good servant deserves. If it is not properly treated, disease and disaster result, with injurious consequences to master as well as servant."
       },
       {
-        "section": [2],
+        "section": [7, 2],
         "title": "Oneness of All Life"
       },
       {
@@ -1581,7 +1555,7 @@
         "text": "There is no command of the Prophet, therefore, to whatever department of life it may primarily refer, which does not concern bodily health. Certain of the teachings, however, have a more direct bearing on physical health than others, and these we may now proceed to examine."
       },
       {
-        "section": [3],
+        "section": [7, 3],
         "title": "Simple Life"
       },
       {
@@ -1594,14 +1568,14 @@
         "text": "Animal food is not forbidden, but ‘Abdu’l‑Bahá says:—“Fruits and grains [will be the foods of the future]. The time will come when meat will no longer be eaten. Medical science is only in its infancy, yet it has shown that our natural diet is that which grows out of the ground.”—Ten Days in the Light of ‘Akká, by Julia M. Grundy."
       },
       {
-        "section": [4],
+        "section": [7, 4],
         "title": "Alcohol and Narcotics"
       },
       {
         "text": "The use of narcotics and intoxicants of any kind, except as remedies in case of illness, is strictly forbidden by Bahá’u’lláh."
       },
       {
-        "section": [5],
+        "section": [7, 5],
         "title": "Enjoyments"
       },
       {
@@ -1620,7 +1594,7 @@
         "text": "No, some games are innocent, and if pursued for pastime there is no harm. But there is danger that pastime may degenerate into waste of time. Waste of time is not acceptable in the Cause of God. But recreation which may improve the bodily powers, as exercise, is desirable.—A Heavenly Vista."
       },
       {
-        "section": [6],
+        "section": [7, 6],
         "title": "Cleanliness"
       },
       {
@@ -1633,7 +1607,7 @@
         "text": "Mírzá Abu’l‑Faḍl, in his book, Bahá’í Proofs, points out the extreme importance of these commands, more especially in some parts of the East, where water of the foulest description is often used for household purposes, for bathing and even for drinking, and horribly insanitary conditions abound, causing a vast amount of preventable disease and misery. These conditions, often supposed to be sanctioned by the prevailing religion, can be changed, among Orientals, only by the commandment of one who is believed to have Divine authority. In many parts of the Western Hemisphere, too, a wonderful transformation would result were cleanliness accepted not only as next to godliness, but as an essential part of godliness."
       },
       {
-        "section": [7],
+        "section": [7, 7],
         "title": "Effect of Obedience to Prophetic Commands"
       },
       {
@@ -1649,14 +1623,14 @@
         "text": "Simple obedience to the hygienic and moral commands of Moses, Buddha, Christ, Muḥammad or Bahá’u’lláh would do more in the way of preventing disease than all the doctors and all the public health regulations in the world have been able to accomplish. In fact, it seems certain that were such obedience general, good health would also become general. Instead of lives being blighted by disease or cut off in infancy, youth or prime, as so frequently happens now, men would live to a ripe old age, like sound fruits that mature and mellow ere they drop from the bough."
       },
       {
-        "section": [8],
+        "section": [7, 8],
         "title": "The Prophet as Physician"
       },
       {
         "text": "We live in a world, however, where from time immemorial obedience to the commands of the Prophets has been the exception rather than the rule; where love of self has been a more prevalent motive than love of God; where limited and party interests have taken precedence of the interests of humanity as a whole; where material possessions and sensual pleasures have been preferred to the social and spiritual welfare of mankind. Hence have arisen fierce competition and conflict, oppression and tyranny, extremes of wealth and poverty—all those conditions which breed disease, mental and physical. As a consequence, the whole tree of humanity is sick, and every leaf on the tree shares in the general sickness. Even the purest and holiest have to suffer for the sins of others. Healing is needed—healing of humanity as a whole, of nations and of individuals. So Bahá’u’lláh, like His inspired predecessors, not only shows how health is to be maintained, but also how it may be recovered when lost. He comes as the Great Physician, the Healer of the world’s sicknesses, both of body and of mind."
       },
       {
-        "section": [9],
+        "section": [7, 9],
         "title": "Healing by Material Means"
       },
       {
@@ -1687,7 +1661,7 @@
         "text": "Even when the means of healing are material, the power that heals is really Divine, for the attributes of the herb of mineral are from the Divine Bestowals. “All depends upon God. Medicine is merely an outward form or means by which we obtain heavenly healing.”"
       },
       {
-        "section": [10],
+        "section": [7, 10],
         "title": "Healing by Nonmaterial Means"
       },
       {
@@ -1715,7 +1689,7 @@
         "text": "All these methods of healing, however, are limited in their effects, and may fail to effect a cure in severe maladies."
       },
       {
-        "section": [11],
+        "section": [7, 11],
         "title": "The Power of the Holy Spirit"
       },
       {
@@ -1734,7 +1708,7 @@
         "text": "Of this nature, apparently, were the works of healing performed by Christ and His apostles, and similar works of healing have been attributed to holy men in all ages. Both Bahá’u’lláh and ‘Abdu’l‑Bahá were gifted with this power, and similar powers are promised to Their faithful followers."
       },
       {
-        "section": [12],
+        "section": [7, 12],
         "title": "Attitude of the Patient"
       },
       {
@@ -1774,7 +1748,7 @@
         "text": "God hath bestowed upon man such wonderful powers, that he might ever look upward, and receive, among other gifts, healing from His divine Bounty. But alas! man is not grateful for this supreme good, but sleeps the sleep of negligence, being careless of the great mercy which God has shown towards him, turning his face away from the Light and going on his way in darkness."
       },
       {
-        "section": [13],
+        "section": [7, 13],
         "title": "The Healer"
       },
       {
@@ -1805,7 +1779,7 @@
         "text": "Continue in healing hearts and bodies and seek healing for sick persons by turning unto the Supreme Kingdom and by setting the heart upon obtaining healing through the power of the Greatest Name and by the spirit of the Love of God.—Tablets of ‘Abdu’l‑Bahá, vol. iii."
       },
       {
-        "section": [14],
+        "section": [7, 14],
         "title": "How All Can Help"
       },
       {
@@ -1818,7 +1792,7 @@
         "text": "Few duties are impressed on Bahá’ís more repeatedly and emphatically than that of healing the sick, and many beautiful prayers for healing have been revealed by both Bahá’u’lláh and ‘Abdu’l‑Bahá."
       },
       {
-        "section": [15],
+        "section": [7, 15],
         "title": "The Golden Age"
       },
       {
@@ -1828,7 +1802,7 @@
         "text": "When the material world and the divine world are well correlated, when the hearts become heavenly and the aspirations pure, perfect connection shall take place. Then shall this power produce a perfect manifestation. Physical and spiritual diseases will then receive absolute healing."
       },
       {
-        "section": [16],
+        "section": [7, 16],
         "title": "Right Use of Health"
       },
       {
@@ -1836,16 +1810,11 @@
       },
       {
         "text": "If the health and well‑being of the body be expended in the path of the Kingdom, this is very acceptable and praiseworthy; and if it be expended to the benefit of the human world in general—even though it be to their material (or bodily) benefit—and be a means of doing good, that is also acceptable. But if the health and welfare of man be spent in sensual desires, in a life on the animal plane, and in devilish pursuits—then disease were better than such health; nay, death itself were preferable to such a life. If thou art desirous of health, wish thou health for serving the Kingdom. I hope that thou mayest attain perfect insight, inflexible resolution, complete health, and spiritual and physical strength in order that thou mayest drink from the fountain of eternal life and be assisted by the spirit of divine confirmation."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 8,
-    "title": "Religious Unity",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [8],
+        "title": "Religious Unity"
+      },
       {
         "text": "O ye that dwell on earth! The distinguishing feature that marketh the preeminent character of this Supreme Revelation consisteth in that We have, on the one hand, blotted out from the pages of God’s book whatsoever hath been the cause of strife, of malice and mischief amongst the children of men, and have, on the other, laid down the essential prerequisites of concord, of understanding, of complete and enduring unity. Well is it with them that keep My statutes."
       },
@@ -1853,7 +1822,7 @@
         "text": "—Bahá’u’lláh, Tablet of the World."
       },
       {
-        "section": [1],
+        "section": [8, 1],
         "title": "Sectarianism in the Nineteenth Century"
       },
       {
@@ -1869,7 +1838,7 @@
         "text": "This ferment and flux of opinion, with increasing recognition of the inadequacy of the old orthodoxies and dogmas, and groping and striving after fuller knowledge and understanding, were not confined to Christian countries, but were manifest, more or less, and in different forms, among the people of all countries and religions."
       },
       {
-        "section": [2],
+        "section": [8, 2],
         "title": "The Message of Bahá’u’lláh"
       },
       {
@@ -1882,7 +1851,7 @@
         "text": "It is a glorious message, but how are its proposals to be carried into effect? Prophets have preached, poets have sung and saints have prayed about these things for thousands of years, but diversities of religion have not ceased nor have strife and bloodshed and discord been annulled. What is there to show that now the miracle is to be accomplished? Are there any new factors in the situation? Is not human nature the same as it ever was, and will it not continue to be the same while the world lasts? If two people want the same thing, or two nations, will they not fight for it in the future as they have done in the past? If Moses, Buddha, Christ and Muḥammad failed to achieve world unity will Bahá’u’lláh succeed? If all previous faiths become corrupted and rent asunder into sects will not the Bahá’í Faith share the same fate? Let us see what answer the Bahá’í teachings give to these and similar questions."
       },
       {
-        "section": [3],
+        "section": [8, 3],
         "title": "Can Human Nature Change?"
       },
       {
@@ -1892,7 +1861,7 @@
         "text": "Bahá’u’lláh declares that just as lesser living things have times of sudden emergence into new and fuller life, so for mankind also a “critical stage,” a time of “rebirth,” is at hand. Then modes of life which have persisted from the dawn of history up till now will be quickly, irrevocably, altered, and humanity enter on a new phase of life as different from the old as the butterfly is different from the caterpillar, or the bird from the egg. Mankind as a whole, in the light of new Revelation, will attain to a new vision of truth; as a whole country is illumined when the sun rises, so that all men see clearly, where but an hour before everything was dark and dim. “This is a new cycle of human power,” says ‘Abdu’l‑Bahá. “All the horizons of the world are luminous, and the world will become indeed as a rose garden and a paradise.” The analogies of nature are all in favour of such a view; the Prophets of old have with one accord foretold the advent of such a glorious day; the signs of the times show clearly that profound and revolutionary changes in human ideas and institutions are even now in progress. What could be more futile and baseless therefore, than the pessimistic argument that, although all things else change, human nature cannot change?"
       },
       {
-        "section": [4],
+        "section": [8, 4],
         "title": "First Steps Toward Unity"
       },
       {
@@ -1917,7 +1886,7 @@
         "text": "Were even these first steps accomplished and a state of friendly mutual tolerance established between the various religious sects, what a wonderful change would be brought about in the world! In order that real unity may be achieved, however, something more than this is required. For the disease of sectarianism, tolerance is a valuable palliative, but it is not a radical cure. It does not remove the cause of the trouble."
       },
       {
-        "section": [5],
+        "section": [8, 5],
         "title": "The Problem of Authority"
       },
       {
@@ -1927,7 +1896,7 @@
         "text": "That which the Lord hath ordained as the sovereign remedy and mightiest instrument for the healing of all the world is the union of all its peoples in one universal Cause, one common Faith. This can in no wise be achieved except through the power of a skilled, an all powerful and inspired Physician. This, verily, is the truth, and all else naught but error.—Gleanings from the Writings of Bahá’u’lláh."
       },
       {
-        "section": [6],
+        "section": [8, 6],
         "title": "Progressive Revelation"
       },
       {
@@ -1949,7 +1918,7 @@
         "text": "The religion of God is the One Religion, and all the Prophets have taught it, but it is a living and a growing thing, not lifeless and unchanging. In the teaching of Moses we see the Bud; in that of Christ the Flower; in that of Bahá’u’lláh the Fruit. The flower does not destroy the bud, nor does the fruit destroy the flower. It destroys not, but fulfils. The bud scales must fall in order that the flower may bloom, and the petals must fall that the fruit may grow and ripen. Were the bud scales and the petals wrong or useless, then, that they had to be discarded? Nay, both in their time were right and necessary; without them there could have been no fruit. So it is with the various prophetic teachings; their externals change from age to age, but each revelation is the fulfilment of its predecessors; they are not separate or incongruous, but different stages in the life history of the One Religion, which has in turn been revealed as seed, as bud and as flower, and now enters on the stage of fruition."
       },
       {
-        "section": [7],
+        "section": [8, 7],
         "title": "Infallibility of the Prophets"
       },
       {
@@ -1968,7 +1937,7 @@
         "text": "God is the great Physician Who alone can rightly diagnose the world’s sickness and prescribe the appropriate remedy. The remedy prescribed in one age is no longer suitable in a later age, when the condition of the patient is different. To cling to the old remedy when the physician has ordered new treatment is not to show faith in the physician, but infidelity. It may be a shock to the Jew to be told that some of the remedies for the world’s sickness which Moses ordered over three thousand years ago are now out of date and unsuitable; the Christian may be equally shocked when told that Muḥammad had anything necessary or valuable to add to what Jesus prescribed; and so also the Muslim, when asked to admit that the Báb or Bahá’u’lláh had authority to alter the commands of Muḥammad; but according to the Bahá’í view, true devotion to God implies reverence to all His Prophets, and implicit obedience to His latest Commands, as given by the Prophet for our own age. Only by such devotion can true Unity be attained."
       },
       {
-        "section": [8],
+        "section": [8, 8],
         "title": "The Supreme Manifestation"
       },
       {
@@ -1996,7 +1965,7 @@
         "text": "Just as in these letters to Christians He announces the fulfilment of the Gospel promises, so He proclaims also to Muḥammadan, Jews, Zoroastrians and the people of other faiths the fulfilment of the promises of their Holy Books. He addresses all men as the sheep of God, who have hitherto been divided into different flocks and sheltered in different folds. His message, He says, is the Voice of God, the Good Shepherd, Who has come in the fullness of time to gather His scattered sheep into one flock, removing the barriers between them, that “there may be one fold and one shepherd.”"
       },
       {
-        "section": [9],
+        "section": [8, 9],
         "title": "A New Situation"
       },
       {
@@ -2015,7 +1984,7 @@
         "text": "Bahá’u’lláh is thus the first of the great Prophets Whose message has become known within a period of comparatively few years in every quarter of the globe. Within a short time the essential teachings of Bahá’u’lláh, translated from His own authentic Writings, will be directly accessible to every man, woman and child in the world who is able to read."
       },
       {
-        "section": [10],
+        "section": [8, 10],
         "title": "Fullness of the Bahá’í Revelation"
       },
       {
@@ -2025,7 +1994,7 @@
         "text": "On the other hand, both the Báb and Bahá’u’lláh wrote copiously and with great eloquence and power. As both were debarred from public speaking and spent most of Their lives (after the declaration of Their mission) in prison, They devoted a large proportion of Their time to writing, with the result that in richness of authentic scriptures the Bahá’í Revelation is unapproached by any of its predecessors. Clear and full expositions are given of many truths which were but dimly foreshadowed in previous revelations, and the eternal principles of truth, which all the Prophets have taught, have been applied to the problems which are facing the world today—problems of the utmost complexity and difficulty, many of which had not arisen in the days of former Prophets. It is evident that this full record of authentic revelation must have a powerful effect in preventing misunderstandings in the future and in clearing up those misunderstandings of the past which have kept the various sects asunder."
       },
       {
-        "section": [11],
+        "section": [8, 11],
         "title": "The Bahá’í Covenant"
       },
       {
@@ -2068,7 +2037,7 @@
         "text": "There is nothing to keep men from forsaking religion if they wish to do so. ‘Abdu’l‑Bahá says: “God Himself does not compel the soul to become spiritual. The exercise of the free human will is necessary.” The spiritual Covenant, however, clearly makes sectarianism within the Bahá’í community quite impossible."
       },
       {
-        "section": [12],
+        "section": [8, 12],
         "title": "No Professional Priesthood"
       },
       {
@@ -2079,16 +2048,11 @@
       },
       {
         "text": "For a child a teacher is necessary, but the aim of the true teacher is to fit his pupil to do without a teacher; to see things with his own eyes, hear with his own ears, and understand with his own mind. Just so, in the childhood of the race, the priest is necessary, but his real work is to enable men to do without him: to see things divine with their own eyes, hear them with their own ears and understand them with their own minds. Now the priest’s work is all but accomplished, and the aim of the Bahá’í teaching is to complete that work, to make men independent of all save God, so that they can turn directly to Him, that is, to His Manifestation. When all turn to one Centre, then there can be no cross‑purposes or confusion and the nearer all draw to the Centre, the nearer they will draw to each other."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 9,
-    "title": "True Civilisation",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [9],
+        "title": "True Civilisation"
+      },
       {
         "text": "O people of God! Be not occupied with yourselves. Be intent on the betterment of the world and the training of nations."
       },
@@ -2096,7 +2060,7 @@
         "text": "—Bahá’u’lláh."
       },
       {
-        "section": [1],
+        "section": [9, 1],
         "title": "Religion the Basis of Civilisation"
       },
       {
@@ -2115,7 +2079,7 @@
         "text": "The present state of Europe and of the world in general eloquently confirms the truth of these words written so many years ago. Neglect of the prophetic commands and the prevalence of irreligion have been accompanied by disorder and destruction on the most terrible scale, and, without the change of heart and aim which is the essential characteristic of true religion, the reform of society seems an utter impossibility."
       },
       {
-        "section": [2],
+        "section": [9, 2],
         "title": "Justice"
       },
       {
@@ -2137,7 +2101,7 @@
         "text": "Long experience is at last convincing men of the truth of the prophetic teaching that selfish views and selfish actions inevitably bring social disaster, and that if humanity is not to perish ingloriously, each must look on the things of his neighbour as of equal importance with his own, and subordinate his own interests to those of humanity as a whole. In this way the interests of each and all will ultimately be best served. Bahá’u’lláh says:—“O son of man! If thine eyes be turned towards mercy, forsake the things that profit thee, and cleave unto that which will profit mankind. And if thine eyes be turned towards justice, choose thou for thy neighbour that which thou choosest for thyself.”—Tablets of Bahá’u’lláh, Words of Paradise."
       },
       {
-        "section": [3],
+        "section": [9, 3],
         "title": "Government"
       },
       {
@@ -2162,7 +2126,7 @@
         "text": "In former ages, a government could concern itself with external matters and material affairs, but today the function of government demands a quality of leadership, of consecration and of spiritual knowledge impossible save to those who have turned to God."
       },
       {
-        "section": [4],
+        "section": [9, 4],
         "title": "Political Freedom"
       },
       {
@@ -2184,7 +2148,7 @@
         "text": "For improving the condition of backward races and nations, the Divine teachings are the sovereign remedy. When both people and statesmen learn and adopt these teachings the nations will be freed from all their bonds."
       },
       {
-        "section": [5],
+        "section": [9, 5],
         "title": "Rulers and Subjects"
       },
       {
@@ -2206,7 +2170,7 @@
         "text": ". . . O people of God! Adorn your temples with the adornment of trustworthiness and piety. Help, then, your Lord with the hosts of goodly deeds and a praiseworthy character. We have forbidden you dissension and conflict in My Books, and My Scriptures, and My Scrolls, and My Tablets, and have wished thereby naught else save your exaltation and advancement.—Tablets of Bahá’u’lláh, Tablet of Ishráqát."
       },
       {
-        "section": [6],
+        "section": [9, 6],
         "title": "Appointment and Promotion"
       },
       {
@@ -2219,7 +2183,7 @@
         "text": "It needs but little consideration to show that when this principle becomes generally accepted and acted upon, the transformation in our social life will be astounding. When each individual is given the position for which his talents and capabilities specially fit him he will be able to put his heart into his work and become an artist in his profession, with incalculable benefit to himself and the rest of the world."
       },
       {
-        "section": [7],
+        "section": [9, 7],
         "title": "Economic Problems"
       },
       {
@@ -2238,7 +2202,7 @@
         "text": "There must be special laws made, dealing with these extremes of rich and want. . . . The government of the countries should conform to the Divine Law which gives equal justice to all. . . . Not until this is done will the Law of God be obeyed."
       },
       {
-        "section": [8],
+        "section": [9, 8],
         "title": "Public Finance"
       },
       {
@@ -2251,7 +2215,7 @@
         "text": "There will also be other sources of public revenue, e.g. from intestate estates, mines, treasure trove and voluntary contributions; while among the expenditures will be grants for the support of the infirm, of orphans, of schools, of the deaf and blind, and for the maintenance of public health. Thus the welfare and comfort of all will be provided for."
       },
       {
-        "section": [9],
+        "section": [9, 9],
         "title": "Voluntary Sharing"
       },
       {
@@ -2261,7 +2225,7 @@
         "text": "Among the teachings of Bahá’u’lláh is voluntary sharing of one’s property with others among mankind. This voluntary sharing is greater than (legally imposed) equality, and consists in this, that one should not prefer oneself to others, but rather should sacrifice one’s life and property for others. But this should not be introduced by coercion so that it becomes a law which man is compelled to follow. Nay, rather, man should voluntarily and of his own choice sacrifice his property and life for others, and spend willingly for the poor, just as is done in Persia among the Bahá’ís."
       },
       {
-        "section": [10],
+        "section": [9, 10],
         "title": "Work for All"
       },
       {
@@ -2277,7 +2241,7 @@
         "text": "How much of the energy employed in the business world of today is expended simply in cancelling and neutralising the efforts of other people—in useless strife and competition! And how much in ways that are still more injurious! Were all to work, and were all work, whether of brain or hand, of a nature profitable to mankind, as Bahá’u’lláh commands, then the supplies of everything necessary for a healthy, comfortable and noble life would amply suffice for all. There need be no slums, no starvation, no destitution, no industrial slavery, no health‑destroying drudgery."
       },
       {
-        "section": [11],
+        "section": [9, 11],
         "title": "The Ethics of Wealth"
       },
       {
@@ -2296,7 +2260,7 @@
         "text": "[T]he conduct of these affairs hath been entrusted to the men of the House of Justice that they may enforce them according to the exigencies of the time and the dictates of wisdom."
       },
       {
-        "section": [12],
+        "section": [9, 12],
         "title": "No Industrial Slavery"
       },
       {
@@ -2324,7 +2288,7 @@
         "text": "One of the several causes of a universal European war will be this question. The owners of properties, mines and factories, should share their incomes with their employees, and give a fairly certain percentage of their profits to their workingmen, in order that the employees should receive, besides their wages, some of the general income of the factory, so that the employee may strive with his soul in the work."
       },
       {
-        "section": [13],
+        "section": [9, 13],
         "title": "Bequest and Inheritance"
       },
       {
@@ -2334,7 +2298,7 @@
         "text": "There is nothing in the law of Bahá’u’lláh to prevent a man from leaving all his property to one individual if he pleases, but Bahá’ís will naturally be influenced, in making their wills, by the model Bahá’u’lláh has laid down for the case of intestate estates, which ensures distribution of property among a considerable number of heirs."
       },
       {
-        "section": [14],
+        "section": [9, 14],
         "title": "Equality of Men and Women"
       },
       {
@@ -2365,7 +2329,7 @@
         "text": "Women must go on advancing; they must extend their knowledge of science, literature, history, for the perfection of humanity. Erelong they will receive their rights. Men will see women in earnest, bearing themselves with dignity, improving the civil and political life, opposed to warfare, demanding suffrage and equal opportunities. I expect to see you advance in all phases of life; then will your brows be crowned with the diadem of eternal glory."
       },
       {
-        "section": [15],
+        "section": [9, 15],
         "title": "Women and the New Age"
       },
       {
@@ -2375,14 +2339,14 @@
         "text": "The world in the past has been ruled by force, and man has dominated over woman by reason of his more forceful and aggressive qualities both of body and mind. But the balance is already shifting; force is losing its dominance, and mental alertness, intuition, and the spiritual qualities of love and service, in which woman is strong, are gaining ascendancy. Hence the new age will be an age less masculine and more permeated with the feminine ideals, or, to speak more exactly, will be an age in which the masculine and feminine elements of civilisation will be more evenly balanced.—Star of the West, vol. iii. [from report of remarks made aboard the S.S. Cedric on arrival in New York]."
       },
       {
-        "section": [16],
+        "section": [9, 16],
         "title": "Methods of Violence Discarded"
       },
       {
         "text": "In bringing about the emancipation of women as in other matters, Bahá’u’lláh counsels His followers to avoid methods of violence. An excellent illustration of the Bahá’í method of social reform has been given by the Bahá’í women in Persia, Egypt and Syria. In these countries it is customary for Muḥammadan women outside their homes to wear a veil covering the face. The Báb indicated that in the New Dispensation women would be relieved from this irksome restraint, but Bahá’u’lláh counsels His followers, where no important question of morality is involved, to defer to established customs until people become enlightened, rather than scandalise those amongst whom they live, and arouse needless antagonism. The Bahá’í women, therefore, although well aware that the antiquated custom of wearing the veil is, for enlightened people, unnecessary and inconvenient, yet quietly put up with the inconvenience, rather than rouse a storm of fanatical hatred and rancorous opposition by uncovering their faces in public. This conformity to custom is in no way due to fear, but to an assured confidence in the power of education and in the transforming and life‑giving effect of true religion. Bahá’ís in these regions are devoting their energies to the education of their children, especially their girls, and to the diffusion and promotion of the Bahá’í ideals, well knowing that as the new spiritual life grows and spreads among the people, antiquated customs and prejudices will by and by be shed, as naturally and inevitably as bud scales are shed in spring when the leaves and flowers expand in the sunshine."
       },
       {
-        "section": [17],
+        "section": [9, 17],
         "title": "Education"
       },
       {
@@ -2395,13 +2359,13 @@
         "text": "Bahá’u’lláh says that education must be universal:—"
       },
       {
-        "text": "Unto every father hath been enjoined the instruction of his son and daughter in the art of reading and writing and in all that hath been laid down in the Holy Tablet. He that putteth away that which is commanded unto him, the Trustees are then to take from him that which is required for their instruction, if he be wealthy and, if not, the matter devolveth upon the House of Justice. Verily, have We made it a shelter for the poor and needy. He that bringeth up his son or the son of another, it is as though he hath brought up a son of Mine; upon him rest My Glory, My loving‑kindness, My Mercy, that have compassed the world.—Kitáb‑i‑Aqdas."
+        "text": "Unto every father hath been enjoined the instruction of his son and daughter in the art of reading and writing and in all that hath been laid down in the Holy Tablet. He that putteth away that which is commanded unto him, the Trustees are then to take from him that which is required for their instruction, if he be wealthy and, if not, the matter devolveth upon the House of Justice. Verily, have We made it a shelter for the poor and needy. He that bringeth up his son or the son of another, it is as though he hath brought up a son of Mine; upon him rest My glory, My loving‑kindness, My mercy, that have compassed the world.—Kitáb‑i‑Aqdas."
       },
       {
         "text": "Everyone, whether man or woman, should hand over to a trusted person a portion of what he or she earneth through trade, agriculture or other occupation, for the training and education of children, to be spent for this purpose with the knowledge of the Trustees of the House of Justice.—Tablets of Bahá’u’lláh, Tablet of the World."
       },
       {
-        "section": [18],
+        "section": [9, 18],
         "title": "Innate Differences of Nature"
       },
       {
@@ -2411,7 +2375,7 @@
         "text": "The Prophets acknowledge that education hath a great effect upon the human race, but They declare that minds and comprehensions are originally different. We see that certain children of the same age, nativity and race, nay, from the same household, under the tutorship of the same teacher, differ in minds and comprehensions. No matter how the shell is educated (or polished) it can never become the radiant pearl. The black stone will not become the world‑illuminating gem. The thorny cactus can never by training and development become the blessed tree. That is to say, training doth not change the essential nature of the human gem, but it produceth a marvellous effect. By this effective power all that is latent, of virtues and capacities in the human reality, will be revealed."
       },
       {
-        "section": [19],
+        "section": [9, 19],
         "title": "Character Training"
       },
       {
@@ -2424,7 +2388,7 @@
         "text": "Teach your children the verses revealed from the heaven of majesty and power, so that, in most melodious tones, they may recite the Tablets of the All‑Merciful in the alcoves within the Mashriqu’l‑Adhkár."
       },
       {
-        "section": [20],
+        "section": [9, 20],
         "title": "Arts, Sciences, and Crafts"
       },
       {
@@ -2434,7 +2398,7 @@
         "text": "Knowledge is as wings to man’s life, and a ladder for his ascent. Its acquisition is incumbent upon everyone. The knowledge of such sciences, however, should be acquired as can profit the peoples of the earth, and not those which begin with words and end with words. Great indeed is the claim of scientists and craftsmen on the peoples of the world. Unto this beareth witness the Mother Book on the day of His return. Happy are those possessed of a hearing ear. In truth, knowledge is a veritable treasure for man, and a source of glory, of bounty, of joy, of exaltation, of cheer and gladness unto him.—Tablets of Bahá’u’lláh, Tablet of Tajallíyát."
       },
       {
-        "section": [21],
+        "section": [9, 21],
         "title": "Treatment of Criminals"
       },
       {
@@ -2459,7 +2423,7 @@
         "text": "One thing remains to be said: it is that the communities are day and night occupied in making penal laws, and in preparing and organising instruments and means of punishment. They build prisons, make chains and fetters, arrange places of exile and banishment, and different kinds of hardships and tortures, and think by these means to discipline criminals; whereas, in reality, they are causing destruction of morals and perversion of characters. The community, on the contrary, ought day and night to strive and endeavour with the utmost zeal and effort to accomplish the education of men, to cause them day by day to progress and to increase in science and knowledge, to acquire virtues, to gain good morals and to avoid vices, so that crimes may not occur.—Some Answered Questions."
       },
       {
-        "section": [22],
+        "section": [9, 22],
         "title": "Influence of the Press"
       },
       {
@@ -2470,16 +2434,11 @@
       },
       {
         "text": "Concerning this Wronged One, most of the things reported in the newspapers are devoid of truth. Fair speech and truthfulness, by reason of their lofty rank and position, are regarded as a sun shining above the horizon of knowledge.—Tablets of Bahá’u’lláh, Tablet of Ṭarázát."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 10,
-    "title": "The Way to Peace",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [10],
+        "title": "The Way to Peace"
+      },
       {
         "text": "Today, this Servant has assuredly come to vivify the world and to bring into unity all who are on the face of the earth. That which God willeth shall come to pass and thou shalt see the earth even as the Abhá (Most Glorious) Paradise."
       },
@@ -2487,7 +2446,7 @@
         "text": "—Bahá’u’lláh, Tablet to Ra’ís."
       },
       {
-        "section": [1],
+        "section": [10, 1],
         "title": "Conflict versus Concord"
       },
       {
@@ -2503,7 +2462,7 @@
         "text": "A hundred thousand times, alas! that ignorant prejudice, unnatural differences and antagonistic principles are yet displayed by the nations of the world toward one another, thus causing the retardation of general progress. This retrogression comes from the fact that the principles of divine civilisation are completely abandoned, and the teachings of the prophets are forgotten."
       },
       {
-        "section": [2],
+        "section": [10, 2],
         "title": "The Most Great Peace"
       },
       {
@@ -2513,7 +2472,7 @@
         "text": ". . . in this marvellous cycle, the earth will be transformed, and the world of humanity arrayed in tranquillity and beauty. Disputes, quarrels, and murders will be replaced by peace, truth, and concord; among the nations, peoples, races, and countries, love and amity will appear. Cooperation and union will be established, and finally war will be entirely suppressed. . . . Universal peace will raise its tent in the centre of the earth, and the Blessed Tree of Life will grow and spread to such an extent that it will overshadow the East and the West. Strong and weak, rich and poor, antagonistic sects and hostile nations—which are like the wolf and the lamb, the leopard and kid, the lion and calf—will act towards each other with the most complete love, friendship, justice, and equity. The world will be filled with science, with the knowledge of the reality of the mysteries of beings, and with the knowledge of God.—Some Answered Questions."
       },
       {
-        "section": [3],
+        "section": [10, 3],
         "title": "Religious Prejudices"
       },
       {
@@ -2547,7 +2506,7 @@
         "text": "Bahá’u’lláh has made no exception to this rule. He said that among mankind there may be those who are ignorant; they must be trained. . . . Some are sick; they must be treated. Some are immature; they must be helped to attain maturity. In other respects humanity is submerged in the ocean of divine mercy."
       },
       {
-        "section": [4],
+        "section": [10, 4],
         "title": "Racial and Patriotic Prejudices"
       },
       {
@@ -2569,7 +2528,7 @@
         "text": "Of old it hath been revealed: “Love of one’s country is an element of the Faith of God.” The Tongue of Grandeur hath . . . in the day of His manifestation proclaimed: “It is not his to boast who loveth his country, but it is his who loveth the world.” Through the power released by these exalted words He hath lent a fresh impulse, and set a new direction, to the birds of men’s hearts, and hath obliterated every trace of restriction and limitation from God’s Holy Book.—Tablets of Bahá’u’lláh, Tablet of the World."
       },
       {
-        "section": [5],
+        "section": [10, 5],
         "title": "Territorial Ambitions"
       },
       {
@@ -2594,7 +2553,7 @@
         "text": "I charge you all that each one of you concentrate all the thoughts of his heart on love and unity. When a thought of war comes, oppose it by a stronger thought of peace. A thought of hatred must be destroyed by a more powerful thought of love. When soldiers of the world draw their swords to kill, soldiers of God clasp each other’s hands. So may all the savagery of men disappear by the mercy of God, working through the pure in heart and the sincere of soul. Do not think the peace of the world an ideal impossible to attain. Nothing is impossible to the divine benevolence of God. If you desire with all your heart friendship with every race on earth, your thought, spiritual and positive will spread; it will become the desire of others, growing stronger until it reaches the minds of all men."
       },
       {
-        "section": [6],
+        "section": [10, 6],
         "title": "Universal Language"
       },
       {
@@ -2628,7 +2587,7 @@
         "text": "Which language to adopt, and whether it is to be a natural or constructed one, is a decision which the nations of the world will have to make."
       },
       {
-        "section": [7],
+        "section": [10, 7],
         "title": "Universal League of Nations"
       },
       {
@@ -2653,7 +2612,7 @@
         "text": "At present Universal Peace is a matter of great importance, but unity of conscience is essential, so that the foundation of this matter may become secure, its establishment firm and its edifice strong. . . . Although the League of Nations has been brought into existence, yet it is incapable of establishing Universal Peace. But the Supreme Tribunal which His Holiness Bahá’u’lláh has described will fulfil this sacred task with the utmost might and power."
       },
       {
-        "section": [8],
+        "section": [10, 8],
         "title": "International Arbitration"
       },
       {
@@ -2675,7 +2634,7 @@
         "text": "During the quarter of a century preceding the establishment of the League of Nations a permanent Court of Arbitration was established at The Hague (1900), and many arbitration treaties were signed, but most of these fell far short of the comprehensive proposals of Bahá’u’lláh. No arbitration treaty was made between two great Powers in which all matters of dispute were included. Differences affecting “vital interests,” “honour” and “independence” were specifically excepted. Not only so, but effective guarantees that nations would abide by the terms of the treaties into which they had entered were lacking. In the Bahá’í proposals, on the other hand, questions of boundaries, of national honour and of vital interest are expressly included, and agreements will have the supreme guarantee of the World League of Nations behind them. Only when these proposals are completely carried out will international arbitration attain the full scope of its beneficent possibilities and the curse of war be finally banished from the world."
       },
       {
-        "section": [9],
+        "section": [10, 9],
         "title": "Limitation of Armaments"
       },
       {
@@ -2685,7 +2644,7 @@
         "text": "By a general agreement all the governments of the world must disarm simultaneously. It will not do if one lays down its arms and the others refuse to do so. The nations of the world must concur with each other concerning this supremely important subject, so that they may abandon together the deadly weapons of human slaughter. As long as one nation increases her military and naval budget other nations will be forced into this crazed competition through their natural and supposed interests.—Diary of Mírzá Aḥmad Sohráb, May 11—14, 1914."
       },
       {
-        "section": [10],
+        "section": [10, 10],
         "title": "Nonresistance"
       },
       {
@@ -2704,7 +2663,7 @@
         "text": "The soundness of Bahá’u’lláh’s nonresistance policy has already been proved by results. For every believer martyred in Persia, the Bahá’í Faith has received a hundred new believers into its fold, and the glad and dauntless way in which these martyrs cast the crowns of their lives at the feet of their Lord has furnished to the world the clearest proof that they had found a new life for which death has no terrors, a life of ineffable fullness and joy, compared with which the pleasures of earth are but as dust in the balance, and the most fiendish physical tortures but trifles light as air."
       },
       {
-        "section": [11],
+        "section": [10, 11],
         "title": "Righteous Warfare"
       },
       {
@@ -2717,7 +2676,7 @@
         "text": "A conquest can be a praiseworthy thing, and there are times when war becomes the powerful basis of peace, and ruin the very means of reconstruction. If, for example, a high‑minded sovereign marshals his troops to block the onset of the insurgent and the aggressor, or again, if he takes the field and distinguishes himself in a struggle to unify a divided state and people, if, in brief, he is waging war for a righteous purpose, then this seeming wrath is mercy itself, and this apparent tyranny the very substance of justice and this warfare the cornerstone of peace. Today, the task befitting great rulers is to establish universal peace, for in this lies the freedom of all peoples.—The Secret of Divine Civilisation."
       },
       {
-        "section": [12],
+        "section": [10, 12],
         "title": "Unity of East and West"
       },
       {
@@ -2734,16 +2693,11 @@
       },
       {
         "text": "We all, the Eastern and the Western nations, must strive day and night, with heart and soul, to achieve this high ideal, to cement the unity between all the nations of the earth. Every heart will then be refreshed, all eyes will be opened, the most wonderful power will be given, the happiness of humanity will be assured. . . . This will be the Paradise which is to come on earth, when all mankind will be gathered together under the Tent of Unity in the Kingdom of Glory."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 11,
-    "title": "Various Ordinances and Teachings",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [11],
+        "title": "Various Ordinances and Teachings"
+      },
       {
         "text": "Know thou that in every age and dispensation all divine ordinances are changed and transformed according to the requirement of the time, except the law of love, which, like a fountain, always flows and is never overtaken by change."
       },
@@ -2751,7 +2705,7 @@
         "text": "—Bahá’u’lláh."
       },
       {
-        "section": [1],
+        "section": [11, 1],
         "title": "Monastic Life"
       },
       {
@@ -2776,7 +2730,7 @@
         "text": "Whatever justification there may have been for the monastic life in ancient times and bygone circumstances, Bahá’u’lláh declares that such justification no longer exists; and, indeed, it seems obvious that the withdrawal of a large number of the most pious and God‑fearing of the population from association with their fellows, and from the duties and responsibilities of parenthood, must result in the spiritual impoverishment of the race."
       },
       {
-        "section": [2],
+        "section": [11, 2],
         "title": "Marriage"
       },
       {
@@ -2801,7 +2755,7 @@
         "text": "The Bahá’í marriage ceremony is very simple, the only requirement being that the groom and the bride, in the presence of at least two witnesses, each say: “We will all, verily, abide by the Will of God.”"
       },
       {
-        "section": [3],
+        "section": [11, 3],
         "title": "Divorce"
       },
       {
@@ -2814,7 +2768,7 @@
         "text": "In the matter of divorce, as in other matters, Bahá’ís will, of course, be bound not only by the Bahá’í teaching, but also by the laws of the country in which they live."
       },
       {
-        "section": [4],
+        "section": [11, 4],
         "title": "The Bahá’í Calendar"
       },
       {
@@ -2833,7 +2787,7 @@
         "text": "It seems, therefore, fitting that the new age of unity should have a new calendar free from the objections and associations which make each of the older calendar unacceptable to large sections of the world’s population, and it is difficult to see how any other arrangement could exceed in simplicity and convenience that proposed by the Báb."
       },
       {
-        "section": [5],
+        "section": [11, 5],
         "title": "Spiritual Assemblies"
       },
       {
@@ -2873,14 +2827,14 @@
         "text": "The possibilities inherent in Bahá’í institutions can only be estimated when one realises how rapidly modern civilisation is disintegrating for lack of that spiritual power which can alone supply the necessary attitude of responsibility and humility to the leaders and the requisite loyalty to the individual members of society."
       },
       {
-        "section": [6],
+        "section": [11, 6],
         "title": "Bahá’í Feasts, Anniversaries, and Days of Fasting"
       },
       {
         "text": "Feast of Naw‑Rúz (Bahá’í New Year), March 21. Feast of Riḍván (Declaration of Bahá’u’lláh), April 21—May 2. Declaration of the Báb, May 23. Ascension of Bahá’u’lláh, May 29. Martyrdom of the Báb, July 9. Birth of the Báb, October 20. Birth of Bahá’u’lláh, November 12. Day of the Covenant, November 26. Ascension of ‘Abdu’l‑Bahá, November 28. Period of the Fast, nineteen days beginning March 2."
       },
       {
-        "section": [7],
+        "section": [11, 7],
         "title": "Feasts"
       },
       {
@@ -2911,7 +2865,7 @@
         "text": "The anniversaries of the martyrdom of the Báb and the departure of Bahá’u’lláh and ‘Abdu’l‑Bahá are celebrated with solemnity by appropriate meetings and discourses, the chanting of prayers and Tablets."
       },
       {
-        "section": [8],
+        "section": [11, 8],
         "title": "Fast"
       },
       {
@@ -2924,7 +2878,7 @@
         "text": "Fasting is a symbol. Fasting signifies abstinence from lust. Physical fasting is a symbol of that abstinence, and is a reminder; that is, just as a person abstains from physical appetites, he is to abstain from self‑appetites and self‑desires. But mere abstention from food has no effect on the spirit. It is only a symbol, a reminder. Otherwise it is of no importance. Fasting for this purpose does not mean entire abstinence from food. The golden rule as to food is, do not take too much or too little. Moderation is necessary. There is a sect in India who practice extreme abstinence, and gradually reduce their food until they exist on almost nothing. But their intelligence suffers. A man is not fit to do service for God with brain or body if he is weakened by lack of food. He cannot see clearly. (quoted by Miss E. S. Stevens in Fortnightly Review, June 1911)."
       },
       {
-        "section": [9],
+        "section": [11, 9],
         "title": "Meetings"
       },
       {
@@ -2946,14 +2900,14 @@
         "text": "At these meetings, there should be no extraneous conversation whatever. Rather, the assemblage should confine itself to reading and reciting the Holy Words, and to the discussion of matters relating to the Cause of God, expounding, for example, conclusive proofs and arguments, and the Writings of the Best Beloved of mankind. Those who present themselves at these gatherings must first array themselves in spotless clothing, turn their faces toward the Kingdom of Abhá, and then with lowliness and submissiveness enter in. During the readings they must maintain complete silence. Should anyone wish to speak, he should say his say in all humility, with exactitude and eloquence."
       },
       {
-        "section": [10],
+        "section": [11, 10],
         "title": "The Nineteen Day Feast"
       },
       {
         "text": "With the development of the Bahá’í administrative order since the ascension of ‘Abdu’l‑Bahá, the Nineteen Day Feast, observed on the first day of each Bahá’í month, has assumed a very special importance, providing as it does not only for community prayer and reading from the Holy Books, but also for general consultation on all current Bahá’í affairs and for the association of the friends together. This Feast is the occasion when the Spiritual Assembly makes its reports to the community and invites both discussion of plans and suggestions for new and better methods of service."
       },
       {
-        "section": [11],
+        "section": [11, 11],
         "title": "Mashriqu’l‑Adhkár"
       },
       {
@@ -2975,7 +2929,7 @@
         "text": "When these institutions, college, hospital, hospice and establishment for the incurables, university for the study of higher sciences, giving post‑graduate courses, and other philanthropic buildings are built, the doors will be opened to all the nations and religions. There will be absolutely no line of demarcation drawn. Its charities will be dispensed irrespective of colour or race. Its gates will be flung wide open to mankind; prejudice towards none, love for all. The central building will be devoted to the purpose of prayer and worship. Thus . . . religion will become harmonised with science, and science will be the handmaid of religion, both showering their material and spiritual gifts on all humanity."
       },
       {
-        "section": [12],
+        "section": [11, 12],
         "title": "Life After Death"
       },
       {
@@ -2994,7 +2948,7 @@
         "text": "The difference and distinction between men will naturally become realised after their departure from this mortal world. But this distinction is not in respect to place, but in respect to the soul and the conscience. For the Kingdom of God is sanctified (or free) from time and place; it is another world and another universe. And know thou for a certainty that in the divine worlds the spiritual beloved ones will recognise one another, and will seek union with each other, but a spiritual union. Likewise a love that one may have entertained for anyone will not be forgotten in the world of the Kingdom, nor wilt thou forget there the life that thou hadst in the material world."
       },
       {
-        "section": [13],
+        "section": [11, 13],
         "title": "Heaven and Hell"
       },
       {
@@ -3019,7 +2973,7 @@
         "text": "Hence, as the perfections of humanity are endless, man can also make progress in perfections after leaving this world.—Some Answered Questions."
       },
       {
-        "section": [14],
+        "section": [11, 14],
         "title": "Oneness of the Two Worlds"
       },
       {
@@ -3068,7 +3022,7 @@
         "text": "When ‘Abdu’l‑Bahá was asked how it was that the heart often turns with instinctive appeal to some friend who has passed into the next life, He answered:—“It is a law of God’s creation that the weak should lean upon the strong. Those to whom you turn may be mediators of God’s power to you, even as when on earth. But it is the One Holy Spirit that strengthens all men.”—‘Abdu’l‑Bahá in London."
       },
       {
-        "section": [15],
+        "section": [11, 15],
         "title": "The Nonexistence of Evil"
       },
       {
@@ -3091,16 +3045,11 @@
       },
       {
         "text": "Evil is always lack of life. If the lower side of man’s nature is disproportionately developed, the remedy is not less life for that side, but more life for the higher side, so that the balance may be restored. “I am come,” said Christ, “that ye may have life and that ye may have it more abundantly.” That is what we all need—life, more life, the life that is life indeed! Bahá’u’lláh’s message is the same as Christ’s. “Today,” He says, “this servant has assuredly come to vivify the world” (Tablet to Ra’ís), and to His followers He says: “Come ye after Me, that We may make you to become quickeners of mankind.” (Tablet to the Pope.)"
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 12,
-    "title": "Religion and Science",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [12],
+        "title": "Religion and Science"
+      },
       {
         "text": "‘Alí, the son‑in‑law of Muḥammad, said: “That which is in conformity with science is also in conformity with religion.” Whatever the intelligence of man cannot understand, religion ought not to accept. Religion and science walk hand in hand, and any religion contrary to science is not the truth."
       },
@@ -3108,28 +3057,28 @@
         "text": "—‘Abdu’l‑Bahá"
       },
       {
-        "section": [1],
+        "section": [12, 1],
         "title": "Conflict Due to Error"
       },
       {
         "text": "One of the fundamental teachings of Bahá’u’lláh is that true science and true religion must always be in harmony. Truth is one, and whenever conflict appears it is due, not to truth, but to error. Between so‑called science and so‑called religion there have been fierce conflicts all down the ages, but looking back on these conflicts in the light of fuller truth we can trace them every time to ignorance, prejudice, vanity, greed, narrow‑mindedness, intolerance, obstinacy or something of the kind—something foreign to the true spirit of both science and religion, for the spirit of both is one. As Huxley tells us, “The great deeds of philosophers have been less the fruit of their intellect than the direction of that intellect by an eminently religious tone of mind. Truth has yielded herself rather to their patience, their love, their single‑heartedness and self‑denial than to their logical acumen.” Boole, the mathematician, assures us that “geometric induction is essentially a process of prayer—an appeal from the finite mind to the Infinite for light on finite concerns.” The great Prophets of religion and science have never denounced each other. It is the unworthy followers of these great world teachers—worshippers of the letter but not of the spirit of their teaching—who have always been the persecutors of the later prophets and the bitterest opponents of progress. They have studied the light of the particular revelation which they hold sacred, and have defined its properties and peculiarities as seen by their limited vision, with the utmost care and precision. That is for them the one true light. If God in His infinite bounty sends fuller light from another quarter, and the torch of inspiration burns brighter than before from a new torchholder, instead of welcoming the new lights they are angry and alarmed. This new light does not correspond with their definitions. It has not the orthodox colour, and does not shine from the orthodox place, therefore it must at all costs be extinguished lest it lead men astray into the paths of heresy! Many enemies of the Prophets are of this type—blind leaders of the blind, who oppose new and fuller truth in the supposed interests of what they believe to be the truth. Others are of baser sort and are moved by selfish interests to fight against truth, or else block the path of progress by reason of spiritual deadness and inertia."
       },
       {
-        "section": [2],
+        "section": [12, 2],
         "title": "Persecution of Prophets"
       },
       {
         "text": "The great Prophets of religion have always been, at Their coming, despised and rejected of men. Both They and Their early followers have given their backs to the smiters and sacrificed their possessions and their lives in the path of God. Even in our own times this has been so. Since 1844 A.D., many thousands of Bábís and Bahá’ís in Persia have suffered cruel deaths for their faith, and many more have borne imprisonment, exile, poverty and degradation. The latest of the great religions has been “baptised in blood” more than its predecessors, and martyrdoms have continued down to the present day. With the prophets of science the same thing has happened. Giordano Bruno was burned as a heretic in 1600 A.D. for teaching, amongst other things, that the earth moved around the sun. A few years later the veteran philosopher Galileo had to abjure the same doctrine on his knees in order to escape a similar fate. In later times, Darwin and the pioneers of modern geology were vehemently denounced for daring to dispute the teaching of Holy Write that the world was made in six days, and less than six thousand years ago! The opposition to new scientific truth has not all come from the Church, however. The orthodox in science have been just as hostile to progress as the orthodox in religion. Columbus was laughed to scorn by the so called scientists of his day, who proved to their own satisfaction that if ships did succeed in getting down to the Antipodes over the side of the globe, it would be absolutely impossible for them to get up again! Galvani, the pioneer of electrical science, was scoffed at by his learned colleagues, and called the “frogs’ dancing master.” Harvey, who discovered the circulation of the blood, was ridiculed and persecuted by his professional brethren on account of his heresy and driven from his lecture chair. When Stephenson invented his locomotive engine, European mathematicians of the time, instead of opening their eyes and studying the facts, continued for years to prove to their own satisfaction that an engine on smooth rails could never pull a load, as the wheels would simply slip round and round and the train make no progress. To examples like these one might add indefinitely, both from ancient and modern history, and even from our own times. Dr. Zamenhof, the inventor of Esperanto, had to battle for his wonderful international language against the same sort of ridicule, contempt, and stupid opposition which greeted Columbus, Galvani, and Stephenson. Even Esperanto, which was given to the world so recently as 1887, has had its martyrs."
       },
       {
-        "section": [3],
+        "section": [12, 3],
         "title": "The Dawn of Reconciliation"
       },
       {
         "text": "In the last half century or so, however, a change has come over the spirit of the times, a New Light of Truth has arisen which has already made the controversies of last century seem strangely out of date. Where are now the boastful materialists and dogmatic atheists who, only a few short years ago, were threatening to drive religion out of the world? And where are the preachers who so confidently consigned those who did not accept their dogmas to the fires of hell and the tortures of the damned? Echoes of their clamour we may still hear, but their day is fast declining and their doctrines are being discredited. We can see now that the doctrines around which their controversies waxed most bitter were neither true science nor true religion. What scientist in the light of modern psychical research could still maintain that “brain secretes thought as the liver secretes bile”? Or that decay of the body is necessarily accompanied by decay of the soul? We now see that thought to be really free must soar to the realms of psychical and spiritual phenomena and not be confined to the material only. We realise that what we now know about nature is but as a drop in the ocean compared with what remains to be discovered. We therefore freely admit the possibility of miracles, not indeed in the sense of the breaking of nature’s laws, but as manifestations of the operation of subtle forces which are still unknown to us, as electricity and X rays were to our ancestors. On the other hand, who amongst our leading religious teachers would still declare it is necessary to salvation to believe that the world was made in six days, or that the description of the plagues in Egypt as given in the Book of Exodus is literally true, or that the sun stood still in the heavens (that is, that the earth stopped its rotation) to let Joshua pursue his enemies, or that if a man accept not the creed of St. Athanasius, “without doubt he shall perish everlastingly”? Such beliefs may still be repeated in form, but who accepts them in their literal sense and without reservation? Their hold on people’s hearts and minds has gone or is fast going. The religious world owes a debt of gratitude to the men of science who helped to tear such worn‑out creeds and dogmas to tatters and allowed the truth to step forth free. But the scientific world owes an even heavier debt to the real saints and mystics who, through good report and ill, held to the vital truths of spiritual existence and demonstrated to an incredulous world that the life is more than meat and the unseen greater than the seen. These scientists and saints were like the mountain peaks which caught the first rays of the rising sun and reflected them to the lower world, but now the sun has risen and its rays are illuminating the world. In the teachings of Bahá’u’lláh we have a glorious revelation of truth which satisfies both heart and mind, in which religion and science are at one."
       },
       {
-        "section": [4],
+        "section": [12, 4],
         "title": "Search after Truth"
       },
       {
@@ -3148,7 +3097,7 @@
         "text": "It also means that we must be willing to clear away all that we have previously learned, all that would clog our steps on the way to Truth; we must not shrink, if necessary, from beginning our education all over again. We must not allow our love for any one religion or any one personality so to blind our eyes that we become fettered by superstition. When we are freed from all these bonds, seeking with liberated minds, then shall we be able to arrive at our goal."
       },
       {
-        "section": [5],
+        "section": [12, 5],
         "title": "True Agnosticism"
       },
       {
@@ -3161,21 +3110,21 @@
         "text": "If the flower in the crannied wall, if even a single atom of matter, present mysteries which the most profound intellect cannot solve, how is it possible for man to comprehend the universe? How dare he pretend to define or describe the Infinite cause of all things? All theological speculations about the nature of God’s essence are thus swept aside as foolish and futile."
       },
       {
-        "section": [6],
+        "section": [12, 6],
         "title": "Knowledge of God"
       },
       {
         "text": "But if the essence is unknowable, the manifestations of its bounty are everywhere apparent. If the first cause cannot be conceived, its effects appeal to our every faculty. Just as knowledge of a painter’s pictures gives to the connoisseur a true knowledge of the artist, so knowledge of the universe in any of its aspects—knowledge of nature or of human nature, of things visible or of things invisible—is knowledge of God’s handiwork, and gives to the seeker for Divine truth a real knowledge of His Glory. “The Heavens declare the glory of God; and the firmament sheweth his handiwork. Day unto day uttereth speech, and night unto night sheweth knowledge.—Ps. xix, 1—2."
       },
       {
-        "section": [7],
+        "section": [12, 7],
         "title": "The Divine Manifestations"
       },
       {
         "text": "All things manifest the bounty of God with greater or less clearness, as all material objects exposed to the sun reflect its light in greater or less degree. A heap of soot reflects a little, a stone reflects more, a piece of chalk more still, but in none of these reflections can we trace the form and colour of the glorious orb. A perfect mirror, however, reflects the sun’s very form and colour, so that looking into it is like looking at the sun itself. So it is with the way in which things speak to us of God. The stone can tell us something of the Divine attributes, the flower can tell us more, the animal with its marvellous senses, instincts and power of movement, more still. In the lowest of our fellowmen we can trace wonderful faculties which tell of a wonderful Creator. In the poet, the saint, the genius, we find a higher revelation still, but the great Prophets and Founders of religions are the perfect mirrors by which the love and wisdom of God are reflected to the rest of mankind. Other men’s mirrors are dulled by the stains and the dust of selfishness and prejudice, but these are pure and without blemish—wholly devoted to the Will of God. Thus They become the greatest educators of mankind. The Divine teachings and the Power of the Holy Spirit proceeding through Them have been and are the cause of the progress of humanity, for God helps men through other men. Each man who is higher in the ascent of life is the means of helping those who are lower, and those who are the highest of all are the helpers of all mankind. It is as if all men were connected together by elastic cords. If a man rises a little above the general level of his fellows, the cords tighten. His former companions tend to draw him back, but with an equal force he draws them upwards. The higher he gets, the more he feels the weight of the whole world pulling him back, and the more dependent he is on the divine support, which reaches him through the few who are still above him. Highest of all are the great Prophets and Saviours, the Divine “Manifestations”—those perfect men Who were each, in Their day, without peer or companion, and bore the burden of the whole world, supported by God alone. “The burden of our sins was upon Him” was true of each of Them. Each was the “Way, the Truth and the Life” to His followers. Each was the channel of God’s bounty to every heart that would receive it. Each had His part to play in the great divine plan for the upliftment of humanity."
       },
       {
-        "section": [8],
+        "section": [12, 8],
         "title": "Creation"
       },
       {
@@ -3191,7 +3140,7 @@
         "text": ". . . Know that . . . a creator without a creature is impossible, a provider without those provided for cannot be conceived; for all the divine names and attributes demand the existence of beings. If we could imagine a time when no beings existed, this imagination would be the denial of the Divinity of God. Moreover, absolute nonexistence cannot become existence. If the beings were absolutely nonexistent, existence would not have come into being. Therefore, as the Essence of Unity, that is the existence of God, is everlasting and eternal—that is to say, it has neither beginning nor end—it is certain that this world of existence . . . has neither beginning nor end. . . . it may be that one of the parts of the universe, one of the globes, for example, may come into existence, or may be disintegrated, but the other endless globes are still existing. . . . As each globe has a beginning, necessarily it has an end, because every composition, collective or particular, must of necessity be decomposed; the only difference is that some are quickly decomposed, and others more slowly, but it is impossible that a composed thing should not eventually be decomposed.—Some Answered Questions."
       },
       {
-        "section": [9],
+        "section": [12, 9],
         "title": "The Evolution of Man"
       },
       {
@@ -3219,7 +3168,7 @@
         "text": "Therefore this story of Adam and Eve who ate from the tree, and their expulsion from Paradise, must be thought of simply as a symbol. It contains divine mysteries and universal meanings, and it is capable of marvellous explanations.—Some Answered Questions."
       },
       {
-        "section": [10],
+        "section": [12, 10],
         "title": "Body and Soul"
       },
       {
@@ -3241,14 +3190,14 @@
         "text": "The measure of agreement between this view, which is founded on careful scientific research, and that of the Bahá’í teachings, is truly remarkable."
       },
       {
-        "section": [11],
+        "section": [12, 11],
         "title": "Unity of Mankind"
       },
       {
         "text": "“Ye are all fruits of one tree, the leaves of one branch, the flowers of one garden.” That is one of the most characteristic sayings of Bahá’u’lláh, and another is like it: “Glory is not his who loves his own country, but glory is his who loves his kind.” Unity—unity of mankind, and of all created beings in God—is the main theme of His teaching. Here again the harmony between true religion and science is evident. With every advance in science the oneness of the universe and the interdependence of its parts has become more clearly evident. The astronomer’s domain is inseparably bound up with the physicist’s, and the physicist’s with the chemist’s, the chemist’s with the biologist’s, the biologist’s with the psychologist’s, and so on. Every new discovery in one field of research throws new light on other fields. Just as physical science has shown that every particle of matter in the universe attracts and influences every other particle, no matter how minute or how distant, so psychical science is finding that every soul in the universe affects and influences every other soul. Prince Kropotkin, in his book on Mutual Aid, shows most clearly that even among the lower animals, mutual aid is absolutely necessary to continued life, while in the case of man, the progress of civilisation depends on the increasing substitution of mutual aid for mutual enmity. “Each for all and all for each” is the only principle on which a community can prosper."
       },
       {
-        "section": [12],
+        "section": [12, 12],
         "title": "The Era of Unity"
       },
       {
@@ -3259,16 +3208,11 @@
       },
       {
         "text": "“When religion,” says ‘Abdu’l‑Bahá, “shorn of its superstitions, traditions and unintelligent dogmas, shows its conformity with science, then there will be a great unifying, cleansing force in the world, which will sweep before it all wars, disagreements, discords and struggles, and then will mankind be united in the power of the love of God.”"
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 13,
-    "title": "Prophecies Fulfilled by the Bahá’í Movement",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [13],
+        "title": "Prophecies Fulfilled by the Bahá’í Movement"
+      },
       {
         "text": "As to the Manifestation of the Greatest Name (Bahá’u’lláh): this is He Whom God promised in all His Books and Scriptures, such as the Bible, the Gospels and the Qur’án."
       },
@@ -3276,7 +3220,7 @@
         "text": "—‘Abdu’l‑Bahá."
       },
       {
-        "section": [1],
+        "section": [13, 1],
         "title": "Interpretation of Prophecy"
       },
       {
@@ -3292,14 +3236,14 @@
         "text": "The life and utterances of Bahá’u’lláh testify that He is the Promised One of all the Holy Books, Who has the power to break the seals of the prophecies and to pour forth the “Sealed choice wine” of the divine mysteries. Let us hasten, then, to hear His explanations and to reexamine in their light the familiar but often mysterious words spoken by the prophets of old."
       },
       {
-        "section": [2],
+        "section": [13, 2],
         "title": "The Coming of the Lord"
       },
       {
         "text": "The “Coming of the Lord” in the “last days” is the one “far‑off divine event” to which all the Prophets look forward, about which Their most glorious songs are sung. Now what is meant by the “Coming of the Lord”? Surely God is at all times with His creatures, in all, through all, and over all; “Closer is He than breathing, nearer than hands and feet.” Yes, but men cannot see or hear God immanent and transcendent, cannot realise His Presence, until He reveals Himself through a visible form and talks to them in human language. For the revelation of His higher attributes, God has always made use of a human instrument. Each of the Prophets was a mediator through whom God visited and spoke to His people. Jesus was such a mediator, and the Christians have rightly regarded His appearance as a coming of God. In Him they saw the Face of God and through His lips they heard the Voice of God. Bahá’u’lláh tells us that the “Coming” of the Lord of Hosts, the Everlasting Father, the Maker and Redeemer of the World, which, according to all the Prophets, is to take place at “the time of the end,” means no other than His manifestation in a human temple, as he manifested through the temple of Jesus of Nazareth, only this time with a fuller and more glorious revelation, for which Jesus and all the former Prophets came to prepare men’s hearts and minds."
       },
       {
-        "section": [3],
+        "section": [13, 3],
         "title": "Prophecies about Christ"
       },
       {
@@ -3318,7 +3262,7 @@
         "text": "Most Christians accept these interpretations of Messianic prophecies as applied to Christ; but with regard to similar prophecies about the latter‑day Messiah, many of them take up the same attitude as the Jews, expecting a miraculous display on the material plane which will fulfil the very letter of the prophecies."
       },
       {
-        "section": [4],
+        "section": [13, 4],
         "title": "Prophecies about the Báb and Bahá’u’lláh"
       },
       {
@@ -3331,7 +3275,7 @@
         "text": "This is one of the prophecies that has often been regarded as referring to Christ, and much of it may quite fairly be thus applied, but a little examination will show how much more fully and aptly it applies to Bahá’u’lláh. Christ has, indeed, been a light‑bringer and Saviour, but for nearly two thousand years since His advent the great majority of the people of the earth have continued to walk in darkness, and the children of Israel and many other of God’s children have continued to groan under the rod of the oppressor. On the other hand, during the first few decades of the Bahá’í era, the light of truth has illumined the East and the West, the gospel of the fatherhood of God and the brotherhood of man has been carried into all countries of the world, the great military autocracies have been overthrown, and a consciousness of world unity has been born which brings hope of eventual relief to all the downtrodden and oppressed nationalities of the world. The great war which from 1914 to 1918 convulsed the world, with its unprecedented use of firearms, liquid fire, incendiary bombs and fuel for engines, has indeed been “with burning and fuel of fire.” Bahá’u’lláh, by dealing at great length in His Writings with questions of government and administration, and showing how they may best be solved, has “taken the government upon His shoulders” in a way that Christ never did. With regard to the titles “everlasting Father,” “Prince of Peace,” Bahá’u’lláh repeatedly refers to Himself as the manifestation of the Father, of whom Christ and Isaiah spoke, whereas Christ always referred to Himself as the Son; and Bahá’u’lláh declares that His mission is to establish peace on earth, while Christ said: “I came not to send peace but a sword,” and as a matter of fact during the whole of the Christian era wars and sectarian strifes have abounded."
       },
       {
-        "section": [5],
+        "section": [13, 5],
         "title": "The Glory of God"
       },
       {
@@ -3347,7 +3291,7 @@
         "text": "Other prophecies speak of the Redeemer of Israel, the Glory of the Lord, as coming to the Holy Land from the East, from the rising of the sun. Now Bahá’u’lláh appeared in Persia, which is eastward from Palestine, towards the rising of the sun, and He came to the Holy Land, where He spent the last twenty‑four years of His life. Had He come there as a free man, people might have said that it was the trick of an impostor in order to conform to the prophecies; but He came as an exile and prisoner. He was sent there by the Sháh of Persia and the Sulṭán of Turkey, who can hardly be suspected of any design to furnish arguments in favour of Bahá’u’lláh’s claim to be the “Glory of God” Whose coming the Prophets foretold."
       },
       {
-        "section": [6],
+        "section": [13, 6],
         "title": "The Branch"
       },
       {
@@ -3369,14 +3313,14 @@
         "text": "Now see: these events did not take place in the Christian cycle, for the nations did not come under the One Standard which is the Divine Branch. But in this cycle of the Lord of Hosts all the nations and people will enter under the shadow of this Flag. In the same way, Israel, scattered all over the world, was not reassembled in the Holy Land in the Christian cycle; but in the beginning of the cycle of Bahá’u’lláh this divine promise, as is clearly stated in all the Books of the Prophets, has begun to be manifest. You can see that form all the parts of the world tribes of Jews are coming to the Holy Land; they live in villages and lands which they make their own, and day by day they are increasing to such an extent, that all Palestine will become their home.—Some Answered Questions."
       },
       {
-        "section": [7],
+        "section": [13, 7],
         "title": "The Day of God"
       },
       {
         "text": "The word “Day” in such phrases as “Day of God” and “Last Day” is interpreted as meaning “Dispensation.” Each of the great religion‑founders has His “Day.” Each is like a sun. His teachings have their dawn, their truth gradually illumines more and more the minds and hearts of the people until they attain the zenith of their influence. Then they gradually become obscured, misrepresented and corrupted, and darkness overshadows the earth until the sun of a new day arises. The day of the Supreme Manifestation of God is the Last Day, because it is a day that shall never end, and shall not be overtaken by night. His sun shall never set, but shall illumine the souls of men both in this world and in the world to come. In reality none of the spiritual suns ever set. The suns of Moses, of Christ, of Muḥammad, and all the other Prophets are still shining in heaven with undiminished lustre. But earthborn clouds have concealed their radiance from the people of earth. The Supreme Sun of Bahá’u’lláh will finally disperse these dark clouds, so that the people of all religions will rejoice in the light of all the Prophets, and with one accord worship the one God Whose light all the Prophets have mirrored forth."
       },
       {
-        "section": [8],
+        "section": [13, 8],
         "title": "The Day of Judgement"
       },
       {
@@ -3392,7 +3336,7 @@
         "text": "In the Bahá’í interpretation, the coming of each Manifestation of God is a Day of Judgement, but the coming of the supreme Manifestation of Bahá’u’lláh is the great Day of Judgement for the world cycle in which we are living. The trumpet blast of which Christ and Muḥammad and many other prophets speak is the call of the Manifestation, which is sounded for all who are in heaven and on earth—the embodied and the disembodied. The meeting with God, through His Manifestation, is, for those who desire to meet Him, the gateway to the Paradise of knowing and loving Him, and living in love with all His creatures. Those, on the other hand, who prefer their own way to God’s way, as revealed by the Manifestation, thereby consign themselves to the hell of selfishness, error and enmity."
       },
       {
-        "section": [9],
+        "section": [13, 9],
         "title": "The Great Resurrection"
       },
       {
@@ -3420,7 +3364,7 @@
         "text": "Resurrection is the birth of the individual to spiritual life, through the gift of the Holy Spirit bestowed through the Manifestation of God. The grave from which he arises is the grave of ignorance and negligence of God. The sleep from which he awakens is the dormant spiritual condition in which many await the dawn of the Day of God. This dawn illumines all who have lived on the face of the earth, whether they are in the body or out of the body, but those who are spiritually blind cannot perceive it. The Day of Resurrection is not a day of twenty‑four hours, but an era which has now begun and will last as long as the present world cycle continues. It will continue when all traces of the present civilisation will have been wiped off the surface of the globe."
       },
       {
-        "section": [10],
+        "section": [13, 10],
         "title": "Return of Christ"
       },
       {
@@ -3436,7 +3380,7 @@
         "text": "Know that the return of Christ for a second time doth not mean what the people believe, but rather signifieth the One promised to come after Him. He shall come with the Kingdom of God and His Power which hath surrounded the world. This dominion is in the world of hearts and spirits, and not in that of matter; for the material world is not comparable to a single wing of a fly, in the sight of the Lord, wert thou of those who know! Verily Christ came with His Kingdom from the beginning which hath no beginning, and will come with His Kingdom to the eternity of eternities, inasmuch as in this sense “Christ” is an expression of the Divine Reality, the simple Essence and heavenly Entity, which hath no beginning nor ending. It hath appearance, arising, manifestation and setting in each of the cycles."
       },
       {
-        "section": [11],
+        "section": [13, 11],
         "title": "The Time of the End"
       },
       {
@@ -3470,7 +3414,7 @@
         "text": "These words also have been literally fulfilled in the subjection of the Jews to Christian (and Muslim) peoples, and in the sectarianism and strife which have divided both Jews and Christians among themselves during all the centuries since Muḥammad spoke. Only since the commencement of the Bahá’í era (the Day of Resurrection) have signs of the approaching end of these conditions made their appearance."
       },
       {
-        "section": [12],
+        "section": [13, 12],
         "title": "Signs in Heaven and Earth"
       },
       {
@@ -3504,7 +3448,7 @@
         "text": "In many cases the literal fulfilment of these prophecies in the outward sense would be absurd or impossible; for example, the moon being turned into blood or the stars falling upon the earth. The least of the visible stars is many thousand times larger than the earth, and were one to fall on the earth there would be no earth left for another to fall on! In other cases, however, there is a material as well as a spiritual fulfilment. For example, the Holy Land did literally become desert and desolate during many centuries, as foretold by the prophets, but already, in the Day of Resurrection, it is beginning to “rejoice and blossom as the rose,” as Isaiah foretold. Prosperous colonies are being started, the land is being irrigated and cultivated, and vineyards, olive groves and gardens are flourishing where half a century ago there was only sandy waste. Doubtless when men beat their swords into ploughshares and their spears into pruning hooks, wildernesses and deserts in all parts of the world will be reclaimed; the scorching winds and sandstorms that blow from these deserts, and make life in their neighbourhood well‑nigh intolerable, will be things of the past; the climate of the whole earth will become milder and more equable; cities will no longer defile the air with smoke and poisonous fumes, and even in the outward, material sense there will be “new heavens and a new earth.”"
       },
       {
-        "section": [13],
+        "section": [13, 13],
         "title": "Manner of Coming"
       },
       {
@@ -3542,16 +3486,11 @@
       },
       {
         "text": "Note—The subject of fulfilment of prophecy is such an extensive one that many volumes would be required for its adequate exposition. All that can be done within the limits of a single chapter is to indicate the main outlines of the Bahá’í interpretations. The detailed Apocalypses revealed by Daniel and St. John have been left untouched. Readers will find certain chapters of these dealt with in Some Answered Questions. In the Book of Íqán, by Bahá’u’lláh, Bahá’í Proofs, by Mírzá Abu’l‑Faḍl, and in many of the Tablets of Bahá’u’lláh and ‘Abdu’l‑Bahá further explanation of prophecies may be found."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 14,
-    "title": "Prophecies of Bahá’u’lláh and ‘Abdu’l‑Bahá",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [14],
+        "title": "Prophecies of Bahá’u’lláh and ‘Abdu’l‑Bahá"
+      },
       {
         "text": "And if thou say in thine heart, How shall we know the word which the Lord hath not spoken? When a prophet speaketh in the name of the Lord, if the thing follow not, nor come to pass, that is the thing which the Lord hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him."
       },
@@ -3559,7 +3498,7 @@
         "text": "—Deut. xviii, 21—22."
       },
       {
-        "section": [1],
+        "section": [14, 1],
         "title": "Creative Power of God’s Word"
       },
       {
@@ -3620,7 +3559,7 @@
         "text": "Needless to say, Napoleon, who was then at the zenith of his power, paid no heed to this warning. In the following year he went to war with Prussia, firmly convinced that his troops could easily gain Berlin; but the tragedy foretold by Bahá’u’lláh overwhelmed him. He was defeated at Saarbruck, at Weisenburg, at Metz, and finally in the crushing catastrophe at Sedan. He was then carried prisoner to Prussia, and came to a miserable end in England two years later."
       },
       {
-        "section": [2],
+        "section": [14, 2],
         "title": "Germany"
       },
       {
@@ -3636,7 +3575,7 @@
         "text": "During the period of German successes in the Great War of 1914—1918, and especially during the last great German offensive in the spring of 1918, this well‑known prophecy was extensively quoted by the opponents of the Bahá’í Faith in Persia, in order to discredit Bahá’u’lláh; but when the forward sweep of the victorious Germans was suddenly transformed into crushing, overwhelming disaster, the efforts of these enemies of the Bahá’í Cause recoiled on themselves, and the notoriety which they had given to the prophecy became a powerful means of enhancing the reputation of Bahá’u’lláh."
       },
       {
-        "section": [3],
+        "section": [14, 3],
         "title": "Persia"
       },
       {
@@ -3655,7 +3594,7 @@
         "text": "So far, Persia has only begun to emerge from the period of confusion foretold by Bahá’u’lláh, but already constitutional government has been started, and signs are not lacking that a brighter era is at hand."
       },
       {
-        "section": [4],
+        "section": [14, 4],
         "title": "Turkey"
       },
       {
@@ -3689,7 +3628,7 @@
         "text": "The successive calamities which have befallen this once great empire since the publication of these warnings have furnished an eloquent commentary on their prophetic significance."
       },
       {
-        "section": [5],
+        "section": [14, 5],
         "title": "America"
       },
       {
@@ -3708,7 +3647,7 @@
         "text": "The appeals of Bahá’u’lláh and ‘Abdu’l‑Bahá have already been responded to, in a large measure, by the United States of America, and in no country of the world have the Bahá’í teachings met with readier acceptance. The role assigned to America, of summoning the nations to international peace, has as yet, however, been only partially played, and Bahá’ís are awaiting with interest the developments which the future has in store."
       },
       {
-        "section": [6],
+        "section": [14, 6],
         "title": "The Great War"
       },
       {
@@ -3733,7 +3672,7 @@
         "text": "A great melee of the civilised nations is in sight. A tremendous conflict is at hand. The world is at the threshold of a most tragic struggle. . . . Vast armies—millions of men—are being mobilised and stationed at their frontiers. They are being prepared for the fearful contest. The slightest friction will bring them into a terrible crash, and there will be a conflagration, the like of which is not recorded in the past history of mankind. (At Haifa, August 3, 1914.)"
       },
       {
-        "section": [7],
+        "section": [14, 7],
         "title": "Social Troubles After the War"
       },
       {
@@ -3788,7 +3727,7 @@
         "text": "Bahá’u’lláh frequently predicted that there would be a period when irreligion and consequent anarchy would prevail. The chaos will be due to too great liberty among people who are not ready for it, and in consequence there will have to be a temporary reversion to coercive government, in the interests of the people themselves and in order to prevent disorder and chaos. It is clear that each nation now wishes complete self‑determination and freedom of action, but some of them are not ready for it. The prevailing state of the world is one of irreligion, which is bound to result in anarchy and confusion. I have always said that the peace proposals following the great war were only a glimmer of the dawn, and not the sunrise."
       },
       {
-        "section": [8],
+        "section": [14, 8],
         "title": "Coming of the Kingdom of God"
       },
       {
@@ -3841,16 +3780,11 @@
       },
       {
         "text": "Indeed, God’s ways are mysterious and unsearchable. What outward relation exists between Shíráz and Ṭihrán, Baghdád and Constantinople, Adrianople and ‘Akká and Haifa? God worked patiently, step by step, through these various cities, according to His own definite and eternal plan, so that the prophecies and predictions as foretold by the Prophets might be fulfilled. This golden thread of promise concerning the Messianic Millennium runs through the Bible, and it was so destined that God in His own good time would cause its appearance. Not even a single word will be left meaningless and unfulfilled."
-      }
-    ]
-  },
-  {
-    "path": ["Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
-    "item": 15,
-    "title": "Retrospect and Prospect",
-    "author": "John E. Esslemont",
-    "years": [2006, 2006],
-    "paragraphs": [
+      },
+      {
+        "section": [15],
+        "title": "Retrospect and Prospect"
+      },
       {
         "text": "I bear witness, O friends! that the favour is complete, the argument fulfilled, the proof manifest, and the evidence established. Let it now be seen what your endeavours in the path of detachment will reveal. In this wise hath the divine favour been fully vouchsafed unto you and unto them that are in heaven and on earth. All praise to God, the Lord of all worlds."
       },
@@ -3858,7 +3792,7 @@
         "text": "—Bahá’u’lláh, The Hidden Words."
       },
       {
-        "section": [1],
+        "section": [15, 1],
         "title": "Progress of the Cause"
       },
       {
@@ -3880,7 +3814,7 @@
         "text": "While, therefore, it remains true that the Holy Spirit has reflected from pure hearts in all countries still unconscious of the Source, and the growth of the Faith can be witnessed in the many efforts outside the Bahá’í community to promote one or another of Bahá’u’lláh’s teachings, nevertheless the lack of any enduring foundation in the old order is convincing proof that the ideals of the Kingdom can only become fruitful within the framework of the Bahá’í community."
       },
       {
-        "section": [2],
+        "section": [15, 2],
         "title": "Prophethood of Báb and Bahá’u’lláh"
       },
       {
@@ -3890,7 +3824,7 @@
         "text": "The grandeur and sublimity of Their ideals, the nobility and self‑sacrifice of Their lives; Their dauntless courage and conviction, Their amazing wisdom and knowledge, Their grasp of the needs of both Eastern and Western peoples, the comprehensiveness and adequacy of Their teachings, Their power to inspire wholehearted devotion and enthusiasm in Their followers, the penetration and potency of Their influence, the progress of the Movement They founded—surely these constitute proofs of Prophethood as convincing as any which the history of religion can show."
       },
       {
-        "section": [3],
+        "section": [15, 3],
         "title": "A Glorious Prospect"
       },
       {
@@ -3909,21 +3843,21 @@
         "text": "Humanity, however, is sound at heart, for it is made “in the image and likeness of God,” and when at last it sees the truth, it will not persist in the paths of folly. Bahá’u’lláh assures us that erelong the call of God will be generally accepted, and mankind as a whole will turn to righteousness and obedience. “All sorrow will then be turned into joy, and all disease into health,” and the kingdoms of this world shall become “the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever” (Rev. xi, 15). Not only those on earth, but all in the heavens and on the earth, shall become one in God and rejoice eternally in Him."
       },
       {
-        "section": [4],
+        "section": [15, 4],
         "title": "Renewal of Religion"
       },
       {
         "text": "The state of the world today surely affords ample evidence that, with rare exceptions, people of all religions need to be reawakened to the real meaning of their religion; and that reawakening is an important part of the work of Bahá’u’lláh. He comes to make Christians better Christians, to make Muslims real Muslims, to make all men true to the spirit that inspired their Prophets. He also fulfils the promise made by all these Prophets, of a more glorious Manifestation which was to appear in the “Fullness of Time” to crown and consummate Their labours. He gives a fuller unfolding of spiritual truths than His predecessors, and reveals the Will of God with regard to all the problems of individual and social life that confront us in the world today. He gives a universal teaching which affords a firm foundation on which a new and better civilisation can be built up, a teaching adapted to the needs of the world in the new era which is now commencing."
       },
       {
-        "section": [5],
+        "section": [15, 5],
         "title": "Need for New Revelation"
       },
       {
         "text": "The unification of the world of humanity, the welding together of the world’s different religions, the reconciliation of Religion and Science, the establishment of Universal Peace, of International Arbitration of an International House of Justice, of an International Language, the Emancipation of Women, Universal Education, the abolition not only of Chattel Slavery, but of Industrial Slavery, the Organisation of Humanity as a single whole, with due regard to the rights and liberties of each individual—these are problems of gigantic magnitude and stupendous difficulty in relation to which Christians, Muḥammadans and adherents of other religions have held and still hold the most diverse and often violently opposed views, but Bahá’u’lláh has revealed clearly defined principles, the general adoption of which would obviously make the world a paradise."
       },
       {
-        "section": [6],
+        "section": [15, 6],
         "title": "Truth Is for All"
       },
       {
@@ -3981,7 +3915,7 @@
         "text": "“The Houses of Justice, Local, National and International.”"
       },
       {
-        "section": [7],
+        "section": [15, 7],
         "title": "The Guardian of the Cause of God"
       },
       {
@@ -4000,7 +3934,7 @@
         "text": "The Hands of the Cause of God must elect from their own number nine persons that shall at all times be occupied in the important services of the work of the Guardian of the Cause of God. The election of these nine must be carried either unanimously or by majority from the company of the Hands of the Cause of God and these, whether unanimously or by a majority vote, must give their assent to the choice of the one whom the Guardian of the Cause of God hath chosen as his successor. This assent must be given in such wise as the assenting and dissenting voices may not be distinguished (i.e., secret ballot)."
       },
       {
-        "section": [8],
+        "section": [15, 8],
         "title": "Hands of the Cause of God"
       },
       {
@@ -4016,7 +3950,7 @@
         "text": "This body of the Hands of the Cause of God is under the direction of the Guardian of the Cause of God. He must continually urge them to strive and endeavour to the utmost of their ability to diffuse the sweet savours of God, and to guide all the peoples of the world, for it is the light of Divine Guidance that causeth all the universe to be illumined."
       },
       {
-        "section": [9],
+        "section": [15, 9],
         "title": "The Administrative Order"
       },
       {
@@ -4116,7 +4050,7 @@
         "text": "Even at the present time, the Bahá’ís in all parts of the world maintain an intimate and cordial association by means of regular correspondence and individual visits. This contact of members of different races, nationalities and religious traditions is concrete proof that the burden of prejudice and the historical factors of division can be entirely overcome through the spirit of oneness established by Bahá’u’lláh."
       },
       {
-        "section": [10],
+        "section": [15, 10],
         "title": "The World Order of Bahá’u’lláh"
       },
       {
@@ -4210,7 +4144,7 @@
   },
   {
     "path": ["Bahá’u’lláh and the New Era"],
-    "item": 7,
+    "item": 8,
     "title": "Epilogue",
     "author": "John E. Esslemont",
     "years": [2006, 2006],
