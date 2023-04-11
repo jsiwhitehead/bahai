@@ -73,17 +73,17 @@ author="Carlyle"
 A century which has no history and can have little or none. A century so opulent in accumulated falsities . . . as never century before was! Which had no longer the consciousness of being false, so false had it grown; and was so steeped in falsity, and impregnated with it to the very bone, that—in fact the measure of the things was full, and a French Revolution had to end it. . . . A very fit termination, as I thankfully feel, for such a century. . . . For there was need once more of a Divine Revelation to the torpid, frivolous children of men, if they were not to sink altogether into the ape condition.
 
 # Deut. xviii, 22
-author="Bible"
+author="The Bible"
 
 When a prophet speaketh in the name of the Lord, if the thing follow not, nor come to pass, that is the thing which the Lord hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him.
 
 # Matt. vii, 15—17, 20
-author="Bible"
+author="The Bible"
 
 Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves. Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles? Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit. . . . Wherefore by their fruits ye shall know them.
 
 # Súrih lvii. 27
-author="Qur’án"
+author="Muḥammad"
 
 To Jesus the son of Mary We gave the Gospel, and We put into the hearts of those who followed Him kindness and compassion: but as to the monastic life, they invented it themselves. The desire only of pleasing God did We prescribe to them, and this they observed not as it ought to have been observed.
 
@@ -109,62 +109,62 @@ We have shown that amid much deception and self‑deception, fraud and illusion,
 By discovery and by revelation certain theses have been provisionally established with regard to such departed souls as we have been able to encounter. First and chiefly, I, at least, see ground to believe that their state is one of endless evolution in wisdom and in love. Their loves of earth persist, and most of all, those highest loves which find their outlet in adoration and worship. . . . Evil to them seems less a terrible than a slavish thing. It is embodied in no mighty Potentate; rather it forms as isolating madness from which higher spirits strive to free the distorted soul. There needs no chastisement of fire; self‑knowledge is man’s punishment and his reward; self‑knowledge and the nearness or the aloofness of companion souls. For in that world love is actually self‑preservation; the Communion of Saints not only adorns but constitutes the Life Everlasting. Nay, from the laws of telepathy it follows that that communion is valid to us here and now. Even now the love of souls departed makes answer to our invocations. Even now our loving memory—love is itself a prayer—supports and strengthens those delivered spirits upon their upward way.
 
 # Daniel xii, 4—9
-author="Bible"
+author="The Bible"
 
 But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased. . . . And I heard, but I understood not: then said I, O my Lord, what shall be the end of these things? And he said, Go thy way, Daniel: for the words are closed up and sealed till the time of the end.
 
 # Isa. ix, 2—7
-author="Bible"
+author="The Bible"
 
 The people that walked in darkness have seen a great light; they that dwell in the land of the shadow of death, upon them hath the light shined. . . . For thou hast broken the yoke of his burden, and the staff of his shoulder, the rod of his oppressor, as in the day of Midian. For every battle of the warrior is with confused noise, and garments rolled in blood; but this shall be with burning and fuel of fire. For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The Mighty God, The everlasting Father, The Prince of Peace. Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgement and with justice from henceforth even for ever. The zeal of the Lord of hosts will perform this.
 
 # Isa. xl, 1—5
-author="Bible"
+author="The Bible"
 
 Comfort ye, comfort ye my people, saith your God. Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the Lord’s hand double for all her sins. The voice of him that crieth in the wilderness, Prepare ye the way of the Lord, make straight in the desert a highway for our God. Every valley shall be exalted, and every mountain and hill shall be made low; and the crooked shall be made straight, and the rough places plain: And the glory of the Lord shall be revealed, and all flesh shall see it together.
 
 # Matt. xiii, 40—43
-author="Bible"
+author="The Bible"
 
 . . . so shall it be in the end of this world [consummation of the age]. The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity; And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth. Then shall the righteous shine forth as the sun in the kingdom of their Father.
 
 # I Cor. xv, 51—53
-author="Bible"
+author="The Bible"
 
 Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. For this corruptible must put on incorruption, and this mortal must put on immortality.
 
 # Luke xxi, 20—24
-author="Bible"
+author="The Bible"
 
 And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh. . . . For these be the days of vengeance, that all things which are written may be fulfilled. . . . for there shall be great distress in the land, and wrath upon this people. And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down by the Gentiles, until the times of the Gentiles shall be fulfilled.
 
 # Matt. xxiv, 4—14
-author="Bible"
+author="The Bible"
 
 Take heed that no man deceive you. For many shall come in my name, saying, I am Christ; and shall deceive many. And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet. For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places. All these are the beginning of sorrows. Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake. And then shall many be offended, and shall betray one another, and shall hate one another. And many false prophets shall rise, and shall deceive many. And because iniquity shall abound, the love of many shall wax cold. But he that shall endure unto the end, the same shall be saved. And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
 
 # Súrih iii, 54
-author="Qur’án"
+author="Muḥammad"
 
 When Alláh said: “O Jesus! Verily I will cause thee to die, and exalt thee towards Me, and clear thee of the charges of those who disbelieve, and will place those who follow thee [that is, Christians] above those who disbelieve [Jews and others], until the Day of Resurrection; then to Me shall be your return, so I will decide between you concerning that in which you differed.”
 
 # Súrih v, 69
-author="Qur’án"
+author="Muḥammad"
 
 “The Hand of God,” say the Jews, “is chained up.” Their own hands shall be chained up—and for that which they have said shall they be cursed. Nay! outstretched are both His hands! At His own pleasure doth He bestow gifts. That which hath been sent down to thee from thy Lord will surely increase the rebellion and unbelief of many of them; and We have put enmity and hatred between them that shall last until the Day of Resurrection. Oft as they kindle a beacon fire for war shall God quench it.
 
 # Súrih v, 17
-author="Qur’án"
+author="Muḥammad"
 
 And of those who say, “We are Christians,” have We accepted the Covenant. But they too have forgotten a part of what they were taught; wherefore We have stirred up enmity and hatred among them that shall last till the Day of Resurrection; and in the end will God tell them of their doings.
 
 # Joel ii, 30—31; iii, 1—2, 14—16
-author="Bible"
+author="The Bible"
 
 And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke. The sun shall be turned into darkness, and the moon into blood, before the great and terrible days of the Lord come. . . . For, behold, in those days . . . when I shall bring again the captivity of Judah and Jerusalem, I will also gather all nations, and will bring them down into the valley of Jehoshaphat [Jehovah judgeth], and will plead with them there. . . . Multitudes, multitudes in the valley of decision: for the day of the Lord is near in the valley of decision. The sun and the moon shall be darkened, and the stars shall withdraw their shining. The Lord also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake; but the Lord will be the hope of his people.
 
 # Súrih lxxxi
-author="Qur’án"
+author="Muḥammad"
 
 > When the sun shall be shrouded,
 > And when the stars shall fall,
@@ -174,27 +174,27 @@ author="Qur’án"
 > And when hell shall be made to blaze.
 
 # Matt. xxiv, 30—31; xxv, 31—32
-author="Bible"
+author="The Bible"
 
 And they shall see the Son of man coming in the clouds of heaven with power and great glory. And he shall send his angels with a great sound of a trumpet. . . . then shall he sit upon the throne of his glory: And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats.
 
 # Mal. iii, 1—2; iv. 1—2
-author="Bible"
+author="The Bible"
 
 Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in. . . . But who may abide the day of his coming? And who shall stand when he appeareth? For he is like a refiner’s fire, and like fullers’ sope. . . . For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: . . . But unto you that fear my name shall the Sun of righteousness arise with healing in his wings.
 
 # Deut. xviii, 21—22
-author="Bible"
+author="The Bible"
 
 And if thou say in thine heart, How shall we know the word which the Lord hath not spoken? When a prophet speaketh in the name of the Lord, if the thing follow not, nor come to pass, that is the thing which the Lord hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him.
 
 # Isa. lv, 10—11
-author="Bible"
+author="The Bible"
 
 For as the rain cometh down, and the snow from the heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater: So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.
 
 # Matt. xi, 4—6
-author="Bible"
+author="The Bible"
 
 Go and shew John again those things which ye do hear and see: The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them. And blessed is he, whosoever shall not be offended in me.
 
@@ -237,7 +237,7 @@ The High Commissioner, Sir Herbert Samuel, the Governor of Jerusalem, the Govern
 . . . they slowly wended their way up Mount Carmel, the Vineyard of God. . . . After two hours’ walking, they reached the garden of the Tomb of the Báb. . . . As the vast concourse pressed round . . . representatives of the various denominations, Moslems, Christians and Jews, all hearts being ablaze with fervent love of ‘Abdu’l‑Bahá, some on the impulse of the moment, others prepared, raised their voices in eulogy and regret, paying their last homage of farewell to their loved one. So united were they in their acclamation of him, as the wise educator and reconciler of the human race in this perplexed and sorrowful age, that there seemed to be nothing left for the Bahá’ís to say.
 
 #
-author="Qur’án"
+author="Muḥammad"
 
 Prayer is a ladder by which everyone may ascend to Heaven.
 
@@ -261,27 +261,27 @@ author="Mary Hanford Ford"
 The little room in which I stayed and in which the significant conversations with ‘Abdu’l‑Bahá took place, was of the simplest description. The floor was covered with matting, the narrow iron bed and the iron wash stand with larger and smaller holes for bowl and pitcher were of that vermin proof description with which I had become familiar. Everything was scrupulously clean, and there was an abundant supply of sparkling water for bathing and drinking. A wide window looked over the huge town wall upon the blue Mediterranean and before this stretched a divan upon which ‘Abdu’l‑Bahá sat when He came to see me.
 
 # XVI, 38
-author="Qur’án"
+author="Muḥammad"
 
 And to every people have we sent an apostle . . .
 
 # Súrih 10, verse 47
-author="Qur’án"
+author="Muḥammad"
 
 And every nation had an apostle; so when their apostle came, the matter was decided between them with justice and they shall not be dealt with unjustly.
 
 # Súrih 16, verse 36
-author="Qur’án"
+author="Muḥammad"
 
 And certainly We raised in every nation an apostle saying: Serve God and shun the devil. . . .
 
 # Súrih 16, verse 84
-author="Qur’án"
+author="Muḥammad"
 
 And on the day when We will raise up a witness out of every nation, then shall no permission be given to those who disbelieve, nor shall they be made to solicit favour.
 
 # Súrih 35, verse 24
-author="Qur’án"
+author="Muḥammad"
 
 . . . And there is not a people but a warner has gone among them.
 
@@ -374,6 +374,6 @@ author="The Greatest Holy Leaf"
 Let us then, affectionate brothers and sisters, ponder for a while upon the underlying reason that had made God’s divine Messengers prefer a life of torture to one of ease, and those blessed martyrs, so many of them cut off in the springtime and promise of their youth, choose death with faces radiant with joy. What did the Báb sacrifice His promising youth for except out of a burning desire to have mankind live in unity and peace; and what was the spirit that animated those bold and heroic martyrs but love and adoration to a Cause they wished to triumph? What made Bahá’u’lláh, born and brought up in opulence, fling away all earthly possessions and choose upon Himself unspeakable hardships and deprivation, save for an earnest appeal to the world at large to turn their hatred for one another into genuine love and to make a world seething with blood a peaceful home for God’s children; and why did ‘Abdu’l‑Bahá who could have chosen a life of ease and comfort, prefer to lead a crusade against the strongholds of human hearts and make a direct appeal to individuals as well as groups that unless we love one another with all our might and with all our heart we are absolutely doomed. He carried a crusade not with a sword of steel but with a sword of love and affection. And if we dare call ourselves Bahá’ís it simply means that we have to follow in their wake. It means that we must always have the public weal in mind and not give up ourselves wholly to our inclinations and desires, and it means that we must picture before us the perseverance and self‑sacrifice of those early volunteers and make a whole‑hearted effort to be like unto one of them; and it shall be only in this way that we can safeguard this great Cause of God . . .
 
 # John. iii, 5‑7
-author="Bible"
+author="The Bible"
 
 Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, ye must be born again.

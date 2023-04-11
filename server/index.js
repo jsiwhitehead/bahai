@@ -3,26 +3,10 @@ import cors from "@koa/cors";
 import bodyParser from "koa-bodyparser";
 import Router from "koa-router";
 
-import documents from "./data/documents.json" assert { type: "json" };
+import documentsBase from "./data/documents.json" assert { type: "json" };
 import quotes from "./data/quotes.json" assert { type: "json" };
 
 const unique = (x) => [...new Set(x)];
-
-const getText = (p) => {
-  if (p.section) return p.title || "";
-  if (p.id) {
-    const doc = documents[p.id];
-    if (!p.parts) return doc.paragraphs[p.paragraphs[0]].text;
-    return p.parts
-      .map((x) =>
-        typeof x === "string"
-          ? x
-          : doc.paragraphs[x.paragraph].text.slice(x.start, x.end)
-      )
-      .join("");
-  }
-  return p.text;
-};
 
 const getTime = (words) => {
   const time = words / 238;
@@ -31,58 +15,11 @@ const getTime = (words) => {
   return `${Math.round(time / 6) / 10} hours`;
 };
 
-const docsInfo = Object.keys(documents)
-  .map((id) => {
-    const { paragraphs, path, ...info } = documents[id];
-    const cleanPath =
-      path &&
-      unique(
-        path.filter(
-          (p) =>
-            ![
-              "Selections from the Writings of the Báb",
-              "Part Two: Letters from Shoghi Effendi",
-            ].includes(p)
-        )
-      );
-    const titlePath = unique([...cleanPath, info.title]).slice(0, -1);
-    const words = paragraphs
-      .map((p) => getText(p).split(" ").length)
-      .reduce((res, n) => res + n, 0);
-    return {
-      ...info,
-      ...(titlePath.length > 0 ? { path: titlePath } : {}),
-      fullPath: cleanPath,
-      words,
-      time: getTime(words),
-      allType: paragraphs.every((p) => p.lines || p.id || p.type),
-    };
-  })
-  .filter(
-    (d) =>
-      !["The Ruhi Institute", "Compilation", "The Bible", "Muḥammad"].includes(
-        d.author
-      )
-  );
-
-const collectionsObj = docsInfo.reduce((res, d) => {
-  const k = `${d.author}-${d.fullPath[0]}`;
-  return { ...res, [k]: [...(res[k] || []), d] };
-}, {});
-const collections = Object.keys(collectionsObj)
-  .map((k) => collectionsObj[k])
-  .filter((c) => c[0].fullPath[0] !== "Additional")
-  .map((c) => {
-    const words = c.reduce((res, d) => res + d.words, 0);
-    return {
-      id: c[0].id.slice(0, -4),
-      author: c[0].author,
-      title: c[0].fullPath[0] || c[0].title,
-      words,
-      time: getTime(words),
-      documents: c.sort((a, b) => a.item - b.item),
-    };
-  });
+const getFirstChar = (index, text) => {
+  if (index !== 1) return undefined;
+  const result = /[a-z]/i.exec(text)?.index;
+  return result === undefined ? result : result + 1;
+};
 
 const getRef = (doc, paras) =>
   unique(
@@ -111,51 +48,57 @@ const getRef = (doc, paras) =>
       .map((s) => (s.length > 50 ? s : s.replace(/ /g, " ")))
   ).join(", ");
 
-const getFirstChar = (index, text) => {
-  if (index !== 1) return undefined;
-  const result = /[a-z]/i.exec(text)?.index;
-  return result === undefined ? result : result + 1;
-};
+const allParagraphs = [];
 
-const app = new Koa();
-app.use(cors());
-app.use(bodyParser());
+const documents = Object.keys(documentsBase).map((id) => {
+  const { paragraphs, path, ...info } = documentsBase[id];
 
-const router = new Router();
-router
-  .get("/", (ctx) => {
-    ctx.body = "Hello World!";
-  })
-  .post("/collections", (ctx) => {
-    const { author } = ctx.request.body;
-    ctx.body = collections
-      .filter((c) => !author || author.includes(c.author))
-      .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
-  })
-  .post("/documents", (ctx) => {
-    const { author } = ctx.request.body;
-    ctx.body = docsInfo
-      .filter((d) => !author || author.includes(d.author))
-      .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id))
-      .slice(0, 500);
-  })
-  .post("/documentById", (ctx) => {
-    const { id } = ctx.request.body;
-    ctx.body = docsInfo.find((d) => d.id === id);
-  })
-  .post("/paragraphs", (ctx) => {
-    const { id } = ctx.request.body;
-    ctx.body = documents[id].paragraphs.map((p, i) => {
-      const text = getText(p)
+  const cleanPath =
+    path &&
+    unique(
+      path.filter(
+        (p) =>
+          ![
+            "Selections from the Writings of the Báb",
+            "Part Two: Letters from Shoghi Effendi",
+          ].includes(p)
+      )
+    );
+  const titlePath = unique([...cleanPath, info.title]).slice(0, -1);
+
+  const texts = paragraphs
+    .map((p) => {
+      if (p.section) return p.title || "";
+      if (p.id) {
+        const doc = documentsBase[p.id];
+        if (!p.parts) return doc.paragraphs[p.paragraphs[0]].text;
+        return p.parts
+          .map((x) =>
+            typeof x === "string"
+              ? x
+              : doc.paragraphs[x.paragraph].text.slice(x.start, x.end)
+          )
+          .join("");
+      }
+      return p.text;
+    })
+    .map((t) =>
+      t
         .normalize("NFD")
         .replace(/\u0323/g, "")
-        .normalize("NFC");
+        .normalize("NFC")
+    );
+  const words = texts.map((t) => t.split(" ").length);
+
+  const paras = paragraphs
+    .map((p, i) => {
+      const text = texts[i];
       if (p.id) {
         return {
           type: "quote",
           text,
-          author: documents[p.id].author,
-          ref: getRef(documents[p.id], p.paragraphs),
+          author: documentsBase[p.id].author,
+          ref: getRef(documentsBase[p.id], p.paragraphs),
         };
       }
       const first = getFirstChar(p.index, text);
@@ -199,7 +142,109 @@ router
         ...p,
         text: parts,
       };
-    });
+    })
+    .map((p, i) => ({
+      id,
+      author: p.author || info.author,
+      score:
+        (p.type === "quote" ? [] : p.type === "lines" ? p.lines.flat() : p.text)
+          .map((t) => Math.pow(t.count, 2) * t.text.split(" ").length)
+          .reduce((res, n) => res + n, 0) / words[i],
+      // score: Math.max(
+      //   ...(p.type === "quote"
+      //     ? []
+      //     : p.type === "lines"
+      //     ? p.lines.flat()
+      //     : p.text
+      //   ).map((t) => t.count)
+      // ),
+      ...p,
+    }));
+  allParagraphs.push(...paras);
+
+  const fullWords = words.reduce((res, n) => res + n, 0);
+  return {
+    ...info,
+    ...(titlePath.length > 0 ? { path: titlePath } : {}),
+    fullPath: cleanPath,
+    time: getTime(fullWords),
+    score:
+      paras.map((p) => p.score).reduce((res, n) => res + n, 0) /
+      Math.sqrt(paras.length),
+    // score: Math.max(...paras.map((p) => p.score)),
+    allType: paras.every((p) => p.lines || p.type),
+    paragraphs: paras,
+  };
+});
+
+// const collectionsObj = docsInfo.reduce((res, d) => {
+//   const k = `${d.author}-${d.fullPath[0]}`;
+//   return { ...res, [k]: [...(res[k] || []), d] };
+// }, {});
+// const collections = Object.keys(collectionsObj)
+//   .map((k) => collectionsObj[k])
+//   .filter((c) => c[0].fullPath[0] !== "Additional")
+//   .map((c) => {
+//     const words = c.reduce((res, d) => res + d.words, 0);
+//     return {
+//       id: c[0].id.slice(0, -4),
+//       author: c[0].author,
+//       title: c[0].fullPath[0] || c[0].title,
+//       words,
+//       time: getTime(words),
+//       documents: c.sort((a, b) => a.item - b.item),
+//     };
+//   });
+
+const app = new Koa();
+app.use(cors());
+app.use(bodyParser());
+
+const router = new Router();
+router
+  // .get("/", (ctx) => {
+  //   ctx.body = "Hello World!";
+  // })
+  // .post("/collections", (ctx) => {
+  //   const { author } = ctx.request.body;
+  //   ctx.body = collections
+  //     .filter((c) => !author || author.includes(c.author))
+  //     .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
+  // })
+  .post("/paragraphs", (ctx) => {
+    ctx.body = allParagraphs
+      .filter(
+        (d) =>
+          ![
+            "The Ruhi Institute",
+            "Compilation",
+            "The Bible",
+            "Muḥammad",
+          ].includes(d.author)
+      )
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 250);
+  })
+  .post("/documents", (ctx) => {
+    const { author } = ctx.request.body;
+    ctx.body = documents
+      .filter(
+        (d) =>
+          ![
+            "The Ruhi Institute",
+            "Compilation",
+            "The Bible",
+            "Muḥammad",
+          ].includes(d.author)
+      )
+      .filter((d) => !author || author.includes(d.author))
+      .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id))
+      .map(({ paragraphs, ...info }) => info)
+      .slice(0, 500);
+  })
+  .post("/documentById", (ctx) => {
+    const { id } = ctx.request.body;
+    ctx.body = documents.find((d) => d.id === id);
   });
 app.use(router.routes()).use(router.allowedMethods());
 

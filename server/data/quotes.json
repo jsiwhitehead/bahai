@@ -14965,11 +14965,20 @@
         {
           "id": "bahaullah-days-remembrance-023",
           "paragraph": 6
+        },
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 54
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 476,
+          "count": 2
+        },
+        {
+          "start": 476,
           "end": 744,
           "count": 1
         }
@@ -21465,6 +21474,10 @@
           "paragraph": 20
         },
         {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 48
+        },
+        {
           "id": "compilations-crisis-victory-001",
           "paragraph": 148
         },
@@ -21569,22 +21582,22 @@
         {
           "start": 1173,
           "end": 1196,
-          "count": 10
+          "count": 11
         },
         {
           "start": 1196,
           "end": 1197,
-          "count": 9
+          "count": 10
         },
         {
           "start": 1197,
           "end": 1315,
-          "count": 10
+          "count": 11
         },
         {
           "start": 1315,
           "end": 1443,
-          "count": 9
+          "count": 10
         },
         {
           "start": 1443,
@@ -53786,7 +53799,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-149": {
+  "additional-the-universal-house-of-justice-150": {
     "0": {
       "refs": [
         {
@@ -53803,6 +53816,1198 @@
         {
           "start": 38,
           "end": 215,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-173": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 5
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 75
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 154,
+          "count": 1
+        },
+        {
+          "start": 154,
+          "end": 571,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-187": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 7
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 179
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 532,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-097": {
+    "5": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 9
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 80
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 30,
+          "count": 2
+        },
+        {
+          "start": 91,
+          "end": 242,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-151": {
+    "8": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 431,
+          "end": 667,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-women-001",
+          "paragraph": 215
+        }
+      ],
+      "parts": [
+        {
+          "start": 579,
+          "end": 920,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 183
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 762,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-167": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 14
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 307,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-082": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 18
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 182
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 34,
+          "count": 2
+        },
+        {
+          "start": 34,
+          "end": 226,
+          "count": 1
+        },
+        {
+          "start": 226,
+          "end": 636,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-175": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 23
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-221",
+          "paragraph": 5
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 77
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 317,
+          "count": 2
+        },
+        {
+          "start": 317,
+          "end": 440,
+          "count": 3
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 24
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 78
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 167,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-080": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 26
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 170
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 17,
+          "count": 1
+        },
+        {
+          "start": 17,
+          "end": 508,
+          "count": 2
+        },
+        {
+          "start": 508,
+          "end": 601,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-092": {
+    "12": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 28
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 87
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 407,
+          "count": 2
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 262,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 89
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 155,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-066": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 30
+        },
+        {
+          "id": "compilations-peace-001",
+          "paragraph": 161
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1049,
+          "count": 1
+        },
+        {
+          "start": 1049,
+          "end": 1232,
+          "count": 2
+        },
+        {
+          "start": 1232,
+          "end": 1459,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "compilations-peace-001",
+          "paragraph": 162
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 800,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-072": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 35
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 109
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 562,
+          "count": 2
+        },
+        {
+          "start": 569,
+          "end": 648,
+          "count": 2
+        },
+        {
+          "start": 648,
+          "end": 649,
+          "count": 1
+        },
+        {
+          "start": 655,
+          "end": 657,
+          "count": 1
+        },
+        {
+          "start": 657,
+          "end": 975,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-074": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 38
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 150
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 727,
+          "count": 2
+        },
+        {
+          "start": 737,
+          "end": 1067,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-078": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 369,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-075": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 46
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 151
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 570,
+          "count": 2
+        },
+        {
+          "start": 570,
+          "end": 998,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 44
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 152
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 686,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-035": {
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 156
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 398,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 157
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 419,
+          "count": 1
+        },
+        {
+          "start": 445,
+          "end": 574,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 158
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 235,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 159
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 524,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 160
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 181,
+          "count": 1
+        },
+        {
+          "start": 187,
+          "end": 1301,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 52
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 161
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 256,
+          "count": 2
+        },
+        {
+          "start": 256,
+          "end": 1207,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 162
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 677,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 164
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 541,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 165
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 233,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 166
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 812,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 167
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 127,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 168
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 404,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 169
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 137,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 170
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 211,
+          "count": 1
+        },
+        {
+          "start": 222,
+          "end": 851,
+          "count": 1
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 171
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1095,
+          "count": 1
+        },
+        {
+          "start": 1102,
+          "end": 1175,
+          "count": 1
+        },
+        {
+          "start": 1182,
+          "end": 1475,
+          "count": 1
+        },
+        {
+          "start": 1481,
+          "end": 1686,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 50
+        },
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 54
+        },
+        {
+          "id": "ruhi8-001",
+          "paragraph": 41
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 172
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 104,
+          "count": 3
+        },
+        {
+          "start": 104,
+          "end": 401,
+          "count": 4
+        },
+        {
+          "start": 401,
+          "end": 575,
+          "count": 3
+        },
+        {
+          "start": 575,
+          "end": 1778,
+          "count": 2
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 173
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 685,
+          "count": 1
+        }
+      ]
+    },
+    "22": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 174
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1116,
+          "count": 1
+        }
+      ]
+    },
+    "23": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 175
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 618,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-079": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 52
+        },
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 171
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 632,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-020": {
+    "4": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-additional-messages-024",
+          "paragraph": 27
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 134
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 115,
+          "count": 1
+        },
+        {
+          "start": 121,
+          "end": 291,
+          "count": 1
+        },
+        {
+          "start": 298,
+          "end": 581,
+          "count": 1
+        },
+        {
+          "start": 581,
+          "end": 809,
+          "count": 2
+        },
+        {
+          "start": 809,
+          "end": 912,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 135
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1335,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 136
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 550,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 50
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 137
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 184,
+          "count": 2
+        },
+        {
+          "start": 184,
+          "end": 970,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 51
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 139
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 486,
+          "count": 2
+        },
+        {
+          "start": 486,
+          "end": 582,
+          "count": 1
+        },
+        {
+          "start": 582,
+          "end": 1645,
+          "count": 2
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 140
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 189,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 145
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1306,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 146
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1088,
+          "count": 1
+        }
+      ]
+    },
+    "17": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 147
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 505,
+          "count": 1
+        }
+      ]
+    },
+    "18": {
+      "refs": [
+        {
+          "id": "compilations-scholarship-001",
+          "paragraph": 148
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 148
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 40,
+          "count": 1
+        },
+        {
+          "start": 40,
+          "end": 636,
+          "count": 2
+        }
+      ]
+    },
+    "19": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 149
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 379,
+          "count": 1
+        },
+        {
+          "start": 386,
+          "end": 708,
+          "count": 1
+        }
+      ]
+    },
+    "20": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 56
+        },
+        {
+          "id": "world-centre-bahai-scholarship-001",
+          "paragraph": 57
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 150
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 363,
+          "count": 1
+        },
+        {
+          "start": 363,
+          "end": 744,
+          "count": 2
+        },
+        {
+          "start": 744,
+          "end": 1399,
+          "count": 1
+        },
+        {
+          "start": 1399,
+          "end": 1694,
+          "count": 2
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 151
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 262,
+          "count": 1
+        }
+      ]
+    },
+    "22": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 152
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 339,
+          "count": 1
+        }
+      ]
+    },
+    "24": {
+      "refs": [
+        {
+          "id": "compilations-covenant-001",
+          "paragraph": 49
+        },
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 154
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 381,
+          "count": 2
+        },
+        {
+          "start": 381,
+          "end": 1096,
+          "count": 1
+        },
+        {
+          "start": 1103,
+          "end": 1740,
+          "count": 1
+        }
+      ]
+    },
+    "25": {
+      "refs": [
+        {
+          "id": "compilations-universal-house-of-justice-compilation-001",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1228,
           "count": 1
         }
       ]
@@ -55585,38 +56790,6 @@
         {
           "start": 0,
           "end": 495,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-066": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-peace-001",
-          "paragraph": 161
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1459,
-          "count": 1
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-peace-001",
-          "paragraph": 162
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 800,
           "count": 1
         }
       ]
@@ -58710,7 +59883,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-150": {
+  "additional-the-universal-house-of-justice-151": {
     "0": {
       "refs": [
         {
@@ -59324,11 +60497,20 @@
         {
           "id": "world-centre-entry-by-troops-001",
           "paragraph": 119
+        },
+        {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 14
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 73,
+          "count": 2
+        },
+        {
+          "start": 73,
           "end": 420,
           "count": 1
         }
@@ -60096,7 +61278,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-128": {
+  "additional-the-universal-house-of-justice-129": {
     "0": {
       "refs": [
         {
@@ -62342,667 +63524,6 @@
         {
           "start": 167,
           "end": 284,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-020": {
-    "4": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-additional-messages-024",
-          "paragraph": 27
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 134
-        }
-      ],
-      "parts": [
-        {
-          "start": 6,
-          "end": 115,
-          "count": 1
-        },
-        {
-          "start": 121,
-          "end": 291,
-          "count": 1
-        },
-        {
-          "start": 298,
-          "end": 581,
-          "count": 1
-        },
-        {
-          "start": 581,
-          "end": 809,
-          "count": 2
-        },
-        {
-          "start": 809,
-          "end": 912,
-          "count": 1
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 135
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1335,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 136
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 550,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "compilations-covenant-001",
-          "paragraph": 50
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 137
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 184,
-          "count": 2
-        },
-        {
-          "start": 184,
-          "end": 970,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "compilations-covenant-001",
-          "paragraph": 51
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 139
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 486,
-          "count": 2
-        },
-        {
-          "start": 486,
-          "end": 582,
-          "count": 1
-        },
-        {
-          "start": 582,
-          "end": 1645,
-          "count": 2
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 140
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 189,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 145
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1306,
-          "count": 1
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 146
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1088,
-          "count": 1
-        }
-      ]
-    },
-    "17": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 147
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 505,
-          "count": 1
-        }
-      ]
-    },
-    "18": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 148
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 148
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 40,
-          "count": 1
-        },
-        {
-          "start": 40,
-          "end": 636,
-          "count": 2
-        }
-      ]
-    },
-    "19": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 149
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 379,
-          "count": 1
-        },
-        {
-          "start": 386,
-          "end": 708,
-          "count": 1
-        }
-      ]
-    },
-    "20": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 150
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1694,
-          "count": 1
-        }
-      ]
-    },
-    "21": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 151
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 262,
-          "count": 1
-        }
-      ]
-    },
-    "22": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 152
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 339,
-          "count": 1
-        }
-      ]
-    },
-    "24": {
-      "refs": [
-        {
-          "id": "compilations-covenant-001",
-          "paragraph": 49
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 154
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 381,
-          "count": 2
-        },
-        {
-          "start": 381,
-          "end": 1096,
-          "count": 1
-        },
-        {
-          "start": 1103,
-          "end": 1740,
-          "count": 1
-        }
-      ]
-    },
-    "25": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 155
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1228,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-035": {
-    "4": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 156
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 398,
-          "count": 1
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 157
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 419,
-          "count": 1
-        },
-        {
-          "start": 445,
-          "end": 574,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 158
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 235,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 159
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 524,
-          "count": 1
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 160
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 181,
-          "count": 1
-        },
-        {
-          "start": 187,
-          "end": 1301,
-          "count": 1
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "compilations-covenant-001",
-          "paragraph": 52
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 161
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 256,
-          "count": 2
-        },
-        {
-          "start": 256,
-          "end": 1207,
-          "count": 1
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 162
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 677,
-          "count": 1
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 164
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 541,
-          "count": 1
-        }
-      ]
-    },
-    "13": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 165
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 233,
-          "count": 1
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 166
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 812,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 167
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 127,
-          "count": 1
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 168
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 404,
-          "count": 1
-        }
-      ]
-    },
-    "17": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 169
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 137,
-          "count": 1
-        }
-      ]
-    },
-    "18": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 170
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 211,
-          "count": 1
-        },
-        {
-          "start": 222,
-          "end": 851,
-          "count": 1
-        }
-      ]
-    },
-    "19": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 171
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1095,
-          "count": 1
-        },
-        {
-          "start": 1102,
-          "end": 1175,
-          "count": 1
-        },
-        {
-          "start": 1182,
-          "end": 1475,
-          "count": 1
-        },
-        {
-          "start": 1481,
-          "end": 1686,
-          "count": 1
-        }
-      ]
-    },
-    "20": {
-      "refs": [
-        {
-          "id": "compilations-covenant-001",
-          "paragraph": 54
-        },
-        {
-          "id": "ruhi8-001",
-          "paragraph": 41
-        },
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 172
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 104,
-          "count": 2
-        },
-        {
-          "start": 104,
-          "end": 401,
-          "count": 3
-        },
-        {
-          "start": 401,
-          "end": 1778,
-          "count": 2
-        }
-      ]
-    },
-    "21": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 173
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 685,
-          "count": 1
-        }
-      ]
-    },
-    "22": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 174
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1116,
-          "count": 1
-        }
-      ]
-    },
-    "23": {
-      "refs": [
-        {
-          "id": "compilations-universal-house-of-justice-compilation-001",
-          "paragraph": 175
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 618,
           "count": 1
         }
       ]
@@ -67663,7 +68184,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-125": {
+  "additional-the-universal-house-of-justice-126": {
     "0": {
       "refs": [
         {
@@ -67944,7 +68465,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-126": {
+  "additional-the-universal-house-of-justice-127": {
     "0": {
       "refs": [
         {
@@ -68021,7 +68542,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-124": {
+  "additional-the-universal-house-of-justice-125": {
     "0": {
       "refs": [
         {
@@ -68065,47 +68586,6 @@
         {
           "start": 0,
           "end": 251,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-175": {
-    "0": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-221",
-          "paragraph": 5
-        },
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 77
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 317,
-          "count": 1
-        },
-        {
-          "start": 317,
-          "end": 440,
-          "count": 2
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 78
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 167,
           "count": 1
         }
       ]
@@ -70919,11 +71399,30 @@
         {
           "id": "compilations-power-divine-assistance-001",
           "paragraph": 66
+        },
+        {
+          "id": "world-centre-clusters-institutes-growth-001",
+          "paragraph": 21
         }
       ],
       "parts": [
         {
           "start": 465,
+          "end": 523,
+          "count": 2
+        },
+        {
+          "start": 523,
+          "end": 542,
+          "count": 1
+        },
+        {
+          "start": 542,
+          "end": 583,
+          "count": 2
+        },
+        {
+          "start": 583,
           "end": 855,
           "count": 1
         }
@@ -74896,38 +75395,6 @@
         {
           "start": 0,
           "end": 939,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-151": {
-    "10": {
-      "refs": [
-        {
-          "id": "compilations-women-001",
-          "paragraph": 215
-        }
-      ],
-      "parts": [
-        {
-          "start": 579,
-          "end": 920,
-          "count": 1
-        }
-      ]
-    },
-    "12": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 183
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 762,
           "count": 1
         }
       ]
@@ -82204,7 +82671,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-172": {
+  "additional-the-universal-house-of-justice-173": {
     "0": {
       "refs": [
         {
@@ -82520,7 +82987,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-173": {
+  "additional-the-universal-house-of-justice-174": {
     "0": {
       "refs": [
         {
@@ -82612,7 +83079,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-174": {
+  "additional-the-universal-house-of-justice-175": {
     "0": {
       "refs": [
         {
@@ -82676,7 +83143,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-175": {
+  "additional-the-universal-house-of-justice-176": {
     "0": {
       "refs": [
         {
@@ -82747,7 +83214,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-176": {
+  "additional-the-universal-house-of-justice-177": {
     "0": {
       "refs": [
         {
@@ -82836,7 +83303,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-177": {
+  "additional-the-universal-house-of-justice-178": {
     "0": {
       "refs": [
         {
@@ -82872,7 +83339,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-178": {
+  "additional-the-universal-house-of-justice-179": {
     "0": {
       "refs": [
         {
@@ -82903,7 +83370,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-179": {
+  "additional-the-universal-house-of-justice-180": {
     "0": {
       "refs": [
         {
@@ -83478,23 +83945,6 @@
       ]
     }
   },
-  "additional-shoghi-effendi-167": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 25
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 307,
-          "count": 1
-        }
-      ]
-    }
-  },
   "the-universal-house-of-justice-messages-258": {
     "6": {
       "refs": [
@@ -83912,23 +84362,6 @@
       ]
     }
   },
-  "additional-shoghi-effendi-173": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 75
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 571,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-shoghi-effendi-174": {
     "0": {
       "refs": [
@@ -83941,28 +84374,6 @@
         {
           "start": 0,
           "end": 550,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-097": {
-    "5": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 80
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 30,
-          "count": 1
-        },
-        {
-          "start": 91,
-          "end": 242,
           "count": 1
         }
       ]
@@ -84014,53 +84425,6 @@
         {
           "start": 0,
           "end": 1577,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-092": {
-    "12": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 87
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 407,
-          "count": 1
-        }
-      ]
-    },
-    "13": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 88
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 262,
-          "count": 1
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 89
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 155,
           "count": 1
         }
       ]
@@ -84403,33 +84767,6 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-072": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 109
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 562,
-          "count": 1
-        },
-        {
-          "start": 569,
-          "end": 649,
-          "count": 1
-        },
-        {
-          "start": 655,
-          "end": 975,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-shoghi-effendi-182": {
     "0": {
       "refs": [
@@ -84588,60 +84925,6 @@
         {
           "start": 0,
           "end": 822,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-074": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 150
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 727,
-          "count": 1
-        },
-        {
-          "start": 737,
-          "end": 1067,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-075": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 151
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 998,
-          "count": 1
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 152
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 686,
           "count": 1
         }
       ]
@@ -84823,41 +85106,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-079": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 170
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 601,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-078": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 171
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 632,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-080": {
+  "additional-the-universal-house-of-justice-081": {
     "0": {
       "refs": [
         {
@@ -84938,23 +85187,6 @@
       ]
     }
   },
-  "additional-shoghi-effendi-187": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 179
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 532,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-shoghi-effendi-188": {
     "0": {
       "refs": [
@@ -84967,23 +85199,6 @@
         {
           "start": 0,
           "end": 699,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-081": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-scholarship-001",
-          "paragraph": 182
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 636,
           "count": 1
         }
       ]
@@ -85173,7 +85388,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-151": {
+  "additional-the-universal-house-of-justice-152": {
     "0": {
       "refs": [
         {
@@ -85821,12 +86036,21 @@
         {
           "id": "the-universal-house-of-justice-messages-283",
           "paragraph": 11
+        },
+        {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 35
         }
       ],
       "parts": [
         {
           "start": 516,
           "end": 604,
+          "count": 1
+        },
+        {
+          "start": 721,
+          "end": 808,
           "count": 1
         }
       ]
@@ -86482,7 +86706,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-152": {
+  "additional-the-universal-house-of-justice-153": {
     "0": {
       "refs": [
         {
@@ -87168,7 +87392,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-153": {
+  "additional-the-universal-house-of-justice-154": {
     "0": {
       "refs": [
         {
@@ -87189,6 +87413,10 @@
     "7": {
       "refs": [
         {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 35
+        },
+        {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 3
         },
@@ -87204,6 +87432,16 @@
       "parts": [
         {
           "start": 325,
+          "end": 591,
+          "count": 1
+        },
+        {
+          "start": 591,
+          "end": 729,
+          "count": 2
+        },
+        {
+          "start": 729,
           "end": 1446,
           "count": 1
         },
@@ -87414,6 +87652,21 @@
           "count": 1
         }
       ]
+    },
+    "42": {
+      "refs": [
+        {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 27
+        }
+      ],
+      "parts": [
+        {
+          "start": 735,
+          "end": 807,
+          "count": 1
+        }
+      ]
     }
   },
   "the-universal-house-of-justice-messages-282": {
@@ -87503,6 +87756,10 @@
     "25": {
       "refs": [
         {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 35
+        },
+        {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 230
         }
@@ -87510,6 +87767,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 1216,
+          "count": 1
+        },
+        {
+          "start": 1216,
+          "end": 1307,
+          "count": 2
+        },
+        {
+          "start": 1307,
           "end": 1403,
           "count": 1
         },
@@ -87755,6 +88022,26 @@
         {
           "start": 214,
           "end": 1225,
+          "count": 1
+        }
+      ]
+    },
+    "41": {
+      "refs": [
+        {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 2
+        }
+      ],
+      "parts": [
+        {
+          "start": 602,
+          "end": 634,
+          "count": 1
+        },
+        {
+          "start": 639,
+          "end": 708,
           "count": 1
         }
       ]
@@ -88094,7 +88381,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-229": {
+  "additional-the-universal-house-of-justice-230": {
     "0": {
       "refs": [
         {
@@ -91902,7 +92189,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-195": {
+  "additional-the-universal-house-of-justice-196": {
     "0": {
       "refs": [
         {
@@ -92193,7 +92480,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-154": {
+  "additional-the-universal-house-of-justice-155": {
     "0": {
       "refs": [
         {
@@ -94930,7 +95217,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-155": {
+  "additional-the-universal-house-of-justice-156": {
     "0": {
       "refs": [
         {
@@ -94947,7 +95234,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-156": {
+  "additional-the-universal-house-of-justice-157": {
     "0": {
       "refs": [
         {
@@ -95489,6 +95776,10 @@
           "paragraph": 34
         },
         {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 6
+        },
+        {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 238
         }
@@ -95496,6 +95787,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 268,
+          "count": 1
+        },
+        {
+          "start": 268,
+          "end": 366,
+          "count": 2
+        },
+        {
+          "start": 366,
           "end": 409,
           "count": 1
         },
@@ -95691,6 +95992,10 @@
           "paragraph": 91
         },
         {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 29
+        },
+        {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 33
         },
@@ -95707,6 +96012,11 @@
         },
         {
           "start": 28,
+          "end": 137,
+          "count": 3
+        },
+        {
+          "start": 137,
           "end": 138,
           "count": 2
         },
@@ -95823,7 +96133,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-158": {
+  "additional-the-universal-house-of-justice-159": {
     "0": {
       "refs": [
         {
@@ -95869,7 +96179,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-159": {
+  "additional-the-universal-house-of-justice-160": {
     "0": {
       "refs": [
         {
@@ -95886,7 +96196,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-160": {
+  "additional-the-universal-house-of-justice-161": {
     "0": {
       "refs": [
         {
@@ -95908,7 +96218,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-161": {
+  "additional-the-universal-house-of-justice-162": {
     "0": {
       "refs": [
         {
@@ -95925,7 +96235,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-162": {
+  "additional-the-universal-house-of-justice-163": {
     "0": {
       "refs": [
         {
@@ -95942,7 +96252,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-163": {
+  "additional-the-universal-house-of-justice-164": {
     "0": {
       "refs": [
         {
@@ -95968,7 +96278,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-164": {
+  "additional-the-universal-house-of-justice-165": {
     "0": {
       "refs": [
         {
@@ -95985,7 +96295,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-165": {
+  "additional-the-universal-house-of-justice-166": {
     "0": {
       "refs": [
         {
@@ -96002,7 +96312,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-166": {
+  "additional-the-universal-house-of-justice-167": {
     "0": {
       "refs": [
         {
@@ -96107,7 +96417,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-167": {
+  "additional-the-universal-house-of-justice-168": {
     "0": {
       "refs": [
         {
@@ -96311,6 +96621,21 @@
         }
       ]
     },
+    "18": {
+      "refs": [
+        {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 317,
+          "end": 420,
+          "count": 1
+        }
+      ]
+    },
     "20": {
       "refs": [
         {
@@ -96365,6 +96690,10 @@
           "paragraph": 86
         },
         {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 14
+        },
+        {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 37
         },
@@ -96381,8 +96710,13 @@
         },
         {
           "start": 29,
-          "end": 146,
+          "end": 79,
           "count": 2
+        },
+        {
+          "start": 79,
+          "end": 146,
+          "count": 3
         },
         {
           "start": 146,
@@ -96513,7 +96847,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-168": {
+  "additional-the-universal-house-of-justice-169": {
     "0": {
       "refs": [
         {
@@ -96584,7 +96918,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-169": {
+  "additional-the-universal-house-of-justice-170": {
     "0": {
       "refs": [
         {
@@ -96610,7 +96944,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-170": {
+  "additional-the-universal-house-of-justice-171": {
     "0": {
       "refs": [
         {
@@ -96627,7 +96961,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-171": {
+  "additional-the-universal-house-of-justice-172": {
     "0": {
       "refs": [
         {
@@ -96668,7 +97002,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-193": {
+  "additional-the-universal-house-of-justice-194": {
     "0": {
       "refs": [
         {
@@ -97257,7 +97591,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-203": {
+  "additional-the-universal-house-of-justice-204": {
     "0": {
       "refs": [
         {
@@ -97558,6 +97892,125 @@
       ]
     }
   },
+  "the-universal-house-of-justice-messages-272": {
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-institution-mashriqul-adhkar-001",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 661,
+          "end": 783,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 2
+        },
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 226,
+          "end": 237,
+          "count": 1
+        },
+        {
+          "start": 237,
+          "end": 326,
+          "count": 2
+        },
+        {
+          "start": 326,
+          "end": 886,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-243": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 13
+        },
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 213
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 396,
+          "count": 1
+        },
+        {
+          "start": 396,
+          "end": 445,
+          "count": 2
+        },
+        {
+          "start": 445,
+          "end": 483,
+          "count": 1
+        },
+        {
+          "start": 483,
+          "end": 625,
+          "count": 2
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "the-universal-house-of-justice-turning-point-001",
+          "paragraph": 214
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 246,
+          "count": 1
+        },
+        {
+          "start": 252,
+          "end": 462,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-bab-selections-writings-bab-120": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-intensive-growth-001",
+          "paragraph": 30
+        }
+      ],
+      "parts": [
+        {
+          "start": 292,
+          "end": 427,
+          "count": 1
+        }
+      ]
+    }
+  },
   "bahaullah-gleanings-writings-bahaullah-081": {
     "0": {
       "refs": [
@@ -97685,7 +98138,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-201": {
+  "additional-the-universal-house-of-justice-202": {
     "0": {
       "refs": [
         {
@@ -97702,7 +98155,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-202": {
+  "additional-the-universal-house-of-justice-203": {
     "0": {
       "refs": [
         {
@@ -97760,38 +98213,6 @@
       ]
     }
   },
-  "the-universal-house-of-justice-messages-272": {
-    "8": {
-      "refs": [
-        {
-          "id": "compilations-institution-mashriqul-adhkar-001",
-          "paragraph": 37
-        }
-      ],
-      "parts": [
-        {
-          "start": 661,
-          "end": 783,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 43
-        }
-      ],
-      "parts": [
-        {
-          "start": 226,
-          "end": 886,
-          "count": 1
-        }
-      ]
-    }
-  },
   "the-universal-house-of-justice-messages-302": {
     "9": {
       "refs": [
@@ -97813,7 +98234,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-204": {
+  "additional-the-universal-house-of-justice-205": {
     "0": {
       "refs": [
         {
@@ -97922,7 +98343,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-205": {
+  "additional-the-universal-house-of-justice-206": {
     "0": {
       "refs": [
         {
@@ -97977,7 +98398,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-206": {
+  "additional-the-universal-house-of-justice-207": {
     "0": {
       "refs": [
         {
@@ -98033,7 +98454,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-207": {
+  "additional-the-universal-house-of-justice-208": {
     "0": {
       "refs": [
         {
@@ -98099,7 +98520,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-208": {
+  "additional-the-universal-house-of-justice-209": {
     "0": {
       "refs": [
         {
@@ -98136,7 +98557,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-209": {
+  "additional-the-universal-house-of-justice-210": {
     "0": {
       "refs": [
         {
@@ -98153,7 +98574,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-210": {
+  "additional-the-universal-house-of-justice-211": {
     "0": {
       "refs": [
         {
@@ -98170,7 +98591,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-211": {
+  "additional-the-universal-house-of-justice-212": {
     "0": {
       "refs": [
         {
@@ -98202,7 +98623,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-212": {
+  "additional-the-universal-house-of-justice-213": {
     "0": {
       "refs": [
         {
@@ -98219,7 +98640,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-213": {
+  "additional-the-universal-house-of-justice-214": {
     "0": {
       "refs": [
         {
@@ -98236,7 +98657,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-214": {
+  "additional-the-universal-house-of-justice-215": {
     "0": {
       "refs": [
         {
@@ -98268,7 +98689,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-215": {
+  "additional-the-universal-house-of-justice-216": {
     "0": {
       "refs": [
         {
@@ -98341,7 +98762,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-216": {
+  "additional-the-universal-house-of-justice-217": {
     "0": {
       "refs": [
         {
@@ -98358,7 +98779,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-217": {
+  "additional-the-universal-house-of-justice-218": {
     "0": {
       "refs": [
         {
@@ -98375,7 +98796,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-218": {
+  "additional-the-universal-house-of-justice-219": {
     "0": {
       "refs": [
         {
@@ -98392,7 +98813,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-219": {
+  "additional-the-universal-house-of-justice-220": {
     "0": {
       "refs": [
         {
@@ -98409,7 +98830,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-220": {
+  "additional-the-universal-house-of-justice-221": {
     "0": {
       "refs": [
         {
@@ -98426,7 +98847,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-221": {
+  "additional-the-universal-house-of-justice-222": {
     "0": {
       "refs": [
         {
@@ -98443,7 +98864,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-222": {
+  "additional-the-universal-house-of-justice-223": {
     "0": {
       "refs": [
         {
@@ -98465,7 +98886,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-145": {
+  "additional-the-universal-house-of-justice-146": {
     "0": {
       "refs": [
         {
@@ -98486,7 +98907,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-224": {
+  "additional-the-universal-house-of-justice-225": {
     "0": {
       "refs": [
         {
@@ -98503,7 +98924,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-225": {
+  "additional-the-universal-house-of-justice-226": {
     "0": {
       "refs": [
         {
@@ -98520,7 +98941,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-226": {
+  "additional-the-universal-house-of-justice-227": {
     "0": {
       "refs": [
         {
@@ -98537,7 +98958,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-227": {
+  "additional-the-universal-house-of-justice-228": {
     "0": {
       "refs": [
         {
@@ -98554,7 +98975,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-228": {
+  "additional-the-universal-house-of-justice-229": {
     "0": {
       "refs": [
         {
@@ -98571,7 +98992,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-230": {
+  "additional-the-universal-house-of-justice-231": {
     "0": {
       "refs": [
         {
@@ -98588,7 +99009,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-231": {
+  "additional-the-universal-house-of-justice-232": {
     "0": {
       "refs": [
         {
@@ -98605,7 +99026,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-232": {
+  "additional-the-universal-house-of-justice-233": {
     "0": {
       "refs": [
         {
@@ -98622,7 +99043,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-233": {
+  "additional-the-universal-house-of-justice-234": {
     "0": {
       "refs": [
         {
@@ -98653,7 +99074,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-234": {
+  "additional-the-universal-house-of-justice-235": {
     "0": {
       "refs": [
         {
@@ -98670,7 +99091,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-235": {
+  "additional-the-universal-house-of-justice-236": {
     "0": {
       "refs": [
         {
@@ -98687,7 +99108,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-236": {
+  "additional-the-universal-house-of-justice-237": {
     "0": {
       "refs": [
         {
@@ -98704,7 +99125,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-237": {
+  "additional-the-universal-house-of-justice-238": {
     "0": {
       "refs": [
         {
@@ -98721,7 +99142,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-238": {
+  "additional-the-universal-house-of-justice-239": {
     "0": {
       "refs": [
         {
@@ -98768,7 +99189,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-239": {
+  "additional-the-universal-house-of-justice-240": {
     "0": {
       "refs": [
         {
@@ -98785,7 +99206,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-240": {
+  "additional-the-universal-house-of-justice-241": {
     "0": {
       "refs": [
         {
@@ -98802,7 +99223,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-241": {
+  "additional-the-universal-house-of-justice-242": {
     "0": {
       "refs": [
         {
@@ -98819,44 +99240,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-242": {
-    "0": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 213
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 625,
-          "count": 1
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-turning-point-001",
-          "paragraph": 214
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 246,
-          "count": 1
-        },
-        {
-          "start": 252,
-          "end": 462,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-the-universal-house-of-justice-243": {
+  "additional-the-universal-house-of-justice-244": {
     "0": {
       "refs": [
         {
@@ -98954,8 +99338,8 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-244": {
-    "0": {
+  "the-universal-house-of-justice-additional-messages-038": {
+    "6": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-turning-point-001",
@@ -98964,8 +99348,8 @@
       ],
       "parts": [
         {
-          "start": 0,
-          "end": 362,
+          "start": 417,
+          "end": 779,
           "count": 1
         }
       ]
@@ -99203,7 +99587,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-181": {
+  "additional-the-universal-house-of-justice-182": {
     "0": {
       "refs": [
         {
@@ -99220,7 +99604,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-182": {
+  "additional-the-universal-house-of-justice-183": {
     "0": {
       "refs": [
         {
@@ -99237,7 +99621,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-183": {
+  "additional-the-universal-house-of-justice-184": {
     "0": {
       "refs": [
         {
@@ -99268,7 +99652,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-184": {
+  "additional-the-universal-house-of-justice-185": {
     "0": {
       "refs": [
         {
@@ -99334,17 +99718,31 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-185": {
+  "additional-the-universal-house-of-justice-186": {
     "0": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 280
+        },
+        {
+          "id": "world-centre-clusters-institutes-growth-001",
+          "paragraph": 19
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 471,
+          "count": 1
+        },
+        {
+          "start": 471,
+          "end": 608,
+          "count": 2
+        },
+        {
+          "start": 608,
           "end": 869,
           "count": 1
         }
@@ -99366,7 +99764,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-186": {
+  "additional-the-universal-house-of-justice-187": {
     "0": {
       "refs": [
         {
@@ -99388,7 +99786,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-187": {
+  "additional-the-universal-house-of-justice-188": {
     "0": {
       "refs": [
         {
@@ -99422,7 +99820,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-188": {
+  "additional-the-universal-house-of-justice-189": {
     "0": {
       "refs": [
         {
@@ -99439,7 +99837,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-189": {
+  "additional-the-universal-house-of-justice-190": {
     "0": {
       "refs": [
         {
@@ -99456,7 +99854,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-190": {
+  "additional-the-universal-house-of-justice-191": {
     "0": {
       "refs": [
         {
@@ -99488,7 +99886,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-191": {
+  "additional-the-universal-house-of-justice-192": {
     "0": {
       "refs": [
         {
@@ -99510,7 +99908,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-192": {
+  "additional-the-universal-house-of-justice-193": {
     "0": {
       "refs": [
         {
@@ -99547,7 +99945,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-194": {
+  "additional-the-universal-house-of-justice-195": {
     "0": {
       "refs": [
         {
@@ -99578,7 +99976,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-196": {
+  "additional-the-universal-house-of-justice-197": {
     "0": {
       "refs": [
         {
@@ -99595,7 +99993,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-197": {
+  "additional-the-universal-house-of-justice-198": {
     "0": {
       "refs": [
         {
@@ -99612,7 +100010,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-198": {
+  "additional-the-universal-house-of-justice-199": {
     "0": {
       "refs": [
         {
@@ -99629,7 +100027,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-200": {
+  "additional-the-universal-house-of-justice-201": {
     "0": {
       "refs": [
         {
@@ -99646,7 +100044,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-147": {
+  "additional-the-universal-house-of-justice-148": {
     "0": {
       "refs": [
         {
@@ -99709,7 +100107,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-094": {
+  "additional-the-universal-house-of-justice-095": {
     "0": {
       "refs": [
         {
@@ -115407,7 +115805,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-157": {
+  "additional-the-universal-house-of-justice-158": {
     "1": {
       "refs": [
         {
@@ -115424,7 +115822,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-180": {
+  "additional-the-universal-house-of-justice-181": {
     "0": {
       "refs": [
         {
@@ -117166,7 +117564,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-127": {
+  "additional-the-universal-house-of-justice-128": {
     "0": {
       "refs": [
         {
@@ -117183,7 +117581,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-129": {
+  "additional-the-universal-house-of-justice-130": {
     "0": {
       "refs": [
         {
@@ -117205,7 +117603,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-130": {
+  "additional-the-universal-house-of-justice-131": {
     "0": {
       "refs": [
         {
@@ -117542,7 +117940,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-131": {
+  "additional-the-universal-house-of-justice-132": {
     "0": {
       "refs": [
         {
@@ -117600,7 +117998,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-132": {
+  "additional-the-universal-house-of-justice-133": {
     "0": {
       "refs": [
         {
@@ -117617,7 +118015,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-133": {
+  "additional-the-universal-house-of-justice-134": {
     "0": {
       "refs": [
         {
@@ -117818,7 +118216,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-134": {
+  "additional-the-universal-house-of-justice-135": {
     "0": {
       "refs": [
         {
@@ -117835,7 +118233,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-135": {
+  "additional-the-universal-house-of-justice-136": {
     "0": {
       "refs": [
         {
@@ -117852,7 +118250,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-136": {
+  "additional-the-universal-house-of-justice-137": {
     "0": {
       "refs": [
         {
@@ -117869,7 +118267,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-137": {
+  "additional-the-universal-house-of-justice-138": {
     "0": {
       "refs": [
         {
@@ -117886,7 +118284,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-138": {
+  "additional-the-universal-house-of-justice-139": {
     "0": {
       "refs": [
         {
@@ -117903,7 +118301,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-139": {
+  "additional-the-universal-house-of-justice-140": {
     "0": {
       "refs": [
         {
@@ -117925,7 +118323,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-140": {
+  "additional-the-universal-house-of-justice-141": {
     "0": {
       "refs": [
         {
@@ -117942,7 +118340,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-141": {
+  "additional-the-universal-house-of-justice-142": {
     "0": {
       "refs": [
         {
@@ -117959,7 +118357,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-142": {
+  "additional-the-universal-house-of-justice-143": {
     "0": {
       "refs": [
         {
@@ -118008,7 +118406,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-143": {
+  "additional-the-universal-house-of-justice-144": {
     "0": {
       "refs": [
         {
@@ -118285,7 +118683,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-144": {
+  "additional-the-universal-house-of-justice-145": {
     "0": {
       "refs": [
         {
@@ -122135,7 +122533,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-099": {
+  "additional-the-universal-house-of-justice-100": {
     "0": {
       "refs": [
         {
@@ -123567,7 +123965,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-116": {
+  "additional-the-universal-house-of-justice-117": {
     "0": {
       "refs": [
         {
@@ -123606,7 +124004,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-112": {
+  "additional-the-universal-house-of-justice-113": {
     "0": {
       "refs": [
         {
@@ -123623,7 +124021,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-113": {
+  "additional-the-universal-house-of-justice-114": {
     "0": {
       "refs": [
         {
@@ -123655,7 +124053,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-114": {
+  "additional-the-universal-house-of-justice-115": {
     "0": {
       "refs": [
         {
@@ -123686,7 +124084,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-115": {
+  "additional-the-universal-house-of-justice-116": {
     "0": {
       "refs": [
         {
@@ -123901,7 +124299,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-117": {
+  "additional-the-universal-house-of-justice-118": {
     "0": {
       "refs": [
         {
@@ -124017,7 +124415,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-118": {
+  "additional-the-universal-house-of-justice-119": {
     "0": {
       "refs": [
         {
@@ -124034,7 +124432,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-119": {
+  "additional-the-universal-house-of-justice-120": {
     "0": {
       "refs": [
         {
@@ -124051,7 +124449,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-120": {
+  "additional-the-universal-house-of-justice-121": {
     "0": {
       "refs": [
         {
@@ -126685,7 +127083,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-146": {
+  "additional-the-universal-house-of-justice-147": {
     "0": {
       "refs": [
         {
@@ -126794,7 +127192,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-148": {
+  "additional-the-universal-house-of-justice-149": {
     "0": {
       "refs": [
         {
@@ -128006,7 +128404,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-111": {
+  "additional-the-universal-house-of-justice-112": {
     "0": {
       "refs": [
         {
@@ -130275,7 +130673,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-082": {
+  "additional-the-universal-house-of-justice-083": {
     "0": {
       "refs": [
         {
@@ -130423,7 +130821,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-083": {
+  "additional-the-universal-house-of-justice-084": {
     "0": {
       "refs": [
         {
@@ -130502,7 +130900,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-084": {
+  "additional-the-universal-house-of-justice-085": {
     "0": {
       "refs": [
         {
@@ -130519,7 +130917,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-085": {
+  "additional-the-universal-house-of-justice-086": {
     "0": {
       "refs": [
         {
@@ -130586,7 +130984,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-086": {
+  "additional-the-universal-house-of-justice-087": {
     "0": {
       "refs": [
         {
@@ -130603,7 +131001,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-087": {
+  "additional-the-universal-house-of-justice-088": {
     "0": {
       "refs": [
         {
@@ -130620,7 +131018,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-088": {
+  "additional-the-universal-house-of-justice-089": {
     "0": {
       "refs": [
         {
@@ -130637,7 +131035,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-089": {
+  "additional-the-universal-house-of-justice-090": {
     "0": {
       "refs": [
         {
@@ -130671,7 +131069,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-090": {
+  "additional-the-universal-house-of-justice-091": {
     "0": {
       "refs": [
         {
@@ -130688,7 +131086,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-091": {
+  "additional-the-universal-house-of-justice-092": {
     "0": {
       "refs": [
         {
@@ -130705,7 +131103,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-092": {
+  "additional-the-universal-house-of-justice-093": {
     "0": {
       "refs": [
         {
@@ -130810,7 +131208,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-093": {
+  "additional-the-universal-house-of-justice-094": {
     "0": {
       "refs": [
         {
@@ -130842,7 +131240,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-095": {
+  "additional-the-universal-house-of-justice-096": {
     "0": {
       "refs": [
         {
@@ -130880,7 +131278,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-096": {
+  "additional-the-universal-house-of-justice-097": {
     "0": {
       "refs": [
         {
@@ -130897,7 +131295,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-097": {
+  "additional-the-universal-house-of-justice-098": {
     "0": {
       "refs": [
         {
@@ -130914,7 +131312,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-098": {
+  "additional-the-universal-house-of-justice-099": {
     "0": {
       "refs": [
         {
@@ -130948,7 +131346,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-100": {
+  "additional-the-universal-house-of-justice-101": {
     "0": {
       "refs": [
         {
@@ -131004,7 +131402,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-101": {
+  "additional-the-universal-house-of-justice-102": {
     "0": {
       "refs": [
         {
@@ -131089,7 +131487,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-102": {
+  "additional-the-universal-house-of-justice-103": {
     "0": {
       "refs": [
         {
@@ -131956,7 +132354,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-103": {
+  "additional-the-universal-house-of-justice-104": {
     "0": {
       "refs": [
         {
@@ -131988,7 +132386,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-104": {
+  "additional-the-universal-house-of-justice-105": {
     "0": {
       "refs": [
         {
@@ -132037,7 +132435,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-105": {
+  "additional-the-universal-house-of-justice-106": {
     "0": {
       "refs": [
         {
@@ -132225,7 +132623,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-106": {
+  "additional-the-universal-house-of-justice-107": {
     "0": {
       "refs": [
         {
@@ -132286,7 +132684,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-107": {
+  "additional-the-universal-house-of-justice-108": {
     "0": {
       "refs": [
         {
@@ -132303,7 +132701,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-108": {
+  "additional-the-universal-house-of-justice-109": {
     "0": {
       "refs": [
         {
@@ -132340,7 +132738,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-109": {
+  "additional-the-universal-house-of-justice-110": {
     "0": {
       "refs": [
         {
@@ -132419,7 +132817,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-110": {
+  "additional-the-universal-house-of-justice-111": {
     "0": {
       "refs": [
         {
@@ -135835,7 +136233,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-121": {
+  "additional-the-universal-house-of-justice-122": {
     "0": {
       "refs": [
         {
@@ -136071,7 +136469,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-122": {
+  "additional-the-universal-house-of-justice-123": {
     "0": {
       "refs": [
         {
@@ -136241,7 +136639,7 @@
       ]
     }
   },
-  "additional-the-universal-house-of-justice-123": {
+  "additional-the-universal-house-of-justice-124": {
     "0": {
       "refs": [
         {

@@ -4712,7 +4712,7 @@ Racial and ethnic prejudices have been subjected to equally summary treatment by
 
 It is not that a dark past has been erased and a new world of light has suddenly been born. Vast numbers of people continue to endure the effects of ingrained prejudices of ethnicity, gender, nation, caste and class. All the evidence indicates that such injustices will long persist as the institutions and standards that humanity is devising only slowly become empowered to construct a new order of relationships and to bring relief to the oppressed. The point, rather, is that a threshold has been crossed from which there is no credible possibility of return. Fundamental principles have been identified, articulated, accorded broad publicity and are becoming progressively incarnated in institutions capable of imposing them on public behaviour. There is no doubt that, however protracted and painful the struggle, the outcome will be to revolutionise relationships among all peoples, at the grassroots level.
 
-* * *
+***
 
 As the twentieth century opened, the prejudice that seemed more likely than any other to succumb to the forces of change was that of religion. In the West, scientific advances had already dealt rudely with some of the central pillars of sectarian exclusivity. In the context of the transformation taking place in the human race’s conception of itself, the most promising new religious development seemed to be the interfaith movement. In 1893, the World’s Columbian Exposition surprised even its ambitious organisers by giving birth to the famed “Parliament of Religions”, a vision of spiritual and moral consensus that captured the popular imagination on all continents and managed to eclipse even the scientific, technological and commercial wonders that the Exposition celebrated.
 
@@ -4730,7 +4730,7 @@ Such reflections, however painful, are less an indictment of organised religion 
 
 This same force, that operated with such effect in ages past, remains an inextinguishable feature of human consciousness. Against all odds, and with little in the way of meaningful encouragement, it continues to sustain the struggle for survival of uncounted millions, and to raise up in all lands heroes and saints whose lives are the most persuasive vindication of the principles contained in the scriptures of their respective faiths. As the course of civilisation demonstrates, religion is also capable of profoundly influencing the structure of social relationships. Indeed, it would be difficult to think of any fundamental advance in civilisation that did not derive its moral thrust from this perennial source. Is it conceivable, then, that passage to the culminating stage in the millennia‑long process of the organisation of the planet can be accomplished in a spiritual vacuum? If the perverse ideologies let loose on our world during the century just past contributed nothing else, they demonstrated conclusively that the need cannot be met by alternatives that lie within the power of human invention.
 
-* * *
+***
 
 The implications for today are summed up by Bahá’u’lláh in words written over a century ago and widely disseminated in the intervening decades:
 
@@ -4750,7 +4750,7 @@ If religious leadership is to rise to the challenge that this latter perception 
 
 We come finally to an issue that we approach with some diffidence as it touches most directly on conscience. Among the many temptations the world offers, the test that has, not surprisingly, preoccupied religious leaders is that of exercising power in matters of belief. No one who has dedicated long years to earnest meditation and study of the scriptures of one or another of the great religions requires any further reminder of the oft‑repeated axiom regarding the potentiality of power to corrupt and to do so increasingly as such power grows. The unheralded inner victories won in this respect by unnumbered clerics all down the ages have no doubt been one of the chief sources of organised religion’s creative strength and must rank as one of its highest distinctions. To the same degree, surrender to the lure of worldly power and advantage, on the part of other religious leaders, has cultivated a fertile breeding ground for cynicism, corruption and despair among all who observe it. The implications for the ability of religious leadership to fulfil its social responsibility at this point in history need no elaboration.
 
-* * *
+***
 
 Because it is concerned with the ennobling of character and the harmonising of relationships, religion has served throughout history as the ultimate authority in giving meaning to life. In every age, it has cultivated the good, reproved the wrong and held up, to the gaze of all those willing to see, a vision of potentialities as yet unrealised. From its counsels the rational soul has derived encouragement in overcoming limits imposed by the world and in fulfilling itself. As the name implies, religion has simultaneously been the chief force binding diverse peoples together in ever larger and more complex societies through which the individual capacities thus released can find expression. The great advantage of the present age is the perspective that makes it possible for the entire human race to see this civilising process as a single phenomenon, the ever‑recurring encounters of our world with the world of God.
 
@@ -9140,7 +9140,7 @@ We recall with much joy and deep gratitude to Bahá’u’lláh your presence in
 
 Having considered the various points and queries you raised, we are now able to respond to those which fall under the broad categories of teaching, relations between your National Spiritual Assembly and the Continental Counsellors, and the functioning of your Assembly.
 
-* * *
+***
 
 Regarding your “Vision in Action” initiative, you reported evidences of a tremendous response, some movement, and some expansion; furthermore, the stimulus of the recent Atlanta conference spearheaded by the Continental Counsellors caused a marked acceleration of activities. In sum, the friends have seldom been more visibly active, but growth is slow; you feel the community has for some time been on the threshold of a breakthrough which remains elusive. The degeneration of society, as manifested by the breakdown of moral standards and the alarming increase of violence, you feel, is exerting a debilitating effect on the individual believer. You yearn for a way to free the teaching potential which to a large extent is locked up in the individual in the face of these dreadful circumstances.
 
@@ -9160,7 +9160,7 @@ It is also vital for your Assembly to keep in mind that the mental anguish which
 
 In the arena of teaching, your indispensable terms of reference and the unerring resource to which you have ready access are the Master’s Tablets of the Divine Plan. They invest your community with extraordinary powers shared by your sister community in Canada. It is in reacquainting the American friends with the special mission, both at home and abroad, assigned to them in these seminal and timeless documents, and in relating their contents to current conditions, that you will find the key to the revitalisation of the teaching work and the winning of outstanding victories on the home front. In this effort you will be powerfully aided by the explanations provided in the letters of our dear Guardian, such as The Advent of Divine Justice, “The Challenging Requirements of the Present Hour,” “American Bahá’ís in the Time of World Peril.” We have every confidence that, together with the Continental Counsellors and the Auxiliary Board members, you can discover the way further to release the enormous energies of the friends and to intensify the zeal which they have so splendidly displayed in the teaching field on so many occasions in the past.
 
-* * *
+***
 
 We were very pleased by the sense you conveyed of an ever‑closer relationship between your Assembly and the Continental Counsellors, and we were even more deeply impressed by your eagerness to know how you might strengthen this relationship. A beginning towards achieving your desire would be for you to obtain an integrated understanding of the Counsellors’ responsibilities and sphere of action in relation to your own.
 
@@ -9190,7 +9190,7 @@ Achieving a closer and more effective relationship between you and the Continent
 
 The existence of a loving, trusting and informal atmosphere in your dealings with the Counsellors should not, however, be allowed to relax adherence to the rules governing the working relationship between the Continental Board of Counsellors and their Auxiliary Boards, on the one hand, and the National Spiritual Assembly and its committees, on the other. These matters are explained in detail in our letter of 1 October 1969, which you have published.
 
-* * *
+***
 
 We now wish to address the manner of your functioning as a National Spiritual Assembly. Your analysis of the situation identified the issues of immediate concern about the national administration of the Faith, such issues as: overcentralization, particularly with regard to the administration of the teaching work; your fear that you may be exercising a level of administrative control that may be stifling individual initiative throughout the country; and the relation of your Assembly to the community.
 
@@ -9246,7 +9246,7 @@ A new burst of energy would accrue to the operation of the Three Year Plan if th
 
 A further decentralisation of the national administration would increase the possibility of loosening control at the top and encouraging the involvement of individuals in the work of the community at the grassroots. We therefore welcome your intention to take such action. However, you may wish to do this in incremental steps rather than in one sweeping motion. The matter is left entirely to your judgement. It may encourage you to know that in a few countries where the challenge of administering the teaching work and providing other administrative services assumed formidable proportions, various approaches have been used to achieve a measure of decentralisation. A detailed description of some of these approaches will be sent to you separately.
 
-* * *
+***
 
 Having said all the foregoing, we pause to assure you of our full awareness of the great burdens you carry and of the ceaseless calls upon you to render services in the absence of adequate resources. Do not despair. Your capacity to respond will match any challenge that may confront you in these troubled times; you have only to act on principle. Your community’s past has been glorious; its future is great beyond calculation. The divine promises to your community are certain; the blessings of Bahá’u’lláh are assured as you strive to fulfil His purpose. The wings of the beloved Master remain spread over you that you may succeed in discharging the tasks He has especially entrusted to your care. And our love ever surrounds you and your cherished community, growing stronger at every moment. Step forward then to meet the requirements of the hour with undiminished hope and confidence.
 
@@ -11560,7 +11560,7 @@ You are, no doubt, conversant with the Guardian’s expatiations on this theme. 
 
 The great emphasis on the distinctiveness of the Order of Bahá’u’lláh is not meant to belittle existing systems of government. Indeed, they are to be recognised as the fruit of a vast period of social evolution, representing an advanced stage in the development of social organisation. What motivates us is the knowledge that the supreme mission of the Revelation of Bahá’u’lláh, the Bearer of that Order, is, as Shoghi Effendi pointed out, “none other but the achievement of this organic and spiritual unity of the whole body of nations,” indicating the “coming of age of the entire human race.” The astounding implication of this is the near prospect of attaining an age‑old hope, now made possible at long last by the coming of Bahá’u’lláh. In practical terms, His mission signals the advent of “an organic change in the structure of present‑day society, a change such as the world has not yet experienced.” It is a fresh manifestation of the direct involvement of God in history, a reassurance that His children have not been left to drift, a sign of the outpouring of a heavenly grace that will enable all humanity to be free at last from conflict and contention to ascend the heights of world peace and divine civilisation. Beyond all else, it is a demonstration of that love for His children, which He knew in the depth of His “immemorial being” and in the “ancient eternity” of His Essence, and which caused Him to create us all. In the noblest sense, then, attention to the requirements of His World Order is a reciprocation of that love.
 
-* * *
+***
 
 It is this perspective that helps us to understand the question of freedom and its place in Bahá’í thought and action. The idea and the fact of freedom pervade all human concerns in an infinitude of notions and modes. Freedom is indeed essential to all expressions of human life.
 
@@ -11582,7 +11582,7 @@ Consider, for example, the Local Spiritual Assembly, the methods of its formatio
 
 But occupation with the mechanics of Bahá’í Administration, divorced from the animating spirit of the Cause, leads to a distortion, to an arid secularisation foreign to the nature of the Administration. Equally significant to the procedures for election—to further extend the example—is the evocation of that rarefied atmosphere of prayer and reflection, that quiet dignity of the process, devoid of nominations and campaigning, in which the individual’s freedom to choose is limited only by his own conscience, exercised in private in an attitude that invites communion with the Holy Spirit. In this sphere, the elector regards the outcome as an expression of the will of God, and those elected as being primarily responsible to that will, not to the constituency which elected them. An election thus conducted portrays an aspect of that organic unity of the inner and outer realities of human life which is necessary to the construction of a mature society in this new Age. In no other system do individuals exercise such a breadth of freedom in the electoral process.
 
-* * *
+***
 
 The equilibrium of responsibilities implied by all this presupposes maturity on the part of all concerned. This maturity has an apt analogy in adulthood in human beings. How significant is the difference between infancy and childhood, adolescence and adulthood! In a period of history dominated by the surging energy, the rebellious spirit and frenetic activity of adolescence, it is difficult to grasp the distinguishing elements of the mature society to which Bahá’u’lláh beckons all humanity. The models of the old world order blur vision of that which must be perceived; for these models were, in many instances, conceived in rebellion and retain the characteristics of the revolutions peculiar to an adolescent, albeit necessary, period in the evolution of human society. The very philosophies which have provided the intellectual content of such revolutions—Hobbes, Locke, Jefferson, Mill come readily to mind—were inspired by protest against the oppressive conditions which revolutions were intended to remedy.
 
@@ -11590,7 +11590,7 @@ These characteristics are conspicuous, for example, in the inordinate scepticism
 
 We make these observations not to indulge in criticism of any system, but rather to open up lines of thought, to encourage a reexamination of the bases of modern society, and to engender a perspective for consideration of the distinctive features of the Order of Bahá’u’lláh. What, it could be asked, was the nature of society that gave rise to such characteristics and such philosophies? Where have these taken mankind? Has their employment satisfied the needs and expectations of the human spirit? The answers to such questions could lay the ground for a contrasting observation of the origin and nature of the characteristics and philosophy underlying that Order.
 
-* * *
+***
 
 As to freedom of expression, a fundamental principle of the Cause, the Administrative Order provides unique methods and channels for its exercise and maintenance; these have been amply described in the writings of the Faith, but they are not yet clearly understood by the friends. For Bahá’u’lláh has extended the scope and deepened the meaning of self‑expression. In His elevation of art and of work performed in the service of humanity to acts of worship can be discerned enormous prospects for a new birth of expression in the civilisation anticipated by His World Order. The significance of this principle, now so greatly amplified by the Lord of the Age, cannot be doubted; but it is in its ramifications in speech that keen understanding is urgently needed. From a Bahá’í point of view, the exercise of freedom of speech must necessarily be disciplined by a profound appreciation of both the positive and negative dimensions of freedom, on the one hand, and of speech, on the other.
 
@@ -11606,7 +11606,7 @@ Once a decision has been reached, all members of the consultative body, having h
 
 The qualities by which the individual can achieve the personal discipline necessary to successful consultation find their full expression in what Shoghi Effendi regarded as the “spirit of a true Bahá’í.” Ponder, for instance, the appealing remark addressed to your own community in one of his earliest letters: “Nothing short of the spirit of a true Bahá’í can hope to reconcile the principles of mercy and justice, of freedom and submission, of the sanctity of the right of the individual and of self‑surrender, of vigilance, discretion and prudence on the one hand, and fellowship, candour, and courage on the other.” This was an appeal to the maturity and the distinction towards which he repeatedly directed their thoughts.
 
-* * *
+***
 
 Because the Most Great Peace is the object of our longing, a primary effort of the Bahá’í community is to reduce the incidence of conflict and contention, which are categorically forbidden in the Most Holy Book. Does this mean that one may not express critical thought? Absolutely not. How can there be the candour called for in consultation if there is no critical thought? How is the individual to exercise his responsibilities to the Cause, if he is not allowed the freedom to express his views? Has Shoghi Effendi not stated that “at the very root of the Cause lies the principle of the undoubted right of the individual to self‑expression, his freedom to declare his conscience and set forth his views”?
 
@@ -11620,7 +11620,7 @@ The responsibility resting on the individual to conduct himself in such a way as
 
 If Bahá’í individuals deliberately ignore the principles imbedded in the Order which Bahá’u’lláh Himself has established to remedy divisiveness in the human family, the Cause for which so much has been sacrificed will surely be set back in its mission to rescue world society from complete disintegration. May not the existence of the Covenant be invoked again and again, so that such repetition may preserve the needed perspective? For, in this age, the Cause of Bahá’u’lláh has been protected against the baneful effects of the misuse of the process of criticism; this has been done by the institution of the Covenant and by the provision of a universal administrative system which incorporates within itself the mechanisms for drawing out the constructive ideas of individuals and using them for the benefit of the entire system. Admonishing the people to uphold the unifying purpose of the Cause, Bahá’u’lláh, in the Book of His Covenant, addresses these poignant words to them: “Let not the means of order be made the cause of confusion and the instrument of union an occasion for discord.” Such assertions emphasise a crucial point; it is this: In terms of the Covenant, dissidence is a moral and intellectual contradiction of the main objective animating the Bahá’í community, namely, the establishment of the unity of mankind.
 
-* * *
+***
 
 We return to the phenomenal characteristics of speech. Content, volume, style, tact, wisdom, timeliness are among the critical factors in determining the effects of speech for good or evil. Consequently, the friends need ever to be conscious of the significance of this activity which so distinguishes human beings from other forms of life, and they must exercise it judiciously. Their efforts at such discipline will give birth to an etiquette of expression worthy of the approaching maturity of the human race. Just as this discipline applies to the spoken word, it applies equally to the written word; and it profoundly affects the operation of the press.
 
@@ -11632,7 +11632,7 @@ As to manner and style, Bahá’u’lláh has exhorted “authors among the frie
 
 In the light of all this, the code of conduct of the press must embrace the principles and objectives of consultation as revealed by Bahá’u’lláh. Only in this way will the press be able to make its full contribution to the preservation of the rights of the people and become a powerful instrument in the consultative processes of society, and hence for the unity of the human race.
 
-* * *
+***
 
 Some of the friends have suggested that the emergence of the Faith from obscurity indicates the timeliness of ceasing observance in the Bahá’í community of certain restraints; particularly are they concerned about the temporary necessity of review before publishing.
 
@@ -11646,7 +11646,7 @@ The Faith is as yet in its infancy. Despite its emergence from obscurity, even n
 
 Let us all remember that the struggle of the infant Faith of God to thrive is beset with the turmoil of the present age. Like a tender shoot just barely discernible above ground, it must be nurtured to strength and maturity and buttressed as necessary against the blight of strong winds and deadly entanglements with weeds and thistles. If we to whose care this plant has been entrusted are insensitive to its tenderness, the great tree which is its certain potential will be hindered in its growth towards the spreading of its sheltering branches over all humankind. From this perspective we must all consider the latent danger to the Cause of ill‑advised actions and exaggerated expectations; and particularly must we all be concerned about the effects of words, especially those put in print. It is here that Bahá’í authors and publishers need to be attentive and exert rigorous discipline upon themselves, as well as abide by the requirements of review at this early stage in the development of the Faith.
 
-* * *
+***
 
 The right of the individual to self‑expression has permeated the foregoing comments on the various freedoms, but, even so, a word more might be said about individual freedom. The fundamental attitude of the Faith in this respect is best demonstrated by statements of ‘Abdu’l‑Bahá concerning the family. “The integrity of the family bond,” He says, “must be constantly considered, and the rights of the individual members must not be transgressed. . . . All these rights and prerogatives must be conserved, yet the unity of the family must be sustained. The injury of one shall be considered the injury of all; the comfort of each, the comfort of all; the honour of one, the honour of all.”
 
@@ -11658,7 +11658,7 @@ How noteworthy that in the Order of Bahá’u’lláh, while the individual will
 
 The quality of freedom and of its expression—indeed, the very capacity to maintain freedom in a society—undoubtedly depends on the knowledge and training of individuals and on their ability to cope with the challenges of life with equanimity. As the beloved Master has written: “And the honour and distinction of the individual consist in this, that he among all the world’s multitudes should become a source of social good. Is any larger bounty conceivable than this, that an individual, looking within himself, should find that by the confirming grace of God he has become the cause of peace and well‑being, of happiness and advantage to his fellowmen? No, by the one true God, there is no greater bliss, no more complete delight.”
 
-* * *
+***
 
 The spirit of liberty which in recent decades has swept over the planet with such tempestuous force is a manifestation of the vibrancy of the Revelation brought by Bahá’u’lláh. His own words confirm it. “The Ancient Beauty,” He wrote in a soul‑stirring commentary on His sufferings, “hath consented to be bound with chains that mankind may be released from its bondage, and hath accepted to be made a prisoner within this most mighty Stronghold that the whole world may attain unto true liberty.”
 
@@ -13256,7 +13256,7 @@ The Major Objectives
 
 The major objectives of the Six Year Plan include: carrying the healing Message of Bahá’u’lláh to the generality of mankind; greater involvement of the Faith in the life of human society; a worldwide increase in the translation, production, distribution and use of Bahá’í literature; further acceleration in the process of the maturation of national and local Bahá’í communities; greater attention to universal participation and the spiritual enrichment of individual believers; a wider extension of Bahá’í education to children and youth and the strengthening of Bahá’í family life; and the pursuit of projects of social and economic development in well‑established Bahá’í communities.
 
-* * *
+***
 
 Set out below are suggestions for possible ways of achieving the above objectives to act as a basis for consultation and a stimulus for thinking. National Assemblies should not confine themselves to these points if they feel that there are other matters which deserve attention.
 
