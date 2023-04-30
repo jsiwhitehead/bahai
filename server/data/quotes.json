@@ -890,10 +890,6 @@
           "paragraph": 21
         },
         {
-          "id": "ruhi6-002",
-          "paragraph": 18
-        },
-        {
           "id": "ruhi1-001",
           "paragraph": 15
         },
@@ -904,6 +900,10 @@
         {
           "id": "ruhi12-001",
           "paragraph": 75
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 19
         }
       ],
       "parts": [
@@ -5736,14 +5736,6 @@
           "paragraph": 16
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 6
-        },
-        {
-          "id": "ruhi6-003",
-          "paragraph": 29
-        },
-        {
           "id": "ruhi11-001",
           "paragraph": 64
         },
@@ -5763,13 +5755,8 @@
       "parts": [
         {
           "start": 0,
-          "end": 67,
-          "count": 6
-        },
-        {
-          "start": 67,
           "end": 162,
-          "count": 7
+          "count": 6
         },
         {
           "start": 162,
@@ -5804,10 +5791,6 @@
           "paragraph": 5
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 30
-        },
-        {
           "id": "ruhi9-001",
           "paragraph": 213
         },
@@ -5828,16 +5811,6 @@
         },
         {
           "start": 156,
-          "end": 264,
-          "count": 5
-        },
-        {
-          "start": 264,
-          "end": 315,
-          "count": 6
-        },
-        {
-          "start": 315,
           "end": 476,
           "count": 5
         },
@@ -11329,19 +11302,19 @@
           "paragraph": 2
         },
         {
-          "id": "ruhi6-002",
-          "paragraph": 15
-        },
-        {
           "id": "ruhi14-001",
           "paragraph": 41
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 16
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 1,
-          "count": 1
+          "count": 2
         },
         {
           "start": 1,
@@ -13059,16 +13032,16 @@
           "paragraph": 629
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 11
-        },
-        {
           "id": "world-centre-bahai-org-001",
           "paragraph": 27
         },
         {
           "id": "world-centre-bahai-org-001",
           "paragraph": 145
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 11
         }
       ],
       "parts": [
@@ -14448,7 +14421,7 @@
         },
         {
           "id": "ruhi6-001",
-          "paragraph": 43
+          "paragraph": 44
         }
       ],
       "parts": [
@@ -17756,7 +17729,7 @@
       "refs": [
         {
           "id": "ruhi6-003",
-          "paragraph": 82
+          "paragraph": 83
         }
       ],
       "parts": [
@@ -19102,7 +19075,7 @@
         },
         {
           "id": "ruhi6-003",
-          "paragraph": 89
+          "paragraph": 87
         }
       ],
       "parts": [
@@ -19899,7 +19872,7 @@
         },
         {
           "id": "ruhi6-003",
-          "paragraph": 90
+          "paragraph": 88
         }
       ],
       "parts": [
@@ -19985,12 +19958,12 @@
           "paragraph": 2
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 83
-        },
-        {
           "id": "ruhi5-003",
           "paragraph": 69
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 84
         }
       ],
       "parts": [
@@ -22603,16 +22576,16 @@
           "paragraph": 6
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 12
-        },
-        {
           "id": "ruhi9-001",
           "paragraph": 218
         },
         {
           "id": "ruhi2-003",
           "paragraph": 3
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 12
         }
       ],
       "parts": [
@@ -22821,10 +22794,6 @@
           "paragraph": 32
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 34
-        },
-        {
           "id": "ruhi1-002",
           "paragraph": 6
         },
@@ -22839,6 +22808,10 @@
         {
           "id": "world-centre-bahai-org-001",
           "paragraph": 89
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 32
         }
       ],
       "parts": [
@@ -23221,12 +23194,26 @@
         {
           "id": "ruhi3-003",
           "paragraph": 20
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 30
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 14,
+          "count": 1
+        },
+        {
+          "start": 14,
           "end": 73,
+          "count": 2
+        },
+        {
+          "start": 73,
+          "end": 164,
           "count": 1
         }
       ]
@@ -23612,7 +23599,7 @@
         },
         {
           "id": "ruhi6-003",
-          "paragraph": 91
+          "paragraph": 89
         }
       ],
       "parts": [
@@ -23831,12 +23818,12 @@
           "paragraph": 30
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 88
-        },
-        {
           "id": "ruhi9-001",
           "paragraph": 53
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 86
         }
       ],
       "parts": [
@@ -24155,10 +24142,6 @@
           "paragraph": 18
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 86
-        },
-        {
           "id": "ruhi-junior-youth-texts-004",
           "paragraph": 1
         }
@@ -24167,15 +24150,10 @@
         {
           "start": 0,
           "end": 189,
-          "count": 3
-        },
-        {
-          "start": 189,
-          "end": 258,
           "count": 2
         },
         {
-          "start": 258,
+          "start": 189,
           "end": 454,
           "count": 1
         }
@@ -24344,17 +24322,13 @@
         {
           "id": "abdul-baha-tablets-divine-plan-014",
           "paragraph": 13
-        },
-        {
-          "id": "ruhi6-003",
-          "paragraph": 84
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 228,
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -24366,7 +24340,7 @@
         },
         {
           "id": "ruhi6-003",
-          "paragraph": 80
+          "paragraph": 81
         }
       ],
       "parts": [
@@ -24397,20 +24371,11 @@
         {
           "id": "abdul-baha-tablets-divine-plan-014",
           "paragraph": 16
-        },
-        {
-          "id": "ruhi6-003",
-          "paragraph": 87
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 159,
-          "count": 2
-        },
-        {
-          "start": 159,
           "end": 873,
           "count": 1
         }
@@ -26026,12 +25991,12 @@
           "paragraph": 86
         },
         {
-          "id": "ruhi6-002",
-          "paragraph": 45
-        },
-        {
           "id": "ruhi14-001",
           "paragraph": 43
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 46
         }
       ],
       "parts": [
@@ -26153,12 +26118,12 @@
     "5": {
       "refs": [
         {
-          "id": "ruhi6-002",
-          "paragraph": 43
-        },
-        {
           "id": "ruhi3-001",
           "paragraph": 30
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 44
         }
       ],
       "parts": [
@@ -26308,7 +26273,7 @@
         },
         {
           "id": "ruhi6-002",
-          "paragraph": 20
+          "paragraph": 21
         }
       ],
       "parts": [
@@ -26704,6 +26669,21 @@
         {
           "start": 0,
           "end": 605,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "ruhi6-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 347,
           "count": 1
         }
       ]
@@ -28812,16 +28792,16 @@
     "12": {
       "refs": [
         {
-          "id": "ruhi6-003",
-          "paragraph": 16
-        },
-        {
           "id": "ruhi5-002",
           "paragraph": 26
         },
         {
           "id": "world-centre-bahai-org-001",
           "paragraph": 46
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 16
         }
       ],
       "parts": [
@@ -29444,37 +29424,33 @@
         {
           "id": "compilations-power-divine-assistance-001",
           "paragraph": 6
-        },
-        {
-          "id": "ruhi6-001",
-          "paragraph": 60
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 37,
-          "count": 4
+          "count": 3
         },
         {
           "start": 37,
           "end": 38,
-          "count": 2
+          "count": 1
         },
         {
           "start": 38,
           "end": 136,
-          "count": 4
+          "count": 3
         },
         {
           "start": 136,
           "end": 137,
-          "count": 3
+          "count": 2
         },
         {
           "start": 137,
           "end": 345,
-          "count": 2
+          "count": 1
         },
         {
           "start": 346,
@@ -30716,10 +30692,6 @@
           "paragraph": 82
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 13
-        },
-        {
           "id": "ruhi2-003",
           "paragraph": 6
         },
@@ -30734,6 +30706,10 @@
         {
           "id": "world-centre-bahai-org-001",
           "paragraph": 148
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 13
         }
       ],
       "parts": [
@@ -30951,12 +30927,12 @@
           "paragraph": 141
         },
         {
-          "id": "ruhi6-002",
-          "paragraph": 17
-        },
-        {
           "id": "ruhi11-001",
           "paragraph": 36
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 18
         }
       ],
       "parts": [
@@ -32299,12 +32275,12 @@
           "paragraph": 14
         },
         {
-          "id": "ruhi6-001",
-          "paragraph": 62
-        },
-        {
           "id": "ruhi9-001",
           "paragraph": 152
+        },
+        {
+          "id": "ruhi6-001",
+          "paragraph": 62
         }
       ],
       "parts": [
@@ -32382,7 +32358,7 @@
         },
         {
           "id": "ruhi6-001",
-          "paragraph": 44
+          "paragraph": 46
         }
       ],
       "parts": [
@@ -32431,9 +32407,18 @@
         {
           "id": "the-universal-house-of-justice-messages-019",
           "paragraph": 27
+        },
+        {
+          "id": "ruhi6-001",
+          "paragraph": 45
         }
       ],
       "parts": [
+        {
+          "start": 0,
+          "end": 113,
+          "count": 1
+        },
         {
           "start": 304,
           "end": 446,
@@ -32531,7 +32516,7 @@
         },
         {
           "id": "ruhi6-002",
-          "paragraph": 51
+          "paragraph": 52
         }
       ],
       "parts": [
@@ -32672,10 +32657,6 @@
     "0": {
       "refs": [
         {
-          "id": "ruhi6-003",
-          "paragraph": 43
-        },
-        {
           "id": "ruhi9-001",
           "paragraph": 86
         },
@@ -32690,6 +32671,10 @@
         {
           "id": "ruhi4-003",
           "paragraph": 15
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 44
         }
       ],
       "parts": [
@@ -32717,16 +32702,16 @@
           "paragraph": 6
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 44
-        },
-        {
           "id": "ruhi3-002",
           "paragraph": 50
         },
         {
           "id": "ruhi4-003",
           "paragraph": 16
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 45
         }
       ],
       "parts": [
@@ -32777,7 +32762,7 @@
         },
         {
           "id": "ruhi6-001",
-          "paragraph": 59
+          "paragraph": 60
         }
       ],
       "parts": [
@@ -34548,12 +34533,12 @@
           "paragraph": 356
         },
         {
-          "id": "ruhi6-002",
-          "paragraph": 27
-        },
-        {
           "id": "ruhi14-001",
           "paragraph": 119
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 28
         }
       ],
       "parts": [
@@ -35204,16 +35189,16 @@
     "46": {
       "refs": [
         {
-          "id": "ruhi6-003",
-          "paragraph": 33
-        },
-        {
           "id": "ruhi1-001",
           "paragraph": 24
         },
         {
           "id": "ruhi2-003",
           "paragraph": 26
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 31
         }
       ],
       "parts": [
@@ -36670,6 +36655,21 @@
         {
           "start": 255,
           "end": 344,
+          "count": 1
+        }
+      ]
+    },
+    "13": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 217,
+          "end": 560,
           "count": 1
         }
       ]
@@ -41389,6 +41389,21 @@
         }
       ]
     },
+    "550": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 2221,
+          "count": 1
+        }
+      ]
+    },
     "567": {
       "refs": [
         {
@@ -42817,7 +42832,7 @@
         },
         {
           "id": "ruhi6-002",
-          "paragraph": 44
+          "paragraph": 45
         }
       ],
       "parts": [
@@ -46284,11 +46299,11 @@
         },
         {
           "id": "ruhi6-001",
-          "paragraph": 51
+          "paragraph": 53
         },
         {
           "id": "ruhi6-001",
-          "paragraph": 52
+          "paragraph": 54
         }
       ],
       "parts": [
@@ -46304,7 +46319,7 @@
         },
         {
           "start": 440,
-          "end": 618,
+          "end": 617,
           "count": 2
         }
       ]
@@ -47172,7 +47187,7 @@
         },
         {
           "id": "ruhi6-003",
-          "paragraph": 3
+          "paragraph": 4
         }
       ],
       "parts": [
@@ -47195,11 +47210,6 @@
           "start": 381,
           "end": 566,
           "count": 3
-        },
-        {
-          "start": 566,
-          "end": 668,
-          "count": 1
         }
       ]
     },
@@ -47257,6 +47267,10 @@
           "paragraph": 12
         },
         {
+          "id": "ruhi8-002",
+          "paragraph": 103
+        },
+        {
           "id": "ruhi6-003",
           "paragraph": 47
         },
@@ -47279,10 +47293,6 @@
         {
           "id": "ruhi6-003",
           "paragraph": 52
-        },
-        {
-          "id": "ruhi8-002",
-          "paragraph": 103
         }
       ],
       "parts": [
@@ -49585,16 +49595,16 @@
           "paragraph": 8
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 72
-        },
-        {
           "id": "ruhi2-003",
           "paragraph": 24
         },
         {
           "id": "ruhi3-002",
           "paragraph": 78
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 68
         }
       ],
       "parts": [
@@ -52011,7 +52021,7 @@
       "refs": [
         {
           "id": "ruhi6-002",
-          "paragraph": 36
+          "paragraph": 37
         }
       ],
       "parts": [
@@ -52077,6 +52087,21 @@
         {
           "start": 1693,
           "end": 2224,
+          "count": 1
+        }
+      ]
+    },
+    "72": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 125,
+          "end": 1033,
           "count": 1
         }
       ]
@@ -60377,7 +60402,7 @@
         },
         {
           "id": "ruhi6-003",
-          "paragraph": 63
+          "paragraph": 60
         }
       ],
       "parts": [
@@ -60396,33 +60421,18 @@
         },
         {
           "id": "ruhi6-003",
-          "paragraph": 64
+          "paragraph": 61
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 672,
+          "end": 463,
           "count": 1
         },
         {
           "start": 672,
           "end": 1180,
-          "count": 2
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 65
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 497,
           "count": 1
         }
       ]
@@ -60448,47 +60458,18 @@
         {
           "id": "ruhi6-003",
           "paragraph": 8
-        },
-        {
-          "id": "ruhi6-003",
-          "paragraph": 66
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 443,
-          "count": 2
-        },
-        {
-          "start": 443,
-          "end": 445,
           "count": 1
         },
         {
           "start": 445,
           "end": 923,
           "count": 4
-        }
-      ]
-    },
-    "9": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 67
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 391,
-          "count": 1
-        },
-        {
-          "start": 397,
-          "end": 686,
-          "count": 1
         }
       ]
     },
@@ -64302,12 +64283,12 @@
           "paragraph": 12
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 20
-        },
-        {
           "id": "ruhi2-003",
           "paragraph": 16
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 20
         }
       ],
       "parts": [
@@ -70780,12 +70761,12 @@
     "8": {
       "refs": [
         {
-          "id": "ruhi6-003",
-          "paragraph": 69
-        },
-        {
           "id": "ruhi8-001",
           "paragraph": 184
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 65
         }
       ],
       "parts": [
@@ -70805,7 +70786,7 @@
       "refs": [
         {
           "id": "ruhi6-003",
-          "paragraph": 70
+          "paragraph": 66
         }
       ],
       "parts": [
@@ -71145,10 +71126,6 @@
     "23": {
       "refs": [
         {
-          "id": "ruhi6-001",
-          "paragraph": 56
-        },
-        {
           "id": "world-centre-bahai-org-001",
           "paragraph": 211
         }
@@ -71156,11 +71133,6 @@
       "parts": [
         {
           "start": 0,
-          "end": 300,
-          "count": 2
-        },
-        {
-          "start": 300,
           "end": 568,
           "count": 1
         }
@@ -71688,7 +71660,7 @@
         },
         {
           "id": "ruhi6-002",
-          "paragraph": 29
+          "paragraph": 31
         }
       ],
       "parts": [
@@ -71711,7 +71683,7 @@
         },
         {
           "id": "ruhi6-002",
-          "paragraph": 30
+          "paragraph": 32
         }
       ],
       "parts": [
@@ -71730,7 +71702,7 @@
         },
         {
           "id": "ruhi6-002",
-          "paragraph": 31
+          "paragraph": 33
         }
       ],
       "parts": [
@@ -71883,7 +71855,7 @@
         },
         {
           "id": "ruhi6-002",
-          "paragraph": 52
+          "paragraph": 53
         }
       ],
       "parts": [
@@ -71898,7 +71870,7 @@
       "refs": [
         {
           "id": "ruhi6-002",
-          "paragraph": 53
+          "paragraph": 54
         }
       ],
       "parts": [
@@ -71984,13 +71956,17 @@
         {
           "id": "compilations-power-divine-assistance-001",
           "paragraph": 96
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 6
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 200,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -72137,13 +72113,17 @@
         {
           "id": "ruhi3-003",
           "paragraph": 39
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 13
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 99,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -75355,17 +75335,13 @@
         {
           "id": "world-centre-entry-by-troops-001",
           "paragraph": 138
-        },
-        {
-          "id": "ruhi6-003",
-          "paragraph": 58
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 296,
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -76681,20 +76657,20 @@
     "10": {
       "refs": [
         {
-          "id": "ruhi6-002",
-          "paragraph": 24
-        },
-        {
-          "id": "ruhi6-002",
-          "paragraph": 39
-        },
-        {
           "id": "ruhi9-003",
           "paragraph": 55
         },
         {
           "id": "ruhi14-001",
           "paragraph": 42
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 25
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 40
         }
       ],
       "parts": [
@@ -80727,10 +80703,6 @@
           "paragraph": 5
         },
         {
-          "id": "ruhi6-001",
-          "paragraph": 42
-        },
-        {
           "id": "ruhi9-001",
           "paragraph": 48
         },
@@ -80741,6 +80713,10 @@
         {
           "id": "compilations-prayer-devotional-life-001",
           "paragraph": 2
+        },
+        {
+          "id": "ruhi6-001",
+          "paragraph": 43
         }
       ],
       "parts": [
@@ -81709,12 +81685,12 @@
     "4": {
       "refs": [
         {
-          "id": "ruhi6-001",
-          "paragraph": 17
-        },
-        {
           "id": "world-centre-bahai-org-001",
           "paragraph": 122
+        },
+        {
+          "id": "ruhi6-001",
+          "paragraph": 17
         }
       ],
       "parts": [
@@ -81759,7 +81735,7 @@
       "refs": [
         {
           "id": "ruhi6-001",
-          "paragraph": 46
+          "paragraph": 48
         }
       ],
       "parts": [
@@ -82759,20 +82735,11 @@
         {
           "id": "world-centre-entry-by-troops-001",
           "paragraph": 102
-        },
-        {
-          "id": "ruhi6-003",
-          "paragraph": 57
         }
       ],
       "parts": [
         {
           "start": 978,
-          "end": 1372,
-          "count": 2
-        },
-        {
-          "start": 1372,
           "end": 3031,
           "count": 1
         }
@@ -83112,21 +83079,6 @@
     }
   },
   "the-universal-house-of-justice-messages-062": {
-    "12": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 1
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 399,
-          "count": 1
-        }
-      ]
-    },
     "17": {
       "refs": [
         {
@@ -84627,10 +84579,6 @@
           "paragraph": 20
         },
         {
-          "id": "ruhi6-001",
-          "paragraph": 57
-        },
-        {
           "id": "ruhi8-001",
           "paragraph": 156
         },
@@ -84643,22 +84591,22 @@
         {
           "start": 0,
           "end": 456,
-          "count": 3
+          "count": 2
         },
         {
           "start": 456,
           "end": 457,
-          "count": 2
+          "count": 1
         },
         {
           "start": 457,
           "end": 461,
-          "count": 3
+          "count": 2
         },
         {
           "start": 461,
           "end": 821,
-          "count": 4
+          "count": 3
         }
       ]
     }
@@ -85959,7 +85907,7 @@
         },
         {
           "id": "ruhi6-002",
-          "paragraph": 48
+          "paragraph": 49
         }
       ],
       "parts": [
@@ -85977,56 +85925,27 @@
         {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 226
-        },
-        {
-          "id": "ruhi6-003",
-          "paragraph": 59
         }
       ],
       "parts": [
         {
-          "start": 0,
-          "end": 230,
-          "count": 1
-        },
-        {
           "start": 230,
           "end": 276,
-          "count": 2
-        },
-        {
-          "start": 276,
-          "end": 285,
           "count": 1
         },
         {
           "start": 285,
           "end": 392,
-          "count": 2
-        },
-        {
-          "start": 392,
-          "end": 393,
           "count": 1
         },
         {
           "start": 393,
           "end": 438,
-          "count": 2
-        },
-        {
-          "start": 438,
-          "end": 439,
           "count": 1
         },
         {
           "start": 439,
           "end": 557,
-          "count": 2
-        },
-        {
-          "start": 557,
-          "end": 1036,
           "count": 1
         }
       ]
@@ -87491,17 +87410,13 @@
         {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 65
-        },
-        {
-          "id": "ruhi6-003",
-          "paragraph": 96
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 703,
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -87516,10 +87431,6 @@
           "paragraph": 66
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 97
-        },
-        {
           "id": "ruhi9-003",
           "paragraph": 38
         }
@@ -87528,17 +87439,17 @@
         {
           "start": 0,
           "end": 250,
-          "count": 3
+          "count": 2
         },
         {
           "start": 250,
           "end": 559,
-          "count": 4
+          "count": 3
         },
         {
           "start": 559,
           "end": 703,
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -87670,21 +87581,6 @@
     }
   },
   "the-universal-house-of-justice-messages-282": {
-    "8": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 60
-        }
-      ],
-      "parts": [
-        {
-          "start": 498,
-          "end": 677,
-          "count": 1
-        }
-      ]
-    },
     "21": {
       "refs": [
         {
@@ -94204,7 +94100,7 @@
       "refs": [
         {
           "id": "ruhi6-003",
-          "paragraph": 74
+          "paragraph": 72
         }
       ],
       "parts": [
@@ -94420,16 +94316,16 @@
           "paragraph": 88
         },
         {
-          "id": "ruhi6-002",
-          "paragraph": 8
-        },
-        {
           "id": "ruhi10-001",
           "paragraph": 26
         },
         {
           "id": "ruhi14-001",
           "paragraph": 39
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 8
         }
       ],
       "parts": [
@@ -95102,11 +94998,11 @@
         },
         {
           "id": "ruhi6-002",
-          "paragraph": 21
+          "paragraph": 22
         },
         {
           "id": "ruhi6-003",
-          "paragraph": 77
+          "paragraph": 75
         }
       ],
       "parts": [
@@ -99263,41 +99159,22 @@
         {
           "id": "the-universal-house-of-justice-turning-point-001",
           "paragraph": 316
-        },
-        {
-          "id": "ruhi6-003",
-          "paragraph": 98
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 302,
-          "count": 2
-        },
-        {
-          "start": 302,
-          "end": 303,
           "count": 1
         },
         {
           "start": 303,
           "end": 323,
-          "count": 2
-        },
-        {
-          "start": 323,
-          "end": 390,
           "count": 1
         },
         {
           "start": 390,
           "end": 477,
-          "count": 2
-        },
-        {
-          "start": 477,
-          "end": 955,
           "count": 1
         }
       ]
@@ -101212,10 +101089,6 @@
           "paragraph": 426
         },
         {
-          "id": "ruhi6-003",
-          "paragraph": 31
-        },
-        {
           "id": "ruhi9-001",
           "paragraph": 1
         },
@@ -101226,6 +101099,10 @@
         {
           "id": "ruhi2-003",
           "paragraph": 4
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 29
         }
       ],
       "parts": [
@@ -101239,10 +101116,6 @@
     "2": {
       "refs": [
         {
-          "id": "ruhi6-003",
-          "paragraph": 32
-        },
-        {
           "id": "ruhi9-001",
           "paragraph": 2
         },
@@ -101253,6 +101126,10 @@
         {
           "id": "ruhi2-003",
           "paragraph": 5
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 30
         }
       ],
       "parts": [
@@ -111276,6 +111153,10 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 135
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 77
         }
       ],
       "parts": [
@@ -111286,11 +111167,21 @@
         },
         {
           "start": 168,
-          "end": 477,
+          "end": 226,
           "count": 3
         },
         {
+          "start": 226,
+          "end": 477,
+          "count": 4
+        },
+        {
           "start": 477,
+          "end": 759,
+          "count": 2
+        },
+        {
+          "start": 759,
           "end": 966,
           "count": 1
         },
@@ -111872,7 +111763,7 @@
       "refs": [
         {
           "id": "ruhi6-001",
-          "paragraph": 54
+          "paragraph": 56
         }
       ],
       "parts": [
@@ -112207,719 +112098,6 @@
         {
           "start": 75,
           "end": 641,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-260": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-001",
-          "paragraph": 4
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 691,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-261": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-001",
-          "paragraph": 6
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 478,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-143": {
-    "8": {
-      "refs": [
-        {
-          "id": "ruhi6-001",
-          "paragraph": 8
-        }
-      ],
-      "parts": [
-        {
-          "start": 133,
-          "end": 481,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-239": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-001",
-          "paragraph": 10
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 449,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-262": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-001",
-          "paragraph": 12
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 650,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-263": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-001",
-          "paragraph": 25
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 448,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "prayers-434": {
-    "4": {
-      "refs": [
-        {
-          "id": "ruhi6-001",
-          "paragraph": 40
-        }
-      ],
-      "parts": [
-        {
-          "start": 970,
-          "end": 1531,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-240": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-001",
-          "paragraph": 49
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 303,
-          "count": 1
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi6-001",
-          "paragraph": 50
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 267,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-tablets-divine-plan-010": {
-    "5": {
-      "refs": [
-        {
-          "id": "world-centre-20180503-001",
-          "paragraph": 36
-        }
-      ],
-      "parts": [
-        {
-          "start": 132,
-          "end": 505,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "ruhi10-001",
-          "paragraph": 80
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 532,
-          "count": 1
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 3
-        },
-        {
-          "id": "ruhi14-001",
-          "paragraph": 38
-        }
-      ],
-      "parts": [
-        {
-          "start": 101,
-          "end": 488,
-          "count": 2
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-241": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 5
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 257,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-544": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 6
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 198,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-242": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 9
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 164,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-217": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 11
-        }
-      ],
-      "parts": [
-        {
-          "start": 76,
-          "end": 388,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-214": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 14
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 573,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "bahaullah-gleanings-writings-bahaullah-142": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 117
-        }
-      ],
-      "parts": [
-        {
-          "start": 439,
-          "end": 728,
-          "count": 1
-        }
-      ]
-    },
-    "3": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 56
-        }
-      ],
-      "parts": [
-        {
-          "start": 578,
-          "end": 630,
-          "count": 1
-        }
-      ]
-    },
-    "4": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 23
-        }
-      ],
-      "parts": [
-        {
-          "start": 117,
-          "end": 262,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 120
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 1048,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-218": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 26
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 393,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-200": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi5-002",
-          "paragraph": 60
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 406,
-          "count": 1
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 41
-        },
-        {
-          "id": "ruhi3-002",
-          "paragraph": 26
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 616,
-          "count": 1
-        },
-        {
-          "start": 616,
-          "end": 1046,
-          "count": 2
-        }
-      ]
-    }
-  },
-  "abdul-baha-paris-talks-026": {
-    "5": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 46
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 157,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 47
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 467,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "compilations-prayer-devotional-life-001",
-          "paragraph": 66
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 322,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-154": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 112
-        }
-      ],
-      "parts": [
-        {
-          "start": 24,
-          "end": 194,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 49
-        }
-      ],
-      "parts": [
-        {
-          "start": 260,
-          "end": 417,
-          "count": 1
-        }
-      ]
-    },
-    "3": {
-      "refs": [
-        {
-          "id": "ruhi6-002",
-          "paragraph": 50
-        }
-      ],
-      "parts": [
-        {
-          "start": 156,
-          "end": 292,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "prayers-004": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 23
-        },
-        {
-          "id": "ruhi4-002",
-          "paragraph": 24
-        },
-        {
-          "id": "world-centre-bahai-org-001",
-          "paragraph": 2
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 130,
-          "count": 3
-        }
-      ]
-    }
-  },
-  "prayers-005": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 24
-        },
-        {
-          "id": "ruhi4-002",
-          "paragraph": 25
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 177,
-          "count": 2
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-264": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 35
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 528,
-          "count": 1
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 36
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 361,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-265": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 39
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 349,
-          "count": 1
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 40
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 89,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-243": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 55
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 273,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "shoghi-effendi-decisive-hour-021": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 56
-        }
-      ],
-      "parts": [
-        {
-          "start": 208,
-          "end": 333,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-shoghi-effendi-244": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 71
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 351,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-266": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 75
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 649,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-267": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 76
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 298,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "prayers-243": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi6-003",
-          "paragraph": 81
-        }
-      ],
-      "parts": [
-        {
-          "start": 142,
-          "end": 469,
           "count": 1
         }
       ]
@@ -113270,11 +112448,20 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 384
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 62
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 758,
+          "count": 4
+        },
+        {
+          "start": 758,
           "end": 804,
           "count": 3
         },
@@ -113369,6 +112556,10 @@
         {
           "id": "ruhi10-003",
           "paragraph": 49
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 41
         }
       ],
       "parts": [
@@ -113394,8 +112585,13 @@
         },
         {
           "start": 686,
-          "end": 1108,
+          "end": 688,
           "count": 1
+        },
+        {
+          "start": 688,
+          "end": 1108,
+          "count": 2
         }
       ]
     },
@@ -113441,13 +112637,22 @@
         {
           "id": "ruhi8-003",
           "paragraph": 58
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 59
         }
       ],
       "parts": [
         {
           "start": 242,
-          "end": 616,
+          "end": 290,
           "count": 1
+        },
+        {
+          "start": 290,
+          "end": 616,
+          "count": 2
         },
         {
           "start": 740,
@@ -113756,28 +112961,37 @@
         {
           "id": "compilations-social-action-001",
           "paragraph": 207
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 79
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 484,
+          "end": 125,
           "count": 2
+        },
+        {
+          "start": 125,
+          "end": 484,
+          "count": 3
         },
         {
           "start": 484,
           "end": 614,
-          "count": 3
+          "count": 4
         },
         {
           "start": 614,
           "end": 648,
-          "count": 2
+          "count": 3
         },
         {
           "start": 648,
           "end": 774,
-          "count": 3
+          "count": 4
         },
         {
           "start": 774,
@@ -114455,6 +113669,10 @@
         {
           "id": "ruhi9-003",
           "paragraph": 73
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 70
         }
       ],
       "parts": [
@@ -114465,6 +113683,11 @@
         },
         {
           "start": 854,
+          "end": 1261,
+          "count": 2
+        },
+        {
+          "start": 1261,
           "end": 1409,
           "count": 1
         }
@@ -116009,18 +115232,22 @@
         {
           "id": "ruhi3-002",
           "paragraph": 103
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 37
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 252,
-          "count": 2
+          "count": 3
         },
         {
           "start": 252,
           "end": 770,
-          "count": 1
+          "count": 2
         }
       ]
     }
@@ -116460,13 +115687,17 @@
         {
           "id": "ruhi9-001",
           "paragraph": 34
+        },
+        {
+          "id": "ruhi6-001",
+          "paragraph": 4
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 547,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -119433,58 +118664,62 @@
         {
           "id": "world-centre-worldwide-conferences-additional-001",
           "paragraph": 10
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 91
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 150,
-          "count": 2
+          "count": 3
         },
         {
           "start": 150,
           "end": 151,
-          "count": 1
+          "count": 2
         },
         {
           "start": 151,
           "end": 379,
-          "count": 2
+          "count": 3
         },
         {
           "start": 379,
           "end": 542,
-          "count": 3
+          "count": 4
         },
         {
           "start": 542,
           "end": 642,
-          "count": 3
+          "count": 4
         },
         {
           "start": 642,
           "end": 643,
-          "count": 3
+          "count": 4
         },
         {
           "start": 643,
           "end": 998,
-          "count": 2
+          "count": 3
         },
         {
           "start": 998,
           "end": 1283,
-          "count": 3
+          "count": 4
         },
         {
           "start": 1283,
           "end": 1401,
-          "count": 2
+          "count": 3
         },
         {
           "start": 1401,
           "end": 1680,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -123948,6 +123183,57 @@
       ]
     }
   },
+  "abdul-baha-tablets-divine-plan-010": {
+    "5": {
+      "refs": [
+        {
+          "id": "world-centre-20180503-001",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 132,
+          "end": 505,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "ruhi10-001",
+          "paragraph": 80
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 532,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "ruhi14-001",
+          "paragraph": 38
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 101,
+          "end": 488,
+          "count": 2
+        }
+      ]
+    }
+  },
   "bahaullah-tablets-bahaullah-024": {
     "6": {
       "refs": [
@@ -124421,13 +123707,22 @@
         {
           "id": "ruhi10-003",
           "paragraph": 50
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 57
         }
       ],
       "parts": [
         {
           "start": 0,
-          "end": 876,
+          "end": 283,
           "count": 1
+        },
+        {
+          "start": 283,
+          "end": 876,
+          "count": 2
         }
       ]
     }
@@ -126240,6 +125535,53 @@
       ]
     }
   },
+  "abdul-baha-selections-writings-abdul-baha-154": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 112
+        }
+      ],
+      "parts": [
+        {
+          "start": 24,
+          "end": 194,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 50
+        }
+      ],
+      "parts": [
+        {
+          "start": 260,
+          "end": 417,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 51
+        }
+      ],
+      "parts": [
+        {
+          "start": 156,
+          "end": 292,
+          "count": 1
+        }
+      ]
+    }
+  },
   "abdul-baha-selections-writings-abdul-baha-023": {
     "0": {
       "refs": [
@@ -126273,6 +125615,68 @@
         {
           "start": 0,
           "end": 368,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "bahaullah-gleanings-writings-bahaullah-142": {
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 117
+        }
+      ],
+      "parts": [
+        {
+          "start": 439,
+          "end": 728,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 578,
+          "end": 630,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 117,
+          "end": 262,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "ruhi9-001",
+          "paragraph": 120
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1048,
           "count": 1
         }
       ]
@@ -127818,6 +127222,53 @@
         {
           "start": 6,
           "end": 304,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-paris-talks-026": {
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 157,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 467,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-prayer-devotional-life-001",
+          "paragraph": 66
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 322,
           "count": 1
         }
       ]
@@ -132045,11 +131496,25 @@
         {
           "id": "world-centre-worldwide-conferences-additional-001",
           "paragraph": 2
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-486",
+          "paragraph": 7
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 283,
+          "count": 1
+        },
+        {
+          "start": 283,
+          "end": 389,
+          "count": 2
+        },
+        {
+          "start": 389,
           "end": 901,
           "count": 1
         },
@@ -133774,6 +133239,47 @@
       ]
     }
   },
+  "abdul-baha-selections-writings-abdul-baha-200": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi5-002",
+          "paragraph": 60
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 406,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi3-002",
+          "paragraph": 26
+        },
+        {
+          "id": "ruhi6-002",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 616,
+          "count": 1
+        },
+        {
+          "start": 616,
+          "end": 1046,
+          "count": 2
+        }
+      ]
+    }
+  },
   "bahaullah-days-remembrance-043": {
     "7": {
       "refs": [
@@ -134000,12 +133506,21 @@
         {
           "id": "ruhi3-002",
           "paragraph": 107
+        },
+        {
+          "id": "ruhi6-001",
+          "paragraph": 58
         }
       ],
       "parts": [
         {
           "start": 0,
           "end": 307,
+          "count": 2
+        },
+        {
+          "start": 307,
+          "end": 371,
           "count": 1
         }
       ]
@@ -134231,6 +133746,52 @@
           "start": 0,
           "end": 184,
           "count": 1
+        }
+      ]
+    }
+  },
+  "prayers-004": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi4-002",
+          "paragraph": 24
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 2
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 23
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 130,
+          "count": 3
+        }
+      ]
+    }
+  },
+  "prayers-005": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi4-002",
+          "paragraph": 25
+        },
+        {
+          "id": "ruhi6-003",
+          "paragraph": 24
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 177,
+          "count": 2
         }
       ]
     }
@@ -137687,6 +137248,41 @@
         }
       ]
     },
+    "13": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 914,
+          "end": 1725,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 77,
+          "end": 159,
+          "count": 1
+        },
+        {
+          "start": 274,
+          "end": 721,
+          "count": 1
+        }
+      ]
+    },
     "16": {
       "refs": [
         {
@@ -138007,6 +137603,342 @@
         {
           "start": 145,
           "end": 225,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-261": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-001",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 462,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-143": {
+    "8": {
+      "refs": [
+        {
+          "id": "ruhi6-001",
+          "paragraph": 8
+        }
+      ],
+      "parts": [
+        {
+          "start": 133,
+          "end": 481,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-239": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-001",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 449,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-262": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-001",
+          "paragraph": 12
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 699,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-263": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-001",
+          "paragraph": 25
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 423,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "prayers-434": {
+    "4": {
+      "refs": [
+        {
+          "id": "ruhi6-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 1029,
+          "end": 1531,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-240": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-001",
+          "paragraph": 51
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 308,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi6-001",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 267,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-241": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 5
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 257,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-242": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 9
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 164,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-217": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 76,
+          "end": 388,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-214": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 573,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-218": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-002",
+          "paragraph": 27
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 393,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-264": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 33
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 258,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 390,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-244": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 67
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 351,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-additional-tablets-extracts-talks-045": {
+    "7": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 73
+        }
+      ],
+      "parts": [
+        {
+          "start": 57,
+          "end": 787,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-267": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 74
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 303,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-459": {
+    "6": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 78
+        }
+      ],
+      "parts": [
+        {
+          "start": 615,
+          "end": 2131,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "prayers-243": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi6-003",
+          "paragraph": 82
+        }
+      ],
+      "parts": [
+        {
+          "start": 142,
+          "end": 469,
           "count": 1
         }
       ]
