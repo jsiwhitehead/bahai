@@ -1,7 +1,6 @@
 Book 13: Engaging in Social Action
 author="The Ruhi Institute"
 years=[2020,2020]
-collection
 
 # Unit 1: Stirrings at the Grassroots
 

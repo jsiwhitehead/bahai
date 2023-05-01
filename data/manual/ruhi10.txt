@@ -1,7 +1,6 @@
 Book 10: Building Vibrant Communities
 author="The Ruhi Institute"
 years=[2018,2018]
-collection
 
 # Unit 1: Accompanying One Another on the Path of Service
 

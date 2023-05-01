@@ -146,6 +146,7 @@ const documents = Object.keys(documentsBase).map((id) => {
     .map((p, i) => ({
       id,
       author: p.author || info.author,
+      epoch: info.epoch,
       score:
         (p.type === "quote" ? [] : p.type === "lines" ? p.lines.flat() : p.text)
           .map((t) => Math.pow(t.count, 2) * t.text.split(" ").length)
@@ -200,6 +201,19 @@ const app = new Koa();
 app.use(cors());
 app.use(bodyParser());
 
+const authors = {
+  "Bahá’í Era": [
+    "The Báb",
+    "Bahá’u’lláh",
+    "‘Abdu’l‑Bahá",
+    "Shoghi Effendi",
+    "The Universal House of Justice",
+  ],
+  "Heroic Age": ["The Báb", "Bahá’u’lláh", "‘Abdu’l‑Bahá"],
+  "Formative Age": ["Shoghi Effendi", "The Universal House of Justice"],
+  "Word of God": ["The Báb", "Bahá’u’lláh"],
+};
+
 const router = new Router();
 router
   // .get("/", (ctx) => {
@@ -212,7 +226,10 @@ router
   //     .sort((a, b) => b.words - a.words || a.id.localeCompare(b.id));
   // })
   .post("/paragraphs", (ctx) => {
+    const { author } = ctx.request.body;
+    const allAuthors = authors[author] || (author && [author]);
     ctx.body = allParagraphs
+      .filter((d) => d.score > 0)
       .filter(
         (d) =>
           ![
@@ -222,11 +239,18 @@ router
             "Muḥammad",
           ].includes(d.author)
       )
+      .filter(
+        (d) =>
+          !author ||
+          allAuthors.includes(d.author) ||
+          allAuthors.includes(d.epoch)
+      )
       .sort((a, b) => b.score - a.score)
       .slice(0, 250);
   })
   .post("/documents", (ctx) => {
     const { author } = ctx.request.body;
+    const allAuthors = authors[author] || (author && [author]);
     ctx.body = documents
       .filter(
         (d) =>
@@ -237,7 +261,12 @@ router
             "Muḥammad",
           ].includes(d.author)
       )
-      .filter((d) => !author || author.includes(d.author))
+      .filter(
+        (d) =>
+          !author ||
+          allAuthors.includes(d.author) ||
+          allAuthors.includes(d.epoch)
+      )
       .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id))
       .map(({ paragraphs, ...info }) => info)
       .slice(0, 500);

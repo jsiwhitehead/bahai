@@ -1,20 +1,23 @@
 [
   {
-    "path": ["Book 13: Engaging in Social Action"],
-    "item": 1,
-    "title": "Unit 1: Stirrings at the Grassroots",
+    "path": [],
+    "title": "Book 13: Engaging in Social Action",
     "author": "The Ruhi Institute",
     "years": [2020, 2020],
     "paragraphs": [
       {
         "section": [1],
+        "title": "Unit 1: Stirrings at the Grassroots"
+      },
+      {
+        "section": [1, 1],
         "title": "Section 1"
       },
       {
         "text": "And among the teachings of Bahá’u’lláh is that although material civilisation is one of the means for the progress of the world of mankind, yet until it becomes combined with Divine civilisation, the desired result, which is the felicity of mankind, will not be attained. . . . Material civilisation is like a lamp‑glass. Divine civilisation is the lamp itself and the glass without the light is dark. Material civilisation is like the body. No matter how infinitely graceful, elegant and beautiful it may be, it is dead. Divine civilisation is like the spirit, and the body gets its life from the spirit, otherwise it becomes a corpse. It has thus been made evident that the world of mankind is in need of the breaths of the Holy Spirit. Without the spirit the world of mankind is lifeless, and without this light the world of mankind is in utter darkness."
       },
       {
-        "section": [2],
+        "section": [1, 2],
         "title": "Section 2"
       },
       {
@@ -30,14 +33,14 @@
         "text": "When the Bahá’í Faith entered this land, it took root in its fertile soil; a few pure souls with the courage to break through social barriers plunged into the living waters of this new Revelation from God and drank their fill. Without hesitation, they embraced the sublime vision of Bahá’u’lláh for the betterment of the world and endeavoured to illuminate heart after heart with the light of His Teachings. In the midst of powerful winds that acted to destabilise a society, they attended to the planting of seeds. Their humble efforts to nurture in the young those qualities characterising a faithful follower of the Blessed Beauty and to imbue their family and community life with the divine teachings evolved into a process of education that would reach thousands upon thousands. While the fruits of the committed labours of growing numbers are witnessed across the whole of Colombia, the region of Norte del Cauca is blessed with the singular honour of being the site of the first Bahá’í House of Worship in the country."
       },
       {
-        "section": [3],
+        "section": [1, 3],
         "title": "Section 3"
       },
       {
         "text": "From the beginning of His stupendous mission, Bahá’u’lláh urged upon the attention of nations the necessity of ordering human affairs in such a way as to bring into being a world unified in all the essential aspects of its life. In unnumbered verses and tablets He repeatedly and variously declared the ‘progress of the world’ and the ‘development of nations’ as being among the ordinances of God for this day. The oneness of mankind, which is at once the operating principle and ultimate goal of His Revelation, implies the achievement of a dynamic coherence between the spiritual and practical requirements of life on earth. The indispensability of this coherence is unmistakably illustrated in His ordination of the Mashriqu’l‑Adhkár, the spiritual centre of every Bahá’í community round which must flourish dependencies dedicated to the social, humanitarian, educational and scientific advancement of mankind. Thus, we can readily appreciate that although it has hitherto been impracticable for Bahá’í institutions generally to emphasise development activities, the concept of social and economic development is enshrined in the sacred Teachings of our Faith. The beloved Master, through His illuminating words and deeds, set the example for the application of this concept to the reconstruction of society. Witness, for instance, what social and economic progress the Íránian believers attained under His loving guidance and, subsequently, with the unfailing encouragement of the Guardian of the Cause."
       },
       {
-        "section": [4],
+        "section": [1, 4],
         "title": "Section 4"
       },
       {
@@ -50,21 +53,21 @@
         "text": "A five‑member board of directors will be appointed which will function as a consultative body to promote and coordinate the efforts of the worldwide community in social and economic development. The directors will serve for a term of five years beginning on the Day of the Covenant. Operating at the spiritual and administrative centre of the Faith, the board will consult with the Universal House of Justice and the International Teaching Centre to ensure that the development work is coherent with the many endeavours of the Bahá’í world. The new institution will begin by assuming the functions and mandate previously carried out by the Office of Social and Economic Development and then gradually grow in capacity to discharge them on an expanding scale and at higher levels of complexity. It will reinforce the efforts of Bahá’í individuals, communities, and institutions worldwide to extend and consolidate the range of their activities. It will help to strengthen institutional capacity for social and economic development in national communities, including through the creation of new agencies and the emergence of advanced development organisations. It will promote, on an international scale, approaches to development and methodologies that have proven effective. It will keep abreast of findings in the development field and explore their application in consonance with spiritual principles with assistance from Bahá’ís with relevant training. It will form networks of resource persons and such institutional arrangements across continents as are necessary for carrying out its various lines of action. Above all, like the Office of Social and Economic Development before it, its primary purpose will be to facilitate learning about development by fostering and supporting action, reflection on action, study, consultation, the gathering and systematisation of experience, conceptualisation, and training—all carried out in the light of the Teachings of the Faith."
       },
       {
-        "section": [5],
+        "section": [1, 5],
         "title": "Section 5"
       },
       {
         "text": "‘Abdu’l‑Bahá has extolled ‘two calls’ to ‘success and prosperity’ that can be heard from the ‘heights of the happiness of mankind’. One is the call of ‘civilisation’, of ‘progress of the material world’. It comprises the ‘laws’, ‘regulations’, ‘arts and sciences’ through which humanity develops. The other is the ‘soul‑stirring call of God’, on which depends the eternal happiness of humanity. ‘This second call’, the Master has explained, ‘is founded upon the instructions and exhortations of the Lord and the admonitions and altruistic emotions belonging to the realm of morality which, like unto a brilliant light, brighten and illumine the lamp of the realities of mankind. Its penetrative power is the Word of God.’ As you continue to labour in your clusters, you will be drawn further and further into the life of the society around you and will be challenged to extend the process of systematic learning in which you are engaged to encompass a growing range of human endeavours. In the approaches you take, the methods you adopt, and the instruments you employ, you will need to achieve the same degree of coherence that characterises the pattern of growth presently under way."
       },
       {
-        "section": [6],
+        "section": [1, 6],
         "title": "Section 6"
       },
       {
         "text": ". . . efforts to engage in social action are lent vital impetus by the training institute. This is not simply through the rise in human resources it fosters. The spiritual insights, qualities, and abilities that are cultivated by the institute process have proven to be as crucial for participation in social action as they are for contributing to the process of growth."
       },
       {
-        "section": [7],
+        "section": [1, 7],
         "title": "Section 7"
       },
       {
@@ -107,11 +110,11 @@
         "text": "A kindly tongue is the lodestone of the hearts of men. It is the bread of the spirit, it clotheth the words with meaning, it is the fountain of the light of wisdom and understanding."
       },
       {
-        "section": [8],
+        "section": [1, 8],
         "title": "Section 8"
       },
       {
-        "section": [9],
+        "section": [1, 9],
         "title": "Section 9"
       },
       {
@@ -148,18 +151,18 @@
         "text": "Consultation bestoweth greater awareness and transmuteth conjecture into certitude. It is a shining light which, in a dark world, leadeth the way and guideth. For everything there is and will continue to be a station of perfection and maturity. The maturity of the gift of understanding is made manifest through consultation."
       },
       {
-        "section": [10],
+        "section": [1, 10],
         "title": "Section 10"
       },
       {
         "text": "A natural outcome of the rise both in resources and in consciousness of the implications of the Revelation for the life of a population is the stirrings of social action."
       },
       {
-        "section": [11],
+        "section": [1, 11],
         "title": "Section 11"
       },
       {
-        "section": [12],
+        "section": [1, 12],
         "title": "Section 12"
       },
       {
@@ -172,11 +175,11 @@
         "text": "However humble an instance of social action might be at the beginning, it is an indication of a people cultivating within themselves a critical capacity, one that holds infinite potential and significance for the centuries ahead: learning how to apply the Revelation to the manifold dimensions of social existence. All such initiatives also serve to enrich participation, at an individual and collective level, in prevalent discourses of the wider community. As expected, the friends are being drawn further into the life of society—a development which is inherent in the pattern of action in a cluster from the very start, but which is now much more pronounced."
       },
       {
-        "section": [13],
+        "section": [1, 13],
         "title": "Section 13"
       },
       {
-        "section": [14],
+        "section": [1, 14],
         "title": "Section 14"
       },
       {
@@ -186,22 +189,22 @@
         "text": "Some initiatives become sustained and gradually grow. In various places the founding of a community school at the grassroots has arisen from a heightened concern for the proper education of children and awareness of its importance, flowing naturally from the study of institute materials. On occasion, the efforts of the friends can be greatly reinforced through the work of an established Bahá’í‑inspired organisation functioning in the vicinity."
       },
       {
-        "section": [15],
+        "section": [1, 15],
         "title": "Section 15"
       },
       {
-        "section": [16],
+        "section": [1, 16],
         "title": "Section 16"
       },
       {
-        "section": [17],
+        "section": [1, 17],
         "title": "Section 17"
       },
       {
         "text": "As you continue to labour in your clusters, you will be drawn further and further into the life of the society around you and will be challenged to extend the process of systematic learning in which you are engaged to encompass a growing range of human endeavours. In the approaches you take, the methods you adopt, and the instruments you employ, you will need to achieve the same degree of coherence that characterises the pattern of growth presently under way."
       },
       {
-        "section": [18],
+        "section": [1, 18],
         "title": "Section 18"
       },
       {
@@ -211,46 +214,41 @@
         "text": "Whatever the nature of activities undertaken, the Local Assembly must be attentive to potential pitfalls and help the friends, if necessary, to steer past them—the allurements of overly ambitious projects that would consume energies and ultimately prove untenable, the temptation of financial grants that would necessitate a departure from Bahá’í principle, the promises of technologies deceptively packaged that would strip the village of its cultural heritage and lead to fragmentation and dissonance. . . . Moreover, the Assembly must learn to interact with social and political structures in the locality, gradually raising consciousness of the presence of the Faith and the influence it is exerting on the progress of the village."
       },
       {
-        "section": [19],
+        "section": [1, 19],
         "title": "Section 19"
       },
       {
-        "section": [20],
+        "section": [1, 20],
         "title": "Section 20"
       },
       {
         "text": "Capacity rises to new levels, of course, as the protagonists of social change learn to apply with increasing effectiveness elements of Bahá’u’lláh’s Revelation, together with the contents and methods of science, to their social reality. This reality they must strive to read in a manner consistent with His teachings—seeing in their fellow human beings gems of inestimable value and recognising the effects of the dual process of integration and disintegration on both hearts and minds, as well as on social structures."
       },
       {
-        "section": [21],
+        "section": [1, 21],
         "title": "Section 21"
       },
       {
-        "section": [22],
+        "section": [1, 22],
         "title": "Section 22"
       },
       {
-        "section": [23],
+        "section": [1, 23],
         "title": "Section 23"
       },
       {
-        "section": [24],
+        "section": [1, 24],
         "title": "Section 24"
       },
       {
         "text": "And the honour and distinction of the individual consist in this, that he among all the world’s multitudes should become a source of social good. Is any larger bounty conceivable than this, that an individual, looking within himself, should find that by the confirming grace of God he has become the cause of peace and well‑being, of happiness and advantage to his fellow men? No, by the one true God, there is no greater bliss, no more complete delight."
-      }
-    ]
-  },
-  {
-    "path": ["Book 13: Engaging in Social Action"],
-    "item": 2,
-    "title": "Unit 2: Elements of a Conceptual Framework",
-    "author": "The Ruhi Institute",
-    "years": [2020, 2020],
-    "paragraphs": [
+      },
       {
-        "section": [1],
+        "section": [2],
+        "title": "Unit 2: Elements of a Conceptual Framework"
+      },
+      {
+        "section": [2, 1],
         "title": "Section 1"
       },
       {
@@ -260,7 +258,7 @@
         "text": "Involvement in the life of society will flourish as the capacity of the community to promote its own growth and to maintain its vitality is gradually raised. It will achieve coherence with efforts to expand and consolidate the community to the extent that it draws on elements of the conceptual framework which governs the current series of global Plans. And it will contribute to the movement of populations towards Bahá’u’lláh’s vision of a prosperous and peaceful world civilisation to the degree that it employs these elements creatively in new areas of learning."
       },
       {
-        "section": [2],
+        "section": [2, 2],
         "title": "Section 2"
       },
       {
@@ -270,21 +268,21 @@
         "text": "Parallel with this, and pervading all departments of life—an evil which the nation, and indeed all those within the capitalist system, though to a lesser degree, share with that state and its satellites regarded as the sworn enemies of that system—is the crass materialism, which lays excessive and ever‑increasing emphasis on material well‑ being, forgetful of those things of the spirit on which alone a sure and stable foundation can be laid for human society. It is this same cancerous materialism, born originally in Europe, carried to excess in the North American continent, contaminating the Asiatic peoples and nations, spreading its ominous tentacles to the borders of Africa, and now invading its very heart, which Bahá’u’lláh in unequivocal and emphatic language denounced in His Writings, comparing it to a devouring flame and regarding it as the chief factor in precipitating the dire ordeals and world‑shaking crises that must necessarily involve the burning of cities and the spread of terror and consternation in the hearts of men."
       },
       {
-        "section": [3],
+        "section": [2, 3],
         "title": "Section 3"
       },
       {
         "text": "Any religious belief which is not conformable with scientific proof and investigation is superstition, for true science is reason and reality, and religion is essentially reality and pure reason; therefore, the two must correspond. Religious teaching which is at variance with science and reason is human invention and imagination unworthy of acceptance, for the antithesis and opposite of knowledge is superstition born of the ignorance of man. If we say religion is opposed to science, we lack knowledge of either true science or true religion, for both are founded upon the premises and conclusions of reason, and both must bear its test."
       },
       {
-        "section": [4],
+        "section": [2, 4],
         "title": "Section 4"
       },
       {
         "text": "In general, a challenge for any instance of social action is to ensure consistency—among the explicit and implicit convictions which underpin an initiative, the values promoted by it, the attitudes adopted by its participants, the methods they employ, and the ends they seek. Achieving consistency between belief and practice is no small task: a deep‑seated recognition of the oneness of humanity should prevent all efforts from fostering disunity, isolation, separateness or competition; an unshakeable conviction in the nobility of human beings, capable of subduing their lower passions and evincing heavenly qualities, should serve to protect against prejudice and paternalism, both of which violate the dignity of people; an immutable belief in justice should guide an endeavour to allocate resources according to the real needs and aspirations of the community rather than the whims and wishes of a privileged few; the principle of the equality of women and men should open the way not only for women to assume their role as protagonists of development and benefit from its fruits but also for the experience of that half of the world’s population to be given more and more emphasis in development thought. These few examples illustrate how closely spiritual principles are to guide development practice."
       },
       {
-        "section": [5],
+        "section": [2, 5],
         "title": "Section 5"
       },
       {
@@ -300,7 +298,7 @@
         "text": "Clearly, the advancement of the race has not occurred at the expense of human individuality. As social organisation has increased, the scope for the expression of the capacities latent in each human being has correspondingly expanded. Because the relationship between the individual and society is a reciprocal one, the transformation now required must occur simultaneously within human consciousness and the structure of social institutions. It is in the opportunities afforded by this twofold process of change that a strategy of global development will find its purpose. At this crucial stage of history, that purpose must be to establish enduring foundations on which planetary civilisation can gradually take shape."
       },
       {
-        "section": [6],
+        "section": [2, 6],
         "title": "Section 6"
       },
       {
@@ -310,7 +308,7 @@
         "text": ". . . the assumption that relations among them will inevitably conform to the dictates of competition, a notion that ignores the extraordinary potential of the human spirit, has been set aside in favour of the more likely premise that their harmonious interactions can foster a civilisation befitting a mature humanity."
       },
       {
-        "section": [7],
+        "section": [2, 7],
         "title": "Section 7"
       },
       {
@@ -326,7 +324,7 @@
         "text": "The implications for social and economic development are profound. Concern for justice protects the task of defining progress from the temptation to sacrifice the well‑being of the generality of humankind—and even of the planet itself—to the advantages which technological breakthroughs can make available to privileged minorities. In design and planning, it ensures that limited resources are not diverted to the pursuit of projects extraneous to a community’s essential social or economic priorities. Above all, only development programmes that are perceived as meeting their needs and as being just and equitable in objective can hope to engage the commitment of the masses of humanity, upon whom implementation depends. The relevant human qualities such as honesty, a willingness to work, and a spirit of cooperation are successfully harnessed to the accomplishment of enormously demanding collective goals when every member of society—indeed every component group within society—can trust that they are protected by standards and assured of benefits that apply equally to all."
       },
       {
-        "section": [8],
+        "section": [2, 8],
         "title": "Section 8"
       },
       {
@@ -336,7 +334,7 @@
         "text": "To any objective observer the principle of the equality of the sexes is fundamental to all realistic thinking about the future well‑being of the earth and its people. It represents a truth about human nature that has waited largely unrecognised throughout the long ages of the race’s childhood and adolescence. ‘Women and men’, is Bahá’u’lláh’s emphatic assertion, ‘have been and will always be equal in the sight of God.’ The rational soul has no sex, and whatever social inequities may have been dictated by the survival requirements of the past, they clearly cannot be justified at a time when humanity stands at the threshold of maturity. A commitment to the establishment of full equality between men and women, in all departments of life and at every level of society, will be central to the success of efforts to conceive and implement a strategy of global development."
       },
       {
-        "section": [9],
+        "section": [2, 9],
         "title": "Section 9"
       },
       {
@@ -349,7 +347,7 @@
         "text": "Given the almost universal respect in which science is currently held, its credentials need no elaboration. In the context of a strategy of social and economic development, the issue rather is how scientific and technological activity is to be organised. If the work involved is viewed chiefly as the preserve of established elites living in a small number of nations, it is obvious that the enormous gap which such an arrangement has already created between the world’s rich and poor will only continue to widen, with the disastrous consequences for the world’s economy already noted. Indeed, if most of humankind continue to be regarded mainly as users of products of science and technology created elsewhere, then programmes ostensibly designed to serve their needs cannot properly be termed ‘development’."
       },
       {
-        "section": [10],
+        "section": [2, 10],
         "title": "Section 10"
       },
       {
@@ -359,7 +357,7 @@
         "text": "Social action, of whatever size and complexity, should strive to remain free of simplistic and distorted conceptions of science and religion. To this end, an imaginary duality between reason and faith—a duality that would confine reason to the realm of empirical evidence and logical argumentation and which would associate faith with superstition and irrational thought—must be avoided. The process of development has to be rational and systematic—incorporating, for example, scientific capabilities of observing, of measuring, of rigorously testing ideas—and at the same time deeply aware of faith and spiritual convictions. In the words of ‘Abdu’l‑Bahá: ‘faith compriseth both knowledge and the performance of good works.’ Faith and reason can best be understood as attributes of the human soul through which insights and knowledge can be gained about the physical and the spiritual dimensions of existence. They make it possible to recognise the powers and capacities latent in individuals and in humanity as a whole and enable people to work for the realisation of these potentialities."
       },
       {
-        "section": [11],
+        "section": [2, 11],
         "title": "Section 11"
       },
       {
@@ -369,7 +367,7 @@
         "text": "God has given us eyes, that we may look about us at the world, and lay hold of whatsoever will further civilisation and the arts of living. He has given us ears, that we may hear and profit by the wisdom of scholars and philosophers and arise to promote and practice it. Senses and faculties have been bestowed upon us, to be devoted to the service of the general good; so that we, distinguished above all other forms of life for perceptiveness and reason, should labour at all times and along all lines, whether the occasion be great or small, ordinary or extraordinary, until all mankind are safely gathered into the impregnable stronghold of knowledge."
       },
       {
-        "section": [12],
+        "section": [2, 12],
         "title": "Section 12"
       },
       {
@@ -403,15 +401,15 @@
         "text": "Since, then, the challenge is the empowerment of humankind through a vast increase in access to knowledge, the strategy that can make this possible must be constructed around an ongoing and intensifying dialogue between science and religion. It is—or by now should be—a truism that, in every sphere of human activity and at every level, the insights and skills that represent scientific accomplishment must look to the force of spiritual commitment and moral principle to ensure their appropriate application. People need, for example, to learn how to separate fact from conjecture—indeed to distinguish between subjective views and objective reality; the extent to which individuals and institutions so equipped can contribute to human progress, however, will be determined by their devotion to truth and their detachment from the promptings of their own interests and passions. Another capacity that science must cultivate in all people is that of thinking in terms of process, including historical process; however, if this intellectual advancement is to contribute ultimately to promoting development, its perspective must be unclouded by prejudices of race, culture, sex, or sectarian belief. Similarly, the training that can make it possible for the earth’s inhabitants to participate in the production of wealth will advance the aims of development only to the extent that such an impulse is illumined by the spiritual insight that service to humankind is the purpose of both individual life and social organisation."
       },
       {
-        "section": [13],
+        "section": [2, 13],
         "title": "Section 13"
       },
       {
-        "section": [14],
+        "section": [2, 14],
         "title": "Section 14"
       },
       {
-        "section": [15],
+        "section": [2, 15],
         "title": "Section 15"
       },
       {
@@ -430,7 +428,7 @@
         "text": "Yet for the followers of Bahá’u’lláh the most significant developments in the process of integration are those directly related to the Faith, many of which were nurtured by the Guardian himself and which have advanced tremendously since their modest beginnings."
       },
       {
-        "section": [16],
+        "section": [2, 16],
         "title": "Section 16"
       },
       {
@@ -440,7 +438,7 @@
         "text": "Movement in this direction has barely begun. It will lead, as it unfolds, to a new understanding of the nature of the family and of the rights and responsibilities of each of its members. It will entirely transform the role of women at every level of society. Its effect in reordering people’s relation to the work they do and their understanding of the place of economic activity in their lives will be sweeping. It will bring about far‑reaching changes in the governance of human affairs and in the institutions created to carry it out. Through its influence, the work of society’s rapidly proliferating nongovernmental organisations will be increasingly rationalised. It will ensure the creation of binding legislation that will protect both the environment and the development needs of all peoples. Ultimately, the restructuring or transformation of the United Nations system that this movement is already bringing about will no doubt lead to the establishment of a world federation of nations with its own legislative, judicial, and executive bodies."
       },
       {
-        "section": [17],
+        "section": [2, 17],
         "title": "Section 17"
       },
       {
@@ -453,7 +451,7 @@
         "text": "Issues related to participation have been discussed at length in development literature. Yet, in both theory and practice, this vital principle has often been approached at the level of technique—for example, through the utilisation of surveys and focus groups. Such tools, of course, have their merits, as do more ambitious efforts intended to increase participation in political processes or to offer training to the beneficiaries of services delivered by one or another governmental or nongovernmental agency. Still, these measures seem to fall short of the kind of participation envisioned above. What appears to be called for in any given region, microregion or cluster is the involvement of a growing number of people in a collective process of learning, one which is focused on the nature and dynamics of a path that conduces to the material and spiritual progress of their villages or neighbourhoods."
       },
       {
-        "section": [18],
+        "section": [2, 18],
         "title": "Section 18"
       },
       {
@@ -466,7 +464,7 @@
         "text": "In this connection, it is important to realise that the application and propagation of existing knowledge is invariably accompanied by the generation of new knowledge—much of which takes the form of insights acquired through experience. Here the systematisation of learning is crucial. As a group of people working at the grassroots begins to gain experience in social action, the first lessons learned may consist of little more than occasional stories, anecdotes, and personal accounts. Over time, patterns tend to emerge which can be documented and carefully analysed. To facilitate the systematisation of knowledge, appropriate structures have to be put in place at the local level, among them institutions and agencies invested with authority to safeguard the integrity of the learning process and to ensure that it is not reduced to opinion or the mere collection of various experiences— in short, to see to it that veritable knowledge is generated. In this regard, the authority invested in the institutions of the Administrative Order working at the grassroots to harmonise individual volition with collective will endows the Bahá’í community with a remarkable capacity to nurture participation."
       },
       {
-        "section": [19],
+        "section": [2, 19],
         "title": "Section 19"
       },
       {
@@ -494,7 +492,7 @@
         "text": "We cannot segregate the human heart from the environment outside us and say that once one of these is reformed everything will be improved. Man is organic with the world. His inner life moulds the environment and is itself also deeply affected by it. The one acts upon the other and every abiding change in the life of man is the result of these mutual reactions."
       },
       {
-        "section": [20],
+        "section": [2, 20],
         "title": "Section 20"
       },
       {
@@ -513,7 +511,7 @@
         "text": "Beloved Friends: The extremes of wealth and poverty in the world are becoming ever more untenable. As inequity persists, so the established order is seen to be unsure of itself, and its values are being questioned. Whatever the tribulations that a conflicted world must confront in the future, we pray that the Almighty will help His loved ones to overcome every obstacle in their path and assist them to serve humanity. The larger the presence of a Bahá’í community in a population, the greater its responsibility to find ways of addressing the root causes of the poverty in its surroundings. Although the friends are at the early stages of learning about such work and of contributing to the related discourses, the community‑building process of the Five Year Plan is creating everywhere the ideal environment in which to accrue knowledge and experience, gradually but consistently, about the higher purpose of economic activity. Against the background of the age‑long work of erecting a divine civilisation, may this exploration become a more pronounced feature of community life, institutional thought, and individual action in the years ahead."
       },
       {
-        "section": [21],
+        "section": [2, 21],
         "title": "Section 21"
       },
       {
@@ -523,7 +521,7 @@
         "text": "Above all, like the Office of Social and Economic Development before it, its primary purpose will be to facilitate learning about development by fostering and supporting action, reflection on action, study, consultation, the gathering and systematisation of experience, conceptualisation, and training—all carried out in the light of the Teachings of the Faith."
       },
       {
-        "section": [22],
+        "section": [2, 22],
         "title": "Section 22"
       },
       {
@@ -536,7 +534,7 @@
         "text": "Alas, notwithstanding the laudable efforts, in every land, of well‑intentioned individuals working to improve circumstances in society, the obstacles preventing the realisation of such a vision seem insurmountable to many. Their hopes founder on erroneous assumptions about human nature that so permeate the structures and traditions of much of present‑day living as to have attained the status of established fact. These assumptions appear to make no allowance for the extraordinary reservoir of spiritual potential available to any illumined soul who draws upon it; instead, they rely for justification on humanity’s failings, examples of which daily reinforce a common sense of despair. A layered veil of false premises thus obscures a fundamental truth: The state of the world reflects a distortion of the human spirit, not its essential nature. The purpose of every Manifestation of God is to effect a transformation in both the inner life and external conditions of humanity. And this transformation naturally occurs as a growing body of people, united by the divine precepts, collectively seeks to develop spiritual capacities to contribute to a process of societal change. Akin to the hard earth struck by the Master a century ago, the prevailing theories of the age may, at first, seem impervious to alteration, but they will undoubtedly fade away, and through the ‘vernal showers of the bounty of God’, the ‘flowers of true understanding’ will spring up fresh and fair."
       },
       {
-        "section": [23],
+        "section": [2, 23],
         "title": "Section 23"
       },
       {
@@ -552,7 +550,7 @@
         "text": "One righteous act is endowed with a potency that can so elevate the dust as to cause it to pass beyond the heaven of heavens. It can tear every bond asunder, and hath the power to restore the force that hath spent itself and vanished."
       },
       {
-        "section": [24],
+        "section": [2, 24],
         "title": "Section 24"
       },
       {
@@ -565,14 +563,14 @@
         "text": "Viewed in such a light, consultation is the operating expression of justice in human affairs. So vital is it to the success of collective endeavour that it must constitute a basic feature of a viable strategy of social and economic development. Indeed, the participation of the people on whose commitment and efforts the success of such a strategy depends becomes effective only as consultation is made the organising principle of every project. ‘No man can attain his true station’, is Bahá’u’lláh’s counsel, ‘except through his justice. No power can exist except through unity. No welfare and no well‑being can be attained except through consultation.’"
       },
       {
-        "section": [25],
+        "section": [2, 25],
         "title": "Section 25"
       },
       {
         "text": "If contradictions are to be avoided, the participants in an endeavour need to become increasingly aware of the environment within which their work advances. On the one hand, they are to freely draw insights from the range of philosophies, academic theories, community programmes and social movements within that environment and to keep current with the technological trends that influence progress. On the other hand, they should remain watchful lest they allow the teachings to be bent into conformity with this or that ideology, intellectual fad or fashionable practice. In this connection, the capacity to measure the value of prevalent approaches, ideas, attitudes, and methods in the balance of the Faith is vital. This capacity enables one, for example, to uncover the aggrandisement of self so often lying behind initiatives that are nominally concerned with empowerment, to discern the tendency of certain development efforts to foist upon the poor an entirely materialistic worldview, to perceive the subtle ways in which competitiveness and greed can be promoted in the name of justice and prosperity, and ultimately to abandon the notion that one or another theory or movement which may fleetingly acquire some prominence in the wider society can provide a shortcut to meaningful change."
       },
       {
-        "section": [26],
+        "section": [2, 26],
         "title": "Section 26"
       },
       {
@@ -582,7 +580,7 @@
         "text": "Efforts, whatever their specific nature, generally begin on a modest scale. Often, in a locality where the educational activities of the training institute are firmly established and a pronounced sense of community exists, the first stirrings of heightened social awareness can be observed in the emergence of a small group which, addressing a particular social and economic reality, initiates a simple set of appropriate actions. While some efforts of this kind will naturally come to a close when their objectives have been met, others will continue. Insistence on perpetuating or even expanding every initiative, whether in terms of number of participants, expenditure, geographical coverage or complexity of work, is counterproductive. Yet there may be circumstances in which efforts will, through a continuous process of consultation, action, and reflection, give rise to an endeavour of a more sustained nature. What is important in such cases is that those involved be allowed to increase the range of their activities in an organic fashion, without undue pressure from opinions that are often based solely on theoretical considerations. The process moves forward in a flexible way as they reflect on the results of experience. The Local Spiritual Assembly, of course, serves as the voice of moral authority to make certain that, as small groups of individuals strive to improve conditions, the integrity of their endeavours is not compromised. It also remains ever vigilant, ensuring that efforts do not run counter to the overall direction in which the community is moving."
       },
       {
-        "section": [27],
+        "section": [2, 27],
         "title": "Section 27"
       },
       {
@@ -601,7 +599,7 @@
         "text": "In the efforts of Bahá’ís everywhere, then, can be seen the emergence of a global community which, connected through its institutions, is striving to establish a pattern of activity that gives due respect to local autonomy without creating a sense of isolation from the whole, that attaches importance to material means without allowing them to become instruments of control, that provides for the flow of knowledge without introducing paternalistic attitudes, that strengthens capacity in individuals without any regard for their economic background. While vigorously engaged in activities to improve their immediate surroundings, Bahá’ís feel part of a process of development that is global in scope and influence."
       },
       {
-        "section": [28],
+        "section": [2, 28],
         "title": "Section 28"
       },
       {

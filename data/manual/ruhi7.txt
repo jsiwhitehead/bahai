@@ -1,7 +1,6 @@
 Book 7: Walking Together on a Path of Service
 author="The Ruhi Institute"
 years=[2009,2009]
-collection
 
 # Unit 1: The Spiritual Path
 purpose="To gain increased awareness of the spiritual dynamics of advancing along a path of service to the Cause and acquire an understanding of the forces at work"

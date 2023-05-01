@@ -23,7 +23,7 @@ const findSource = (documents, doc, simplified) =>
         !d.title
       ) &&
       (d.author !== doc.author ||
-        doc.author === "The Universal House of Justice" ||
+        doc.epoch ||
         doc.id.startsWith("prayers") ||
         doc.id.startsWith("bahaullah-gleanings-writings-bahaullah") ||
         doc.id.startsWith("bahaullah-days-remembrance") ||

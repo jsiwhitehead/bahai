@@ -1,7 +1,6 @@
 Book 14: Participating in Public Discourse
 author="The Ruhi Institute"
 years=[2020,2020]
-collection
 
 # Unit 1: The Nature of Our Contributions
 

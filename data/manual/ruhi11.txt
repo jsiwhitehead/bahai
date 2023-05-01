@@ -1,7 +1,6 @@
 Book 11: Material Means
 author="The Ruhi Institute"
 years=[2019,2019]
-collection
 
 # Unit 1: Giving: The Spiritual Basis of Prosperity
 

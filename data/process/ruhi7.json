@@ -1,25 +1,27 @@
 [
   {
-    "path": ["Book 7: Walking Together on a Path of Service"],
-    "item": 1,
-    "title": "Unit 1: The Spiritual Path",
+    "path": [],
+    "title": "Book 7: Walking Together on a Path of Service",
     "author": "The Ruhi Institute",
     "years": [2009, 2009],
-    "purpose": "To gain increased awareness of the spiritual dynamics of advancing along a path of service to the Cause and acquire an understanding of the forces at work",
     "paragraphs": [
       {
         "section": [1],
+        "title": "Unit 1: The Spiritual Path"
+      },
+      {
+        "section": [1, 1],
         "title": "Section 1"
       },
       {
-        "section": [2],
+        "section": [1, 2],
         "title": "Section 2"
       },
       {
         "text": "The most important thing is to polish the mirrors of hearts in order that they may become illumined and receptive of the divine light. One heart may possess the capacity of the polished mirror; another, be covered and obscured by the dust and dross of this world. Although the same Sun is shining upon both, in the mirror which is polished, pure and sanctified you may behold the Sun in all its fullness, glory and power, revealing its majesty and effulgence; but in the mirror which is rusted and obscured there is no capacity for reflection, although so far as the Sun itself is concerned it is shining thereon and is neither lessened nor deprived. Therefore, our duty lies in seeking to polish the mirrors of our hearts in order that we shall become reflectors of that light and recipients of the divine bounties which may be fully revealed through them."
       },
       {
-        "section": [3],
+        "section": [1, 3],
         "title": "Section 3"
       },
       {
@@ -32,7 +34,7 @@
         "text": "O My servants! Were ye to discover the hidden, the shoreless oceans of My incorruptible wealth, ye would, of a certainty, esteem as nothing the world, nay, the entire creation."
       },
       {
-        "section": [4],
+        "section": [1, 4],
         "title": "Section 4"
       },
       {
@@ -42,7 +44,7 @@
         "text": "Of all men the most negligent is he that disputeth idly and seeketh to advance himself over his brother."
       },
       {
-        "section": [5],
+        "section": [1, 5],
         "title": "Section 5"
       },
       {
@@ -55,7 +57,7 @@
         "text": "He that seeketh to be a helper of God in this Day, let him close his eyes to whatever he may possess, and open them to the things of God. Let him cease to occupy himself with that which profiteth him, and concern himself with that which shall exalt the all‑compelling name of the Almighty. He should cleanse his heart from all evil passions and corrupt desires, for the fear of God is the weapon that can render him victorious, the primary instrument whereby he can achieve his purpose. The fear of God is the shield that defendeth His Cause, the buckler that enableth His people to attain to victory. It is a standard that no man can abase, a force that no power can rival. By its aid, and by the leave of Him Who is the Lord of Hosts, they that have drawn nigh unto God have been able to subdue and conquer the citadels of the hearts of men."
       },
       {
-        "section": [6],
+        "section": [1, 6],
         "title": "Section 6"
       },
       {
@@ -71,14 +73,14 @@
         "text": "In all these journeys the wayfarer must stray not a hair’s breadth from the Law, for this is indeed the secret of the Path and the fruit of the Tree of Truth. And in all these stages he must cling to the robe of obedience to all that hath been enjoined, and hold fast to the cord of shunning all that is forbidden, that he may partake of the cup of the Law and be informed of the mysteries of Truth."
       },
       {
-        "section": [7],
+        "section": [1, 7],
         "title": "Section 7"
       },
       {
         "text": "Pleasing and acceptable as is a righteous person before God’s Holy Threshold, yet good works should proceed from knowledge. However matchless and exquisite may be a blind man’s handiwork, yet he himself is deprived of seeing it. How sorely do certain animals labour on man’s behalf, what loads they bear for him, how greatly they contribute to his ease and comfort; and yet, because they are unwitting, they earn no recompense for all their pains. The clouds rain down their bounty, nurturing the plants and flowers, and imparting verdure and enchantment to the plain and prairie, the forest and the garden; but yet, unconscious as they are of the results and fruit of their outpourings, they win no praise or honour, nor earn the gratitude and approbation of any man. The lamp imparteth light, but as it hath no consciousness of doing so, no one is indebted to it. This apart, a man of righteous deeds and goodly conduct will assuredly turn towards the Light, in whichever quarter he behold it. The point is this, that faith compriseth both knowledge and the performance of good works."
       },
       {
-        "section": [8],
+        "section": [1, 8],
         "title": "Section 8"
       },
       {
@@ -94,7 +96,7 @@
         "text": "Shelter under Thy protection, O Thou Spirit of purity, Thou Who art the All‑Bountiful Provider, this enthralled, enkindled servant of Thine. Aid him in this world of being to remain steadfast and firm in Thy love and grant that this broken‑winged bird attain a refuge and shelter in Thy divine nest that abideth upon the celestial tree."
       },
       {
-        "section": [9],
+        "section": [1, 9],
         "title": "Section 9"
       },
       {
@@ -104,7 +106,7 @@
         "text": "Stop being conscious of your frailties, therefore; have a perfect reliance upon God; let your heart burn with the desire to serve His mission and proclaim His call; and you will observe how eloquence and the power to change human hearts will come as a matter of course."
       },
       {
-        "section": [10],
+        "section": [1, 10],
         "title": "Section 10"
       },
       {
@@ -114,7 +116,7 @@
         "text": "Indulge not your bodies with rest, but work with all your souls, and with all your hearts cry out and beg of God to grant you His succour and grace. Thus may ye make this world the Abhá Paradise, and this globe of earth the parade ground of the realm on high. If only ye exert the effort, it is certain that these splendours will shine out, these clouds of mercy will shed down their rain, these life‑giving winds will rise and blow, this sweet‑smelling musk will be scattered far and wide."
       },
       {
-        "section": [11],
+        "section": [1, 11],
         "title": "Section 11"
       },
       {
@@ -127,7 +129,7 @@
         "text": "Thus I exhort each of you . . . to sacrifice all your thoughts, words and actions to bring the knowledge of the Love of God into every heart."
       },
       {
-        "section": [12],
+        "section": [1, 12],
         "title": "Section 12"
       },
       {
@@ -153,32 +155,25 @@
       },
       {
         "text": "Then rose the Sun of Truth and the splendours of the Kingdom were shed over east and west. Those who had eyes to see rejoiced at the glad tidings and cried out: “O blessed, blessed are we!,” and they witnessed the inner reality of all things, and uncovered the mysteries of the Kingdom. Delivered then from their fancies and their doubts, they beheld the light of truth, and so exhilarated did they become from draining the chalice of God’s love, that they utterly forgot the world and their own selves. Dancing for joy they hastened to the place of their own martyrdom and there, where men die for love, they flung away their heads and hearts."
-      }
-    ]
-  },
-  {
-    "path": ["Book 7: Walking Together on a Path of Service"],
-    "item": 2,
-    "title": "Unit 2: Becoming a Tutor of Books 1‑6",
-    "author": "The Ruhi Institute",
-    "years": [2009, 2009],
-    "purpose": "To explore some of the concepts and acquire some of the attitudes and skills that contribute to the capability of helping a group of friends go through Books 1‑6",
-    "practice": "To form a study circle and accompany it through at least one book",
-    "paragraphs": [
-      {
-        "section": [1],
-        "title": "Section 1"
       },
       {
         "section": [2],
+        "title": "Unit 2: Becoming a Tutor of Books 1‑6"
+      },
+      {
+        "section": [2, 1],
+        "title": "Section 1"
+      },
+      {
+        "section": [2, 2],
         "title": "Section 2"
       },
       {
-        "section": [3],
+        "section": [2, 3],
         "title": "Section 3"
       },
       {
-        "section": [4],
+        "section": [2, 4],
         "title": "Section 4"
       },
       {
@@ -203,11 +198,11 @@
         "text": "Thou verily art the Powerful, the Protector, the Potent, the Defender, the Mighty, the Most Generous."
       },
       {
-        "section": [5],
+        "section": [2, 5],
         "title": "Section 5"
       },
       {
-        "section": [6],
+        "section": [2, 6],
         "title": "Section 6"
       },
       {
@@ -220,69 +215,69 @@
         "text": "The everlasting Candle shineth in its naked glory. Behold how it hath consumed every mortal veil. O ye moth‑like lovers of His light! Brave every danger, and consecrate your souls to its consuming flame. O ye that thirst after Him! Strip yourselves of every earthly affection, and hasten to embrace your Beloved. With a zest that none can equal make haste to attain unto Him. The Flower, thus far hidden from the sight of men, is unveiled to your eyes. In the open radiance of His glory He standeth before you. His voice summoneth all the holy and sanctified beings to come and be united with Him. Happy is he that turneth thereunto; well is it with him that hath attained, and gazed on the light of so wondrous a countenance."
       },
       {
-        "section": [7],
+        "section": [2, 7],
         "title": "Section 7"
       },
       {
         "text": "Apart from these provisions Bahá’u’lláh exhorts His followers to consort, with amity and concord and without discrimination, with the adherents of all religions; warns them to guard against fanaticism, sedition, pride, dispute and contention; inculcates upon them immaculate cleanliness, strict truthfulness, spotless chastity, trustworthiness; hospitality, fidelity, courtesy, forbearance, justice and fairness; counsels them to be “even as the fingers of one hand and the limbs of one body”; calls upon them to arise and serve His Cause; and assures them of His undoubted aid."
       },
       {
-        "section": [8],
+        "section": [2, 8],
         "title": "Section 8"
       },
       {
-        "section": [9],
+        "section": [2, 9],
         "title": "Section 9"
       },
       {
-        "section": [10],
+        "section": [2, 10],
         "title": "Section 10"
       },
       {
-        "section": [11],
+        "section": [2, 11],
         "title": "Section 11"
       },
       {
-        "section": [12],
+        "section": [2, 12],
         "title": "Section 12"
       },
       {
-        "section": [13],
+        "section": [2, 13],
         "title": "Section 13"
       },
       {
-        "section": [14],
+        "section": [2, 14],
         "title": "Section 14"
       },
       {
         "text": "Children are the most precious treasure a community can possess, for in them are the promise and guarantee of the future. They bear the seeds of the character of future society which is largely shaped by what the adults constituting the community do or fail to do with respect to children. They are a trust no community can neglect with impunity. An all‑embracing love of children, the manner of treating them, the quality of the attention shown them, the spirit of adult behaviour toward them—these are all among the vital aspects of the requisite attitude. Love demands discipline, the courage to accustom children to hardship, not to indulge their whims or leave them entirely to their own devices. An atmosphere needs to be maintained in which children feel that they belong to the community and share in its purpose. They must lovingly but insistently be guided to live up to Bahá’í standards, to study and teach the Cause in ways that are suited to their circumstances."
       },
       {
-        "section": [15],
+        "section": [2, 15],
         "title": "Section 15"
       },
       {
-        "section": [16],
+        "section": [2, 16],
         "title": "Section 16"
       },
       {
-        "section": [17],
+        "section": [2, 17],
         "title": "Section 17"
       },
       {
-        "section": [18],
+        "section": [2, 18],
         "title": "Section 18"
       },
       {
-        "section": [19],
+        "section": [2, 19],
         "title": "Section 19"
       },
       {
-        "section": [20],
+        "section": [2, 20],
         "title": "Section 20"
       },
       {
-        "section": [21],
+        "section": [2, 21],
         "title": "Section 21"
       },
       {
@@ -292,30 +287,30 @@
         "text": "If thou seekest eternal glory, let thyself be humble and meek in the presence of the beloved of God; make thyself the servant of all, and serve all alike. The service of the friends belongs to God, not to them. Strive to become a source of harmony, spirituality and joyfulness to the hearts of the friends and the maid‑servants of the Merciful. This is a cause of great satisfaction to ‘Abdu’l‑Bahá."
       },
       {
-        "section": [22],
+        "section": [2, 22],
         "title": "Section 22"
       },
       {
-        "section": [23],
+        "section": [2, 23],
         "title": "Section 23"
       },
       {
-        "section": [24],
+        "section": [2, 24],
         "title": "Section 24"
       },
       {
-        "section": [25],
+        "section": [2, 25],
         "title": "Section 25"
       },
       {
         "text": ". . . and every breast which committeth His Words to memory, God shall cause, if it were that of a believer, to be filled with His love . . ."
       },
       {
-        "section": [26],
+        "section": [2, 26],
         "title": "Section 26"
       },
       {
-        "section": [27],
+        "section": [2, 27],
         "title": "Section 27"
       },
       {
@@ -331,11 +326,11 @@
         "text": "As we have said in an earlier message, the flourishing of the community, especially at the local level, demands a significant enhancement in patterns of behaviour: those patterns by which the collective expression of the virtues of the individual members and the functioning of the Spiritual Assembly are manifest in the unity and fellowship of the community and the dynamism of its activity and growth. This calls for the integration of the component elements—adults, youth and children—in spiritual, social, educational and administrative activities; and their engagement in local plans of teaching and development. It implies a collective will and sense of purpose to perpetuate the Spiritual Assembly through annual elections. It involves the practice of collective worship of God. Hence, it is essential to the spiritual life of the community that the friends hold regular devotional meetings in local Bahá’í centres, where available, or elsewhere, including the homes of believers."
       },
       {
-        "section": [28],
+        "section": [2, 28],
         "title": "Section 28"
       },
       {
-        "section": [29],
+        "section": [2, 29],
         "title": "Section 29"
       },
       {
@@ -349,37 +344,31 @@
       },
       {
         "text": "Praise be to God, the hosts of the Supreme Concourse secure the victory and the power of the Kingdom is ready to assist and to support. Should ye at every instant unloosen the tongue in thanksgiving and gratitude, ye would not be able to discharge yourselves of the obligation of gratitude for these bestowals."
-      }
-    ]
-  },
-  {
-    "path": ["Book 7: Walking Together on a Path of Service"],
-    "item": 3,
-    "title": "Unit 3: Promoting the Arts at the Grassroots",
-    "author": "The Ruhi Institute",
-    "years": [2009, 2009],
-    "purpose": "To appreciate the role of artistic endeavours in the activity of a study circle",
-    "paragraphs": [
+      },
       {
-        "section": [1],
+        "section": [3],
+        "title": "Unit 3: Promoting the Arts at the Grassroots"
+      },
+      {
+        "section": [3, 1],
         "title": "Section 1"
       },
       {
-        "section": [2],
+        "section": [3, 2],
         "title": "Section 2"
       },
       {
         "text": "All art is a gift of the Holy Spirit. When this light shines through the mind of a musician, it manifests itself in beautiful harmonies. Again, shining through the mind of a poet, it is seen in fine poetry and poetic prose. When the Light of the Sun of Truth inspires the mind of a painter, he produces marvellous pictures. These gifts are fulfilling their highest purpose, when showing forth the praise of God."
       },
       {
-        "section": [3],
+        "section": [3, 3],
         "title": "Section 3"
       },
       {
         "text": "It is natural for the heart and spirit to take pleasure and enjoyment in all things that show forth symmetry, harmony, and perfection. For instance: a beautiful house, a well designed garden, a symmetrical line, a graceful action, a well written book, pleasing garments—in fact, all things that have in themselves grace or beauty are pleasing to the heart and spirit . . ."
       },
       {
-        "section": [4],
+        "section": [3, 4],
         "title": "Section 4"
       },
       {
@@ -389,7 +378,7 @@
         "text": "The body without spirit is not capable of real accomplishment. Although it may be in the utmost condition of beauty and excellence, it is, nevertheless, in need of the spirit. The chimney of the lamp, no matter how polished and perfect it be, is in need of the light. Without the light, the lamp or candle is not illuminating."
       },
       {
-        "section": [5],
+        "section": [3, 5],
         "title": "Section 5"
       },
       {
@@ -405,7 +394,7 @@
         "text": "We have made it lawful for you to listen to music and singing. Take heed, however, lest listening thereto should cause you to overstep the bounds of propriety and dignity. Let your joy be the joy born of My Most Great Name, a Name that bringeth rapture to the heart, and filleth with ecstasy the minds of all who have drawn nigh unto God. We, verily, have made music as a ladder for your souls, a means whereby they may be lifted up unto the realm on high; make it not, therefore, as wings to self and passion. Truly, We are loth to see you numbered with the foolish."
       },
       {
-        "section": [6],
+        "section": [3, 6],
         "title": "Section 6"
       },
       {
@@ -415,7 +404,7 @@
         "text": "Music is an important means to the education and development of humanity, but the only true way is through the Teachings of God. Music is like this glass, which is perfectly pure and polished. It is precisely like this pure chalice before us, and the Teachings of God, the utterances of God are like the water. When the glass or chalice is absolutely pure and clear, and the water is perfectly fresh and limpid, then it will confer Life; wherefore, the Teachings of God, whether they be in the form of anthems or communes or prayers, when they are melodiously sung, are most impressive."
       },
       {
-        "section": [7],
+        "section": [3, 7],
         "title": "Section 7"
       },
       {
@@ -425,14 +414,14 @@
         "text": "Nabíl’s Narrative is not merely a narrative. It is a book of meditation. It does not only teach; it actually inspires and incites to action. It quickens and stimulates our dormant energies and makes us soar on a higher plane. It is thus of invaluable help to the historian as well as to every teacher and expounder of the Cause."
       },
       {
-        "section": [8],
+        "section": [3, 8],
         "title": "Section 8"
       },
       {
         "text": "In all their efforts to achieve the aim of the Four Year Plan, the friends are also asked to give greater attention to the use of the arts, not only for proclamation, but also for the work in expansion and consolidation. The graphic and performing arts and literature have played, and can play, a major role in extending the influence of the Cause. At the level of folk art, this possibility can be pursued in every part of the world, whether it be in villages, towns or cities."
       },
       {
-        "section": [9],
+        "section": [3, 9],
         "title": "Section 9"
       },
       {
@@ -442,7 +431,7 @@
         "text": "The one true God, exalted be He, loveth to witness handiworks of high craftsmanship produced by His loved ones. Blessed art thou, for what thy skill hath produced hath reached the presence of thy Lord, the Exiled, the Wronged. Please God every one of His friends may be enabled to acquire one of the crafts, and be confirmed in adhering to what hath been ordained in the Book of God, the All‑Glorious, the All‑Wise."
       },
       {
-        "section": [10],
+        "section": [3, 10],
         "title": "Section 10 "
       }
     ]

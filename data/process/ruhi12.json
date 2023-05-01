@@ -1,21 +1,24 @@
 [
   {
-    "path": ["Book 12: Family and the Community"],
-    "item": 1,
-    "title": "Unit 1: The Institution of Marriage",
+    "path": [],
+    "title": "Book 12: Family and the Community",
     "author": "The Ruhi Institute",
     "years": [2021, 2021],
     "paragraphs": [
       {
         "section": [1],
+        "title": "Unit 1: The Institution of Marriage"
+      },
+      {
+        "section": [1, 1],
         "title": "Section 1"
       },
       {
-        "section": [2],
+        "section": [1, 2],
         "title": "Section 2"
       },
       {
-        "section": [3],
+        "section": [1, 3],
         "title": "Section 3"
       },
       {
@@ -28,7 +31,7 @@
         "text": "It should, moreover, be borne in mind that although to be married is highly desirable, and Bahá’u’lláh has strongly recommended it, it is not the central purpose of life. If a person has to wait a considerable period before finding a spouse, or if ultimately, he or she must remain single, it does not mean that he or she is thereby unable to fulfil his or her life’s purpose."
       },
       {
-        "section": [4],
+        "section": [1, 4],
         "title": "Section 4"
       },
       {
@@ -44,7 +47,7 @@
         "text": "Regarding the question of marriage, know thou that the command of marriage is eternal. It will never be changed or altered. This creation is divine, and it is not possible for that which is created by God to be changed or altered."
       },
       {
-        "section": [5],
+        "section": [1, 5],
         "title": "Section 5"
       },
       {
@@ -60,7 +63,7 @@
         "text": "Bahá’u’lláh stated that the primary purpose of marriage was the procreation of children, and the beloved Guardian alludes to this in many of the letters that were written on his behalf on this subject. This does not imply that a couple are obliged to have as many children as they can; the Guardian’s secretary clearly stated on his behalf, in answer to an inquiry, that it was for the husband and wife to decide how many children they would have."
       },
       {
-        "section": [6],
+        "section": [1, 6],
         "title": "Section 6"
       },
       {
@@ -82,7 +85,7 @@
         "text": "There is no teaching in the Bahá’í Faith that ‘soulmates’ exist. What is meant is that marriage should lead to a profound friendship of spirit, which will endure in the next world, where there is no sex, and no giving and taking in marriage; just the way we should establish with our parents, our children, our brothers and sisters and friends a deep spiritual bond which will be everlasting, and not merely physical bonds of human relationship."
       },
       {
-        "section": [7],
+        "section": [1, 7],
         "title": "Section 7"
       },
       {
@@ -107,7 +110,7 @@
         "text": "Today you will see two souls apparently in close friendship; tomorrow all this may be changed. Yesterday they were ready to die for one another, today they shun one another’s society! This is not love; it is the yielding of the hearts to the accidents of life. When that which has caused this ‘love’ to exist passes, the love passes also; this is not in reality love."
       },
       {
-        "section": [8],
+        "section": [1, 8],
         "title": "Section 8"
       },
       {
@@ -135,7 +138,7 @@
         "text": "Know, verily, the heart wherein the least remnant of envy yet lingers, shall never attain My everlasting dominion, nor inhale the sweet savours of holiness breathing from My kingdom of sanctity."
       },
       {
-        "section": [9],
+        "section": [1, 9],
         "title": "Section 9"
       },
       {
@@ -157,7 +160,7 @@
         "text": "A marriage between two souls, alive to the Message of God in this day, dedicated to the service of His Cause, working for the good of humanity, can be a potent force in the lives of others and an example and inspiration . . ."
       },
       {
-        "section": [10],
+        "section": [1, 10],
         "title": "Section 10"
       },
       {
@@ -176,7 +179,7 @@
         "text": "This is in truth a Bahá’í house. Every time such a house . . . is founded it becomes one of the greatest aids to the general development of the town and country to which it belongs. It encourages the growth of learning and science and is known for its intense spirituality and for the love it spreads among the peoples."
       },
       {
-        "section": [11],
+        "section": [1, 11],
         "title": "Section 11"
       },
       {
@@ -201,7 +204,7 @@
         "text": "Thou seest me, O my God, detached from all save Thee and cleaving unto Thee. Guide me, then, in all mine affairs unto that which profiteth me for the glory of Thy Cause and the loftiness of the station of Thy loved ones."
       },
       {
-        "section": [12],
+        "section": [1, 12],
         "title": "Section 12"
       },
       {
@@ -220,14 +223,14 @@
         "text": "Be eyes to the blind, and a guiding light unto the feet of the erring. Be an ornament to the countenance of truth, a crown to the brow of fidelity . . ."
       },
       {
-        "section": [13],
+        "section": [1, 13],
         "title": "Section 13"
       },
       {
         "text": ". . . it is useful to note that the marital relationship is one that requires in many instances a profound adjustment in behaviour on the part of each partner. . . . Some couples are able to achieve at the outset and to maintain a high degree of harmony throughout their marriage. Many others find they must struggle for some time to attain such harmony."
       },
       {
-        "section": [14],
+        "section": [1, 14],
         "title": "Section 14"
       },
       {
@@ -237,14 +240,14 @@
         "text": "Commit not that which defileth the limpid stream of love or destroyeth the sweet fragrance of friendship."
       },
       {
-        "section": [15],
+        "section": [1, 15],
         "title": "Section 15"
       },
       {
         "text": "When two believers begin to investigate each other’s character with the possibility of marriage in mind, they must establish between them a level of openness and close communication. They will themselves determine if, when and how they will share past and personal experiences. In this process, it is necessary to reconcile a variety of spiritual principles and obligations. Truthfulness and trustworthiness are essential of course, yet other aspects of the teachings must be weighed, such as Shoghi Effendi’s guidance that while a believer may choose to acknowledge to another a wrong or fault of character, one is not obliged to do so."
       },
       {
-        "section": [16],
+        "section": [1, 16],
         "title": "Section 16"
       },
       {
@@ -290,7 +293,7 @@
         "text": "Therefore, I desire that your hearts may be directed to the Kingdom of God, that your intentions may be pure and sincere, your purposes turned toward altruistic accomplishment unmindful of your own welfare; nay, rather, may all your intentions centre in the welfare of humanity, and may you seek to sacrifice yourselves in the pathway of devotion to mankind."
       },
       {
-        "section": [17],
+        "section": [1, 17],
         "title": "Section 17"
       },
       {
@@ -312,7 +315,7 @@
         "text": "Yet, although many admire your dynamism and ideals, the true significance of these endeavours is less apparent to the world at large. You, however, are aware of your part in a mighty, transforming process that will yield, in time, a global civilisation reflecting the oneness of humankind. You know well that the habits of mind and spirit that you are nurturing in yourselves and others will endure, influencing decisions of consequence that relate to marriage, family, study, work, even where to live. Consciousness of this broad context helps to shatter the distorting looking glass in which everyday tests, difficulties, setbacks, and misunderstandings can seem insurmountable. And in the struggles that are common to each individual’s spiritual growth, the will required to make progress is more easily summoned when one’s energies are being channelled towards a higher goal—the more so when one belongs to a community that is united in that goal."
       },
       {
-        "section": [18],
+        "section": [1, 18],
         "title": "Section 18"
       },
       {
@@ -340,7 +343,7 @@
         "text": "In this matter, as in all aspects of human relations, consultation is of great value in resolving misunderstandings and in clarifying what is the best course of behaviour in the light of the Bahá’í teachings."
       },
       {
-        "section": [19],
+        "section": [1, 19],
         "title": "Section 19"
       },
       {
@@ -387,14 +390,14 @@
         "text": "From separation doth every kind of hurt and harm proceed, but the union of created things doth ever yield most laudable results. From the pairing of even the smallest particles in the world of being are the grace and bounty of God made manifest; and the higher the degree, the more momentous is the union."
       },
       {
-        "section": [20],
+        "section": [1, 20],
         "title": "Section 20"
       },
       {
         "text": "With the Revelation of Bahá’u’lláh many familiar concepts, customs and institutions are redefined and take on new meaning. One of these is the dowry. The institution of dowry is a very ancient practice in many cultures and takes many forms. In some countries it is a payment made by the parents of the bride to the bridegroom; in others it is a payment made by the bridegroom to the parents of the bride, called a ‘bride‑ price.’ In both such cases the amount is often quite considerable. The law of Bahá’u’lláh abolishes all such variants and converts the dowry into a symbolic act whereby the bridegroom presents a gift of a certain limited value to the bride."
       },
       {
-        "section": [21],
+        "section": [1, 21],
         "title": "Section 21"
       },
       {
@@ -407,7 +410,7 @@
         "text": "Glory be unto Thee, O my God! Verily, this Thy servant and this Thy maidservant have gathered under the shadow of Thy mercy and they are united through Thy favour and generosity. O Lord! Assist them in this Thy world and Thy kingdom and destine for them every good through Thy bounty and grace. O Lord! Confirm them in Thy servitude and assist them in Thy service. Suffer them to become the signs of Thy Name in Thy world and protect them through Thy bestowals which are inexhaustible in this world and the world to come. O Lord! They are supplicating the kingdom of Thy mercifulness and invoking the realm of Thy singleness. Verily, they are married in obedience to Thy command. Cause them to become the signs of harmony and unity until the end of time. Verily, Thou art the Omnipotent, the Omnipresent and the Almighty!"
       },
       {
-        "section": [22],
+        "section": [1, 22],
         "title": "Section 22"
       },
       {
