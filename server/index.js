@@ -10,9 +10,13 @@ const unique = (x) => [...new Set(x)];
 
 const getTime = (words) => {
   const time = words / 238;
-  if (time < 2.5) return "1‑2 mins";
-  if (time < 60) return `${Math.round(time / 5) * 5} mins`;
-  return `${Math.round(time / 6) / 10} hours`;
+  const scale = Math.min(Math.max(Math.round(Math.log(time + 1)), 1), 5);
+  return Array.from({ length: scale })
+    .map(() => "●")
+    .join("");
+  // if (time < 2.5) return "1‑2 mins";
+  // if (time < 60) return `${Math.round(time / 5) * 5} mins`;
+  // return `${Math.round(time / 6) / 10} hours`;
 };
 
 const getFirstChar = (index, text) => {
@@ -239,7 +243,7 @@ router
             "Compilation",
             "The Bible",
             "Muḥammad",
-          ].includes(d.author)
+          ].includes(d.author) && d.type !== "Prayer"
       )
       .filter(
         (d) =>
@@ -261,7 +265,9 @@ router
             "Compilation",
             "The Bible",
             "Muḥammad",
-          ].includes(d.author)
+          ].includes(d.author) &&
+          d.path?.[0] !== "Additional" &&
+          d.type !== "Prayer"
       )
       .filter(
         (d) =>
@@ -272,6 +278,14 @@ router
       .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id))
       .map(({ paragraphs, ...info }) => info)
       .slice(0, 500);
+  })
+  .post("/prayers", (ctx) => {
+    const { author } = ctx.request.body;
+    const allAuthors = authors[author] || (author && [author]);
+    ctx.body = documents
+      .filter((d) => d.type === "Prayer")
+      .filter((d) => !author || allAuthors.includes(d.author))
+      .sort((a, b) => a.length - b.length || a.id.localeCompare(b.id));
   })
   .post("/documentById", (ctx) => {
     const { id } = ctx.request.body;
