@@ -2919,17 +2919,6 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ["Upon its quality depend the", "Upon its quality depends the"],
       ["can succeed to dissipate. And", "can succeed in dissipating. And"],
     ],
-    "issues-related-study-bahai-faith": [
-      removeAfter("Notes"),
-      [/^The Universal House of Justice$[\s\S]*the United States, 1999$/gm, ""],
-      [/^\d+$\n\n.*/gm, "***"],
-      ["", "Issues Related to the Study of the Bahá’í Faith\n\n"],
-      title("", "Issues Related to the Study of the Bahá’í Faith", {
-        author: "Compilation",
-        years: [1999.0407, 1999.0407],
-      }),
-      title("#", "Introduction"),
-    ],
     "local-spiritual-assembly": [
       removeAfter("Notes"),
       ["A Compilation", ""],

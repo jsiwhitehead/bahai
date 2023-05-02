@@ -35,14 +35,15 @@ const getRef = (doc, paras) =>
           ].includes(p)
       ),
       doc.title || (doc.item && `#${doc.item}`),
-      paras && paras.length === 1
-        ? doc.paragraphs[paras[0]].index &&
-          `para ${doc.paragraphs[paras[0]].index}`
-        : `paras ${Math.min(
-            ...paras.map((p) => doc.paragraphs[p].index).filter((x) => x)
-          )}‑${Math.max(
-            ...paras.map((p) => doc.paragraphs[p].index).filter((x) => x)
-          )}`,
+      paras &&
+        (paras.length === 1
+          ? doc.paragraphs[paras[0]].index &&
+            `para ${doc.paragraphs[paras[0]].index}`
+          : `paras ${Math.min(
+              ...paras.map((p) => doc.paragraphs[p].index).filter((x) => x)
+            )}‑${Math.max(
+              ...paras.map((p) => doc.paragraphs[p].index).filter((x) => x)
+            )}`),
     ]
       .filter((x) => x)
       .map((s) => (s.length > 50 ? s : s.replace(/ /g, " ")))
@@ -147,6 +148,7 @@ const documents = Object.keys(documentsBase).map((id) => {
       id,
       author: p.author || info.author,
       epoch: info.epoch,
+      ref: getRef(documentsBase[id], [i]),
       score:
         (p.type === "quote" ? [] : p.type === "lines" ? p.lines.flat() : p.text)
           .map((t) => Math.pow(t.count, 2) * t.text.split(" ").length)
