@@ -1823,7 +1823,7 @@
     "author": "Bahá’u’lláh",
     "path": ["Bahá’í Prayers"],
     "categories": ["Protection"],
-    "length": 686,
+    "length": 685,
     "paragraphs": [
       {
         "index": 1,
@@ -1831,7 +1831,7 @@
       },
       {
         "index": 2,
-        "text": "Keep safe Thy servants and Thy hand‑maidens, O my Lord, from the darts of idle fancy and vain imaginings, and give them from the hands of Thy grace a draught of the soft‑flowing waters of Thy knowledge."
+        "text": "Keep safe Thy servants and Thy handmaidens, O my Lord, from the darts of idle fancy and vain imaginings, and give them from the hands of Thy grace a draught of the soft‑flowing waters of Thy knowledge."
       },
       {
         "index": 3,
@@ -10209,6 +10209,10 @@
     "title": "Long Obligatory Prayer",
     "length": 7128,
     "paragraphs": [
+      {
+        "type": "info",
+        "text": "To be recited once in twenty‑four hours"
+      },
       {
         "type": "info",
         "text": "Whoso wisheth to recite this prayer, let him stand up and turn unto God, and, as he standeth in his place, let him gaze to the right and to the left, as if awaiting the mercy of his Lord, the Most Merciful, the Compassionate. Then let him say:"

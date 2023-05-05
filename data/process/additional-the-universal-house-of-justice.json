@@ -5304,22 +5304,6 @@
   {
     "path": ["Additional"],
     "item": 347,
-    "title": "From a letter dated 1 September 2017 to the Friends Gathered in Battambang, Cambodia, for the Dedication of the House of Worship",
-    "author": "The Universal House of Justice",
-    "years": [2017.0901, 2017.0901],
-    "epoch": "Fifth Epoch",
-    "paragraphs": [
-      {
-        "text": "A full year has yet to pass since the Bahá’í world marked the completion of the last of the continental Houses of Worship, and already a new dawn is breaking in the development of the institution of the Mashriqu’l‑Adhkár. You are gathered at the very dawning‑place itself—the site of the first local House of Worship to rise above the horizon in the stage that has now opened. The dedication of this unique edifice is a historic occasion, prefiguring the appearance of many more local as well as national Mashriqu’l‑Adhkárs, in obedience to Bahá’u’lláh’s commandment revealed in His Most Holy Book: “Build ye houses of worship throughout the lands in the name of Him Who is the Lord of all religions.”"
-      },
-      {
-        "text": "The emergence of a House of Worship in Battambang . . . is a testament to how brightly the light of faith shines in the hearts of the friends there. Its design, the work of an accomplished Cambodian architect, reflects the grace and beauty of that nation’s culture; it uses innovative techniques but blends them with forms traditional to the region; it unquestionably belongs to the land from which it has risen. Even before its dedication, the Temple has succeeded in elevating the consciousness of those who reside in its shadow about a theme that is integral to the Mashriqu’l‑Adhkár—the inseparability of worship and service in the life of a community. It has fostered a greater appreciation of the importance of unity, now reinforced through the collective worship that will occur within its walls. Its emergence is a spur to the efforts being made to nurture communities of spiritual distinction. It is an edifice of noble purpose, erected by a people of noble spirit."
-      }
-    ]
-  },
-  {
-    "path": ["Additional"],
-    "item": 348,
     "title": "From a letter dated 18 March 1974 to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1974.0318, 1974.0318],
@@ -5332,7 +5316,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 349,
+    "item": 348,
     "title": "From a letter dated 8 May 1984 to the National Spiritual Assembly of Brazil",
     "author": "The Universal House of Justice",
     "years": [1984.0508, 1984.0508],
@@ -5345,7 +5329,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 350,
+    "item": 349,
     "title": "From a letter dated 20 April 1997 to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1997.042, 1997.042],
@@ -5358,7 +5342,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 351,
+    "item": 350,
     "title": "From a letter dated 24 February 1998 to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1998.0224, 1998.0224],
@@ -5371,7 +5355,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 352,
+    "item": 351,
     "title": "From a letter dated 14 February 2001 to the National Spiritual Assembly of Australia",
     "author": "The Universal House of Justice",
     "years": [2001.0214, 2001.0214],
@@ -5390,7 +5374,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 353,
+    "item": 352,
     "title": "From a letter dated 27 December 2011 to the National Spiritual Assembly of Samoa",
     "author": "The Universal House of Justice",
     "years": [2011.1227, 2011.1227],
@@ -5409,7 +5393,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 354,
+    "item": 353,
     "title": "From a letter dated 10 December 2013 to the National Spiritual Assembly of Colombia",
     "author": "The Universal House of Justice",
     "years": [2013.121, 2013.121],
@@ -5422,7 +5406,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 355,
+    "item": 354,
     "title": "From a letter dated 24 September 2014 to the National Spiritual Assembly of Kenya",
     "author": "The Universal House of Justice",
     "years": [2014.0924, 2014.0924],
@@ -5435,7 +5419,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 356,
+    "item": 355,
     "title": "From a letter dated 26 January 2015 to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2015.0126, 2015.0126],
@@ -5454,7 +5438,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 357,
+    "item": 356,
     "title": "From a letter dated 2 November 2015 to the National Spiritual Assembly of Australia",
     "author": "The Universal House of Justice",
     "years": [2015.1102, 2015.1102],
@@ -5467,7 +5451,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 358,
+    "item": 357,
     "title": "From a letter dated 18 September 2005 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2005.0918, 2005.0918],
@@ -5480,7 +5464,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 359,
+    "item": 358,
     "title": "From a letter dated 12 December 2018 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2018.1212, 2018.1212],
@@ -5493,7 +5477,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 360,
+    "item": 359,
     "title": "From a letter dated 10 February 2011 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2011.021, 2011.021],
@@ -5506,7 +5490,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 361,
+    "item": 360,
     "title": "From a letter dated 16 March 1983 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1983.0316, 1983.0316],
@@ -5519,7 +5503,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 362,
+    "item": 361,
     "title": "From a letter dated 19 April 1981 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1981.0419, 1981.0419],
@@ -5532,7 +5516,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 363,
+    "item": 362,
     "title": "From a letter dated 29 December 1989 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1989.1229, 1989.1229],
@@ -5548,7 +5532,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 364,
+    "item": 363,
     "title": "From a letter dated 28 August 1994 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1994.0828, 1994.0828],
@@ -5561,7 +5545,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 365,
+    "item": 364,
     "title": "From a letter dated 3 November 1982 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1982.1103, 1982.1103],
@@ -5574,7 +5558,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 366,
+    "item": 365,
     "title": "From a letter dated 16 September 2013 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [2013.0916, 2013.0916],
@@ -5587,7 +5571,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 367,
+    "item": 366,
     "title": "From a letter dated 1 February 1968 written by the Universal House of Justice to the National Spiritual Assembly of the United States",
     "author": "The Universal House of Justice",
     "years": [1968.0201, 1968.0201],
@@ -5600,7 +5584,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 368,
+    "item": 367,
     "title": "From a letter dated 9 November 1982 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1982.1109, 1982.1109],
@@ -5641,7 +5625,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 369,
+    "item": 368,
     "title": "From a letter dated 23 July 1984 written on behalf of the Universal House of Justice to an individual believer",
     "author": "The Universal House of Justice",
     "years": [1984.0723, 1984.0723],
@@ -5654,7 +5638,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 370,
+    "item": 369,
     "title": "From an unpublished letter dated 6 February 2011 written on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [2011.0206, 2011.0206],
@@ -5667,7 +5651,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 371,
+    "item": 370,
     "title": "26 November 1974 to all National Spiritual Assemblies",
     "author": "The Universal House of Justice",
     "years": [1974.1126, 1974.1126],
@@ -5686,7 +5670,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 372,
+    "item": 371,
     "title": "7 June 1981 to the National Spiritual Assembly of Ireland",
     "author": "The Universal House of Justice",
     "years": [1981.0607, 1981.0607],
@@ -5699,7 +5683,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 373,
+    "item": 372,
     "title": "22 August 1983 to the National Spiritual Assembly of Bangladesh",
     "author": "The Universal House of Justice",
     "years": [1983.0822, 1983.0822],
@@ -5712,7 +5696,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 374,
+    "item": 373,
     "title": "18 October 1984 to the National Spiritual Assembly of the United States",
     "author": "The Universal House of Justice",
     "years": [1984.1018, 1984.1018],
@@ -5728,7 +5712,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 375,
+    "item": 374,
     "title": "10 October 1976 to the International Teaching Centre",
     "author": "The Universal House of Justice",
     "years": [1976.101, 1976.101],
@@ -5747,7 +5731,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 376,
+    "item": 375,
     "title": "1 October 1979 to the National Spiritual Assembly of Venezuela",
     "author": "The Universal House of Justice",
     "years": [1979.1001, 1979.1001],
@@ -5766,7 +5750,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 377,
+    "item": 376,
     "title": "12 September 1985 to the National Spiritual Assembly of St. Vincent and the Grenadines",
     "author": "The Universal House of Justice",
     "years": [1985.0912, 1985.0912],
@@ -5779,7 +5763,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 378,
+    "item": 377,
     "title": "18 December 1985 to the National Spiritual Assembly of Tuvalu",
     "author": "The Universal House of Justice",
     "years": [1985.1218, 1985.1218],
@@ -5792,7 +5776,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 379,
+    "item": 378,
     "title": "22 February 1971, by the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1971.0222, 1971.0222],
@@ -5808,7 +5792,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 380,
+    "item": 379,
     "title": "3 December 1972, by the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1972.1203, 1972.1203],
@@ -5821,7 +5805,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 381,
+    "item": 380,
     "title": "17 January 1973, by the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1973.0117, 1973.0117],
@@ -5834,7 +5818,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 382,
+    "item": 381,
     "title": "18 July 1974, by the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1974.0718, 1974.0718],
@@ -5850,7 +5834,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 383,
+    "item": 382,
     "title": "25 January 1977, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1977.0125, 1977.0125],
@@ -5863,7 +5847,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 384,
+    "item": 383,
     "title": "9 March 1977, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1977.0309, 1977.0309],
@@ -5876,7 +5860,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 385,
+    "item": 384,
     "title": "23 September 1980, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1980.0923, 1980.0923],
@@ -5892,7 +5876,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 386,
+    "item": 385,
     "title": "21 July 1982, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1982.0721, 1982.0721],
@@ -5908,7 +5892,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 387,
+    "item": 386,
     "title": "9 August 1983, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1983.0809, 1983.0809],
@@ -5921,7 +5905,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 388,
+    "item": 387,
     "title": "5 October 1983, on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1983.1005, 1983.1005],
@@ -5934,7 +5918,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 389,
+    "item": 388,
     "title": "3 September 1984, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1984.0903, 1984.0903],
@@ -5947,7 +5931,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 390,
+    "item": 389,
     "title": "23 June 1985, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1985.0623, 1985.0623],
@@ -5960,7 +5944,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 391,
+    "item": 390,
     "title": "20 August 1985, on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1985.082, 1985.082],
@@ -5976,7 +5960,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 392,
+    "item": 391,
     "title": "29 July 1971 to an individual",
     "author": "The Universal House of Justice",
     "years": [1971.0729, 1971.0729],
@@ -5989,7 +5973,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 393,
+    "item": 392,
     "title": "3 December 1972 to an individual",
     "author": "The Universal House of Justice",
     "years": [1972.1203, 1972.1203],
@@ -6002,7 +5986,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 394,
+    "item": 393,
     "title": "23 February 1987, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1987.0223, 1987.0223],
@@ -6030,7 +6014,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 395,
+    "item": 394,
     "title": "24 September 1987, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1987.0924, 1987.0924],
@@ -6067,7 +6051,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 396,
+    "item": 395,
     "title": "30 June 1988, on behalf of the Universal House of Justice to two individuals",
     "author": "The Universal House of Justice",
     "years": [1988.063, 1988.063],
@@ -6098,7 +6082,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 397,
+    "item": 396,
     "title": "4 January 1990, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1990.0104, 1990.0104],
@@ -6111,7 +6095,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 398,
+    "item": 397,
     "title": "15 February 1990, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1990.0215, 1990.0215],
@@ -6127,7 +6111,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 399,
+    "item": 398,
     "title": "9 April 1990, on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1990.0409, 1990.0409],
@@ -6140,7 +6124,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 400,
+    "item": 399,
     "title": "20 June 1991, on behalf of the Universal House of Justice to a National Spiritual Assembly",
     "author": "The Universal House of Justice",
     "years": [1991.062, 1991.062],
@@ -6159,7 +6143,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 401,
+    "item": 400,
     "title": "12 March 1992, on behalf of the Universal House of Justice to two individuals",
     "author": "The Universal House of Justice",
     "years": [1992.0312, 1992.0312],
@@ -6172,7 +6156,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 402,
+    "item": 401,
     "title": "15 February 1994, on behalf of the Universal House of Justice to an individual",
     "author": "The Universal House of Justice",
     "years": [1994.0215, 1994.0215],
@@ -6185,7 +6169,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 403,
+    "item": 402,
     "title": "22 April 2021, Bahá’í.org, The Training Institute",
     "author": "The Universal House of Justice",
     "years": [2021.0422, 2021.0422],

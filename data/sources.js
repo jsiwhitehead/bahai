@@ -1044,6 +1044,10 @@ export const files = {
       }),
       [/^— .* —$/gm, "#"],
       ...obligatory,
+      [
+        "* Whoso wisheth to recite this prayer",
+        (a) => `* To be recited once in twenty‑four hours\n\n${a}`,
+      ],
       [/We all, verily/g, "\n> We all, verily"],
       ["and to deny them not", "and deny them not"],
       ["what Thou hadst commanded", "what Thou hast commanded"],

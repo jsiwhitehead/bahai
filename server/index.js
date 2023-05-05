@@ -152,6 +152,7 @@ const documents = Object.keys(documentsBase).map((id) => {
       id,
       author: p.author || info.author,
       epoch: info.epoch,
+      years: info.years,
       ref: getRef(documentsBase[id], [i]),
       score:
         (p.type === "quote" ? [] : p.type === "lines" ? p.lines.flat() : p.text)
@@ -167,7 +168,7 @@ const documents = Object.keys(documentsBase).map((id) => {
       // ),
       ...p,
     }));
-  allParagraphs.push(...paras);
+  if (info.type !== "Prayer") allParagraphs.push(...paras);
 
   const fullWords = words.reduce((res, n) => res + n, 0);
   return {
@@ -220,6 +221,119 @@ const authors = {
   "Word of God": ["The Báb", "Bahá’u’lláh"],
 };
 
+const prayerCategories = {
+  ayyamiha: (text) => text.includes("ayyam‑i‑ha"),
+  nawruz: (text) => text.includes("naw‑ruz"),
+  washington: (text) => text.includes("washington"),
+  thedead: (text) => text.includes("the prayer for the dead"),
+  obligatory: (text) => text.includes("to be recited"),
+  narrative: (text) => ["The Purest Branch"].some((s) => text.includes(s)),
+  government: (text) =>
+    ["democracy", "government"].some((s) => text.includes(s)),
+  temple: (text) =>
+    ["mashriqu’l‑adhkar", "edifice"].some((s) => text.includes(s)),
+  fast: (text) => /\bthe fast\b/.test(text),
+  birth: (text) =>
+    ["my womb", "childless", "her mother", "pangs of labour"].some((s) =>
+      text.includes(s)
+    ),
+  parents: (text) =>
+    ["their parents. this", "my parents, and", "mother"].some((s) =>
+      text.includes(s)
+    ) && !text.includes("book"),
+  marriage: (text) => ["marri"].some((s) => text.includes(s)),
+  family: (text) => text.includes("this family"),
+  long: (text) => text.length > 1550,
+  journey: (text) => ["my home", "return"].every((s) => text.includes(s)),
+  morning: (text) =>
+    ["have wakened", "this morning"].some((s) => text.includes(s)) &&
+    !text.includes("evening"),
+  midnight: (text) => text.includes("midnight"),
+  healing: (text) =>
+    ["is sick", "sore sick", "is my remedy", "ocean of thy healing"].some((s) =>
+      text.includes(s)
+    ),
+  youth: (text) => ["youth", "stalk"].some((s) => text.includes(s)),
+  children: (text) =>
+    [
+      "babe",
+      "child",
+      "infant",
+      "seedling",
+      "tiny seed",
+      "twig",
+      "sapling",
+      "tender plant",
+      "little maidservant",
+      "little handmaid",
+    ].some((s) => text.includes(s)) && !text.includes("governor"),
+  departed: (text) =>
+    [
+      "ascended to",
+      "ascended unto",
+      "surviving",
+      "precious river",
+      "abandoned",
+      "admit them",
+    ].some((s) => text.includes(s)) && !text.includes("earth"),
+  women: (text) =>
+    ["daughter", "enable her", "from herself"].some((s) => text.includes(s)) ||
+    (text.includes("maid") && !/\b(servants|friends)\b/.test(text)),
+  tests: (text) =>
+    ["mischief", "enemies", "adversaries", "wicked", "repudiat"].some((s) =>
+      text.includes(s)
+    ),
+  gathering: (text) =>
+    [
+      "meeting",
+      "assembly",
+      "this assemblage",
+      "this gathering",
+      "these are",
+      "these servants are",
+      "these souls have",
+    ].some((s) => text.includes(s)),
+};
+
+const allPrayers = documents
+  .filter((d) => d.type === "Prayer")
+  .map((d) => {
+    const text = d.paragraphs
+      .map((p) =>
+        p.type === "lines"
+          ? p.lines.map((l) => l.map((t) => t.text).join("")).join(" ")
+          : p.text.map((t) => t.text).join("")
+      )
+      .join(" ")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase();
+    return {
+      ...d,
+      category:
+        Object.keys(prayerCategories).find((c) => prayerCategories[c](text)) ||
+        "general",
+    };
+  });
+
+const shuffleArray = (array) => {
+  // return array;
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+};
+
+const orderByDate = (array) => {
+  return array.sort(
+    (a, b) =>
+      a.years[0] + a.years[1] - (b.years[0] + b.years[1]) ||
+      a.id.localeCompare(b.id) ||
+      a.index - b.index
+  );
+};
+
 const router = new Router();
 router
   // .get("/", (ctx) => {
@@ -243,7 +357,7 @@ router
             "Compilation",
             "The Bible",
             "Muḥammad",
-          ].includes(d.author) && d.type !== "Prayer"
+          ].includes(d.author)
       )
       .filter(
         (d) =>
@@ -282,10 +396,11 @@ router
   .post("/prayers", (ctx) => {
     const { author } = ctx.request.body;
     const allAuthors = authors[author] || (author && [author]);
-    ctx.body = documents
-      .filter((d) => d.type === "Prayer")
-      .filter((d) => !author || allAuthors.includes(d.author))
-      .sort((a, b) => a.length - b.length || a.id.localeCompare(b.id));
+    ctx.body = shuffleArray(
+      allPrayers
+        .filter((d) => !author || allAuthors.includes(d.author))
+        .sort((a, b) => a.length - b.length || a.id.localeCompare(b.id))
+    );
   })
   .post("/documentById", (ctx) => {
     const { id } = ctx.request.body;

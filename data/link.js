@@ -276,7 +276,9 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
         if (!para.base.id) {
           const inlineQuotes = [
             ...para.text.split(/“([^”]+)”/g).filter((_, i) => i % 2 === 1),
-            ...para.text.split(/‘([^’]+)’/g).filter((_, i) => i % 2 === 1),
+            ...para.text
+              .split(/‘((?:’[a-z\u00C0-\u017F]|[^’])+)’/g)
+              .filter((_, i) => i % 2 === 1),
           ].map((text) => {
             const parts = text.split(/(\s*(?:\. \. \.|\[[^\]]*\])\s*)/g);
             const simplified = parts.map((s) => simplifyText(s));
