@@ -373,6 +373,10 @@
           "paragraph": 13
         },
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 76
+        },
+        {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 159
         },
@@ -392,6 +396,11 @@
       "parts": [
         {
           "start": 108,
+          "end": 211,
+          "count": 5
+        },
+        {
+          "start": 211,
           "end": 212,
           "count": 4
         },
@@ -1392,6 +1401,10 @@
     "75": {
       "refs": [
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 69
+        },
+        {
           "id": "world-centre-bahai-org-001",
           "paragraph": 156
         }
@@ -1399,6 +1412,11 @@
       "parts": [
         {
           "start": 338,
+          "end": 782,
+          "count": 2
+        },
+        {
+          "start": 782,
           "end": 783,
           "count": 1
         }
@@ -8814,6 +8832,10 @@
     "17": {
       "refs": [
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 95
+        },
+        {
           "id": "compilations-social-action-001",
           "paragraph": 289
         }
@@ -8821,6 +8843,16 @@
       "parts": [
         {
           "start": 0,
+          "end": 76,
+          "count": 1
+        },
+        {
+          "start": 76,
+          "end": 154,
+          "count": 2
+        },
+        {
+          "start": 154,
           "end": 335,
           "count": 1
         }
@@ -9368,6 +9400,10 @@
           "paragraph": 6
         },
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 70
+        },
+        {
           "id": "official-statements-commentaries-bahaullah-001",
           "paragraph": 124
         },
@@ -9390,7 +9426,7 @@
         {
           "start": 326,
           "end": 1019,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -26470,18 +26506,27 @@
         {
           "id": "shoghi-effendi-advent-divine-justice-001",
           "paragraph": 52
+        },
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 74
         }
       ],
       "parts": [
         {
           "start": 388,
           "end": 400,
+          "count": 2
+        },
+        {
+          "start": 400,
+          "end": 401,
           "count": 1
         },
         {
           "start": 401,
           "end": 942,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -27085,6 +27130,10 @@
     "16": {
       "refs": [
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 6
+        },
+        {
           "id": "ruhi-junior-youth-texts-005",
           "paragraph": 2
         },
@@ -27097,12 +27146,12 @@
         {
           "start": 0,
           "end": 80,
-          "count": 2
+          "count": 3
         },
         {
           "start": 80,
           "end": 351,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -28893,6 +28942,35 @@
     }
   },
   "abdul-baha-promulgation-universal-peace-063": {
+    "6": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 12
+        },
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 11
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 933,
+          "count": 1
+        },
+        {
+          "start": 933,
+          "end": 1001,
+          "count": 1
+        },
+        {
+          "start": 1001,
+          "end": 1002,
+          "count": 1
+        }
+      ]
+    },
     "15": {
       "refs": [
         {
@@ -32923,6 +33001,10 @@
           "paragraph": 118
         },
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 93
+        },
+        {
           "id": "compilations-institution-mashriqul-adhkar-001",
           "paragraph": 63
         },
@@ -32944,7 +33026,7 @@
         {
           "start": 310,
           "end": 574,
-          "count": 3
+          "count": 4
         },
         {
           "start": 574,
@@ -35057,6 +35139,21 @@
         {
           "start": 298,
           "end": 597,
+          "count": 1
+        }
+      ]
+    },
+    "31": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 107
+        }
+      ],
+      "parts": [
+        {
+          "start": 13,
+          "end": 273,
           "count": 1
         }
       ]
@@ -38101,6 +38198,21 @@
           "start": 0,
           "end": 131,
           "count": 2
+        }
+      ]
+    },
+    "21": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 20
+        }
+      ],
+      "parts": [
+        {
+          "start": 385,
+          "end": 512,
+          "count": 1
         }
       ]
     },
@@ -42285,6 +42397,10 @@
           "paragraph": 116
         },
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 115
+        },
+        {
           "id": "the-universal-house-of-justice-messages-225",
           "paragraph": 13
         },
@@ -42373,10 +42489,15 @@
         {
           "start": 0,
           "end": 190,
-          "count": 8
+          "count": 9
         },
         {
           "start": 190,
+          "end": 357,
+          "count": 8
+        },
+        {
+          "start": 357,
           "end": 358,
           "count": 7
         },
@@ -42477,6 +42598,11 @@
         },
         {
           "start": 1900,
+          "end": 2054,
+          "count": 5
+        },
+        {
+          "start": 2054,
           "end": 2055,
           "count": 4
         },
@@ -42498,7 +42624,7 @@
         {
           "start": 2354,
           "end": 2585,
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -42511,6 +42637,10 @@
         {
           "id": "compilations-peace-001",
           "paragraph": 118
+        },
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 116
         },
         {
           "id": "bahaullah-kitab-i-aqdas-200",
@@ -42537,27 +42667,27 @@
         {
           "start": 0,
           "end": 215,
-          "count": 2
+          "count": 3
         },
         {
           "start": 215,
           "end": 442,
-          "count": 3
+          "count": 4
         },
         {
           "start": 442,
           "end": 443,
-          "count": 1
+          "count": 2
         },
         {
           "start": 443,
           "end": 1027,
-          "count": 4
+          "count": 5
         },
         {
           "start": 1027,
           "end": 1100,
-          "count": 5
+          "count": 6
         }
       ]
     },
@@ -42566,6 +42696,10 @@
         {
           "id": "compilations-peace-001",
           "paragraph": 119
+        },
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 117
         },
         {
           "id": "the-universal-house-of-justice-messages-225",
@@ -42584,7 +42718,7 @@
         {
           "start": 0,
           "end": 598,
-          "count": 4
+          "count": 5
         }
       ]
     },
@@ -53515,12 +53649,31 @@
         {
           "id": "the-universal-house-of-justice-messages-082",
           "paragraph": 13
+        },
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 22
         }
       ],
       "parts": [
         {
           "start": 0,
+          "end": 252,
+          "count": 2
+        },
+        {
+          "start": 252,
+          "end": 574,
+          "count": 1
+        },
+        {
+          "start": 574,
           "end": 1177,
+          "count": 2
+        },
+        {
+          "start": 1177,
+          "end": 1519,
           "count": 1
         }
       ]
@@ -64885,6 +65038,10 @@
     "14": {
       "refs": [
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 4
+        },
+        {
           "id": "ruhi9-001",
           "paragraph": 11
         },
@@ -64902,7 +65059,7 @@
         {
           "start": 173,
           "end": 885,
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -65932,6 +66089,21 @@
     }
   },
   "abdul-baha-selections-writings-abdul-baha-226": {
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 15
+        }
+      ],
+      "parts": [
+        {
+          "start": 17,
+          "end": 174,
+          "count": 1
+        }
+      ]
+    },
     "3": {
       "refs": [
         {
@@ -65955,14 +66127,53 @@
     "4": {
       "refs": [
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 16
+        },
+        {
           "id": "compilations-social-action-001",
           "paragraph": 88
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 9,
+          "count": 1
+        },
+        {
           "start": 9,
           "end": 546,
+          "count": 2
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1080,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 478,
           "count": 1
         }
       ]
@@ -66015,15 +66226,24 @@
     "17": {
       "refs": [
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 44
+        },
+        {
           "id": "ruhi10-001",
           "paragraph": 54
         }
       ],
       "parts": [
         {
+          "start": 12,
+          "end": 928,
+          "count": 1
+        },
+        {
           "start": 928,
           "end": 1173,
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -66047,11 +66267,45 @@
         }
       ]
     },
+    "19": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 88
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 468,
+          "count": 1
+        }
+      ]
+    },
+    "22": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 348,
+          "end": 422,
+          "count": 1
+        }
+      ]
+    },
     "23": {
       "refs": [
         {
           "id": "the-universal-house-of-justice-messages-207",
           "paragraph": 9
+        },
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 49
         },
         {
           "id": "the-universal-house-of-justice-messages-484",
@@ -66062,21 +66316,26 @@
         {
           "start": 0,
           "end": 8,
-          "count": 2
+          "count": 3
         },
         {
           "start": 8,
           "end": 9,
-          "count": 1
+          "count": 2
         },
         {
           "start": 9,
           "end": 33,
-          "count": 2
+          "count": 3
         },
         {
           "start": 33,
           "end": 288,
+          "count": 2
+        },
+        {
+          "start": 288,
+          "end": 704,
           "count": 1
         }
       ]
@@ -66088,13 +66347,27 @@
           "paragraph": 9
         },
         {
+          "id": "world-centre-conservation-001",
+          "paragraph": 50
+        },
+        {
           "id": "the-universal-house-of-justice-messages-484",
           "paragraph": 12
         }
       ],
       "parts": [
         {
+          "start": 0,
+          "end": 175,
+          "count": 1
+        },
+        {
           "start": 175,
+          "end": 279,
+          "count": 2
+        },
+        {
+          "start": 279,
           "end": 280,
           "count": 1
         },
@@ -69604,6 +69877,1210 @@
         {
           "start": 0,
           "end": 328,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-403": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 13
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 450,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-394": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 28
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 241,
+          "count": 1
+        },
+        {
+          "start": 241,
+          "end": 543,
+          "count": 2
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 29
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 41
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 500,
+          "count": 2
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 30
+        },
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 826,
+          "count": 2
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 43
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 512,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 44
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-476",
+          "paragraph": 6
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 647,
+          "count": 1
+        },
+        {
+          "start": 647,
+          "end": 709,
+          "count": 2
+        },
+        {
+          "start": 709,
+          "end": 835,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 45
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 756,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 698,
+          "count": 1
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 294,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "compilations-huququllah-right-god-001",
+          "paragraph": 48
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 69,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-138": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 32
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 154
+        }
+      ],
+      "parts": [
+        {
+          "start": 31,
+          "end": 325,
+          "count": 2
+        },
+        {
+          "start": 325,
+          "end": 326,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-some-answered-questions-003": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 35
+        },
+        {
+          "id": "ruhi-junior-youth-texts-012",
+          "paragraph": 39
+        },
+        {
+          "id": "ruhi-junior-youth-texts-003",
+          "paragraph": 0
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 144,
+          "count": 3
+        },
+        {
+          "start": 144,
+          "end": 611,
+          "count": 2
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 36
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 565,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 37
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 359,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 38
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 423,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-282": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 41
+        },
+        {
+          "id": "ruhi9-001",
+          "paragraph": 97
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 437,
+          "count": 2
+        },
+        {
+          "start": 444,
+          "end": 499,
+          "count": 2
+        },
+        {
+          "start": 499,
+          "end": 551,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-467": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 42
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 712,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-paris-talks-020": {
+    "14": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 46
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 241,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-096": {
+    "5": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 52
+        }
+      ],
+      "parts": [
+        {
+          "start": 13,
+          "end": 548,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "ruhi-junior-youth-texts-012",
+          "paragraph": 81
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 664,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-some-answered-questions-017": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 55
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 100,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 56
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 457,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 57
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 682,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 58
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 370,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 71
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1127,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-106": {
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 61
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 1120,
+          "count": 1
+        }
+      ]
+    },
+    "9": {
+      "refs": [
+        {
+          "id": "ruhi-junior-youth-texts-011",
+          "paragraph": 10
+        }
+      ],
+      "parts": [
+        {
+          "start": 1034,
+          "end": 1272,
+          "count": 1
+        }
+      ]
+    },
+    "10": {
+      "refs": [
+        {
+          "id": "ruhi5-001",
+          "paragraph": 182
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 395,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-some-answered-questions-005": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 62
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 147,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 63
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 539,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 64
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 292,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "ruhi-junior-youth-texts-012",
+          "paragraph": 0
+        }
+      ],
+      "parts": [
+        {
+          "start": 65,
+          "end": 269,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "ruhi-junior-youth-texts-012",
+          "paragraph": 1
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 276,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "ruhi-junior-youth-texts-012",
+          "paragraph": 2
+        },
+        {
+          "id": "world-centre-worldwide-conference-materials-001",
+          "paragraph": 35
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 338,
+          "count": 2
+        }
+      ]
+    },
+    "7": {
+      "refs": [
+        {
+          "id": "ruhi-junior-youth-texts-012",
+          "paragraph": 17
+        }
+      ],
+      "parts": [
+        {
+          "start": 5,
+          "end": 479,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "ruhi-junior-youth-texts-012",
+          "paragraph": 3
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 543,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-139": {
+    "0": {
+      "refs": [
+        {
+          "id": "ruhi3-001",
+          "paragraph": 247
+        }
+      ],
+      "parts": [
+        {
+          "start": 26,
+          "end": 148,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 79
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 480,
+          "count": 1
+        }
+      ]
+    },
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 80
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 772,
+          "count": 1
+        }
+      ]
+    },
+    "3": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 81
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 259,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 82
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 163,
+          "count": 1
+        },
+        {
+          "start": 686,
+          "end": 894,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-468": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 84
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 66,
+          "count": 1
+        },
+        {
+          "start": 73,
+          "end": 459,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-101": {
+    "2": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 87
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 365,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-110": {
+    "7": {
+      "refs": [
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 155
+        }
+      ],
+      "parts": [
+        {
+          "start": 901,
+          "end": 1394,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 90
+        }
+      ],
+      "parts": [
+        {
+          "start": 423,
+          "end": 867,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-105": {
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 91
+        }
+      ],
+      "parts": [
+        {
+          "start": 1116,
+          "end": 1261,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-012": {
+    "3": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 101
+        },
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 100
+        }
+      ],
+      "parts": [
+        {
+          "start": 539,
+          "end": 655,
+          "count": 1
+        },
+        {
+          "start": 983,
+          "end": 1045,
+          "count": 1
+        },
+        {
+          "start": 1078,
+          "end": 1213,
+          "count": 1
+        }
+      ]
+    },
+    "4": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 102
+        },
+        {
+          "id": "ruhi-junior-youth-texts-012",
+          "paragraph": 40
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 353,
+          "count": 1
+        },
+        {
+          "start": 353,
+          "end": 700,
+          "count": 2
+        },
+        {
+          "start": 700,
+          "end": 948,
+          "count": 1
+        }
+      ]
+    },
+    "5": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 103
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 150,
+          "count": 1
+        }
+      ]
+    },
+    "6": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 105
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 254,
+          "count": 1
+        }
+      ]
+    },
+    "8": {
+      "refs": [
+        {
+          "id": "ruhi11-001",
+          "paragraph": 47
+        }
+      ],
+      "parts": [
+        {
+          "start": 1601,
+          "end": 1985,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-192": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 120
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-418",
+          "paragraph": 37
+        },
+        {
+          "id": "ruhi9-001",
+          "paragraph": 397
+        },
+        {
+          "id": "ruhi13-001",
+          "paragraph": 146
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 115
+        },
+        {
+          "id": "ruhi5-001",
+          "paragraph": 79
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 161
+        },
+        {
+          "id": "world-centre-bahai-org-001",
+          "paragraph": 196
+        },
+        {
+          "id": "the-universal-house-of-justice-messages-484",
+          "paragraph": 18
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 67,
+          "count": 8
+        },
+        {
+          "start": 67,
+          "end": 68,
+          "count": 7
+        },
+        {
+          "start": 68,
+          "end": 363,
+          "count": 8
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 121
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 548,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-shoghi-effendi-612": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 123
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 217,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-404": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 125
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 372,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-the-universal-house-of-justice-405": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 127
+        }
+      ],
+      "parts": [
+        {
+          "start": 6,
+          "end": 235,
+          "count": 1
+        }
+      ]
+    },
+    "1": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 128
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 524,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "the-universal-house-of-justice-messages-211": {
+    "4": {
+      "refs": [
+        {
+          "id": "world-centre-entry-by-troops-001",
+          "paragraph": 156
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 859,
+          "count": 1
+        }
+      ]
+    },
+    "12": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 130
+        }
+      ],
+      "parts": [
+        {
+          "start": 789,
+          "end": 901,
+          "count": 1
+        }
+      ]
+    },
+    "14": {
+      "refs": [
+        {
+          "id": "world-centre-entry-by-troops-001",
+          "paragraph": 24
+        },
+        {
+          "id": "world-centre-entry-by-troops-001",
+          "paragraph": 157
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 439,
+          "count": 1
+        },
+        {
+          "start": 439,
+          "end": 847,
+          "count": 1
+        },
+        {
+          "start": 847,
+          "end": 1008,
+          "count": 1
+        }
+      ]
+    },
+    "15": {
+      "refs": [
+        {
+          "id": "world-centre-entry-by-troops-001",
+          "paragraph": 158
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 738,
+          "count": 1
+        }
+      ]
+    },
+    "16": {
+      "refs": [
+        {
+          "id": "world-centre-entry-by-troops-001",
+          "paragraph": 159
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 152,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-selections-writings-abdul-baha-221": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 133
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 399,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "abdul-baha-promulgation-universal-peace-007": {
+    "3": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 34
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 80,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "additional-abdul-baha-114": {
+    "0": {
+      "refs": [
+        {
+          "id": "world-centre-conservation-001",
+          "paragraph": 97
+        },
+        {
+          "id": "compilations-social-action-001",
+          "paragraph": 298
+        }
+      ],
+      "parts": [
+        {
+          "start": 0,
+          "end": 324,
+          "count": 1
+        },
+        {
+          "start": 324,
+          "end": 436,
+          "count": 2
+        },
+        {
+          "start": 436,
+          "end": 437,
           "count": 1
         }
       ]
@@ -83797,82 +85274,6 @@
         {
           "start": 741,
           "end": 1237,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "the-universal-house-of-justice-messages-211": {
-    "4": {
-      "refs": [
-        {
-          "id": "world-centre-entry-by-troops-001",
-          "paragraph": 156
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 859,
-          "count": 1
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "world-centre-entry-by-troops-001",
-          "paragraph": 24
-        },
-        {
-          "id": "world-centre-entry-by-troops-001",
-          "paragraph": 157
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 439,
-          "count": 1
-        },
-        {
-          "start": 439,
-          "end": 847,
-          "count": 1
-        },
-        {
-          "start": 847,
-          "end": 1008,
-          "count": 1
-        }
-      ]
-    },
-    "15": {
-      "refs": [
-        {
-          "id": "world-centre-entry-by-troops-001",
-          "paragraph": 158
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 738,
-          "count": 1
-        }
-      ]
-    },
-    "16": {
-      "refs": [
-        {
-          "id": "world-centre-entry-by-troops-001",
-          "paragraph": 159
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 152,
           "count": 1
         }
       ]
@@ -106621,38 +108022,6 @@
       ]
     }
   },
-  "abdul-baha-promulgation-universal-peace-106": {
-    "9": {
-      "refs": [
-        {
-          "id": "ruhi-junior-youth-texts-011",
-          "paragraph": 10
-        }
-      ],
-      "parts": [
-        {
-          "start": 1034,
-          "end": 1272,
-          "count": 1
-        }
-      ]
-    },
-    "10": {
-      "refs": [
-        {
-          "id": "ruhi5-001",
-          "paragraph": 182
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 395,
-          "count": 1
-        }
-      ]
-    }
-  },
   "prayers-140": {
     "0": {
       "refs": [
@@ -108389,157 +109758,6 @@
         {
           "start": 0,
           "end": 553,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "additional-abdul-baha-394": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 40
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 543,
-          "count": 1
-        }
-      ]
-    },
-    "1": {
-      "refs": [
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 41
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 500,
-          "count": 1
-        }
-      ]
-    },
-    "2": {
-      "refs": [
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 42
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 826,
-          "count": 1
-        }
-      ]
-    },
-    "3": {
-      "refs": [
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 43
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 512,
-          "count": 1
-        }
-      ]
-    },
-    "4": {
-      "refs": [
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 44
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-476",
-          "paragraph": 6
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 647,
-          "count": 1
-        },
-        {
-          "start": 647,
-          "end": 709,
-          "count": 2
-        },
-        {
-          "start": 709,
-          "end": 835,
-          "count": 1
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 45
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 756,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 46
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 698,
-          "count": 1
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 47
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 294,
-          "count": 1
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "compilations-huququllah-right-god-001",
-          "paragraph": 48
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 69,
           "count": 1
         }
       ]
@@ -114098,61 +115316,6 @@
       ]
     }
   },
-  "additional-shoghi-effendi-192": {
-    "0": {
-      "refs": [
-        {
-          "id": "the-universal-house-of-justice-messages-418",
-          "paragraph": 37
-        },
-        {
-          "id": "ruhi9-001",
-          "paragraph": 397
-        },
-        {
-          "id": "ruhi13-001",
-          "paragraph": 146
-        },
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 115
-        },
-        {
-          "id": "ruhi5-001",
-          "paragraph": 79
-        },
-        {
-          "id": "world-centre-bahai-org-001",
-          "paragraph": 161
-        },
-        {
-          "id": "world-centre-bahai-org-001",
-          "paragraph": 196
-        },
-        {
-          "id": "the-universal-house-of-justice-messages-484",
-          "paragraph": 18
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 67,
-          "count": 7
-        },
-        {
-          "start": 67,
-          "end": 68,
-          "count": 6
-        },
-        {
-          "start": 68,
-          "end": 363,
-          "count": 7
-        }
-      ]
-    }
-  },
   "the-universal-house-of-justice-messages-377": {
     "4": {
       "refs": [
@@ -114315,87 +115478,6 @@
         {
           "start": 264,
           "end": 852,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-some-answered-questions-005": {
-    "4": {
-      "refs": [
-        {
-          "id": "ruhi-junior-youth-texts-012",
-          "paragraph": 0
-        }
-      ],
-      "parts": [
-        {
-          "start": 65,
-          "end": 269,
-          "count": 1
-        }
-      ]
-    },
-    "5": {
-      "refs": [
-        {
-          "id": "ruhi-junior-youth-texts-012",
-          "paragraph": 1
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 276,
-          "count": 1
-        }
-      ]
-    },
-    "6": {
-      "refs": [
-        {
-          "id": "ruhi-junior-youth-texts-012",
-          "paragraph": 2
-        },
-        {
-          "id": "world-centre-worldwide-conference-materials-001",
-          "paragraph": 35
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 338,
-          "count": 2
-        }
-      ]
-    },
-    "7": {
-      "refs": [
-        {
-          "id": "ruhi-junior-youth-texts-012",
-          "paragraph": 17
-        }
-      ],
-      "parts": [
-        {
-          "start": 5,
-          "end": 479,
-          "count": 1
-        }
-      ]
-    },
-    "14": {
-      "refs": [
-        {
-          "id": "ruhi-junior-youth-texts-012",
-          "paragraph": 3
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 543,
           "count": 1
         }
       ]
@@ -114879,64 +115961,6 @@
       ]
     }
   },
-  "abdul-baha-some-answered-questions-003": {
-    "1": {
-      "refs": [
-        {
-          "id": "ruhi-junior-youth-texts-012",
-          "paragraph": 39
-        },
-        {
-          "id": "ruhi-junior-youth-texts-003",
-          "paragraph": 0
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 144,
-          "count": 2
-        },
-        {
-          "start": 144,
-          "end": 611,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-promulgation-universal-peace-012": {
-    "4": {
-      "refs": [
-        {
-          "id": "ruhi-junior-youth-texts-012",
-          "paragraph": 40
-        }
-      ],
-      "parts": [
-        {
-          "start": 353,
-          "end": 700,
-          "count": 1
-        }
-      ]
-    },
-    "8": {
-      "refs": [
-        {
-          "id": "ruhi11-001",
-          "paragraph": 47
-        }
-      ],
-      "parts": [
-        {
-          "start": 1601,
-          "end": 1985,
-          "count": 1
-        }
-      ]
-    }
-  },
   "abdul-baha-promulgation-universal-peace-112": {
     "7": {
       "refs": [
@@ -114973,23 +115997,6 @@
         {
           "start": 2359,
           "end": 2805,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-promulgation-universal-peace-096": {
-    "14": {
-      "refs": [
-        {
-          "id": "ruhi-junior-youth-texts-012",
-          "paragraph": 81
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 664,
           "count": 1
         }
       ]
@@ -126005,28 +127012,6 @@
       ]
     }
   },
-  "additional-abdul-baha-282": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi9-001",
-          "paragraph": 97
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 437,
-          "count": 1
-        },
-        {
-          "start": 444,
-          "end": 499,
-          "count": 1
-        }
-      ]
-    }
-  },
   "bahaullah-gleanings-writings-bahaullah-095": {
     "0": {
       "refs": [
@@ -131639,23 +132624,6 @@
       ]
     }
   },
-  "additional-abdul-baha-114": {
-    "0": {
-      "refs": [
-        {
-          "id": "compilations-social-action-001",
-          "paragraph": 298
-        }
-      ],
-      "parts": [
-        {
-          "start": 0,
-          "end": 437,
-          "count": 1
-        }
-      ]
-    }
-  },
   "additional-shoghi-effendi-204": {
     "0": {
       "refs": [
@@ -133749,23 +134717,6 @@
         {
           "start": 0,
           "end": 125,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-139": {
-    "0": {
-      "refs": [
-        {
-          "id": "ruhi3-001",
-          "paragraph": 247
-        }
-      ],
-      "parts": [
-        {
-          "start": 26,
-          "end": 148,
           "count": 1
         }
       ]
@@ -137066,40 +138017,6 @@
         {
           "start": 0,
           "end": 238,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-selections-writings-abdul-baha-138": {
-    "1": {
-      "refs": [
-        {
-          "id": "world-centre-bahai-org-001",
-          "paragraph": 154
-        }
-      ],
-      "parts": [
-        {
-          "start": 31,
-          "end": 326,
-          "count": 1
-        }
-      ]
-    }
-  },
-  "abdul-baha-promulgation-universal-peace-110": {
-    "7": {
-      "refs": [
-        {
-          "id": "world-centre-bahai-org-001",
-          "paragraph": 155
-        }
-      ],
-      "parts": [
-        {
-          "start": 901,
-          "end": 1394,
           "count": 1
         }
       ]
