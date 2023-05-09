@@ -396,11 +396,9 @@ router
   .post("/prayers", (ctx) => {
     const { author } = ctx.request.body;
     const allAuthors = authors[author] || (author && [author]);
-    ctx.body = shuffleArray(
-      allPrayers
-        .filter((d) => !author || allAuthors.includes(d.author))
-        .sort((a, b) => a.length - b.length || a.id.localeCompare(b.id))
-    );
+    ctx.body = allPrayers
+      .filter((d) => !author || allAuthors.includes(d.author))
+      .sort((a, b) => a.length - b.length || a.id.localeCompare(b.id));
   })
   .post("/documentById", (ctx) => {
     const { id } = ctx.request.body;
