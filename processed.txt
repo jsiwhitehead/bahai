@@ -4,7 +4,7 @@ Themes:
 - Illumination
 - Longing
 - Abundance
-- Mercy
+- Redemption
 - Steadfastness
 - Unity
 
@@ -22,7 +22,7 @@ He is God! O God, my God! Bestow upon me a pure heart, like unto a pearl.
 - Illumination
 O God, guide me, protect me, make of me a shining lamp and a brilliant star. Thou art the Mighty and the Powerful.
 
-- Mercy
+- Unity
 Is there any Remover of difficulties save God? Say: Praised be God! He is God! All are His servants, and all abide by His bidding!
 
 - Abundance
@@ -52,13 +52,13 @@ O God! Grant Thy favour, and bestow Thy blessing. Vouchsafe Thy grace, and give 
 O my God, aid Thou Thy servant to raise up the Word, and to refute what is vain and false, to establish the truth, to spread the sacred verses abroad, reveal the splendours, and make the morning’s light to dawn in the hearts of the righteous.
 Thou art, verily, the Generous, the Forgiving.
 
-- Mercy
+- Redemption
 O Lord! Thou art the Remover of every anguish and the Dispeller of every affliction. Thou art He Who banisheth every sorrow and setteth free every slave, the Redeemer of every soul. O Lord! Grant deliverance through Thy mercy, and reckon me among such servants of Thine as have gained salvation.
 
 - Illumination
 I beseech Thee, O my God, by all the transcendent glory of Thy Name, to clothe Thy loved ones in the robe of justice and to illumine their beings with the light of trustworthiness. Thou art the One that hath power to do as He pleaseth and Who holdeth within His grasp the reins of all things, visible and invisible.
 
-- Mercy
+- Illumination
 O my Lord! O my Lord! This is a lamp lighted by the fire of Thy love and ablaze with the flame which is ignited in the tree of Thy mercy. O my Lord! Increase his enkindlement, heat and flame, with the fire which is kindled in the Sinai of Thy Manifestation. Verily, Thou art the Confirmer, the Assister, the Powerful, the Generous, the Loving.
 
 - Steadfastness
@@ -79,7 +79,7 @@ O my God, my Lord and my Master! I have detached myself from my kindred and have
 - Unity
 O my God! O my God! Unite the hearts of Thy servants, and reveal to them Thy great purpose. May they follow Thy commandments and abide in Thy law. Help them, O God, in their endeavour, and grant them strength to serve Thee. O God! Leave them not to themselves, but guide their steps by the light of Thy knowledge, and cheer their hearts by Thy love. Verily, Thou art their Helper and their Lord.
 
-- Mercy
+- Redemption
 Praise be unto Thee, O Lord. Forgive us our sins, have mercy upon us and enable us to return unto Thee. Suffer us not to rely on aught else besides Thee, and vouchsafe unto us, through Thy bounty, that which Thou lovest and desirest and well beseemeth Thee. Exalt the station of them that have truly believed, and forgive them with Thy gracious forgiveness. Verily, Thou art the Help in Peril, the Self‑Subsisting.
 
 - Longing
@@ -102,7 +102,7 @@ Verily, art Thou the Invincible, the Almighty, the All‑Powerful.
 - Longing
 I beg Thee to forgive me, O my Lord, for every mention but the mention of Thee, and for every praise but the praise of Thee, and for every delight but delight in Thy nearness, and for every pleasure but the pleasure of communion with Thee, and for every joy but the joy of Thy love and of Thy good‑pleasure, and for all things pertaining unto me which bear no relationship unto Thee, O Thou Who art the Lord of lords, He Who provideth the means and unlocketh the doors.
 
-- Mercy
+- Steadfastness
 O Lord! Unto Thee I repair for refuge, and toward all Thy signs I set my heart.
 O Lord! Whether travelling or at home, and in my occupation or in my work, I place my whole trust in Thee.
 Grant me then Thy sufficing help so as to make me independent of all things, O Thou Who art unsurpassed in Thy mercy!
@@ -124,7 +124,7 @@ O God, my God! Thou seest how Thy servant hath set his face towards Thee and des
 O my God, the God of bounty and mercy! Thou art that King by Whose commanding word the whole creation hath been called into being; and Thou art that All‑Bountiful One the doings of Whose servants have never hindered Him from showing forth His grace, nor have they frustrated the revelations of His bounty.
 Suffer this servant, I beseech Thee, to attain unto that which is the cause of his salvation in every world of Thy worlds. Thou art, verily, the Almighty, the Most Powerful, the All‑Knowing, the All‑Wise.
 
-- Mercy
+- Redemption
 In the name of God, the Forgiver!
 Although this wretched state in which I am, O my God, maketh me deserving of Thy wrath and punishment, yet it beseemeth Thy good‑pleasure and Thy bounties to confer Thy forgiveness on Thy servants and to bestow Thy good favour upon them. I ask Thee by Thy Name, which Thou hast made the King of all names, to protect me by Thy power and Thine omnipotence from all calamity and all that is repugnant to Thee, and from all that is contrary to Thy will. Thou art supreme over all things.
 
@@ -151,7 +151,7 @@ Praise be unto Thee, O Lord my God! I beseech Thee by Thy Most Exalted Name in t
 He is the All‑Glorious.
 O my Lord, my King, my Ruler, and my Sovereign! I call upon Thee with my tongue, my heart, and my soul, saying: Clothe this servant of Thine with the robe of Thy care, the raiment of Thine unfailing help, and the armour of Thy protection. Assist him to make mention of Thee and to extol Thy virtues amidst Thy people, and unloose his tongue to utter Thy glorification and praise in every assemblage held to celebrate Thy unity and sanctity. Thou art, in truth, the Mighty, the Powerful, the All‑Glorious, the Self‑Subsisting.
 
-- Mercy
+- Longing
 O my God, my Master, the Goal of my desire! This, Thy servant, seeketh to sleep in the shelter of Thy mercy, and to repose beneath the canopy of Thy grace, imploring Thy care and Thy protection.
 I beg of Thee, O my Lord, by Thine eye that sleepeth not, to guard mine eyes from beholding aught beside Thee. Strengthen, then, their vision that they may discern Thy signs, and behold the Horizon of Thy Revelation. Thou art He before the revelations of Whose omnipotence the quintessence of power hath trembled.
 No God is there but Thee, the Almighty, the All‑Subduing, the Unconditioned.
@@ -163,10 +163,10 @@ Thou, truly, art the King of all men. There is no God but Thee, the Ever‑Forgi
 - Abundance
 O Lord! Grant me a measure of Thy grace and loving‑kindness, Thy care and protection, Thy shelter and bounty, that the end of my days may be distinguished above their beginning, and the close of my life may open the portals to Thy manifold blessings. May Thy loving‑kindness and bounty descend upon me at every moment, and Thy forgiveness and mercy be vouchsafed with every breath, until, beneath the sheltering shadow of Thine upraised Standard, I may at last repair to the Kingdom of the All‑Praised. Thou art the Bestower and the Ever‑Loving, and Thou art, verily, the Lord of grace and bounty.
 
-- Mercy
+- Redemption
 O Divine Providence! Perplexing difficulties have arisen and formidable obstacles have appeared. O Lord! Remove these difficulties and show forth the evidences of Thy might and power. Ease these hardships and smooth our way along this arduous path. O Divine Providence! The obstacles are unyielding, and our toil and hardship are conjoined with a myriad adversities. There is no helper save Thee, and no succourer except Thyself. We set all our hopes on Thee, and commit all our affairs unto Thy care. Thou art the Guide and the Remover of every difficulty, and Thou art the Wise, the Seeing, and the Hearing.
 
-- Mercy
+- Redemption
 O Thou incomparable God! We are Thy humble servants, and Thou art the All‑Glorious. We are sinners, and Thou art the Ever‑Forgiving. We are captives, poor and lowly, and Thou art our shelter and our aid. We are as tiny ants, and Thou art the Lord of majesty, enthroned in the highest heaven. Protect us, as a token of Thy grace, and withhold not from us Thy care and assistance. O Lord! Thy tests are indeed severe, and Thy trials can lay in ruin foundations wrought of steel. Preserve and strengthen us; cheer and gladden our hearts. Graciously assist us to serve, even as ‘Abdu’l‑Bahá, Thy sacred Threshold.
 
 - Illumination
@@ -183,7 +183,7 @@ Thou art, verily, the One, the Single, the Mighty, the All‑Knowing, the All‑
 - Illumination
 O God, my God! Give me to drink from the cup of Thy bestowal and illumine my face with the light of guidance. Make me firm in the path of faithfulness, assist me to be steadfast in Thy mighty Covenant, and suffer me to be numbered with Thy chosen servants. Unlock before my face the doors of abundance, grant me deliverance, and sustain me, through means I cannot reckon, from the treasuries of heaven. Suffer me to turn my face toward the countenance of Thy generosity and to be entirely devoted to Thee, O Thou Who art merciful and compassionate! To those that stand fast and firm in Thy Covenant Thou, verily, art gracious and generous. All praise be to God, the Lord of the worlds!
 
-- Mercy
+- Abundance
 Lauded be Thy name, O Lord my God! I entreat Thee by Thy Name through which the Hour hath struck, and the Resurrection came to pass, and fear and trembling seized all that are in heaven and all that are on earth, to rain down, out of the heaven of Thy mercy and the clouds of Thy tender compassion, what will gladden the hearts of Thy servants, who have turned towards Thee and helped Thy Cause.
 Keep safe Thy servants and Thy handmaidens, O my Lord, from the darts of idle fancy and vain imaginings, and give them from the hands of Thy grace a draught of the soft‑flowing waters of Thy knowledge.
 Thou, truly, art the Almighty, the Most Exalted, the Ever‑Forgiving, the Most Generous.
@@ -198,7 +198,7 @@ O Thou incomparable God! O Thou Lord of the Kingdom! These souls are Thy heavenl
 O God! Be Thou their supporter and their helper, and in the wilderness, the mountain, the valley, the forests, the prairies and the seas, be Thou their confidant—so that they may cry out through the power of the Kingdom and the breath of the Holy Spirit.
 Verily, Thou art the Powerful, the Mighty and the Omnipotent, and Thou art the Wise, the Hearing and the Seeing.
 
-- Mercy
+- Redemption
 O Thou forgiving Lord!
 Although some souls have spent the days of their lives in ignorance, and became estranged and contumacious, yet, with one wave from the ocean of Thy forgiveness, all those encompassed by sin will be set free. Whomsoever Thou willest Thou makest a confidant, and whosoever is not the object of Thy choice is accounted a transgressor. Shouldst Thou deal with us with Thy justice, we are all naught but sinners and deserving to be shut out from Thee, but shouldst Thou uphold mercy, every sinner would be made pure and every stranger a friend. Bestow, then, Thy forgiveness and pardon, and grant Thy mercy unto all.
 Thou art the Forgiver, the Lightgiver and the Omnipotent.
@@ -233,14 +233,14 @@ Verily, Thou art the supreme Ruler, the Sovereign Truth, the Help in Peril, the 
 O my God! O my God! I testify that this is Thy Day which hath been mentioned in Thy Books, Thy Epistles, Thy Psalms and Thy Tablets. In it Thou hast manifested that which was hidden in Thy Knowledge and stored up in the repositories of Thine unfailing protection. I beseech Thee, O Lord of the world, by Thy Most Great Name whereby the limbs of the people were shaken, to assist Thy servants and Thy handmaidens to become steadfast in Thy Cause and to arise in Thy service.
 Verily, Thou art potent to do whatsoever Thou willest, and in Thy grasp are the reins of all things. Thou protectest whomsoever Thou willest through Thy Power and Dominion. And verily, Thou art the Almighty, the All‑Subduing, the Most Powerful.
 
-- Mercy
+- Longing
 Lauded be Thy Name, O God. Thou art in truth our Lord; Thou art aware of whatsoever is in the heavens and on the earth. Send down then upon us a token of Thy mercy. Verily Thou art unsurpassed among them that show mercy. All praise be unto Thee, O Lord. Ordain for us from Thy presence that which will comfort the hearts of the sincere among Thy servants. Glorified art Thou, O God, Thou art the Creator of the heavens and the earth and that which lieth between them. Thou art the sovereign Lord, the Most Holy, the Almighty, the All‑Wise. Magnified be Thy Name, O God, send down upon them who have believed in God and in His signs a mighty succour from Thy presence such as to enable them to prevail over the generality of mankind.
 
-- Mercy
+- Redemption
 I am aware, O Lord, that my trespasses have covered my face with shame in Thy presence, and have burdened my back before Thee, have intervened between me and Thy beauteous countenance, have compassed me from every direction and have hindered me on all sides from gaining access unto the revelations of Thy celestial power.
 O Lord! If Thou forgivest me not, who is there then to grant pardon, and if Thou hast no mercy upon me who is capable of showing compassion? Glory be unto Thee, Thou didst create me when I was non‑existent and Thou didst nourish me while I was devoid of any understanding. Praise be unto Thee, every evidence of bounty proceedeth from Thee and every token of grace emanateth from the treasuries of Thy decree.
 
-- Mercy
+- Steadfastness
 He is the All‑Glorious!
 Praise be to Thee, O my God! Thou didst call me, and I answered Thee. Thou didst summon me, and I hastened unto Thee, entering beneath the shade of Thy mercy and seeking shelter at the threshold of the door of Thy grace. Thou hast nurtured me, O Lord, through Thy providence, chosen me for Thee alone, created me for Thy service, and appointed me to stand before Thee. I beseech Thee, by Thine all‑glorious Name and by Thy beauty that hath dawned above the horizon of Thy most exalted Essence, to cause me to be related to Thee even as Thou hadst done so aforetime, and not to separate me from Thyself. Cause then to appear from me, O my God, that which is worthy of Thee. Thou art, in truth, powerful over all things.
 
@@ -249,7 +249,7 @@ Every soul who travels through the cities, villages and hamlets of these States 
 O my God! O my God! Thou seest me in my lowliness and weakness, occupied with the greatest undertaking, determined to raise Thy word among the masses and to spread Thy teachings among Thy peoples. How can I succeed unless Thou assist me with the breath of the Holy Spirit, help me to triumph by the hosts of Thy glorious kingdom, and shower upon me Thy confirmations, which alone can change a gnat into an eagle, a drop of water into rivers and seas, and an atom into lights and suns? O my Lord! Assist me with Thy triumphant and effective might, so that my tongue may utter Thy praises and attributes among all people and my soul overflow with the wine of Thy love and knowledge.
 Thou art the Omnipotent and the Doer of whatsoever Thou willest.
 
-- Mercy
+- Abundance
 Praised be Thou, O Lord my God! This is Thy servant who hath quaffed from the hands of Thy grace the wine of Thy tender mercy, and tasted of the savour of Thy love in Thy days. I beseech Thee, by the embodiments of Thy names whom no grief can hinder from rejoicing in Thy love or from gazing on Thy face, and whom all the hosts of the heedless are powerless to cause to turn aside from the path of Thy pleasure, to supply him with the good things Thou dost possess, and to raise him up to such heights that he will regard the world even as a shadow that vanisheth swifter than the twinkling of an eye.
 Keep him safe also, O my God, by the power of Thine immeasurable majesty, from all that Thou abhorrest. Thou art, verily, his Lord and the Lord of all worlds.
 
@@ -262,13 +262,13 @@ O Thou compassionate Lord, Thou Who art generous and able! We are servants of Th
 - Abundance
 Glorified art Thou, O Lord my God! Thou art in truth the King of kings. Thou dost confer sovereignty upon whomsoever Thou willest and dost seize it from whomsoever Thou willest. Thou dost exalt whomsoever Thou willest and dost abase whomsoever Thou willest. Thou dost render victorious whomsoever Thou willest and dost bring humiliation upon whomsoever Thou willest. Thou dost bestow wealth upon whomsoever Thou willest and dost reduce to poverty whomsoever Thou willest. Thou dost cause whomsoever Thou willest to prevail over whomsoever Thou willest. Within Thy grasp Thou dost hold the empire of all created things and through the potency of Thy sovereign behest Thou dost call into being whomsoever Thou willest. Verily Thou art the Omniscient, the Omnipotent, the Lord of power.
 
-- Mercy
+- Steadfastness
 O my God! O my God! Glory be unto Thee for that Thou hast confirmed me to the confession of Thy oneness, attracted me unto the word of Thy singleness, enkindled me by the fire of Thy love, and occupied me with Thy mention and the service of Thy friends and maidservants.
 O Lord, help me to be meek and lowly, and strengthen me in severing myself from all things and in holding to the hem of the garment of Thy glory, so that my heart may be filled with Thy love and leave no space for love of the world and attachment to its qualities.
 O God! Sanctify me from all else save Thee, purge me from the dross of sins and transgressions, and cause me to possess a spiritual heart and conscience.
 Verily, Thou art merciful and, verily, Thou art the Most Generous, Whose help is sought by all men.
 
-- Mercy
+- Steadfastness
 O my Lord! Thou knowest that the people are encircled with pain and calamities and are environed with hardships and trouble. Every trial doth attack man and every dire adversity doth assail him like unto the assault of a serpent. There is no shelter and asylum for him except under the wing of Thy protection, preservation, guard and custody.
 O Thou the Merciful One! O my Lord! Make Thy protection my armour, Thy preservation my shield, humbleness before the door of Thy oneness my guard, and Thy custody and defence my fortress and my abode. Preserve me from the suggestions of self and desire, and guard me from every sickness, trial, difficulty and ordeal.
 Verily, Thou art the Protector, the Guardian, the Preserver, the Sufficer, and verily, Thou art the Merciful of the Most Merciful.
@@ -310,7 +310,7 @@ The following commune is to be read . . . every day:
 O God! O God! This is a broken‑winged bird and his flight is very slow—assist him so that he may fly toward the apex of prosperity and salvation, wing his way with the utmost joy and happiness throughout the illimitable space, raise his melody in Thy Supreme Name in all the regions, exhilarate the ears with this call, and brighten the eyes by beholding the signs of guidance.
 O Lord! I am single, alone and lowly. For me there is no support save Thee, no helper except Thee and no sustainer beside Thee. Confirm me in Thy service, assist me with the cohorts of Thy angels, make me victorious in the promotion of Thy Word and suffer me to speak out Thy wisdom amongst Thy creatures. Verily, Thou art the helper of the weak and the defender of the little ones, and verily Thou art the Powerful, the Mighty and the Unconstrained.
 
-- Mercy
+- Longing
 Thou seest me, O my Lord, with my face turned towards the heaven of Thy bounty and the ocean of Thy favour, withdrawn from all else beside Thee. I ask of Thee, by the splendours of the Sun of Thy revelation on Sinai, and the effulgences of the Orb of Thy grace which shineth from the horizon of Thy Name, the Ever‑Forgiving, to grant me Thy pardon and to have mercy upon me. Write down, then, for me with Thy pen of glory that which will exalt me through Thy Name in the world of creation. Aid me, O my Lord, to set myself towards Thee, and to hearken unto the voice of Thy loved ones, whom the powers of the earth have failed to weaken, and the dominion of the nations has been powerless to withhold from Thee, and who, advancing towards Thee, have said: “God is our Lord, the Lord of all who are in heaven and all who are on earth.”
 
 - Longing
@@ -320,7 +320,7 @@ O Lord! I have no helper save Thee, no shelter besides Thee, and no sustainer ex
 O my Lord! Suffer me to be detached from aught else save Thee, to hold fast to the hem of Thy bounty, to be wholly devoted to Thy Faith, to remain fast and firm in Thy love and to observe what Thou hast prescribed in Thy Book.
 Verily, Thou art the Powerful, the Mighty, the Omnipotent.
 
-- Mercy
+- Abundance
 My God, Whom I worship and adore! I bear witness unto Thy unity and Thy oneness, and acknowledge Thy gifts, both in the past and in the present. Thou art the All‑Bountiful, the overflowing showers of Whose mercy have rained down upon high and low alike, and the splendours of Whose grace have been shed over both the obedient and the rebellious.
 O God of mercy, before Whose door the quintessence of mercy hath bowed down, and round the sanctuary of Whose Cause loving‑kindness, in its inmost spirit, hath circled, we beseech Thee, entreating Thine ancient grace, and seeking Thy present favour, that Thou mayest have mercy upon all who are the manifestations of the world of being, and deny them not the outpourings of Thy grace in Thy days.
 All are but poor and needy, and Thou, verily, art the All‑Possessing, the All‑Subduing, the All‑Powerful.
@@ -330,7 +330,7 @@ O compassionate God! Thanks be to Thee for Thou hast awakened and made me consci
 O Thou the Compassionate God. Bestow upon me a heart which, like unto a glass, may be illumined with the light of Thy love, and confer upon me thoughts which may change this world into a rose garden through the outpourings of heavenly grace.
 Thou art the Compassionate, the Merciful. Thou art the Great Beneficent God.
 
-- Mercy
+- Abundance
 He is God.
 O thou who circlest in adoration about the Spot round which circle the Concourse on high! Raise thou thy hands in gratitude at the Threshold of the one true God, and say: O Thou the highest aspiration of every ardent lover! O Thou the Guide of every wandering soul! Thou hast favoured this feeble servant with Thine infinite blessings, and led this hapless and lowly one unto the Threshold of Thy oneness. Thou hast lifted to these parched lips the living waters of Thy loving‑kindness and revived this weary and withered soul with the breezes of divine mercy. I yield Thee thanks for having bestowed upon me a full portion from Thy most gracious favour and invested me with the honour of attaining unto Thy sacred Threshold. I beseech an infinite share from the bounties of Thy Kingdom on high. Grant Thine assistance. Confer Thy gracious favour.
 
@@ -339,7 +339,7 @@ How can I choose to sleep, O God, my God, when the eyes of them that long for Th
 I have committed, O my Lord, my spirit and my entire being into the right hand of Thy might and Thy protection, and I lay my head on my pillow through Thy power, and lift it up according to Thy will and Thy good pleasure. Thou art, in truth, the Preserver, the Keeper, the Almighty, the Most Powerful.
 By Thy might! I ask not, whether sleeping or waking, but that which Thou dost desire. I am Thy servant and in Thy hands. Do Thou graciously aid me to do what will shed forth the fragrance of Thy good pleasure. This, truly, is my hope and the hope of them that enjoy near access to Thee. Praised be Thou, O Lord of the worlds!
 
-- Mercy
+- Redemption
 Send down Thy blessings, O my God, upon the Tree of the Bayán, upon its root and its branch, its boughs, its leaves, its fruits and upon whatsoever it beareth or sheltereth. Cause this Tree then to be made into a magnificent Scroll to be offered to the presence of Him Whom Thou wilt make manifest on the Day of Judgement, that He may graciously allow the entire company of the followers of the Bayán to be restored to life and that He may, through His bounty, inaugurate a new creation.
 Indeed all are but paupers in the face of Thy tender mercy, and lowly servants before the tokens of Thy loving‑kindness. I beg of Thee, by Thy bounty, O my God, and by the outpourings of Thy mercy and bestowals, O my Lord, and by the evidences of Thy heavenly favours and grace, O my Best‑Beloved, to watch over Him Whom God shall make manifest that no trace of despondency may ever touch Him.
 
@@ -347,12 +347,12 @@ Indeed all are but paupers in the face of Thy tender mercy, and lowly servants b
 O Lord! What an outpouring of bounty Thou hast vouchsafed, and what a flood of abounding grace Thou hast granted! Thou didst make all the hearts to become even as a single heart, and all the souls to be bound together as one soul. Thou didst endow inert bodies with life and feeling, and didst bestow upon lifeless frames the consciousness of the spirit. Through the effulgent rays shed from the Day‑Star of the All‑Merciful, Thou didst invest these atoms of dust with visible existence, and through the billows of the ocean of oneness, Thou didst enable these evanescent drops to surge and roar.
 O Almighty One Who endowest a blade of straw with the might of a mountain and enablest a speck of dust to mirror forth the glory of the resplendent sun! Grant us Thy tender grace and favour, so that we may arise to serve Thy Cause and not be shamefaced before the peoples of the earth.
 
-- Mercy
+- Steadfastness
 Lauded be Thy name, O my God! I entreat Thee by the fragrances of the Raiment of Thy grace which at Thy bidding and in conformity with Thy desire were diffused throughout the entire creation, and by the Daystar of Thy will that hath shone brightly, through the power of Thy might and of Thy sovereignty, above the horizon of Thy mercy, to blot out from my heart all idle fancies and vain imaginings, that with all my affections I may turn unto Thee, O Thou Lord of all mankind!
 I am Thy servant and the son of Thy servant, O my God! I have laid hold on the handle of Thy grace, and clung to the cord of Thy tender mercy. Ordain for me the good things that are with Thee, and nourish me from the Table Thou didst send down out of the clouds of Thy bounty and the heaven of Thy favour.
 Thou, in very truth, art the Lord of the worlds, and the God of all that are in heaven and all that are on earth.
 
-- Mercy
+- Longing
 Lauded be Thy name, O my God and the God of all things, my Glory and the Glory of all things, my Desire and the Desire of all things, my Strength and the Strength of all things, my King and the King of all things, my Possessor and the Possessor of all things, my Aim and the Aim of all things, my Mover and the Mover of all things! Suffer me not, I implore Thee, to be kept back from the ocean of Thy tender mercies, nor to be far removed from the shores of nearness to Thee.
 Aught else except Thee, O my Lord, profiteth me not, and near access to anyone save Thyself availeth me nothing. I entreat Thee by the plenteousness of Thy riches, whereby Thou didst dispense with all else except Thyself, to number me with such as have set their faces towards Thee, and arisen to serve Thee.
 Forgive, then, O my Lord, Thy servants and Thy handmaidens. Thou, truly, art the Ever‑Forgiving, the Most Compassionate.
@@ -377,10 +377,10 @@ O Divine Providence! Grant them Thy favour, guide them aright, graciously aid th
 Throughout eternity Thou hast been, O my Lord, and wilt ever remain the One true God, while all else save Thee are needy and poor. Having clung tenaciously to Thy Cord, O my God, I have detached myself from all mankind, and having set my face towards the habitation of Thy tender mercy, I have turned away from all created things. Graciously inspire me, O my God, through Thy grace and bounty, Thy glory and majesty, and Thy dominion and grandeur, for no one mighty and all‑knowing can I find beside Thee. Protect me, O my God, through the potency of Thy transcendent and all‑sufficing glory and by the hosts of the heavens and the earth, inasmuch as in no one can I wholly place my trust but in Thee and no refuge is there but Thee.
 Thou art God, my Lord, Thou knowest my needs, Thou seest my state and art well aware of what hath befallen me by reason of Thy decree, and of the earthly sufferings I have endured by Thy leave and as a token of Thy bounty and favour.
 
-- Mercy
+- Redemption
 O Thou forgiving Lord! Thou art the shelter of all these Thy servants. Thou knowest the secrets and art aware of all things. We are all helpless, and Thou art the Mighty, the Omnipotent. We are all sinners, and Thou art the Forgiver of sins, the Merciful, the Compassionate. O Lord! Look not at our shortcomings. Deal with us according to Thy grace and bounty. Our shortcomings are many, but the ocean of Thy forgiveness is boundless. Our weakness is grievous, but the evidences of Thine aid and assistance are clear. Therefore, confirm and strengthen us. Enable us to do that which is worthy of Thy holy Threshold. Illumine our hearts, grant us discerning eyes and attentive ears. Resuscitate the dead and heal the sick. Bestow wealth upon the poor and give peace and security to the fearful. Accept us in Thy kingdom and illumine us with the light of guidance. Thou art the Powerful and the Omnipotent. Thou art the Generous. Thou art the Clement. Thou art the Kind.
 
-- Mercy
+- Longing
 O God of Mercy! O Thou Omnipotent One! I am but a feeble servant, weak and helpless, but I have been nurtured within the shelter of Thy grace and favour, nourished from the breast of Thy mercy, and reared in the bosom of Thy loving‑kindness. O Lord! Poor and needy though I be, yet every needy one is made prosperous through Thy bounty, while every wealthy one, if bereft of Thy favours, is indeed poor and desolate.
 O Divine Providence! Grant me the strength to bear this heavy burden, and enable me to safeguard this supreme bestowal, for so strong is the force of tests and so grievous the onslaught of trials that every mountain is scattered in dust, and the highest peak reduced to nothing. Thou knowest full well that in my heart I seek naught but Thy remembrance, and in my soul I desire nothing save Thy love. Raise me up to serve Thy loved ones, and let me abide forever in servitude at Thy Threshold. Thou art the Loving. Thou art the Lord of manifold bounties.
 
@@ -399,14 +399,14 @@ Thou knowest, O God, and art my witness that I have no desire in my heart save t
 O God! I am prepared to endure any ordeal in Thy path and desire with all my heart and soul to meet any hardship.
 O God! Protect me from tests. Thou knowest full well that I have turned away from all things and freed myself of all thoughts. I have no occupation save mention of Thee and no aspiration save serving Thee.
 
-- Mercy
+- Longing
 Pure and sanctified art Thou, O my God! How can the pen move and the ink flow after the breezes of loving‑kindness have ceased, and the signs of bounty have vanished, when the sun of abasement hath risen, and the swords of calamity are drawn, when the heavens of sorrow have been upraised, and the darts of affliction and the lances of vengeance have rained from the clouds of power — in such wise that the signs of joy have departed from all hearts, and the tokens of gladness have been erased from every horizon, the gates of hope have been shut, the mercy of the supernal breeze hath ceased to waft over the rose‑garden of faithfulness, and the whirlwind of extinction hath struck the tree of existence. The pen is groaning, and the ink bewaileth its plight, and the tablet is awestruck at this cry. The mind is in turmoil from the taste of this pain and sorrow, and the divine Nightingale calleth: “Alas! Alas! for all that hath been made to appear.” And this, O my God, is from naught but Thy hidden bounties.
 
-- Mercy
+- Steadfastness
 He is the Compassionate, the All‑Bountiful! O God, my God! Thou seest me, Thou knowest me; Thou art my Haven and my Refuge. None have I sought nor any will I seek save Thee; no path have I trodden nor any will I tread but the path of Thy love. In the darksome night of despair, my eye turneth expectant and full of hope to the morn of Thy boundless favour and at the hour of dawn my drooping soul is refreshed and strengthened in remembrance of Thy beauty and perfection. He whom the grace of Thy mercy aideth, though he be but a drop, shall become the boundless ocean, and the merest atom which the outpouring of Thy loving‑kindness assisteth, shall shine even as the radiant star.
 Shelter under Thy protection, O Thou Spirit of purity, Thou Who art the All‑Bountiful Provider, this enthralled, enkindled servant of Thine. Aid him in this world of being to remain steadfast and firm in Thy love and grant that this broken‑winged bird attain a refuge and shelter in Thy divine nest that abideth upon the celestial tree.
 
-- Mercy
+- Redemption
 Glory be unto Thee, O God. How can I make mention of Thee while Thou art sanctified from the praise of all mankind. Magnified be Thy Name, O God, Thou art the King, the Eternal Truth; Thou knowest what is in the heavens and on the earth, and unto Thee must all return. Thou hast sent down Thy divinely ordained Revelation according to a clear measure. Praised art Thou, O Lord! At Thy behest Thou dost render victorious whomsoever Thou willest, through the hosts of heaven and earth and whatsoever existeth between them. Thou art the Sovereign, the Eternal Truth, the Lord of invincible might.
 Glorified art Thou, O Lord! Thou forgivest at all times the sins of such among Thy servants as implore Thy pardon. Wash away my sins and the sins of those who seek Thy forgiveness at dawn, who pray to Thee in the daytime and in the night season, who yearn after naught save God, who offer up whatsoever God hath graciously bestowed upon them, who celebrate Thy praise at morn and eventide, and who are not remiss in their duties.
 
@@ -446,7 +446,7 @@ O God, O Thou Who hast cast Thy splendour over the luminous realities of men, sh
 O Lord, help Thou Thy loved ones to acquire knowledge and the sciences and arts, and to unravel the secrets that are treasured up in the inmost reality of all created beings. Make them to hear the hidden truths that are written and embedded in the heart of all that is. Make them to be ensigns of guidance amongst all creatures, and piercing rays of the mind shedding forth their light in this, the “first life.” Make them to be leaders unto Thee, guides unto Thy path, runners urging men on to Thy Kingdom.
 Thou verily art the Powerful, the Protector, the Potent, the Defender, the Mighty, the Most Generous.
 
-- Mercy
+- Illumination
 O God, my God! This is Thy radiant servant, Thy spiritual thrall, who hath drawn nigh unto Thee and approached Thy presence. He hath turned his face unto Thine, acknowledging Thy oneness, confessing Thy singleness, and he hath called out in Thy name among the nations, and led the people to the streaming waters of Thy mercy, O Thou most generous Lord! To those who asked he hath given to drink from the cup of guidance that brimmeth over with the wine of Thy measureless grace.
 O Lord, assist him under all conditions, cause him to learn Thy well‑guarded mysteries, and shower down upon him Thy hidden pearls. Make of him a banner rippling from castle summits in the winds of Thy heavenly aid, make of him a wellspring of crystal waters.
 O my forgiving Lord! Light up the hearts with the rays of a lamp that sheddeth abroad its beams, disclosing to those among Thy people whom Thou hast bounteously favoured, the realities of all things.
@@ -478,7 +478,7 @@ O Lord! Strengthen my back, enable me to serve Thee with the utmost endeavour, a
 O Lord! Grant me communion with Thee in my loneliness, and be my companion in these foreign lands.
 Verily, Thou art the Confirmer of whomsoever Thou willest in that which Thou desirest, and, verily, Thou art the All‑Powerful, the Omnipotent.
 
-- Mercy
+- Steadfastness
 Glorified art Thou, O my God! I yield Thee thanks that Thou hast made known unto me Him Who is the Dayspring of Thy mercy, and the Dawning‑Place of Thy grace, and the Repository of Thy Cause. I beseech Thee by Thy Name, through which the faces of them that are nigh unto Thee have turned white, and the hearts of such as are devoted to Thee have winged their flight towards Thee, to grant that I may, at all times and under all conditions, lay hold on Thy cord, and be rid of all attachment to anyone except Thee, and may keep mine eyes directed towards the horizon of Thy Revelation, and may carry out what Thou hast prescribed unto me in Thy Tablets.
 Attire, O my Lord, both my inner and outer being with the raiment of Thy favours and Thy loving‑kindness. Keep me safe, then, from whatsoever may be abhorrent unto Thee, and graciously assist me and my kindred to obey Thee, and to shun whatsoever may stir up any evil or corrupt desire within me.
 Thou, truly, art the Lord of all mankind, and the Possessor of this world and of the next. No God is there save Thee, the All‑Knowing, the All‑Wise.
@@ -493,7 +493,7 @@ Suffer me, O my God, to draw nigh unto Thee, and to abide within the precincts o
 I beseech Thee, by the praise wherewith Thou praisest Thyself and the glory wherewith Thou glorifiest Thine own Essence, to grant that we may be numbered among them that have recognised Thee and acknowledged Thy sovereignty in Thy days. Help us then to quaff, O my God, from the fingers of mercy the living waters of Thy loving‑kindness, that we may utterly forget all else except Thee, and be occupied only with Thy Self. Powerful art Thou to do what Thou willest. No God is there beside Thee, the Mighty, the Help in Peril, the Self‑Subsisting.
 Glorified be Thy name, O Thou Who art the King of all Kings!
 
-- Mercy
+- Steadfastness
 Glorified be Thy name, O Lord my God! I beseech Thee by Thy power that hath encompassed all created things, and by Thy sovereignty that hath transcended the entire creation, and by Thy Word which was hidden in Thy wisdom and whereby Thou didst create Thy heaven and Thy earth, both to enable us to be steadfast in our love for Thee and in our obedience to Thy pleasure, and to fix our gaze upon Thy face, and celebrate Thy glory. Empower us, then, O my God, to spread abroad Thy signs among Thy creatures, and to guard Thy Faith in Thy realm. Thou hast ever existed independently of the mention of any of Thy creatures, and wilt remain as Thou hast been for ever and ever.
 In Thee I have placed my whole confidence, unto Thee I have turned my face, to the cord of Thy loving providence I have clung, and towards the shadow of Thy mercy I have hastened. Cast me not as one disappointed out of Thy door, O my God, and withhold not from me Thy grace, for Thee alone do I seek. No God is there beside Thee, the Ever‑Forgiving, the Most Bountiful.
 Praise be to Thee, O Thou Who art the Beloved of them that have known Thee!
@@ -504,12 +504,12 @@ I swear by Thy glory, O Thou the Best Beloved of the worlds and the Desire of al
 I implore Thee, O Thou by Whose summons the hearts of all them who were nigh unto Thee have soared into the atmosphere of Thy presence, to send down upon Thy loved ones what will enable them to dispense with all else except Thee. Endue them, then, with such constancy that they will arise to proclaim Thy Cause, and will call on Thy name, before all that are in Thy heaven and on Thy earth, in such wise that the Pharaonic cruelties inflicted by the oppressors among Thy servants will not succeed in keeping them back from Thee.
 Thou art, verily, the God of power, the God of glory, the God of strength and wisdom.
 
-- Mercy
+- Abundance
 Lauded be Thy Name, O Lord my God! I am Thy servant who hath laid hold on the cord of Thy tender mercies, and clung to the hem of Thy bounteousness. I entreat Thee by Thy name whereby Thou hast subjected all created things, both visible and invisible, and through which the breath that is life indeed was wafted over the entire creation, to strengthen me by Thy power which hath encompassed the heavens and the earth, and to guard me from all sickness and tribulation. I bear witness that Thou art the Lord of all names, and the Ordainer of all that may please Thee. There is none other God but Thee, the Almighty, the All‑Knowing, the All‑Wise.
 Do Thou ordain for me, O my Lord, what will profit me in every world of Thy worlds. Supply me, then, with what Thou hast written down for the chosen ones among Thy creatures, whom neither the blame of the blamer, nor the clamour of the infidel, nor the estrangement of such as have withdrawn from Thee, hath deterred from turning towards Thee.
 Thou, truly, art the Help in Peril through the power of Thy sovereignty. No God is there save Thee, the Almighty, the Most Powerful.
 
-- Mercy
+- Redemption
 O God our Lord! Protect us through Thy grace from whatsoever may be repugnant unto Thee, and vouchsafe unto us that which well beseemeth Thee. Give us more out of Thy bounty, and bless us. Pardon us for the things we have done, and wash away our sins, and forgive us with Thy gracious forgiveness. Verily, Thou art the Most Exalted, the Self‑Subsisting.
 Thy loving providence hath encompassed all created things in the heavens and on the earth, and Thy forgiveness hath surpassed the whole creation. Thine is sovereignty; in Thy hand are the Kingdoms of Creation and Revelation; in Thy right hand Thou holdest all created things, and within Thy grasp are the assigned measures of forgiveness. Thou forgivest whomsoever among Thy servants Thou pleasest. Verily, Thou art the Ever‑Forgiving, the All‑Loving. Nothing whatsoever escapeth Thy knowledge, and naught is there which is hidden from Thee.
 O God our Lord! Protect us through the potency of Thy might, enable us to enter Thy wondrous surging ocean, and grant us that which well befitteth Thee.
@@ -520,7 +520,7 @@ Glorified art Thou, O Lord my God! I pray Thee, by Him Who is the Dayspring of T
 Thou art He, O my Lord, Who doeth what He willeth, and ordaineth what He pleaseth. Every possessor of power is forlorn before the revelations of Thy might, and every fountain of honour becomes abject when confronted by the manifold evidences of Thy great glory.
 I beseech Thee, by Thyself and by whatsoever is of Thee, to grant that I may help Thy Cause and speak of Thy praise, and set my heart on the sanctuary of Thy glory, and detach myself from all that pertaineth not unto Thee. No God is there beside Thee, the God of power, the God of glory and wisdom.
 
-- Mercy
+- Longing
 All praise be to Thee, O my God! Thou beholdest my helplessness and poverty, and bearest witness unto my woes and trials. How long wilt Thou abandon me among Thy servants? Suffer me to ascend into Thy presence. The power of Thy might beareth me witness! Such are the tribulations with which I am encompassed that I am powerless to recount them before Thy face. Thou, alone, verily, hast through Thy knowledge reckoned them.
 I beseech Thee, O Thou Who art my Companion in my lowliness, to rain down upon Thy loved ones from the clouds of Thy mercy that which will cause them to be satisfied with Thy pleasure, and will enable them to turn unto Thee and to be detached from all else except Thee. Ordain, then, for them every good conceived by Thee and predestined in Thy Book. Thou art, verily, the All‑Powerful, He Whom nothing whatsoever can frustrate. From everlasting Thou hast been clothed with transcendent greatness and power, with unspeakable majesty and glory. There is no God beside Thee, the Almighty, the All‑Glorious, the Ever‑Forgiving.
 Glorified be Thy name, Thou in Whose hand are the kingdoms of earth and heaven.
@@ -544,12 +544,12 @@ O Lord! Deliver us from the attachments of the world and its peoples, from the t
 Magnified, O Lord my God, be Thy Name, whereby the trees of the garden of Thy Revelation have been clad with verdure, and been made to yield the fruits of holiness during this Springtime when the sweet savours of Thy favours and blessings have been wafted over all things, and caused them to bring forth whatsoever had been preordained for them in the Kingdom of Thine irrevocable decree and the Heaven of Thine immutable purpose. I beseech Thee by this very Name not to suffer me to be far from the court of Thy holiness, nor debarred from the exalted sanctuary of Thy unity and oneness.
 Ignite, then, O my God, within my breast the fire of Thy love, that its flame may burn up all else except my remembrance of Thee, that every trace of corrupt desire may be entirely mortified within me, and that naught may remain except the glorification of Thy transcendent and all‑glorious Being. This is my highest aspiration, mine ardent desire, O Thou Who rulest all things, and in Whose hand is the kingdom of the entire creation. Thou, verily, doest what Thou choosest. No God is there beside Thee, the Almighty, the All‑Glorious, the Ever‑Forgiving.
 
-- Mercy
+- Longing
 O my God! I have failed to know Thee as is worthy of Thy glory, and I have failed to fear Thee as befitteth my station. How can I make mention of Thee when I am in this condition, and how can I set my face towards Thee when I have fallen short of my duty in worshipping Thee?
 Thou didst not call me into being to demonstrate the potency of Thy might which is unmistakably manifest and evident; for Thou art God Who everlastingly existed when there was naught. Rather Thou didst create us through Thy transcendent power that a bare mention may be graciously made of us before the resplendent manifestation of Thy Remembrance.
 I have no knowledge of Thee, O my God, but that which Thou hast taught me whereby I might recognise Thy Self—a knowledge which reflecteth only my failure and sinfulness. Here am I then, O my God, wholly consecrated unto Thee, willing to do what Thou desirest. Humbly I cast myself before the revelations of Thy mercy, confessing that Thou art God, no God is there but Thee, and that Thou art incomparable, hast no partner and naught is there like Thee. Unto this Thou Thyself bearest witness, as well becometh Thy glory.
 
-- Mercy
+- Illumination
 Glorified art Thou, O Lord my God! Thou hast, in Thine all highest Paradise, assigned unto Thy servants such stations that if any one of them were to be unveiled to men’s eyes all who are in heaven and all who are on earth would be dumbfounded. By Thy might! Were kings to witness so great a glory they would, assuredly, rid themselves of their dominions and cleave to such of their subjects as have entered beneath the shadow of Thine immeasurable mercy and sought the shelter of Thine all‑glorious name.
 I implore Thee, O Thou Who art the Beloved of the worlds and the Desire of all that have recognised Thee, by Thy name, through which Thou stirrest up whom Thou willest and drawest toward Thee whom Thou pleasest, to open the eyes of all that are dear to Thee, that haply they may not be veiled from Thee as the peoples of the earth are, but may outwardly perceive the signs and tokens of Thy power, and inwardly apprehend the things Thou didst ordain for them in the realms of Thy glory.
 Potent art Thou to do Thy pleasure. Thou art the one alone Beloved in both this world and in the next. No God is there but Thee, the Most Exalted, the All‑Glorious.
@@ -561,7 +561,7 @@ O Lord, Thou possessor of infinite mercy! O Lord of forgiveness and pardon! Forg
 O Lord God! Make us as waves of the sea, as flowers of the garden, united, agreed through the bounties of Thy love. O Lord! Dilate the breasts through the signs of Thy oneness, and make all mankind as stars shining from the same height of glory, as perfect fruits growing upon Thy tree of life.
 Verily, Thou art the Almighty, the Self‑Subsistent, the Giver, the Forgiving, the Pardoner, the Omniscient, the One Creator.
 
-- Mercy
+- Longing
 Glory be to Thee, O my God! Thou hearest Thine ardent lovers lamenting in their separation from Thee, and such as have recognised Thee wailing because of their remoteness from Thy presence. Open Thou outwardly to their faces, O my Lord, the gates of Thy grace, that they may enter them by Thy leave and in conformity with Thy will, and may stand before the throne of Thy majesty, and catch the accents of Thy voice, and be illumined with the splendours of the light of Thy face.
 Potent art Thou to do what pleaseth Thee. None can withstand the power of Thy sovereign might. From everlasting Thou wert alone, with none to equal Thee, and wilt unto everlasting remain far above all thought and every description of Thee. Have mercy, then, upon Thy servants by Thy grace and bounty, and suffer them not to be kept back from the shores of the ocean of Thy nearness. If Thou abandonest them, who is there to befriend them; and if Thou puttest them far from Thee, who is he that can favour them? They have none other Lord beside Thee, none to adore except Thyself. Deal Thou generously with them by Thy bountiful grace.
 Thou, in truth, art the Ever‑Forgiving, the Most Compassionate.
@@ -583,7 +583,7 @@ The limbs of my body testify to Thy unity, and the hair of my head declareth the
 Do Thou destine for me, O my God, what becometh the greatness of Thy majesty, and assist me, by Thy strengthening grace, so to teach Thy Cause that the dead may speed out of their sepulchres, and rush forth towards Thee, trusting wholly in Thee, and fixing their gaze upon the orient of Thy Cause, and the dawning‑place of Thy Revelation.
 Thou, verily, art the Most Powerful, the Most High, the All‑Knowing, the All‑Wise.
 
-- Mercy
+- Longing
 O God, my God! I have turned in repentance unto Thee, and verily Thou art the Pardoner, the Compassionate.
 O God, my God! I have returned to Thee, and verily Thou art the Ever‑Forgiving, the Gracious.
 O God, my God! I have clung to the cord of Thy bounty, and with Thee is the storehouse of all that is in heaven and earth.
@@ -592,7 +592,7 @@ O God, my God! I thirst for the celestial wine of Thy grace, and verily Thou art
 O God, my God! I testify that Thou hast revealed Thy Cause, fulfilled Thy promise and sent down from the heaven of Thy grace that which hath drawn unto Thee the hearts of Thy favoured ones. Well is it with him that hath held fast unto Thy firm cord and clung to the hem of Thy resplendent robe!
 I ask Thee, O Lord of all being and King of the seen and unseen, by Thy power, Thy majesty and Thy sovereignty, to grant that my name may be recorded by Thy pen of glory among Thy devoted ones, them whom the scrolls of the sinful hindered not from turning to the light of Thy countenance, O prayer‑hearing, prayer‑answering God!
 
-- Mercy
+- Longing
 He is the Mighty, the Pardoner, the Compassionate!
 O God, my God! Thou beholdest Thy servants in the abyss of perdition and error; where is Thy light of divine guidance, O Thou the Desire of the world? Thou knowest their helplessness and their feebleness; where is Thy power, O Thou in Whose grasp lie the powers of heaven and earth?
 I ask Thee, O Lord my God, by the splendour of the lights of Thy loving‑kindness and the billows of the ocean of Thy knowledge and wisdom and by Thy Word wherewith Thou hast swayed the peoples of Thy dominion, to grant that I may be one of them that have observed Thy bidding in Thy Book. And do Thou ordain for me that which Thou hast ordained for Thy trusted ones, them that have quaffed the wine of divine inspiration from the chalice of Thy bounty and hastened to do Thy pleasure and observe Thy Covenant and Testament. Powerful art Thou to do as Thou willest. There is none other God but Thee, the All‑Knowing, the All‑Wise.
@@ -613,15 +613,15 @@ I beseech Thee so to enrich me as to dispense with all save Thee, and be made in
 This is Thy servant, O my Lord, who with his whole being hath turned unto the horizon of Thy bounty, and the ocean of Thy grace, and the heaven of Thy gifts. Do with me then as becometh Thy majesty, and Thy glory, and Thy bounteousness, and Thy grace.
 Thou, in truth, art the God of strength and power, Who art meet to answer them that pray Thee. There is no God save Thee, the All‑Knowing, the All‑Wise.
 
-- Mercy
+- Steadfastness
 Glory be to Thee, O Lord my God! Abase not him whom Thou hast exalted through the power of Thine everlasting sovereignty, and remove not far from Thee him whom Thou hast caused to enter the tabernacle of Thine eternity. Wilt Thou cast away, O my God, him whom Thou hast overshadowed with Thy Lordship, and wilt Thou turn away from Thee, O my Desire, him to whom Thou hast been a refuge? Canst Thou degrade him whom Thou hast uplifted, or forget him whom Thou didst enable to remember Thee?
 Glorified, immensely glorified art Thou! Thou art He Who from everlasting hath been the King of the entire creation and its Prime Mover, and Thou wilt to everlasting remain the Lord of all created things and their Ordainer. Glorified art Thou, O my God! If Thou ceasest to be merciful unto Thy servants, who, then, will show mercy unto them; and if Thou refusest to succour Thy loved ones, who is there that can succour them?
 Glorified, immeasurably glorified art Thou! Thou art adored in Thy truth, and Thee do we all, verily, worship; and Thou art manifest in Thy justice, and to Thee do we all, verily, bear witness. Thou art, in truth, beloved in Thy grace. No God is there but Thee, the Help in Peril, the Self‑Subsisting.
 
-- Mercy
+- Illumination
 O Thou Omnipotent Lord! We are all held within the mighty grasp of Thy power. Thou art our Supporter and our Helper. Grant us Thy tender mercy, bestow upon us Thy bounty, open the portals of grace, and cast upon us the glance of Thy favours. Let a vivifying breeze waft over us, and quicken Thou our yearning hearts. Illumine our eyes and make the sanctuary of our hearts the envy of every blossoming bower. Rejoice every soul and gladden every spirit. Reveal Thine ancient power and make manifest Thy great might. Cause the birds of human souls to soar to new heights, and let Thy confidants in this nether world fathom the mysteries of Thy Kingdom. Set firm our steps and bestow upon us unwavering hearts. We are sinners, and Thou art the Ever‑Forgiving. We are Thy servants, and Thou art the Sovereign Lord. We are homeless wanderers, and Thou art our haven and refuge. Graciously aid and assist us to diffuse Thy sweet savours and to exalt Thy Word. Elevate the station of the dispossessed, and bestow Thine inexhaustible treasure upon the destitute. Vouchsafe Thy strength unto the weak, and confer heavenly power upon the feeble. Thou art the Provider, Thou art the Gracious, Thou art the Lord Who ruleth over all things.
 
-- Mercy
+- Abundance
 Glory be unto Thee, O Lord my God! I beg Thee to forgive me and those who support Thy Faith. Verily, Thou art the sovereign Lord, the Forgiver, the Most Generous. O my God! Enable such servants of Thine as are deprived of knowledge to be admitted into Thy Cause; for once they learn of Thee, they bear witness to the truth of the Day of Judgement and do not dispute the revelations of Thy bounty. Send down upon them the tokens of Thy grace, and grant them, wherever they reside, a liberal share of that which Thou hast ordained for the pious among Thy servants. Thou art in truth the Supreme Ruler, the All‑Bounteous, the Most Benevolent.
 O my God! Let the outpourings of Thy bounty and blessings descend upon homes whose inmates have embraced Thy Faith, as a token of Thy grace and as a mark of loving‑kindness from Thy presence. Verily, unsurpassed art Thou in granting forgiveness. Should Thy bounty be withheld from anyone, how could he be reckoned among the followers of the Faith in Thy Day?
 Bless me, O my God, and those who will believe in Thy signs on the appointed Day, and such as cherish my love in their hearts—a love which Thou dost instil into them. Verily, Thou art the Lord of righteousness, the Most Exalted.
@@ -657,7 +657,7 @@ Lauded and glorified art Thou, O my God!
 I entreat Thee by the sighing of Thy lovers and by the tears shed by them that long to behold Thee, not to withhold from me Thy tender mercies in Thy Day, nor to deprive me of the melodies of the Dove that extolleth Thy oneness before the light that shineth from Thy face. I am the one who is in misery, O God! Behold me cleaving fast to Thy Name, the All‑Possessing. I am the one who is sure to perish; behold me clinging to Thy Name, the Imperishable. I implore Thee, therefore, by Thy Self, the Exalted, the Most High, not to abandon me unto mine own self and unto the desires of a corrupt inclination. Hold Thou my hand with the hand of Thy power, and deliver me from the depths of my fancies and idle imaginings, and cleanse me of all that is abhorrent unto Thee.
 Cause me, then, to turn wholly unto Thee, to put my whole trust in Thee, to seek Thee as my Refuge, and to flee unto Thy face. Thou art, verily, He Who, through the power of His might, doeth whatsoever He desireth, and commandeth, through the potency of His will, whatsoever He chooseth. None can withstand the operation of Thy decree; none can divert the course of Thine appointment. Thou art, in truth, the Almighty, the All‑Glorious, the Most Bountiful.
 
-- Mercy
+- Abundance
 Glory to Thee, O my God! The first stirrings of the spring of Thy grace have appeared and clothed Thine earth with verdure. The clouds of the heaven of Thy bounty have rained their rain on this City within whose walls is imprisoned Him Whose desire is the salvation of Thy creatures. Through it the soil of this City hath been decked forth, and its trees clothed with foliage, and its inhabitants gladdened.
 The hearts of Thy dear ones, however, will rejoice only at the Divine Springtime of Thy tender mercies, whereby the hearts are quickened, and the souls are renewed, and the trees of human existence bear their fruits.
 The plants that have sprung forth, O my Lord, in the hearts of Thy loved ones have withered away. Send down upon them, from the clouds of Thy spirit, that which will cause the tender herbs of Thy knowledge and wisdom to grow within their breasts. Rejoice, then, their hearts with the proclamation of Thy Cause and the exaltation of Thy sovereignty.
@@ -668,7 +668,7 @@ He is God.
 O Thou kind and beloved Lord! These friends are exhilarated with the wine of the Covenant and are wanderers in the wilderness of Thy love. Their hearts are consumed by the flames of remoteness from Thee, and they yearn eagerly for the revelation of Thy splendours. From Thine invisible Kingdom, the Realm of the unseen, reveal unto them the effulgent glory of Thy grace, and shed upon them the radiance of Thy bounty. At every moment, send forth a new blessing and reveal a fresh favour.
 O Divine Providence! We are weak and Thou art the Most Powerful. We are as tiny ants and Thou art the King of the Realm of Glory. Bestow Thy grace and confer Thy bounty upon us, that we may kindle a flame and shed its splendour abroad, that we may show forth strength and render some service. Grant that we may bring illumination to this darksome earth and spirituality to this fleeting world of dust. Suffer us not to rest for a moment, nor to defile ourselves with the transitory things of this life. Enable us to prepare a banquet of guidance, inscribe with our life‑blood the verses of love, leave fear and peril behind, become even as fruitful trees, and cause human perfections to appear in this ephemeral world. Thou, in truth, art the All‑Bountiful, the Most Compassionate, the Ever‑Forgiving, the Pardoner.
 
-- Mercy
+- Redemption
 Praised be Thou, O Lord my God! I implore Thee by Thine Ancient Beauty and Most Great Name, Whom Thou hast sacrificed that all the dwellers of Thine earth and heaven may be born anew, and Whom Thou hast cast into prison that mankind may, as a token of Thy bounty and of Thy sovereign might, be released from the bondage of evil passions and corrupt desires, to number me with those who have so deeply inhaled the fragrance of Thy mercy, and hastened with such speed unto the living waters of Thy grace, that no dart could hinder them from turning unto Thee, nor any spear from setting their faces towards the orient of Thy Revelation.
 We testify, O my Lord, that Thou art God and that there is none other God besides Thee. From everlasting Thou wast enthroned on the inaccessible heights of Thy power, and wilt unto everlasting continue to exercise Thy transcendent and unrestrained dominion. The hosts of the world are powerless to frustrate Thy will, nor can all the dwellers of the earth and all the inmates of heaven annul Thy decree. Thou truly art the Almighty, the Most Exalted, the Most Great.
 Bless, O my God, those of the followers of the Bayán as have been numbered with the people of Bahá, who have entered within the Crimson Ark in Thy Name, the Most Exalted, the Most High. Thy might, verily, is equal to all things.
@@ -677,7 +677,7 @@ Bless, O my God, those of the followers of the Bayán as have been numbered with
 Praise be to Thee, O Lord my God, my Master! Thou hearest the sighing of those who, though they long to behold Thy face, are yet separated from Thee and far distant from Thy court. Thou testifiest to the lamentations which those who have recognised Thee pour forth because of their exile from Thee and their yearning to meet Thee. I beseech Thee by those hearts which contain naught except the treasures of Thy remembrance and praise, and which show forth only the testimonies of Thy greatness and the evidences of Thy might, to bestow on Thy servants who desire Thee power to approach the seat of the revelation of the splendour of Thy glory and to assist them whose hopes are set on Thee to enter into the tabernacle of Thy transcendent favour and mercy.
 Naked am I, O my God! Clothe me with the robe of Thy tender mercies. I am sore athirst; give me to drink of the oceans of Thy bountiful favour. I am a stranger; draw me nearer unto the source of Thy gifts. I am sick; sprinkle upon me the healing waters of Thy grace. I am a captive; rid me of my bondage, by the power of Thy might and through the force of Thy will, that I may soar on the wings of detachment towards the loftiest summits of Thy creation. Thou, verily, doest what Thou choosest. There is no God but Thee, the Help in Peril, the All‑Glorious, the Unconstrained.
 
-- Mercy
+- Abundance
 Lauded be Thy name, O my God! I can discover no one in Thy realm who can befittingly turn unto Thee, or is able to adequately hearken unto what hath gone out of the mouth of Thy will. I beseech Thee, therefore, O Thou Who art the Possessor of the entire creation and the King of the realm of Thine invention, graciously to aid Thy creatures to accomplish that which is pleasing and acceptable unto Thee, that they may arise to serve Thy Cause amidst Thy creatures, and to speak forth Thy praise before all who are in heaven and on earth.
 Thou art He, O my Lord, Whose bounty hath surpassed all things, and Whose power hath transcended all things, and Whose mercy hath encompassed all things. Look, then, upon Thy people with the eyes of Thy tender mercies, and leave them not to themselves and to their corrupt desires in Thy days. How farsoever they may have strayed from Thee, and however grievously they have turned back from Thy face, yet Thou, in Thine essence, art the All‑Bountiful, and, in Thine inmost spirit, art the Most Merciful. Deal with them according to the unrevealed tokens of Thy bounty and Thy gifts. Thou art, verily, the One to the power of Whose might all things have testified, and to Whose majesty and omnipotence the whole creation hath borne witness.
 No God is there but Thee, the Help in Peril, the Self‑Subsisting.
@@ -688,18 +688,18 @@ I have laid hold, O my Lord, on the handle of Thy bounty, and clung steadfastly 
 Deny me not, O my Lord, the fragrances of Thy raiment in Thy days, and deprive me not of the breathings of Thy Revelation at the appearance of the splendours of the light of Thy face. Powerful art Thou to do what pleaseth Thee. Naught can resist Thy will, nor frustrate what Thou hast purposed by Thy power.
 No God is there but Thee, the Almighty, the All‑Wise.
 
-- Mercy
+- Illumination
 Lauded be Thy name, O Thou in Whose hands is the kingdom of all names, and in the grasp of Whose might are all that are in heaven and all that are on earth! I entreat Thee, by Him Who is Thy Most Effulgent Name Whom Thou hast made a target for the darts of Thy decree in Thy path, O Thou the King of eternity, to rend asunder the veils that have shut off Thy creatures from the horizon of Thy glory, that haply they may turn their faces in the direction of Thy mercy, and draw nigh unto the Dayspring of Thy loving‑kindness.
 Leave not Thy servants to themselves, O my Lord! Draw them through the influence of Thine utterances unto the Dawning‑Place of Thine inspiration, and to the Fountain of Thy Revelation, and to the Treasury of Thy wisdom. Thou art He to Whose strength and power all things have testified, Whose Purpose nothing whatsoever of all that hath been created in Thy heaven and on Thy earth hath been able to frustrate.
 Render, then, victorious, O my God, Thy servants who have set their faces towards Thee, and directed their steps to the seat of Thy grace. Send down, then, upon them what will keep them safe from the danger of turning to any one but Thee, and from fixing their eyes upon aught else except Thyself.
 Potent art Thou to do what Thou willest, and to rule as Thou pleasest. There is no God but Thee, the God of glory and wisdom.
 
-- Mercy
+- Abundance
 Dispel my grief by Thy bounty and Thy generosity, O God, my God, and banish mine anguish through Thy sovereignty and Thy might. Thou seest me, O my God, with my face set towards Thee at a time when sorrows have compassed me on every side. I implore Thee, O Thou Who art the Lord of all being, and overshadowest all things visible and invisible, by Thy Name whereby Thou hast subdued the hearts and the souls of men, and by the billows of the Ocean of Thy mercy and the splendours of the Daystar of Thy bounty, to number me with them whom nothing whatsoever hath deterred from setting their faces toward Thee, O Thou Lord of all names and Maker of the heavens!
 Thou beholdest, O my Lord, the things which have befallen me in Thy days. I entreat Thee, by Him Who is the Dayspring of Thy names and the Dawning‑Place of Thine attributes, to ordain for me what will enable me to arise to serve Thee and to extol Thy virtues. Thou art, verily, the Almighty, the Most Powerful, Who art wont to answer the prayers of all men!
 And, finally, I beg of Thee by the light of Thy countenance to bless my affairs, and redeem my debts, and satisfy my needs. Thou art He to Whose power and to Whose dominion every tongue hath testified, and Whose majesty and Whose sovereignty every understanding heart hath acknowledged. No God is there but Thee, Who hearest and art ready to answer.
 
-- Mercy
+- Longing
 Glorified art Thou, O Lord my God! I beseech Thee by Thy Chosen Ones, and by the Bearers of Thy Trust, and by Him Whom Thou hast ordained to be the Seal of Thy Prophets and of Thy Messengers, to let Thy remembrance be my companion, and Thy love my aim, and Thy face my goal, and Thy name my lamp, and Thy wish my desire, and Thy pleasure my delight.
 I am a sinner, O my Lord, and Thou art the Ever‑Forgiving. As soon as I recognised Thee, I hastened to attain the exalted court of Thy loving‑kindness. Forgive me, O my Lord, my sins which have hindered me from walking in the ways of Thy good pleasure, and from attaining the shores of the ocean of Thy oneness.
 There is no one, O my Lord, who can deal bountifully with me to whom I can turn my face, and none who can have compassion on me that I may crave his mercy. Cast me not out, I implore Thee, of the presence of Thy grace, neither do Thou withhold from me the outpourings of Thy generosity and bounty. Ordain for me, O my Lord, what Thou hast ordained for them that love Thee, and write down for me what Thou hast written down for Thy chosen ones. My gaze hath, at all times, been fixed on the horizon of Thy gracious providence, and mine eyes bent upon the court of Thy tender mercies. Do with me as beseemeth Thee. No God is there but Thee, the God of power, the God of glory, Whose help is implored by all men.
@@ -715,7 +715,7 @@ Magnified be Thy name, O my God, for that Thou hast manifested the Day which is 
 I beseech Thee, O my Lord, by the name of Him round Whom circleth in adoration the kingdom of Thy names, that Thou wilt graciously assist them that are dear to Thee to glorify Thy word among Thy servants, and to shed abroad Thy praise amidst Thy creatures, so that the ecstasies of Thy revelation may fill the souls of all the dwellers of Thine earth.
 Since Thou hast guided them, O my Lord, unto the living waters of Thy grace, grant, by Thy bounty, that they may not be kept back from Thee; and since Thou hast summoned them to the habitation of Thy throne, drive them not out from Thy presence, through Thy loving‑kindness. Send down upon them what shall wholly detach them from aught else except Thee, and make them able to soar in the atmosphere of Thy nearness, in such wise that neither the ascendancy of the oppressor nor the suggestions of them that have disbelieved in Thy most august and most mighty Self shall be capable of keeping them back from Thee.
 
-- Mercy
+- Longing
 Vouchsafe unto me, O my God, the full measure of Thy love and Thy good‑pleasure, and through the attractions of Thy resplendent light enrapture our hearts, O Thou Who art the Supreme Evidence and the All‑Glorified. Send down upon me, as a token of Thy grace, Thy vitalising breezes, throughout the daytime and in the night season, O Lord of bounty.
 No deed have I done, O my God, to merit beholding Thy face, and I know of a certainty that were I to live as long as the world lasts I would fail to accomplish any deed such as to deserve this favour, inasmuch as the station of a servant shall ever fall short of access to Thy holy precincts, unless Thy bounty should reach me and Thy tender mercy pervade me and Thy loving‑kindness encompass me.
 All praise be unto Thee, O Thou besides Whom there is none other God. Graciously enable me to ascend unto Thee, to be granted the honour of dwelling in Thy nearness and to have communion with Thee alone. No God is there but Thee.
@@ -753,7 +753,7 @@ Lord! Turn me not away from the ocean of Thy wealth and the heaven of Thy mercy,
 Through Thy revelation, O my God, Thou hast enabled me to know Thee, and through the radiance of Thine effulgent splendour Thou hast inspired me with Thy remembrance. Thou art the One nearest to me with naught else between Thee and me, and Thou art the One Whose power nothing whatsoever can frustrate. Far be it then from Thine Essence that the mightiest birds of the souls of men or of human imaginings should ever scale its heights, and too exalted is Thy holy Being for the loftiest sentiments of men of understanding to attain unto Thee. From everlasting no one hath comprehended Thine Own Self, and unto everlasting Thou shalt remain what Thou hast been since time immemorial with no one else besides Thee.
 Magnified be Thy Name, Thou art the Best‑Beloved Who hast enabled me to know Thee and Thou art that All‑Renowned One Who hast graciously favoured me with Thy love. Thou art the Ancient of Days Whom none can ever describe through the evidences of Thy glory and majesty, and Thou art the mighty One Whom none can ever comprehend through the revelations of Thy greatness and beauty, inasmuch as the expressions of majesty and grandeur and the attributes of dominion and beauty are but the tokens of Thy divine Will and the effulgent reflections of Thy sovereignty which, by reason of their very essence and nature, proclaim that the way is barred and bear witness that the pathway is inaccessibly beyond the reach of men.
 
-- Mercy
+- Abundance
 In the Name of thy Lord, the Creator, the Sovereign, the All‑Sufficing, the Most Exalted, He Whose help is implored by all men.
 Say: O my God! O Thou Who art the Maker of the heavens and of the earth, O Lord of the Kingdom! Thou well knowest the secrets of my heart, while Thy Being is inscrutable to all save Thyself. Thou seest whatsoever is of me, while no one else can do this save Thee. Vouchsafe unto me, through Thy grace, what will enable me to dispense with all except Thee, and destine for me that which will make me independent of everyone else besides Thee. Grant that I may reap the benefit of my life in this world and in the next. Open to my face the portals of Thy grace, and graciously confer upon me Thy tender mercy and bestowals.
 O Thou Who art the Lord of grace abounding! Let Thy celestial aid surround those who love Thee, and bestow upon us the gifts and the bounties Thou dost possess. Be Thou sufficient unto us of all things, forgive our sins and have mercy upon us. Thou art our Lord and the Lord of all created things. No one else do we invoke but Thee, and naught do we beseech but Thy favours. Thou art the Lord of bounty and grace, invincible in Thy power and the most skilful in Thy designs. No God is there but Thee, the All‑Possessing, the Most Exalted.
@@ -769,7 +769,7 @@ Praise be to Thee, O Lord my God! I swear by Thy might! Successive afflictions h
 Is there any man of insight, O my God, that can behold Thee with Thine own eye, and where is the thirsty one who can direct his face towards the living waters of Thy love? I am the one, O my God, who hath blotted out from his heart the remembrance of all except Thee, and hath graven upon it the mysteries of Thy love. Thine own might beareth me witness! But for tribulations, how could the assured be distinguished from the doubters among Thy servants? They who have been inebriated with the wine of Thy knowledge, these, verily, hasten to meet every manner of adversity in their longing to pass into Thy presence. I implore Thee, O Beloved of my heart and the Object of my soul’s adoration, to shield them that love me from the faintest trace of evil and corrupt desires. Supply them, then, with the good of this world and of the next.
 Thou art, verily, He Whose grace hath guided them aright, He Who hath declared Himself to be the All‑Merciful. No God is there but Thee, the All‑Glorious, the Supreme Helper.
 
-- Mercy
+- Abundance
 Thou seest me, O my God, bowed down in lowliness, humbling myself before Thy commandments, submitting to Thy sovereignty, trembling at the might of Thy dominion, fleeing from Thy wrath, entreating Thy grace, relying upon Thy forgiveness, shaking with awe at Thy fury. I implore Thee with a throbbing heart, with streaming tears and a yearning soul, and in complete detachment from all things, to make Thy lovers as rays of light across Thy realms, and to aid Thy chosen servants to exalt Thy Word, that their faces may turn beauteous and bright with splendour, that their hearts may be filled with mysteries, and that every soul may lay down its burden of sin. Guard them then from the aggressor, from him who hath become a shameless and blasphemous doer of wrong.
 Verily, Thy lovers thirst, O my Lord; lead them to the wellspring of bounty and grace. Verily, they hunger; send down unto them Thy heavenly table. Verily, they are naked; robe them in the garments of learning and knowledge.
 Heroes are they, O my Lord, lead them to the field of battle. Guides are they, make them to speak out with arguments and proofs. Ministering servants are they, cause them to pass round the cup that brimmeth with the wine of certitude. O my God, make them to be songsters that carol in fair gardens, make them lions that couch in the thickets, whales that plunge in the vasty deep.
@@ -786,7 +786,7 @@ O Thou, my God, Who guidest the seeker to the pathway that leadeth aright, Who d
 O my Lord, they thirsted, Thou didst lift to their parched lips the waters of reunion. O Tender One, Bestowing One, Thou didst calm their pain with the balm of Thy bounty and grace, and didst heal their ailments with the sovereign medicine of Thy compassion. O Lord, make firm their feet on Thy straight path, make wide for them the needle’s eye, and cause them, dressed in royal robes, to walk in glory for ever and ever.
 Verily, art Thou the Generous, the Ever‑Giving, the Precious, the Most Bountiful. There is none other God but Thee, the Mighty, the Powerful, the Exalted, the Victorious.
 
-- Mercy
+- Illumination
 Magnified be Thy name, O Lord my God, inasmuch as Thou hast inclined mine ear to Thy voice, and called me to Thyself, and opened mine eyes to gaze on Thy beauty, and illumined my heart with Thy knowledge, and sanctified my breast from the doubts of the infidels in Thy days. I am the one, O my God, who lay fast asleep on his couch, when lo, the messengers of Thy manifold mercies were sent down upon me by Thee, and the gentle winds of Thy loving‑kindness blew over me, and roused me up, and caused me to set my face towards the sanctuary of Thy knowledge, and to fix mine eyes upon the splendours of the light of Thy face.
 I am but a poor creature, O my Lord! Behold me clinging to the hem of Thy riches. I have fled from darkness and from waywardness unto the brightness of the light of Thy countenance. Were I—and to this Thy glory beareth me witness—to render thanksgiving unto Thee, through the whole continuance of Thy kingdom and the duration of the heaven of Thine omnipotence, I would still have failed to repay Thy manifold bestowals.
 I implore Thee, O my Lord, by Thy name, the Ever‑Abiding, and by Thy name which Thou didst ordain to be the most great Instrument binding Thee to Thy servants, to grant that I may flee for shelter to Thy door, and speak forth Thy praise. Write down, then, for me, in every world of Thine, that which will enable me to enter beneath Thy shadow and within the borders of Thy court.
