@@ -932,6 +932,8 @@ export const files = {
         }
       ),
       [/^—Bahá’u’lláh$/gm, "#"],
+      [/^Bahá’u’lláh states in another Tablet.*/m, ""],
+      [/^In a Tablet Bahá’u’lláh states.*/m, ""],
       [/^Zaynu’l‑Muqarrabín./m, ""],
       [/^Cf. Qur’án 17:23..*/m, ""],
       [/^Inscription on the tombstone of Ḥusayn.*/m, ""],
@@ -2320,6 +2322,7 @@ The sole remedy is universal peace. And this is achieved only by the establishme
       ],
       ["### Turning Point", "Turning Point"],
       ["has endowed each and all", "hast endowed each and all"],
+      ["benefits: It enables", "benefits:\n\nIt enables"],
     ],
   },
   "official-statements-commentaries": {

@@ -225,9 +225,11 @@ const prayerCategories = {
   ayyamiha: (text) => text.includes("ayyam‑i‑ha"),
   nawruz: (text) => text.includes("naw‑ruz"),
   washington: (text) => text.includes("washington"),
+  america: (text) => text.includes("america"),
   thedead: (text) => text.includes("the prayer for the dead"),
   obligatory: (text) => text.includes("to be recited"),
-  narrative: (text) => ["The Purest Branch"].some((s) => text.includes(s)),
+  narrative: (text) =>
+    ["the purest branch", "‘ali the great"].some((s) => text.includes(s)),
   government: (text) =>
     ["democracy", "government"].some((s) => text.includes(s)),
   temple: (text) =>
@@ -280,9 +282,14 @@ const prayerCategories = {
     ["daughter", "enable her", "from herself"].some((s) => text.includes(s)) ||
     (text.includes("maid") && !/\b(servants|friends)\b/.test(text)),
   tests: (text) =>
-    ["mischief", "enemies", "adversaries", "wicked", "repudiat"].some((s) =>
-      text.includes(s)
-    ),
+    [
+      "mischief",
+      "enemies",
+      "adversaries",
+      "wicked",
+      "repudiat",
+      "infidel",
+    ].some((s) => text.includes(s)),
   gathering: (text) =>
     [
       "meeting",
@@ -414,7 +421,6 @@ const prayerThemes = [
   "Steadfastness",
   "Steadfastness",
   "Compassion",
-  "Compassion",
   "Unity",
   "Longing",
   "Illumination",
@@ -425,7 +431,6 @@ const prayerThemes = [
   "Illumination",
   "Unity",
   "Compassion",
-  "Longing",
   "Longing",
   "Unity",
   "Compassion",
@@ -465,7 +470,6 @@ const prayerThemes = [
   "Compassion",
   "Unity",
   "Abundance",
-  "Illumination",
 ];
 
 let prayerCounter = 0;
@@ -524,25 +528,27 @@ router
   .post("/paragraphs", (ctx) => {
     const { author } = ctx.request.body;
     const allAuthors = authors[author] || (author && [author]);
-    ctx.body = allParagraphs
-      .filter((d) => d.score > 0)
-      .filter(
-        (d) =>
-          ![
-            "The Ruhi Institute",
-            "Compilation",
-            "The Bible",
-            "Muḥammad",
-          ].includes(d.author)
-      )
-      .filter(
-        (d) =>
-          !author ||
-          allAuthors.includes(d.author) ||
-          allAuthors.includes(d.epoch)
-      )
-      .sort((a, b) => b.score - a.score)
-      .slice(0, 250);
+    ctx.body = orderByDate(
+      allParagraphs
+        .filter((d) => d.score > 0)
+        .filter(
+          (d) =>
+            ![
+              "The Ruhi Institute",
+              "Compilation",
+              "The Bible",
+              "Muḥammad",
+            ].includes(d.author)
+        )
+        .filter(
+          (d) =>
+            !author ||
+            allAuthors.includes(d.author) ||
+            allAuthors.includes(d.epoch)
+        )
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 50)
+    );
   })
   .post("/documents", (ctx) => {
     const { author } = ctx.request.body;
@@ -572,8 +578,8 @@ router
   .post("/prayers", (ctx) => {
     const { author } = ctx.request.body;
     const allAuthors = authors[author] || (author && [author]);
-    ctx.body = allPrayers.filter(
-      (d) => !author || allAuthors.includes(d.author)
+    ctx.body = shuffleArray(
+      allPrayers.filter((d) => !author || allAuthors.includes(d.author))
     );
   })
   .post("/documentById", (ctx) => {
