@@ -1,6 +1,6 @@
 Book 6: Teaching the Cause
 author="The Ruhi Institute"
-years=[2023,2023]
+years=[2023.0401,2023.0401]
 
 # A Few Thoughts for the Tutor
 

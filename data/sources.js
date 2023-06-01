@@ -1851,6 +1851,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ["doth not matter. It behoveth", "doth not matter. . . . It behoveth"],
       ["so brief an interval", "so brief a span"],
       ["honoured servants. Pointing", "honoured servants. . . . Pointing"],
+      ["revealed in the Bayán is but", "exalted in the Bayán is but as"],
     ],
     "promised-day-come": [
       ["By Shoghi Effendi", ""],

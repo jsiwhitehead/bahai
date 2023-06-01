@@ -1,6 +1,6 @@
 Book 9: Gaining an Historical Perspective
 author="The Ruhi Institute"
-years=[2019,2019]
+years=[2019.0612,2019.0612]
 
 # Unit 1: The Eternal Covenant
 

@@ -150,6 +150,7 @@ const documents = Object.keys(documentsBase).map((id) => {
     })
     .map((p, i) => ({
       id,
+      prayer: info.type === "Prayer",
       author: p.author || info.author,
       epoch: info.epoch,
       years: info.years,
@@ -168,7 +169,7 @@ const documents = Object.keys(documentsBase).map((id) => {
       // ),
       ...p,
     }));
-  if (info.type !== "Prayer") allParagraphs.push(...paras);
+  allParagraphs.push(...paras);
 
   const fullWords = words.reduce((res, n) => res + n, 0);
   return {
@@ -528,27 +529,26 @@ router
   .post("/paragraphs", (ctx) => {
     const { author } = ctx.request.body;
     const allAuthors = authors[author] || (author && [author]);
-    ctx.body = orderByDate(
-      allParagraphs
-        .filter((d) => d.score > 0)
-        .filter(
-          (d) =>
-            ![
-              "The Ruhi Institute",
-              "Compilation",
-              "The Bible",
-              "Muḥammad",
-            ].includes(d.author)
-        )
-        .filter(
-          (d) =>
-            !author ||
-            allAuthors.includes(d.author) ||
-            allAuthors.includes(d.epoch)
-        )
-        .sort((a, b) => b.score - a.score)
-        .slice(0, 50)
-    );
+    ctx.body = allParagraphs
+      .filter((d) => d.score > 0)
+      .filter(
+        (d) =>
+          ![
+            "The Ruhi Institute",
+            "Compilation",
+            "The Bible",
+            "Muḥammad",
+          ].includes(d.author)
+      )
+      .filter(
+        (d) =>
+          !author ||
+          allAuthors.includes(d.author) ||
+          allAuthors.includes(d.epoch)
+      )
+      .filter((d) => !d.prayer)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 250);
   })
   .post("/documents", (ctx) => {
     const { author } = ctx.request.body;
@@ -578,8 +578,8 @@ router
   .post("/prayers", (ctx) => {
     const { author } = ctx.request.body;
     const allAuthors = authors[author] || (author && [author]);
-    ctx.body = shuffleArray(
-      allPrayers.filter((d) => !author || allAuthors.includes(d.author))
+    ctx.body = allPrayers.filter(
+      (d) => !author || allAuthors.includes(d.author)
     );
   })
   .post("/documentById", (ctx) => {
