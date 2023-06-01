@@ -2,25 +2,16 @@
   "name": "bahai",
   "type": "module",
   "scripts": {
-    "download": "node ./data/download.js",
-    "spellings": "node ./data/spellings.js",
-    "format": "node ./data/format.js",
-    "process": "node ./data/process.js",
-    "link": "node ./data/link.js",
-    "search": "node ./data/search.js",
-    "server": "node ./server/index.js"
+    "download": "node ./src/download.js",
+    "spellings": "node ./src/spellings.js",
+    "format": "node ./src/format.js",
+    "process": "node ./src/process.js",
+    "link": "node ./src/link.js"
   },
   "devDependencies": {
     "fs-extra": "^11.1.1",
     "node-fetch": "^3.3.1",
     "parse5": "^7.1.2",
     "prettier": "^2.8.8"
-  },
-  "dependencies": {
-    "@koa/cors": "^4.0.0",
-    "koa": "^2.14.2",
-    "koa-bodyparser": "^4.4.0",
-    "koa-router": "^12.0.0",
-    "lunr": "^2.3.9"
   }
 }
