@@ -281,7 +281,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
                 start,
                 end: start + text.length,
               });
-              return { source: documents[id], paragraph };
+              return { source: documents.find((d) => d.id === id), paragraph };
             }
             return { text, parts, simplified };
           });
@@ -318,24 +318,22 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
     }
   }
 
-  const documentMap = documents
-    .filter((doc) => !["bible", "quran"].some((s) => doc.id.startsWith(s)))
-    .reduce((res, { paragraphs, ...d }) => {
-      let counter = 1;
-      const paras = paragraphs.map((p) => p.base);
-      const allLines = paras.every((p) => p.type || p.lines);
-      return {
-        ...res,
-        [d.id]: {
-          ...d,
-          paragraphs: paras.map((p) =>
-            !p.text || p.type || (p.lines && !allLines)
-              ? p
-              : { index: counter++, ...p }
-          ),
-        },
-      };
-    }, {});
+  const documentMap = documents.reduce((res, { paragraphs, ...d }) => {
+    let counter = 1;
+    const paras = paragraphs.map((p) => p.base);
+    const allLines = paras.every((p) => p.type || p.lines);
+    return {
+      ...res,
+      [d.id]: {
+        ...d,
+        paragraphs: paras.map((p) =>
+          !p.text || p.type || (p.lines && !allLines)
+            ? p
+            : { index: counter++, ...p }
+        ),
+      },
+    };
+  }, {});
 
   for (const id of Object.keys(quotes).filter((id) => documentMap[id])) {
     for (const para of Object.keys(quotes[id])) {

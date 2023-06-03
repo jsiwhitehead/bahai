@@ -2223,6 +2223,19 @@ To remedy this condition there must be universal peace. To bring this about, a S
 
 The sole remedy is universal peace. And this is achieved only by the establishment of a supreme Tribunal, representative of all governments and peoples. All national and international problems should be referred to this tribunal, and whatsoever be its decision that should be enforced. Were a government or people to dissent, the world as a whole should rise against it.`,
       ],
+      ["has been laid waste. It has", "hath been laid waste. It hath"],
+      [
+        "preeminent importance. . . .",
+        `preeminent importance.
+
+An understanding of the principles by which we explore the Revelation of Bahá’u’lláh depends, too, on an appreciation of the broad nature of the authority conferred on the Universal House of Justice. Speaking of the relevant responsibilities of its elected membership, the Will and Testament states:
+
+It is incumbent upon these members (of the Universal House of Justice) to gather in a certain place and deliberate upon all problems which have caused difference, questions that are obscure and matters that are not expressly recorded in the Book. Whatsoever they decide has the same effect as the Text itself.
+
+Emphasising, in this same Charter of the Administrative Order, the importance of believers’ wholehearted adherence to the guidance given by both the Guardian and the Universal House of Justice, ‘Abdu’l‑Bahá says:
+
+Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, hath not obeyed God; whoso rebelleth against him and against them hath rebelled against God; whoso opposeth him hath opposed God; whoso contendeth with them hath contended with God. . . .`,
+      ],
     ],
     "turning-point": [
       removeAfter("Notes"),
