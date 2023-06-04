@@ -161,12 +161,14 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
           doc.id.startsWith("prayers") ||
           doc.id.startsWith("bahaullah-gleanings-writings-bahaullah") ||
           doc.id.startsWith("bahaullah-days-remembrance") ||
+          doc.id.startsWith("bahaullah-epistle-son-wolf") ||
           doc.id === "bahaullah-kitab-i-aqdas-005" ||
           doc.id.startsWith("abdul-baha-selections-writings-abdul-baha") ||
           doc.path.includes(
             "Part One: Excerpts from the Will and Testament of ‘Abdu’l‑Bahá"
           ) ||
-          d.type === "Prayer") &&
+          d.type === "Prayer" ||
+          d.id.startsWith("bahaullah-hidden-words")) &&
         d.years[0] <= doc.years[1] &&
         simplified.every((s) =>
           d.paragraphs.some((p) => p.simplified.join("").includes(s))
@@ -259,32 +261,62 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
             ...para.text
               .split(/‘((?:’[a-z\u00C0-\u017F]|[^’])+)’/g)
               .filter((_, i) => i % 2 === 1),
-          ].map((text) => {
-            const parts = text.split(/(\s*(?:\. \. \.|\[[^\]]*\])\s*)/g);
-            const simplified = parts.map((s) => simplifyText(s));
-            const res = processPara(
-              doc,
-              { simplified, parts },
-              index,
-              (length) => length >= 50
-            );
-            if (res) {
-              const {
-                id,
-                paragraphs: [paragraph],
-              } = res.base;
-              const start = para.text.indexOf(text);
-              para.base.quotes = para.base.quotes || [];
-              para.base.quotes.push({
-                id,
-                paragraph,
-                start,
-                end: start + text.length,
-              });
-              return { source: documents.find((d) => d.id === id), paragraph };
-            }
-            return { text, parts, simplified };
-          });
+          ]
+            .filter(
+              (t) =>
+                ![
+                  " ",
+                  ",",
+                  "Abbás",
+                  "Abdu",
+                  "Ahd",
+                  "Akká",
+                  "Alam",
+                  "Alá",
+                  "Alí",
+                  "Ammú",
+                  "Amú",
+                  "Arab",
+                  "Ayn",
+                  "Azíz",
+                  "Aṭá",
+                  "Aẓím",
+                  "ih",
+                  "Iráq",
+                ].some((x) => t.startsWith(x))
+            )
+            .flatMap((text) => text.split(/(\s*(?:\. \. \.)\s*)/g))
+            .map((text) => {
+              const parts = text.split(/(\s*(?:\[[^\]]*\])\s*)/g);
+              const simplified = parts.map((s) => simplifyText(s));
+              const res = processPara(
+                doc,
+                { simplified, parts },
+                index,
+                (length) => length >= 30
+              );
+              if (res) {
+                const {
+                  id,
+                  paragraphs: [paragraph],
+                } = res.base;
+                const start = para.text.indexOf(text);
+                para.base.quotes = para.base.quotes || [];
+                para.base.quotes.push({
+                  id,
+                  paragraph,
+                  start,
+                  end: start + text.length,
+                });
+                return {
+                  source: documents.find((d) => d.id === id),
+                  paragraph,
+                };
+              } else if (simplified.join("").length >= 50) {
+                // console.log("\n" + text);
+              }
+              return { text, parts, simplified };
+            });
           inlineQuotes.forEach(({ text, parts, simplified }, i) => {
             for (const dir of [-1, 1]) {
               if (text && inlineQuotes[i + dir]?.source) {
@@ -292,7 +324,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
                   doc,
                   { simplified, parts },
                   index,
-                  (length) => length < 50,
+                  (length) => length < 30,
                   inlineQuotes[i + dir].source,
                   inlineQuotes[i + dir].paragraph
                 );
