@@ -14,18 +14,6 @@
   {
     "path": ["Additional"],
     "item": 2,
-    "title": "Bábís of Persia, II, by Prof. E. G. Browne, J.R.A.S., vol. xxi ",
-    "author": "The Báb",
-    "years": [1844, 1853],
-    "paragraphs": [
-      {
-        "text": "So worship God that if the recompense of thy worship of Him were to be the Fire, no alteration in thy worship of Him would be produced. If you worship from fear, that is unworthy of the threshold of the holiness of God. . . . So also, if your gaze is on Paradise, and if you worship in hope of that; for then you have made God’s creation a Partner with Him."
-      }
-    ]
-  },
-  {
-    "path": ["Additional"],
-    "item": 3,
     "author": "The Báb",
     "years": [1844, 1853],
     "paragraphs": [
@@ -36,7 +24,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 4,
+    "item": 3,
     "title": "Addressed to the Letters of the Living, cited in “The Dawn‑Breakers: Nabíl’s Narrative of the Early Days of the Bahá’í Revelation”",
     "author": "The Báb",
     "years": [1844, 1853],
@@ -48,7 +36,7 @@
   },
   {
     "path": ["Additional"],
-    "item": 5,
+    "item": 4,
     "title": "Cited in God Passes By, p. 34; also in The Dawn‑Breakers, pp. 315—16.",
     "author": "The Báb",
     "years": [1844, 1853],
@@ -60,13 +48,24 @@
   },
   {
     "path": ["Additional"],
-    "item": 6,
+    "item": 5,
     "title": "Cited in God Passes By, p. 84; also in The Dawn‑Breakers, p. 514.",
     "author": "The Báb",
     "years": [1844, 1853],
     "paragraphs": [
       {
         "text": "O wayward generation! Had you believed in Me every one of you would have followed the example of this youth, who stood in rank above most of you, and willingly would have sacrificed himself in My path. The day will come when you will have recognised Me; that day I shall have ceased to be with you."
+      }
+    ]
+  },
+  {
+    "path": ["Additional"],
+    "item": 6,
+    "author": "The Báb",
+    "years": [1844, 1853],
+    "paragraphs": [
+      {
+        "text": "God the Exalted had elected Him to the station of Bábhood."
       }
     ]
   }

@@ -571,6 +571,11 @@ export const files = {
         "wouldst for longing after His glorious and sublime Kingdom, lay down thy life in the path of God.",
         "wouldst, in thy love for My name, and in thy longing for My glorious and sublime Kingdom, lay down thy life in My path.",
       ],
+      ["love for Him. Verily", "My love for Him. . . . Verily"],
+      ["a helper. In this", "a helper. . . . In this"],
+      ["its exaltation. Knowledge", "its exaltation. . . . Knowledge"],
+      ["Mother Book in this", "Mother Book . . . in this"],
+      ["possess, it. It is", "possess, it. . . . It is"],
     ],
     "gems-divine-mysteries": [
       removeAfter("Notes"),
@@ -1765,6 +1770,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       ["of the slanderer affect not", "of the slanderer affects not"],
       ["flight into the Celestial", "flight unto the Celestial"],
       ["guidance of the Exalted", "guidance of His Holiness, the Exalted"],
+      ["seest all things weeping me", "seest all things weeping over me"],
     ],
     "prayers-abdul-baha": [
       ["March 2021", ""],
@@ -2056,6 +2062,12 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       ],
       ["century of light—has been", "century of light—hath been"],
       ["guise of the shepherd", "guise of shepherds"],
+      ["fixed a time for you, O people!", "a fixed time for you, O people."],
+      [
+        "Let not a man glory in that he loves his country; let him rather glory in this, that he loves his kind.",
+        "Let not man glory in this that he loveth his country, let him rather glory in this that he loveth his kind.",
+      ],
+      [/and you shall have another/g, "and ye shall have another"],
     ],
     "decisive-hour": [
       [/^Messages from Shoghi Effendi to.*/m, ""],
@@ -2141,6 +2153,10 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       [
         "unity of mankind. May it be the first to unfurl",
         "universality of mankind. May it be the first to upraise",
+      ],
+      [
+        "Let not a man glory in that he loves his country; let him rather glory in this, that he loves his kind.",
+        "Let not man glory in this that he loveth his country, let him rather glory in this that he loveth his kind.",
       ],
     ],
   },
@@ -2559,6 +2575,7 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
         "good of the world and the happiness",
         "good of the world and happiness",
       ],
+      ["and you shall have another", "and ye shall have another"],
     ],
     "century-light": [
       ["The Universal House of Justice", ""],
@@ -2795,6 +2812,29 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       ["Fairford, Cults,", ""],
       ["By Aberdeen", ""],
       removeAfter("A Selected Bibliography"),
+      [/—Bahá’u’lláh.*$/gm, ""],
+      [/—‘Abdu’l‑Bahá.*$/gm, ""],
+      [/—Gleaning.*/gm, ""],
+      [/—Tablets.*/gm, ""],
+      [/—Tablet to.*/gm, ""],
+      [/—Epistle.*/gm, ""],
+      [/—A Traveller.*/gm, ""],
+      [/—Kitáb‑i‑Aqdas.*/gm, ""],
+      [/—Introduction.*/gm, ""],
+      [/—The Summons.*/gm, ""],
+      [/—The Hidden.*/gm, ""],
+      [/—Some Answered.*/gm, ""],
+      [/—Selections.*/gm, ""],
+      [/—The Secret.*/gm, ""],
+      [/—Star.*/gm, ""],
+      [/—March.*/gm, ""],
+      [/—November.*/gm, ""],
+      [/—Bahá’í.*/gm, ""],
+      [/—Diary.*/gm, ""],
+      [/—A Heavenly.*/gm, ""],
+      [/—Kitáb‑i‑Íqán\./g, ""],
+      ["—Tablet of the World.", ""],
+      [/^\[The above letters.*$/m, ""],
       title("", "Bahá’u’lláh and the New Era", {
         author: "John E. Esslemont",
         years: [2006, 2006],
@@ -2825,7 +2865,8 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       title("#", "Epilogue"),
       ["\nBahá’u’lláh and the New Era", "\n# Bahá’u’lláh and the New Era"],
       [/^— .* —$\n\n/gm, "## "],
-      [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
+      [/^[A-Z‘].{1,80}[A-Za-záí\?]$/gm, (a) => `### ${a}`],
+      prefix("Sir ‘Abdu’l‑Bahá ‘Abbás, K.B.E.", "### "),
       ["### Bahá’u’lláh and the New Era", "Bahá’u’lláh and the New Era"],
       [
         /^The months in the Bahá’í[\s\S]*### Spiritual Assemblies$/m,
@@ -2840,6 +2881,304 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       ["being were deeply immersed", "being were deep immersed"],
       ["their utterance to be the Voice", "their utterances to be the Voice"],
       ["vouchsafed to them. In this", "vouchsafed to them. . . . In this"],
+      ["for you, O peoples. If", "for you, O people. If"],
+      ["sabbath day, he must be", "sabbath day, must be"],
+      ["share one hole, the eagle", "share one hole, and the eagle"],
+      ["overlookest the shortcomings", "overlooketh the shortcomings"],
+      [
+        "If one should hear a single verse from Him and recite it, it is better than that he should recite the Bayán [i.e., the Revelation of the Báb] a thousand times.",
+        "A thousand perusals of the Bayán cannot equal the perusal of a single verse to be revealed by Him Whom God shall make manifest.",
+      ],
+      [
+        /^So worship God that if.*$/m,
+        "Worship thou God in such wise that if thy worship lead thee to the fire, no alteration in thine adoration would be produced, and so likewise if thy recompense should be paradise. Thus and thus alone should be the worship which befitteth the one True God. Shouldst thou worship Him because of fear, this would be unseemly in the sanctified Court of His presence, and could not be regarded as an act by thee dedicated to the Oneness of His Being. Or if thy gaze should be on paradise, and thou shouldst worship Him while cherishing such a hope, thou wouldst make God’s creation a partner with Him, notwithstanding the fact that paradise is desired by men.",
+      ],
+      [
+        /^O King, I have seen in[\s\S]*sharp swords and piercing blades.*$/m,
+        `I have seen, O Sháh, in the path of God what eye hath not seen nor ear heard. Mine acquaintances have repudiated Me, and My pathways have been straitened. The fount of well‑being hath run dry, and the bower of ease hath withered. How numerous the tribulations which have rained, and will soon rain, upon Me! I advance with My face set towards Him Who is the Almighty, the All‑Bounteous, whilst behind Me glideth the serpent. Mine eyes have rained down tears until My bed is drenched.
+
+I sorrow not for Myself, however. By God! Mine head yearneth for the spear out of love for its Lord. I never passed a tree, but Mine heart addressed it saying: “O would that thou wert cut down in My name, and My body crucified upon thee, in the path of My Lord!”, for I see the people wandering distraught and unconscious in their drunken stupor. They have raised on high their passions and set down their God. Methinks they have taken His Cause for a mockery and regard it as a play and pastime, believing all the while that they do well, and that they dwell securely in the citadel of safety. Howbeit the matter is not as they fondly imagine: Tomorrow shall they behold that which today they are wont to deny!
+
+Erelong shall the exponents of wealth and power banish Us from the land of Adrianople to the city of ‘Akká. According to what they say, it is the most desolate of the cities of the world, the most unsightly of them in appearance, the most detestable in climate, and the foulest in water. It is as though it were the metropolis of the owl, within whose precincts naught can be heard save the echo of its cry. Therein have they resolved to imprison this Youth, to shut against our faces the doors of ease and comfort, and to deprive us of every worldly benefit throughout the remainder of our days.
+
+By God! Though weariness lay Me low, and hunger consume Me, and the bare rock be My bed, and My fellows the beasts of the field, I will not complain, but will endure patiently as those endued with constancy and firmness have endured patiently, through the power of God, the Eternal King and Creator of the nations, and will render thanks unto God under all conditions. We pray that, out of His bounty—exalted be He—He may release, through this imprisonment, the necks of men from chains and fetters, and cause them to turn, with sincere faces, towards His face, Who is the Mighty, the Bounteous. Ready is He to answer whosoever calleth upon Him, and nigh is He unto such as commune with Him. We further beseech Him to make of this darksome tribulation a shield for the Temple of His Cause, and to protect it from the assault of sharpened swords and pointed daggers. Adversity hath ever given rise to the exaltation of His Cause and the glorification of His Name. Such hath been God’s method carried into effect in centuries and ages past.`,
+      ],
+      ["has attained! . . . Thou has", "hast attained! . . . Thou hast"],
+      ["and to be the limitations", "and to the limitations"],
+      ["raise and exalted. And", "raised and exalted. And"],
+      ["signs, and We strengthen", "signs, and We strengthened"],
+      ["the Seal of Prophets", "the Seal of the Prophets"],
+      ["face of Him Whom is the", "face of Him Who is the"],
+      ["the slightest whisperings of", "the slightest whispering of"],
+      ["ranging from the divine", "ranging from the realm of divine"],
+      [
+        "Of the Tree of Knowledge the All‑glorious fruit is this exalted word: Of one Tree are all ye the fruits and of one Bough the leaves. Let not man glory in this that he loves his country, but let him rather glory in this that he loves his kind.",
+        "The most glorious fruit of the tree of knowledge is this exalted word: Of one tree are all ye the fruit, and of one bough the leaves. Let not man glory in this that he loveth his country, let him rather glory in this that he loveth his kind.",
+      ],
+      [
+        "Man must show forth fruits. A fruitless man, in the words of His Holiness the Spirit [Jesus], is like a fruitless tree, and a fruitless tree is fit for fire.",
+        "Man must bring forth fruit. One who yieldeth no fruit is, in the words of the Spirit, like unto a fruitless tree, and a fruitless tree is fit but for the fire.",
+      ],
+      [
+        "Man should know his own self, and know those things that lead to loftiness or to baseness, to shame or to honour, to wealth or to poverty.",
+        "man should know his own self and recognise that which leadeth unto loftiness or lowliness, glory or abasement, wealth or poverty.",
+      ],
+      [
+        "“Blessed is he who prefers his brother before himself; such an one is of the people of Bahá.”",
+        "“Blessed is he who preferreth his brother before himself. Verily, such a man is reckoned . . . with the people of Bahá”.",
+      ],
+      ["rose no matter what soil", "rose no matter in what soil"],
+      ["human race, is giving praise.", "human race, he is giving praise."],
+      [
+        "Truthfulness is the foundation of all the virtues of mankind. Without truthfulness, progress and success in all of the worlds are impossible for a soul. When this holy attribute is established in man, all the other divine qualities will also become realised.",
+        "Truthfulness is the foundation of all human virtues. Without truthfulness progress and success, in all the worlds of God, are impossible for any soul. When this holy attribute is established in man, all the divine qualities will also be acquired.",
+      ],
+      ["nor have doubt thereof.", "nor have a doubt thereof."],
+      [
+        "The tongue is unable to give an account of these, and utterance falls exceedingly short. The pen is useless in this court, and the ink gives no result but blackness. . . . Heart alone can communicate to heart the state of the knower; this is not the work of a messenger, nor can it be contained in letters.",
+        "The tongue faileth in describing these three valleys, and speech falleth short. The pen steppeth not into this arena, the ink leaveth only a blot. . . . this mystery of inner meaning may be whispered only from heart to heart, and confided only from breast to breast.",
+      ],
+      ["wayward thought from the flame", "wayward thought with the flame"],
+      ["he knows that the friend", "he knows that that friend"],
+      ["Thou has created all humanity", "Thou hast created all humanity"],
+      [
+        "Hearing! O Thou the Compassionate God! Bestow upon me a heart which, like unto glass",
+        "Hearing!\n\nO Thou the Compassionate God! Bestow upon me a heart which, like unto a glass",
+      ],
+      ["confer upon me a thought", "confer upon me thoughts"],
+      [
+        "the spiritual bounty. Thou",
+        "the outpourings of heavenly grace.\n\nThou",
+      ],
+      ["Be ye the very essence", "“Be ye the very essence"],
+      ["permissible to bathe in", "permissible to bathe yourselves in"],
+      ["hearts of the favoured of God.", "hearts of the favoured of God.”"],
+      [
+        "External cleanliness, although it is but a physical thing, has great influence upon spirituality.",
+        "although bodily cleanliness is a physical thing, it hath, nevertheless, a powerful influence on the life of the spirit.",
+      ],
+      [
+        "It is therefore evident that it is possible to cure by foods, aliments, and fruits; but as today the science of medicine is imperfect, this fact is not yet fully grasped. When the science of medicine reaches perfection, treatment will be given by foods, aliments, fragrant fruits, and vegetables, and by various waters, hot and cold in temperature.",
+        "It is therefore evident that it is possible to cure illnesses by means of fruits and other foods. But as the science of medicine has not yet been perfected, this fact has not been fully understood. When this science reaches perfection, treatments will be administered with fragrant fruits and plants as well as with other foods, and with hot and cold waters of various temperatures.",
+      ],
+      [
+        "from the entire concentration of the mind of a strong person upon a sick person, when the latter expects with all his concentrated faith that a cure will be effected from the spiritual power of the strong person, to such an extent that there will be a cordial connection between the strong person and the invalid. The strong person makes every effort to cure the sick patient, and the sick patient is then sure of receiving a cure. From the effect of these mental impressions an excitement of the nerves is produced, and this impression and this excitement of the nerves will become the cause of the recovery of the sick person.",
+        "when a healthy person focuses his whole attention upon a sick person, and the latter in turn fully expects to be healed through the spiritual power of the former and is wholly convinced thereof, to such an extent that a strong connection is created between their hearts. Should the healthy individual then bend every effort to heal the sick one, and should the latter have full faith that health will be attained, an excitement may be produced in his nerves from these soul‑to‑soul influences and bring about the cure.",
+      ],
+      [
+        ". . . This does not depend on contact, nor on sight, nor upon presence. . . . Whether the disease be light or severe, whether there be a contact of bodies or not, whether a personal connection be established between the sick person and the healer or not, this healing takes place through the power of the Holy Spirit.",
+        ". . . This depends neither upon physical contact, nor upon sight, nor even upon presence . . . Whether the disease be mild or severe, whether there be contact between the bodies or not, whether a connection be established between patient and physician or not, whether the patient be present or not, this healing takes place through the power of the Holy Spirit.",
+      ],
+      [
+        "God hath bestowed upon man such wonderful powers,",
+        "God has bestowed such wonderful power upon him",
+      ],
+      ["from His divine Bounty. But", "from His divine Bounty.\n\nBut"],
+      ["pages of God’s book", "pages of God’s holy Book"],
+      ["universal Manifestations would", "universal Manifestation would"],
+      ["that which We revealed", "that which We have revealed"],
+      ["turn your faces toward Him", "turn your faces towards Him"],
+      [
+        "none other except the Most Mighty Branch (‘Abdu’l‑Bahá).",
+        "none except the Most Mighty Branch [‘Abdu’l‑Bahá].",
+      ],
+      ["pledged Ourselves to secure", "pledged Ourself to secure"],
+      ["Should any kind take up arms", "Should any king take up arms"],
+      ["O Oppressors of Earth! Withdraw", "O Oppressors on Earth! Withdraw"],
+      ["sealed it with My seal", "sealed with My seal"],
+      ["being. We see among us men", "being.\n\nWe see amongst us men"],
+      ["lay their head. . . . ", "lay their head. . . .\n\n"],
+      ["equality between men. Equality", "equality between men.\n\nEquality"],
+      ["the creation of man. . . . ", "the creation of man. . . .\n\n"],
+      ["each with their appointed", "each with their own appointed"],
+      ["without anyone in authority.", "without one in authority. . . ."],
+      ["extreme is not good. . . . ", "extreme is not good. . . .\n\n"],
+      ["rich and other lamentably", "rich and others lamentably"],
+      ["number of people.\n\nThe rich", "number of people. The rich"],
+      ["very large number of people", "very large number of the people"],
+      ["very necessaries of life.", "very necessities of life."],
+      ["of rich and want. . . . ", "of riches and of want. . . .\n\n"],
+      [
+        "Among the teachings of Bahá’u’lláh is voluntary sharing of one’s property with others among mankind. This voluntary sharing is greater than (legally imposed) equality, and consists in this, that one should not prefer oneself to others, but rather should sacrifice one’s life and property for others. But this should not be introduced by coercion so that it becomes a law which man is compelled to follow.",
+        "And among the teachings of Bahá’u’lláh is voluntary sharing of one’s property with others among mankind. This voluntary sharing is greater than equality, and consists in this, that man should not prefer himself to others, but rather should sacrifice his life and property for others. But this should not be introduced by coercion so that it becomes a law and man is compelled to follow it.",
+      ],
+      ["Bahá should not deny to any", "Bahá should not deny any"],
+      [
+        /^\. \. \. the most essential[\s\S]*that crimes may not occur\.$/m,
+        `. . . that which is essential is to so educate the masses . . . as to shrink entirely from any crime, and indeed regard the crime itself as the greatest chastisement and the most grievous torment and punishment. Thus no crimes would occur in the first place such that punishments would be required. . . .
+
+. . . if someone wrongs, injures, and assaults another, and the latter retaliates in kind, this constitutes revenge and is blameworthy. If Peter kills the son of Paul, Paul has no right to kill the son of Peter. Were he to do so, it would be an act of vengeance and blameworthy in the extreme. Rather, he must act in the opposite manner and show forgiveness, and, if possible, even be of some assistance to his aggressor. This indeed is that which is worthy of man; for what advantage does one gain from revenge? The two actions are indeed one and the same: If one is reprehensible, so too is the other. The only difference is that one preceded the other.
+
+But the body politic has the right to preserve and to protect. It holds no grudge and harbours no enmity towards the murderer, but chooses to imprison or punish him solely to ensure the protection of others. . . .
+
+Thus when Christ said, “Whosoever shall smite thee on thy right cheek, turn to him the left one also”, the purpose was to educate the people, not to imply that one should assist a wolf that has fallen upon a flock of sheep and is intent upon devouring them all. No, if Christ had known that a wolf had entered the fold and was about to destroy the sheep, He most certainly would have prevented it. . . .
+
+. . . the proper functioning of the body politic depends upon justice . . . So what Christ meant by forgiveness and magnanimity is not that if another nation were to assail you; burn your homes; plunder your possessions; assault your wives, children, and kin; and violate your honour, you must submit to that tyrannical host and permit them to carry out every manner of iniquity and oppression. Rather, the words of Christ refer to private transactions between two individuals, stating that if one person assaults another, the injured party should forgive. But the body politic must safeguard the rights of man. . . .
+
+One final point: The body politic is engaged day and night in devising penal laws and in providing for ways and means of punishment. It builds prisons, acquires chains and fetters, and ordains places of exile and banishment, of torment and hardship, seeking thereby to reform the criminal, whereas in reality this only brings about the degradation of morals and the subversion of character. The body politic should instead strive night and day, bending every effort to ensure that souls are properly educated, that they progress day by day, that they advance in science and learning, that they acquire praiseworthy virtues and laudable manners, and that they forsake violent behaviour, so that crimes might never occur.`,
+      ],
+      ["pursuits of divers peoples", "pursuits of diverse peoples"],
+      [
+        ". . . in this marvellous cycle, the earth will be transformed, and the world of humanity arrayed in tranquillity and beauty. Disputes, quarrels, and murders will be replaced by peace, truth, and concord; among the nations, peoples, races, and countries, love and amity will appear. Cooperation and union will be established, and finally war will be entirely suppressed. . . . Universal peace will raise its tent in the centre of the earth, and the Blessed Tree of Life will grow and spread to such an extent that it will overshadow the East and the West. Strong and weak, rich and poor, antagonistic sects and hostile nations—which are like the wolf and the lamb, the leopard and kid, the lion and calf—will act towards each other with the most complete love, friendship, justice, and equity. The world will be filled with science, with the knowledge of the reality of the mysteries of beings, and with the knowledge of God.",
+        ". . . in this wondrous Dispensation the earth will become another earth and the world of humanity will be arrayed with perfect composure and adornment. Strife, contention, and bloodshed will give way to peace, sincerity, and harmony. Among the nations, peoples, kindreds, and governments, love and amity will prevail and cooperation and close connection will be firmly established. Ultimately, war will be entirely banned . . . Universal peace will raise its pavilion in the midmost heart of creation and the blessed Tree of Life will so grow and flourish as to stretch its sheltering shade over the East and the West. Strong and weak, rich and poor, contending kindreds and hostile nations—which are like the wolf and the lamb, the leopard and kid, the lion and the calf—will treat one another with the utmost love, unity, justice, and equity. The earth will be filled with knowledge and learning, with the realities and mysteries of creation, and with the knowledge of God.",
+      ],
+      [
+        "earth; it should give birth to spirituality, and bring light and life to every soul. If religion becomes a cause of dislike, hatred and division it would be better",
+        "earth, give birth to spirituality, and bring life and light to each heart. If religion becomes a cause of dislike, hatred and division, it were better",
+      ],
+      ["remedy only aggravates", "remedy should only aggravate"],
+      ["caused by such an illusion? God", "caused by an illusion?\n\nGod"],
+      ["sky of humanity.\n\nThe", "sky of humanity. The"],
+      ["The only real difference lies", "The only difference lies"],
+      ["from morning till night", "from morning until evening"],
+      ["How terrible is it that", "How terrible it is that"],
+      ["tract of land—the highest", "tract of land!\n\nThe highest"],
+      ["form of matter, earth.\n\nLand", "form of matter, earth. Land"],
+      ["all people. The earth is", "all people. This earth is"],
+      ["his tomb.\n\nIf more land is", "his tomb! If more land is"],
+      ["extension of territory. But", "extension of territory.\n\nBut"],
+      ["hearts of hundred of men", "hearts of hundreds of men"],
+      ["of his heart on love", "of your heart on love"],
+      ["thought of love. When", "thought of love. . . .\n\nWhen"],
+      ["the savagery of men disappear", "the savagery of man disappear"],
+      ["attain. Nothing is impossible", "attain!\n\nNothing is impossible"],
+      ["benevolence of God. If", "benevolence of God.\n\nIf"],
+      ["growing stronger until", "growing stronger and stronger, until"],
+      ["your people find rest", "your peoples find rest"],
+      ["edifice strong. . . . Although", "edifice strong. . . .\n\nAlthough"],
+      ["Supreme Tribunal which His Holiness", "Supreme Tribunal which"],
+      ["cause of war. This mission", "cause of war. The mission"],
+      ["found in the band which", "found in the ban which"],
+      [
+        "East. In the East",
+        "East.\n\nAbraham appeared in the East. In the East",
+      ],
+      ["Eastern horizon rose the Lord", "Eastern horizon arose the Lord"],
+      ["Eastern world.\n\nBut although", "Eastern world. But although"],
+      ["it has made more rapid", "it has made a more rapid"],
+      ["need of a spiritual ideal", "want of a spiritual idea"],
+      ["gifts. The East", "gifts.\n\nThe East"],
+      ["material. Receiving thus", "material.\n\nReceiving thus"],
+      ["bring about true civilisation", "bring about a true civilisation"],
+      ["Eastern and the Western nations", "Eastern with the Western nations"],
+      ["be assured. . . . This", "be assured. . . .\n\nThis"],
+      [
+        "sole purpose underlying",
+        "sole purpose of guiding mankind to the straight Path of Truth. The purpose underlying",
+      ],
+      [
+        "When they [men] are delivered through the light of faith from the darkness of these vices, and become illuminated with the radiance of the sun of reality, and ennobled with all the virtues, they esteem this the greatest reward, and they know it to be the true paradise. In the same way they consider that the spiritual punishment . . . is to be subjected to the world of nature, to be veiled from God, to be brutal and ignorant, to fall into carnal lusts, to be absorbed in animal frailties, to be characterised with dark qualities . . . these are the greatest punishments and tortures. . . .",
+        "When these souls are delivered from the darkness of these vices through the light of faith, when they are illumined by the rays of the Sun of Truth and endowed with every human virtue, they reckon this as the greatest reward and regard it as the true paradise. In like manner, they consider spiritual punishment . . . to consist in subjection to the world of nature; in being veiled from God; in ignorance and unawareness; in engrossment with covetous desires; in absorption in animal vices; in being marked by evil attributes . . . all of which they reckon to be the greatest of torments and punishments. . . .",
+      ],
+      [
+        ". . . The rewards of the other world are the perfections and the peace obtained in the spiritual worlds after leaving this world . . . the spiritual graces, the various spiritual gifts in the Kingdom of God, the gaining of the desires of the heart and the soul, and the meeting of God in the world of eternity. In the same way the punishments of the other world . . . consist in being deprived of the special divine blessings and the absolute bounties, and falling into the lowest degrees of existence. He who is deprived of these divine favours, although he continues after death, is considered as dead by the people of truth.",
+        ". . . The ultimate rewards consist in spiritual bounties and bestowals, such as the manifold gifts of God that are vouchsafed after the ascension of the soul, the attainment of the heart’s desire, and reunion with Him in the everlasting realm. Similarly, ultimate retributions and punishments consist in being deprived of the special bounties and unfailing bestowals of God and sinking to the lowest degrees of existence. And whoso is deprived of these favours, though he continue to exist after death, is accounted as dead in the eyes of the people of truth.",
+      ],
+      [
+        "The wealth of the other world is nearness to God. Consequently it is certain that those who are near the Divine Court are allowed to intercede, and this intercession is approved by God.",
+        "The wealth of the next world consists in nearness to God. It is certain therefore that those who enjoy near access to the divine threshold are permitted to intercede, and that this intercession is approved in the sight of God.",
+      ],
+      [
+        "It is even possible that the condition of those who have died in sin and unbelief may become changed; that is to say, they may become the object of pardon through the bounty of God, not through His justice; for bounty is giving without desert, and justice is giving what is deserved. As we have the power to pray for these souls here, so likewise we shall possess the same power in the other world, which is the Kingdom of God. . . . Therefore in that world also they can make progress. As here they can receive light by their supplications, there also they can plead for forgiveness, and receive light through entreaties and supplications.",
+        "It is even possible for those who have died in sin and unbelief to be transformed, that is, to become the object of divine forgiveness. This is through the grace of God and not through His justice, for grace is to bestow without desert, and justice is to give that which is deserved. As we have the power to pray for those souls here, so too will we have the same power in the next world, the world of the Kingdom. . . . They must therefore be able to progress in that world as well. And just as they can seek illumination here through supplication, so too can they plead there for forgiveness and seek illumination through prayer and supplication.",
+      ],
+      [
+        "Both before and after putting off this material form, there is progress in perfection, but not in state. . . . There is no other being higher than a perfect man. But man when he has reached this state can still make progress in perfections but not in state, because there is no state higher than that of a perfect man to which he can transfer himself. He only progresses in the state of humanity, for the human perfections are infinite. Thus however learned a man may be, we can imagine one more learned.",
+        "Both before and after casting off this elemental frame, the human soul progresses in perfections but not in station. The progression of all created things culminates in perfect man, and no greater being than him exists: Man, having reached the human station, can progress only in perfections and not in station, for there is no higher station to which he can find passage than that of a perfect man. He can progress solely within the human station, as human perfections are infinite. Thus, however learned a man may be, it is always possible to imagine one even more learned.",
+      ],
+      [
+        "Hence, as the perfections of humanity are endless, man can also make progress in perfections after leaving this world.",
+        "And as the perfections of man are infinite, he can also advance in these perfections after his ascension from this world.",
+      ],
+      [
+        "By a general agreement all the governments of the world must disarm simultaneously. It will not do if one lays down its arms and the others refuse to do so. The nations of the world must concur with each other concerning this supremely important subject, so that they may abandon together the deadly weapons of human slaughter. As long as one nation increases her military and naval budget other nations will be forced into this crazed competition through their natural and supposed interests.",
+        "By a general agreement all the governments of the world must disarm simultaneously. . . . It will not do if one lays down the arms and the other refuses to do so. The nations of the world must concur with each other concerning this supremely important subject, thus they may abandon together the deadly weapons of human slaughter. As long as one nation increases her military and naval budget, another nation will be forced into this crazed competition through her natural and supposed interests.",
+      ],
+      [
+        /^The visions of the Prophets[\s\S]*hearts to be attracted.$/m,
+        `The visions of the Prophets are not dreams but true spiritual disclosures. Thus when they say, “I saw someone in such a form, and I spoke such words, and he gave such a reply”, this vision takes place in a state of wakefulness and not in the realm of sleep. It is a spiritual discovery . . .
+
+. . . there exists among spiritual souls a unity that surpasses all imagination and comparison and a communion that transcends time and place. So, for example, when it is written in the Gospel that Moses and Elijah came to Christ on Mount Tabor, it is clear that this was not a material communion but a spiritual condition . . .
+
+. . . [Communications such as] exert a marvellous effect upon minds and thoughts and produce powerful attractions in the hearts.`,
+      ],
+      [
+        /^In creation there is no[\s\S]*creation is purely good.$/m,
+        `In the innate nature of things there is no evil—all is good. This applies even to certain apparently blameworthy attributes and dispositions which seem inherent in some people, but which are not in reality reprehensible. For example, you can see in a nursing child, from the beginning of its life, the signs of greed, of anger, and of ill temper; and so it might be argued that good and evil are innate in the reality of man, and that this is contrary to the pure goodness of the innate nature and of creation. The answer is that greed, which is to demand ever more, is a praiseworthy quality provided that it is displayed under the right circumstances. Thus, should a person show greed in acquiring science and knowledge, or in the exercise of compassion, high‑mindedness, and justice, this would be most praiseworthy. And should he direct his anger and wrath against the bloodthirsty tyrants who are like ferocious beasts, this too would be most praiseworthy. But should he display these qualities under other conditions, this would be deserving of blame.
+
+. . . The same holds true of all the innate qualities of man which constitute the capital of human life: If they are displayed and employed in an improper way, they become blameworthy. It is clear then that the innate nature is purely good.`,
+      ],
+      ["unity is essential if we", "unity is necessary if we"],
+      ["Truth from whatever point", "Truth from whatsoever point"],
+      ["Moses and Buddha. This", "Moses and in Buddha. . . . This"],
+      ["It also means that we", "It means, also, that we"],
+      ["personality so to blind our", "personality to so blind our"],
+      [
+        /^Know that it is one of[\s\S]*not eventually be decomposed.$/m,
+        `Know that it is one of the most abstruse questions of divinity that the world of existence—that is, this endless universe—has no beginning. . . .
+
+. . . Know that . . . a creator without a creation is impossible; a provider without those provided for is inconceivable—since all the divine names and attributes call for the existence of created things. If we were to imagine a time when created things did not exist, it would be tantamount to denying the divinity of God.
+
+Apart from this, absolute non‑existence lacks the capacity to attain existence. If the universe were pure nothingness, existence could not have been realised. Thus, as that Essence of Oneness, or divine Being, is eternal and everlasting—that is, as it has neither beginning nor end—it follows that the world of existence, this endless universe, likewise has no beginning. . . . it is possible for some part of creation—one of the celestial globes—to be newly formed or to disintegrate, but the other countless globes would continue to exist . . . as each globe has a beginning, it must inevitably have an end as well, since every composition, whether universal or particular, must of necessity be decomposed. At most, some disintegrate quickly and others slowly, but it is impossible for something that is composed not to ultimately decompose.`,
+      ],
+      [
+        /^\. \. \. it is clear that this[\s\S]*a man, not an animal\.$/m,
+        `. . . it is clear that this terrestrial globe in its present form did not come into existence all at once, but . . . gradually traversed different stages until it appeared in its present completeness. . . .
+
+. . . From the beginning of existence in the womb of the terrestrial globe, man gradually grew and developed like the embryo in the womb of its mother, and passed from one shape and form to another until he appeared with this beauty and perfection, this power and constitution. It is certain that initially he did not possess such loveliness, grace, and refinement, and that he has only gradually attained such form, disposition, comeliness, and grace. . . .
+
+. . . from the beginning of man’s existence on this planet until he assumed his present shape, form, and condition, a long time must have elapsed . . . But from the beginning of his existence man has been a distinct species. . . .
+
+. . . were one to establish the existence of vestigial organs, this would not disprove the independence and originality of the species. At most it would prove that the form, appearance, and organs of man have evolved over time. But man has always been a distinct species; he has been man, not an animal.`,
+      ],
+      [
+        /^If we take this story[\s\S]*of marvellous explanations\.$/m,
+        `If we were to take this account according to the literal meaning of the words as indicated by their common usage, it would indeed be exceedingly strange, and human minds would be excused from accepting, affirming, or imagining it. For such elaborate arrangements and details, such statements and reproaches would be implausible even coming from an intelligent person, let alone from the Divinity Himself, Who has arranged this infinite universe in the most perfect form and arrayed its countless beings in the utmost order, soundness, and perfection. . . .
+
+The account of Adam and Eve, their eating from the tree, and their expulsion from Paradise are therefore symbols and divine mysteries. They have all‑embracing meanings and marvellous interpretations . . .`,
+      ],
+      ["science, then there will be", "science, then will there be"],
+      ["advent. When Jesus came", "advent.\n\nWhen Christ came"],
+      ["the Christ. The Messiah", "the Christ. . . . The Messiah"],
+      ["Although Christ came from", "Although He came from"],
+      ["He came also from heaven", "He also came from heaven"],
+      ["completed the Laws of Moses", "completed the Law of Moses"],
+      [
+        /^One of the great events[\s\S]*Palestine will become their home.$/m,
+        `One of the great events which is to occur in the Day of the manifestation of that Incomparable Branch is the hoisting of the Standard of God among all nations. By this is meant that all nations and kindreds will be gathered together under the shadow of this Divine Banner, which is no other than the Lordly Branch itself, and will become a single nation. Religious and sectarian antagonism, the hostility of races and peoples, and differences among nations will be eliminated. All men will adhere to one religion, will have one common faith, will be blended into one race and become a single people. All will dwell in one common fatherland, which is the planet itself. Universal peace and concord will be established among all nations. That Incomparable Branch will gather together all Israel; that is, in His Dispensation Israel will be gathered in the Holy Land, and the Jewish people who are now scattered in the East and the West, the North and the South, will be assembled together.
+
+Now, observe that these events did not take place in the Christian Dispensation, for the nations did not enlist under that single banner—that divine Branch—but in this Dispensation of the Lord of Hosts all nations and peoples will enter beneath His shadow. Likewise Israel, which had been scattered throughout the world, was not gathered together in the Holy Land in the course of the Christian Dispensation, but in the beginning of the Dispensation of Bahá’u’lláh this divine promise, which has been clearly stated in all the Books of the Prophets, has begun to materialise. Observe how from all corners of the world Jewish peoples are coming to the Holy Land, acquiring villages and lands to inhabit, and increasing day by day to such an extent that all Palestine is becoming their home.`,
+      ],
+      ["The purpose of these words", "The purport of these words"],
+      ["I would have not created", "I would not have created"],
+      ["they and leaders of their", "they and the leaders of their"],
+      ["not would the blessed be", "nor would the blessed be"],
+      ["and you shall have another", "and ye shall have another"],
+      ["grievous loss. Even if this", "grievous loss.\n\nEven if this"],
+      ["anger and wrath? Ye have", "anger and wrath? . . .\n\nYe have"],
+      ["of God. . . . A handful", "of God. . . .\n\nA handful"],
+      ["will ye wail and lament", "will ye bewail and lament"],
+      ["succour you. . . . Be expectant", "succour you. . . .\n\nBe expectant"],
+      ["the True One come and", "the law gone forth and"],
+      [
+        "age, this glorious century—the century of light—has",
+        "age, this glorious . . . century—the century of light—hath",
+      ],
+      ["endowed with the unique", "endowed with unique"],
+      ["should they keep aloof from", "should they . . . keep aloof from"],
+      ["attract them to yourself", "attract them to yourselves"],
+      ["compassion—“The Lord", "compassion . . . “The Lord"],
+      ["not to require them", "not to requite them"],
+      ["and all earthy things", "and all earthly things"],
+      ["important services of the work", "important services in the work"],
+      ["fear of God in their conduct", "fear of God by their conduct"],
+      ["it is bounden duty", "it is the bounden duty"],
+      ["regarded as a true believer", "regarded a true believer"],
+      ["referred. It enacted all", "referred. It enacteth all"],
+      ["discard, one for all", "discard, once for all"],
+      ["the principles of federalism", "the principle of federalism"],
+      ["else if not the power", "else if not to the power"],
+      ["rivalries, hatred, and", "rivalries, hatreds, and"],
     ],
   },
   compilations: {
