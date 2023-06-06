@@ -734,6 +734,11 @@ export const files = {
       ],
       ["of glory, and will aid", "of glory, and shall aid"],
       ["Revelation of God, His name and", "Revelation of God, His names and"],
+      [
+        "establishes the Nineteen Day Feast",
+        "establishes the Nineteen Day Feasts",
+      ],
+      ["and the “keys” of His", "as the “keys” of His"],
     ],
     "kitab-i-iqan": [
       removeAfter("Notes"),

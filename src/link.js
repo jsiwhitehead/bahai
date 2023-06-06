@@ -150,6 +150,7 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
       (d) =>
         d.id !== doc.id &&
         !["bible", "quran"].some((s) => doc.id.startsWith(s)) &&
+        !["bible", "quran"].some((s) => d.id.startsWith(s)) &&
         d.id !== "bahaullah-days-remembrance-037" &&
         !(
           d.id.startsWith("prayers-bahai-prayers-0") &&
