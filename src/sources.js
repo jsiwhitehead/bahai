@@ -2090,6 +2090,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
           return `${a}\nyears=[${date},${date}]${b || ""}\n\n${c}`;
         },
       ],
+      ["hope which ‘Abdu’l‑Bahá", "hope, therefore, which ‘Abdu’l‑Bahá"],
     ],
     "world-order-bahaullah": [
       ["Selected Letters", ""],
@@ -2570,12 +2571,12 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
         "every man may testify, in himself, by himself, in the station of the Manifestation of his Lord, that verily there is no God save Him, and that every man may thereby win his way to the summit of realities, until none shall contemplate anything whatsoever but that he shall see God therein.",
         "every man may testify, in himself and by himself, before the Seat of the revelation of his Lord, that there is none other God but Him; and that all may reach that summit of realities where none shall contemplate anything but that he shall perceive God therein.",
       ],
-      ["continued:—“Praise be", "continued:—\n\n“Praise be"],
       [
         "good of the world and the happiness",
         "good of the world and happiness",
       ],
       ["and you shall have another", "and ye shall have another"],
+      ["other station is the station", "other is the station"],
     ],
     "century-light": [
       ["The Universal House of Justice", ""],
@@ -2593,6 +2594,13 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
         "Today nothing but the power of the Word of God which encompasses the realities of things can bring the thoughts, the minds, the hearts and the spirits under the shade of one Tree. He is the potent in all things, the vivifier of souls, the preserver and the controller of the world of mankind.",
         "Naught but the celestial potency of the Word of God, which rules and transcends the realities of all things, is capable of harmonizing the divergent thoughts, sentiments, ideas, and convictions of the children of men. Verily, it is the penetrating power in all things, the mover of souls and the binder and regulator in the world of humanity.",
       ],
+      [
+        "All of us know that international peace is good, that it is the cause of life, but volition and action are necessary. Inasmuch as this century is the century of light, capacity for achieving peace has been assured. It is certain that these ideas will be spread among men to such a degree that they will result in action.",
+        "All of us know that international peace is good, that it is conducive to human welfare and the glory of man, but volition and action are necessary before it can be established. Action is essential. Inasmuch as this century is a century of light, capacity for action is assured to mankind. Necessarily the divine principles will be spread among men until the time of action arrives.",
+      ],
+      ["world has not experienced", "world has not yet experienced"],
+      ["humanity! . . . At present", "humanity! . . .\n\nAt present"],
+      ["edifice strong. . . . Naught", "edifice strong. . . .\n\nNaught"],
     ],
     "one-common-faith": [
       ["The Universal House of Justice", ""],
@@ -2615,6 +2623,7 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       }),
       [/^[A-Z]{1,5}$/gm, "***"],
       ["collective coming‑ of‑age", "collective coming‑of‑age"],
+      ["thought. May each morn", "thought. Let each morn"],
     ],
     "turning-point-all-nations": [
       [/^A statement prepared by the Bahá’í.*/m, ""],

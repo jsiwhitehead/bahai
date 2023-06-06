@@ -317,30 +317,36 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
               }
               return { text, parts, simplified };
             });
-          inlineQuotes.forEach(({ text, parts, simplified }, i) => {
-            for (const dir of [-1, 1]) {
-              if (text && inlineQuotes[i + dir]?.source) {
-                const res = processPara(
-                  doc,
-                  { simplified, parts },
-                  index,
-                  (length) => length < 30,
-                  inlineQuotes[i + dir].source,
-                  inlineQuotes[i + dir].paragraph
-                );
-                if (res) {
-                  const {
-                    id,
-                    paragraphs: [paragraph],
-                  } = res.base;
-                  const start = para.text.indexOf(text);
-                  para.base.quotes = para.base.quotes || [];
-                  para.base.quotes.push({
-                    id,
-                    paragraph,
-                    start,
-                    end: start + text.length,
-                  });
+          inlineQuotes.forEach((q, i) => {
+            if (q.source) {
+              for (const dir of [-1, 1]) {
+                let j = dir;
+                while (inlineQuotes[i + j]?.text) {
+                  const res = processPara(
+                    doc,
+                    inlineQuotes[i + j],
+                    index,
+                    (length) => length < 30,
+                    q.source,
+                    q.paragraph
+                  );
+                  if (res) {
+                    const {
+                      id,
+                      paragraphs: [paragraph],
+                    } = res.base;
+                    const start = para.text.indexOf(inlineQuotes[i + j].text);
+                    para.base.quotes = para.base.quotes || [];
+                    para.base.quotes.push({
+                      id,
+                      paragraph,
+                      start,
+                      end: start + inlineQuotes[i + j].text.length,
+                    });
+                    j += dir;
+                  } else {
+                    break;
+                  }
                 }
               }
             }
