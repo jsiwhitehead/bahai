@@ -2,6 +2,87 @@ import fs from "fs-extra";
 
 import { last, prettify, readJSON, simplifyText } from "./utils.js";
 
+const traverseUpdate = (array, start, func) => {
+  for (const dir of [-1, 1]) {
+    let j = dir;
+    while (true) {
+      const update = array[start + j] && func(array[start + j], j);
+      if (update) {
+        array[start + j] = update;
+        j += dir;
+      } else {
+        break;
+      }
+    }
+  }
+};
+
+const ignoreStarts = [
+  " ",
+  ",",
+  "‑",
+  "”",
+  "abá",
+  "Ábidín",
+  "Abbás",
+  "Abdu",
+  "Ád",
+  "ah",
+  "Ahd",
+  "Akká",
+  "AKKÁ",
+  "Alam",
+  "Alá",
+  "Alí",
+  "Álí",
+  "ALÍ",
+  "ám",
+  "Ammú",
+  "Amú",
+  "Arab",
+  "Árif",
+  "Áshúrá",
+  "ávíyih",
+  "áyidih",
+  "Ayn",
+  "Azíz",
+  "AZÍZ",
+  "Aṭá",
+  "Aẓím",
+  "‘áẓ",
+  "bán",
+  "farán",
+  "far‑i",
+  "far‑Q",
+  "íd",
+  "ih",
+  "IH",
+  "íl",
+  "ÍLÍYYIH",
+  "Ilm",
+  "Imrán",
+  "ín",
+  "Ináyatí",
+  "Iráq",
+  "IRÁQ",
+  "Ishqábád",
+  "Izzat",
+  "mán",
+  "n,",
+  "tamid",
+  "timádu",
+  "’u",
+  "u’",
+  "úd",
+  "Údí",
+  "ulamá",
+  "Ulamá",
+  "Umar",
+  "Urvatu",
+  "Uthmán",
+  "ẓam",
+];
+
 const getMappedIndices = (s) => {
   const result = {};
   for (let i = 0; i <= s.length; i++) {
@@ -10,93 +91,42 @@ const getMappedIndices = (s) => {
   }
   return result;
 };
-
-const quotes = {};
-const getQuotePara = (id, index, simplified, parts, source, allPara) => {
-  const quoteParts = simplified
-    .map((s, i) => {
-      if (i % 2 === 1) return parts[i];
-      if (s === "") return "";
-      const para =
-        allPara !== -1
-          ? allPara
-          : source.paragraphs.findIndex((p) =>
-              p.simplified.join("").includes(s)
-            );
-      const sourcePara = source.paragraphs[para];
-      if (sourcePara.text.includes(parts[i])) {
-        const start = sourcePara.text.indexOf(parts[i]);
-        return {
-          paragraph: para,
-          start,
-          end: start + parts[i].length,
-        };
-      }
-      if (s === sourcePara.simplified.join("")) {
-        return {
-          paragraph: para,
-          start: 0,
-          end: sourcePara.text.length,
-        };
-      }
-      sourcePara.indices =
-        sourcePara.indices || getMappedIndices(sourcePara.text);
-      const start = sourcePara.simplified.join("").indexOf(s);
-      const startIndices = sourcePara.indices[start];
-      const endIndices = [...sourcePara.indices[start + s.length]].reverse();
-      const cleanText = sourcePara.text
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "");
-      return {
-        paragraph: para,
-        start:
-          startIndices.find((j) => sourcePara.text[j] === parts[i][0]) ??
-          startIndices.find((j) => !/^\W* /.test(cleanText.slice(j))),
-        end:
-          endIndices.find((j) => sourcePara.text[j - 1] === last(parts[i])) ??
-          endIndices.find((j) => !/ \W*$/.test(cleanText.slice(0, j))),
-      };
-    })
-    .filter((s) => s)
-    .map((part) => {
-      if (typeof part === "string") return part;
-      const text = source.paragraphs[part.paragraph].text;
-      if (part.start === 0) delete part.start;
-      if (part.end === text.length) delete part.end;
-      return part;
-    });
-  quotes[source.id] = quotes[source.id] || {};
-  for (const { paragraph, start, end } of quoteParts.filter(
-    (s) => typeof s !== "string"
-  )) {
-    quotes[source.id][paragraph] = quotes[source.id][paragraph] || [];
-    quotes[source.id][paragraph].push({
-      ref: { id, paragraph: index },
-      start,
-      end,
-    });
+const getQuotePosition = (para, simplified, text) => {
+  if (simplified === para.simplified) {
+    return { start: 0, end: para.text.length };
   }
-  if (quoteParts.length === 1 && !quoteParts[0].start && !quoteParts[0].end) {
-    return {
-      base: { id: source.id, paragraphs: [quoteParts[0].paragraph] },
-      simplified: [],
-    };
+  if (para.text.includes(text)) {
+    const start = para.text.indexOf(text);
+    return { start, end: start + text.length };
   }
+  para.indices = para.indices || getMappedIndices(para.text);
+  const start = para.simplified.indexOf(simplified);
+  const startIndices = para.indices[start];
+  const endIndices = [...para.indices[start + simplified.length]].reverse();
+  const cleanText = para.text.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   return {
-    base: {
-      id: source.id,
-      paragraphs: [
-        ...new Set(
-          quoteParts
-            .filter((s) => typeof s !== "string")
-            .map((c) => c.paragraph)
-        ),
-      ].sort((a, b) => a - b),
-      parts: quoteParts,
-    },
-    simplified: [],
+    start:
+      startIndices.find((i) => para.text[i] === text[0]) ??
+      startIndices.find((i) => !/^\W* /.test(cleanText.slice(i))),
+    end:
+      endIndices.find((i) => para.text[i - 1] === last(text)) ??
+      endIndices.find((i) => !/ \W*$/.test(cleanText.slice(0, i))),
   };
 };
+const getQuoteParts = (doc, paraIndex, source, simplified, parts) => ({
+  source,
+  parts: parts.map((text, i) => {
+    if (i % 2 === 1) return text;
+    const pos = getQuotePosition(source.paragraph, simplified[i], text);
+    source.paragraph.citations = source.paragraph.citations || [];
+    source.paragraph.citations.push({
+      doc: doc.id,
+      paragraph: paraIndex,
+      ...pos,
+    });
+    return pos;
+  }),
+});
 
 (async () => {
   const documents = (
@@ -117,17 +147,12 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
     .flat()
     .map((d) => ({
       ...d,
-      paragraphs: d.paragraphs.map((base) => {
-        const parts = (base.text || "").split(
-          /(\s*(?:\. \. \.|\[[^\]]*\])\s*)/g
-        );
-        return {
-          base,
-          text: base.text || "",
-          parts,
-          simplified: parts.map((s) => simplifyText(s)),
-        };
-      }),
+      paragraphs: d.paragraphs.map((p) => ({
+        ...p,
+        text: p.text || "",
+        simplified: simplifyText(p.text || ""),
+        parts: p.text ? [p.text] : [],
+      })),
     }))
     .sort((a, b) => {
       if (
@@ -143,10 +168,14 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
         return -1;
       }
       return a.years[0] - b.years[0] || a.id.localeCompare(b.id);
-    });
+    })
+    .filter((d) =>
+      ["Bahá’u’lláh", "‘Abdu’l‑Bahá", "Shoghi Effendi"].includes(d.author)
+    );
 
-  const findSourceDoc = (doc, simplified) =>
-    documents.find(
+  const findSource = (doc, simplified) => {
+    if (!simplified) return null;
+    const source = documents.find(
       (d) =>
         d.id !== doc.id &&
         !["bible", "quran"].some((s) => doc.id.startsWith(s)) &&
@@ -171,38 +200,51 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
           d.type === "Prayer" ||
           d.id.startsWith("bahaullah-hidden-words")) &&
         d.years[0] <= doc.years[1] &&
-        simplified.every((s) =>
-          d.paragraphs.some((p) => p.simplified.join("").includes(s))
-        )
+        d.paragraphs.some((p) => p.simplified.includes(simplified))
     );
-
-  const processPara = (
-    doc,
-    { simplified, parts },
-    index,
-    test,
-    possibleSource,
-    possiblePara
-  ) => {
-    const len = simplified.join("").length;
-    if (len === 0 || (test && !test(len))) return null;
-    const source = possibleSource || findSourceDoc(doc, simplified);
     if (!source) return null;
-    if (
-      possiblePara !== undefined &&
-      (!source.paragraphs[possiblePara] ||
-        !simplified.every((s) =>
-          source.paragraphs[possiblePara].simplified.join("").includes(s)
-        ))
-    ) {
-      return null;
-    }
-    const allPara =
-      possiblePara ??
-      source.paragraphs.findIndex((p) =>
-        simplified.every((s) => p.simplified.join("").includes(s))
-      );
-    return getQuotePara(doc.id, index, simplified, parts, source, allPara);
+    const index = source.paragraphs.findIndex((p) =>
+      p.simplified.includes(simplified)
+    );
+    return {
+      doc: source,
+      paragraph: source.paragraphs[index],
+      index,
+    };
+  };
+
+  const textToChunks = (doc, paraIndex, splitText, min) => {
+    const chunks = splitText.map((t) => {
+      const parts = t.split(/(\s*(?:\[[^\]]*\])\s*)/g);
+      const simplified = parts.map((s) => simplifyText(s));
+      if (simplified.join("").length < min) {
+        return { text: t, parts, simplified };
+      }
+      const source = findSource(doc, simplified.join(""));
+      if (source) {
+        return getQuoteParts(doc, paraIndex, source, simplified, parts);
+      }
+      return t;
+    });
+    chunks.forEach((c, i) => {
+      if (c.source) {
+        traverseUpdate(chunks, i, (next) => {
+          if (
+            next.text &&
+            c.source.paragraph.simplified.includes(next.simplified.join(""))
+          ) {
+            return getQuoteParts(
+              doc,
+              paraIndex,
+              c.source,
+              next.simplified,
+              next.parts
+            );
+          }
+        });
+      }
+    });
+    return chunks;
   };
 
   for (const doc of documents) {
@@ -217,33 +259,58 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
         "the-universal-house-of-justice-messages-346",
       ].includes(doc.id)
     ) {
-      doc.paragraphs = doc.paragraphs.map(
-        (paragraph, index) =>
-          processPara(doc, paragraph, index, (length) => length >= 80) ||
-          paragraph
-      );
-      doc.paragraphs.forEach((para, i) => {
-        if (para.base.id && para.base.paragraphs.length === 1) {
-          const source = documents.find((d) => d.id === para.base.id);
-          for (const dir of [-1, 1]) {
-            let j = dir;
-            while (doc.paragraphs[i + j]?.text) {
-              const res = processPara(
-                doc,
-                doc.paragraphs[i + j],
-                i + j,
-                (length) => length < 80,
-                source,
-                para.base.paragraphs[0] + j
-              );
-              if (res) {
-                doc.paragraphs[i + j] = res;
-                j += dir;
-              } else {
-                break;
-              }
+      doc.paragraphs = doc.paragraphs.map((para, paraIndex) => {
+        if (para.section) return para;
+        return {
+          ...para,
+          chunks: textToChunks(
+            doc,
+            paraIndex,
+            para.text
+              .split(/(‘(?:’[a-z\u00C0-\u017F]|[^’])+’|“[^”]+”)/g)
+              .reduce(
+                (res, t, i) => {
+                  if (i % 2 === 0) {
+                    const [first, ...other] = t.split(/ \. \. \. /g);
+                    res[res.length - 1] += first;
+                    res.push(...other);
+                  } else {
+                    res[res.length - 1] += t;
+                  }
+                  return res;
+                },
+                [""]
+              ),
+            80
+          ),
+        };
+      });
+      doc.paragraphs.forEach((para, paraIndex) => {
+        if (para.chunks && para.chunks.length === 1 && para.chunks[0].source) {
+          traverseUpdate(doc.paragraphs, paraIndex, (next, diff) => {
+            const source = para.chunks[0].source;
+            const index = source.index + diff;
+            const paragraph = source.doc.paragraphs[index];
+            if (
+              next.chunks &&
+              next.chunks.length === 1 &&
+              next.chunks[0].text &&
+              paragraph?.simplified.includes(next.chunks[0].simplified.join(""))
+            ) {
+              return {
+                ...next,
+                chunks: [
+                  getQuoteParts(
+                    doc,
+                    paraIndex,
+                    { doc: source.doc, paragraph, index },
+                    next.chunks[0].simplified,
+                    next.chunks[0].parts
+                  ),
+                ],
+              };
             }
-          }
+          });
         }
       });
       if (
@@ -251,160 +318,208 @@ const getQuotePara = (id, index, simplified, parts, source, allPara) => {
           doc.id.startsWith(s)
         )
       ) {
-        doc.paragraphs = doc.paragraphs.map(
-          (paragraph, index) => processPara(doc, paragraph, index) || paragraph
-        );
+        doc.paragraphs = doc.paragraphs.map((para, paraIndex) => {
+          if (!para.chunks) return para;
+          return {
+            ...para,
+            chunks: para.chunks.map((c) => {
+              if (typeof c === "string" || c.source) return c;
+              const source = findSource(doc, c.simplified.join(""));
+              if (source) {
+                return getQuoteParts(
+                  doc,
+                  paraIndex,
+                  source,
+                  c.simplified,
+                  c.parts
+                );
+              }
+              return c;
+            }),
+          };
+        });
       }
-      doc.paragraphs.forEach((para, index) => {
-        if (!para.base.id) {
-          const inlineQuotes = [
-            ...para.text.split(/“([^”]+)”/g).filter((_, i) => i % 2 === 1),
-            ...para.text
-              .split(/‘((?:’[a-z\u00C0-\u017F]|[^’])+)’/g)
-              .filter((_, i) => i % 2 === 1),
-          ]
-            .filter(
-              (t) =>
-                ![
-                  " ",
-                  ",",
-                  "Abbás",
-                  "Abdu",
-                  "Ahd",
-                  "Akká",
-                  "Alam",
-                  "Alá",
-                  "Alí",
-                  "Ammú",
-                  "Amú",
-                  "Arab",
-                  "Ayn",
-                  "Azíz",
-                  "Aṭá",
-                  "Aẓím",
-                  "ih",
-                  "Iráq",
-                ].some((x) => t.startsWith(x))
-            )
-            .flatMap((text) => text.split(/(\s*(?:\. \. \.)\s*)/g))
-            .map((text) => {
-              const parts = text.split(/(\s*(?:\[[^\]]*\])\s*)/g);
-              const simplified = parts.map((s) => simplifyText(s));
-              const res = processPara(
-                doc,
-                { simplified, parts },
-                index,
-                (length) => length >= 30
-              );
-              if (res) {
-                const {
-                  id,
-                  paragraphs: [paragraph],
-                } = res.base;
-                const start = para.text.indexOf(text);
-                para.base.quotes = para.base.quotes || [];
-                para.base.quotes.push({
-                  id,
-                  paragraph,
-                  start,
-                  end: start + text.length,
-                });
+      doc.paragraphs = doc.paragraphs.map(({ chunks, ...para }) => {
+        if (!chunks) return para;
+        const parts = chunks
+          .flatMap((c, i) => (i === 0 ? [c] : [" . . . ", c]))
+          .flatMap((c) => {
+            if (typeof c === "string") return [c];
+            if (c.source) {
+              return c.parts.map((p) => {
+                if (typeof p === "string") return p;
                 return {
-                  source: documents.find((d) => d.id === id),
-                  paragraph,
+                  doc: c.source.doc.id,
+                  paragraph: c.source.index,
+                  ...p,
                 };
-              } else if (simplified.join("").length >= 50) {
-                // console.log("\n" + text);
-              }
-              return { text, parts, simplified };
-            });
-          inlineQuotes.forEach((q, i) => {
-            if (q.source) {
-              for (const dir of [-1, 1]) {
-                let j = dir;
-                while (inlineQuotes[i + j]?.text) {
-                  const res = processPara(
-                    doc,
-                    inlineQuotes[i + j],
-                    index,
-                    (length) => length < 30,
-                    q.source,
-                    q.paragraph
-                  );
-                  if (res) {
-                    const {
-                      id,
-                      paragraphs: [paragraph],
-                    } = res.base;
-                    const start = para.text.indexOf(inlineQuotes[i + j].text);
-                    para.base.quotes = para.base.quotes || [];
-                    para.base.quotes.push({
-                      id,
-                      paragraph,
-                      start,
-                      end: start + inlineQuotes[i + j].text.length,
-                    });
-                    j += dir;
-                  } else {
-                    break;
-                  }
-                }
-              }
+              });
+            }
+            return [c.text];
+          })
+          .reduce((res, p) => {
+            if (typeof p === "object") {
+              res.push(p);
+            } else {
+              if (typeof res[res.length - 1] !== "string") res.push("");
+              res[res.length - 1] += p;
+            }
+            return res;
+          }, []);
+        // if (chunks.some((c) => c.source) && chunks.some((c) => !c.source)) {
+        //   console.log(parts);
+        // }
+        return {
+          ...para,
+          ...(parts.some((p) => typeof p === "object")
+            ? { simplified: "", quote: true }
+            : {}),
+          parts,
+        };
+      });
+    }
+  }
+
+  for (const doc of documents) {
+    console.log(doc.id);
+    if (!["bible", "quran", "additional-"].some((s) => doc.id.startsWith(s))) {
+      doc.paragraphs = doc.paragraphs.map((para, paraIndex) => {
+        if (!para.simplified) return para;
+        const joins = [""];
+        const quotes = [];
+        para.text
+          .split(/(‘(?:’[a-z\u00C0-\u017F]|[^’])+’|“[^”]+”)/g)
+          .forEach((t, i) => {
+            if (
+              i % 2 === 0 ||
+              ignoreStarts.some((s) => t.slice(1).startsWith(s))
+            ) {
+              joins[joins.length - 1] += t;
+            } else {
+              joins[joins.length - 1] += t.slice(0, 1);
+              quotes.push(t.slice(1, -1));
+              joins.push(t.slice(-1));
             }
           });
-        }
+        const mapped = quotes.map((text) =>
+          textToChunks(doc, paraIndex, text.split(/ \. \. \. /g), 30)
+        );
+        mapped.forEach((chunks, i) => {
+          if (chunks.length === 1 && chunks[0].source) {
+            traverseUpdate(mapped, i, (next) => {
+              if (
+                next.length === 1 &&
+                next[0].text &&
+                chunks[0].source.paragraph.simplified.includes(
+                  next[0].simplified.join("")
+                )
+              ) {
+                return [
+                  getQuoteParts(
+                    doc,
+                    paraIndex,
+                    chunks[0].source,
+                    next[0].simplified,
+                    next[0].parts
+                  ),
+                ];
+              }
+            });
+          }
+        });
+        const parts = joins
+          .flatMap((t, i) =>
+            i === 0
+              ? [t]
+              : [
+                  ...mapped[i - 1].flatMap((c, i) =>
+                    i === 0 ? [c] : [" . . . ", c]
+                  ),
+                  t,
+                ]
+          )
+          .flatMap((c) => {
+            if (typeof c === "string") return [c];
+            if (c.source) {
+              return c.parts.map((p) => {
+                if (typeof p === "string") return p;
+                return {
+                  doc: c.source.doc.id,
+                  paragraph: c.source.index,
+                  ...p,
+                };
+              });
+            }
+            return [c.text];
+          })
+          .reduce((res, p) => {
+            if (typeof p === "object") {
+              res.push(p);
+            } else {
+              if (typeof res[res.length - 1] !== "string") res.push("");
+              res[res.length - 1] += p;
+            }
+            return res;
+          }, []);
+        return {
+          ...para,
+          parts,
+        };
       });
     }
   }
 
   const documentMap = documents.reduce((res, { paragraphs, ...d }) => {
     let counter = 1;
-    const paras = paragraphs.map((p) => p.base);
-    const allLines = paras.every((p) => p.type || p.lines);
+    const allLines = paragraphs.every((p) => p.type || p.lines);
     return {
       ...res,
       [d.id]: {
         ...d,
-        paragraphs: paras.map((p) =>
-          !p.text || p.type || (p.lines && !allLines)
-            ? p
-            : { index: counter++, ...p }
-        ),
+        paragraphs: paragraphs.map((p) => ({
+          ...(p.quote || p.section || p.type || (p.lines && !allLines)
+            ? {}
+            : { index: counter++ }),
+          ...p,
+          indices: undefined,
+          text: undefined,
+          simplified: undefined,
+        })),
       },
     };
   }, {});
 
-  for (const id of Object.keys(quotes).filter((id) => documentMap[id])) {
-    for (const para of Object.keys(quotes[id])) {
-      const fixedParts = quotes[id][para].map((p) => {
-        const text = documentMap[id].paragraphs[parseInt(para, 10)].text;
-        if (!text) console.log(p.ref);
-        return { ref: p.ref, start: p.start || 0, end: p.end || text?.length };
-      });
-      const splits = [
-        ...new Set(fixedParts.flatMap((p) => [p.start, p.end])),
-      ].sort((a, b) => a - b);
-      documentMap[id].paragraphs[para].citations = {
-        refs: [...new Set(fixedParts.map((p) => JSON.stringify(p.ref)))].map(
-          (s) => JSON.parse(s)
-        ),
-        parts: splits
-          .slice(0, -1)
-          .map((start, i) => {
-            const end = splits[i + 1];
-            const count = [
-              ...new Set(
-                fixedParts
-                  .filter((p) => p.start <= start && p.end >= end)
-                  .map((p) => p.ref.id)
-              ),
-            ].length;
-            return { start, end, count };
-          })
-          .filter((x) => x.count),
-      };
-    }
-  }
+  // for (const id of Object.keys(quotes).filter((id) => documentMap[id])) {
+  //   for (const para of Object.keys(quotes[id])) {
+  //     const fixedParts = quotes[id][para].map((p) => {
+  //       const text = documentMap[id].paragraphs[parseInt(para, 10)].text;
+  //       if (!text) console.log(p.ref);
+  //       return { ref: p.ref, start: p.start || 0, end: p.end || text?.length };
+  //     });
+  //     const splits = [
+  //       ...new Set(fixedParts.flatMap((p) => [p.start, p.end])),
+  //     ].sort((a, b) => a - b);
+  //     documentMap[id].paragraphs[para].citations = {
+  //       refs: [...new Set(fixedParts.map((p) => JSON.stringify(p.ref)))].map(
+  //         (s) => JSON.parse(s)
+  //       ),
+  //       parts: splits
+  //         .slice(0, -1)
+  //         .map((start, i) => {
+  //           const end = splits[i + 1];
+  //           const count = [
+  //             ...new Set(
+  //               fixedParts
+  //                 .filter((p) => p.start <= start && p.end >= end)
+  //                 .map((p) => p.ref.id)
+  //             ),
+  //           ].length;
+  //           return { start, end, count };
+  //         })
+  //         .filter((x) => x.count),
+  //     };
+  //   }
+  // }
 
   await fs.promises.writeFile(
     `./data/data.json`,
