@@ -1359,6 +1359,10 @@ Therefore, in this world he must prepare himself for the life beyond. That which
 
 It followeth that in this world too he must prepare for the world beyond. That which he needeth in the world of the Kingdom he must obtain and prepare here. Just as he acquired the powers necessary for this world in the world of the womb, so, likewise, he must obtain that which he will need in the world of the Kingdom—that is to say, all the heavenly powers—in this world.`,
       ],
+      [
+        "blest in the East and the West for the triumph of its democracy",
+        "blest in both the East and the West for the triumph of its people",
+      ],
     ],
     "secret-divine-civilization": [
       ["‘Abdu’l‑Bahá", ""],
@@ -1901,6 +1905,10 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       [
         "The American nation is equipped and empowered to accomplish that which will adorn the pages of history, to become the envy of the world, and be blest in both the East and the West for the triumph of its people.",
         "This American nation is equipped and empowered to accomplish that which will adorn the pages of history, to become the envy of the world and be blest in the East and the West for the triumph of its democracy.",
+      ],
+      [
+        "blest in the East and the West for the triumph of its democracy",
+        "blest in both the East and the West for the triumph of its people",
       ],
     ],
     "bahai-administration": [

@@ -264,22 +264,28 @@ for (const doc of documents) {
       if (para.section) return para;
       return {
         ...para,
+        startDots: para.text.startsWith(". . . "),
+        endDots: para.text.endsWith(" . . ."),
         chunks: textToChunks(
           doc,
           paraIndex,
-          para.text.split(/(‘(?:’[a-z\u00C0-\u017F]|[^’])+’|“[^”]+”)/g).reduce(
-            (res, t, i) => {
-              if (i % 2 === 0) {
-                const [first, ...other] = t.split(/ \. \. \. /g);
-                res[res.length - 1] += first;
-                res.push(...other);
-              } else {
-                res[res.length - 1] += t;
-              }
-              return res;
-            },
-            [""]
-          ),
+          para.text
+            .replace(/^\. \. \. /, "")
+            .replace(/ \. \. \.$/, "")
+            .split(/(‘(?:’[a-z\u00C0-\u017F]|[^’])+’|“[^”]+”)/g)
+            .reduce(
+              (res, t, i) => {
+                if (i % 2 === 0) {
+                  const [first, ...other] = t.split(/ \. \. \. /g);
+                  res[res.length - 1] += first;
+                  res.push(...other);
+                } else {
+                  res[res.length - 1] += t;
+                }
+                return res;
+              },
+              [""]
+            ),
           80
         ),
       };
@@ -338,25 +344,28 @@ for (const doc of documents) {
         };
       });
     }
-    doc.paragraphs = doc.paragraphs.map(({ chunks, ...para }) => {
-      if (!chunks) return para;
-      const parts = chunks
-        .flatMap((c, i) => (i === 0 ? [c] : [" . . . ", c]))
-        .flatMap((c) => {
-          if (typeof c === "string") return [c];
-          if (c.source) {
-            return c.parts.map((p) => {
-              if (typeof p === "string") return p;
-              return {
-                doc: c.source.doc.id,
-                paragraph: c.source.index,
-                ...p,
-              };
-            });
-          }
-          return [c.text];
-        })
-        .reduce((res, p) => {
+    doc.paragraphs = doc.paragraphs.map(
+      ({ chunks, startDots, endDots, ...para }) => {
+        if (!chunks) return para;
+        const parts = chunks
+          .flatMap((c, i) => (i === 0 ? [c] : [" . . . ", c]))
+          .flatMap((c) => {
+            if (typeof c === "string") return [c];
+            if (c.source) {
+              return c.parts.map((p) => {
+                if (typeof p === "string") return p;
+                return {
+                  doc: c.source.doc.id,
+                  paragraph: c.source.index,
+                  ...p,
+                };
+              });
+            }
+            return [c.text];
+          });
+        if (startDots) parts.unshift(". . . ");
+        if (endDots) parts.push(" . . .");
+        const joinedParts = parts.reduce((res, p) => {
           if (typeof p === "object") {
             res.push(p);
           } else {
@@ -365,17 +374,18 @@ for (const doc of documents) {
           }
           return res;
         }, []);
-      // if (chunks.some((c) => c.source) && chunks.some((c) => !c.source)) {
-      //   console.log(parts);
-      // }
-      return {
-        ...para,
-        ...(parts.some((p) => typeof p === "object")
-          ? { simplified: "", quote: true }
-          : {}),
-        parts,
-      };
-    });
+        // if (chunks.some((c) => c.source) && chunks.some((c) => !c.source)) {
+        //   console.log(parts);
+        // }
+        return {
+          ...para,
+          ...(joinedParts.some((p) => typeof p === "object")
+            ? { simplified: "", quote: true }
+            : {}),
+          parts: joinedParts,
+        };
+      }
+    );
   }
 }
 
@@ -396,47 +406,59 @@ for (const doc of documents) {
             joins[joins.length - 1] += t;
           } else {
             joins[joins.length - 1] += t.slice(0, 1);
-            quotes.push(t.slice(1, -1));
+            quotes.push({
+              startDots: t.slice(1, -1).startsWith(". . . "),
+              endDots: t.slice(1, -1).endsWith(" . . ."),
+              chunks: textToChunks(
+                doc,
+                paraIndex,
+                t
+                  .slice(1, -1)
+                  .replace(/^\. \. \. /, "")
+                  .replace(/ \. \. \.$/, "")
+                  .split(/ \. \. \. /g),
+                30
+              ),
+            });
             joins.push(t.slice(-1));
           }
         });
-      const mapped = quotes.map((text) =>
-        textToChunks(doc, paraIndex, text.split(/ \. \. \. /g), 30)
-      );
-      mapped.forEach((chunks, i) => {
-        if (chunks.length === 1 && chunks[0].source) {
-          traverseUpdate(mapped, i, (next) => {
+      quotes.forEach((q, i) => {
+        if (q.chunks.length === 1 && q.chunks[0].source) {
+          traverseUpdate(quotes, i, (next) => {
             if (
-              next.length === 1 &&
-              next[0].text &&
-              chunks[0].source.paragraph.simplified.includes(
-                next[0].simplified.join("")
+              next.chunks.length === 1 &&
+              next.chunks[0].text &&
+              q.chunks[0].source.paragraph.simplified.includes(
+                next.chunks[0].simplified.join("")
               )
             ) {
-              return [
-                getQuoteParts(
-                  doc,
-                  paraIndex,
-                  chunks[0].source,
-                  next[0].simplified,
-                  next[0].parts
-                ),
-              ];
+              return {
+                ...q,
+                chunks: [
+                  getQuoteParts(
+                    doc,
+                    paraIndex,
+                    q.chunks[0].source,
+                    next.chunks[0].simplified,
+                    next.chunks[0].parts
+                  ),
+                ],
+              };
             }
           });
         }
       });
       const parts = joins
-        .flatMap((t, i) =>
-          i === 0
-            ? [t]
-            : [
-                ...mapped[i - 1].flatMap((c, i) =>
-                  i === 0 ? [c] : [" . . . ", c]
-                ),
-                t,
-              ]
-        )
+        .flatMap((t, i) => {
+          if (i === 0) return [t];
+          const quoteParts = quotes[i - 1].chunks.flatMap((c, i) =>
+            i === 0 ? [c] : [" . . . ", c]
+          );
+          if (quotes[i - 1].startDots) quoteParts.unshift(". . . ");
+          if (quotes[i - 1].endDots) quoteParts.push(" . . .");
+          return [...quoteParts, t];
+        })
         .flatMap((c) => {
           if (typeof c === "string") return [c];
           if (c.source) {
