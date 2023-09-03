@@ -34,9 +34,9 @@ export const readJSON = async (category, id) =>
 
 export const writeText = (category, id, data) =>
   fs.promises.writeFile(`./data/${category}/${id}.txt`, data, "utf-8");
-export const writeJSON = (category, id, data) =>
+export const writeJSON = async (category, id, data) =>
   fs.promises.writeFile(
     `./data/${category}/${id}.json`,
-    prettify(JSON.stringify(data, null, 2), "json"),
+    await prettify(JSON.stringify(data, null, 2), "json"),
     "utf-8"
   );

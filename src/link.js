@@ -136,9 +136,7 @@ const documents = (
       .readdirSync("./data/process")
       .map((s) => s.slice(0, -5))
       .map(async (id) =>
-        (
-          await readJSON("process", id)
-        ).map((d, i) => ({
+        (await readJSON("process", id)).map((d, i) => ({
           id: id + "-" + `${i + 1}`.padStart(3, "0"),
           ...d,
         }))
@@ -169,10 +167,10 @@ const documents = (
       return -1;
     }
     return a.years[0] - b.years[0] || a.id.localeCompare(b.id);
-  })
-  .filter((d) =>
-    ["Bahá’u’lláh", "‘Abdu’l‑Bahá", "Shoghi Effendi"].includes(d.author)
-  );
+  });
+// .filter((d) =>
+//   ["Bahá’u’lláh", "‘Abdu’l‑Bahá", "Shoghi Effendi"].includes(d.author)
+// );
 
 const findSource = (doc, simplified, parts) => {
   if (!simplified) return null;
@@ -236,7 +234,7 @@ const textToChunks = (doc, paraIndex, splitText, min, inline) => {
   const chunks = splitText.map((t) => {
     const parts = t.split(/(\s*(?:\[[^\]]*\])\s*)/g);
     const simplified = parts.map((s) => simplifyText(s));
-    if (simplified.join("").length < min) {
+    if (simplified.join("").length > 0 && simplified.join("").length < min) {
       return { text: t, parts, simplified };
     }
     const source = findSource(doc, simplified.join(""), parts);
@@ -545,9 +543,12 @@ const documentMap = documents.reduce((res, d) => {
           ? {}
           : { index: counter++ }),
         ...p,
-        parts: p.parts?.map((part) =>
-          typeof part === "string" ? part : { ...part, text: undefined }
-        ),
+        parts:
+          p.parts.length === 0
+            ? undefined
+            : p.parts.map((part) =>
+                typeof part === "string" ? part : { ...part, text: undefined }
+              ),
         citations: p.citations?.sort(
           (a, b) =>
             documents.findIndex((x) => x.id === a.doc) -
@@ -564,6 +565,6 @@ const documentMap = documents.reduce((res, d) => {
 
 await fs.promises.writeFile(
   `./data/data.json`,
-  prettify(JSON.stringify(documentMap, null, 2), "json"),
+  await prettify(JSON.stringify(documentMap, null, 2), "json"),
   "utf-8"
 );
