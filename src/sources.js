@@ -148,7 +148,7 @@ const getMessageTo = (addressee) => {
       return "to the Bahá’ís of Írán";
     }
   } else if (lower.includes("youth")) {
-    return "to Bahá’í Youth";
+    return "to Bahá’í youth";
   } else if (
     lower.includes("followers of bahá’u’lláh in") &&
     !lower.includes("every land")
@@ -1764,6 +1764,10 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         author: "Shoghi Effendi",
         years: [1938, 1938],
       }),
+      [
+        "The Advent of Divine Justice",
+        "25 December 1938, The Advent of Divine Justice",
+      ],
       prefix(/^Dearly beloved friends! Great as is my love/m, "\n\n***\n\n"),
       prefix(/^Dearly beloved friends! I have attempted/m, "\n\n***\n\n"),
       prefix(/^Such, dearly beloved friends, is the vista/m, "\n\n***\n\n"),
@@ -1881,7 +1885,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         /^## Letter.+$/gm,
         (a) => {
           if (a === "## Letter of Circa May, 1922 (undated).") {
-            return `${a}\nyears=[1922.0501,1922.0501]`;
+            return `## May 1922 (Undated)\nyears=[1922.0501,1922.0501]`;
           }
           const [mm, dd, yy] = a
             .replace(/\.$/, "")
@@ -1892,9 +1896,13 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
             2,
             "0"
           )}${dd.padStart(2, "0")}`;
-          return `${a.replace(/\.$/, "")}\nyears=[${date},${date}]`;
+          return `## ${dd} ${mm} ${yy}\nyears=[${date},${date}]`;
         },
       ],
+      [/Circa May, 1922 \(undated\)\./g, ""],
+      [/^.*19\d\d\.?\n+#/gm, "#"],
+      [/^.*19\d\d\.?\n+P\.S\./gm, "P.S."],
+      ["April 11, 1933.", ""],
       ["be offered for His loved ones", "be offered up for His loved ones"],
       ["stronghold of Thy Cause", "stronghold of Thy care"],
       ["days and night in promoting", "days and nights in promoting"],
@@ -1945,7 +1953,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
             2,
             "0"
           )}${dd.padStart(2, "0")}`;
-          return `## ${b}\nyears=[${date},${date}]\n\n${a}`;
+          return `## ${dd} ${mm} ${yy}\nyears=[${date},${date}]\nsummary="${b}"`;
         },
       ],
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
@@ -1995,7 +2003,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         years: [1941, 1941],
       }),
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `# ${a}`],
-      ["# The Promised Day Is Come", "The Promised Day Is Come"],
+      ["# The Promised Day Is Come", "28 March 1941, The Promised Day Is Come"],
       [
         "“Movements,” is the warning sounded by ‘Abdu’l‑Bahá, “newly born and worldwide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“Modern universal movements,” is the warning sounded by ‘Abdu’l‑Bahá, “will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
@@ -2027,7 +2035,9 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
             2,
             "0"
           )}${dd.padStart(2, "0")}`;
-          return `${a}\nyears=[${date},${date}]${b || ""}\n\n${c}`;
+          return `# ${dd} ${mm} ${yy}\nyears=[${date},${date}]\nsummary="${a.slice(
+            2
+          )}"${b || ""}`;
         },
       ],
       ["hope which ‘Abdu’l‑Bahá", "hope, therefore, which ‘Abdu’l‑Bahá"],
@@ -2051,20 +2061,40 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       title("", "#", { author: "Bahá’u’lláh", years: [1873, 1873] }),
       [
         "\nThe World Order of Bahá’u’lláh",
-        "\n# The World Order of Bahá’u’lláh",
+        "\n# 27 February 1929, The World Order of Bahá’u’lláh",
       ],
-      title("#", "The World Order of Bahá’u’lláh: Further Considerations"),
-      title("#", "The Goal of a New World Order"),
-      title("#", "The Golden Age of the Cause of Bahá’u’lláh"),
-      title("#", "America and the Most Great Peace"),
-      title("#", "The Dispensation of Bahá’u’lláh"),
+      [
+        "\nThe World Order of Bahá’u’lláh: Further Considerations",
+        "\n# 21 March 1930, The World Order of Bahá’u’lláh: Further Considerations",
+      ],
+      [
+        "\nThe Goal of a New World Order",
+        "\n# 28 November 1931, The Goal of a New World Order",
+      ],
+      [
+        "\nThe Golden Age of the Cause of Bahá’u’lláh",
+        "\n# 21 March 1932, The Golden Age of the Cause of Bahá’u’lláh",
+      ],
+      [
+        "\nAmerica and the Most Great Peace",
+        "\n# 21 April 1933, America and the Most Great Peace",
+      ],
+      [
+        "\nThe Dispensation of Bahá’u’lláh",
+        "\n# 8 February 1934, The Dispensation of Bahá’u’lláh",
+      ],
       title("##", "Bahá’u’lláh"),
       title("##", "The Báb"),
       title("##", "‘Abdu’l‑Bahá"),
       title("##", "The Administrative Order"),
-      title("#", "The Unfoldment of World Civilisation"),
+      [
+        "\nThe Unfoldment of World Civilisation",
+        "\n# 11 March 1936, The Unfoldment of World Civilisation",
+      ],
       [/^[A-Z].{1,80}[a-z]$/gm, (a) => `## ${a}`],
       ["## The World Order of Bahá’u’lláh", "The World Order of Bahá’u’lláh"],
+      [/^.*19\d\d\.?\n+#/gm, "#"],
+      ["March 11, 1936.", ""],
       [
         "“The ills from which the world now suffers,” wrote ‘Abdu’l‑Bahá in January, 1920, “will multiply; the gloom which envelops it will deepen. The Balkans will remain discontented. Its restlessness will increase. The vanquished Powers will continue to agitate. They will resort to every measure that may rekindle the flame of war. Movements, newly‑born and world‑wide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“This darkness,” wrote ‘Abdu’l‑Bahá in January, 1920, “shall never vanish, these chronic diseases shall never be healed; nay, they shall grow fiercer from day to day. The Balkans will remain restless, and its condition will aggravate. The vanquished will not keep still, but will seize every means to kindle anew the flame of war. Modern universal movements will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
@@ -2158,11 +2188,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
             summary,
           };
           return [
-            `# ${
-              fixedTitle.startsWith("Riḍván")
-                ? `${summary} ${getMessageTo(addressee)}`
-                : `Letter dated ${fixedTitle} ${getMessageTo(addressee)}`
-            }`,
+            `# ${fixedTitle}, ${getMessageTo(addressee)}`,
             ...Object.keys(config).map(
               (k) => `${k}=${JSON.stringify(config[k])}`
             ),

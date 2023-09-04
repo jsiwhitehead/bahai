@@ -2,7 +2,7 @@ Additional Messages of the Universal House of Justice
 author="The Universal House of Justice"
 collection
 
-# Letter dated 9 May 2020 to all National Assemblies
+# 9 May 2020, to all National Assemblies
 years=[2020.0509,2020.0509]
 summary="Regarding the Five Year Plan and the community’s response to the global health crisis"
 
@@ -36,7 +36,7 @@ Not a moment passes when you are not in our thoughts. All our trust and confiden
 
 [signed: The Universal House of Justice]
 
-# Letter dated Naw‑Rúz 2020 to the Bahá’ís of Írán
+# Naw‑Rúz 2020, to the Bahá’ís of Írán
 years=[2020.0320,2020.0320]
 
 * [AUTHORISED TRANSLATION FROM PERSIAN]
@@ -53,7 +53,7 @@ O friends of the Abhá Beauty! Although the horizon of the world appears dark, a
 
 [signed: The Universal House of Justice]
 
-# Letter dated 24 October 2019 to the Bahá’ís of Írán
+# 24 October 2019, to the Bahá’ís of Írán
 years=[2019.1024,2019.1024]
 summary="Regarding the bicentenary of the Birth of the Báb"
 
@@ -81,7 +81,7 @@ Beloved friends: At this moment in time, when the followers of the Greatest Name
 
 [signed: The Universal House of Justice]
 
-# Letter dated 5 January 2015 to a National Assembly
+# 5 January 2015, to a National Assembly
 years=[2015.0105,2015.0105]
 summary="Regarding the reinvigoration of the training institute and establishing strong Area Teaching Committees"
 
@@ -111,7 +111,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 24 December 2014 to a National Assembly
+# 24 December 2014, to a National Assembly
 years=[2014.1224,2014.1224]
 summary="Regarding the scheme of coordination in advanced clusters"
 
@@ -149,7 +149,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 1 October 2014 to the Bahá’ís of Írán
+# 1 October 2014, to the Bahá’ís of Írán
 years=[2014.1001,2014.1001]
 
 * [AUTHORISED TRANSLATION FROM PERSIAN]
@@ -178,7 +178,7 @@ O Divine Providence! This assemblage is composed of Thy friends who are attracte
 
 [signed: The Universal House of Justice]
 
-# Letter dated 17 February 2014 to an individual
+# 17 February 2014, to an individual
 years=[2014.0217,2014.0217]
 summary="Concerning obstacles to the progress of the Plan, including dichotomous thinking"
 
@@ -212,7 +212,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 29 January 2014 to Bahá’í youth in Írán
+# 29 January 2014, to Bahá’í youth in Írán
 years=[2014.0129,2014.0129]
 
 * [AUTHORISED TRANSLATION FROM PERSIAN]
@@ -239,7 +239,7 @@ We offer supplications at the Sacred Threshold on your behalf.
 
 [signed: The Universal House of Justice]
 
-# Letter dated 23 July 2013 to a National Assembly
+# 23 July 2013, to a National Assembly
 years=[2013.0723,2013.0723]
 summary="On enhancing institutional capacity to collect and utilise statistics"
 
@@ -265,7 +265,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 16 May 2013 to those gathered
+# 16 May 2013, to those gathered
 years=[2013.0516,2013.0516]
 
 * The Universal House of Justice
@@ -292,7 +292,7 @@ We are pleased to witness the promising advances in the deliberations at Nationa
 
 [signed: The Universal House of Justice]
 
-# Letter dated 23 April 2013 to a National Assembly
+# 23 April 2013, to a National Assembly
 years=[2013.0423,2013.0423]
 summary="Regarding the upholding of Bahá’í moral standards"
 
@@ -330,7 +330,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 19 April 2013 to selected individuals
+# 19 April 2013, to selected individuals
 years=[2013.0419,2013.0419]
 summary="Conveying guidance on adhering to Bahá’í standards of morality"
 
@@ -370,7 +370,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 9 August 2012 to a National Assembly
+# 9 August 2012, to a National Assembly
 years=[2012.0809,2012.0809]
 summary="Regarding Regional Councils and fostering dynamics of growth in clusters"
 
@@ -414,7 +414,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 23 May 2011 to the Bahá’ís of the World
+# 23 May 2011, to the Bahá’ís of the World
 years=[2011.0523,2011.0523]
 summary="Regarding pioneering"
 
@@ -436,7 +436,7 @@ Beyond responding to the specific appeals for homefront and international pionee
 
 [signed: The Universal House of Justice]
 
-# Letter dated 10 April 2011 to an individual
+# 10 April 2011, to an individual
 years=[2011.0410,2011.0410]
 summary="Concerning efforts to eliminate racial prejudice in the light of the framework of action"
 
@@ -470,7 +470,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 13 February 2011 to an individual
+# 13 February 2011, to an individual
 years=[2011.0213,2011.0213]
 summary="Regarding what Shoghi Effendi termed the “double crusade”"
 
@@ -496,7 +496,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 28 February 2010 to a National Assembly
+# 28 February 2010, to a National Assembly
 years=[2010.0228,2010.0228]
 summary="Regarding the processes of social and economic development and expansion and consolidation"
 
@@ -524,7 +524,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 1 January 2010 to those gathered
+# 1 January 2010, to those gathered
 years=[2010.0101,2010.0101]
 
 * The Universal House of Justice
@@ -539,7 +539,7 @@ That the spirit of this gathering may galvanise your energies and strengthen you
 
 [signed: The Universal House of Justice]
 
-# Letter dated 20 November 2009 to a National Assembly
+# 20 November 2009, to a National Assembly
 years=[2009.1120,2009.1120]
 summary="Regarding Regional Councils"
 
@@ -569,7 +569,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 15 March 2009 to an individual
+# 15 March 2009, to an individual
 years=[2009.0315,2009.0315]
 summary="Regarding the institute process"
 
@@ -595,7 +595,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 4 January 2009 to a National Assembly
+# 4 January 2009, to a National Assembly
 years=[2009.0104,2009.0104]
 summary="Regarding centres of Bahá’í learning"
 
@@ -631,7 +631,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 30 September 2008 to an individual
+# 30 September 2008, to an individual
 years=[2008.0930,2008.0930]
 summary="Regarding firesides, deepening, proclamation, travelling teaching, and retaining Local Assemblies in remote areas"
 
@@ -657,7 +657,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 11 August 2008 to an individual
+# 11 August 2008, to an individual
 years=[2008.0811,2008.0811]
 summary="Regarding the responsibilities of Local Spiritual Assemblies"
 
@@ -679,7 +679,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 18 February 2008 to the Bahá’ís of Írán
+# 18 February 2008, to the Bahá’ís of Írán
 years=[2008.0218,2008.0218]
 summary="Regarding the Guardianship and the Universal House of Justice"
 
@@ -767,7 +767,7 @@ The believers in the Cradle of the Faith, who have withstood for more than a cen
 
 [signed: The Universal House of Justice]
 
-# Letter dated 10 April 2003 to those gathered
+# 10 April 2003, to those gathered
 years=[2003.0410,2003.0410]
 
 * The Universal House of Justice
@@ -788,7 +788,7 @@ Now more than ever you should be attuned to the interests of your peers and be c
 
 [signed: The Universal House of Justice]
 
-# Letter dated 10 January 2002 to the Bahá’ís of the World
+# 10 January 2002, to the Bahá’ís of the World
 years=[2002.0110,2002.0110]
 summary="Regarding the pioneer call"
 
@@ -810,7 +810,7 @@ At this important juncture in the development of the Faith, when the systematisa
 
 [signed: The Universal House of Justice]
 
-# Letter dated 22 December 2001 to those gathered
+# 22 December 2001, to those gathered
 years=[2001.1222,2001.1222]
 
 * The Universal House of Justice
@@ -829,7 +829,7 @@ We shall remember you in our prayers in the Holy Shrines.
 
 [signed: The Universal House of Justice]
 
-# Letter dated 3 January 1996 to those gathered
+# 3 January 1996, to those gathered
 years=[1996.0103,1996.0103]
 
 * The Universal House of Justice
@@ -850,7 +850,7 @@ We shall remember you in our prayers in the Holy Shrines.
 
 [signed: The Universal House of Justice]
 
-# Letter dated 9 November 1993 to all National Assemblies
+# 9 November 1993, to all National Assemblies
 years=[1993.1109,1993.1109]
 summary="Release of a Compilation on Entry by Troops"
 
@@ -876,7 +876,7 @@ We are confident that, guided and assisted by the Counsellors and their auxiliar
 
 [signed: The Universal House of Justice]
 
-# Letter dated 18 December 2014 to the Bahá’ís of Írán
+# 18 December 2014, to the Bahá’ís of Írán
 years=[2014.1218,2014.1218]
 
 * [AUTHORISED TRANSLATION FROM PERSIAN]
@@ -913,7 +913,7 @@ Beloved friends: Gatherings dedicated to prayer throughout your blessed land, in
 
 [signed: The Universal House of Justice]
 
-# Letter dated 10 December 1992 to an individual
+# 10 December 1992, to an individual
 years=[1992.1210,1992.1210]
 
 * The Universal House of Justice
@@ -966,7 +966,7 @@ Bahá’u’lláh was addressing all of us when He wrote: “Were any man to tas
 
 Finally, the House of Justice wishes us to say that it fully agrees with your statement that it is important for the Faith to attract intellectuals and, indeed, all people of capacity in any field. Bahá’ís who themselves are intellectuals can contribute signally to this process, but not by ignoring the basic standards of faith and conduct that apply to all believers or by depicting the Bahá’í administration as a bureaucratic hindrance to freedom of thought and expression.
 
-# Letter dated 5 October 1993 to an individual
+# 5 October 1993, to an individual
 years=[1993.1005,1993.1005]
 
 * The Universal House of Justice
@@ -991,7 +991,7 @@ It is apparent that the crisis of contemporary civilisation is impelling thinker
 
 The Universal House of Justice can only invite Bahá’í scholars, as it invites all other believers, to respond to this historic challenge, in whatever way and to whatever extent each person considers possible. It is confident that, in Bahá’í scholarship as in all other areas of Bahá’í service, the essential resources will gradually be forthcoming and the required models of research and study will be refined through the process of consultation. It is this achievement, the House of Justice believes, that in the long run will best protect the reputation of the Cause from whatever immediate misunderstandings and criticisms it may encounter. Indeed it is greatly encouraged by the response that Bahá’í scholars in many fields are already making.
 
-# Letter dated 5 October 1993 to an individual
+# 5 October 1993, to an individual
 years=[1993.1005,1993.1005]
 
 * The Universal House of Justice
@@ -1010,7 +1010,7 @@ At present, the World Centre lacks the human resources, physical space, and rese
 
 To propose, as some have done, that the best course in the meantime is simply to open the World Centre’s archives to visiting Bahá’í scholars who possess appropriate credentials is not realistic. Were the Archives, the Library, and the Research Department to divert energy and attention to the reception of the many researchers who would feel a legitimate right to come, their priority tasks in vital support of the work of the House of Justice, including preservation, classification, translation, annotation, and publication, would suffer to a degree that is not acceptable at this stage in the growth of the Cause. As is so often the case in many fields of research, scholars interested in work on the Faith will have to exercise a measure of patience.
 
-# Letter dated 2 July 1996 to an individual
+# 2 July 1996, to an individual
 years=[1996.0702,1996.0702]
 
 * The Universal House of Justice
@@ -1061,7 +1061,7 @@ It is the ardent prayer of the Universal House of Justice that any friends who f
 
 The House of Justice understands and appreciates your concern for the proper functioning of the Bahá’í community. It urges you to contemplate the issues you have raised in the light of the Teachings themselves, and not to weigh them with the standards of other philosophies or of any civil system, the fundamental assumptions of which differ in many respects from those of Bahá’u’lláh’s divinely conceived Order.
 
-# Letter dated 3 June 1997 to an individual
+# 3 June 1997, to an individual
 years=[1997.0603,1997.0603]
 
 * The Universal House of Justice
@@ -1098,7 +1098,7 @@ There remains the question concerning the authority for the duties and responsib
 
 The House of Justice assures you of its prayers in the Holy Shrines that your efforts to assist the friends to overcome misunderstandings and to clarify their vision of the Faith will be blessed with divine confirmations.
 
-# Letter dated 20 July 1997 to an individual
+# 20 July 1997, to an individual
 years=[1997.0720,1997.0720]
 
 * The Universal House of Justice
@@ -1139,7 +1139,7 @@ Not surprisingly, the abuse of Internet discussions on the Faith and its Teachin
 
 Finally, it is no doubt helpful to keep in mind that Bahá’ís who are trained in various academic disciplines do not constitute a discrete body within the community. While the Bahá’í institutions benefit on an ongoing basis from the advice of believers in many fields of specialisation, there is obviously no group of academics who can claim to speak on behalf of Bahá’í scholars generally. Scholarly qualifications enable individuals to make greatly valued contributions to the work of the Cause, but do not set those possessing them apart from the general body of the believers. The House of Justice feels confident that, with patience, self‑discipline, and unity of faith, Bahá’í academics will be able to contribute to a gradual forging of the more integrative paradigms of scholarship for which thoughtful minds in the international community are increasingly calling.
 
-# Letter dated 8 February 1998 to an individual
+# 8 February 1998, to an individual
 years=[1998.0208,1998.0208]
 
 * The Universal House of Justice
@@ -1208,7 +1208,7 @@ Your own familiarity with these same persons’ behaviour will have provided you
 
 For every thing, however, God has created a sign and symbol, and established standards and tests by which it may be known. The spiritually learned must be characterised by both inward and outward perfections; they must possess a good character, an enlightened nature, a pure intent, as well as intellectual power, brilliance and discernment, intuition, discretion and foresight, temperance, reverence, and a heartfelt fear of God. For an unlit candle, however great in diameter and tall, is no better than a barren palm tree or a pile of dead wood.
 
-# Letter dated 22 August 2002 to an individual
+# 22 August 2002, to an individual
 years=[2002.0822,2002.0822]
 summary="Regarding enrolments and limited growth of the Bahá’í community"
 
@@ -1238,7 +1238,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Letter dated 7 April 1999 to all National Assemblies
+# 7 April 1999, to all National Assemblies
 years=[1999.0407,1999.0407]
 
 * The Universal House of Justice

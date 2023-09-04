@@ -6,33 +6,29 @@ collection
 # Citadel of Faith
 collection
 
-## Believers’ Generous Response to Temple Fund
+## 20 January 1947
 years=[1947.0120,1947.0120]
-
-January 20, 1947
+summary="Believers’ Generous Response to Temple Fund"
 
 Thrilled by generous response of believers to Temple Fund. Deeply touched. Hail latest striking evidence of the magnificent spirit, unshakeable solidarity and unflinching resolve of American Bahá’í Community. Deepest loving gratitude.
 
-## Call to Fuller Participation
+## 30 January 1947
 years=[1947.0130,1947.0130]
-
-January 30, 1947
+summary="Call to Fuller Participation"
 
 Acclaim with grateful heart evidences of steadily accelerating movement of pioneers, multiplication of conferences, consolidation of activities of national committees, progress in preliminaries of internal ornamentation of Temple, and formulation of teaching policy in southern states. Overwhelmed by tributes paid my own humble efforts by stalwart company whose championship of Faith of Bahá’u’lláh during last quarter century provided greatest support and solace, enabling me to sustain the weight of cares and responsibilities of Guardianship.
 
 Impelled to plead afresh to ponder responsibilities incurred in transatlantic field of service. Time is flying. First year of Second Seven Year Plan is drawing to a close. Shadow of war’s tragic aftermath is deepening. Initial stage of colossal task undertaken in European continent still in balance. Urge stress for entire community extreme urgency to reinforce promptly, at whatever cost, however inadequate the instruments, the number of volunteers, both settlers and itinerant teachers, whom posterity will rightly recognise as vanguard of torch‑bearers of Bahá’u’lláh’s resistless, world‑redeeming order to despairing millions of diversified races, conflicting nationalities in darkest, most severely tested, spiritually depleted continent of globe. Prayerfully awaiting response by all ranks of community to supreme call to fuller participation in glorious enterprise.
 
-## Consolidation in Europe
+## 24 March 1947
 years=[1947.0324,1947.0324]
-
-March 24, 1947
+summary="Consolidation in Europe"
 
 Overjoyed, grateful, proud of notable expansion of manifold activities in three continents. Vital significance of preeminent objective in European continent cannot be overemphasised. Intense, sustained, self‑sacrificing efforts aimed at rapid consolidation of American Community’s recently initiated fate‑laden transatlantic enterprise are urgent, imperative, highly meritorious. Praying for such demonstration of heroism as will outshine exploits illuminating pages of American Bahá’í history in continents of Western Hemisphere.
 
-## Participation in Second Seven Year Plan [MESSAGE TO 1947 CONVENTION]
+## 28 April 1947
 years=[1947.0428,1947.0428]
-
-April 28, 1947
+summary="Participation in Second Seven Year Plan [MESSAGE TO 1947 CONVENTION]"
 
 My heart is filled with delight, wonder, pride and gratitude in contemplation of the peace‑time exploits, in both hemispheres, of the world community of the followers of the Faith of Bahá’u’lláh, triumphantly emerging from the crucible of global war and moving irresistibly into the second epoch of the Formative Age of the Bahá’í Dispensation.
 
@@ -52,10 +48,9 @@ Circa June 1947
 
 Owing to arrival of disloyal so‑called Bahá’ís your Assembly’s control of credentials should be strictly exercised, otherwise corruptive influences will spread and injure the magnificent services being achieved by the American Bahá’í Community.
 
-## The Challenging Requirements of the Present Hour
+## 5 June 1947
 years=[1947.0605,1947.0605]
-
-June 5, 1947
+summary="The Challenging Requirements of the Present Hour"
 
 The opening years of the second century of the Bahá’í Era have synchronised with the termination of the first epoch of the Formative Age of the Bahá’í Dispensation, a Dispensation which posterity will recognise as the most glorious and momentous in the greatest cycle in the world’s religious history.
 
@@ -247,26 +242,23 @@ The agitation in the Balkan Peninsula; the feverish activity in which Germany an
 
 Whatever the Hand of a beneficent and inscrutable Destiny has reserved for this youthful, this virile, this idealistic, this spiritually blessed and enviable nation, however severe the storms which may buffet it in the days to come in either hemisphere, however sweeping the changes which the impact of cataclysmic forces from without, and the stirrings of a Divine embryonic Order from within, will effect in its structure and life, we may, confident in the words uttered by ‘Abdu’l‑Bahá, feel assured that that great republic—the shell that enshrines so precious a member of the world community of the followers of His Father—will continue to evolve, undivided and undefeatable, until the sum total of its contributions to the birth, the rise and the fruition of that world civilisation, the child of the Most Great Peace and hallmark of the Golden Age of the Dispensation of Bahá’u’lláh, will have been made, and its last task discharged.
 
-## European Pioneers and Temple Contract
+## 13 July 1947
 years=[1947.0713,1947.0713]
-
-July 13, 1947
+summary="European Pioneers and Temple Contract"
 
 Rejoice at evidences of continued vigorous activity. Renew plea to believers possessing independent means to volunteer for European pioneer field, both settlers and itinerant teachers. Eagerly awaiting response to Convention message. Praying for placing of Temple contract before termination of current year. Ardently supplicating unprecedented blessings for manifold, meritorious, magnificent services. Deepest love.
 
-## Evidences of Notable Expansion
+## 10 September 1947
 years=[1947.0910,1947.0910]
-
-September 10, 1947
+summary="Evidences of Notable Expansion"
 
 Greatly welcome evidences of a notable expansion of activities and increased intensification of efforts for publicity. I urge believers and local assemblies to redouble their efforts in support of vital National Fund. Praying ardently for realisation of your highest hopes. Appreciate action for preservation of Keith’s grave. Do not advise you to transmit further funds to Persia for the grave. I appeal to North American believers to exert their utmost to ensure the formation of required number of assemblies by next April. Further sacrifices demanded, rich reward assured. May entire body of American believers arise to fulfil their glorious destiny.
 
 Abiding gratitude, deepest love.
 
-## Effective Prosecution of Sacred Tasks
+## 25 October 1947
 years=[1947.1025,1947.1025]
-
-October 25, 1947
+summary="Effective Prosecution of Sacred Tasks"
 
 The steadily deepening crisis which mankind is traversing, on the morrow of the severest ordeal it has yet suffered, and the attendant tribulations and commotions which a travailing age must necessarily experience, as a prelude to the birth of the new World Order, destined to rise upon the ruins of a tottering civilisation, must, as they intensify, increasingly influence the course, and, in some cases, retard the progress, of the collective enterprises successively launched in the opening years of the second Bahá’í century, and in almost every continent of the globe, by the world‑wide community of the organised followers of the Faith of Bahá’u’lláh. In the land of its birth long‑standing political rivalries, combined with a steady decline in the authority and influence exercised by the central government, are contributing to the reemergence of reactionary forces, represented by an as yet influential and fanatical priesthood, to a recrudescence of the persecution, and a multiplication of the disabilities, to which a still unemancipated Faith has been so cruelly subjected for more than a century. In the heart of the continent of Europe, still fiercer political rivalries, as well as the clash of conflicting ideologies, have prevented the unification, indefinitely retarded the national revival, multiplied the vicissitudes and rendered more desperate the plight, of a nation comprising within its frontiers the largest community of the adherents of the Faith on that continent—a community destined, as prophesied by ‘Abdu’l‑Bahá, to play a major role in the spiritual awakening and the ultimate conversion of the European peoples and races to His Father’s Faith. In the subcontinent of India recent political developments of a momentous character have plunged its divers castes, races and denominations into grave turmoil, brought in their wake riots, bloodshed, misery and confusion, fanned into flame religious animosities, and well‑nigh disrupted its economic life. In the Nile Valley the outbreak of a widespread and virulent epidemic, following closely upon the political unrest and the severe economic crisis already afflicting its inhabitants, threatens to disorganise the life of the nation and to bring in its wake afflictions of an even more serious character. In the Holy Land itself, the heart and nerve‑centre of the far‑flung and firmly knit community of the followers of Bahá’u’lláh, and the repository of its holiest shrines, already gravely disturbed by the chronic instability of its political life, the religious dissensions of its inhabitants, and the ten‑year‑long strain and danger to which its people have been subjected and exposed, fresh perils are looming on its horizon, menacing it, on the one hand with the ravages of an epidemic that has already taken so heavy a toll of the lives of the people beyond its southern frontier, and threatening it, on the other, with a civil war of extreme severity and unpredictable in its consequences. Subject to the same fundamental causes which have deranged the equilibrium of present‑day society and corroded its life are to be regarded the privations, the restrictions and crisis which, to a lesser degree, are oppressing the peoples of Central and Southeastern Europe, of the British Isles and of certain republics of Central and South America.
 
@@ -290,10 +282,9 @@ To the vital requirements of this Plan, at so critical a juncture, both in the f
 
 Then, and only then, will the reaction to the stupendous forces, released through the operation of a divinely conceived, divinely impelled Plan, be made apparent, and the fairest fruit of the weightiest spiritual enterprise launched in recorded history under the aegis of the Centre of the Covenant of Bahá’u’lláh be garnered.
 
-## Recognition of Preeminent Services
+## 15 December 1947
 years=[1947.1215,1947.1215]
-
-December 15, 1947
+summary="Recognition of Preeminent Services"
 
 Highly gratified at unceasing, compelling evidences of exalted spirit of Bahá’í stewardship animating American Bahá’í Community, as attested by the alacrity of its national representatives in executing the first Temple contract, their promptitude in extending effective assistance to their Persian brethren, their vigilance in safeguarding integrity of the Faith in the City of the Covenant and their vigour in prosecuting the national campaign of publicity.
 
@@ -301,38 +292,33 @@ In recognition of preeminent services continually enriching the record of achiev
 
 Happy to announce completion of plans and specifications for erection of arcade surrounding the Báb’s Sepulchre, constituting the first step in the process destined to culminate in construction of the dome anticipated by ‘Abdu’l‑Bahá and marking consummation of enterprise initiated by Him fifty years ago according to instructions given Him by Bahá’u’lláh.
 
-## Critical Stage of Task on Home Front
+## 10 January 1948
 years=[1948.0110,1948.0110]
-
-January 10, 1948
+summary="Critical Stage of Task on Home Front"
 
 I am deeply concerned at critical stage of task confronting North American Teaching Committee, constituting at this juncture the paramount objective of present Plan. Owing to urgent, overriding importance of Committee’s responsibility and to swiftly approaching time limit fixed for attainment of the goal of one hundred seventy‑five assemblies, emergency measures carefully, promptly devised by national representatives of the community and wholeheartedly supported by entire mass of the believers of the North American continent, designed to safeguard the existing assemblies and rapidly multiply their number, are imperative. The placing of further contract for Temple, the reinforcement of basis of forthcoming Canadian National Spiritual Assembly, the additional consolidation of the institutions of the Faith in Latin America, the wider proclamation of its message to the masses, even the multiplication of pioneers in the European field, should be unhesitatingly subordinated to demands of the one disconcerting aspect of an otherwise successfully conducted Plan. I address this last‑minute appeal to every single member of the community, the champion warriors in the army of Bahá’u’lláh, which since launching the Plan formulated by the Centre of His Covenant never succumbed to defeat nor was thwarted in its purpose, to arise resolutely, volunteer instantly to fill the gap in the main defences of the home front and register total victory ere the termination of the second year of the Second Seven Year Plan. Fervently praying for instantaneous, decisive response.
 
-## No Sacrifice Too Great
+## 1 February 1948
 years=[1948.0201,1948.0201]
-
-February 1, 1948
+summary="No Sacrifice Too Great"
 
 The gravity of the emergency facing the North American believers is unprecedented since the initiation of the Divine Plan and unparalleled in the history of the American Bahá’í Community since ‘Abdu’l‑Bahá’s passing. No obstacle is insuperable, no sacrifice too great for attainment of supremely important objective. The eyes of her sister communities in every continent of the globe and of her daughter communities of Latin America, handicapped by a variety of adverse circumstances, are fixed upon the community of followers of Bahá’u’lláh in North American continent who are enjoying the blessings of internal peace, adequate resources, administrative experience and organising ability for their divinely appointed mission, expecting them to arise and avert the reverse which would mar the splendour of their record of unexampled stewardship. I am moved to plead, at this eleventh hour, that the rank and file of the community, particularly the members resident in long‑established leading strongholds of the Faith—New York, Chicago, Los Angeles, San Francisco, Washington—issue forth unhesitatingly, determinedly, sacrifice every interest, assume positions in the forefront of the struggle and emulate in the course of the first decade of second Bahá’í century, opening years of the second epoch of Formative Age of the Faith, exploits of their spiritual progenitors, the dawn‑breakers of the Heroic Age, which immortalised the dawn of the first Bahá’í century. The immediate fortunes of the Plan are precariously hanging in the balance. The three months’ interval is swiftly running out. My heart aches at contemplation of the possibility of failure of the stalwart community to rise to the heights of the occasion. I refuse to believe that its members, invested with unique apostolic mission of ‘Abdu’l‑Bahá, will shrink from meeting the most challenging requirement of the present hour.
 
-## Prevailing Crisis
+## 13 February 1948
 years=[1948.0213,1948.0213]
-
-February 13, 1948
+summary="Prevailing Crisis"
 
 Hope is welling up in my anxious, overburdened heart that the North American Bahá’í Community may yet emerge triumphant over the prevailing crisis, demonstrate its capacity to preserve its hard‑won prizes and redeem its pledges through a further display of its qualities of unconquerable faith, unbreakable solidarity, dauntless valour and heroic self‑sacrifice, and vindicate its right to primacy in the world community of the followers of Bahá’u’lláh. High water mark is still unattained notwithstanding the mounting tide of enthusiastic response displayed by an aroused community. Dangerous passage now forded in this eleventh‑hour campaign. I am fervently praying that further intensification of effort, sustained, coordinated, consecrated and unanimously exerted, will sweep its members on crest of the wave to total victory. I feel assured that cumulative efforts of participants in emergency campaign launched by entire community will increasingly attract the promised inflowing grace of the holy Author of its destinies, will demonstrate afresh its worthiness of the paternal care of its divine Founder, will win added commendation from its sister communities of the Eastern Hemisphere, deepen the admiration and inspire the emulation of its daughter communities in Latin America and the European continent, and strengthen the attachment and reinforce the brotherly affection of its Guardian.
 
-## Emergency Teaching Campaign
+## 6 April 1948
 years=[1948.0406,1948.0406]
-
-April 6, 1948
+summary="Emergency Teaching Campaign"
 
 Greatly encouraged by the splendid progress of the tremendous drive initiated in response to my appeal. The zero hour is inexorably approaching. Nineteen additional settlers can and must be provided. Praying with increasing fervour for total success, complete victory.
 
-## Marvellous Acceleration [FIRST MESSAGE TO 1948 CONVENTION]
+## 16 April 1948
 years=[1948.0416,1948.0416]
-
-April 16, 1948
+summary="Marvellous Acceleration [FIRST MESSAGE TO 1948 CONVENTION]"
 
 I am moved to share with assembled delegates of the fortieth American Bahá’í Convention the following facts and figures testifying to the present status of the World Faith of Bahá’u’lláh and disclosing the marvellous acceleration in the double process of the extension of its range and the consolidation of the institutions of its Administrative Order in the Eastern and Western Hemispheres in the course of the first four years of the second Bahá’í century.
 
@@ -344,10 +330,9 @@ The second seven‑year, the six‑year, the four and one‑half year, the six�
 
 Plans and specifications have been prepared, and preliminary measures taken, to place contracts for the arcade of the Báb’s Sepulchre. Historic International Bahá’í Congresses held in South and Central America and an inter‑European Teaching Conference projected for Geneva paving the way for future World Bahá’í Congress. Recognition extended to the Faith by United Nations as international non‑governmental body, enabling appointment of accredited representatives to United Nations conferences, is heralding world recognition for a universal proclamation of the Faith of Bahá’u’lláh.
 
-## Brilliant Achievements [SECOND MESSAGE TO 1948 CONVENTION]
+## 26 April 1948
 years=[1948.0426,1948.0426]
-
-April 26, 1948
+summary="Brilliant Achievements [SECOND MESSAGE TO 1948 CONVENTION]"
 
 Joyfully acclaim brilliant achievements transcending fondest hopes and setting the seal of complete victory on the stupendous labours undertaken by American Bahá’í Community in the second year of the Second Seven Year Plan. The constitution of the National Spiritual Assembly of Canada, the heroic feat of raising to almost two hundred the number of spiritual assemblies in the North American continent, the marvellous expansion of the daughter communities in Latin America, the successful conclusion of the preliminary phase of the interior ornamentation of the Mashriqu’l‑Adhkár, and the crowning exploit of the formation of no less than seven assemblies in the newly opened transcontinental field, endow with everlasting fame the second epoch of the Formative Age, immeasurably enrich the annals of the opening decade of the second Bahá’í century, and constitute a landmark in the unfoldment of the second stage of the execution of ‘Abdu’l‑Bahá’s Plan.
 
@@ -355,28 +340,25 @@ The primacy of the American Bahá’í Community is reasserted, fully vindicated
 
 Appeal to members of the community so privileged, so loved, so valorous, endowed with such potentialities to unitedly press forward however afflictive the trials their countrymen may yet experience, however grievous the tribulations the land of their heart’s desire may yet suffer, however oppressive an anxiety the temporary severance of external communications with the World Centre of their Faith may engender, however onerous the tasks still to be accomplished, until every single obligation under the present Plan is honourably fulfilled, enabling them to launch in its appointed time the third crusade destined to bring glorious consummation to the first epoch in the evolution of their divinely appointed world mission, fulfil the prophecy uttered by Daniel over twenty centuries ago, contribute the major share of the world triumph of the Faith of Bahá’u’lláh envisaged by the Centre of His Covenant, and hasten the opening of the Golden Age of the Bahá’í Dispensation.
 
-## Support the National Fund
+## 4 May 1948
 years=[1948.0504,1948.0504]
-
-May 4, 1948
+summary="Support the National Fund"
 
 Temple drawings received. Approve design. Urge that you proceed without delay to place Temple contracts.
 
 I appeal to entire body of believers to arise and generously support the National Fund in hour of greatest need to ensure uninterrupted progress in the ornamentation of the House of Worship which, as foretold by ‘Abdu’l‑Bahá, is already conferring such benefits upon the community.
 
-## Temple Interior Ornamentation and Arcade of the Báb’s Sepulchre
+## 14 May 1948
 years=[1948.0514,1948.0514]
-
-May 14, 1948
+summary="Temple Interior Ornamentation and Arcade of the Báb’s Sepulchre"
 
 Delighted at contract for ornamentation, projected reception (i.e., for UN delegates in Geneva), appointment of new committees for consolidation of teaching work and noble determination to pursue unremittingly your God‑given task.
 
 Announce to the friends that signature on contracts for arcade of the Báb’s Sepulchre is synchronising with first contract for interior ornamentation of the Mother Temple of the West.
 
-## My Appeal to This God‑Chosen Community
+## 18 May 1948
 years=[1948.0518,1948.0518]
-
-May 18, 1948
+summary="My Appeal to This God‑Chosen Community"
 
 The response of the American Bahá’í Community to the urgent call to arise and remedy a critical situation has been such as to excite my highest admiration and exceed the hopes of all those who had waited with anxious hearts for this dangerous corner to be turned at such an important stage in the prosecution of the Second Seven Year Plan.
 
@@ -396,38 +378,33 @@ The initiation in these days of extreme peril in the Holy Land of so great and h
 
 As the mission entrusted by ‘Abdu’l‑Bahá to the followers of His Faith in the North American continent gathers momentum, unfolds its potentialities, and raises to new heights of heroism and renown its valiant prosecutors, events of still greater significance will, no doubt, transpire, which will serve to enhance the value of the work which the prosecutors of the Plan are carrying out, to widen their vision, to reinforce their exertions, to sustain their spirit, to ennoble their heritage, to noise abroad their fame, to facilitate their assumption of the unique functions distinguishing their stewardship to the Faith, and to hasten the advent of the day, which shall witness, in the Golden Age that is still unborn, their “elevation to the throne of an everlasting dominion,” the day whereon “the whole earth” will “resound with the praises” of their “majesty and greatness.”
 
-## Urge Special Attention to Goals
+## 23 June 1948
 years=[1948.0623,1948.0623]
-
-June 23, 1948
+summary="Urge Special Attention to Goals"
 
 Welcome decisions made at recent Assembly meeting. Supplicating blessings for forthcoming conference with committees. Elated by magnificent success achieved at European Conference, development of affiliation with United Nations . . . Urge you devote special attention in current year to ensure rapid progress of Temple construction, maintenance of assembly status and consolidation of newly formed assemblies.
 
-## Praying for Added Fervour
+## 9 August 1948
 years=[1948.0809,1948.0809]
-
-August 9, 1948
+summary="Praying for Added Fervour"
 
 Greatly welcome initiated plans for schools, delighted at progress of Temple work, acceptance of resolutions by UNO Conference, election of Ioas. Urge unrelaxing vigilance in maintenance of status and consolidation of assemblies in North America, to ensure steady expansion of manifold activities in Latin America and Europe. Praying for added fervour, speedy realisation of high objectives of God‑given mission of much‑admired American Bahá’í Community.
 
-## Completed Tasks Release Outpouring of Grace
+## 14 September 1948
 years=[1948.0914,1948.0914]
-
-September 14, 1948
+summary="Completed Tasks Release Outpouring of Grace"
 
 Welcome Assembly’s high resolve to ensure uninterrupted Temple construction. Deeply moved and thankful for continued evidence of the inflexible determination with which the rank and file of the clear‑sighted, high‑minded, divinely sustained American Bahá’í Community, its representatives, national, local and regional, its pioneers at home and overseas, discharge in distant fields, despite the smallness of their numbers and their limited resources, tasks of such vast dimensions, of so diversified a character, of such great moment, at so significant a stage in the declining fortunes of an imperilled society. I feel convinced that unflinching maintenance of so exalted a standard of stewardship at the threshold of Bahá’u’lláh must release in still greater measure the outpouring of His grace so essential and befitting the consummation of a Divine Plan deriving its authority from the pen of the Centre of His Covenant and propelled by agencies created through the generative influence of His Will and Testament.
 
-## Appeal to Entire Community to Persevere
+## 21 October 1948
 years=[1948.1021,1948.1021]
-
-October 21, 1948
+summary="Appeal to Entire Community to Persevere"
 
 Appreciate Assembly’s message. Praying for success of plans. Urge special effort to expedite work of Temple, reinforce pioneer endeavour in Europe owing to deteriorating international situation. Appeal to entire community wholeheartedly to persevere irrespective of darkened outlook.
 
-## Scale Nobler Heights of Heroism
+## 3 November 1948
 years=[1948.1103,1948.1103]
-
-November 3, 1948
+summary="Scale Nobler Heights of Heroism"
 
 The deepening crisis ominously threatening further to derange the equilibrium of a politically convulsed, economically disrupted, socially subverted, morally decadent and spiritually moribund society is testing the tenacity, taxing the resources and challenging the spirit throughout three continents of the chosen trustees and valiant executors of ‘Abdu’l‑Bahá’s Divine Plan. This present hour, however critical, fraught with uncertainty, cannot and must not retard the unfoldment of the manifold tasks so brilliantly inaugurated, so diligently prosecuted, so dazzling in their prospects.
 
@@ -439,10 +416,9 @@ Precious years are inexorably slipping by. The world outlook is steadily darkeni
 
 The champion builders of Bahá’u’lláh’s rising World Order must scale nobler heights of heroism as humanity plunges into greater depths of despair, degradation, dissension and distress. Let them forge ahead into the future serenely confident that the hour of their mightiest exertions and the supreme opportunity for their greatest exploits must coincide with the apocalyptic upheaval marking the lowest ebb in mankind’s fast‑declining fortunes.
 
-## The Citadel of the Faith of Bahá’u’lláh
+## 8 November 1948
 years=[1948.1108,1948.1108]
-
-November 8, 1948
+summary="The Citadel of the Faith of Bahá’u’lláh"
 
 As the threat of still more violent convulsions assailing a travailing age increases, and the wings of yet another conflict, destined to contribute a distinct, and perhaps a decisive, share to the birth of the new Order which must signalise the advent of the Lesser Peace, darken the international horizon, the eyes of the divers communities, comprising the body of the organised followers of Bahá’u’lláh throughout the Eastern Hemisphere, are being increasingly fixed upon the progressive unfoldment of the tasks which the executors of ‘Abdu’l‑Bahá’s Mandate have been summoned to undertake in the course of the second stage of their world‑girdling mission. Past experience, ranging over a period of many years, has taught them that no matter how formidable the external obstacles that have confronted them during the turbulent and eventful decades since the Master’s passing, and despite the strain and stress which internal crises, precipitated by enemies from within and by adverse economic circumstances afflicting their country, have imposed, the stalwart occupants of the citadel of the Faith of Bahá’u’lláh have with extraordinary steadfastness, enviable fidelity and magnificent courage, not only shielded the interests, preserved the integrity and demonstrated the worthiness, of the Cause they have embraced, but have sallied forth, with dynamic and irrepressible energy, to implant its banner and establish its outposts in countries and continents far beyond the original scene of their operations.
 
@@ -466,68 +442,59 @@ There can be no doubt whatever that with every turn of the wheel, as a result of
 
 May He Who called them into being and raised them up, Who fostered them in their infancy, Who extended to them the blessing of His personal support in their years of childhood, Who bequeathed to them the distinguishing heritage of His Plan, Whose Will and Testament initiated them, during the period of their adolescence, in the processes of a divinely appointed Administrative Order, Who enabled them to attain maturity through the inauguration of the first stage in the execution of His Plan, Who conferred upon them the privilege of spiritual parenthood at the close of the initial phase in the operation of that same Plan, continue through the further unfoldment of the second stage in its evolution to guide their steps along the path leading to the assumption of functions proclaiming the attainment of full spiritual manhood, and enable them eventually, through the long and slow processes of evolution and in conformity with the future requirements of a continually evolving Plan, to manifest before the eyes of the members of their sister communities, their countrymen and the whole world, and in all their plenitude, the potentialities inherent within them, and which in the fullness of time, must reflect in its perfected form, the glories of the mission constituting their birthright.
 
-## Budget Approved for 1949—1950
+## 25 November 1948
 years=[1948.1125,1948.1125]
-
-November 25, 1948
+summary="Budget Approved for 1949—1950"
 
 Approve committing community to amounts proposed for 1949 and 1950 in your letter of November 11. Urgent to curtail if necessary expenditure on Public Relations, National Programming and Radio during the next two years. Ardently praying for solution of problem, removal of difficulties, attainment of high objectives.
 
-## Preliminary Temple Contracts
+## 10 December 1948
 years=[1948.1210,1948.1210]
-
-December 10, 1948
+summary="Preliminary Temple Contracts"
 
 Welcome preliminary contracts for Temple and determination to ensure completion. Advise drastic reduction in appropriation for activities except budgets for Latin America and European campaign, if maximum sum for Temple is exceeded. Praying for removal of difficulties, continual divine guidance, wise conduct of manifold activities for Faith. Deepest love.
 
-## Arcade for the Shrine of the Báb
+## 13 December 1948
 years=[1948.1213,1948.1213]
-
-December 13, 1948
+summary="Arcade for the Shrine of the Báb"
 
 Convey to believers the joyful news of the safe delivery on Mt. Carmel of a consignment of thirty‑two granite monolith columns, part of the initial shipment of material ordered for construction of the arcade of the Báb’s Sepulchre, designed to envelop and preserve the sacred previous structure reared by ‘Abdu’l‑Bahá. Building operations are soon starting notwithstanding the difficulties of the present situation. I am supplicating the Almighty’s guidance and sustaining grace for successive stages of an enterprise envisaged sixty years ago by Bahá’u’lláh, initiated by the Centre of His Covenant, designed to culminate as contemplated by Him in erection of a superstructure to be crowned by a golden dome marking the consummation at the heart of the Mountain of God of the momentous undertaking born through the generating influence of the Will of the Founder of our beloved Faith, so dear to the heart of His blessed Son, and dedicated to the memory of the Martyr‑Prophet, the immortal Herald of the Bahá’í Dispensation.
 
-## Drastic Budget Reduction
+## 22 December 1948
 years=[1948.1222,1948.1222]
-
-December 22, 1948
+summary="Drastic Budget Reduction"
 
 Further drastic reduction in budget for next two years including temporary suspension of Public Relations, National Programming, radio activities; World Order, Bahá’í World publications permissible if necessary.
 
-## Further Budget Reduction
+## 13 January 1949
 years=[1949.0113,1949.0113]
-
-January 13, 1949
+summary="Further Budget Reduction"
 
 Advise plan two. Urge, however, maintain permanent entrance ways, vestibules and metal doors. Also permanent rubber tile or terrazzo floor. Considering soaring prices, shortness of period, weighty issues involved, approve still more drastic reduction of budget, complete suspension during two years of appropriations for activities unconnected with European project, Latin American work and assembly consolidation in United States.
 
 (“Plan two” refers to a series of possible Temple construction schedules submitted to the Guardian.)
 
-## Curtailment of Some Activities
+## 19 January 1949
 years=[1949.0119,1949.0119]
-
-January 19, 1949
+summary="Curtailment of Some Activities"
 
 Budgets for activities in Europe, Latin America and consolidation work in United States should not be reduced owing to their vital relation to Second Seven Year Plan. All other activities, whether connected with proclamation of Faith, publications, Bahá’í Magazine, Bahá’í World or schools, should either be drastically curtailed or suspended during two years. Holding Annual Convention and maintenance of Bahá’í News essential.
 
-## Divert Contributions to Temple Fund
+## 26 February 1949
 years=[1949.0226,1949.0226]
-
-February 26, 1949
+summary="Divert Contributions to Temple Fund"
 
 Advise that you divert contributions for International Fund to Temple Fund, and suspend World Order Magazine.
 
-## Suspend World Order Magazine
+## 28 February 1949
 years=[1949.0228,1949.0228]
-
-February 28, 1949
+summary="Suspend World Order Magazine"
 
 Advise you to suspend magazine for next two years. Appeal on my behalf to subscribers in East and West to devote their subscription fee to Temple Fund. Owing to present emergency such action would be highly meritorious.
 
-## A Testing Period Recalling Ordeals of the Dawn‑Breakers
+## 16 March 1949
 years=[1949.0316,1949.0316]
-
-March 16, 1949
+summary="A Testing Period Recalling Ordeals of the Dawn‑Breakers"
 
 The first half of the opening decade of the second Bahá’í century is terminating. The great‑minded, stout‑hearted, high‑spirited American Bahá’í Community, laden with the trophies accumulated in the course of its fifty years’ magnificent stewardship of the Faith of Bahá’u’lláh is irresistibly embarking upon a two and a half year period unsurpassed in its fateful consequences by any previous stage traversed in the community’s eventful history.
 
@@ -541,17 +508,15 @@ The anticipated trials will enable its members to plumb greater depths of consec
 
 Might not the strain, the stress, of the strenuous period now being ushered in through inscrutable dispensations of Providence be productive of perspicuous benefits and blessings reminiscent of the incalculable outpourings of divine grace which followed closely in the train of the woeful trials immortalising the initial, the bloodiest, the most dramatic period in the Heroic Age of the Bahá’í Dispensation.
 
-## Arcade of the Báb’s Shrine Begun
+## 21 March 1949
 years=[1949.0321,1949.0321]
-
-March 21, 1949
+summary="Arcade of the Báb’s Shrine Begun"
 
 Convey to friends the joyful historic news of commencement of construction of arcade of the Báb’s Shrine coinciding with fortieth anniversary of the placing of His remains in marble sarcophagus in vault of the same shrine by ‘Abdu’l‑Bahá.
 
-## One Remaining Objective Hangs in the Balance
+## 11 April 1949
 years=[1949.0411,1949.0411]
-
-April 11, 1949
+summary="One Remaining Objective Hangs in the Balance"
 
 The American Bahá’í Community, undefeated as yet in the performance of any task undertaken collectively by its members, in the course of its eventful history, is now entering a period of grave emergency, that will try the mettle of every single one of its members. Severe as the challenge will be, however prolonged the test, no matter how distracting the condition of the world about them, the issues which claim every ounce of their energy and call for their sustained, wholehearted, concentrated attention are so weighty that none can evaluate at present the influence they will exert on the course of the community’s future destiny.
 
@@ -567,38 +532,33 @@ Then and only then will this holy edifice, symbol and harbinger of a world civil
 
 No more befitting consummation for this magnificent enterprise can be envisaged than that this noble edifice, whose cornerstone has been laid by ‘Abdu’l‑Bahá’s own hands, the preliminary measure for whose construction synchronised with the formal interment of the Báb’s remains on Mt. Carmel, within whose walls the first Centenary of the birth of His ministry has been celebrated, whose interior ornamentation has coincided with the construction of the arcade of His Sepulchre, should be vouchsafed the honour of having the Jubilee of its inception coincide with, and celebrated on the occasion of, the Centenary of the birth of Bahá’u’lláh’s prophetic Mission in the Síyáh‑Chál of Ṭihrán.
 
-## Process of Expansion Accelerates [MESSAGE TO 1949 CONVENTION]
+## 25 April 1949
 years=[1949.0425,1949.0425]
-
-April 25, 1949
+summary="Process of Expansion Accelerates [MESSAGE TO 1949 CONVENTION]"
 
 Desire to share with attendants at Forty‑first American Bahá’í Convention feelings of joyous gratitude evoked by the steady acceleration of the dual process of expansion and consolidation of the Bahá’í World Community as well as the perspicuous evidences of divine protection vouchsafed the World Centre of the Faith during the course of the third year of the Second Seven Year Plan. The number of countries included within the pale of the Faith is ninety‑four. Languages into which Bahá’í literature is translated, and assemblies, local and national, incorporated, now total fifty‑six and one hundred five, respectively. Bahá’í literature now being translated into fourteen additional languages. The number of centres in Latin America is one hundred and nine. The fourth objective of the present Plan has been achieved four years ahead of schedule through the formation of a spiritual assembly in each of the ten goal countries on the European continent. Centres established in these countries total thirty‑one, newly enrolled native believers, one hundred fifty‑four. Nearly a million dollar drive to complete the Mother Temple of the West has been auspiciously launched and construction of interior sections of the ornamentation initiated. Number of settlements in Greenland provided with Bahá’í scriptures raised to forty‑eight, including Thule beyond the Arctic Circle and Etah near eightieth latitude. Number of American states, territories and federal districts recognising Bahá’í marriage raised to eighteen. Restoration of the newly acquired German national Ḥaẓíratu’l‑Quds at Frankfurt has been commenced. Formulation of five year plans for German and Egyptian National Assemblies, culminating at the Centenary of the Birth of Bahá’u’lláh’s prophetic Mission, completes the number of national assemblies pledged to achieve within appointed time specified goals in five continents. The European Teaching Conference convened at Geneva inaugurating series of annual gatherings designed to consolidate the tremendously significant transatlantic project. Bahá’í observers accredited by United Nations participated in Conference on Human Rights, Geneva; United Nations General Assembly, Paris. Bahá’í representative attended Luxembourg general conference of world movement for world federation. First all red Indian Assembly consolidated at Macy, Nebraska. Building operations on arcade of Báb’s Sepulchre commenced forty years after official interment of His remains by ‘Abdu’l‑Bahá. Prolonged hostilities ravaging Holy Land providentially terminated. Bahá’í holy places, unlike those belonging to other faiths, miraculously safeguarded. Perils no less grave than those which threatened the World Centre of the Faith under ‘Abdu’l‑Ḥamíd and Jamál Páshá and through Hitler’s intended capture of the Near East, averted. Independent sovereign state within confines of Holy Land established and recognised, marking termination of twenty‑century‑long provincial status. Formal assurance of the protection of Bahá’í holy sites and continuation of Bahá’í pilgrimage given by Prime Minister of newly emerged state. Official invitation extended by its government on the historic occasion of the opening of the state’s first parliament. Official record of Bahá’í marriage endorsed, Bahá’í endowments exempted by responsible authorities of the same state. Best wishes for the future welfare of the Faith of Bahá’u’lláh conveyed in writing by the newly elected head of the state in reply to congratulatory message addressed him upon assumption of his office. Appeal to entire community, through assembled delegates, in thankful recognition of the manifold blessings vouchsafed the Faith and in response to the alert sounded for the present emergency, to arise and demonstrate more conspicuously than ever before, through greater austerity at home and increasing audacity in foreign fields, both in Latin America and Europe, their grim determination at whatever cost, no matter how crucial the test, however long the period, however herculean the labour, to carry forward unremittingly their task to its triumphant conclusion.
 
-## Welcome Initial Victory
+## 29 June 1949
 years=[1949.0629,1949.0629]
-
-June 29, 1949
+summary="Welcome Initial Victory"
 
 Greatly welcome, much impressed by remarkable feat of initial victory collectively achieved by self‑sacrificing efforts of invincible, far‑visioned, forward‑marching American Bahá’í Community. Ultimate victory now in sight bidding fair to bring present emergency period to triumphant conclusion, seal fate of Second Seven Year Plan and open prospect of glorious inauguration at appointed time of third collective Plan designed to terminate initial chapter in story of mysterious unfoldment of Divine Plan. Rejoice particularly at formulation of teaching plans so vitally linked with immediate destiny of Temple enterprise. Owing to relaxation of pressure occasioned by critical situation advise direct special attention to invigorate activities conducted in Latin America and European continent. Need for voluntary, self‑supporting, wholly dedicated pioneers calculated to supplement newly launched undertaking in both fields is still pressing and acquiring greater urgency owing to approaching emergence of Latin American national assemblies and necessity to consolidate swiftly the newly‑formed local assemblies in ten European goal countries. Heart uplifted at contemplation of mighty range of accomplishments embracing so vast a field in both hemispheres. Prayers continually ascending to Abhá throne both in thanksgiving for marvellous bounties already vouchsafed and in supplication for renewal of strength for attainment of future goals.
 
-## Supplicating Blessing for American Activities
+## 20 July 1949
 years=[1949.0720,1949.0720]
-
-July 20, 1949
+summary="Supplicating Blessing for American Activities"
 
 Delighted by progress of Temple work. Highly approve, deeply appreciate suggestion to defray expenses of German representative to Brussels conference. Supplicating Almighty’s blessing for manifold activities pursued, unrelaxing vigilance, unflinching determination, exemplary self‑sacrifice in three continents by divinely sustained American Bahá’í Community.
 
-## Corners of Shrine Arcade Under Construction
+## 7 August 1949
 years=[1949.0807,1949.0807]
-
-August 7, 1949
+summary="Corners of Shrine Arcade Under Construction"
 
 Inform friends of commencement of construction on three corners of arcade of Shrine. Six granite pilasters already erected, twelve columns will be raised shortly. Forwarding photographs for publicity purposes.
 
-## This Hour, Crowded With Destiny
+## 18 August 1949
 years=[1949.0818,1949.0818]
-
-August 18, 1949
+summary="This Hour, Crowded With Destiny"
 
 The efforts exerted, and the results achieved, by the members of the American Bahá’í Community during the opening months of the two‑year emergency period are such as to merit the highest commendation and praise. They will, if the effort be sustained, evoke the admiration of the entire Bahá’í world, which is now watching, with feelings of wonder and expectancy, the outcome of the tremendous labour of this community now confronted with one of the most challenging, arduous and far‑reaching tasks ever undertaken in its history.
 
@@ -620,61 +580,53 @@ How great the opportunity which the present hour, so dark in the fortunes of man
 
 For what this superbly equipped community, this irresistibly advancing army of the chosen warriors of Bahá’u’lláh, battling under His banner, operating in conformity with the explicit Mandate voiced by His beloved Son, has already achieved, over so extensive a field, in such a brief time, at such great sacrifice, for so precious a Cause, and in the course of such turbulent years, I cannot but feel the deepest sense of gratitude the like of which no achievement, single or collective, rendered in any other part of the globe, by any community associated with the Cause of the Most Great Name has evoked. For what it will and must achieve in the future I entertain feelings of warm expectation and serene confidence. For it, I will continue, from the depths of a loving and grateful heart to supplicate blessings immeasurably richer than any it has yet experienced.
 
-## Praying For Increasing Success
+## 6 November 1949
 years=[1949.1106,1949.1106]
-
-November 6, 1949
+summary="Praying For Increasing Success"
 
 Delighted at progress of Temple work; urge uninterrupted reinforcement of Latin American and European enterprises through steady flow of pioneers, continued self‑sacrifice; praying for increasing success of your high endeavours. Deepest loving appreciation.
 
-## Majesty of the Báb’s Shrine Unfolding
+## 13 November 1949
 years=[1949.1113,1949.1113]
-
-November 13, 1949
+summary="Majesty of the Báb’s Shrine Unfolding"
 
 Announce to the friends that six hundred tonnes of stones destined for the arcade of the Báb’s Shrine, received in successive shipments to the Holy Land, have been safely transported to its precincts despite repeated accidents—the sinking of a lighter in the harbour and outbreak of fire in the hold of the ship. An additional two hundred tonnes of material including carved marble mosaic have been ordered through recent contract for erection of parapet designed to crown the columns and arches of the arcade. North and east sides of structure with three corners virtually completed. Construction of cornice and roof, last stage in erection of the arcade, will soon be undertaken. Majesty and beauty of the colonnade enveloping the central holy edifice built by ‘Abdu’l‑Bahá’s hands steadily unfolding, presaging revelation of the full glory of the completed Sepulchre manifesting the plenitude of the splendour of the constructed dome.
 
-## Faithless Brother Hussein
+## 19 December 1949
 years=[1949.1219,1949.1219]
-
-December 19, 1949
+summary="Faithless Brother Hussein"
 
 Faithless brother Hussein, already abased through dishonourable conduct over period of years followed by association with Covenant‑breakers in Holy Land and efforts to undermine Guardian’s position, recently further demeaned himself through marriage under obscure circumstances with lowborn Christian girl in Europe. This disgraceful alliance, following four successive marriages by sisters and cousins with three sons of Covenant‑breaker denounced repeatedly by ‘Abdu’l‑Bahá as His enemy, and daughter of notorious political agitator, brands them with infamy greater than any associated with marriages contracted by old Covenant‑breakers whether belonging to family of Muḥammad‑‘Alí or Badí’u’lláh.
 
-## Maintain Momentum in Triple Field
+## 25 February 1950
 years=[1950.0225,1950.0225]
-
-February 25, 1950
+summary="Maintain Momentum in Triple Field"
 
 Delighted by progress in Latin‑American field, Temple construction and publicity activities. Announce arrival of first shipment of parapet panels. Anticipate early completion of eastern facade of Shrine including mosaic panels. Urge maintenance of momentum in triple field, home, intercontinental enterprises. Praying for bountiful blessings from the Almighty.
 
-## Shrine Parapet Completed
+## 21 March 1950
 years=[1950.0321,1950.0321]
-
-March 21, 1950
+summary="Shrine Parapet Completed"
 
 Announce to the friends the completion, on the eve of Naw‑Rúz, of the erection of parapet crowning the eastern facade of Holy Shrine one year after placing the first threshold stones upon the foundation of the arcade. The beauty and majesty of the finely carved panels surmounting the soaring arches spanning the rosy monolith columns, emblazoned with emerald green and scarlet mosaic symbolising the Báb’s lineage and martyrdom, are strikingly revealed. The original pearl‑like structure raised by the hands of the Centre of the Covenant, enshrining the remains of the Martyr‑Prophet of the Faith, acquiring, through construction of the shell designed for its embellishment and preservation, additional height by one‑third, additional width by one‑fifth, enhancing the massiveness of the edifice embosomed in the Mountain of God, heralding the erection of the lofty gilded dome that will eventually shine forth in solitary splendour from its heart.
 
-## Sacred Task of Present Hour
+## 29 March 1950
 years=[1950.0329,1950.0329]
-
-March 29, 1950
+summary="Sacred Task of Present Hour"
 
 Approved recommendation regarding treatment of walls. Meeting deficit budget must have precedence over purchase of land near Hazírá owing to critical situation in Latin America and vital needs in Europe. Steady flow of pioneers to both continents is the imperative, urgent, sacred task of the present hour.
 
-## Shrine Arcade Nearing Completion
+## 17 June 1950
 years=[1950.0617,1950.0617]
-
-June 17, 1950
+summary="Shrine Arcade Nearing Completion"
 
 Announce to friends that central panel of north facade, adorned with green mosaic with gilded Greatest Name, the fairest gem set in crown of arcade of Shrine, clearly visible from city by day, floodlit by night, is now in position.
 
 Three corner panels bearing symbol of ringstone erected, presaging completion of both parapet and arcade on the occasion of approaching Centenary of martyrdom of the Blessed Báb.
 
-## Centenary of the Martyrdom of the Báb
+## 4 July 1950
 years=[1950.0704,1950.0704]
-
-July 4, 1950
+summary="Centenary of the Martyrdom of the Báb"
 
 Moved to share with assembled representatives of American Bahá’í Community gathered beneath the dome of the Most Holy House of Worship in the Bahá’í world, feelings of profound emotion evoked by this historic occasion of the world‑wide commemoration of the First Centenary of the Martyrdom of the Blessed Báb, Prophet and Herald of the Faith of Bahá’u’lláh, Founder of the Dispensation marking the culmination of the six thousand year old Adamic Cycle, Inaugurator of the five thousand century Bahá’í Cycle.
 
@@ -692,10 +644,9 @@ Already the crushing of this God‑imbued kernel upon the anvil of adversity has
 
 I appeal on this solemn occasion, rendered doubly sacred through the approaching hundredth anniversary of the most devastating holocaust in the annals of the Faith, at this anxious hour in the fortunes of this travailing age, to the entire body of the American believers, the privileged occupants and stout‑hearted defenders of the foremost citadel of the Faith, to rededicate themselves and resolve, no matter how great the perils confronting their sister communities on the European, Asiatic, African and Australian continents, however sombre the situation facing both the cradle of the Faith and its World Centre, however grievous the vicissitudes they themselves may eventually suffer, to hold aloft unflinchingly the torch of the Faith impregnated with the blood of innumerable martyrs and transmit it unimpaired so that it may add lustre to future generations destined to labour after them.
 
-## A Worthy, Five‑Fold Offering
+## 5 July 1950
 years=[1950.0705,1950.0705]
-
-July 5, 1950
+summary="A Worthy, Five‑Fold Offering"
 
 The first half of the two‑year austerity period, inaugurated at so anxious an hour in the fortunes of the Second Seven Year Plan, has been successfully traversed, and deserves to be regarded as a memorable episode in the history of the Faith and the unfoldment of the Plan in the North American continent. An effort, prodigious, nation‑wide, sustained, and reminiscent in its heroism and consecration of the immortal exploits of the dawn‑breakers of the Apostolic Age of the Bahá’í Dispensation, has been exerted by their spiritual descendants, in circumstances which, though totally different in character, are yet no less challenging and for a cause as meritorious—an effort that has indeed outshone the high endeavours that have distinguished for so long the record of service associated with the American Bahá’í Community. All of its members who have participated in this collective undertaking should be heartily congratulated, particularly those who, by their acts of self‑abnegation, have emulated the example of the heroes of our Faith at the early dawn of its history. The entire Bahá’í world is stirred when contemplating the range of such an effort, the depth of consecration reached by those who have participated in it, the results it has achieved, the noble purpose it has served. My heart overflows with gratitude for the repeated evidences of worthiness demonstrated by this generous‑hearted, valiant and dedicated community which has, no matter how onerous the task, how challenging the issue, how distracting the external circumstances with which it has been surrounded, never shirked its duty or hesitated for a moment.
 
@@ -713,24 +664,21 @@ To consolidate the victories won, and reinforce the foundations of the unnumbere
 
 That this community may, in the course of these three coming years, discharge its five‑fold task—now assuming, through the stress of circumstances, still vaster proportions, and investing itself with still greater blessedness and merit, than originally envisaged—with a spirit outshining any hitherto shown in the course of its half‑century stewardship to the Faith of Bahá’u’lláh, is my most fervent wish and the object of my special and ardent prayers at this time when my heart and mind are fixed upon the sufferings and passion of the Báb on the occasion of the Centenary of His Martyrdom.
 
-## Ruhi and Family Show Open Defiance
+## 15 July 1950
 years=[1950.0715,1950.0715]
-
-July 15, 1950
+summary="Ruhi and Family Show Open Defiance"
 
 Inform friends that Ruhi, his mother, with Ruha, his aunt, and their families, not content with years of disobedience and unworthy conduct, are now showing open defiance. Confident that exemplary loyalty of American believers will sustain me in carrying overwhelming burden of cares afflicting me.
 
-## Non‑Bahá’í Gifts
+## 24 July 1950
 years=[1950.0724,1950.0724]
-
-July 24, 1950
+summary="Non‑Bahá’í Gifts"
 
 All gifts by non‑Bahá’ís are to be used for charity only.
 
-## Teaching in Africa
+## 5 August 1950
 years=[1950.0805,1950.0805]
-
-August 5, 1950
+summary="Teaching in Africa"
 
 Feel moved to appeal to gallant, great‑hearted American Bahá’í Community to arise on the eve of launching the far‑reaching, historic campaign by sister Community of the British Isles to lend valued assistance to the meritorious enterprise undertaken primarily for the illumination of the tribes of East and West Africa, envisaged in the Tablets of the Centre of the Covenant revealed in the darkest hour of His ministry.
 
@@ -738,10 +686,9 @@ I appeal particularly to its dearly beloved members belonging to the Negro race 
 
 Though such participation is outside the scope of the Second Seven Year Plan, I feel strongly that the assumption of this added responsibility for this distant vital field at this crucial challenging hour, when world events are moving steadily towards a climax and the Centenary of the birth of Bahá’u’lláh’s Mission is fast approaching, will further ennoble the record of the world‑embracing tasks valiantly undertaken by the American Bahá’í Community and constitute a worthy response to ‘Abdu’l‑Bahá’s insistent call raised on behalf of the race He repeatedly blessed and loved so dearly and for whose illumination He ardently prayed and for whose future He cherished the brightest hopes.
 
-## Comforted by Messages of Devotion
+## 12 September 1950
 years=[1950.0912,1950.0912]
-
-September 12, 1950
+summary="Comforted by Messages of Devotion"
 
 My anguished heart is comforted by the unnumbered messages from communities, assemblies, groups, committees and individual American believers, replete with expressions of loving devotion, pledges of loyalty to ‘Abdu’l‑Bahá’s Covenant, prayers on my behalf and assurances of rededication in service to the precious Faith.
 
@@ -751,54 +698,47 @@ Far from complaining of the added weight of afflictions oppressing me at this ho
 
 Much as I desire to acknowledge separately all messages I regretfully find the task beyond the limits of my overtaxed strength. I ask, dearly beloved friends, to regard this message as addressed to each one personally, bearing to each and every one assurance of my constant awareness of their enfolding love and unfailing support as well as my everlasting gratitude and unalterable affection and immense pride in their unrivalled collective share in the world‑wide furtherance of the Cause so dear, so precious to us all.
 
-## Relieved by Intensified Activity
+## 19 September 1950
 years=[1950.0919,1950.0919]
-
-September 19, 1950
+summary="Relieved by Intensified Activity"
 
 My heart is greatly relieved by the splendid, welcome evidences of the intensified activity on the home front, Europe and Latin America. Supplicating bountiful blessings on the manifold enterprises energetically and devotedly conducted by the exemplary American Bahá’í Community.
 
-## Badí’u’lláh Has Miserably Perished
+## 3 November 1950
 years=[1950.1103,1950.1103]
-
-November 3, 1950
+summary="Badí’u’lláh Has Miserably Perished"
 
 Badí’u’lláh, brother and chief lieutenant of archbreaker of divine Covenant, has miserably perished after sixty years’ ceaseless, fruitless efforts to undermine the divinely‑appointed Order, having witnessed within the last five months the deaths of his nephews Shoa and Musa, notorious standard‑bearers of the rebellion associated with the name of their perfidious father.
 
-## Requirements for Temple Completion
+## 8 November 1950
 years=[1950.1108,1950.1108]
-
-November 8, 1950
+summary="Requirements for Temple Completion"
 
 Temple not regarded as completed until all accessories are provided, including landscape gardening. Public announcement and worship must coincide with termination of plan.
 
-## Summer Schools to Reopen
+## 8 December 1950
 years=[1950.1208,1950.1208]
-
-December 8, 1950
+summary="Summer Schools to Reopen"
 
 (Excerpt)
 
 Owing to paramount need of Shrine and Temple, advise that you postpone publication of magazine until 1953. Summer schools may be reopened.
 
-## Assistance to Epoch‑Making Enterprise in Africa
+## 17 January 1951
 years=[1951.0117,1951.0117]
-
-January 17, 1951
+summary="Assistance to Epoch‑Making Enterprise in Africa"
 
 Assistance to Africa project through financial contribution, participation of pioneers white and coloured, and close consultation and cooperation with British Assembly necessary. Independent campaign not intended. Fervently praying the participation of British, American, Persian, and Egyptian National Assemblies in unique, epoch‑making enterprise in African continent may prove prelude to convocation of first African Teaching Conference leading eventually to initiation of undertakings involving collaboration among all national assemblies of Bahá’í world, thereby paving way to ultimate organic union of these assemblies through formation of International House of Justice destined to launch enterprises embracing whole Bahá’í world. Acclaim simultaneous inauguration of crusade linking administrative machinery of four national assemblies of East and West within four continents and birth of first International Council at World Centre of Faith, twin evidences of resistless unfoldment of embryonic, divinely appointed World Order of Bahá’u’lláh.
 
-## Status of Bahá’ís Regarding Military Duty
+## 17 January 1951
 years=[1951.0117,1951.0117]
-
-January 17, 1951
+summary="Status of Bahá’ís Regarding Military Duty"
 
 No change whatsoever in status of Bahá’ís in relation to active military duty. No compromise of spiritual principles of Faith possible, however tense the situation, however aroused public opinion.
 
-## Spiritual Conquest of the Planet
+## 29 March 1951
 years=[1951.0329,1951.0329]
-
-March 29, 1951
+summary="Spiritual Conquest of the Planet"
 
 The virtual termination of the interior ornamentation of the first Mashriqu’l‑Adhkár of the West; the forthcoming formation of the twin national spiritual assemblies of Latin America, following upon the establishment of a corresponding institution in the Dominion of Canada; the full attainment of the prescribed goals on the European continent in accordance with the provisions of the Second Seven Year Plan and the consolidation already achieved in the North American continent, do not, under any circumstances, imply that the vast responsibilities shouldered by a valiant, an alert and resolute community, have been fully and totally discharged, or that its members can afford, as the plan draws to its conclusion, to sink into complacency or relax for one moment in their high endeavours.
 
@@ -840,24 +780,21 @@ Time is running short. The effort required to discharge the manifold responsibil
 
 May the members of this community prove themselves, as they forge ahead and approach yet another milestone on the broad highway of their mission, worthy of still greater prizes, and fit to launch still mightier enterprises, for the glory of the Name they bear, and in the service of the Faith they profess.
 
-## First American Pioneer to Africa
+## 19 October 1951
 years=[1951.1019,1951.1019]
-
-October 19, 1951
+summary="First American Pioneer to Africa"
 
 Rejoice at departure of first pioneer to Africa; urge acceleration of historic process now set in motion. Time is short, tasks ahead manifold, pressing, momentous. Praying ardently for increasing response and befitting discharge of mighty supplementary task shouldered by valorous community.
 
-## Message to 1951 State Conventions
+## 4 November 1951
 years=[1951.1104,1951.1104]
-
-November 4, 1951
+summary="Message to 1951 State Conventions"
 
 Advise assembled friends to focus attention on vital, pressing, paramount needs of National Fund at this critical juncture. Hour is ripe to recall unnumbered tribulations, sacrifices heroically endured by the dawn‑breakers, culminating in Bahá’u’lláh’s afflictive imprisonment in Síyáh Chál, Centennial of which is now approaching. Urge deepening realisation of sacredness, preeminent importance of twin purposes which individual resolves serve. Appeal for immediate, unanimous, sustained, decisive response, safeguard thereby American Community’s share in tribute to memory of Founder of Faith on occasion of forthcoming Jubilee of Birth of glorious Mission. Praying for befitting answer to heartfelt plea.
 
-## The Last and Irretrievable Chance
+## 23 November 1951
 years=[1951.1123,1951.1123]
-
-November 23, 1951
+summary="The Last and Irretrievable Chance"
 
 The brief interval separating the hard‑pressed, valiantly struggling, resistlessly expanding American Bahá’í Community from the anticipated consummation of the second, fate‑laden collective enterprise launched so auspiciously by its national elected representatives is speedily drawing to a close. The sixteen months that still lie ahead constitute in view of the tasks that still remain to be achieved, and the sacrifices still to be made, a period at once critical and challenging. This memorable period commemorates, if we pause and call to mind the stirring events and bloody episodes linking the Dispensation of the Báb with the dawning Mission of the Founder of our Faith, the centenary of what may be truly regarded as the darkest, the most tragic, the most heroic, period in the annals of a hundred‑year‑old Revelation. This period, moreover, affords the last and irretrievable chance to a ceaselessly striving, repeatedly victorious community of setting the seal of triumph upon a momentous undertaking, on whose fate hinges the launching of yet another glorious Crusade, the consummation of which will mark the successful conclusion of the initial epoch in the unfoldment of ‘Abdu’l‑Bahá’s Divine Plan—an evolution that must continue to blossom and fructify in the course of successive epochs of the Formative Ages of the Faith, and yield its fairest fruit in the Golden Age that is yet to come.
 
@@ -887,17 +824,15 @@ The vision now disclosed to the eyes of this community is indeed enthralling. Th
 
 That this community, so young in years, yet withal so rich in exploits, may, in the months immediately ahead, as well as in the years immediately following this coming Jubilee, maintain, untarnished and unimpaired, its record of service to our beloved Faith, that it may further embellish, through still nobler feats, its annals, is the dearest wish of my heart, and the object of my constant supplications at the Holy Threshold.
 
-## Funds for International Centre
+## 3 May 1952
 years=[1952.0503,1952.0503]
-
-May 3, 1952
+summary="Funds for International Centre"
 
 Deeply touched by reconsecration and readiness to sacrifice. Praying for fulfilment of your hopes. Advise allocate substantial portion of budget to meet continual needs arising at International Centre of Faith.
 
-## Forty‑Fifth Annual Convention: U.S. Tasks in World Crusade
+## 29 April 1953
 years=[1953.0429,1953.0429]
-
-April 29, 1953
+summary="Forty‑Fifth Annual Convention: U.S. Tasks in World Crusade"
 
 My soul is uplifted in joy and thanksgiving at the triumphant conclusion of the Second Seven Year Plan immortalised by the brilliant victories simultaneously won by the vanguard of the hosts of Bahá’u’lláh in Latin America, in Europe and in Africa—victories befittingly crowned through the consummation of a fifty year old enterprise, the completion of the first Mashriqu’l‑Adhkár of the western world. The signal success that has attended the second collective enterprise undertaken in the course of American Bahá’í history climaxes a term of stewardship to the Faith of Bahá’u’lláh, of almost three score years’ duration—a period which has enriched the annals of the concluding epoch of the Heroic, and shed lustre on the first thirty years of the Formative Age of the Bahá’í Dispensation. So fecund a period has been marked by teaching activities unexcelled throughout the western world and has been distinguished by administrative exploits unparalleled in the annals of any Bahá’í national community whether in the East or in the West. I am impelled, on the occasion of the anniversary of the Most Great Festival, coinciding with a triple celebration—the dedication of the Mother Temple of the West, the launching of a World Spiritual Crusade and the commemoration of the Birth of Bahá’u’lláh’s Mission—to pay warmest tribute to the preeminent share which the American Bahá’í Community has had in the course of over half a century in proclaiming His Revelation, in shielding His Cause, in championing His Covenant, in erecting the administrative machinery of His embryonic World Order, in expounding His teachings, in translating and disseminating His Holy Word, in dispatching the messengers of His Glad Tidings, in awakening royalty to His Call, in succouring His oppressed followers, in routing His enemies, in upholding His Law, in asserting the independence of His Faith, in multiplying the financial resources of its nascent institutions and, last but not least, in rearing its greatest House of Worship—the first Mashriqu’l‑Adhkár of the western world.
 
@@ -955,17 +890,15 @@ Twenty‑fourth, the formation of an Asian teaching committee designed to stimul
 
 May this community—the spiritual descendants of the dawn‑breakers of the Heroic Age of the Bahá’í Faith, the chief repository of the immortal Tablets of ‘Abdu’l‑Bahá’s Divine Plan, the foremost executors of the Mandate issued by the Centre of Bahá’u’lláh’s Covenant, the champion‑builders of a divinely conceived Administrative Order, the standard‑bearers of the all‑conquering army of the Lord of Hosts, the torchbearers of a future divinely inspired world civilisation—arise, in the course of the momentous decade separating the Great from the Most Great Jubilee to secure, as befits its rank, the lion’s share in the prosecution of a global crusade designed to diffuse the light of God’s revelation over the surface of the entire planet.
 
-## Intending Pioneers Urged to Scatter
+## 13 May 1953
 years=[1953.0513,1953.0513]
-
-May 13, 1953
+summary="Intending Pioneers Urged to Scatter"
 
 Strongly urge intending pioneers to scatter as widely as possible, settle even territories, islands not specifically assigned to United States. Prompt opening of virgin territories is highly meritorious, extremely urgent, vital prerequisite to ensure triumphant conclusion of opening phase of Global Crusade, prerogative of chief executors of ‘Abdu’l‑Bahá’s Plan. May enrolled pioneers arise and confirm primacy of American Bahá’í Community playing preponderating role in initial stage of spiritual conquest of unopened territories and islands of the planet.
 
-## A Turning Point in American Bahá’í History
+## 18 July 1953
 years=[1953.0718,1953.0718]
-
-July 18, 1953
+summary="A Turning Point in American Bahá’í History"
 
 My soul is thrilled and my heart is filled with gratitude as I contemplate—looking back upon six decades of eventful American Bahá’í history—the chain of magnificent achievements which, from the dawn of the Faith of Bahá’u’lláh in the West until the present day, have signalised the birth, marked the rise and distinguished the unfoldment of the glorious mission of the American Bahá’í Community. Of all Bahá’í communities in both the Eastern and Western Hemispheres, with the sole exception of its venerable sister community in Bahá’u’lláh’s native land, it alone may well claim to have released forces, and set in motion events, which stand unparalleled in the annals of the Faith; while in the course of the last fifty years, comprising the concluding years of the Heroic and the opening epochs of the Formative Age of the Bahá’í Dispensation, it can confidently boast of a record of stewardship which, for its scope, effectiveness and splendour, is unmatched by that of any other community in the entire Bahá’í world.
 
@@ -1025,10 +958,9 @@ Now is the time for the hope voiced by ‘Abdu’l‑Bahá that from their homel
 
 Would to God that this community, boasting already of so superb a record of achievements both at home and overseas, and elevated to such dazzling heights by the hopes cherished and the assurance given by the Centre of Bahá’u’lláh’s Covenant, may prove itself capable of performing deeds of such distinction, in the course of the opening, as well as the succeeding phases of this World Spiritual Crusade, as will outshine the dedicated acts which have already left their indelible mark on the Apostolic Age of the Faith in the West; will excel the enduring, the historic achievements associated, at a later period, with this community’s memorable contribution to the rise and establishment of the world Administrative Order of Bahá’u’lláh; will surpass the magnificent accomplishments which, subsequently, as the result of the operation of the first Seven Year Plan, illuminated the annals of the Faith in both the North American continent and throughout Latin America and will eclipse the even more dramatic exploits which, during the opening years of the second epoch of the Formative Age of the Faith, and in the course of the prosecution of the Second Seven Year Plan, have exerted so lasting an influence on the fortunes of the Faith of Bahá’u’lláh in the Antilles, throughout the republics of Central America, in each of the ten republics of South America, in no less than ten sovereign states in the continent of Europe, and in various dependencies on the eastern and western shores, as well as in the heart of the African continent.
 
-## Safeguarding American Primacy
+## 5 September 1953
 years=[1953.0905,1953.0905]
-
-September 5, 1953
+summary="Safeguarding American Primacy"
 
 Overjoyed by remarkable achievements of American Bahá’í Community, safeguarding primacy, enhancing prestige, setting magnificent example to sister communities East and West. Assure three Assembly members, also Lofoten valiant pioneer of abiding appreciation, fervent loving prayers.
 
@@ -1038,19 +970,17 @@ Circa May 1954
 
 Heartfelt congratulations on acquisition of Temple site; notable achievement of World Crusade.
 
-## Assemblies Must Be Maintained
+## 23 July 1954
 years=[1954.0723,1954.0723]
-
-July 23, 1954
+summary="Assemblies Must Be Maintained"
 
 Information incorrect. Maintenance of all assemblies vital.
 
 (NOTE: Reply to National Spiritual Assembly request for advice concerning a statement which the Guardian was alleged to have made to the effect that all Bahá’ís should scatter. Many felt, therefore, that assembly status need not be maintained.)
 
-## American Bahá’ís in the Time of World Peril
+## 28 July 1954
 years=[1954.0728,1954.0728]
-
-July 28, 1954
+summary="American Bahá’ís in the Time of World Peril"
 
 The American Bahá’í Community, in this, the opening year of the second phase of the World Spiritual Crusade upon which it has embarked, finds itself standing on the threshold of the seventh decade of its existence. It leaves behind it, as it enters the second decade of the second Bahá’í century, sixty years crowded with events and marked by exploits so stirring and momentous that they stand unsurpassed in the annals of any other national Bahá’í community with the sole exception of its venerable sister community in Bahá’u’lláh’s native land.
 
@@ -1120,26 +1050,23 @@ Then, and only then, can the members of this community hasten the advent of the 
 
 That the members of this community, of either sex and of every age, of whatever race or background, however limited in experience, capacity and knowledge, may arise as one man, and seize with both hands the God‑given opportunities now presented to them through the dispensations of an all‑loving, ever‑watchful, ever‑sustaining Providence, and lend thereby a tremendous impetus to the propelling forces mysteriously guiding the operations of this newly launched, unspeakably potent, world‑encompassing Crusade, is one of the dearest wishes which a loving and longing heart holds for them at this great turning point in the fortunes of the Faith of Bahá’u’lláh in the American continent.
 
-## Nine‑Pointed Star for Headstone
+## 22 October 1954
 years=[1954.1022,1954.1022]
-
-October 22, 1954
+summary="Nine‑Pointed Star for Headstone"
 
 Approve star for graves.
 
 (NOTE: The Guardian considered the Greatest Name too sacred for use on tombstones.)
 
-## Send Appeals to President Eisenhower
+## 15 August 1955
 years=[1955.0815,1955.0815]
-
-August 15, 1955
+summary="Send Appeals to President Eisenhower"
 
 Owing to aggravation of the situation, the hacking to pieces of the bodies of seven believers in the vicinity of Yazd, and the likelihood of worse massacre in the approaching months, advise all groups and assemblies in the United States to address telegraphically President Eisenhower, appealing for his intervention for protection from further massacres of our offenceless, law‑abiding coreligionists in Írán and the safeguard of their human rights. Include brief reference to the worst atrocities. National Assembly should address him similar message both in writing and telegraphically. Include list of atrocities in accompanying memorandum . . .
 
-## A Mysterious Dispensation of Providence
+## 20 August 1955
 years=[1955.0820,1955.0820]
-
-August 20, 1955
+summary="A Mysterious Dispensation of Providence"
 
 ### Persecution of the Bahá’ís of Írán
 
@@ -1211,31 +1138,27 @@ Such a consummation will, in its turn, pave the way for the recognition of that 
 
 That the members of the American Bahá’í Community—the outstanding protagonists of the Cause of God; the stout‑hearted defenders of its integrity, its claims and its rights, the champion‑builders of its Administrative Order; the standard‑bearers of its crusading hosts; the torchbearers of its embryonic civilisation; the chief succourers of the down‑trodden, the needy and the fettered among its followers—that the members of such a community, may, whilst discharging, fully and unflinchingly, their specific tasks in accordance with the provisions of the Ten‑Year Plan, seize the present God‑sent opportunity, and hasten, through a proper discharge of this supplementary task, the consummation of such ardent hopes for so signal a victory, is a prayer constantly in my heart, and a wish which I treasure above all others.
 
-## Revitalise Entire Community
+## 5 January 1956
 years=[1956.0105,1956.0105]
-
-January 5, 1956
+summary="Revitalise Entire Community"
 
 Urge intensification of efforts to revitalise entire community and expedite attainment of plans and objectives, particularly as related to purchase of Hazírás and endowments in America and Europe; translation into remaining languages; incorporation of assemblies; multiplication of centres and assemblies on home front; opening of Iceland, Spitzbergen, Anticosti and remaining islands of Pacific and Atlantic. Fervently supplicating for immediate signal victories.
 
-## Greater Consecration to Pressing Tasks
+## 2 February 1956
 years=[1956.0202,1956.0202]
-
-February 2, 1956
+summary="Greater Consecration to Pressing Tasks"
 
 Deplore situation on home front. Praying ardently for rededication of entire community for greater consecration to pressing tasks. Approve all suggestions in recent letter. Urge that you redouble efforts, supplicate for unprecedented blessings.
 
-## Praying for Great Victories on Home Front
+## 22 June 1956
 years=[1956.0622,1956.0622]
-
-June 22, 1956
+summary="Praying for Great Victories on Home Front"
 
 Fervently praying for great victories on the home front. Appeal to entire community to arise, participate and ensure attainment of goals.
 
-## Inestimable Prizes Within Our Reach
+## 19 July 1956
 years=[1956.0719,1956.0719]
-
-July 19, 1956
+summary="Inestimable Prizes Within Our Reach"
 
 As I survey, after the lapse of a little over three years, the vast range of historic and unforgettable achievements with which the stout‑hearted, high‑minded and wholly consecrated followers of the Faith of Bahá’u’lláh have, in the course of the operations of a World Spiritual Crusade, enriched, in every continent of the globe and in so many islands of the seven seas, the annals of the Formative Age of His Dispensation, I cannot but acknowledge, with feelings of pride, of joy, and of gratitude, the preponderating share which the American Bahá’í Community, faithful to its traditions, and in keeping with its high standard of stewardship to the Cause of God, has had in the conduct of this world‑encircling enterprise and the discharge of its manifold, its pressing and sacred responsibilities. With one or two exceptions, greatly to be deplored, this valiant community has, ever since the inception of this Spiritual Crusade, and in every sphere of Bahá’í activities in which its participators have both individually and collectively been assiduously engaged, set an example of whole‑hearted dedication, dogged perseverance, unstinting self‑sacrifice and undeviating loyalty worthy of emulation by its sister, as well as its daughter, communities over the entire face of the globe.
 
@@ -1287,24 +1210,21 @@ The prizes within the reach of this community are truly inestimable. Much will d
 
 To act, and act promptly and decisively, is the need of the present hour and their inescapable duty. That the American Bahá’í Community may, in this one remaining field, where so much is at stake, and where the needs of the Faith are so acute, cover itself with a glory that will outshine the splendour of its past exploits in the far‑flung territories of the globe, is a prayer which I never cease to utter in my continual supplications to Bahá’u’lláh.
 
-## Intensification of Efforts
+## 29 April 1957
 years=[1957.0429,1957.0429]
-
-April 29, 1957
+summary="Intensification of Efforts"
 
 Welcome pledge by delegates. Fervently supplicating Bahá’u’lláh’s sustaining grace. Urge intensification of efforts, rededication and achievement of goals of Plan in order to discharge befittingly the sacred, manifold, inescapable, urgent responsibilities confronting the entire American Bahá’í Community. Appeal for unprecedented increase in pioneers on the home front and all continents of the globe, on which the prosperity, security and destiny of the American believers must ultimately rest.
 
-## Dual, Inescapable, Paramount Responsibilities
+## 7 May 1957
 years=[1957.0507,1957.0507]
-
-May 7, 1957
+summary="Dual, Inescapable, Paramount Responsibilities"
 
 Assembly’s dual, inescapable, paramount responsibilities for current year are to ensure expansion and consolidation of the home front and the rapid multiplication of pioneers abroad to reinforce Latin American, African, European and Pacific campaigns of World Crusade. Fervently supplicating for signal success in fulfilment of dearest hopes.
 
-## Heights Never Before Attained
+## 21 September 1957
 years=[1957.0921,1957.0921]
-
-September 21, 1957
+summary="Heights Never Before Attained"
 
 The American Bahá’í Community has, ever since the launching of the global Spiritual Crusade, in which it has been assigned the lion’s share in view of the primacy conferred upon it by ‘Abdu’l‑Bahá, exerted itself, in numerous and widely scattered areas of the globe, with commendable perseverance, a high sense of undeviating loyalty and exemplary consecration. The inexorable march of events, hastening its members along the path of their destiny, is steadily carrying them to the stage at which the momentous Plan, to which they have dedicated their resources, will have reached its midway point.
 

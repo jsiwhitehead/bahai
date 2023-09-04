@@ -2,7 +2,7 @@
   {
     "path": ["Additional"],
     "item": 1,
-    "title": "10 February 1926, written on Behalf of Shoghi Effendi to an individual believer",
+    "title": "10 February 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.021, 1926.021],
     "epoch": "First Epoch",
@@ -15,7 +15,7 @@
   {
     "path": ["Additional"],
     "item": 2,
-    "title": "5 September 1936, written on Behalf of Shoghi Effendi to an individual believer, published in Bahá’í News 111, p. 1",
+    "title": "5 September 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0905, 1936.0905],
     "epoch": "First Epoch",
@@ -28,7 +28,7 @@
   {
     "path": ["Additional"],
     "item": 3,
-    "title": "25 November 1938, written on Behalf of Shoghi Effendi to an individual believer",
+    "title": "25 November 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.1125, 1938.1125],
     "epoch": "First Epoch",
@@ -44,7 +44,7 @@
   {
     "path": ["Additional"],
     "item": 4,
-    "title": "4 February 1950, written on Behalf of Shoghi Effendi to an individual believer",
+    "title": "4 February 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.0204, 1950.0204],
     "epoch": "Second Epoch",
@@ -57,7 +57,7 @@
   {
     "path": ["Additional"],
     "item": 5,
-    "title": "30 July 1956, written on Behalf of Shoghi Effendi to an individual believer",
+    "title": "30 July 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.073, 1956.073],
     "epoch": "Second Epoch",
@@ -70,7 +70,7 @@
   {
     "path": ["Additional"],
     "item": 6,
-    "title": "From a letter dated 30 October 1924 written by Shoghi Effendi to the Local Spiritual Assembly of Ṭihrán, translated from the Persian",
+    "title": "30 October 1924, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1924.103, 1924.103],
     "epoch": "First Epoch",
@@ -83,7 +83,7 @@
   {
     "path": ["Additional"],
     "item": 7,
-    "title": "From a letter dated 19 October 1947 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
     "epoch": "Second Epoch",
@@ -96,7 +96,7 @@
   {
     "path": ["Additional"],
     "item": 8,
-    "title": "From a letter dated 30 June 1952 written on behalf of Shoghi Effendi to a National Spiritual Assembly",
+    "title": "30 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
     "epoch": "Second Epoch",
@@ -109,7 +109,7 @@
   {
     "path": ["Additional"],
     "item": 9,
-    "title": "From a letter dated 5 September 1938 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "5 September 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0905, 1938.0905],
     "epoch": "First Epoch",
@@ -125,7 +125,7 @@
   {
     "path": ["Additional"],
     "item": 10,
-    "title": "From a letter dated 13 December 1940 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "13 December 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.1213, 1940.1213],
     "epoch": "First Epoch",
@@ -138,7 +138,7 @@
   {
     "path": ["Additional"],
     "item": 11,
-    "title": "From a letter dated 28 September 1941 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "28 September 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.0928, 1941.0928],
     "epoch": "First Epoch",
@@ -154,7 +154,7 @@
   {
     "path": ["Additional"],
     "item": 12,
-    "title": "From a letter dated 30 September 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "30 September 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.093, 1949.093],
     "epoch": "Second Epoch",
@@ -167,7 +167,7 @@
   {
     "path": ["Additional"],
     "item": 13,
-    "title": "From a letter dated 21 May 1954 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "21 May 1954, to an individual",
     "author": "Shoghi Effendi",
     "years": [1954.0521, 1954.0521],
     "epoch": "Second Epoch",
@@ -183,7 +183,7 @@
   {
     "path": ["Additional"],
     "item": 14,
-    "title": "From a letter dated 6 September 1946 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "6 September 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0906, 1946.0906],
     "epoch": "Second Epoch",
@@ -199,7 +199,7 @@
   {
     "path": ["Additional"],
     "item": 15,
-    "title": "From a letter dated 8 December 1923 written by Shoghi Effendi to the Bahá’ís in Bombay—translated from the Persian",
+    "title": "8 December 1923, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1923.1208, 1923.1208],
     "epoch": "First Epoch",
@@ -212,7 +212,7 @@
   {
     "path": ["Additional"],
     "item": 16,
-    "title": "From a letter dated 19 December 1923 from Shoghi Effendi to the Bahá’ís of the East—translated from the Persian",
+    "title": "19 December 1923, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1923.1219, 1923.1219],
     "epoch": "First Epoch",
@@ -225,7 +225,7 @@
   {
     "path": ["Additional"],
     "item": 17,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 18 November 1933 written on his behalf to the National Spiritual Assembly of the United States and Canada",
+    "title": "18 November 1933, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1933.1118, 1933.1118],
     "epoch": "First Epoch",
@@ -238,7 +238,7 @@
   {
     "path": ["Additional"],
     "item": 18,
-    "title": "23 October 1926 to the National Spiritual Assembly of the British Isles, published in “Unfolding Destiny: The Messages from the Guardian of the Bahá’í Faith to the Bahá’í Community of the British Isles”, p. 59",
+    "title": "23 October 1926, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1926.1023, 1926.1023],
     "epoch": "First Epoch",
@@ -251,7 +251,7 @@
   {
     "path": ["Additional"],
     "item": 19,
-    "title": "12 November 1930, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "12 November 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.1112, 1930.1112],
     "epoch": "First Epoch",
@@ -264,7 +264,7 @@
   {
     "path": ["Additional"],
     "item": 20,
-    "title": "16 June 1932, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "16 June 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0616, 1932.0616],
     "epoch": "First Epoch",
@@ -277,7 +277,7 @@
   {
     "path": ["Additional"],
     "item": 21,
-    "title": "30 August 1933, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "30 August 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.083, 1933.083],
     "epoch": "First Epoch",
@@ -290,7 +290,7 @@
   {
     "path": ["Additional"],
     "item": 22,
-    "title": "28 October 1935, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "28 October 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1028, 1935.1028],
     "epoch": "First Epoch",
@@ -306,7 +306,7 @@
   {
     "path": ["Additional"],
     "item": 23,
-    "title": "18 April 1939, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "18 April 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0418, 1939.0418],
     "epoch": "First Epoch",
@@ -319,7 +319,7 @@
   {
     "path": ["Additional"],
     "item": 24,
-    "title": "23 April 1941, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "23 April 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.0423, 1941.0423],
     "epoch": "First Epoch",
@@ -332,7 +332,7 @@
   {
     "path": ["Additional"],
     "item": 25,
-    "title": "20 November 1941, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "20 November 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.112, 1941.112],
     "epoch": "First Epoch",
@@ -348,7 +348,7 @@
   {
     "path": ["Additional"],
     "item": 26,
-    "title": "25 January 1943, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "25 January 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.0125, 1943.0125],
     "epoch": "First Epoch",
@@ -361,7 +361,7 @@
   {
     "path": ["Additional"],
     "item": 27,
-    "title": "14 February 1945, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "14 February 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0214, 1945.0214],
     "epoch": "First Epoch",
@@ -374,7 +374,7 @@
   {
     "path": ["Additional"],
     "item": 28,
-    "title": "1 February 1946, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "1 February 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0201, 1946.0201],
     "epoch": "First Epoch",
@@ -387,7 +387,7 @@
   {
     "path": ["Additional"],
     "item": 29,
-    "title": "19 October 1947, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
     "epoch": "Second Epoch",
@@ -403,7 +403,7 @@
   {
     "path": ["Additional"],
     "item": 30,
-    "title": "30 June 1949 to the National Spiritual Assembly of Germany and Austria, published in “The Light of Divine Guidance: The Messages from the Guardian of the Bahá’í Faith to the Bahá’ís of Germany and Austria” [vol. 1], p. 152",
+    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
     "epoch": "Second Epoch",
@@ -416,7 +416,7 @@
   {
     "path": ["Additional"],
     "item": 31,
-    "title": "19 March 1950, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "19 March 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.0319, 1950.0319],
     "epoch": "Second Epoch",
@@ -429,7 +429,7 @@
   {
     "path": ["Additional"],
     "item": 32,
-    "title": "5 July 1950 to the National Spiritual Assembly of the United States",
+    "title": "5 July 1950, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0705, 1950.0705],
     "epoch": "Second Epoch",
@@ -442,7 +442,7 @@
   {
     "path": ["Additional"],
     "item": 33,
-    "title": "From a letter dated 19 December 1923 written by Shoghi Effendi to the Bahá’ís of the East—translated from the Persian",
+    "title": "19 December 1923, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1923.1219, 1923.1219],
     "epoch": "First Epoch",
@@ -455,7 +455,7 @@
   {
     "path": ["Additional"],
     "item": 34,
-    "title": "From a letter dated 1924 written by Shoghi Effendi to the Bahá’ís of the World throughout the East and the West—translated from the Persian",
+    "title": "1924, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1924, 1924],
     "epoch": "First Epoch",
@@ -468,7 +468,7 @@
   {
     "path": ["Additional"],
     "item": 35,
-    "title": "From a letter dated 30 October 1924 written by Shoghi Effendi to the Local Spiritual Assembly of Ṭihrán—translated from the Persian",
+    "title": "30 October 1924, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1924.103, 1924.103],
     "epoch": "First Epoch",
@@ -481,7 +481,7 @@
   {
     "path": ["Additional"],
     "item": 36,
-    "title": "From a letter dated November 1927 to the Bahá’ís of the East—translated from the Persian",
+    "title": "November 1927, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1927.1101, 1927.1101],
     "epoch": "First Epoch",
@@ -494,7 +494,7 @@
   {
     "path": ["Additional"],
     "item": 37,
-    "title": "From a letter dated 26 April 1928 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "26 April 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0426, 1928.0426],
     "epoch": "First Epoch",
@@ -507,7 +507,7 @@
   {
     "path": ["Additional"],
     "item": 38,
-    "title": "From a letter dated 27 November 1929 written by Shoghi Effendi to the Bahá’ís of the East—translated from the Arabic and Persian",
+    "title": "27 November 1929, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1929.1127, 1929.1127],
     "epoch": "First Epoch",
@@ -526,7 +526,7 @@
   {
     "path": ["Additional"],
     "item": 39,
-    "title": "From a letter dated 12 January 1933 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "12 January 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0112, 1933.0112],
     "epoch": "First Epoch",
@@ -539,7 +539,7 @@
   {
     "path": ["Additional"],
     "item": 40,
-    "title": "From a letter dated 17 June 1933 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "17 June 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0617, 1933.0617],
     "epoch": "First Epoch",
@@ -552,7 +552,7 @@
   {
     "path": ["Additional"],
     "item": 41,
-    "title": "From a letter dated 6 July 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "6 July 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0706, 1935.0706],
     "epoch": "First Epoch",
@@ -565,7 +565,7 @@
   {
     "path": ["Additional"],
     "item": 42,
-    "title": "From a letter dated 25 December 1939 written by Shoghi Effendi to the Bahá’ís of the East—translated from the Persian",
+    "title": "25 December 1939, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1939.1225, 1939.1225],
     "epoch": "First Epoch",
@@ -578,7 +578,7 @@
   {
     "path": ["Additional"],
     "item": 43,
-    "title": "From a letter dated 27 May 1940 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "27 May 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.0527, 1940.0527],
     "epoch": "First Epoch",
@@ -591,7 +591,7 @@
   {
     "path": ["Additional"],
     "item": 44,
-    "title": "From a letter dated 19 December 1943 written on behalf of Shoghi Effendi to two believers",
+    "title": "19 December 1943, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1943.1219, 1943.1219],
     "epoch": "First Epoch",
@@ -604,7 +604,7 @@
   {
     "path": ["Additional"],
     "item": 45,
-    "title": "From a letter dated 19 October 1947 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
     "epoch": "Second Epoch",
@@ -617,7 +617,7 @@
   {
     "path": ["Additional"],
     "item": 46,
-    "title": "From a letter dated 31 March 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "31 March 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0331, 1949.0331],
     "epoch": "Second Epoch",
@@ -630,7 +630,7 @@
   {
     "path": ["Additional"],
     "item": 47,
-    "title": "From a postscript by Shoghi Effendi appended to a letter dated 25 February 1951 written on his behalf to the National Spiritual Assembly of the British Isles",
+    "title": "25 February 1951, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1951.0225, 1951.0225],
     "epoch": "Second Epoch",
@@ -643,7 +643,7 @@
   {
     "path": ["Additional"],
     "item": 48,
-    "title": "From a letter dated 21 March 1954 written by Shoghi Effendi to the Bahá’ís of the East—translated from the Persian",
+    "title": "21 March 1954, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1954.0321, 1954.0321],
     "epoch": "Second Epoch",
@@ -656,7 +656,7 @@
   {
     "path": ["Additional"],
     "item": 49,
-    "title": "From a letter dated 21 March 1954 written by Shoghi Effendi to the Bahá’ís of the East—translated from the Persian",
+    "title": "21 March 1954, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1954.0321, 1954.0321],
     "epoch": "Second Epoch",
@@ -681,7 +681,7 @@
   {
     "path": ["Additional"],
     "item": 51,
-    "title": "30 October 1924 to a Local Spiritual Assembly—translated from the Persian",
+    "title": "30 October 1924, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1924.103, 1924.103],
     "epoch": "First Epoch",
@@ -700,7 +700,7 @@
   {
     "path": ["Additional"],
     "item": 52,
-    "title": "12 October 1924 to an individual believer",
+    "title": "12 October 1924, to an individual",
     "author": "Shoghi Effendi",
     "years": [1924.1012, 1924.1012],
     "epoch": "First Epoch",
@@ -713,7 +713,7 @@
   {
     "path": ["Additional"],
     "item": 53,
-    "title": "January 1929 addressed to the Bahá’ís of the East—translated from the Persian",
+    "title": "January 1929, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1929.0101, 1929.0101],
     "epoch": "First Epoch",
@@ -726,7 +726,7 @@
   {
     "path": ["Additional"],
     "item": 54,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 6 September 1934 written on his behalf to the Youth Council of the Central States Summer School",
+    "title": "6 September 1934, to a youth council",
     "author": "Shoghi Effendi",
     "years": [1934.0906, 1934.0906],
     "epoch": "First Epoch",
@@ -739,7 +739,7 @@
   {
     "path": ["Additional"],
     "item": 55,
-    "title": "6 June 1941 to the Bahá’í youth of Bombay, India, published in “Dawn of a New Day”, pp. 179—80",
+    "title": "6 June 1941, to the Bahá’í youth of a Nation",
     "author": "Shoghi Effendi",
     "years": [1941.0606, 1941.0606],
     "epoch": "First Epoch",
@@ -752,7 +752,7 @@
   {
     "path": ["Additional"],
     "item": 56,
-    "title": "25 December 1941 to the Bahá’ís of Hobart, Tasmania",
+    "title": "25 December 1941, to a Bahá’í community",
     "author": "Shoghi Effendi",
     "years": [1941.1225, 1941.1225],
     "epoch": "First Epoch",
@@ -778,7 +778,7 @@
   {
     "path": ["Additional"],
     "item": 58,
-    "title": "25 August 1944 to the Bahá’ís attending the Louhelen School Youth Session",
+    "title": "25 August 1944, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1944.0825, 1944.0825],
     "epoch": "First Epoch",
@@ -830,7 +830,7 @@
   {
     "path": ["Additional"],
     "item": 62,
-    "title": "20 October 1945 to the National Youth Committee of the United States and Canada",
+    "title": "20 October 1945, to a National Youth Committee",
     "author": "Shoghi Effendi",
     "years": [1945.102, 1945.102],
     "epoch": "First Epoch",
@@ -856,7 +856,7 @@
   {
     "path": ["Additional"],
     "item": 64,
-    "title": "19 September 1946 to the Bahá’í youth attending the Green Acre Summer School",
+    "title": "19 September 1946, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1946.0919, 1946.0919],
     "epoch": "Second Epoch",
@@ -869,7 +869,7 @@
   {
     "path": ["Additional"],
     "item": 65,
-    "title": "5 August 1955 to the National Spiritual Assembly of the British Isles, published in “Unfolding Destiny: The Messages from the Guardian of the Bahá’í Faith to the Bahá’í Community of the British Isles”, p. 350",
+    "title": "5 August 1955, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1955.0805, 1955.0805],
     "epoch": "Second Epoch",
@@ -882,7 +882,7 @@
   {
     "path": ["Additional"],
     "item": 66,
-    "title": "From a letter dated 20 March 1928 to an individual believer",
+    "title": "20 March 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.032, 1928.032],
     "epoch": "First Epoch",
@@ -898,7 +898,7 @@
   {
     "path": ["Additional"],
     "item": 67,
-    "title": "From a letter dated 15 July 1928 to an individual believer",
+    "title": "15 July 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0715, 1928.0715],
     "epoch": "First Epoch",
@@ -911,7 +911,7 @@
   {
     "path": ["Additional"],
     "item": 68,
-    "title": "From a letter dated 19 June 1931 to an individual",
+    "title": "19 June 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.0619, 1931.0619],
     "epoch": "First Epoch",
@@ -924,7 +924,7 @@
   {
     "path": ["Additional"],
     "item": 69,
-    "title": "From a letter dated 27 January 1935 to a National Spiritual Assembly",
+    "title": "27 January 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.0127, 1935.0127],
     "epoch": "First Epoch",
@@ -937,7 +937,7 @@
   {
     "path": ["Additional"],
     "item": 70,
-    "title": "From a letter dated 29 May 1935 to an individual believer",
+    "title": "29 May 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0529, 1935.0529],
     "epoch": "First Epoch",
@@ -950,7 +950,7 @@
   {
     "path": ["Additional"],
     "item": 71,
-    "title": "From a letter dated 14 October 1935 to an individual believer",
+    "title": "14 October 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1014, 1935.1014],
     "epoch": "First Epoch",
@@ -963,7 +963,7 @@
   {
     "path": ["Additional"],
     "item": 72,
-    "title": "From a letter dated 23 July 1937 to an individual believer",
+    "title": "23 July 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0723, 1937.0723],
     "epoch": "First Epoch",
@@ -976,7 +976,7 @@
   {
     "path": ["Additional"],
     "item": 73,
-    "title": "From a letter dated 23 November 1937 to an individual believer",
+    "title": "23 November 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.1123, 1937.1123],
     "epoch": "First Epoch",
@@ -989,7 +989,7 @@
   {
     "path": ["Additional"],
     "item": 74,
-    "title": "From a letter dated 8 May 1939 to an individual believer",
+    "title": "8 May 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0508, 1939.0508],
     "epoch": "First Epoch",
@@ -1002,7 +1002,7 @@
   {
     "path": ["Additional"],
     "item": 75,
-    "title": "From a letter dated 8 September 1947 to an individual believer",
+    "title": "8 September 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0908, 1947.0908],
     "epoch": "Second Epoch",
@@ -1015,7 +1015,7 @@
   {
     "path": ["Additional"],
     "item": 76,
-    "title": "From a letter dated 19 October 1947 to an individual believer",
+    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
     "epoch": "Second Epoch",
@@ -1028,7 +1028,7 @@
   {
     "path": ["Additional"],
     "item": 77,
-    "title": "From a letter dated 5 July 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "5 July 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0705, 1949.0705],
     "epoch": "Second Epoch",
@@ -1044,7 +1044,7 @@
   {
     "path": ["Additional"],
     "item": 78,
-    "title": "From a letter dated 17 February 1950 to an individual believer",
+    "title": "17 February 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.0217, 1950.0217],
     "epoch": "Second Epoch",
@@ -1069,7 +1069,7 @@
   {
     "path": ["Additional"],
     "item": 80,
-    "title": "From a letter dated 29 May 1929 to two believers",
+    "title": "29 May 1929, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1929.0529, 1929.0529],
     "epoch": "First Epoch",
@@ -1085,7 +1085,7 @@
   {
     "path": ["Additional"],
     "item": 81,
-    "title": "From a letter dated 21 July 1938 to an individual believer",
+    "title": "21 July 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0721, 1938.0721],
     "epoch": "First Epoch",
@@ -1098,7 +1098,7 @@
   {
     "path": ["Additional"],
     "item": 82,
-    "title": "From a letter dated 10 November 1939 to an individual believer",
+    "title": "10 November 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.111, 1939.111],
     "epoch": "First Epoch",
@@ -1111,7 +1111,7 @@
   {
     "path": ["Additional"],
     "item": 83,
-    "title": "From a letter dated 16 November 1939 to an individual believer",
+    "title": "16 November 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.1116, 1939.1116],
     "epoch": "First Epoch",
@@ -1124,7 +1124,7 @@
   {
     "path": ["Additional"],
     "item": 84,
-    "title": "From a letter dated 13 November 1940 to an individual believer",
+    "title": "13 November 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.1113, 1940.1113],
     "epoch": "First Epoch",
@@ -1137,7 +1137,7 @@
   {
     "path": ["Additional"],
     "item": 85,
-    "title": "From a letter dated 14 December 1940 to a National Spiritual Assembly",
+    "title": "14 December 1940, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1940.1214, 1940.1214],
     "epoch": "First Epoch",
@@ -1150,7 +1150,7 @@
   {
     "path": ["Additional"],
     "item": 86,
-    "title": "From a letter dated 8 May 1942 to an individual believer",
+    "title": "8 May 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0508, 1942.0508],
     "epoch": "First Epoch",
@@ -1166,7 +1166,7 @@
   {
     "path": ["Additional"],
     "item": 87,
-    "title": "From a letter translated from the Persian dated 18 January 1943 to a National Spiritual Assembly",
+    "title": "18 January 1943, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1943.0118, 1943.0118],
     "epoch": "First Epoch",
@@ -1179,7 +1179,7 @@
   {
     "path": ["Additional"],
     "item": 88,
-    "title": "From a letter dated 25 October 1947 to a National Spiritual Assembly",
+    "title": "25 October 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.1025, 1947.1025],
     "epoch": "Second Epoch",
@@ -1192,7 +1192,7 @@
   {
     "path": ["Additional"],
     "item": 89,
-    "title": "From a letter dated 23 July 1954 to a National Spiritual Assembly",
+    "title": "23 July 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.0723, 1954.0723],
     "epoch": "Second Epoch",
@@ -1205,7 +1205,7 @@
   {
     "path": ["Additional"],
     "item": 90,
-    "title": "From a letter dated 28 October 1955 to an individual believer",
+    "title": "28 October 1955, to an individual",
     "author": "Shoghi Effendi",
     "years": [1955.1028, 1955.1028],
     "epoch": "Second Epoch",
@@ -1230,7 +1230,7 @@
   {
     "path": ["Additional"],
     "item": 92,
-    "title": "From a letter dated 6 November 1932 to an individual believer",
+    "title": "6 November 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.1106, 1932.1106],
     "epoch": "First Epoch",
@@ -1243,7 +1243,7 @@
   {
     "path": ["Additional"],
     "item": 93,
-    "title": "From a letter dated 4 October 1933 to an individual believer",
+    "title": "4 October 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.1004, 1933.1004],
     "epoch": "First Epoch",
@@ -1256,7 +1256,7 @@
   {
     "path": ["Additional"],
     "item": 94,
-    "title": "From a letter dated 6 December 1935 to an individual believer",
+    "title": "6 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1206, 1935.1206],
     "epoch": "First Epoch",
@@ -1269,7 +1269,7 @@
   {
     "path": ["Additional"],
     "item": 95,
-    "title": "From a letter dated 17 March 1937 to a Bahá’í youth group",
+    "title": "17 March 1937, to a group of Bahá’í youth",
     "author": "Shoghi Effendi",
     "years": [1937.0317, 1937.0317],
     "epoch": "First Epoch",
@@ -1282,7 +1282,7 @@
   {
     "path": ["Additional"],
     "item": 96,
-    "title": "From a letter dated 20 February 1940 to an individual believer",
+    "title": "20 February 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.022, 1940.022],
     "epoch": "First Epoch",
@@ -1295,7 +1295,7 @@
   {
     "path": ["Additional"],
     "item": 97,
-    "title": "From a letter dated 9 March 1942 to an individual believer",
+    "title": "9 March 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0309, 1942.0309],
     "epoch": "First Epoch",
@@ -1308,7 +1308,7 @@
   {
     "path": ["Additional"],
     "item": 98,
-    "title": "From a letter dated 4 August 1943 to two believers",
+    "title": "4 August 1943, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1943.0804, 1943.0804],
     "epoch": "First Epoch",
@@ -1321,7 +1321,7 @@
   {
     "path": ["Additional"],
     "item": 99,
-    "title": "From a letter dated 14 October 1943 to an individual believer",
+    "title": "14 October 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.1014, 1943.1014],
     "epoch": "First Epoch",
@@ -1337,7 +1337,7 @@
   {
     "path": ["Additional"],
     "item": 100,
-    "title": "From a letter dated 9 March 1946 to an individual believer",
+    "title": "9 March 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0309, 1946.0309],
     "epoch": "First Epoch",
@@ -1356,7 +1356,7 @@
   {
     "path": ["Additional"],
     "item": 101,
-    "title": "From a letter dated 10 April 1947 to a Bahá’í couple",
+    "title": "10 April 1947, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1947.041, 1947.041],
     "epoch": "Second Epoch",
@@ -1369,7 +1369,7 @@
   {
     "path": ["Additional"],
     "item": 102,
-    "title": "From a letter dated 2 April 1950 to an individual believer",
+    "title": "2 April 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.0402, 1950.0402],
     "epoch": "Second Epoch",
@@ -1382,7 +1382,7 @@
   {
     "path": ["Additional"],
     "item": 103,
-    "title": "From a letter dated 12 July 1952 to an individual believer",
+    "title": "12 July 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.0712, 1952.0712],
     "epoch": "Second Epoch",
@@ -1395,7 +1395,7 @@
   {
     "path": ["Additional"],
     "item": 104,
-    "title": "From a letter dated 23 May 1956 to an individual believer",
+    "title": "23 May 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.0523, 1956.0523],
     "epoch": "Second Epoch",
@@ -1408,7 +1408,7 @@
   {
     "path": ["Additional"],
     "item": 105,
-    "title": "From a letter dated 5 June 1956 to an individual believer",
+    "title": "5 June 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.0605, 1956.0605],
     "epoch": "Second Epoch",
@@ -1421,7 +1421,7 @@
   {
     "path": ["Additional"],
     "item": 106,
-    "title": "From a letter dated 15 August 1957 to an individual believer",
+    "title": "15 August 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0815, 1957.0815],
     "epoch": "Second Epoch",
@@ -1434,7 +1434,7 @@
   {
     "path": ["Additional"],
     "item": 107,
-    "title": "From a letter dated 19 December 1923 to the Bahá’ís of the East—translated from the Persian, in Living the Life: Excerpts from the Writings of Shoghi Effendi, Third Edition, p. 2",
+    "title": "19 December 1923, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1923.1219, 1923.1219],
     "epoch": "First Epoch",
@@ -1450,7 +1450,7 @@
   {
     "path": ["Additional"],
     "item": 108,
-    "title": "From a letter dated 25 April 1945 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, pp. 26—27",
+    "title": "25 April 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0425, 1945.0425],
     "epoch": "First Epoch",
@@ -1463,7 +1463,7 @@
   {
     "path": ["Additional"],
     "item": 109,
-    "title": "From a letter dated 4 October 1950 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, pp. 41—42",
+    "title": "4 October 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.1004, 1950.1004],
     "epoch": "Second Epoch",
@@ -1479,7 +1479,7 @@
   {
     "path": ["Additional"],
     "item": 110,
-    "title": "From a letter dated 3 August 1932 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, p. 9",
+    "title": "3 August 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0803, 1932.0803],
     "epoch": "First Epoch",
@@ -1492,7 +1492,7 @@
   {
     "path": ["Additional"],
     "item": 111,
-    "title": "From a letter dated 26 February 1933 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, p. 10",
+    "title": "26 February 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0226, 1933.0226],
     "epoch": "First Epoch",
@@ -1505,7 +1505,7 @@
   {
     "path": ["Additional"],
     "item": 112,
-    "title": "From a letter dated 12 May 1925 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, pp. 5—7",
+    "title": "12 May 1925, to an individual",
     "author": "Shoghi Effendi",
     "years": [1925.0512, 1925.0512],
     "epoch": "First Epoch",
@@ -1527,7 +1527,7 @@
   {
     "path": ["Additional"],
     "item": 113,
-    "title": "From a letter dated 26 October 1941 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, p. 17",
+    "title": "26 October 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.1026, 1941.1026],
     "epoch": "First Epoch",
@@ -1540,7 +1540,7 @@
   {
     "path": ["Additional"],
     "item": 114,
-    "title": "From a letter dated 13 May 1945 written on behalf of Shoghi Effendi to the National Spiritual Assembly of Australia and New Zealand, in Living the Life, p. 27",
+    "title": "13 May 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.0513, 1945.0513],
     "epoch": "First Epoch",
@@ -1553,7 +1553,7 @@
   {
     "path": ["Additional"],
     "item": 115,
-    "title": "From a letter dated 5 November 1931 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, p. 7",
+    "title": "5 November 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.1105, 1931.1105],
     "epoch": "First Epoch",
@@ -1566,7 +1566,7 @@
   {
     "path": ["Additional"],
     "item": 116,
-    "title": "From a letter dated 23 August 1939 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, pp. 15—16",
+    "title": "23 August 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0823, 1939.0823],
     "epoch": "First Epoch",
@@ -1579,7 +1579,7 @@
   {
     "path": ["Additional"],
     "item": 117,
-    "title": "From a letter dated 18 December 1945 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, pp. 28—29",
+    "title": "18 December 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1218, 1945.1218],
     "epoch": "First Epoch",
@@ -1592,7 +1592,7 @@
   {
     "path": ["Additional"],
     "item": 118,
-    "title": "From a letter dated 30 September 1949 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, p. 39",
+    "title": "30 September 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.093, 1949.093],
     "epoch": "Second Epoch",
@@ -1605,7 +1605,7 @@
   {
     "path": ["Additional"],
     "item": 119,
-    "title": "From a letter dated 25 November 1956 written on his behalf to an individual believer, in Living the Life, p. 49",
+    "title": "25 November 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.1125, 1956.1125],
     "epoch": "Second Epoch",
@@ -1618,7 +1618,7 @@
   {
     "path": ["Additional"],
     "item": 120,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 30 January 1925 written on behalf of Shoghi Effendi to an individual believer, in Living the Life, p. 4",
+    "title": "30 January 1925, to an individual",
     "author": "Shoghi Effendi",
     "years": [1925.013, 1925.013],
     "epoch": "First Epoch",
@@ -1631,7 +1631,7 @@
   {
     "path": ["Additional"],
     "item": 121,
-    "title": "27 November 1954 to the National Spiritual Assembly of the United States, published in “Messages to the Bahá’í World, 1950‑1957”, pp. 74‑75",
+    "title": "27 November 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.1127, 1954.1127],
     "epoch": "Second Epoch",
@@ -1650,7 +1650,7 @@
   {
     "path": ["Additional"],
     "item": 122,
-    "title": "9 December 1931 to the Bahá’ís of Tokyo",
+    "title": "9 December 1931, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1931.1209, 1931.1209],
     "epoch": "First Epoch",
@@ -1663,7 +1663,7 @@
   {
     "path": ["Additional"],
     "item": 123,
-    "title": "28 January 1932 to the National Spiritual Assembly of the United States and Canada",
+    "title": "28 January 1932, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0128, 1932.0128],
     "epoch": "First Epoch",
@@ -1676,7 +1676,7 @@
   {
     "path": ["Additional"],
     "item": 124,
-    "title": "16 February 1932 to the National Spiritual Assembly of the United States and Canada",
+    "title": "16 February 1932, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0216, 1932.0216],
     "epoch": "First Epoch",
@@ -1689,7 +1689,7 @@
   {
     "path": ["Additional"],
     "item": 125,
-    "title": "15 January 1933 to an individual believer",
+    "title": "15 January 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0115, 1933.0115],
     "epoch": "First Epoch",
@@ -1702,7 +1702,7 @@
   {
     "path": ["Additional"],
     "item": 126,
-    "title": "25 September 1933 to an individual believer",
+    "title": "25 September 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0925, 1933.0925],
     "epoch": "First Epoch",
@@ -1715,7 +1715,7 @@
   {
     "path": ["Additional"],
     "item": 127,
-    "title": "6 November 1933 to an individual believer",
+    "title": "6 November 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.1106, 1933.1106],
     "epoch": "First Epoch",
@@ -1728,7 +1728,7 @@
   {
     "path": ["Additional"],
     "item": 128,
-    "title": "17 March 1934 to two believers",
+    "title": "17 March 1934, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1934.0317, 1934.0317],
     "epoch": "First Epoch",
@@ -1741,7 +1741,7 @@
   {
     "path": ["Additional"],
     "item": 129,
-    "title": "15 November 1935 to two believers",
+    "title": "15 November 1935, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1935.1115, 1935.1115],
     "epoch": "First Epoch",
@@ -1754,7 +1754,7 @@
   {
     "path": ["Additional"],
     "item": 130,
-    "title": "26 July 1936 to an individual believer",
+    "title": "26 July 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0726, 1936.0726],
     "epoch": "First Epoch",
@@ -1767,7 +1767,7 @@
   {
     "path": ["Additional"],
     "item": 131,
-    "title": "12 October 1936 to an individual believer",
+    "title": "12 October 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.1012, 1936.1012],
     "epoch": "First Epoch",
@@ -1780,7 +1780,7 @@
   {
     "path": ["Additional"],
     "item": 132,
-    "title": "14 March 1939 to the National Spiritual Assembly of the United States and Canada, and to an individual believer",
+    "title": "14 March 1939, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1939.0314, 1939.0314],
     "epoch": "First Epoch",
@@ -1793,7 +1793,7 @@
   {
     "path": ["Additional"],
     "item": 133,
-    "title": "12 April 1942 to an individual believer",
+    "title": "12 April 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0412, 1942.0412],
     "epoch": "First Epoch",
@@ -1806,7 +1806,7 @@
   {
     "path": ["Additional"],
     "item": 134,
-    "title": "24 March 1945 to two believers",
+    "title": "24 March 1945, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1945.0324, 1945.0324],
     "epoch": "First Epoch",
@@ -1819,7 +1819,7 @@
   {
     "path": ["Additional"],
     "item": 135,
-    "title": "19 November 1945 to an individual believer",
+    "title": "19 November 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1119, 1945.1119],
     "epoch": "First Epoch",
@@ -1832,7 +1832,7 @@
   {
     "path": ["Additional"],
     "item": 136,
-    "title": "20 November 1955 to an individual believer",
+    "title": "20 November 1955, to an individual",
     "author": "Shoghi Effendi",
     "years": [1955.112, 1955.112],
     "epoch": "Second Epoch",
@@ -1848,7 +1848,7 @@
   {
     "path": ["Additional"],
     "item": 137,
-    "title": "15 August 1957 to an individual believer",
+    "title": "15 August 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0815, 1957.0815],
     "epoch": "Second Epoch",
@@ -1861,7 +1861,7 @@
   {
     "path": ["Additional"],
     "item": 138,
-    "title": "From a letter written in 1946 on behalf of Shoghi Effendi to an individual believer",
+    "title": "1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946, 1946],
     "epoch": "First Epoch",
@@ -1874,7 +1874,7 @@
   {
     "path": ["Additional"],
     "item": 139,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 18 December 1945 written on his behalf to the National Spiritual Assembly of the British Isles",
+    "title": "18 December 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.1218, 1945.1218],
     "epoch": "First Epoch",
@@ -1887,7 +1887,7 @@
   {
     "path": ["Additional"],
     "item": 140,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 6 September 1949 written on his behalf to the National Spiritual Assembly of the British Isles",
+    "title": "6 September 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0906, 1949.0906],
     "epoch": "Second Epoch",
@@ -1900,7 +1900,7 @@
   {
     "path": ["Additional"],
     "item": 141,
-    "title": "From a cable dated 8 October 1952 to the Bahá’ís of the West published in “Messages to the Bahá’í World 1950—1957”, p. 44",
+    "title": "8 October 1952, to the Bahá’ís of the West",
     "author": "Shoghi Effendi",
     "years": [1952.1008, 1952.1008],
     "epoch": "Second Epoch",
@@ -1913,7 +1913,7 @@
   {
     "path": ["Additional"],
     "item": 142,
-    "title": "From a letter dated April 1956 to all National Spiritual Assemblies, published in “Messages to the Bahá’í World 1950—1957”, p. 102",
+    "title": "April 1956, to all National Assemblies",
     "author": "Shoghi Effendi",
     "years": [1956.0401, 1956.0401],
     "epoch": "Second Epoch",
@@ -1926,7 +1926,7 @@
   {
     "path": ["Additional"],
     "item": 143,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 27 June 1957 written on his behalf to the National Spiritual of New Zealand",
+    "title": "27 June 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0627, 1957.0627],
     "epoch": "Second Epoch",
@@ -1939,7 +1939,7 @@
   {
     "path": ["Additional"],
     "item": 144,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 2 July 1957 written on his behalf to the National Spiritual Assembly of the Bahá’ís of the Iberian Peninsula",
+    "title": "2 July 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0702, 1957.0702],
     "epoch": "Second Epoch",
@@ -1955,7 +1955,7 @@
   {
     "path": ["Additional"],
     "item": 145,
-    "title": "Dated 31 March 1932 to an individual believer",
+    "title": "31 March 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0331, 1932.0331],
     "epoch": "First Epoch",
@@ -1974,7 +1974,7 @@
   {
     "path": ["Additional"],
     "item": 146,
-    "title": "Dated 18 March 1934 to an individual believer",
+    "title": "18 March 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0318, 1934.0318],
     "epoch": "First Epoch",
@@ -1987,7 +1987,7 @@
   {
     "path": ["Additional"],
     "item": 147,
-    "title": "Dated 22 September 1936 to an individual believer",
+    "title": "22 September 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0922, 1936.0922],
     "epoch": "First Epoch",
@@ -2000,7 +2000,7 @@
   {
     "path": ["Additional"],
     "item": 148,
-    "title": "Dated 3 February 1937 to an individual believer",
+    "title": "3 February 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0203, 1937.0203],
     "epoch": "First Epoch",
@@ -2013,7 +2013,7 @@
   {
     "path": ["Additional"],
     "item": 149,
-    "title": "Dated 30 June 1937 to an individual believer",
+    "title": "30 June 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.063, 1937.063],
     "epoch": "First Epoch",
@@ -2026,7 +2026,7 @@
   {
     "path": ["Additional"],
     "item": 150,
-    "title": "Dated 27 March 1938 to an individual believer",
+    "title": "27 March 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0327, 1938.0327],
     "epoch": "First Epoch",
@@ -2039,7 +2039,7 @@
   {
     "path": ["Additional"],
     "item": 151,
-    "title": "Dated 29 June 1941 to the National Spiritual Assembly of the of the Bahá’ís of India, published in “Dawn of a New Day”, p.89",
+    "title": "29 June 1941, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.0629, 1941.0629],
     "epoch": "First Epoch",
@@ -2052,7 +2052,7 @@
   {
     "path": ["Additional"],
     "item": 152,
-    "title": "Dated 23 November 1941 to the Bahá’ís of Quito, Ecuador",
+    "title": "23 November 1941, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1941.1123, 1941.1123],
     "epoch": "First Epoch",
@@ -2065,7 +2065,7 @@
   {
     "path": ["Additional"],
     "item": 153,
-    "title": "From a letter dated 4 May 1942 written on behalf of Shoghi Effendi to an individual believer, published in Teaching the Bahá’í Faith, no. 104, p. 72",
+    "title": "4 May 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0504, 1942.0504],
     "epoch": "First Epoch",
@@ -2081,7 +2081,7 @@
   {
     "path": ["Additional"],
     "item": 154,
-    "title": "Dated 27 March 1945 to the National Spiritual Assembly of the British Isles",
+    "title": "27 March 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.0327, 1945.0327],
     "epoch": "First Epoch",
@@ -2094,7 +2094,7 @@
   {
     "path": ["Additional"],
     "item": 155,
-    "title": "Dated 9 August 1945 to the National Spiritual Assembly of the British Isles",
+    "title": "9 August 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.0809, 1945.0809],
     "epoch": "First Epoch",
@@ -2107,7 +2107,7 @@
   {
     "path": ["Additional"],
     "item": 156,
-    "title": "Dated 18 February 1947 to an individual believer",
+    "title": "18 February 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0218, 1947.0218],
     "epoch": "Second Epoch",
@@ -2120,7 +2120,7 @@
   {
     "path": ["Additional"],
     "item": 157,
-    "title": "Dated 13 October 1947 to an individual believer",
+    "title": "13 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1013, 1947.1013],
     "epoch": "Second Epoch",
@@ -2133,7 +2133,7 @@
   {
     "path": ["Additional"],
     "item": 158,
-    "title": "Dated 12 October 1949 to an individual believer",
+    "title": "12 October 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.1012, 1949.1012],
     "epoch": "Second Epoch",
@@ -2146,7 +2146,7 @@
   {
     "path": ["Additional"],
     "item": 159,
-    "title": "Dated 6 November 1949 to an individual believer",
+    "title": "6 November 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.1106, 1949.1106],
     "epoch": "Second Epoch",
@@ -2159,7 +2159,7 @@
   {
     "path": ["Additional"],
     "item": 160,
-    "title": "Dated 12 December 1950 to an individual believer",
+    "title": "12 December 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.1212, 1950.1212],
     "epoch": "Second Epoch",
@@ -2172,7 +2172,7 @@
   {
     "path": ["Additional"],
     "item": 161,
-    "title": "Dated 28 March 1953 to an individual believer",
+    "title": "28 March 1953, to an individual",
     "author": "Shoghi Effendi",
     "years": [1953.0328, 1953.0328],
     "epoch": "Second Epoch",
@@ -2185,7 +2185,7 @@
   {
     "path": ["Additional"],
     "item": 162,
-    "title": "Dated 2 February 1956 to an individual believer",
+    "title": "2 February 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.0202, 1956.0202],
     "epoch": "Second Epoch",
@@ -2198,7 +2198,7 @@
   {
     "path": ["Additional"],
     "item": 163,
-    "title": "Dated 11 August 1957 to an individual believer",
+    "title": "11 August 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0811, 1957.0811],
     "epoch": "Second Epoch",
@@ -2211,7 +2211,7 @@
   {
     "path": ["Additional"],
     "item": 164,
-    "title": "9 July 1931 to an individual believer",
+    "title": "9 July 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.0709, 1931.0709],
     "epoch": "First Epoch",
@@ -2224,7 +2224,7 @@
   {
     "path": ["Additional"],
     "item": 165,
-    "title": "14 December 1924 to an individual believer",
+    "title": "14 December 1924, to an individual",
     "author": "Shoghi Effendi",
     "years": [1924.1214, 1924.1214],
     "epoch": "First Epoch",
@@ -2237,7 +2237,7 @@
   {
     "path": ["Additional"],
     "item": 166,
-    "title": "21 October 1943 to an individual believer",
+    "title": "21 October 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.1021, 1943.1021],
     "epoch": "First Epoch",
@@ -2250,7 +2250,7 @@
   {
     "path": ["Additional"],
     "item": 167,
-    "title": "30 January 1926 to the Spiritual Assemblies throughout the East—translated from the Persian",
+    "title": "30 January 1926, to the National Assemblies of the East",
     "author": "Shoghi Effendi",
     "years": [1926.013, 1926.013],
     "epoch": "First Epoch",
@@ -2278,7 +2278,7 @@
   {
     "path": ["Additional"],
     "item": 168,
-    "title": "20 March 1929 to an individual believer",
+    "title": "20 March 1929, to an individual",
     "author": "Shoghi Effendi",
     "years": [1929.032, 1929.032],
     "epoch": "First Epoch",
@@ -2291,7 +2291,7 @@
   {
     "path": ["Additional"],
     "item": 169,
-    "title": "11 March 1929 to an individual believer",
+    "title": "11 March 1929, to an individual",
     "author": "Shoghi Effendi",
     "years": [1929.0311, 1929.0311],
     "epoch": "First Epoch",
@@ -2304,7 +2304,7 @@
   {
     "path": ["Additional"],
     "item": 170,
-    "title": "25 September 1942 to an individual believer",
+    "title": "25 September 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0925, 1942.0925],
     "epoch": "First Epoch",
@@ -2317,7 +2317,7 @@
   {
     "path": ["Additional"],
     "item": 171,
-    "title": "28 November 1926 to an individual believer",
+    "title": "28 November 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.1128, 1926.1128],
     "epoch": "First Epoch",
@@ -2330,7 +2330,7 @@
   {
     "path": ["Additional"],
     "item": 172,
-    "title": "5 May 1934 to an individual believer",
+    "title": "5 May 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0505, 1934.0505],
     "epoch": "First Epoch",
@@ -2343,7 +2343,7 @@
   {
     "path": ["Additional"],
     "item": 173,
-    "title": "12 May 1944 to an individual believer",
+    "title": "12 May 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0512, 1944.0512],
     "epoch": "First Epoch",
@@ -2356,7 +2356,7 @@
   {
     "path": ["Additional"],
     "item": 174,
-    "title": "5 July 1949 to an individual believer",
+    "title": "5 July 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0705, 1949.0705],
     "epoch": "Second Epoch",
@@ -2372,7 +2372,7 @@
   {
     "path": ["Additional"],
     "item": 175,
-    "title": "10 December 1942 to a Bahá’í summer school",
+    "title": "10 December 1942, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1942.121, 1942.121],
     "epoch": "First Epoch",
@@ -2385,7 +2385,7 @@
   {
     "path": ["Additional"],
     "item": 176,
-    "title": "13 March 1944 to an individual believer",
+    "title": "13 March 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
     "epoch": "First Epoch",
@@ -2398,7 +2398,7 @@
   {
     "path": ["Additional"],
     "item": 177,
-    "title": "22 April 1954 to an individual believer",
+    "title": "22 April 1954, to an individual",
     "author": "Shoghi Effendi",
     "years": [1954.0422, 1954.0422],
     "epoch": "Second Epoch",
@@ -2450,7 +2450,7 @@
   {
     "path": ["Additional"],
     "item": 181,
-    "title": "5 January 1930 to an individual believer",
+    "title": "5 January 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0105, 1930.0105],
     "epoch": "First Epoch",
@@ -2463,7 +2463,7 @@
   {
     "path": ["Additional"],
     "item": 182,
-    "title": "15 February 1947 to an individual believer",
+    "title": "15 February 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0215, 1947.0215],
     "epoch": "Second Epoch",
@@ -2479,7 +2479,7 @@
   {
     "path": ["Additional"],
     "item": 183,
-    "title": "30 November 1932 to an individual believer",
+    "title": "30 November 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.113, 1932.113],
     "epoch": "First Epoch",
@@ -2495,7 +2495,7 @@
   {
     "path": ["Additional"],
     "item": 184,
-    "title": "9 November 1931 on behalf of Shoghi Effendi to an individual believer",
+    "title": "9 November 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.1109, 1931.1109],
     "epoch": "First Epoch",
@@ -2508,7 +2508,7 @@
   {
     "path": ["Additional"],
     "item": 185,
-    "title": "4 May 1946 on behalf of Shoghi Effendi to an individual believer",
+    "title": "4 May 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0504, 1946.0504],
     "epoch": "Second Epoch",
@@ -2521,7 +2521,7 @@
   {
     "path": ["Additional"],
     "item": 186,
-    "title": "3 July 1949 on behalf of Shoghi Effendi to an individual believer",
+    "title": "3 July 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0703, 1949.0703],
     "epoch": "Second Epoch",
@@ -2534,7 +2534,7 @@
   {
     "path": ["Additional"],
     "item": 187,
-    "title": "27 August 1951 on behalf of Shoghi Effendi to an individual believer",
+    "title": "27 August 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.0827, 1951.0827],
     "epoch": "Second Epoch",
@@ -2547,7 +2547,7 @@
   {
     "path": ["Additional"],
     "item": 188,
-    "title": "From a letter written circa 1924 on behalf of Shoghi Effendi to an individual believer",
+    "title": "1924, to an individual",
     "author": "Shoghi Effendi",
     "years": [1924, 1924],
     "epoch": "First Epoch",
@@ -2560,7 +2560,7 @@
   {
     "path": ["Additional"],
     "item": 189,
-    "title": "From a letter dated 7 November 1931 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "7 November 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.1107, 1931.1107],
     "epoch": "First Epoch",
@@ -2573,7 +2573,7 @@
   {
     "path": ["Additional"],
     "item": 190,
-    "title": "Shoghi Effendi, from a letter dated September 1926 written to the Bahá’ís of the East—translated from the Persian",
+    "title": "September 1926, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1926.0901, 1926.0901],
     "epoch": "First Epoch",
@@ -2589,7 +2589,7 @@
   {
     "path": ["Additional"],
     "item": 191,
-    "title": "From a letter dated 17 February 1933 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "17 February 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0217, 1933.0217],
     "epoch": "First Epoch",
@@ -2605,7 +2605,7 @@
   {
     "path": ["Additional"],
     "item": 192,
-    "title": "From a letter dated 6 November 1940 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "6 November 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.1106, 1940.1106],
     "epoch": "First Epoch",
@@ -2618,7 +2618,7 @@
   {
     "path": ["Additional"],
     "item": 193,
-    "title": "From a letter dated 26 March 1943 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "26 March 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.0326, 1943.0326],
     "epoch": "First Epoch",
@@ -2631,7 +2631,7 @@
   {
     "path": ["Additional"],
     "item": 194,
-    "title": "From a letter dated 29 March 1945 written on behalf of Shoghi Effendi to a National Spiritual Assembly",
+    "title": "29 March 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.0329, 1945.0329],
     "epoch": "First Epoch",
@@ -2644,7 +2644,7 @@
   {
     "path": ["Additional"],
     "item": 195,
-    "title": "From a letter dated 13 March 1932 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "13 March 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0313, 1932.0313],
     "epoch": "First Epoch",
@@ -2657,7 +2657,7 @@
   {
     "path": ["Additional"],
     "item": 196,
-    "title": "Shoghi Effendi, from a letter dated 15 February 1922 written to a Local Spiritual Assembly—translated from the Persian",
+    "title": "15 February 1922, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1922.0215, 1922.0215],
     "epoch": "First Epoch",
@@ -2670,7 +2670,7 @@
   {
     "path": ["Additional"],
     "item": 197,
-    "title": "From a letter dated 30 May 1937 written on behalf of Shoghi Effendi to two believers",
+    "title": "30 May 1937, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1937.053, 1937.053],
     "epoch": "First Epoch",
@@ -2683,7 +2683,7 @@
   {
     "path": ["Additional"],
     "item": 198,
-    "title": "Shoghi Effendi, from a letter dated 8 June 1925 written to the Spiritual Assemblies of the East—translated from the Persian",
+    "title": "8 June 1925, to the National Assemblies of the East",
     "author": "Shoghi Effendi",
     "years": [1925.0608, 1925.0608],
     "epoch": "First Epoch",
@@ -2705,7 +2705,7 @@
   {
     "path": ["Additional"],
     "item": 199,
-    "title": "From a letter dated 22 May 1928 written on behalf of Shoghi Effendi to an individual believer—translated from the Persian",
+    "title": "22 May 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0522, 1928.0522],
     "epoch": "First Epoch",
@@ -2721,7 +2721,7 @@
   {
     "path": ["Additional"],
     "item": 200,
-    "title": "From a letter dated 9 July 1931 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "9 July 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.0709, 1931.0709],
     "epoch": "First Epoch",
@@ -2734,7 +2734,7 @@
   {
     "path": ["Additional"],
     "item": 201,
-    "title": "From a letter dated 7 June 1939 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "7 June 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0607, 1939.0607],
     "epoch": "First Epoch",
@@ -2750,7 +2750,7 @@
   {
     "path": ["Additional"],
     "item": 202,
-    "title": "From a letter dated 2 March 1932 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "2 March 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0302, 1932.0302],
     "epoch": "First Epoch",
@@ -2763,7 +2763,7 @@
   {
     "path": ["Additional"],
     "item": 203,
-    "title": "From a letter dated 20 December 1931 written on behalf of Shoghi Effendi to a National Spiritual Assembly",
+    "title": "20 December 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.122, 1931.122],
     "epoch": "First Epoch",
@@ -2776,7 +2776,7 @@
   {
     "path": ["Additional"],
     "item": 204,
-    "title": "From a letter dated 22 May 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "22 May 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0522, 1935.0522],
     "epoch": "First Epoch",
@@ -2789,7 +2789,7 @@
   {
     "path": ["Additional"],
     "item": 205,
-    "title": "From a letter dated 26 December 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "26 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1226, 1935.1226],
     "epoch": "First Epoch",
@@ -2814,7 +2814,7 @@
   {
     "path": ["Additional"],
     "item": 206,
-    "title": "From a letter dated 30 June 1937 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "30 June 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.063, 1937.063],
     "epoch": "First Epoch",
@@ -2827,7 +2827,7 @@
   {
     "path": ["Additional"],
     "item": 207,
-    "title": "From a letter dated 10 June 1939 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "10 June 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.061, 1939.061],
     "epoch": "First Epoch",
@@ -2840,7 +2840,7 @@
   {
     "path": ["Additional"],
     "item": 208,
-    "title": "From a letter dated 12 March 1934 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "12 March 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0312, 1934.0312],
     "epoch": "First Epoch",
@@ -2853,7 +2853,7 @@
   {
     "path": ["Additional"],
     "item": 209,
-    "title": "From a letter dated 30 May 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "30 May 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.053, 1935.053],
     "epoch": "First Epoch",
@@ -2866,7 +2866,7 @@
   {
     "path": ["Additional"],
     "item": 210,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 24 November 1924 written on his behalf to an individual believer—translated from the Persian",
+    "title": "24 November 1924, to an individual",
     "author": "Shoghi Effendi",
     "years": [1924.1124, 1924.1124],
     "epoch": "First Epoch",
@@ -2879,7 +2879,7 @@
   {
     "path": ["Additional"],
     "item": 211,
-    "title": "18 December 1925 to a National Spiritual Assembly—translated from the Persian",
+    "title": "18 December 1925, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1925.1218, 1925.1218],
     "epoch": "First Epoch",
@@ -2892,7 +2892,7 @@
   {
     "path": ["Additional"],
     "item": 212,
-    "title": "21 January 1928—translated from the Persian",
+    "title": "21 January 1928",
     "author": "Shoghi Effendi",
     "years": [1928.0121, 1928.0121],
     "epoch": "First Epoch",
@@ -2905,7 +2905,7 @@
   {
     "path": ["Additional"],
     "item": 213,
-    "title": "8 March 1948—translated from the Persian",
+    "title": "8 March 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0308, 1948.0308],
     "epoch": "Second Epoch",
@@ -2992,10 +2992,9 @@
   {
     "path": ["Additional"],
     "item": 219,
-    "title": "Shoghi Effendi, Messages to the Bahá’í World, 1950—1957, p. 41.",
     "author": "Shoghi Effendi",
-    "years": [1950, 1950],
-    "epoch": "Second Epoch",
+    "years": [1921, 1957],
+    "epoch": "First Epoch",
     "paragraphs": [
       {
         "text": "Feel hour propitious to proclaim to the entire Bahá’í world the projected launching . . . the fate‑laden, soul‑stirring, decade‑long, world‑embracing Spiritual Crusade involving . . . the concerted participation of all National Spiritual Assemblies of the Bahá’í world aiming at the immediate extension of Bahá’u’lláh’s spiritual dominion . . . in all remaining Sovereign States, Principal Dependencies comprising Principalities, Sultanates, Emirates, Shaykhdoms, Protectorates, Trust Territories, and Crown Colonies scattered over the surface of the entire planet. The entire body of the avowed supporters of Bahá’u’lláh’s all‑conquering Faith are now summoned to achieve in a single decade feats eclipsing in totality the achievements which in the course of the eleven preceding decades illuminated the annals of Bahá’í pioneering."
@@ -3005,10 +3004,9 @@
   {
     "path": ["Additional"],
     "item": 220,
-    "title": "Shoghi Effendi, Messages to the Bahá’í World, 1950—1957, pp. 38—39.",
     "author": "Shoghi Effendi",
-    "years": [1950, 1950],
-    "epoch": "Second Epoch",
+    "years": [1921, 1957],
+    "epoch": "First Epoch",
     "paragraphs": [
       {
         "text": "No matter how long the period that separates them from ultimate victory; however arduous the task; however formidable the exertions demanded of them; however dark the days which mankind, perplexed and sorely‑tried, must, in its hour of travail, traverse; however severe the tests with which they who are to redeem its fortunes will be confronted. . . . I adjure them, by the precious blood that flowed in such great profusion, by the lives of the unnumbered saints and heroes who were immolated, by the supreme, the glorious sacrifice of the Prophet‑Herald of our Faith, by the tribulations which its Founder, Himself, willingly underwent, so that His Cause might live, His Order might redeem a shattered world and its glory might suffuse the entire planet—I adjure them, as this solemn hour draws nigh, to resolve never to flinch, never to hesitate, never to relax, until each and every objective in the Plans to be proclaimed, at a later date, has been fully consummated."
@@ -3018,10 +3016,9 @@
   {
     "path": ["Additional"],
     "item": 221,
-    "title": "Shoghi Effendi, Messages to the Bahá’í World, 1950—1957, op. cit., p. 74.",
     "author": "Shoghi Effendi",
-    "years": [1950, 1950],
-    "epoch": "Second Epoch",
+    "years": [1921, 1957],
+    "epoch": "First Epoch",
     "paragraphs": [
       {
         "text": "These Edifices will, in the shape of a far‑flung arc, and following a harmonising style of architecture, surround the resting‑places of the Greatest Holy Leaf . . . of her Brother . . . and of their Mother. . . . The ultimate completion of this stupendous undertaking will mark the culmination of the development of a world‑wide divinely‑appointed Administrative Order whose beginnings may be traced as far back as the concluding years of the Heroic Age of the Faith."
@@ -3031,7 +3028,7 @@
   {
     "path": ["Additional"],
     "item": 222,
-    "title": "From a letter dated 10 January 1936 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the United States and Canada",
+    "title": "10 January 1936, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1936.011, 1936.011],
     "epoch": "First Epoch",
@@ -3050,7 +3047,7 @@
   {
     "path": ["Additional"],
     "item": 223,
-    "title": "From a letter dated 10 January 1936 written on behalf of Shoghi Effendi, quoted in Bahá’í Prayers, p. 301",
+    "title": "10 January 1936",
     "author": "Shoghi Effendi",
     "years": [1936.011, 1936.011],
     "epoch": "First Epoch",
@@ -3063,7 +3060,7 @@
   {
     "path": ["Additional"],
     "item": 224,
-    "title": "From a letter dated 31 December 1937 written on behalf of Shoghi Effendi, published in Lights of Guidance, no. 680, p. 204",
+    "title": "31 December 1937",
     "author": "Shoghi Effendi",
     "years": [1937.1231, 1937.1231],
     "epoch": "First Epoch",
@@ -3076,7 +3073,7 @@
   {
     "path": ["Additional"],
     "item": 225,
-    "title": "From a letter dated 28 February 1942 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the British Isles, published in The Unfolding Destiny of the British Bahá’í Community: The Messages from the Guardian of the Bahá’í Faith to the Bahá’ís of the British Isles, p. 150; also published in Principles of Bahá’í Administration, pp. 22—23",
+    "title": "28 February 1942, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0228, 1942.0228],
     "epoch": "First Epoch",
@@ -3089,7 +3086,7 @@
   {
     "path": ["Additional"],
     "item": 226,
-    "title": "From a letter dated 19 July 1956 written on behalf of Shoghi Effendi to a National Spiritual Assembly, cited, in part, in Unlocking the Power of Action, a compilation prepared by the Research Department of the Universal House of Justice, pp. 24—25; also cited, in part, in “Guidelines for Teaching”, a compilation prepared by the Research Department of the Universal House of Justice, published in The Compilation of Compilations, vol. 2, pp. 322—23",
+    "title": "19 July 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.0719, 1956.0719],
     "epoch": "Second Epoch",
@@ -3102,7 +3099,7 @@
   {
     "path": ["Additional"],
     "item": 227,
-    "title": "From a letter dated 30 January 1923 written by Shoghi Effendi to the Central Spiritual Assembly of Írán, in “Extracts on the Spiritual Character of Bahá’í Elections”, compiled under the direction of the Universal House of Justice, published in The Compilation of Compilations, vol. 1, p. 315",
+    "title": "30 January 1923, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1923.013, 1923.013],
     "epoch": "First Epoch",
@@ -3115,7 +3112,7 @@
   {
     "path": ["Additional"],
     "item": 228,
-    "title": "Shoghi Effendi, cited in Bahá’í News, no. 13 (September 1926), p. 1",
+    "title": "September 1926",
     "author": "Shoghi Effendi",
     "years": [1926.0901, 1926.0901],
     "epoch": "First Epoch",
@@ -3128,7 +3125,7 @@
   {
     "path": ["Additional"],
     "item": 229,
-    "title": "From a letter dated 1 September 1933 written on behalf of Shoghi Effendi to an individual believer, published in Youth: Channels for Change, p. 5",
+    "title": "1 September 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0901, 1933.0901],
     "epoch": "First Epoch",
@@ -3141,7 +3138,7 @@
   {
     "path": ["Additional"],
     "item": 230,
-    "title": "From a letter dated 8 August 1957 written on behalf of Shoghi Effendi to a group of Bahá’í youth, published in Youth, p. 3",
+    "title": "8 August 1957, to a group of Bahá’í youth",
     "author": "Shoghi Effendi",
     "years": [1957.0808, 1957.0808],
     "epoch": "Second Epoch",
@@ -3154,7 +3151,7 @@
   {
     "path": ["Additional"],
     "item": 231,
-    "title": "From a letter dated 28 December 1925 written on behalf of Shoghi Effendi to a group of Bahá’í youth, in ibid., p. 36",
+    "title": "28 December 1925, to a group of Bahá’í youth",
     "author": "Shoghi Effendi",
     "years": [1925.1228, 1925.1228],
     "epoch": "First Epoch",
@@ -3167,7 +3164,7 @@
   {
     "path": ["Additional"],
     "item": 232,
-    "title": "From a message dated March 1955 written by Shoghi Effendi, published in Messages to the Bahá’í World, 1950—1957, p. 76",
+    "title": "March 1955",
     "author": "Shoghi Effendi",
     "years": [1955.0301, 1955.0301],
     "epoch": "Second Epoch",
@@ -3180,7 +3177,7 @@
   {
     "path": ["Additional"],
     "item": 233,
-    "title": "From a letter dated 4 May 1953 written by Shoghi Effendi, in ibid., p. 155",
+    "title": "4 May 1953",
     "author": "Shoghi Effendi",
     "years": [1953.0504, 1953.0504],
     "epoch": "Second Epoch",
@@ -3193,7 +3190,7 @@
   {
     "path": ["Additional"],
     "item": 234,
-    "title": "From a letter dated 30 June 1957 written on behalf of Shoghi Effendi to a National Spiritual Assembly, in “The National Spiritual Assembly”, published in The Compilation of Compilations, vol. 2, p. 128",
+    "title": "30 June 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.063, 1957.063],
     "epoch": "Second Epoch",
@@ -3206,7 +3203,7 @@
   {
     "path": ["Additional"],
     "item": 235,
-    "title": "From a letter dated 17 April 1936 written on behalf of Shoghi Effendi to an individual believer, published in Directives from the Guardian, p. 84",
+    "title": "17 April 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0417, 1936.0417],
     "epoch": "First Epoch",
@@ -3219,7 +3216,7 @@
   {
     "path": ["Additional"],
     "item": 236,
-    "title": "From a letter dated 27 March 1933 written on behalf of Shoghi Effendi to a Local Spiritual Assembly, published in Bahá’í News, no. 73, p. 2",
+    "title": "27 March 1933, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1933.0327, 1933.0327],
     "epoch": "First Epoch",
@@ -3232,7 +3229,7 @@
   {
     "path": ["Additional"],
     "item": 237,
-    "title": "From a letter dated 16 February 1932 written on behalf of Shoghi Effendi to an individual believer, published in The Importance of Deepening Our Knowledge and Understanding of the Faith, comp. the Research Department of the Universal House of Justice, p. 32",
+    "title": "16 February 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0216, 1932.0216],
     "epoch": "First Epoch",
@@ -3248,7 +3245,7 @@
   {
     "path": ["Additional"],
     "item": 238,
-    "title": "From a letter dated 8 November 1956 written on behalf of Shoghi Effendi to an individual believer, published in Teaching the Bahá’í Faith: Compilations and a Statement Prepared by the Research Department of the Universal House of Justice, no. 156, pp. 84‑85",
+    "title": "8 November 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.1108, 1956.1108],
     "epoch": "Second Epoch",
@@ -3261,7 +3258,7 @@
   {
     "path": ["Additional"],
     "item": 239,
-    "title": "From a letter dated 1 September 1933 written on behalf of Shoghi Effendi to an individual believer, published in Teaching the Bahá’í Faith, no. 92, p. 69",
+    "title": "1 September 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0901, 1933.0901],
     "epoch": "First Epoch",
@@ -3274,9 +3271,8 @@
   {
     "path": ["Additional"],
     "item": 240,
-    "title": "Shoghi Effendi, Messages to America: Selected Letters and Cablegrams Addressed to the Bahá’ís of North America, 1932‑1946, pp. 5‑6",
     "author": "Shoghi Effendi",
-    "years": [1932, 1932],
+    "years": [1921, 1957],
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3287,7 +3283,7 @@
   {
     "path": ["Additional"],
     "item": 241,
-    "title": "Postscript in the handwriting of Shoghi Effendi appended to an unpublished letter dated 9 May 1933 written on his behalf to an individual believer",
+    "title": "9 May 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0509, 1933.0509],
     "epoch": "First Epoch",
@@ -3300,7 +3296,7 @@
   {
     "path": ["Additional"],
     "item": 242,
-    "title": "Postscript in the handwriting of Shoghi Effendi appended to an unpublished letter dated 17 November 1932 written on his behalf to an individual believer",
+    "title": "17 November 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.1117, 1932.1117],
     "epoch": "First Epoch",
@@ -3313,7 +3309,7 @@
   {
     "path": ["Additional"],
     "item": 243,
-    "title": "From an unpublished letter dated 8 June 1933 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "8 June 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0608, 1933.0608],
     "epoch": "First Epoch",
@@ -3326,7 +3322,7 @@
   {
     "path": ["Additional"],
     "item": 244,
-    "title": "Unpublished provisional translation of a letter dated 19 January 1922 written by Shoghi Effendi to the believers in Írán",
+    "title": "19 January 1922, to the Bahá’ís of Írán",
     "author": "Shoghi Effendi",
     "years": [1922.0119, 1922.0119],
     "epoch": "First Epoch",
@@ -3345,7 +3341,7 @@
   {
     "path": ["Additional"],
     "item": 245,
-    "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, cited by Rúḥíyyih Rabbání, in The Priceless Pearl, p. 64",
+    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
     "epoch": "First Epoch",
@@ -3358,7 +3354,7 @@
   {
     "path": ["Additional"],
     "item": 246,
-    "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
+    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
     "epoch": "First Epoch",
@@ -3371,7 +3367,7 @@
   {
     "path": ["Additional"],
     "item": 247,
-    "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
+    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
     "epoch": "First Epoch",
@@ -3384,7 +3380,7 @@
   {
     "path": ["Additional"],
     "item": 248,
-    "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
+    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
     "epoch": "First Epoch",
@@ -3397,7 +3393,7 @@
   {
     "path": ["Additional"],
     "item": 249,
-    "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
+    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
     "epoch": "First Epoch",
@@ -3410,7 +3406,7 @@
   {
     "path": ["Additional"],
     "item": 250,
-    "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
+    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
     "epoch": "First Epoch",
@@ -3423,7 +3419,7 @@
   {
     "path": ["Additional"],
     "item": 251,
-    "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 65",
+    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
     "epoch": "First Epoch",
@@ -3436,7 +3432,7 @@
   {
     "path": ["Additional"],
     "item": 252,
-    "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
+    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
     "epoch": "First Epoch",
@@ -3449,7 +3445,7 @@
   {
     "path": ["Additional"],
     "item": 253,
-    "title": "From a cablegram dated 16 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
+    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
     "epoch": "First Epoch",
@@ -3462,7 +3458,7 @@
   {
     "path": ["Additional"],
     "item": 254,
-    "title": "From a cablegram dated 18 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 65",
+    "title": "18 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1218, 1922.1218],
     "epoch": "First Epoch",
@@ -3475,7 +3471,7 @@
   {
     "path": ["Additional"],
     "item": 255,
-    "title": "From a cablegram dated 19 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
+    "title": "19 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1219, 1922.1219],
     "epoch": "First Epoch",
@@ -3488,7 +3484,7 @@
   {
     "path": ["Additional"],
     "item": 256,
-    "title": "From a cablegram dated 19 December 1922 sent by Shoghi Effendi, in The Priceless Pearl, p. 64",
+    "title": "19 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1219, 1922.1219],
     "epoch": "First Epoch",
@@ -3501,7 +3497,7 @@
   {
     "path": ["Additional"],
     "item": 257,
-    "title": "From a letter dated 27 February 1923 written by Shoghi Effendi to the Persian believers, quoted in Extracts from the Guardian’s Letters on the Spiritual Character of Bahá’í Elections, p. 1",
+    "title": "27 February 1923, to the Bahá’ís of Írán",
     "author": "Shoghi Effendi",
     "years": [1923.0227, 1923.0227],
     "epoch": "First Epoch",
@@ -3514,7 +3510,7 @@
   {
     "path": ["Additional"],
     "item": 258,
-    "title": "From a letter dated 27 December 1923 written by Shoghi Effendi to the National Spiritual Assembly of India and Burma, published in Messages of Shoghi Effendi to the Indian Subcontinent 1923‑1957, p. 10",
+    "title": "27 December 1923, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1923.1227, 1923.1227],
     "epoch": "First Epoch",
@@ -3527,7 +3523,7 @@
   {
     "path": ["Additional"],
     "item": 259,
-    "title": "From a letter dated 11 August 1933 written by Shoghi Effendi to an individual believer, quoted in Extracts from the Guardian’s Letters on the Spiritual Character of Bahá’í Elections, p. 3",
+    "title": "11 August 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0811, 1933.0811],
     "epoch": "First Epoch",
@@ -3540,7 +3536,7 @@
   {
     "path": ["Additional"],
     "item": 260,
-    "title": "From a letter dated 4 February 1935 written by Shoghi Effendi to an individual believer, published in The Light of Divine Guidance, vol. 1, p. 68",
+    "title": "4 February 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0204, 1935.0204],
     "epoch": "First Epoch",
@@ -3553,7 +3549,7 @@
   {
     "path": ["Additional"],
     "item": 261,
-    "title": "From a letter dated 30 August 1930 written on behalf of Shoghi Effendi to an individual believer, published in Bahá’í News, no. 46, November 1930, p. 9",
+    "title": "30 August 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.083, 1930.083],
     "epoch": "First Epoch",
@@ -3566,7 +3562,7 @@
   {
     "path": ["Additional"],
     "item": 262,
-    "title": "From a letter dated 21 March 1934 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the United States and Canada, published in Bahá’í News, no. 83, May 1934, p. 1",
+    "title": "21 March 1934, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1934.0321, 1934.0321],
     "epoch": "First Epoch",
@@ -3579,7 +3575,7 @@
   {
     "path": ["Additional"],
     "item": 263,
-    "title": "From an unpublished letter dated 19 March 1930 written by Shoghi Effendi to an individual believer",
+    "title": "19 March 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0319, 1930.0319],
     "epoch": "First Epoch",
@@ -3595,7 +3591,7 @@
   {
     "path": ["Additional"],
     "item": 264,
-    "title": "From an unpublished letter dated 19 March 1930 written by Shoghi Effendi to an individual believer",
+    "title": "19 March 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0319, 1930.0319],
     "epoch": "First Epoch",
@@ -3608,9 +3604,8 @@
   {
     "path": ["Additional"],
     "item": 265,
-    "title": "Shoghi Effendi, Letters from the Guardian to Australia and New Zealand 1923‑1957, p. 97",
     "author": "Shoghi Effendi",
-    "years": [1923, 1923],
+    "years": [1921, 1957],
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3621,7 +3616,7 @@
   {
     "path": ["Additional"],
     "item": 266,
-    "title": "From a cablegram dated 12 February 1947 sent by Shoghi Effendi, published in A Compendium of Volumes of The Bahá’í World, pp. 405‑406",
+    "title": "12 February 1947",
     "author": "Shoghi Effendi",
     "years": [1947.0212, 1947.0212],
     "epoch": "Second Epoch",
@@ -3634,7 +3629,7 @@
   {
     "path": ["Additional"],
     "item": 267,
-    "title": "From a letter dated 30 June 1949 written by Shoghi Effendi to the National Spiritual Assembly of Germany, published in The Light of Divine Guidance, vol. 1, p. 156",
+    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
     "epoch": "Second Epoch",
@@ -3647,7 +3642,6 @@
   {
     "path": ["Additional"],
     "item": 268,
-    "title": "Shoghi Effendi, The Unfolding Destiny of the British Bahá’í Community: The Messages from the Guardian of the Bahá’í Faith of the Bahá’ís of the British Isles, p. 233",
     "author": "Shoghi Effendi",
     "years": [1921, 1957],
     "epoch": "First Epoch",
@@ -3660,7 +3654,6 @@
   {
     "path": ["Additional"],
     "item": 269,
-    "title": "Shoghi Effendi, The Unfolding Destiny of the British Bahá’í Community: The Messages from the Guardian of the Bahá’í Faith of the Bahá’ís of the British Isles, p. 233",
     "author": "Shoghi Effendi",
     "years": [1921, 1957],
     "epoch": "First Epoch",
@@ -3673,7 +3666,7 @@
   {
     "path": ["Additional"],
     "item": 270,
-    "title": "From a letter dated 9 April 1949 written by Shoghi Effendi to the National Spiritual Assembly of India and Burma, published in Messages of Shoghi Effendi to the Indian Subcontinent 1923‑1957, p. 300",
+    "title": "9 April 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0409, 1949.0409],
     "epoch": "Second Epoch",
@@ -3686,7 +3679,7 @@
   {
     "path": ["Additional"],
     "item": 271,
-    "title": "From a letter dated 17 February 1943 written by Shoghi Effendi to the National Spiritual Assembly of India and Burma, published in Messages of Shoghi Effendi to the Indian Subcontinent 1923‑1957, p. 178",
+    "title": "17 February 1943, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1943.0217, 1943.0217],
     "epoch": "First Epoch",
@@ -3699,7 +3692,7 @@
   {
     "path": ["Additional"],
     "item": 272,
-    "title": "From an unpublished letter dated 30 January 1948 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "30 January 1948, to an individual",
     "author": "Shoghi Effendi",
     "years": [1948.013, 1948.013],
     "epoch": "Second Epoch",
@@ -3712,7 +3705,7 @@
   {
     "path": ["Additional"],
     "item": 273,
-    "title": "From a cablegram dated 9 January 1951 written by Shoghi Effendi to the Bahá’ís of the world, published in Messages to the Bahá’í World 1950‑1957, p. 7",
+    "title": "9 January 1951, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1951.0109, 1951.0109],
     "epoch": "Second Epoch",
@@ -3725,7 +3718,7 @@
   {
     "path": ["Additional"],
     "item": 274,
-    "title": "From a cablegram dated 20 December 1937 sent by Shoghi Effendi to the Bahá’ís of America, published in Messages to America: Selected Letters and Cablegrams Addressed to the Bahá’ís of North America, 1932—1946, p. 11",
+    "title": "20 December 1937, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1937.122, 1937.122],
     "epoch": "First Epoch",
@@ -3738,7 +3731,7 @@
   {
     "path": ["Additional"],
     "item": 275,
-    "title": "From a cablegram dated 4 May 1953 sent by Shoghi Effendi to the Bahá’ís of the world, in ibid., pp. 152‑53",
+    "title": "4 May 1953, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1953.0504, 1953.0504],
     "epoch": "Second Epoch",
@@ -3751,7 +3744,7 @@
   {
     "path": ["Additional"],
     "item": 276,
-    "title": "From a cablegram dated 28 May 1953 sent by Shoghi Effendi to the Bahá’ís of the world, published in Messages to the Bahá’í World 1950‑1957, p. 49",
+    "title": "28 May 1953, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1953.0528, 1953.0528],
     "epoch": "Second Epoch",
@@ -3764,7 +3757,7 @@
   {
     "path": ["Additional"],
     "item": 277,
-    "title": "From a cablegram dated 7 October 1953 written by Shoghi Effendi to the Fourth International Teaching Conference in New Delhi, in ibid., p. 169",
+    "title": "7 October 1953, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1953.1007, 1953.1007],
     "epoch": "Second Epoch",
@@ -3777,7 +3770,7 @@
   {
     "path": ["Additional"],
     "item": 278,
-    "title": "From a letter dated April 1955 written by Shoghi Effendi to the Bahá’ís of the world, published in Messages to the Bahá’í World 1950‑1957, pp. 84‑85",
+    "title": "April 1955, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1955.0401, 1955.0401],
     "epoch": "Second Epoch",
@@ -3790,7 +3783,7 @@
   {
     "path": ["Additional"],
     "item": 279,
-    "title": "From a cablegram dated 8 October 1952 sent by Shoghi Effendi to the Bahá’ís of the world, in ibid., p. 44",
+    "title": "8 October 1952, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1952.1008, 1952.1008],
     "epoch": "Second Epoch",
@@ -3803,7 +3796,7 @@
   {
     "path": ["Additional"],
     "item": 280,
-    "title": "From a cablegram dated 4 June 1957 sent by Shoghi Effendi to the Bahá’ís of the world, in ibid., pp. 122‑23",
+    "title": "4 June 1957, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1957.0604, 1957.0604],
     "epoch": "Second Epoch",
@@ -3819,7 +3812,7 @@
   {
     "path": ["Additional"],
     "item": 281,
-    "title": "From a cablegram dated October 1957 sent by Shoghi Effendi to the Bahá’ís of the world, in ibid., p. 127",
+    "title": "October 1957, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1957.1001, 1957.1001],
     "epoch": "Second Epoch",
@@ -3832,7 +3825,7 @@
   {
     "path": ["Additional"],
     "item": 282,
-    "title": "Postscript in the handwriting of Shoghi Effendi, appended to a letter dated 11 February 1934 written on his behalf to an individual believer, published in The Light of Divine Guidance, vol. 1, p. 56",
+    "title": "11 February 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0211, 1934.0211],
     "epoch": "First Epoch",
@@ -3845,7 +3838,7 @@
   {
     "path": ["Additional"],
     "item": 283,
-    "title": "Postscript in the handwriting of Shoghi Effendi, appended to a letter dated 19 February 1934 written on his behalf to an individual believer, published in Messages of Shoghi Effendi to the Indian Subcontinent 1923‑1957, p. 110",
+    "title": "19 February 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0219, 1934.0219],
     "epoch": "First Epoch",
@@ -3858,7 +3851,7 @@
   {
     "path": ["Additional"],
     "item": 284,
-    "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 6 September 1934 written on his behalf to an individual believer",
+    "title": "6 September 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0906, 1934.0906],
     "epoch": "First Epoch",
@@ -3871,7 +3864,7 @@
   {
     "path": ["Additional"],
     "item": 285,
-    "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 5 November 1935 written on his behalf to an individual believer",
+    "title": "5 November 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1105, 1935.1105],
     "epoch": "First Epoch",
@@ -3884,7 +3877,7 @@
   {
     "path": ["Additional"],
     "item": 286,
-    "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 5 July 1944 written on his behalf to an individual believer",
+    "title": "5 July 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0705, 1944.0705],
     "epoch": "First Epoch",
@@ -3897,7 +3890,7 @@
   {
     "path": ["Additional"],
     "item": 287,
-    "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 26 April 1940 written on his behalf to an individual believer",
+    "title": "26 April 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.0426, 1940.0426],
     "epoch": "First Epoch",
@@ -3910,7 +3903,7 @@
   {
     "path": ["Additional"],
     "item": 288,
-    "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 30 November 1940 written on his behalf to an individual believer",
+    "title": "30 November 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.113, 1940.113],
     "epoch": "First Epoch",
@@ -3923,7 +3916,7 @@
   {
     "path": ["Additional"],
     "item": 289,
-    "title": "Postscript in the handwriting of Shoghi Effendi, appended to an unpublished letter dated 7 April 1947 written on his behalf to two individual believers",
+    "title": "7 April 1947, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1947.0407, 1947.0407],
     "epoch": "Second Epoch",
@@ -3936,7 +3929,7 @@
   {
     "path": ["Additional"],
     "item": 290,
-    "title": "From a letter dated 22 September 1948 written on behalf of Shoghi Effendi to an individual believer, published in Directives from the Guardian, p. 21; also in Lights of Guidance: A Bahá’í Reference File, compiled by Helen Bassett Hornby, p. 211",
+    "title": "22 September 1948, to an individual",
     "author": "Shoghi Effendi",
     "years": [1948.0922, 1948.0922],
     "epoch": "Second Epoch",
@@ -3949,7 +3942,7 @@
   {
     "path": ["Additional"],
     "item": 291,
-    "title": "From a letter dated April 1936 written on behalf of Shoghi Effendi to the National Teaching Committee of the National Spiritual Assembly of the British Isles, published in The Unfolding Destiny of the British Bahá’í Community: The Messages from the Guardian of the Bahá’í Faith to the Bahá’ís of the British Isles, p. 106",
+    "title": "April 1936, to a National Teaching Committee",
     "author": "Shoghi Effendi",
     "years": [1936.0401, 1936.0401],
     "epoch": "First Epoch",
@@ -3962,7 +3955,7 @@
   {
     "path": ["Additional"],
     "item": 292,
-    "title": "From a postscript signed by Shoghi Effendi, appended to a letter dated 20 November 1951 written on his behalf, published in Letters from the Guardian to Australia and New Zealand, 1923—1957, p. 98",
+    "title": "20 November 1951",
     "author": "Shoghi Effendi",
     "years": [1951.112, 1951.112],
     "epoch": "Second Epoch",
@@ -3975,9 +3968,9 @@
   {
     "path": ["Additional"],
     "item": 293,
-    "title": "From the foreword written by Shoghi Effendi, God Passes By, pp. xxiii—xxiv",
+    "title": "1944",
     "author": "Shoghi Effendi",
-    "years": [1921, 1957],
+    "years": [1944, 1944],
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3988,9 +3981,9 @@
   {
     "path": ["Additional"],
     "item": 294,
-    "title": "From the foreword written by Shoghi Effendi, God Passes By, pp. xxiv—xxvi",
+    "title": "1944",
     "author": "Shoghi Effendi",
-    "years": [1921, 1957],
+    "years": [1944, 1944],
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4001,7 +3994,7 @@
   {
     "path": ["Additional"],
     "item": 295,
-    "title": "24 June 1936 to an individual believer",
+    "title": "24 June 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0624, 1936.0624],
     "epoch": "First Epoch",
@@ -4020,9 +4013,9 @@
   {
     "path": ["Additional"],
     "item": 296,
-    "title": "Message dated June 4, 1957",
+    "title": "4 June 1957",
     "author": "Shoghi Effendi",
-    "years": [1957, 1957],
+    "years": [1957.0604, 1957.0604],
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4033,7 +4026,7 @@
   {
     "path": ["Additional"],
     "item": 297,
-    "title": "From letter written on behalf of the Guardian to the American National Spiritual Assembly, dated 7 July 1947—Bahá’í News, No. 198, page 3",
+    "title": "7 July 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.0707, 1947.0707],
     "epoch": "Second Epoch",
@@ -4046,7 +4039,7 @@
   {
     "path": ["Additional"],
     "item": 298,
-    "title": "From letter written on behalf of the Guardian to the American National Spiritual Assembly, dated 2 October 1935—Bahá’í News, No. 97, page 9",
+    "title": "2 October 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.1002, 1935.1002],
     "epoch": "First Epoch",
@@ -4059,7 +4052,7 @@
   {
     "path": ["Additional"],
     "item": 299,
-    "title": "From letter written on behalf of the Guardian to the American National Spiritual Assembly, dated 25 October 1947",
+    "title": "25 October 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.1025, 1947.1025],
     "epoch": "Second Epoch",
@@ -4072,7 +4065,7 @@
   {
     "path": ["Additional"],
     "item": 300,
-    "title": "To the Convention in Tokyo at Riḍván 1957",
+    "title": "Riḍván 1957, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1957, 1957],
     "epoch": "Second Epoch",
@@ -4098,7 +4091,7 @@
   {
     "path": ["Additional"],
     "item": 302,
-    "title": "From letter dated 14 October 1941 to two believers",
+    "title": "14 October 1941, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1941.1014, 1941.1014],
     "epoch": "First Epoch",
@@ -4111,7 +4104,7 @@
   {
     "path": ["Additional"],
     "item": 303,
-    "title": "From letter dated 30 August 1930 written on behalf of the Guardian to the National Spiritual Assembly of the United States and Canada",
+    "title": "30 August 1930, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1930.083, 1930.083],
     "epoch": "First Epoch",
@@ -4127,7 +4120,6 @@
   {
     "path": ["Additional"],
     "item": 304,
-    "title": "Synopsis and Codification of the Kitáb‑i‑Aqdas",
     "author": "Shoghi Effendi",
     "years": [1921, 1957],
     "epoch": "First Epoch",
@@ -4140,7 +4132,7 @@
   {
     "path": ["Additional"],
     "item": 305,
-    "title": "To a National Spiritual Assembly, 14 December 1940",
+    "title": "14 December 1940, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1940.1214, 1940.1214],
     "epoch": "First Epoch",
@@ -4153,7 +4145,7 @@
   {
     "path": ["Additional"],
     "item": 306,
-    "title": "To an individual believer, 17 September 1952",
+    "title": "17 September 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.0917, 1952.0917],
     "epoch": "Second Epoch",
@@ -4166,9 +4158,9 @@
   {
     "path": ["Additional"],
     "item": 307,
-    "title": "Riḍván Message of April 1957",
+    "title": "Riḍván 1957",
     "author": "Shoghi Effendi",
-    "years": [1957.0401, 1957.0401],
+    "years": [1957, 1957],
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4211,7 +4203,6 @@
   {
     "path": ["Additional"],
     "item": 310,
-    "title": "Recollection of Mrs. Ruth Moffett of guidance that she was told by the beloved Guardian",
     "author": "Shoghi Effendi",
     "years": [1921, 1957],
     "epoch": "First Epoch",
@@ -4251,7 +4242,7 @@
   {
     "path": ["Additional"],
     "item": 312,
-    "title": "To an individual believer on 22 July 1943",
+    "title": "22 July 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.0722, 1943.0722],
     "epoch": "First Epoch",
@@ -4264,7 +4255,7 @@
   {
     "path": ["Additional"],
     "item": 313,
-    "title": "To an individual Bahá’í, 5 April 1956",
+    "title": "5 April 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.0405, 1956.0405],
     "epoch": "Second Epoch",
@@ -4310,7 +4301,7 @@
   {
     "path": ["Additional"],
     "item": 316,
-    "title": "Statement written in 1933",
+    "title": "1933",
     "author": "Shoghi Effendi",
     "years": [1933, 1933],
     "epoch": "First Epoch",
@@ -4323,7 +4314,7 @@
   {
     "path": ["Additional"],
     "item": 317,
-    "title": "From a letter dated 8 December 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "8 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1208, 1935.1208],
     "epoch": "First Epoch",
@@ -4345,7 +4336,7 @@
   {
     "path": ["Additional"],
     "item": 318,
-    "title": "To an individual believer, 17 June 1933",
+    "title": "17 June 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0617, 1933.0617],
     "epoch": "First Epoch",
@@ -4358,7 +4349,7 @@
   {
     "path": ["Additional"],
     "item": 319,
-    "title": "To an individual believer, 19 November 1945",
+    "title": "19 November 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1119, 1945.1119],
     "epoch": "First Epoch",
@@ -4371,7 +4362,7 @@
   {
     "path": ["Additional"],
     "item": 320,
-    "title": "Letter to an individual written on his behalf on 23 January 1944",
+    "title": "23 January 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0123, 1944.0123],
     "epoch": "First Epoch",
@@ -4423,7 +4414,7 @@
   {
     "path": ["Additional"],
     "item": 324,
-    "title": "Letter dated 11 January 1942 written on behalf of the Guardian to an individual believer",
+    "title": "11 January 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0111, 1942.0111],
     "epoch": "First Epoch",
@@ -4436,7 +4427,7 @@
   {
     "path": ["Additional"],
     "item": 325,
-    "title": "Letter dated 19 February 1947 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "19 February 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0219, 1947.0219],
     "epoch": "Second Epoch",
@@ -4449,7 +4440,7 @@
   {
     "path": ["Additional"],
     "item": 326,
-    "title": "Letter to a National Spiritual Assembly, 30 May 1930",
+    "title": "30 May 1930, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1930.053, 1930.053],
     "epoch": "First Epoch",
@@ -4462,7 +4453,7 @@
   {
     "path": ["Additional"],
     "item": 327,
-    "title": "Letter written on his behalf to an individual believer, 28 July 1936",
+    "title": "28 July 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0728, 1936.0728],
     "epoch": "First Epoch",
@@ -4475,7 +4466,7 @@
   {
     "path": ["Additional"],
     "item": 328,
-    "title": "Letter to the believers in ‘Ishqábád on 11 January 1923",
+    "title": "11 January 1923, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1923.0111, 1923.0111],
     "epoch": "First Epoch",
@@ -4488,7 +4479,7 @@
   {
     "path": ["Additional"],
     "item": 329,
-    "title": "Letter to the believers in ‘Ishqábád on 2 January 1930",
+    "title": "2 January 1930, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1930.0102, 1930.0102],
     "epoch": "First Epoch",
@@ -4501,7 +4492,7 @@
   {
     "path": ["Additional"],
     "item": 330,
-    "title": "Letter written by his secretary on 6 July 1944",
+    "title": "6 July 1944",
     "author": "Shoghi Effendi",
     "years": [1944.0706, 1944.0706],
     "epoch": "First Epoch",
@@ -4530,7 +4521,7 @@
   {
     "path": ["Additional"],
     "item": 332,
-    "title": "Letter dated 14 May 1927",
+    "title": "14 May 1927",
     "author": "Shoghi Effendi",
     "years": [1927.0514, 1927.0514],
     "epoch": "First Epoch",
@@ -4543,7 +4534,7 @@
   {
     "path": ["Additional"],
     "item": 333,
-    "title": "Letter dated 15 November 1956 written to an individual",
+    "title": "15 November 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.1115, 1956.1115],
     "epoch": "Second Epoch",
@@ -4610,7 +4601,7 @@
   {
     "path": ["Additional"],
     "item": 338,
-    "title": "Letter to an individual believer, 19 October 1947",
+    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
     "epoch": "Second Epoch",
@@ -4623,7 +4614,7 @@
   {
     "path": ["Additional"],
     "item": 339,
-    "title": "To a National Spiritual Assembly on 24 October 1947",
+    "title": "24 October 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.1024, 1947.1024],
     "epoch": "Second Epoch",
@@ -4636,9 +4627,9 @@
   {
     "path": ["Additional"],
     "item": 340,
-    "title": "Foreword to the Kitáb‑i‑Íqán",
+    "title": "1931",
     "author": "Shoghi Effendi",
-    "years": [1921, 1957],
+    "years": [1931, 1931],
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4649,7 +4640,7 @@
   {
     "path": ["Additional"],
     "item": 341,
-    "title": "To an individual Bahá’í on 30 September 1949",
+    "title": "30 September 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.093, 1949.093],
     "epoch": "Second Epoch",
@@ -4662,7 +4653,6 @@
   {
     "path": ["Additional"],
     "item": 342,
-    "title": "“Concerning Membership in Non‑Bahá’í Religious Organisations”, in The Bahá’í World, volume VI, on page 199",
     "author": "Shoghi Effendi",
     "years": [1921, 1957],
     "epoch": "First Epoch",
@@ -4675,7 +4665,7 @@
   {
     "path": ["Additional"],
     "item": 343,
-    "title": "Letter to an individual believer, 30 November 1930",
+    "title": "30 November 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.113, 1930.113],
     "epoch": "First Epoch",
@@ -4688,7 +4678,7 @@
   {
     "path": ["Additional"],
     "item": 344,
-    "title": "Letter to an individual believer, 19 November 1939",
+    "title": "19 November 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.1119, 1939.1119],
     "epoch": "First Epoch",
@@ -4701,7 +4691,7 @@
   {
     "path": ["Additional"],
     "item": 345,
-    "title": "Letter to an individual believer, 19 April 1941",
+    "title": "19 April 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.0419, 1941.0419],
     "epoch": "First Epoch",
@@ -4714,7 +4704,7 @@
   {
     "path": ["Additional"],
     "item": 346,
-    "title": "To an individual believer, 19 March 1946",
+    "title": "19 March 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0319, 1946.0319],
     "epoch": "First Epoch",
@@ -4743,7 +4733,7 @@
   {
     "path": ["Additional"],
     "item": 348,
-    "title": "Letter of 30 April 1953 to the All‑America Intercontinental Teaching Conference",
+    "title": "30 April 1953, to an Intercontinental Teaching Conference",
     "author": "Shoghi Effendi",
     "years": [1953.043, 1953.043],
     "epoch": "Second Epoch",
@@ -4756,7 +4746,7 @@
   {
     "path": ["Additional"],
     "item": 349,
-    "title": "Letter to the Bahá’ís of Írán, July 1925",
+    "title": "July 1925, to the Bahá’ís of Írán",
     "author": "Shoghi Effendi",
     "years": [1925.0701, 1925.0701],
     "epoch": "First Epoch",
@@ -4781,7 +4771,7 @@
   {
     "path": ["Additional"],
     "item": 351,
-    "title": "Letter dated 18 August 1949",
+    "title": "18 August 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0818, 1949.0818],
     "epoch": "Second Epoch",
@@ -4794,7 +4784,7 @@
   {
     "path": ["Additional"],
     "item": 352,
-    "title": "Letter written on behalf of the Guardian in August 1936",
+    "title": "August 1936",
     "author": "Shoghi Effendi",
     "years": [1936.0801, 1936.0801],
     "epoch": "First Epoch",
@@ -4843,10 +4833,10 @@
   {
     "path": ["Additional"],
     "item": 356,
-    "title": "Letter written to a National Spiritual Assembly",
+    "title": "1957, to a National Assembly",
     "author": "Shoghi Effendi",
-    "years": [1921, 1957],
-    "epoch": "First Epoch",
+    "years": [1957, 1957],
+    "epoch": "Second Epoch",
     "paragraphs": [
       {
         "text": "The Bahá’ís are the leaven of God, which must leaven the lump of their nation. In direct ratio to their success will be the protection vouchsafed, not only to them but to their country. These are the immutable laws of God, from which there is no escape. . . ."
@@ -4856,10 +4846,10 @@
   {
     "path": ["Additional"],
     "item": 357,
-    "title": "Letter of Riḍván 105 B.E. to the friends in the East",
+    "title": "Riḍván 1948, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
-    "years": [1921, 1957],
-    "epoch": "First Epoch",
+    "years": [1948, 1948],
+    "epoch": "Second Epoch",
     "paragraphs": [
       {
         "text": "Its duration is unknown and lies concealed within the treasury of God’s knowledge. Its termination will coincide with the establishment of this most perfect, this most mighty Order throughout the East and the West, the resplendent emergence of organic unity among the component parts of human society, and the consolidation of the foundations of the Lesser Peace among the governments and nations of the world."
@@ -4869,7 +4859,7 @@
   {
     "path": ["Additional"],
     "item": 358,
-    "title": "Letter dated 30 June 1957 written on behalf of Shoghi Effendi to the National Spiritual Assembly of Alaska, published in High Endeavours, pp. 35—36",
+    "title": "30 June 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.063, 1957.063],
     "epoch": "Second Epoch",
@@ -4882,7 +4872,7 @@
   {
     "path": ["Additional"],
     "item": 359,
-    "title": "Letter 18 February 1932, on behalf Shoghi Effendi",
+    "title": "18 February 1932",
     "author": "Shoghi Effendi",
     "years": [1932.0218, 1932.0218],
     "epoch": "First Epoch",
@@ -4895,7 +4885,7 @@
   {
     "path": ["Additional"],
     "item": 360,
-    "title": "Letter 19 March 1954, on behalf Shoghi Effendi",
+    "title": "19 March 1954",
     "author": "Shoghi Effendi",
     "years": [1954.0319, 1954.0319],
     "epoch": "Second Epoch",
@@ -4908,7 +4898,7 @@
   {
     "path": ["Additional"],
     "item": 361,
-    "title": "Letter 25 March 1949, on behalf Shoghi Effendi",
+    "title": "25 March 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0325, 1949.0325],
     "epoch": "Second Epoch",
@@ -4921,7 +4911,7 @@
   {
     "path": ["Additional"],
     "item": 362,
-    "title": "Letter 11 May 1934, on behalf Shoghi Effendi",
+    "title": "11 May 1934",
     "author": "Shoghi Effendi",
     "years": [1934.0511, 1934.0511],
     "epoch": "First Epoch",
@@ -4934,7 +4924,7 @@
   {
     "path": ["Additional"],
     "item": 363,
-    "title": "Letter 20 December 1932, on behalf Shoghi Effendi",
+    "title": "20 December 1932",
     "author": "Shoghi Effendi",
     "years": [1932.122, 1932.122],
     "epoch": "First Epoch",
@@ -4947,7 +4937,7 @@
   {
     "path": ["Additional"],
     "item": 364,
-    "title": "Letter 2 August 1942, on behalf Shoghi Effendi",
+    "title": "2 August 1942",
     "author": "Shoghi Effendi",
     "years": [1942.0802, 1942.0802],
     "epoch": "First Epoch",
@@ -4960,7 +4950,7 @@
   {
     "path": ["Additional"],
     "item": 365,
-    "title": "Letter 13 March 1944, on behalf Shoghi Effendi",
+    "title": "13 March 1944",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
     "epoch": "First Epoch",
@@ -4973,7 +4963,7 @@
   {
     "path": ["Additional"],
     "item": 366,
-    "title": "Letter 17 February 1945, on behalf Shoghi Effendi",
+    "title": "17 February 1945",
     "author": "Shoghi Effendi",
     "years": [1945.0217, 1945.0217],
     "epoch": "First Epoch",
@@ -4986,7 +4976,7 @@
   {
     "path": ["Additional"],
     "item": 367,
-    "title": "Letter 3 July 1948, on behalf Shoghi Effendi",
+    "title": "3 July 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0703, 1948.0703],
     "epoch": "Second Epoch",
@@ -4999,7 +4989,7 @@
   {
     "path": ["Additional"],
     "item": 368,
-    "title": "Letter 25 October 1949, on behalf Shoghi Effendi. Published in Living the Life, p. 21",
+    "title": "25 October 1949",
     "author": "Shoghi Effendi",
     "years": [1949.1025, 1949.1025],
     "epoch": "Second Epoch",
@@ -5012,7 +5002,7 @@
   {
     "path": ["Additional"],
     "item": 369,
-    "title": "Letter 15 September 1951, on behalf Shoghi Effendi",
+    "title": "15 September 1951",
     "author": "Shoghi Effendi",
     "years": [1951.0915, 1951.0915],
     "epoch": "Second Epoch",
@@ -5025,7 +5015,7 @@
   {
     "path": ["Additional"],
     "item": 370,
-    "title": "Letter 30 June 1952, on behalf Shoghi Effendi",
+    "title": "30 June 1952",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
     "epoch": "Second Epoch",
@@ -5038,7 +5028,7 @@
   {
     "path": ["Additional"],
     "item": 371,
-    "title": "Letter 5 October 1953, on behalf Shoghi Effendi. Published in Japan Will Turn Ablaze, page 102",
+    "title": "5 October 1953",
     "author": "Shoghi Effendi",
     "years": [1953.1005, 1953.1005],
     "epoch": "Second Epoch",
@@ -5051,7 +5041,7 @@
   {
     "path": ["Additional"],
     "item": 372,
-    "title": "Letter April 1956, Shoghi Effendi. Published in Messages to the Bahá’í World, page 101",
+    "title": "April 1956",
     "author": "Shoghi Effendi",
     "years": [1956.0401, 1956.0401],
     "epoch": "Second Epoch",
@@ -5064,7 +5054,7 @@
   {
     "path": ["Additional"],
     "item": 373,
-    "title": "Hand‑written postscript 12 August 1957, Shoghi Effendi ",
+    "title": "12 August 1957",
     "author": "Shoghi Effendi",
     "years": [1957.0812, 1957.0812],
     "epoch": "Second Epoch",
@@ -5080,7 +5070,7 @@
   {
     "path": ["Additional"],
     "item": 374,
-    "title": "25 March 1930, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "25 March 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0325, 1930.0325],
     "epoch": "First Epoch",
@@ -5093,7 +5083,7 @@
   {
     "path": ["Additional"],
     "item": 375,
-    "title": "Written on behalf of the Guardian to an individual believer",
+    "title": "To an individual believer",
     "author": "Shoghi Effendi",
     "years": [1921, 1957],
     "epoch": "First Epoch",
@@ -5106,7 +5096,7 @@
   {
     "path": ["Additional"],
     "item": 376,
-    "title": "From a letter dated 7 January 1923 written by Shoghi Effendi to the Bahá’í community of Pasadena, California",
+    "title": "7 January 1923, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1923.0107, 1923.0107],
     "epoch": "First Epoch",
@@ -5119,7 +5109,7 @@
   {
     "path": ["Additional"],
     "item": 377,
-    "title": "From a letter dated 13 March 1934 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "13 March 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0313, 1934.0313],
     "epoch": "First Epoch",
@@ -5132,7 +5122,7 @@
   {
     "path": ["Additional"],
     "item": 378,
-    "title": "From a letter dated 22 November 1941 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "22 November 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.1122, 1941.1122],
     "epoch": "First Epoch",
@@ -5145,7 +5135,7 @@
   {
     "path": ["Additional"],
     "item": 379,
-    "title": "From a letter dated 28 June 1945 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "28 June 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0628, 1945.0628],
     "epoch": "First Epoch",
@@ -5158,7 +5148,7 @@
   {
     "path": ["Additional"],
     "item": 380,
-    "title": "From a letter dated 30 September 1951 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "30 September 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.093, 1951.093],
     "epoch": "Second Epoch",
@@ -5171,7 +5161,7 @@
   {
     "path": ["Additional"],
     "item": 381,
-    "title": "From a letter dated 19 October 1925 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "19 October 1925, to an individual",
     "author": "Shoghi Effendi",
     "years": [1925.1019, 1925.1019],
     "epoch": "First Epoch",
@@ -5184,7 +5174,7 @@
   {
     "path": ["Additional"],
     "item": 382,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 30 October 1936 written on his behalf to an individual believer",
+    "title": "30 October 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.103, 1936.103],
     "epoch": "First Epoch",
@@ -5197,7 +5187,7 @@
   {
     "path": ["Additional"],
     "item": 383,
-    "title": "From a letter dated 19 October 1925 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "19 October 1925, to an individual",
     "author": "Shoghi Effendi",
     "years": [1925.1019, 1925.1019],
     "epoch": "First Epoch",
@@ -5210,7 +5200,7 @@
   {
     "path": ["Additional"],
     "item": 384,
-    "title": "From a letter dated 15 June 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "15 June 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0615, 1935.0615],
     "epoch": "First Epoch",
@@ -5223,7 +5213,7 @@
   {
     "path": ["Additional"],
     "item": 385,
-    "title": "From a letter dated 6 July 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "6 July 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0706, 1935.0706],
     "epoch": "First Epoch",
@@ -5236,7 +5226,7 @@
   {
     "path": ["Additional"],
     "item": 386,
-    "title": "From a letter dated 6 December 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "6 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1206, 1935.1206],
     "epoch": "First Epoch",
@@ -5249,7 +5239,7 @@
   {
     "path": ["Additional"],
     "item": 387,
-    "title": "From a letter dated 26 October 1938 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "26 October 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.1026, 1938.1026],
     "epoch": "First Epoch",
@@ -5265,7 +5255,7 @@
   {
     "path": ["Additional"],
     "item": 388,
-    "title": "From a letter dated 16 March 1946 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "16 March 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0316, 1946.0316],
     "epoch": "First Epoch",
@@ -5278,7 +5268,7 @@
   {
     "path": ["Additional"],
     "item": 389,
-    "title": "From a letter dated 31 January 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "31 January 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0131, 1949.0131],
     "epoch": "Second Epoch",
@@ -5291,7 +5281,7 @@
   {
     "path": ["Additional"],
     "item": 390,
-    "title": "From a letter dated 14 January 1942 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "14 January 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0114, 1942.0114],
     "epoch": "First Epoch",
@@ -5304,7 +5294,7 @@
   {
     "path": ["Additional"],
     "item": 391,
-    "title": "From a letter dated 25 January 1943 written on behalf of Shoghi Effendi to individual believers",
+    "title": "25 January 1943, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1943.0125, 1943.0125],
     "epoch": "First Epoch",
@@ -5323,7 +5313,7 @@
   {
     "path": ["Additional"],
     "item": 392,
-    "title": "From a letter dated 19 November 1945 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "19 November 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1119, 1945.1119],
     "epoch": "First Epoch",
@@ -5336,7 +5326,7 @@
   {
     "path": ["Additional"],
     "item": 393,
-    "title": "From a letter dated 27 January 1952 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "27 January 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.0127, 1952.0127],
     "epoch": "Second Epoch",
@@ -5349,7 +5339,7 @@
   {
     "path": ["Additional"],
     "item": 394,
-    "title": "From a letter dated 15 May 1944 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "15 May 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0515, 1944.0515],
     "epoch": "First Epoch",
@@ -5362,7 +5352,7 @@
   {
     "path": ["Additional"],
     "item": 395,
-    "title": "From a letter dated 29 October 1952 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "29 October 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.1029, 1952.1029],
     "epoch": "Second Epoch",
@@ -5375,7 +5365,7 @@
   {
     "path": ["Additional"],
     "item": 396,
-    "title": "From a letter dated 6 October 1954 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "6 October 1954, to an individual",
     "author": "Shoghi Effendi",
     "years": [1954.1006, 1954.1006],
     "epoch": "Second Epoch",
@@ -5388,7 +5378,7 @@
   {
     "path": ["Additional"],
     "item": 397,
-    "title": "From a letter dated 30 May 1956 written on behalf of Shoghi Effendi to the Hands of the Cause in Asia",
+    "title": "30 May 1956, to the Hands of the Cause in a Continent",
     "author": "Shoghi Effendi",
     "years": [1956.053, 1956.053],
     "epoch": "Second Epoch",
@@ -5401,7 +5391,7 @@
   {
     "path": ["Additional"],
     "item": 398,
-    "title": "From a letter dated 30 May 1956 written on behalf of Shoghi Effendi to the Hands of the Cause in the United States",
+    "title": "30 May 1956, to the Hands of the Cause in a Continent",
     "author": "Shoghi Effendi",
     "years": [1956.053, 1956.053],
     "epoch": "Second Epoch",
@@ -5414,7 +5404,7 @@
   {
     "path": ["Additional"],
     "item": 399,
-    "title": "From a letter dated 22 August 1957 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "22 August 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0822, 1957.0822],
     "epoch": "Second Epoch",
@@ -5427,7 +5417,7 @@
   {
     "path": ["Additional"],
     "item": 400,
-    "title": "From a letter dated 25 October 1934 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "25 October 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.1025, 1934.1025],
     "epoch": "First Epoch",
@@ -5443,7 +5433,7 @@
   {
     "path": ["Additional"],
     "item": 401,
-    "title": "From a letter dated 4 January 1936 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "4 January 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0104, 1936.0104],
     "epoch": "First Epoch",
@@ -5456,7 +5446,7 @@
   {
     "path": ["Additional"],
     "item": 402,
-    "title": "From a letter dated 30 January 1937 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "30 January 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.013, 1937.013],
     "epoch": "First Epoch",
@@ -5469,7 +5459,7 @@
   {
     "path": ["Additional"],
     "item": 403,
-    "title": "From a letter dated 23 February 1939 written on behalf of Shoghi Effendi to individual believers",
+    "title": "23 February 1939, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1939.0223, 1939.0223],
     "epoch": "First Epoch",
@@ -5485,7 +5475,7 @@
   {
     "path": ["Additional"],
     "item": 404,
-    "title": "From a letter dated 7 December 1939 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "7 December 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.1207, 1939.1207],
     "epoch": "First Epoch",
@@ -5498,7 +5488,7 @@
   {
     "path": ["Additional"],
     "item": 405,
-    "title": "From a letter dated 24 June 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "24 June 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0624, 1949.0624],
     "epoch": "Second Epoch",
@@ -5514,7 +5504,7 @@
   {
     "path": ["Additional"],
     "item": 406,
-    "title": "From a letter dated 17 February 1955 written on behalf of Shoghi Effendi to the Local Spiritual Assembly of Los Angeles, California",
+    "title": "17 February 1955, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1955.0217, 1955.0217],
     "epoch": "Second Epoch",
@@ -5527,7 +5517,7 @@
   {
     "path": ["Additional"],
     "item": 407,
-    "title": "From a letter dated 8 November 1931 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "8 November 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.1108, 1931.1108],
     "epoch": "First Epoch",
@@ -5540,7 +5530,7 @@
   {
     "path": ["Additional"],
     "item": 408,
-    "title": "From a letter dated 23 November 1947 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "23 November 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1123, 1947.1123],
     "epoch": "Second Epoch",
@@ -5553,7 +5543,7 @@
   {
     "path": ["Additional"],
     "item": 409,
-    "title": "From a letter dated 28 March 1953 written on behalf of Shoghi Effendi to individual believers",
+    "title": "28 March 1953, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1953.0328, 1953.0328],
     "epoch": "Second Epoch",
@@ -5566,7 +5556,7 @@
   {
     "path": ["Additional"],
     "item": 410,
-    "title": "From a letter dated 10 April 1939 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "10 April 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.041, 1939.041],
     "epoch": "First Epoch",
@@ -5579,7 +5569,7 @@
   {
     "path": ["Additional"],
     "item": 411,
-    "title": "From a letter dated 27 April 1937 written on behalf of Shoghi Effendi to the National Spiritual Assembly of India and Burma",
+    "title": "27 April 1937, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1937.0427, 1937.0427],
     "epoch": "First Epoch",
@@ -5592,7 +5582,7 @@
   {
     "path": ["Additional"],
     "item": 412,
-    "title": "From a letter dated 14 October 1937 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "14 October 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.1014, 1937.1014],
     "epoch": "First Epoch",
@@ -5608,7 +5598,7 @@
   {
     "path": ["Additional"],
     "item": 413,
-    "title": "From a letter dated 24 July 1946 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "24 July 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0724, 1946.0724],
     "epoch": "Second Epoch",
@@ -5621,7 +5611,7 @@
   {
     "path": ["Additional"],
     "item": 414,
-    "title": "From a letter dated 31 January 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "31 January 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0131, 1949.0131],
     "epoch": "Second Epoch",
@@ -5634,7 +5624,7 @@
   {
     "path": ["Additional"],
     "item": 415,
-    "title": "From a letter dated 28 July 1950 written on behalf of Shoghi Effendi to the Local Spiritual Assembly of Manchester, England",
+    "title": "28 July 1950, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0728, 1950.0728],
     "epoch": "Second Epoch",
@@ -5647,7 +5637,7 @@
   {
     "path": ["Additional"],
     "item": 416,
-    "title": "From a letter dated 23 April 1957 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "23 April 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0423, 1957.0423],
     "epoch": "Second Epoch",
@@ -5660,7 +5650,7 @@
   {
     "path": ["Additional"],
     "item": 417,
-    "title": "From a letter dated 29 October 1938 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "29 October 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.1029, 1938.1029],
     "epoch": "First Epoch",
@@ -5673,7 +5663,7 @@
   {
     "path": ["Additional"],
     "item": 418,
-    "title": "From a letter dated 8 August 1942 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the British Isles",
+    "title": "8 August 1942, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0808, 1942.0808],
     "epoch": "First Epoch",
@@ -5686,7 +5676,7 @@
   {
     "path": ["Additional"],
     "item": 419,
-    "title": "From a letter dated 27 September 1947 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "27 September 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0927, 1947.0927],
     "epoch": "Second Epoch",
@@ -5699,7 +5689,7 @@
   {
     "path": ["Additional"],
     "item": 420,
-    "title": "From a letter dated 18 March 1950 written on behalf of Shoghi Effendi to the Local Spiritual Assembly of Punta Arenas, Chile",
+    "title": "18 March 1950, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0318, 1950.0318],
     "epoch": "Second Epoch",
@@ -5712,7 +5702,7 @@
   {
     "path": ["Additional"],
     "item": 421,
-    "title": "From a letter dated 18 March 1951 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "18 March 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.0318, 1951.0318],
     "epoch": "Second Epoch",
@@ -5731,7 +5721,7 @@
   {
     "path": ["Additional"],
     "item": 422,
-    "title": "From a letter dated 11 June 1956 written on behalf of Shoghi Effendi to a Bahá’í Study Group in Columbus, Ohio",
+    "title": "11 June 1956, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1956.0611, 1956.0611],
     "epoch": "Second Epoch",
@@ -5744,7 +5734,7 @@
   {
     "path": ["Additional"],
     "item": 423,
-    "title": "5 November 1934 to an individual believer",
+    "title": "5 November 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.1105, 1934.1105],
     "epoch": "First Epoch",
@@ -5757,7 +5747,7 @@
   {
     "path": ["Additional"],
     "item": 424,
-    "title": "15 November 1935 to two believers",
+    "title": "15 November 1935, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1935.1115, 1935.1115],
     "epoch": "First Epoch",
@@ -5770,7 +5760,7 @@
   {
     "path": ["Additional"],
     "item": 425,
-    "title": "20 November 1937 to an individual believer",
+    "title": "20 November 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.112, 1937.112],
     "epoch": "First Epoch",
@@ -5783,7 +5773,7 @@
   {
     "path": ["Additional"],
     "item": 426,
-    "title": "1 May 1938 to an individual believer and a Local Spiritual Assembly",
+    "title": "1 May 1938, to an individual and a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1938.0501, 1938.0501],
     "epoch": "First Epoch",
@@ -5796,7 +5786,7 @@
   {
     "path": ["Additional"],
     "item": 427,
-    "title": "8 June 1948 to an individual believer",
+    "title": "8 June 1948, to an individual",
     "author": "Shoghi Effendi",
     "years": [1948.0608, 1948.0608],
     "epoch": "Second Epoch",
@@ -5809,7 +5799,7 @@
   {
     "path": ["Additional"],
     "item": 428,
-    "title": "12 August 1933 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the United States and Canada",
+    "title": "12 August 1933, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1933.0812, 1933.0812],
     "epoch": "First Epoch",
@@ -5822,7 +5812,7 @@
   {
     "path": ["Additional"],
     "item": 429,
-    "title": "1 July 1943 to the National Spiritual Assembly of Persia",
+    "title": "1 July 1943, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1943.0701, 1943.0701],
     "epoch": "First Epoch",
@@ -5835,7 +5825,7 @@
   {
     "path": ["Additional"],
     "item": 430,
-    "title": "From a letter dated 15 November 1935 written on behalf of Shoghi Effendi to two believers",
+    "title": "15 November 1935, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1935.1115, 1935.1115],
     "epoch": "First Epoch",
@@ -5848,7 +5838,7 @@
   {
     "path": ["Additional"],
     "item": 431,
-    "title": "From a letter dated 14 May 1927 written by Shoghi Effendi to a Local Spiritual Assembly",
+    "title": "14 May 1927, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1927.0514, 1927.0514],
     "epoch": "First Epoch",
@@ -5861,7 +5851,7 @@
   {
     "path": ["Additional"],
     "item": 432,
-    "title": "From a letter dated 28 September 1941 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "28 September 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.0928, 1941.0928],
     "epoch": "First Epoch",
@@ -5877,7 +5867,7 @@
   {
     "path": ["Additional"],
     "item": 433,
-    "title": "From a letter dated 17 November 1933 written on behalf of Shoghi Effendi to the Local Spiritual Assemblies of Evanston and Wilmette, U.S.A.",
+    "title": "17 November 1933, to selected Local Assemblies",
     "author": "Shoghi Effendi",
     "years": [1933.1117, 1933.1117],
     "epoch": "First Epoch",
@@ -5893,7 +5883,7 @@
   {
     "path": ["Additional"],
     "item": 434,
-    "title": "From a letter dated 20 November 1941 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "20 November 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.112, 1941.112],
     "epoch": "First Epoch",
@@ -5906,7 +5896,7 @@
   {
     "path": ["Additional"],
     "item": 435,
-    "title": "From a letter dated 30 June 1949 written on behalf of Shoghi Effendi to the National Spiritual Assembly of Germany and Austria",
+    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
     "epoch": "Second Epoch",
@@ -5925,7 +5915,7 @@
   {
     "path": ["Additional"],
     "item": 436,
-    "title": "From a letter dated 16 February 1935 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the United States and Canada",
+    "title": "16 February 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.0216, 1935.0216],
     "epoch": "First Epoch",
@@ -5938,7 +5928,7 @@
   {
     "path": ["Additional"],
     "item": 437,
-    "title": "From a letter dated 18 April 1939 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "18 April 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0418, 1939.0418],
     "epoch": "First Epoch",
@@ -5951,7 +5941,7 @@
   {
     "path": ["Additional"],
     "item": 438,
-    "title": "From a letter dated 30 August 1930 written on behalf of Shoghi Effendi to the National Spiritual Assembly of the United States and Canada",
+    "title": "30 August 1930, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1930.083, 1930.083],
     "epoch": "First Epoch",
@@ -5967,7 +5957,7 @@
   {
     "path": ["Additional"],
     "item": 439,
-    "title": "From a letter dated 9 March 1934 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "9 March 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0309, 1934.0309],
     "epoch": "First Epoch",
@@ -5980,7 +5970,7 @@
   {
     "path": ["Additional"],
     "item": 440,
-    "title": "From a letter dated 28 October 1935 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "28 October 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1028, 1935.1028],
     "epoch": "First Epoch",
@@ -5993,7 +5983,7 @@
   {
     "path": ["Additional"],
     "item": 441,
-    "title": "From a letter dated 12 March 1923 written by Shoghi Effendi to the Bahá’ís of America, Australasia, France, Germany, British Isles, Italy, Japan and Switzerland",
+    "title": "12 March 1923, to the Bahá’ís of selected Nations",
     "author": "Shoghi Effendi",
     "years": [1923.0312, 1923.0312],
     "epoch": "First Epoch",
@@ -6006,7 +5996,7 @@
   {
     "path": ["Additional"],
     "item": 442,
-    "title": "From a letter dated 12 August 1933 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "12 August 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0812, 1933.0812],
     "epoch": "First Epoch",
@@ -6019,7 +6009,7 @@
   {
     "path": ["Additional"],
     "item": 443,
-    "title": "From a letter dated 17 October 1944 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "17 October 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.1017, 1944.1017],
     "epoch": "First Epoch",
@@ -6032,7 +6022,7 @@
   {
     "path": ["Additional"],
     "item": 444,
-    "title": "From a letter dated 13 March 1944 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "13 March 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
     "epoch": "First Epoch",
@@ -6045,7 +6035,7 @@
   {
     "path": ["Additional"],
     "item": 445,
-    "title": "From a letter dated 30 June 1949 written on behalf of Shoghi Effendi to the National Spiritual Assembly of Germany and Austria",
+    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
     "epoch": "Second Epoch",
@@ -6058,7 +6048,7 @@
   {
     "path": ["Additional"],
     "item": 446,
-    "title": "From letter dated 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "From letter dated 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949, 1949],
     "epoch": "Second Epoch",
@@ -6071,7 +6061,7 @@
   {
     "path": ["Additional"],
     "item": 447,
-    "title": "From a letter dated 19 October 1947 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
     "epoch": "Second Epoch",
@@ -6084,7 +6074,7 @@
   {
     "path": ["Additional"],
     "item": 448,
-    "title": "From a letter dated 29 July 1942 written on behalf of Shoghi Effendi to the Local Spiritual Assembly of Bombay",
+    "title": "29 July 1942, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0729, 1942.0729],
     "epoch": "First Epoch",
@@ -6097,7 +6087,7 @@
   {
     "path": ["Additional"],
     "item": 449,
-    "title": "From a letter dated 14 October 1941 written on behalf of Shoghi Effendi to two believers",
+    "title": "14 October 1941, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1941.1014, 1941.1014],
     "epoch": "First Epoch",
@@ -6110,7 +6100,7 @@
   {
     "path": ["Additional"],
     "item": 450,
-    "title": "From a letter dated 27 March 1938 written on behalf of Shoghi Effendi an individual believer",
+    "title": "27 March 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0327, 1938.0327],
     "epoch": "First Epoch",
@@ -6123,7 +6113,7 @@
   {
     "path": ["Additional"],
     "item": 451,
-    "title": "From a letter dated 10 July 1939 written on behalf of Shoghi Effendi an individual believer",
+    "title": "10 July 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.071, 1939.071],
     "epoch": "First Epoch",
@@ -6136,7 +6126,7 @@
   {
     "path": ["Additional"],
     "item": 452,
-    "title": "16 January 1932, written on behalf of Shoghi Effendi to a Spiritual Assembly—translated from the Persian",
+    "title": "16 January 1932, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0116, 1932.0116],
     "epoch": "First Epoch",
@@ -6149,7 +6139,7 @@
   {
     "path": ["Additional"],
     "item": 453,
-    "title": "8 March 1932, written on behalf of Shoghi Effendi to a Local Spiritual Assembly—translated from the Persian",
+    "title": "8 March 1932, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0308, 1932.0308],
     "epoch": "First Epoch",
@@ -6162,7 +6152,7 @@
   {
     "path": ["Additional"],
     "item": 454,
-    "title": "9 April 1932, written on behalf of Shoghi Effendi to a Local Spiritual Assembly—translated from the Persian",
+    "title": "9 April 1932, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0409, 1932.0409],
     "epoch": "First Epoch",
@@ -6175,7 +6165,7 @@
   {
     "path": ["Additional"],
     "item": 455,
-    "title": "4 February 1935, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "4 February 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0204, 1935.0204],
     "epoch": "First Epoch",
@@ -6191,7 +6181,7 @@
   {
     "path": ["Additional"],
     "item": 456,
-    "title": "14 March 1947 written on behalf of Shoghi Effendi to the National Spiritual Assembly of Australia and New Zealand",
+    "title": "14 March 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.0314, 1947.0314],
     "epoch": "Second Epoch",
@@ -6204,7 +6194,7 @@
   {
     "path": ["Additional"],
     "item": 457,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 29 June 1941 written on his behalf to the National Spiritual Assembly of India",
+    "title": "29 June 1941, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.0629, 1941.0629],
     "epoch": "First Epoch",
@@ -6217,7 +6207,7 @@
   {
     "path": ["Additional"],
     "item": 458,
-    "title": "From a letter dated 10 October 1932 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "10 October 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.101, 1932.101],
     "epoch": "First Epoch",
@@ -6230,7 +6220,7 @@
   {
     "path": ["Additional"],
     "item": 459,
-    "title": "8 December 1923 to a Bahá’í community—translated from the Persian",
+    "title": "8 December 1923, to a Bahá’í community",
     "author": "Shoghi Effendi",
     "years": [1923.1208, 1923.1208],
     "epoch": "First Epoch",
@@ -6243,7 +6233,7 @@
   {
     "path": ["Additional"],
     "item": 460,
-    "title": "February 1927 to the believers throughout the East—translated from the Persian",
+    "title": "February 1927, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1927.0201, 1927.0201],
     "epoch": "First Epoch",
@@ -6256,7 +6246,7 @@
   {
     "path": ["Additional"],
     "item": 461,
-    "title": "22 March 1928 to an individual believer",
+    "title": "22 March 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0322, 1928.0322],
     "epoch": "First Epoch",
@@ -6269,7 +6259,7 @@
   {
     "path": ["Additional"],
     "item": 462,
-    "title": "22 March 1928 to an individual believer)",
+    "title": "22 March 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0322, 1928.0322],
     "epoch": "First Epoch",
@@ -6282,7 +6272,7 @@
   {
     "path": ["Additional"],
     "item": 463,
-    "title": "15 November 1932 to an individual believer",
+    "title": "15 November 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.1115, 1932.1115],
     "epoch": "First Epoch",
@@ -6295,7 +6285,7 @@
   {
     "path": ["Additional"],
     "item": 464,
-    "title": "17 March 1935 to an individual believer",
+    "title": "17 March 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0317, 1935.0317],
     "epoch": "First Epoch",
@@ -6311,7 +6301,7 @@
   {
     "path": ["Additional"],
     "item": 465,
-    "title": "7 April 1935 to an individual believer",
+    "title": "7 April 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0407, 1935.0407],
     "epoch": "First Epoch",
@@ -6324,7 +6314,7 @@
   {
     "path": ["Additional"],
     "item": 466,
-    "title": "4 November 1937 to an individual believer",
+    "title": "4 November 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.1104, 1937.1104],
     "epoch": "First Epoch",
@@ -6337,7 +6327,7 @@
   {
     "path": ["Additional"],
     "item": 467,
-    "title": "20 July 1946 to a National Spiritual Assembly",
+    "title": "20 July 1946, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1946.072, 1946.072],
     "epoch": "Second Epoch",
@@ -6350,7 +6340,7 @@
   {
     "path": ["Additional"],
     "item": 468,
-    "title": "20 August 1956 to an individual believer",
+    "title": "20 August 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.082, 1956.082],
     "epoch": "Second Epoch",
@@ -6363,7 +6353,7 @@
   {
     "path": ["Additional"],
     "item": 469,
-    "title": "21 September 1957 to a National Spiritual Assembly",
+    "title": "21 September 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0921, 1957.0921],
     "epoch": "Second Epoch",
@@ -6376,7 +6366,7 @@
   {
     "path": ["Additional"],
     "item": 470,
-    "title": "24 October 1957 to an individual believer",
+    "title": "24 October 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.1024, 1957.1024],
     "epoch": "Second Epoch",
@@ -6389,7 +6379,7 @@
   {
     "path": ["Additional"],
     "item": 471,
-    "title": "7 January 1931 to the National Spiritual Assembly of India and Burma",
+    "title": "7 January 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.0107, 1931.0107],
     "epoch": "First Epoch",
@@ -6402,7 +6392,7 @@
   {
     "path": ["Additional"],
     "item": 472,
-    "title": "28 July 1936 to an individual believer",
+    "title": "28 July 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0728, 1936.0728],
     "epoch": "First Epoch",
@@ -6457,7 +6447,7 @@
   {
     "path": ["Additional"],
     "item": 476,
-    "title": "9 November 1956 to the National Spiritual Assembly of Central America",
+    "title": "9 November 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.1109, 1956.1109],
     "epoch": "Second Epoch",
@@ -6470,7 +6460,7 @@
   {
     "path": ["Additional"],
     "item": 477,
-    "title": "10 November 1930 to the National Spiritual Assembly of India and Burma",
+    "title": "10 November 1930, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1930.111, 1930.111],
     "epoch": "First Epoch",
@@ -6483,7 +6473,7 @@
   {
     "path": ["Additional"],
     "item": 478,
-    "title": "27 December 1923 to the National Spiritual Assembly of India and Burma",
+    "title": "27 December 1923, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1923.1227, 1923.1227],
     "epoch": "First Epoch",
@@ -6720,7 +6710,7 @@
   {
     "path": ["Additional"],
     "item": 489,
-    "title": "23 June 1945, to an individual believer, translated from the Persian",
+    "title": "23 June 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0623, 1945.0623],
     "epoch": "First Epoch",
@@ -6736,7 +6726,7 @@
   {
     "path": ["Additional"],
     "item": 490,
-    "title": "April/May 1927, written on behalf of Shoghi Effendi to an individual believer, translated from the Persian",
+    "title": "April/May 1927, to an individual",
     "author": "Shoghi Effendi",
     "years": [1927.0501, 1927.0501],
     "epoch": "First Epoch",
@@ -6749,7 +6739,7 @@
   {
     "path": ["Additional"],
     "item": 491,
-    "title": "Postscript in the handwriting of Shoghi Effendi, appended to a letter dated 16 December 1927 written on his behalf to an individual believer",
+    "title": "16 December 1927, to an individual",
     "author": "Shoghi Effendi",
     "years": [1927.1216, 1927.1216],
     "epoch": "First Epoch",
@@ -6762,7 +6752,7 @@
   {
     "path": ["Additional"],
     "item": 492,
-    "title": "17 November 1937, written on behalf of Shoghi Effendi to an individual believer, translated from the Persian",
+    "title": "17 November 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.1117, 1937.1117],
     "epoch": "First Epoch",
@@ -6775,7 +6765,7 @@
   {
     "path": ["Additional"],
     "item": 493,
-    "title": "29 September 1942, written on behalf of Shoghi Effendi to the National Spiritual Assembly of Írán, translated from the Persian",
+    "title": "29 September 1942, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0929, 1942.0929],
     "epoch": "First Epoch",
@@ -6788,7 +6778,7 @@
   {
     "path": ["Additional"],
     "item": 494,
-    "title": "12 October 1946, to a National Spiritual Assembly",
+    "title": "12 October 1946, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1946.1012, 1946.1012],
     "epoch": "Second Epoch",
@@ -6801,7 +6791,7 @@
   {
     "path": ["Additional"],
     "item": 495,
-    "title": "15 January 1933, to an individual believer, translated from the Persian",
+    "title": "15 January 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0115, 1933.0115],
     "epoch": "First Epoch",
@@ -6814,7 +6804,7 @@
   {
     "path": ["Additional"],
     "item": 496,
-    "title": "From a letter dated 25 March 1925 to a National Spiritual Assembly",
+    "title": "25 March 1925, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1925.0325, 1925.0325],
     "epoch": "First Epoch",
@@ -6833,7 +6823,7 @@
   {
     "path": ["Additional"],
     "item": 497,
-    "title": "24 November 1925 to two believers",
+    "title": "24 November 1925, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1925.1124, 1925.1124],
     "epoch": "First Epoch",
@@ -6849,7 +6839,7 @@
   {
     "path": ["Additional"],
     "item": 498,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 25 May 1926 written on his behalf to an individual believer",
+    "title": "25 May 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.0525, 1926.0525],
     "epoch": "First Epoch",
@@ -6862,7 +6852,7 @@
   {
     "path": ["Additional"],
     "item": 499,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 9 July 1926 written on his behalf to an individual believer",
+    "title": "9 July 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.0709, 1926.0709],
     "epoch": "First Epoch",
@@ -6875,7 +6865,7 @@
   {
     "path": ["Additional"],
     "item": 500,
-    "title": "7 September 1926 to a National Spiritual Assembly",
+    "title": "7 September 1926, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1926.0907, 1926.0907],
     "epoch": "First Epoch",
@@ -6888,9 +6878,9 @@
   {
     "path": ["Additional"],
     "item": 501,
-    "title": "In the handwriting of Shoghi Effendi, appended to the above letter",
+    "title": "7 September 1926, to a National Assembly",
     "author": "Shoghi Effendi",
-    "years": [1921, 1957],
+    "years": [1926.0907, 1926.0907],
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6901,7 +6891,7 @@
   {
     "path": ["Additional"],
     "item": 502,
-    "title": "14 April 1932 to a Spiritual Assembly",
+    "title": "14 April 1932, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0414, 1932.0414],
     "epoch": "First Epoch",
@@ -6914,7 +6904,7 @@
   {
     "path": ["Additional"],
     "item": 503,
-    "title": "4 May 1932 to an individual believer",
+    "title": "4 May 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0504, 1932.0504],
     "epoch": "First Epoch",
@@ -6927,7 +6917,7 @@
   {
     "path": ["Additional"],
     "item": 504,
-    "title": "28 May 1932 to an individual believer",
+    "title": "28 May 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0528, 1932.0528],
     "epoch": "First Epoch",
@@ -6946,7 +6936,7 @@
   {
     "path": ["Additional"],
     "item": 505,
-    "title": "30 December 1933 to two believers",
+    "title": "30 December 1933, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1933.123, 1933.123],
     "epoch": "First Epoch",
@@ -6959,7 +6949,7 @@
   {
     "path": ["Additional"],
     "item": 506,
-    "title": "25 September 1934 to a National Spiritual Assembly",
+    "title": "25 September 1934, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1934.0925, 1934.0925],
     "epoch": "First Epoch",
@@ -6972,7 +6962,7 @@
   {
     "path": ["Additional"],
     "item": 507,
-    "title": "29 July 1935 to a National Spiritual Assembly",
+    "title": "29 July 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.0729, 1935.0729],
     "epoch": "First Epoch",
@@ -6985,7 +6975,7 @@
   {
     "path": ["Additional"],
     "item": 508,
-    "title": "31 December 1935 to an individual believer",
+    "title": "31 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1231, 1935.1231],
     "epoch": "First Epoch",
@@ -7001,7 +6991,7 @@
   {
     "path": ["Additional"],
     "item": 509,
-    "title": "17 July 1937 to a National Spiritual Assembly",
+    "title": "17 July 1937, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1937.0717, 1937.0717],
     "epoch": "First Epoch",
@@ -7014,7 +7004,7 @@
   {
     "path": ["Additional"],
     "item": 510,
-    "title": "3 February 1941 to a National Spiritual Assembly",
+    "title": "3 February 1941, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.0203, 1941.0203],
     "epoch": "First Epoch",
@@ -7027,7 +7017,7 @@
   {
     "path": ["Additional"],
     "item": 511,
-    "title": "4 May 1941 to the treasurer of a National Spiritual Assembly",
+    "title": "4 May 1941, to the Treasurer of a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.0504, 1941.0504],
     "epoch": "First Epoch",
@@ -7043,7 +7033,7 @@
   {
     "path": ["Additional"],
     "item": 512,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 26 October 1941 to the treasurer of a National Spiritual Assembly",
+    "title": "26 October 1941, to the Treasurer of a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.1026, 1941.1026],
     "epoch": "First Epoch",
@@ -7056,7 +7046,7 @@
   {
     "path": ["Additional"],
     "item": 513,
-    "title": "26 October 1945 to an individual believer",
+    "title": "26 October 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1026, 1945.1026],
     "epoch": "First Epoch",
@@ -7069,7 +7059,7 @@
   {
     "path": ["Additional"],
     "item": 514,
-    "title": "19 October 1947 to an individual believer",
+    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
     "epoch": "Second Epoch",
@@ -7082,7 +7072,7 @@
   {
     "path": ["Additional"],
     "item": 515,
-    "title": "8 December 1947 to an individual believer",
+    "title": "8 December 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1208, 1947.1208],
     "epoch": "Second Epoch",
@@ -7095,7 +7085,7 @@
   {
     "path": ["Additional"],
     "item": 516,
-    "title": "23 June 1950 to a National Spiritual Assembly",
+    "title": "23 June 1950, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0623, 1950.0623],
     "epoch": "Second Epoch",
@@ -7108,7 +7098,7 @@
   {
     "path": ["Additional"],
     "item": 517,
-    "title": "19 September 1951 to an individual believer",
+    "title": "19 September 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.0919, 1951.0919],
     "epoch": "Second Epoch",
@@ -7121,7 +7111,7 @@
   {
     "path": ["Additional"],
     "item": 518,
-    "title": "29 September 1951 to an individual believer",
+    "title": "29 September 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.0929, 1951.0929],
     "epoch": "Second Epoch",
@@ -7134,7 +7124,7 @@
   {
     "path": ["Additional"],
     "item": 519,
-    "title": "12 July 1952 to an individual believer",
+    "title": "12 July 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.0712, 1952.0712],
     "epoch": "Second Epoch",
@@ -7147,7 +7137,7 @@
   {
     "path": ["Additional"],
     "item": 520,
-    "title": "25 March 1953 to a National Spiritual Assembly",
+    "title": "25 March 1953, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1953.0325, 1953.0325],
     "epoch": "Second Epoch",
@@ -7166,7 +7156,7 @@
   {
     "path": ["Additional"],
     "item": 521,
-    "title": "20 June 1954 to a National Spiritual Assembly",
+    "title": "20 June 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.062, 1954.062],
     "epoch": "Second Epoch",
@@ -7179,7 +7169,7 @@
   {
     "path": ["Additional"],
     "item": 522,
-    "title": "10 August 1956 to a Spiritual Assembly",
+    "title": "10 August 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.081, 1956.081],
     "epoch": "Second Epoch",
@@ -7192,7 +7182,7 @@
   {
     "path": ["Additional"],
     "item": 523,
-    "title": "10 June 1956 to a Hand of the Cause of God in Africa",
+    "title": "10 June 1956, to a Hand of the Cause in a Continent",
     "author": "Shoghi Effendi",
     "years": [1956.061, 1956.061],
     "epoch": "Second Epoch",
@@ -7205,7 +7195,7 @@
   {
     "path": ["Additional"],
     "item": 524,
-    "title": "15 December 1956 to a National Spiritual Assembly",
+    "title": "15 December 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.1215, 1956.1215],
     "epoch": "Second Epoch",
@@ -7218,7 +7208,7 @@
   {
     "path": ["Additional"],
     "item": 525,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 8 August 1957 written on his behalf to a National Spiritual Assembly",
+    "title": "8 August 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0808, 1957.0808],
     "epoch": "Second Epoch",
@@ -7231,7 +7221,7 @@
   {
     "path": ["Additional"],
     "item": 526,
-    "title": "19 December 1929 to an individual believer",
+    "title": "19 December 1929, to an individual",
     "author": "Shoghi Effendi",
     "years": [1929.1219, 1929.1219],
     "epoch": "First Epoch",
@@ -7244,7 +7234,7 @@
   {
     "path": ["Additional"],
     "item": 527,
-    "title": "14 November 1936 to a National Spiritual Assembly",
+    "title": "14 November 1936, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1936.1114, 1936.1114],
     "epoch": "First Epoch",
@@ -7257,7 +7247,7 @@
   {
     "path": ["Additional"],
     "item": 528,
-    "title": "17 July 1937 to an individual believer",
+    "title": "17 July 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0717, 1937.0717],
     "epoch": "First Epoch",
@@ -7270,7 +7260,7 @@
   {
     "path": ["Additional"],
     "item": 529,
-    "title": "8 June 1952 to a National Spiritual Assembly",
+    "title": "8 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.0608, 1952.0608],
     "epoch": "Second Epoch",
@@ -7286,7 +7276,7 @@
   {
     "path": ["Additional"],
     "item": 530,
-    "title": "8 August 1957 to a National Spiritual Assembly",
+    "title": "8 August 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0808, 1957.0808],
     "epoch": "Second Epoch",
@@ -7299,7 +7289,7 @@
   {
     "path": ["Additional"],
     "item": 531,
-    "title": "From a letter dated 27 February 1927 to the Bahá’ís of the East—translated from the Persian",
+    "title": "27 February 1927, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1927.0227, 1927.0227],
     "epoch": "First Epoch",
@@ -7312,7 +7302,7 @@
   {
     "path": ["Additional"],
     "item": 532,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 4 January 1929 to a National Spiritual Assembly",
+    "title": "4 January 1929, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1929.0104, 1929.0104],
     "epoch": "First Epoch",
@@ -7325,7 +7315,7 @@
   {
     "path": ["Additional"],
     "item": 533,
-    "title": "14 April 1934 to an individual believer",
+    "title": "14 April 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0414, 1934.0414],
     "epoch": "First Epoch",
@@ -7338,7 +7328,7 @@
   {
     "path": ["Additional"],
     "item": 534,
-    "title": "12 July 1938 to an individual believer",
+    "title": "12 July 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0712, 1938.0712],
     "epoch": "First Epoch",
@@ -7351,7 +7341,7 @@
   {
     "path": ["Additional"],
     "item": 535,
-    "title": "8 May 1947 to a National Spiritual Assembly",
+    "title": "8 May 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.0508, 1947.0508],
     "epoch": "Second Epoch",
@@ -7364,7 +7354,7 @@
   {
     "path": ["Additional"],
     "item": 536,
-    "title": "18 August 1949 to a National Spiritual Assembly",
+    "title": "18 August 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0818, 1949.0818],
     "epoch": "Second Epoch",
@@ -7377,7 +7367,7 @@
   {
     "path": ["Additional"],
     "item": 537,
-    "title": "5 July 1950 to a National Spiritual Assembly",
+    "title": "5 July 1950, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0705, 1950.0705],
     "epoch": "Second Epoch",
@@ -7390,7 +7380,7 @@
   {
     "path": ["Additional"],
     "item": 538,
-    "title": "4 October 1950 to an individual believer",
+    "title": "4 October 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.1004, 1950.1004],
     "epoch": "Second Epoch",
@@ -7403,7 +7393,7 @@
   {
     "path": ["Additional"],
     "item": 539,
-    "title": "30 June 1952 to a National Spiritual Assembly",
+    "title": "30 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
     "epoch": "Second Epoch",
@@ -7416,7 +7406,7 @@
   {
     "path": ["Additional"],
     "item": 540,
-    "title": "21 June 1953 to a National Spiritual Assembly",
+    "title": "21 June 1953, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1953.0621, 1953.0621],
     "epoch": "Second Epoch",
@@ -7429,7 +7419,7 @@
   {
     "path": ["Additional"],
     "item": 541,
-    "title": "From a letter dated 6 November 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "6 November 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.1106, 1949.1106],
     "epoch": "Second Epoch",
@@ -7442,7 +7432,7 @@
   {
     "path": ["Additional"],
     "item": 542,
-    "title": "Unpublished provisional translation of a letter dated 15 February 1922 written by Shoghi Effendi to the National Spiritual Assembly of Persia",
+    "title": "15 February 1922, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1922.0215, 1922.0215],
     "epoch": "First Epoch",
@@ -7455,7 +7445,7 @@
   {
     "path": ["Additional"],
     "item": 543,
-    "title": "Letter 13 March 1944, written on behalf Shoghi Effendi",
+    "title": "13 March 1944",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
     "epoch": "First Epoch",
@@ -7468,7 +7458,7 @@
   {
     "path": ["Additional"],
     "item": 544,
-    "title": "From a letter dated August 1927 to several National Spiritual Assemblies—translated from the Persian",
+    "title": "August 1927, to selected National Assemblies",
     "author": "Shoghi Effendi",
     "years": [1927.0801, 1927.0801],
     "epoch": "First Epoch",
@@ -7481,7 +7471,7 @@
   {
     "path": ["Additional"],
     "item": 545,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 8 April 1931 written on his behalf to an individual believer",
+    "title": "8 April 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.0408, 1931.0408],
     "epoch": "First Epoch",
@@ -7494,7 +7484,7 @@
   {
     "path": ["Additional"],
     "item": 546,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 20 December 1931 written on his behalf to the National Spiritual Assembly of the United States and Canada",
+    "title": "20 December 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.122, 1931.122],
     "epoch": "First Epoch",
@@ -7507,7 +7497,7 @@
   {
     "path": ["Additional"],
     "item": 547,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 25 June 1954 written on his behalf to the National Spiritual Assembly of Germany and Austria",
+    "title": "25 June 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.0625, 1954.0625],
     "epoch": "Second Epoch",
@@ -7520,7 +7510,7 @@
   {
     "path": ["Additional"],
     "item": 548,
-    "title": "From a letter dated 13 December 1928 to the Bahá’ís of Ishqábád—translated from the Persian",
+    "title": "13 December 1928, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1928.1213, 1928.1213],
     "epoch": "First Epoch",
@@ -7533,7 +7523,7 @@
   {
     "path": ["Additional"],
     "item": 549,
-    "title": "From a letter dated 11 April 1931 to the National Spiritual Assembly of the United States and Canada",
+    "title": "11 April 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.0411, 1931.0411],
     "epoch": "First Epoch",
@@ -7546,7 +7536,7 @@
   {
     "path": ["Additional"],
     "item": 550,
-    "title": "From a letter dated 6 May 1931 to the National Spiritual Assembly of the United States and Canada",
+    "title": "6 May 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.0506, 1931.0506],
     "epoch": "First Epoch",
@@ -7559,7 +7549,7 @@
   {
     "path": ["Additional"],
     "item": 551,
-    "title": "From a letter dated 15 June 1935 to the National Spiritual Assembly of the United States and Canada",
+    "title": "15 June 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.0615, 1935.0615],
     "epoch": "First Epoch",
@@ -7572,7 +7562,7 @@
   {
     "path": ["Additional"],
     "item": 552,
-    "title": "From a letter dated 14 May 1936 to the National Spiritual Assembly of Egypt—translated from the Arabic",
+    "title": "14 May 1936, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1936.0514, 1936.0514],
     "epoch": "First Epoch",
@@ -7585,7 +7575,7 @@
   {
     "path": ["Additional"],
     "item": 553,
-    "title": "From a letter dated 26 June 1936 to an individual believer",
+    "title": "26 June 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0626, 1936.0626],
     "epoch": "First Epoch",
@@ -7598,7 +7588,7 @@
   {
     "path": ["Additional"],
     "item": 554,
-    "title": "From a letter dated 28 January 1939 to the National Spiritual Assembly of the United States and Canada",
+    "title": "28 January 1939, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1939.0128, 1939.0128],
     "epoch": "First Epoch",
@@ -7614,7 +7604,7 @@
   {
     "path": ["Additional"],
     "item": 555,
-    "title": "From a letter dated 20 July 1946 to the National Spiritual Assembly of the United States and Canada",
+    "title": "20 July 1946, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1946.072, 1946.072],
     "epoch": "Second Epoch",
@@ -7642,7 +7632,7 @@
   {
     "path": ["Additional"],
     "item": 556,
-    "title": "From a letter dated 25 June 1954 to the National Spiritual Assembly of Germany and Austria",
+    "title": "25 June 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.0625, 1954.0625],
     "epoch": "Second Epoch",
@@ -7655,7 +7645,7 @@
   {
     "path": ["Additional"],
     "item": 557,
-    "title": "From a letter dated 10 February 1955 to the National Spiritual Assembly of Germany and Austria",
+    "title": "10 February 1955, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1955.021, 1955.021],
     "epoch": "Second Epoch",
@@ -7668,7 +7658,7 @@
   {
     "path": ["Additional"],
     "item": 558,
-    "title": "From a letter dated 9 November 1956 to the National Spiritual Assembly of Germany and Austria",
+    "title": "9 November 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.1109, 1956.1109],
     "epoch": "Second Epoch",
@@ -7681,7 +7671,7 @@
   {
     "path": ["Additional"],
     "item": 559,
-    "title": "From a letter dated 19 July 1957 to the National Spiritual Assembly of Australia",
+    "title": "19 July 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0719, 1957.0719],
     "epoch": "Second Epoch",
@@ -7694,7 +7684,7 @@
   {
     "path": ["Additional"],
     "item": 560,
-    "title": "From a letter dated 25 April 1926 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "25 April 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.0425, 1926.0425],
     "epoch": "First Epoch",
@@ -7707,7 +7697,7 @@
   {
     "path": ["Additional"],
     "item": 561,
-    "title": "From a postscript signed by Shoghi Effendi, appended to a letter dated 12 October 1946 written on his behalf",
+    "title": "12 October 1946",
     "author": "Shoghi Effendi",
     "years": [1946.1012, 1946.1012],
     "epoch": "Second Epoch",
@@ -7720,7 +7710,7 @@
   {
     "path": ["Additional"],
     "item": 562,
-    "title": "From a letter dated 3 May 1936 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "3 May 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0503, 1936.0503],
     "epoch": "First Epoch",
@@ -7733,7 +7723,7 @@
   {
     "path": ["Additional"],
     "item": 563,
-    "title": "From a letter dated 15 April 1939 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "15 April 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0415, 1939.0415],
     "epoch": "First Epoch",
@@ -7746,7 +7736,7 @@
   {
     "path": ["Additional"],
     "item": 564,
-    "title": "From a letter dated 20 January 1943 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "20 January 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.012, 1943.012],
     "epoch": "First Epoch",
@@ -7759,7 +7749,7 @@
   {
     "path": ["Additional"],
     "item": 565,
-    "title": "From a letter dated 5 January 1948 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "5 January 1948, to an individual",
     "author": "Shoghi Effendi",
     "years": [1948.0105, 1948.0105],
     "epoch": "Second Epoch",
@@ -7772,7 +7762,7 @@
   {
     "path": ["Additional"],
     "item": 566,
-    "title": "From a letter dated 13 March 1944 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "13 March 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
     "epoch": "First Epoch",
@@ -7785,9 +7775,9 @@
   {
     "path": ["Additional"],
     "item": 567,
-    "title": "Preface to The Promised Day Is Come",
+    "title": "28 March 1941, Preface to The Promised Day Is Come",
     "author": "Shoghi Effendi",
-    "years": [1921, 1957],
+    "years": [1941.0328, 1941.0328],
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7810,7 +7800,7 @@
   {
     "path": ["Additional"],
     "item": 568,
-    "title": "From a letter dated 30 June 1952 to the National Spiritual Assembly of the United States",
+    "title": "30 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
     "epoch": "Second Epoch",
@@ -7823,7 +7813,7 @@
   {
     "path": ["Additional"],
     "item": 569,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 2 July 1956 written on his behalf to the National Spiritual Assembly of North West Africa",
+    "title": "2 July 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.0702, 1956.0702],
     "epoch": "Second Epoch",
@@ -7836,7 +7826,7 @@
   {
     "path": ["Additional"],
     "item": 570,
-    "title": "20 January 1935 to the National Spiritual Assembly of India and Burma",
+    "title": "20 January 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.012, 1935.012],
     "epoch": "First Epoch",
@@ -7849,7 +7839,7 @@
   {
     "path": ["Additional"],
     "item": 571,
-    "title": "31 July 1935 to an individual believer",
+    "title": "31 July 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0731, 1935.0731],
     "epoch": "First Epoch",
@@ -7865,7 +7855,7 @@
   {
     "path": ["Additional"],
     "item": 572,
-    "title": "31 August 1937 to an individual believer",
+    "title": "31 August 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0831, 1937.0831],
     "epoch": "First Epoch",
@@ -7878,7 +7868,7 @@
   {
     "path": ["Additional"],
     "item": 573,
-    "title": "25 May 1938 to the National Spiritual Assembly of the United States and Canada",
+    "title": "25 May 1938, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1938.0525, 1938.0525],
     "epoch": "First Epoch",
@@ -7891,7 +7881,7 @@
   {
     "path": ["Additional"],
     "item": 574,
-    "title": "7 February 1945 to an individual believer",
+    "title": "7 February 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0207, 1945.0207],
     "epoch": "First Epoch",
@@ -7907,7 +7897,7 @@
   {
     "path": ["Additional"],
     "item": 575,
-    "title": "19 June 1957 to an individual believer",
+    "title": "19 June 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0619, 1957.0619],
     "epoch": "Second Epoch",
@@ -7920,7 +7910,7 @@
   {
     "path": ["Additional"],
     "item": 576,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 14 August 1957 written on his behalf to a National Spiritual Assembly",
+    "title": "14 August 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0814, 1957.0814],
     "epoch": "Second Epoch",
@@ -7936,7 +7926,7 @@
   {
     "path": ["Additional"],
     "item": 577,
-    "title": "4 April 1930 to an individual believer",
+    "title": "4 April 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0404, 1930.0404],
     "epoch": "First Epoch",
@@ -7952,7 +7942,7 @@
   {
     "path": ["Additional"],
     "item": 578,
-    "title": "30 August 1937 to an individual believer",
+    "title": "30 August 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.083, 1937.083],
     "epoch": "First Epoch",
@@ -7965,7 +7955,7 @@
   {
     "path": ["Additional"],
     "item": 579,
-    "title": "21 October 1946 to an individual believer",
+    "title": "21 October 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.1021, 1946.1021],
     "epoch": "Second Epoch",
@@ -7978,7 +7968,7 @@
   {
     "path": ["Additional"],
     "item": 580,
-    "title": "30 June 1949 to the National Spiritual Assembly of Germany and Austria",
+    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
     "epoch": "Second Epoch",
@@ -7991,7 +7981,7 @@
   {
     "path": ["Additional"],
     "item": 581,
-    "title": "From a letter dated 26 January 1950 to the Local Spiritual Assembly of Panama",
+    "title": "26 January 1950, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0126, 1950.0126],
     "epoch": "Second Epoch",
@@ -8004,7 +7994,7 @@
   {
     "path": ["Additional"],
     "item": 582,
-    "title": "From a letter dated 8 April 1951 to two believers",
+    "title": "8 April 1951, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1951.0408, 1951.0408],
     "epoch": "Second Epoch",
@@ -8017,7 +8007,7 @@
   {
     "path": ["Additional"],
     "item": 583,
-    "title": "From a letter dated 26 September 1955 to an individual believer",
+    "title": "26 September 1955, to an individual",
     "author": "Shoghi Effendi",
     "years": [1955.0926, 1955.0926],
     "epoch": "Second Epoch",
@@ -8030,7 +8020,7 @@
   {
     "path": ["Additional"],
     "item": 584,
-    "title": "From a letter dated August 1927 to the National Spiritual Assembly of Persia—translated from the Persian",
+    "title": "August 1927, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1927.0801, 1927.0801],
     "epoch": "First Epoch",
@@ -8043,7 +8033,7 @@
   {
     "path": ["Additional"],
     "item": 585,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 22 August 1949 to the National Spiritual Assembly of Australia and New Zealand",
+    "title": "22 August 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0822, 1949.0822],
     "epoch": "Second Epoch",
@@ -8056,7 +8046,7 @@
   {
     "path": ["Additional"],
     "item": 586,
-    "title": "In the handwriting of Shoghi Effendi, appended to a letter dated 24 October 1947 written on his behalf to the National Spiritual Assembly of India, Pakistan and Burma",
+    "title": "24 October 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.1024, 1947.1024],
     "epoch": "Second Epoch",
@@ -8069,7 +8059,7 @@
   {
     "path": ["Additional"],
     "item": 587,
-    "title": "Cablegram dated 4 June 1957 to the National Spiritual Assembly of the United States",
+    "title": "4 June 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0604, 1957.0604],
     "epoch": "Second Epoch",
@@ -8088,7 +8078,7 @@
   {
     "path": ["Additional"],
     "item": 588,
-    "title": "24 May 1927 to an individual believer—translated from the Persian",
+    "title": "24 May 1927, to an individual",
     "author": "Shoghi Effendi",
     "years": [1927.0524, 1927.0524],
     "epoch": "First Epoch",
@@ -8101,7 +8091,7 @@
   {
     "path": ["Additional"],
     "item": 589,
-    "title": "12 July 1937 to an individual believer",
+    "title": "12 July 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0712, 1937.0712],
     "epoch": "First Epoch",
@@ -8114,7 +8104,7 @@
   {
     "path": ["Additional"],
     "item": 590,
-    "title": "28 September 1928 to an individual believer",
+    "title": "28 September 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0928, 1928.0928],
     "epoch": "First Epoch",
@@ -8127,7 +8117,7 @@
   {
     "path": ["Additional"],
     "item": 591,
-    "title": "2 July 1942 to the National Spiritual Assembly of Persian—translated from the Persian",
+    "title": "2 July 1942, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0702, 1942.0702],
     "epoch": "First Epoch",
@@ -8149,7 +8139,7 @@
   {
     "path": ["Additional"],
     "item": 592,
-    "title": "11 May 1948 to the National Spiritual Assembly of Germany and Austria",
+    "title": "11 May 1948, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1948.0511, 1948.0511],
     "epoch": "Second Epoch",
@@ -8162,7 +8152,7 @@
   {
     "path": ["Additional"],
     "item": 593,
-    "title": "15 April 1949 to an individual believer",
+    "title": "15 April 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0415, 1949.0415],
     "epoch": "Second Epoch",
@@ -8175,7 +8165,7 @@
   {
     "path": ["Additional"],
     "item": 594,
-    "title": "18 August 1949 to the National Spiritual Assembly of the United States",
+    "title": "18 August 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0818, 1949.0818],
     "epoch": "Second Epoch",
@@ -8265,7 +8255,7 @@
   {
     "path": ["Additional"],
     "item": 600,
-    "title": "6 August 1933, in the handwriting of Shoghi Effendi, appended to a letter written on his behalf to an individual",
+    "title": "6 August 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0806, 1933.0806],
     "epoch": "First Epoch",
@@ -8317,7 +8307,7 @@
   {
     "path": ["Additional"],
     "item": 604,
-    "title": "22 December 1948, to a National Spiritual Assembly",
+    "title": "22 December 1948, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1948.1222, 1948.1222],
     "epoch": "Second Epoch",
@@ -8330,7 +8320,7 @@
   {
     "path": ["Additional"],
     "item": 605,
-    "title": "1 March 1951, from a postscript by Shoghi Effendi appended to a letter written on his behalf to a National Spiritual Assembly",
+    "title": "1 March 1951, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1951.0301, 1951.0301],
     "epoch": "Second Epoch",
@@ -8359,7 +8349,7 @@
   {
     "path": ["Additional"],
     "item": 607,
-    "title": "30 June 1952, to a National Spiritual Assembly",
+    "title": "30 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
     "epoch": "Second Epoch",
@@ -8372,7 +8362,7 @@
   {
     "path": ["Additional"],
     "item": 608,
-    "title": "From a letter dated 3 July 1949 written on behalf of Shoghi Effendi to an individual believer",
+    "title": "3 July 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0703, 1949.0703],
     "epoch": "Second Epoch",
@@ -8385,7 +8375,7 @@
   {
     "path": ["Additional"],
     "item": 609,
-    "title": "27 May 1932, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "27 May 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0527, 1932.0527],
     "epoch": "First Epoch",
@@ -8398,7 +8388,7 @@
   {
     "path": ["Additional"],
     "item": 610,
-    "title": "24 September 1933, written on behalf of Shoghi Effendi to an individual believer",
+    "title": "24 September 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0924, 1933.0924],
     "epoch": "First Epoch",
