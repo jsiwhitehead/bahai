@@ -1,10 +1,10 @@
 [
   {
-    "path": ["Century of Light"],
+    "path": ["Naw‑Rúz 2001, Century of Light"],
     "item": 1,
     "title": "Foreword",
     "author": "The Universal House of Justice",
-    "years": [2001, 2001],
+    "years": [2001.0321, 2001.0321],
     "epoch": "Fourth Epoch",
     "paragraphs": [
       {
@@ -16,11 +16,11 @@
     ]
   },
   {
-    "path": ["Century of Light"],
+    "path": ["Naw‑Rúz 2001, Century of Light"],
     "item": 2,
-    "title": "Century of Light",
+    "title": "Naw‑Rúz 2001, Century of Light",
     "author": "Commissioned by the Universal House of Justice",
-    "years": [2001, 2001],
+    "years": [2001.0321, 2001.0321],
     "epoch": "Fourth Epoch",
     "paragraphs": [
       {

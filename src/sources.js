@@ -2140,7 +2140,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       ["and with their full support", "and with their full support."],
       [
         "THE INSTITUTION OF THE COUNSELLORS",
-        "The Institution of the Counsellors",
+        "1 January 2001, The Institution of the Counsellors",
       ],
       ["INTRODUCTION", "# Introduction"],
       [
@@ -2151,9 +2151,9 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         "SOME SPECIFIC ASPECTS OF THE FUNCTIONING OF THE INSTITUTION",
         "# Some Specific Aspects of the Functioning of the Institution",
       ],
-      title("", "The Institution of the Counsellors", {
+      title("", "1 January 2001, The Institution of the Counsellors", {
         author: "The Universal House of Justice",
-        years: [2001, 2001],
+        years: [2001.0101, 2001.0101],
       }),
       [/^[A-Z].*[a-z]$/gm, (a) => `## ${a}`],
       ["## The Institution", "The Institution"],
@@ -2359,7 +2359,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       [/summary="Riḍván.*/gm, ""],
       [
         /^SOCIAL ACTION\n\n.*\n\n.*/m,
-        '# Social Action\nauthor="The Office of Social and Economic Development"\nyears=[2012.1126,2012.1126]',
+        '# 26 November 2012, Social Action\nauthor="The Office of Social and Economic Development"\nyears=[2012.1126,2012.1126]',
       ],
       [/^A CODIFICATION OF THE[\s\S]*?(# Letter dated 24)/m, (_, a) => a],
       [/^## A Codification of[\s\S]*?(## The Development of)/m, (_, a) => a],
@@ -2436,27 +2436,31 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
         years: [1996, 2006],
         collection: true,
       }),
-      title("#", "Global Plans: Fundamental Concepts", {
-        author: "Ad Hoc Committee at the Bahá’í World Centre",
+      [
+        "Global Plans: Fundamental Concepts",
+        "29 October 2005, Global Plans: Fundamental Concepts",
+      ],
+      title("#", "29 October 2005, Global Plans: Fundamental Concepts", {
+        author: "The World Centre",
         years: [2005.1029, 2005.1029],
       }),
       title("#", "Additional Documents", { collection: true }),
       [/^— .* —$\n\n/gm, "## "],
       [
         "## Training Institutes",
-        `## Training Institutes\nauthor="Commissioned by the Universal House of Justice"\nyears=[1998.0401,1998.0401]`,
+        `## April 1998, Training Institutes\nauthor="Commissioned by the Universal House of Justice"\nyears=[1998.0401,1998.0401]`,
       ],
       [
         "## Training Institutes and Systematic Growth",
-        `## Training Institutes and Systematic Growth\nauthor="The International Teaching Centre"\nyears=[2000.0201,2000.0201]`,
+        `## February 2000, Training Institutes and Systematic Growth\nauthor="The International Teaching Centre"\nyears=[2000.0201,2000.0201]`,
       ],
       [
         "## Building Momentum A Coherent Approach to Growth",
-        `## Building Momentum: A Coherent Approach to Growth\nauthor="The International Teaching Centre"\nyears=[2003.0401,2003.0401]`,
+        `## April 2003, Building Momentum: A Coherent Approach to Growth\nauthor="The International Teaching Centre"\nyears=[2003.0401,2003.0401]`,
       ],
       [
         "## Impact of Growth on Administration Processes",
-        `## Impact of Growth on Administration Processes\nauthor="The International Teaching Centre"\nyears=[2005.0701,2005.0701]`,
+        `## July 2005, Impact of Growth on Administration Processes\nauthor="The International Teaching Centre"\nyears=[2005.0701,2005.0701]`,
       ],
       [/^a document.*\n\n.*/gm, ""],
       [
@@ -2528,11 +2532,11 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       removeAfter("Notes"),
       title("", "Bahá’u’lláh", {
         author: "Commissioned by the Universal House of Justice",
-        years: [1992, 1992],
+        years: [1992.0529, 1992.0529],
       }),
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `# ${a}`],
       [/^“.{0,80}”$/gm, (a) => `# ${a}`],
-      ["# Bahá’u’lláh", "Bahá’u’lláh"],
+      ["# Bahá’u’lláh", "29 May 1992, Bahá’u’lláh"],
       [
         "every man may testify, in himself, by himself, in the station of the Manifestation of his Lord, that verily there is no God save Him, and that every man may thereby win his way to the summit of realities, until none shall contemplate anything whatsoever but that he shall see God therein.",
         "every man may testify, in himself and by himself, before the Seat of the revelation of his Lord, that there is none other God but Him; and that all may reach that summit of realities where none shall contemplate anything but that he shall perceive God therein.",
@@ -2550,10 +2554,11 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       removeAfter("Notes"),
       title("", "Century of Light", {
         author: "Commissioned by the Universal House of Justice",
-        years: [2001, 2001],
+        years: [2001.0321, 2001.0321],
         collection: true,
       }),
-      [/\n^Century of Light$/m, "\n# Century of Light"],
+      ["Century of Light", "Naw‑Rúz 2001, Century of Light"],
+      [/\n^Century of Light$/m, "\n# Naw‑Rúz 2001, Century of Light"],
       title("#", "Foreword", { author: "The Universal House of Justice" }),
       [/^[A-Z]{1,5}$/gm, "***"],
       [
@@ -2574,19 +2579,24 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       removeAfter("References"),
       title("", "One Common Faith", {
         author: "Commissioned by the Universal House of Justice",
-        years: [2005, 2005],
+        years: [2005.0321, 2005.0321],
         collection: true,
       }),
+      ["One Common Faith", "Naw‑Rúz 2005, One Common Faith"],
       title("#", "Foreword", { author: "The Universal House of Justice" }),
-      ["\nOne Common Faith", "\n# One Common Faith"],
+      ["\nOne Common Faith", "\n# Naw‑Rúz 2005, One Common Faith"],
     ],
     "prosperity-humankind": [
       [/^A statement prepared by the Bahá’í.*/m, ""],
       removeAfter("This document has been downloaded"),
       title("", "The Prosperity of Humankind", {
         author: "Bahá’í International Community",
-        years: [1995, 1995],
+        years: [1995.0303, 1995.0303],
       }),
+      [
+        "The Prosperity of Humankind",
+        "3 March 1995, The Prosperity of Humankind",
+      ],
       [/^[A-Z]{1,5}$/gm, "***"],
       ["collective coming‑ of‑age", "collective coming‑of‑age"],
       ["thought. May each morn", "thought. Let each morn"],
@@ -2603,8 +2613,12 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       ],
       title("", "Turning Point for All Nations", {
         author: "Bahá’í International Community",
-        years: [1995, 1995],
+        years: [1995.1001, 1995.1001],
       }),
+      [
+        "Turning Point for All Nations",
+        "1 October 1995, Turning Point for All Nations",
+      ],
       [/^[IV]{1,5}\. (.*)$/gm, (_, a) => `# ${a}`],
       [/^[A-D]{1,5}\. (.*)$/gm, (_, a) => `## ${a}`],
       [/^\d+\. (.*)$/gm, (_, a) => `### ${a}`],

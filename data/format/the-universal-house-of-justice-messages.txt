@@ -2073,7 +2073,7 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# Social Action
+# 26 November 2012, Social Action
 author="The Office of Social and Economic Development"
 years=[2012.1126,2012.1126]
 

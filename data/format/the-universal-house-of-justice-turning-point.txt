@@ -3,8 +3,8 @@ author="Palabra Publications"
 years=[1996,2006]
 collection
 
-# Global Plans: Fundamental Concepts
-author="Ad Hoc Committee at the Bahá’í World Centre"
+# 29 October 2005, Global Plans: Fundamental Concepts
+author="The World Centre"
 years=[2005.1029,2005.1029]
 
 A number of concepts are integral to understanding the recent global Plans of the Faith, and Part II consists of a document dated 29 October 2005 prepared by an ad hoc committee for a workshop presented as part of the Serving the Divine Plan Programme at the Bahá’í World Centre. In the document, passages from letters written by or on behalf of the Guardian and the Universal House of Justice are used to explore a few of the most essential concepts such as advancing the process of entry by troops, two essential movements, and learning in action. The document also explores areas in which significant learning has taken place within the Bahá’í community from the start of the Four Year Plan at Riḍván 1996, through the Twelve Month and Five Year Plans, until the end of 2005, when the provisions of a new global enterprise were announced by the Universal House of Justice.
@@ -694,7 +694,7 @@ collection
 
 In its message dated 27 December 2005, the Universal House of Justice indicated that, with the launch of the Four Year Plan at Riḍván 1996, the Bahá’í world set out on “a path of intense learning about the sustained, rapid growth of the Faith.” At different points along the way since then, effort has been made at the international level of the community to distil the learning taking place at the grassroots and to diffuse the knowledge thus acquired in documents widely circulated to the friends. Part III includes four documents of this kind. The first, entitled “Training Institutes,” was prepared for and approved by the Universal House of Justice in 1998. The next two, both similar to the first, were written by the International Teaching Centre at the instruction of the House of Justice. “Training Institutes and Systematic Growth” was released in 2000 and “Building Momentum: A Coherent Approach to Growth” in 2003. The final document presents an analysis by the Teaching Centre of the experience of the Bahá’í world in meeting the administrative challenges associated with large‑scale expansion. Entitled “Impact of Growth on Administration Processes,” it was prepared in July 2005.
 
-## Training Institutes
+## April 1998, Training Institutes
 author="Commissioned by the Universal House of Justice"
 years=[1998.0401,1998.0401]
 
@@ -864,7 +864,7 @@ For a number of years, the International Teaching Centre has promoted projects o
 
 The tasks before the Counsellors and the National Spiritual Assemblies are multiple and urgent. On the one hand, they will continue to strengthen the institutes and ensure that an increasing number of believers benefit from their programmes. On the other, they will support and encourage the friends in their individual teaching endeavours, assist Local Spiritual Assemblies in executing teaching plans, and establish long‑term teaching projects in region after region. All the necessary elements are in place. The stage is set. There is every reason to believe that the combined effect of all these efforts will lead to the fulfilment of the major thrust of the Four Year Plan.
 
-## Training Institutes and Systematic Growth
+## February 2000, Training Institutes and Systematic Growth
 author="The International Teaching Centre"
 years=[2000.0201,2000.0201]
 
@@ -1100,7 +1100,7 @@ In conclusion, it might be said that the “dynamic state of transformation” r
 
 The learning that has taken place about the systematic development of human resources will now be extended to the process of learning about the systematisation of teaching. Through the implementation of Area Growth Programmes around the world a new body of experience will emerge that will inform our approach to teaching and our strategies about growth for the next two decades. These efforts at systematic and unabated action represent the deep desire and commitment of every Bahá’í “to fulfil the intentions of a Plan whose major aim is to accelerate that process which will make it possible for growing numbers of the world’s people to find the Object of their quest and thus to build a united, peaceful and prosperous life.”
 
-## Building Momentum: A Coherent Approach to Growth
+## April 2003, Building Momentum: A Coherent Approach to Growth
 author="The International Teaching Centre"
 years=[2003.0401,2003.0401]
 
@@ -1432,7 +1432,7 @@ Not everyone learns or responds at the same rate but the path to Him is wide eno
 
 Bahá’ís everywhere are also acutely aware that events outside the Faith are serving, as the Universal House of Justice wrote, “to awaken in the hearts of those who share this planet with us a longing for unity and justice that can be met only by the Cause of God.” All of the plans, campaigns, and reflection meetings are aimed at finding ways to share the Divine Message with the waiting masses. Above all, the friends should be encouraged to remember Bahá’u’lláh’s call “This is the day in which to speak,” and ‘Abdu’l‑Bahá’s exhortation that we “should strive with our whole hearts to offer ourselves up, guide others to His path, and train the souls of men.”
 
-## Impact of Growth on Administration Processes
+## July 2005, Impact of Growth on Administration Processes
 author="The International Teaching Centre"
 years=[2005.0701,2005.0701]
 

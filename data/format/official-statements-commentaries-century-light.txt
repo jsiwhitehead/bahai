@@ -1,6 +1,6 @@
-Century of Light
+Naw‑Rúz 2001, Century of Light
 author="Commissioned by the Universal House of Justice"
-years=[2001,2001]
+years=[2001.0321,2001.0321]
 collection
 
 # Foreword
@@ -10,7 +10,7 @@ The conclusion of the twentieth century provides Bahá’ís with a unique vanta
 
 Century of Light, prepared under our supervision, reviews these two processes and the relationship between them, in the context of the Bahá’í Teachings. We commend it to the thoughtful study of the friends, in the confidence that the perspectives it opens up will prove both spiritually enriching and of practical help in sharing with others the challenging implications of the Revelation brought by Bahá’u’lláh.
 
-# Century of Light
+# Naw‑Rúz 2001, Century of Light
 
 The twentieth century, the most turbulent in the history of the human race, has reached its end. Dismayed by the deepening moral and social chaos that marked its course, the generality of the world’s peoples are eager to leave behind them the memories of the suffering that these decades brought with them. No matter how frail the foundations of confidence in the future may seem, no matter how great the dangers looming on the horizon, humanity appears desperate to believe that, through some fortuitous conjunction of circumstances, it will nevertheless be possible to bend the conditions of human life into conformity with prevailing human desires.
 

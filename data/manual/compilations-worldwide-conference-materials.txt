@@ -1,5 +1,5 @@
 Worldwide Conference Materials
-author="The World Centre"
+author="Compilation"
 years=[2022.0121,2022.0121]
 
 # Bahá’u’lláh’s vision for humanity

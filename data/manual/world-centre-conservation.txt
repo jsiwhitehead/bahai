@@ -1,4 +1,4 @@
-Conservation of the Earth’s Resources
+July 1989, Conservation of the Earth’s Resources
 author="The World Centre"
 years=[1989.0701,1989.0701]
 

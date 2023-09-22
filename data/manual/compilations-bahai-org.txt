@@ -1,5 +1,5 @@
 Bahá’í.org
-author="The World Centre"
+author="Compilation"
 years=[2022, 2022]
 
 # Bahá’u’lláh and His Covenant
