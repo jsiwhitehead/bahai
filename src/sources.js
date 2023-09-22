@@ -3171,10 +3171,6 @@ Now, observe that these events did not take place in the Christian Dispensation,
       title("#", "The Power of Example"),
       [/^[A-Z].{0,80}[a-z]$/gm, (a) => `## ${a}`],
       ["## A Chaste and Holy Life", "A Chaste and Holy Life"],
-      [
-        "We have permitted you to listen to music and singing. Beware lest such listening cause you to transgress the bounds of decency and dignity. Rejoice in the joy of My Most Great Name through which the hearts are enchanted and the minds of the well‑favoured are attracted.",
-        "We have made it lawful for you to listen to music and singing. Take heed, however, lest listening thereto should cause you to overstep the bounds of propriety and dignity. Let your joy be the joy born of My Most Great Name, a Name that bringeth rapture to the heart, and filleth with ecstasy the minds of all who have drawn nigh unto God.",
-      ],
       ["Such an one, indeed, is the", "Such a one, indeed, is the"],
     ],
     "codification-law-huququllah": [
@@ -3665,6 +3661,60 @@ Know, therefore, that what the people possess and believe to be true is liable t
 
 But the grace of the Holy Spirit is the true criterion regarding which there is no doubt or uncertainty. That grace consists in the confirmations of the Holy Spirit which are vouchsafed to man and through which certitude is attained.`,
       ],
+    ],
+    "set-world-order": [
+      removeAfter("Notes"),
+      ["A Compilation Prepared by the Research Department", ""],
+      ["of the Universal House of Justice", ""],
+      ["August 2023", ""],
+      [/^\(.*/gm, ""],
+      title(
+        "",
+        "To Set the World in Order: Building and Preserving Strong Marriages",
+        {
+          author: "Compilation",
+          years: [2023.0801, 2023.0801],
+        }
+      ),
+      prefix("The Cause of Unity", "# "),
+      prefix("Creating Families that Illuminate the World", "# "),
+      prefix(
+        "The Ideal Milieu for Learning the Principles of Consultation",
+        "# "
+      ),
+      prefix("Addressing Challenges", "# "),
+      title("#", "Prayers", {
+        type: "Prayer",
+        collection: true,
+      }),
+      prefix(/^Praised be God, Who hath/gm, '\n\n#\nauthor="Bahá’u’lláh"\n\n'),
+      prefix(/^He is God!/gm, '\n\n#\nauthor="‘Abdu’l‑Bahá"\n\n'),
+      prefix(
+        /^O my Lord, O my Lord! These two bright/gm,
+        '\n\n#\nauthor="‘Abdu’l‑Bahá"\n\n'
+      ),
+      prefix(
+        /^O God, my God! Join in accord/gm,
+        '\n\n#\nauthor="‘Abdu’l‑Bahá"\n\n'
+      ),
+      prefix(
+        /^Praise be unto God Who hath adorned/gm,
+        '\n\n#\nauthor="‘Abdu’l‑Bahá"\n\n'
+      ),
+      prefix(/^O my Lord and my Hope!/gm, '\n\n#\nauthor="‘Abdu’l‑Bahá"\n\n'),
+      prefix(
+        /^Grant, O my Lord, that this marriage/gm,
+        '\n\n#\nauthor="‘Abdu’l‑Bahá"\n\n'
+      ),
+      prefix(/^He is the All‑Glorious\./gm, '\n\n#\nauthor="‘Abdu’l‑Bahá"\n\n'),
+      prefix(
+        /^O Lord, make Thou this marriage/gm,
+        '\n\n#\nauthor="‘Abdu’l‑Bahá"\n\n'
+      ),
+      prefix(
+        /^O Lord! Grant that this marriage/gm,
+        '\n\n#\nauthor="‘Abdu’l‑Bahá"\n\n'
+      ),
     ],
     "significance-formative-age-our-faith": [
       removeAfter("Notes"),
