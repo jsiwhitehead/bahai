@@ -599,7 +599,8 @@ export const files = {
       removeAfter("This document has been downloaded"),
       ["Translated By Shoghi Effendi", ""],
       [/^— .* —$/gm, "#"],
-      title("", "Gleanings from the Writings of Bahá’u’lláh", {
+      ["Gleanings from the Writings of Bahá’u’lláh", "Gleanings"],
+      title("", "Gleanings", {
         author: "Bahá’u’lláh",
         years: authorYears["Bahá’u’lláh"],
         collection: true,
@@ -935,15 +936,15 @@ export const files = {
     ],
     "additional-tablets-extracts-from-tablets-revealed-bahaullah": [
       removeAfter("This document has been downloaded"),
-      title(
-        "",
+      [
         "Additional Tablets and Extracts from Tablets Revealed by Bahá’u’lláh",
-        {
-          author: "Bahá’u’lláh",
-          years: authorYears["Bahá’u’lláh"],
-          collection: true,
-        }
-      ),
+        "Additional Tablets and Extracts",
+      ],
+      title("", "Additional Tablets and Extracts", {
+        author: "Bahá’u’lláh",
+        years: authorYears["Bahá’u’lláh"],
+        collection: true,
+      }),
       [/^—Bahá’u’lláh$/gm, ""],
       [/^Bahá’u’lláh states in another Tablet.*/m, ""],
       [/^In a Tablet Bahá’u’lláh states.*/m, ""],
@@ -1133,11 +1134,8 @@ export const files = {
       [/^A Tablet of ‘Abdu’l‑Bahá chanted by Him, the recording.*/m, ""],
       [/^Marzieh Gail’s translation, published in Memorials.*/m, ""],
       [/^Matthew Henry and Thomas Scott, authors of The Comprehensive.*/m, ""],
-      [/^.*of ‘Abdu’l‑Bahá$/gm, (a) => `# ${a}`],
-      [
-        /^O physician of the body and the spirit!/m,
-        (a) => `# A Tablet of ‘Abdu’l‑Bahá\n\n${a}`,
-      ],
+      [/^.*of ‘Abdu’l‑Bahá$/gm, () => "#"],
+      [/^O physician of the body and the spirit!/m, (a) => `#\n\n${a}`],
       [
         /^Phoenix of Truth! For thee[\s\S]*Mount Qáf thou’rt returned!$/gm,
         (s) =>
@@ -1280,8 +1278,15 @@ export const files = {
         years: [1912, 1912],
         collection: true,
       }),
-      [/^— .* —$\n\n(.*)\n\n(.*)/gm, (_, a, b) => `## ${b}\n\n${a}`],
-      [/^(Talk.*)$\n\n(.*)/gm, (_, a, b) => `# ${a} (${b})\ncollection`],
+      [
+        /^— .* —$\n\n(.*)\n\n(.*)\n\n(.*[^\.\n]$)?/gm,
+        (_1, a, b, _2) => `## ${a}\nsummary="${b}"\n\n`,
+      ],
+      [
+        /^(Talk.*)$\n\n(.*)/gm,
+        (_, a, b) =>
+          `# ${a.slice(31).trim()}, ${b.replace(" ‑ ", "‑")}\ncollection`,
+      ],
       [
         `In the beginning of his human life man was embryonic in the world of the matrix. There he received capacity and endowment for the reality of human existence. The forces and powers necessary for this world were bestowed upon him in that limited condition. In this world he needed eyes; he received them potentially in the other. He needed ears; he obtained them there in readiness and preparation for his new existence. The powers requisite in this world were conferred upon him in the world of the matrix so that when he entered this realm of real existence he not only possessed all necessary functions and powers but found provision for his material sustenance awaiting him.
 
@@ -1367,7 +1372,8 @@ It followeth that in this world too he must prepare for the world beyond. That w
       ["References to the Qur’án", ""],
       [/^In footnotes referring to the Qur’án.*/m, ""],
       removeAfter("Notes on Translations"),
-      title("", "Selections from the Writings of ‘Abdu’l‑Bahá", {
+      ["Selections from the Writings of ‘Abdu’l‑Bahá", "Selections"],
+      title("", "Selections", {
         author: "‘Abdu’l‑Bahá",
         years: authorYears["‘Abdu’l‑Bahá"],
         collection: true,
@@ -1378,7 +1384,7 @@ It followeth that in this world too he must prepare for the world beyond. That w
       }),
       [
         "\nSelections from the Writings of ‘Abdu’l‑Bahá",
-        "\n# Selections from the Writings of ‘Abdu’l‑Bahá\ncollection",
+        "\n# Selections\ncollection",
       ],
       [/^— .* —$/gm, "#"],
       [
@@ -1525,7 +1531,8 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       removeAfter("Notes"),
       [/^17 December 1919$/m, ""],
       [/^1 July 1920$/m, ""],
-      title("", "‘Abdu’l‑Bahá’s Tablets to The Hague", {
+      ["‘Abdu’l‑Bahá’s Tablets to The Hague", "Tablets to The Hague"],
+      title("", "Tablets to The Hague", {
         author: "‘Abdu’l‑Bahá",
         years: [1919, 1920],
         collection: true,
@@ -1691,7 +1698,11 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
     ],
     "twelve-table-talks-abdul-baha": [
       removeAfter("Notes"),
-      title("", "Twelve Table Talks given by ‘Abdu’l‑Bahá in ‘Akká", {
+      [
+        "Twelve Table Talks given by ‘Abdu’l‑Bahá in ‘Akká",
+        "Twelve Table Talks in ‘Akká",
+      ],
+      title("", "Twelve Table Talks in ‘Akká", {
         author: "‘Abdu’l‑Bahá",
         years: [1904, 1907],
         collection: true,

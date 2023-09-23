@@ -157,6 +157,7 @@ const process = (source, id) => {
         "The Office of Social and Economic Development",
         "Bahá’í International Community",
         "The World Centre",
+        "Compilation",
       ].includes(d.author)
     ) {
       const midYears = (d.years[0] + d.years[1]) / 2;

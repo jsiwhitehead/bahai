@@ -1,4 +1,4 @@
-Selections from the Writings of ‘Abdu’l‑Bahá
+Selections
 author="‘Abdu’l‑Bahá"
 years=[1892,1921]
 collection
@@ -15,7 +15,7 @@ The happy and blessed recipients of the vast majority of the Tablets here includ
 
 It is believed that publication of these writings of the Master’s will serve to increase the fervour of His lovers in responding to His call and add to their perception of that wondrous harmony of the human and divine which He, the Mystery of God, so perfectly exemplified.
 
-# Selections from the Writings of ‘Abdu’l‑Bahá
+# Selections
 collection
 
 #
