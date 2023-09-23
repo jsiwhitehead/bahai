@@ -168,8 +168,10 @@ const documents = (
     }
     return a.years[0] - b.years[0] || a.id.localeCompare(b.id);
   });
-// .filter((d) =>
-//   ["Bahá’u’lláh", "‘Abdu’l‑Bahá", "Shoghi Effendi"].includes(d.author)
+// .filter(
+//   (d) =>
+//     ["‘Abdu’l‑Bahá"].includes(d.author) ||
+//     d.id === "the-universal-house-of-justice-messages-484"
 // );
 
 const findSource = (doc, simplified, parts) => {
@@ -234,6 +236,9 @@ const textToChunks = (doc, paraIndex, splitText, min, inline) => {
   const chunks = splitText.map((t) => {
     const parts = t.split(/(\s*(?:\[[^\]]*\])\s*)/g);
     const simplified = parts.map((s) => simplifyText(s));
+    // if (inline && doc.author === "The Universal House of Justice") {
+    //   console.log(parts);
+    // }
     if (simplified.join("").length > 0 && simplified.join("").length < min) {
       return { text: t, parts, simplified };
     }
@@ -289,7 +294,7 @@ for (const doc of documents) {
           para.text
             .replace(/^\. \. \. /, "")
             .replace(/ \. \. \.$/, "")
-            .split(/(‘(?:’[a-z\u00C0-\u017F]|[^’])+’|“[^”]+”)/g)
+            .split(/(‘(?:’[a-z\u00C0-\u017F]|[^’“])+’|“[^”]+”)/g)
             .reduce(
               (res, t, i) => {
                 if (i % 2 === 0) {
@@ -425,7 +430,7 @@ const processInlineQuotes = (doc) => {
         const joins = [""];
         const quotes = [];
         para.text
-          .split(/(‘(?:’[a-z\u00C0-\u017F]|[^’])+’|“[^”]+”)/g)
+          .split(/(‘(?:’[a-z\u00C0-\u017F]|[^’“])+’|“[^”]+”)/g)
           .forEach((t, i) => {
             if (
               i % 2 === 0 ||
