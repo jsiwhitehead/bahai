@@ -1,6 +1,7 @@
-9 August 1984, Bahá’í scholarship: importance, nature, and promotion of
+Bahá’í scholarship: importance, nature, and promotion of
 author="The International Teaching Centre"
 years=[1984.0809,1984.0809]
+date="9 August 1984"
 
 * To All Counsellors
 

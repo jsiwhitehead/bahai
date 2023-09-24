@@ -1,6 +1,7 @@
-26 November 1972, The Constitution of the Universal House of Justice
+The Constitution of the Universal House of Justice
 author="The Universal House of Justice"
 years=[1972.1126,1972.1126]
+date="26 November 1972"
 
 ^ IN THE NAME OF GOD, THE ONE, THE INCOMPARABLE, THE ALL‑POWERFUL, THE ALL‑KNOWING, THE ALL‑WISE.
 

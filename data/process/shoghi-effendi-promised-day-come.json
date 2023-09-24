@@ -1,12 +1,14 @@
 [
   {
     "path": [],
-    "title": "28 March 1941, The Promised Day Is Come",
+    "title": "The Promised Day Is Come",
     "author": "Shoghi Effendi",
     "years": [1941, 1941],
+    "date": "28 March 1941",
     "epoch": "First Epoch",
     "paragraphs": [
       {
+        "type": "info",
         "text": "Friends and fellow‑heirs of the Kingdom of Bahá’u’lláh:"
       },
       {

@@ -933,6 +933,10 @@ export const files = {
         /^All praise be to Thee, O my God, inasmuch/m,
         "* He is the Eternal, the One, the Single, the All‑Possessing, the Most Exalted.\n\n"
       ),
+      [/^(This is the [CEM].*)\n+(.*)/gm, (_, a, b) => `* ${a}\n\n^ ${b}`],
+      [/"\n+([A-Z].{0,120})$/gm, (_, s) => `"\n\n^ ${s}`],
+      [/\*\*\*\n+(.*)\n+\*\*\*/g, (_, s) => `* ${s}`],
+      prefix(/^He is God, exalted is He/m, "^ "),
     ],
     "additional-tablets-extracts-from-tablets-revealed-bahaullah": [
       removeAfter("This document has been downloaded"),
@@ -1184,6 +1188,18 @@ export const files = {
             .map((a) => `> ${a}`)
             .join("\n"),
       ],
+      [
+        /#\n+[A-ZṬ].{0,120}[^:\n](\n+[A-Z].{0,120})*$/gm,
+        (s) =>
+          s
+            .split(/\n+/g)
+            .map((t, i) => (i === 0 ? t : `^ ${t}`))
+            .join("\n\n"),
+      ],
+      prefix(/^The Lamp of the assemblage/m, "^ "),
+      prefix(/^A prayer beseeching forgiveness/m, "^ "),
+      prefix(/^He is God/gm, "^ "),
+      ["^ Seize thy chance", "Seize thy chance"],
     ],
     "light-of-the-world": [
       [
@@ -1239,6 +1255,7 @@ export const files = {
       splitLines(/To speak of the subtleties of.*/m, "Is like plucking the"),
       ["early dawn! The Glory", "early dawn!\n\nThe Glory"],
       splitLines(/Await the break of His sovereign.*/m, "These are but"),
+      [/#\n+([A-Z].{0,120})$/gm, (_, s) => `#\n\n^ ${s}`],
     ],
     "memorials-faithful": [
       ["by ‘Abdu’l‑Bahá", ""],
@@ -1539,6 +1556,8 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       }),
       title("#", "First Tablet to The Hague"),
       title("#", "Second Tablet to The Hague"),
+      prefix(/^O ye esteemed /m, "* "),
+      prefix(/^To the /m, "* "),
     ],
     "travelers-narrative": [
       ["Written to Illustrate the Episode of the Báb", ""],
@@ -1718,6 +1737,9 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       title("#", "Part One"),
       title("#", "Part Two"),
       title("#", "Part Three"),
+      prefix(/^Herein Follow the Tablets/m, "^ "),
+      prefix(/^He Is God/m, "^ "),
+      prefix(/^He Is the Witness/m, "^ "),
       ["of the slanderer affect not", "of the slanderer affects not"],
       ["flight into the Celestial", "flight unto the Celestial"],
       ["guidance of the Exalted", "guidance of His Holiness, the Exalted"],
@@ -1774,11 +1796,10 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       title("", "The Advent of Divine Justice", {
         author: "Shoghi Effendi",
         years: [1938, 1938],
+        date: "25 December 1938",
       }),
-      [
-        "The Advent of Divine Justice",
-        "25 December 1938, The Advent of Divine Justice",
-      ],
+      prefix(/^To the beloved of God and/m, "* "),
+      prefix(/^Best‑beloved brothers and/m, "* "),
       prefix(/^Dearly beloved friends! Great as is my love/m, "\n\n***\n\n"),
       prefix(/^Dearly beloved friends! I have attempted/m, "\n\n***\n\n"),
       prefix(/^Such, dearly beloved friends, is the vista/m, "\n\n***\n\n"),
@@ -1914,6 +1935,8 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       [/^.*19\d\d\.?\n+#/gm, "#"],
       [/^.*19\d\d\.?\n+P\.S\./gm, "P.S."],
       ["April 11, 1933.", ""],
+      [/\]\n+(T.*)\n+(.*)/g, (_, a, b) => `]\n\n* ${a}\n\n* ${b}`],
+      [/\]\n+([A-Z].*)/g, (_, a) => `]\n\n* ${a}`],
       ["be offered for His loved ones", "be offered up for His loved ones"],
       ["stronghold of Thy Cause", "stronghold of Thy care"],
       ["days and night in promoting", "days and nights in promoting"],
@@ -2012,9 +2035,11 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       title("", "The Promised Day Is Come", {
         author: "Shoghi Effendi",
         years: [1941, 1941],
+        date: "28 March 1941",
       }),
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `# ${a}`],
-      ["# The Promised Day Is Come", "28 March 1941, The Promised Day Is Come"],
+      ["# The Promised Day Is Come", "The Promised Day Is Come"],
+      prefix(/^Friends and fellow‑heirs/m, "* "),
       [
         "“Movements,” is the warning sounded by ‘Abdu’l‑Bahá, “newly born and worldwide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“Modern universal movements,” is the warning sounded by ‘Abdu’l‑Bahá, “will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
@@ -2055,6 +2080,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
           )}"${b || ""}`;
         },
       ],
+      prefix(/^Message to/gm, "* "),
       ["hope which ‘Abdu’l‑Bahá", "hope, therefore, which ‘Abdu’l‑Bahá"],
     ],
     "world-order-bahaullah": [
@@ -2076,27 +2102,27 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       title("", "#", { author: "Bahá’u’lláh", years: [1873, 1873] }),
       [
         "\nThe World Order of Bahá’u’lláh",
-        "\n# 27 February 1929, The World Order of Bahá’u’lláh",
+        '\n# The World Order of Bahá’u’lláh\ndate="27 February 1929"',
       ],
       [
         "\nThe World Order of Bahá’u’lláh: Further Considerations",
-        "\n# 21 March 1930, The World Order of Bahá’u’lláh: Further Considerations",
+        '\n# The World Order of Bahá’u’lláh: Further Considerations\ndate="21 March 1930"',
       ],
       [
         "\nThe Goal of a New World Order",
-        "\n# 28 November 1931, The Goal of a New World Order",
+        '\n# The Goal of a New World Order\ndate="28 November 1931"',
       ],
       [
         "\nThe Golden Age of the Cause of Bahá’u’lláh",
-        "\n# 21 March 1932, The Golden Age of the Cause of Bahá’u’lláh",
+        '\n# The Golden Age of the Cause of Bahá’u’lláh\ndate="21 March 1932"',
       ],
       [
         "\nAmerica and the Most Great Peace",
-        "\n# 21 April 1933, America and the Most Great Peace",
+        '\n# America and the Most Great Peace\ndate="21 April 1933"',
       ],
       [
         "\nThe Dispensation of Bahá’u’lláh",
-        "\n# 8 February 1934, The Dispensation of Bahá’u’lláh",
+        '\n# The Dispensation of Bahá’u’lláh\ndate="8 February 1934"',
       ],
       title("##", "Bahá’u’lláh"),
       title("##", "The Báb"),
@@ -2104,12 +2130,15 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       title("##", "The Administrative Order"),
       [
         "\nThe Unfoldment of World Civilisation",
-        "\n# 11 March 1936, The Unfoldment of World Civilisation",
+        '\n# The Unfoldment of World Civilisation\ndate="11 March 1936"',
       ],
       [/^[A-Z].{1,80}[a-z]$/gm, (a) => `## ${a}`],
       ["## The World Order of Bahá’u’lláh", "The World Order of Bahá’u’lláh"],
       [/^.*19\d\d\.?\n+#/gm, "#"],
       ["March 11, 1936.", ""],
+      [/"\n+(T.*)\n+(.*)/g, (_, a, b) => `"\n\n* ${a}\n\n* ${b}`],
+      [/^(To the beloved.*)\n+(.*)/m, (_, a, b) => `* ${a}\n\n* ${b}`],
+      prefix(/^Fellow‑believers in/m, "* "),
       [
         "“The ills from which the world now suffers,” wrote ‘Abdu’l‑Bahá in January, 1920, “will multiply; the gloom which envelops it will deepen. The Balkans will remain discontented. Its restlessness will increase. The vanquished Powers will continue to agitate. They will resort to every measure that may rekindle the flame of war. Movements, newly‑born and world‑wide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“This darkness,” wrote ‘Abdu’l‑Bahá in January, 1920, “shall never vanish, these chronic diseases shall never be healed; nay, they shall grow fiercer from day to day. The Balkans will remain restless, and its condition will aggravate. The vanquished will not keep still, but will seize every means to kindle anew the flame of war. Modern universal movements will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
@@ -2155,7 +2184,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       ["and with their full support", "and with their full support."],
       [
         "THE INSTITUTION OF THE COUNSELLORS",
-        "1 January 2001, The Institution of the Counsellors",
+        "The Institution of the Counsellors",
       ],
       ["INTRODUCTION", "# Introduction"],
       [
@@ -2166,9 +2195,10 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         "SOME SPECIFIC ASPECTS OF THE FUNCTIONING OF THE INSTITUTION",
         "# Some Specific Aspects of the Functioning of the Institution",
       ],
-      title("", "1 January 2001, The Institution of the Counsellors", {
+      title("", "The Institution of the Counsellors", {
         author: "The Universal House of Justice",
         years: [2001.0101, 2001.0101],
+        date: "1 January 2001",
       }),
       [/^[A-Z].*[a-z]$/gm, (a) => `## ${a}`],
       ["## The Institution", "The Institution"],
@@ -2374,7 +2404,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       [/summary="Riḍván.*/gm, ""],
       [
         /^SOCIAL ACTION\n\n.*\n\n.*/m,
-        '# 26 November 2012, Social Action\nauthor="The Office of Social and Economic Development"\nyears=[2012.1126,2012.1126]',
+        '# Social Action\nauthor="The Office of Social and Economic Development"\nyears=[2012.1126,2012.1126]\ndate="26 November 2012"',
       ],
       [/^A CODIFICATION OF THE[\s\S]*?(# Letter dated 24)/m, (_, a) => a],
       [/^## A Codification of[\s\S]*?(## The Development of)/m, (_, a) => a],
@@ -2451,31 +2481,28 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
         years: [1996, 2006],
         collection: true,
       }),
-      [
-        "Global Plans: Fundamental Concepts",
-        "29 October 2005, Global Plans: Fundamental Concepts",
-      ],
-      title("#", "29 October 2005, Global Plans: Fundamental Concepts", {
+      title("#", "Global Plans: Fundamental Concepts", {
         author: "The World Centre",
         years: [2005.1029, 2005.1029],
+        date: "29 October 2005",
       }),
       title("#", "Additional Documents", { collection: true }),
       [/^— .* —$\n\n/gm, "## "],
       [
         "## Training Institutes",
-        `## April 1998, Training Institutes\nauthor="Commissioned by the Universal House of Justice"\nyears=[1998.0401,1998.0401]`,
+        `## Training Institutes\nauthor="Commissioned by the Universal House of Justice"\nyears=[1998.0401,1998.0401]\ndate="April 1998"`,
       ],
       [
         "## Training Institutes and Systematic Growth",
-        `## February 2000, Training Institutes and Systematic Growth\nauthor="The International Teaching Centre"\nyears=[2000.0201,2000.0201]`,
+        `## Training Institutes and Systematic Growth\nauthor="The International Teaching Centre"\nyears=[2000.0201,2000.0201]\ndate="February 2000"`,
       ],
       [
         "## Building Momentum A Coherent Approach to Growth",
-        `## April 2003, Building Momentum: A Coherent Approach to Growth\nauthor="The International Teaching Centre"\nyears=[2003.0401,2003.0401]`,
+        `## Building Momentum: A Coherent Approach to Growth\nauthor="The International Teaching Centre"\nyears=[2003.0401,2003.0401]\ndate="April 2003"`,
       ],
       [
         "## Impact of Growth on Administration Processes",
-        `## July 2005, Impact of Growth on Administration Processes\nauthor="The International Teaching Centre"\nyears=[2005.0701,2005.0701]`,
+        `## Impact of Growth on Administration Processes\nauthor="The International Teaching Centre"\nyears=[2005.0701,2005.0701]\ndate="July 2005"`,
       ],
       [/^a document.*\n\n.*/gm, ""],
       [
@@ -2548,10 +2575,11 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       title("", "Bahá’u’lláh", {
         author: "Commissioned by the Universal House of Justice",
         years: [1992.0529, 1992.0529],
+        date: "29 May 1992",
       }),
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `# ${a}`],
       [/^“.{0,80}”$/gm, (a) => `# ${a}`],
-      ["# Bahá’u’lláh", "29 May 1992, Bahá’u’lláh"],
+      ["# Bahá’u’lláh", "Bahá’u’lláh"],
       [
         "every man may testify, in himself, by himself, in the station of the Manifestation of his Lord, that verily there is no God save Him, and that every man may thereby win his way to the summit of realities, until none shall contemplate anything whatsoever but that he shall see God therein.",
         "every man may testify, in himself and by himself, before the Seat of the revelation of his Lord, that there is none other God but Him; and that all may reach that summit of realities where none shall contemplate anything but that he shall perceive God therein.",
@@ -2570,10 +2598,10 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       title("", "Century of Light", {
         author: "Commissioned by the Universal House of Justice",
         years: [2001.0321, 2001.0321],
+        date: "Naw‑Rúz 2001",
         collection: true,
       }),
-      ["Century of Light", "Naw‑Rúz 2001, Century of Light"],
-      [/\n^Century of Light$/m, "\n# Naw‑Rúz 2001, Century of Light"],
+      [/\n^Century of Light$/m, "\n# Century of Light"],
       title("#", "Foreword", { author: "The Universal House of Justice" }),
       [/^[A-Z]{1,5}$/gm, "***"],
       [
@@ -2595,11 +2623,11 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       title("", "One Common Faith", {
         author: "Commissioned by the Universal House of Justice",
         years: [2005.0321, 2005.0321],
+        date: "Naw‑Rúz 2005",
         collection: true,
       }),
-      ["One Common Faith", "Naw‑Rúz 2005, One Common Faith"],
       title("#", "Foreword", { author: "The Universal House of Justice" }),
-      ["\nOne Common Faith", "\n# Naw‑Rúz 2005, One Common Faith"],
+      ["\nOne Common Faith", "\n# One Common Faith"],
     ],
     "prosperity-humankind": [
       [/^A statement prepared by the Bahá’í.*/m, ""],
@@ -2607,11 +2635,8 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       title("", "The Prosperity of Humankind", {
         author: "Bahá’í International Community",
         years: [1995.0303, 1995.0303],
+        date: "3 March 1995",
       }),
-      [
-        "The Prosperity of Humankind",
-        "3 March 1995, The Prosperity of Humankind",
-      ],
       [/^[A-Z]{1,5}$/gm, "***"],
       ["collective coming‑ of‑age", "collective coming‑of‑age"],
       ["thought. May each morn", "thought. Let each morn"],
@@ -2629,11 +2654,8 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       title("", "Turning Point for All Nations", {
         author: "Bahá’í International Community",
         years: [1995.1001, 1995.1001],
+        date: "1 October 1995",
       }),
-      [
-        "Turning Point for All Nations",
-        "1 October 1995, Turning Point for All Nations",
-      ],
       [/^[IV]{1,5}\. (.*)$/gm, (_, a) => `# ${a}`],
       [/^[A-D]{1,5}\. (.*)$/gm, (_, a) => `## ${a}`],
       [/^\d+\. (.*)$/gm, (_, a) => `### ${a}`],

@@ -7,6 +7,7 @@
     "years": [1919, 1920],
     "paragraphs": [
       {
+        "type": "info",
         "text": "O ye esteemed ones who are pioneers among the well‑wishers of the world of humanity!"
       },
       {
@@ -172,6 +173,7 @@
     "years": [1919, 1920],
     "paragraphs": [
       {
+        "type": "info",
         "text": "To the esteemed members of the Executive Committee of the Central Organisation for a Durable Peace"
       },
       {

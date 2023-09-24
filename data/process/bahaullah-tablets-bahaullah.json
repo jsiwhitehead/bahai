@@ -33,9 +33,11 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "info",
         "text": "This is the Most Holy Tablet sent down from the holy kingdom unto the one who hath set his face towards the Object of the adoration of the world, He Who hath come from the heaven of eternity, invested with transcendent glory"
       },
       {
+        "type": "call",
         "text": "In the name of the Lord, the Lord of great glory."
       },
       {
@@ -118,9 +120,11 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "info",
         "text": "This is the Call of the All‑Glorious which is proclaimed from the Supreme Horizon in the Prison of ‘Akká"
       },
       {
+        "type": "call",
         "text": "He is the Expounder, the All‑Knowing, the All‑Informed."
       },
       {
@@ -260,6 +264,7 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "call",
         "text": "In My Name, which standeth supreme above all names"
       },
       {
@@ -387,9 +392,11 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "info",
         "text": "This is the Epistle of God, the Help in Peril, the Self‑Subsisting"
       },
       {
+        "type": "call",
         "text": "He is the One Who heareth from His Realm of Glory."
       },
       {
@@ -466,6 +473,7 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "call",
         "text": "He is the One Who speaketh through the power of Truth in the Kingdom of Utterance"
       },
       {
@@ -662,6 +670,7 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "call",
         "text": "In My Name, calling aloud in the Kingdom of Utterance"
       },
       {
@@ -801,9 +810,11 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "info",
         "text": "This is the Epistle of God, the Help in Peril, the Self‑Subsisting"
       },
       {
+        "type": "call",
         "text": "He is God, exalted is He, the Lord of wisdom and utterance."
       },
       {
@@ -1072,13 +1083,8 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
-        "section": [1]
-      },
-      {
+        "type": "info",
         "text": "This Tablet was addressed to Áqá Muḥammad, a distinguished believer from the town of Qá’in, who was surnamed Nabíl‑i‑Akbar (see Memorials of the Faithful, Chapter 1: “Nabíl‑i‑Akbar”). Another distinguished believer of Qá’in, Mullá Muḥammad‑‘Alí, was known as Nabíl‑i‑Qá’iní (see Memorials of the Faithful, Chapter 17: “Nabíl of Qa’in”). In the abjad notation the name “Muḥammad” has the same numerical value as “Nabíl.”"
-      },
-      {
-        "section": [2]
       },
       {
         "text": "This is an Epistle which the All‑Merciful hath sent down from the Kingdom of Utterance. It is truly a breath of life unto those who dwell in the realm of creation. Glorified be the Lord of all worlds! In this Epistle mention is made of him who magnifieth the Name of God, his Lord, and who is named Nabíl in a weighty Tablet."
@@ -1232,6 +1238,7 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "call",
         "text": "In the Name of God, the Exalted, the Most High"
       },
       {
@@ -1314,15 +1321,11 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
-        "section": [1]
-      },
-      {
+        "type": "info",
         "text": "Out of respect, the Bahá’ís, rather than addressing Bahá’u’lláh directly, would write to His amanuensis, Mírzá Áqá Ján, surnamed “Servant of God” and “Servant‑in‑Attendance.” The reply would be in the form of a letter from Mírzá Áqá Ján quoting words of Bahá’u’lláh, but would, in fact, be dictated in its entirety by Bahá’u’lláh. Thus all parts of the Tablet, even those which ostensibly are the words of Mírzá Áqá Ján himself, are Sacred Scripture revealed by Bahá’u’lláh. The Tablet of Maqṣúd is in this form. It was addressed to Mírzá Maqṣúd, one of the early believers living at that time in Damascus and Jerusalem."
       },
       {
-        "section": [2]
-      },
-      {
+        "type": "call",
         "text": "He is God, exalted is He, the Lord of Majesty and Power"
       },
       {
@@ -1486,6 +1489,7 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "call",
         "text": "He is the All‑Knowing"
       },
       {
@@ -1580,6 +1584,7 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
+        "type": "call",
         "text": "He is the Most Holy, the Most Great, the Most Exalted, the Most High"
       },
       {
@@ -1656,13 +1661,8 @@
     "years": [1877, 1891],
     "paragraphs": [
       {
-        "section": [1]
-      },
-      {
+        "type": "info",
         "text": "This Tablet was revealed after the martyrdom of the King of Martyrs and the Beloved of Martyrs (see God Passes By, Chapter VIII, paragraph beginning “In Iṣfáhán Mullá Káẓim was beheaded . . .”) and was addressed to Shaykh Muḥammad Báqir, denounced by Bahá’u’lláh as the “Wolf.” In this Tablet Bahá’u’lláh refers to Mír Muḥammad Ḥusayn, the Imám Jum’ih of Iṣfáhán, surnamed the “She‑Serpent,” who was Shaykh Muḥammad Báqir’s accomplice in the persecution of the Bahá’ís. (See God Passes By, Chapter XII, paragraph beginning “Náṣiri’d‑Dín Sháh, stigmatised by Bahá’u’lláh . . .”, paragraph beginning “In Iṣfáhán Mullá Káẓim was beheaded . . .” and paragraph beginning “Nor should a review of the outstanding features of Bahá’u’lláh’s writings . . .”). The Epistle to the Son of the Wolf was addressed to Shaykh Muḥammad Táqíy‑i‑Najafí, the son of Shaykh Muḥammad Báqir."
-      },
-      {
-        "section": [2]
       },
       {
         "text": "He is the Almighty, the All‑Knowing, the All‑Wise! The winds of hatred have encompassed the Ark of Baṭḥá, by reason of that which the hands of the oppressors have wrought. O Báqir! Thou hast pronounced sentence against them for whom the books of the world have wept, and in whose favour the scriptures of all religions have testified. Thou, who art gone far astray, art indeed wrapt in a thick veil. By God Himself! Thou hast pronounced judgement against them through whom the horizon of faith hath been illumined. Unto this bear witness They Who are the Dawning‑Places of Revelation and the Manifestations of the Cause of thy Lord, the Most Merciful, Who have sacrificed Their souls and all that They possessed in His straight Path. The Faith of God hath cried everywhere, by reason of thy tyranny, and yet thou disportest thyself and art of them that exult. There is no hatred in Mine heart for thee nor for anyone. Every man of learning beholdeth thee, and such as are like thee, engulfed in evident folly. Hadst thou realised that which thou hast done, thou wouldst have cast thyself into the fire, or abandoned thine home and fled into the mountains, or wouldst have groaned until thou hadst returned unto the place destined for thee by Him Who is the Lord of strength and of might. O thou who art even as nothing! Rend thou asunder the veils of idle fancies and vain imaginings, that thou mayest behold the Daystar of knowledge shining from this resplendent Horizon. Thou hast torn in pieces a remnant of the Prophet Himself, and imagined that thou hadst helped the Faith of God. Thus hath thy soul prompted thee, and thou art truly one of the heedless. Thine act hath consumed the hearts of the Concourse on high, and those of such as have circled round the Cause of God, the Lord of the worlds. The soul of the Chaste One melted, by reason of thy cruelty, and the inmates of Paradise wept sore in that blessed Spot."

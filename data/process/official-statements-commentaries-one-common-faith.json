@@ -1,10 +1,11 @@
 [
   {
-    "path": ["Naw‑Rúz 2005, One Common Faith"],
+    "path": ["One Common Faith"],
     "item": 1,
     "title": "Foreword",
     "author": "The Universal House of Justice",
     "years": [2005.0321, 2005.0321],
+    "date": "Naw‑Rúz 2005",
     "epoch": "Fifth Epoch",
     "paragraphs": [
       {
@@ -28,11 +29,12 @@
     ]
   },
   {
-    "path": ["Naw‑Rúz 2005, One Common Faith"],
+    "path": ["One Common Faith"],
     "item": 2,
-    "title": "Naw‑Rúz 2005, One Common Faith",
+    "title": "One Common Faith",
     "author": "Commissioned by the Universal House of Justice",
     "years": [2005.0321, 2005.0321],
+    "date": "Naw‑Rúz 2005",
     "epoch": "Fifth Epoch",
     "paragraphs": [
       {

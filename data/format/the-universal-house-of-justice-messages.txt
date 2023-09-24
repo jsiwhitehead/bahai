@@ -2073,9 +2073,10 @@ With loving Bahá’í greetings,
 
 Department of the Secretariat
 
-# 26 November 2012, Social Action
+# Social Action
 author="The Office of Social and Economic Development"
 years=[2012.1126,2012.1126]
+date="26 November 2012"
 
 In its Riḍván 2010 message, the Universal House of Justice called on the Bahá’ís of the world to reflect on the contributions that their growing, vibrant communities will make to the material and spiritual progress of society. In this connection, the House of Justice made reference to the process of community building set in motion in so many clusters across the globe by the core activities associated with the current series of global Plans. “A rich tapestry of community life”, it was noted, “begins to emerge in every cluster as acts of communal worship, interspersed with discussions undertaken in the intimate setting of the home, are woven together with activities that provide spiritual education to all members of the population—adults, youth and children.” “Social consciousness is heightened naturally as, for example,” the message went on to explain, “lively conversations proliferate among parents regarding the aspirations of their children and service projects spring up at the initiative of junior youth.” The House of Justice then made the following statement: “Once human resources in a cluster are in sufficient abundance, and the pattern of growth firmly established, the community’s engagement with society can, and indeed must, increase.” Later in the same message, the House of Justice defined the sphere of social action in these terms:
 

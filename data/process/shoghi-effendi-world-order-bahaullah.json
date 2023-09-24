@@ -13,15 +13,18 @@
   {
     "path": ["The World Order of Bahá’u’lláh"],
     "item": 2,
-    "title": "27 February 1929, The World Order of Bahá’u’lláh",
+    "title": "The World Order of Bahá’u’lláh",
     "author": "Shoghi Effendi",
     "years": [1938, 1938],
+    "date": "27 February 1929",
     "epoch": "First Epoch",
     "paragraphs": [
       {
+        "type": "info",
         "text": "To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada."
       },
       {
+        "type": "info",
         "text": "Dearly‑beloved coworkers:"
       },
       {
@@ -100,15 +103,18 @@
   {
     "path": ["The World Order of Bahá’u’lláh"],
     "item": 3,
-    "title": "21 March 1930, The World Order of Bahá’u’lláh: Further Considerations",
+    "title": "The World Order of Bahá’u’lláh: Further Considerations",
     "author": "Shoghi Effendi",
     "years": [1938, 1938],
+    "date": "21 March 1930",
     "epoch": "First Epoch",
     "paragraphs": [
       {
+        "type": "info",
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the West."
       },
       {
+        "type": "info",
         "text": "Dearly‑beloved coworkers:"
       },
       {
@@ -233,12 +239,14 @@
   {
     "path": ["The World Order of Bahá’u’lláh"],
     "item": 4,
-    "title": "28 November 1931, The Goal of a New World Order",
+    "title": "The Goal of a New World Order",
     "author": "Shoghi Effendi",
     "years": [1938, 1938],
+    "date": "28 November 1931",
     "epoch": "First Epoch",
     "paragraphs": [
       {
+        "type": "info",
         "text": "Fellow‑believers in the Faith of Bahá’u’lláh:"
       },
       {
@@ -452,15 +460,18 @@
   {
     "path": ["The World Order of Bahá’u’lláh"],
     "item": 5,
-    "title": "21 March 1932, The Golden Age of the Cause of Bahá’u’lláh",
+    "title": "The Golden Age of the Cause of Bahá’u’lláh",
     "author": "Shoghi Effendi",
     "years": [1938, 1938],
+    "date": "21 March 1932",
     "epoch": "First Epoch",
     "paragraphs": [
       {
+        "type": "info",
         "text": "To the beloved of God and the handmaids of the Merciful throughout the United States and Canada."
       },
       {
+        "type": "info",
         "text": "Friends and fellow‑defenders of the Faith of Bahá’u’lláh:"
       },
       {
@@ -645,15 +656,18 @@
   {
     "path": ["The World Order of Bahá’u’lláh"],
     "item": 6,
-    "title": "21 April 1933, America and the Most Great Peace",
+    "title": "America and the Most Great Peace",
     "author": "Shoghi Effendi",
     "years": [1938, 1938],
+    "date": "21 April 1933",
     "epoch": "First Epoch",
     "paragraphs": [
       {
+        "type": "info",
         "text": "To the beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada."
       },
       {
+        "type": "info",
         "text": "Friends and fellow‑promoters of the Faith of God:"
       },
       {
@@ -787,9 +801,10 @@
   {
     "path": ["The World Order of Bahá’u’lláh"],
     "item": 7,
-    "title": "8 February 1934, The Dispensation of Bahá’u’lláh",
+    "title": "The Dispensation of Bahá’u’lláh",
     "author": "Shoghi Effendi",
     "years": [1938, 1938],
+    "date": "8 February 1934",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -797,9 +812,11 @@
         "title": "Bahá’u’lláh"
       },
       {
+        "type": "info",
         "text": "To the beloved of God and the handmaids of the Merciful throughout the West."
       },
       {
+        "type": "info",
         "text": "Fellow‑labourers in the Divine Vineyard:"
       },
       {
@@ -1215,15 +1232,18 @@
   {
     "path": ["The World Order of Bahá’u’lláh"],
     "item": 8,
-    "title": "11 March 1936, The Unfoldment of World Civilisation",
+    "title": "The Unfoldment of World Civilisation",
     "author": "Shoghi Effendi",
     "years": [1938, 1938],
+    "date": "11 March 1936",
     "epoch": "First Epoch",
     "paragraphs": [
       {
+        "type": "info",
         "text": "To the beloved of God and the handmaids of the Merciful throughout the West."
       },
       {
+        "type": "info",
         "text": "Friends and fellow‑heirs of the grace of Bahá’u’lláh:"
       },
       {

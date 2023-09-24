@@ -1,15 +1,18 @@
 [
   {
     "path": [],
-    "title": "25 December 1938, The Advent of Divine Justice",
+    "title": "The Advent of Divine Justice",
     "author": "Shoghi Effendi",
     "years": [1938, 1938],
+    "date": "25 December 1938",
     "epoch": "First Epoch",
     "paragraphs": [
       {
+        "type": "info",
         "text": "To the beloved of God and the handmaids of the Merciful throughout the United States and Canada."
       },
       {
+        "type": "info",
         "text": "Best‑beloved brothers and sisters in the love of Bahá’u’lláh:"
       },
       {

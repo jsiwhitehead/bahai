@@ -1,6 +1,7 @@
-28 November 2004, Intensive growth
+Intensive growth
 author="The International Teaching Centre"
 years=[2004.1128,2004.1128]
+date="28 November 2004"
 
 * To all Continental Counsellors
 

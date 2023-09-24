@@ -2,9 +2,10 @@
   {
     "path": ["Turning Point"],
     "item": 1,
-    "title": "29 October 2005, Global Plans: Fundamental Concepts",
+    "title": "Global Plans: Fundamental Concepts",
     "author": "The World Centre",
     "years": [2005.1029, 2005.1029],
+    "date": "29 October 2005",
     "epoch": "Fifth Epoch",
     "paragraphs": [
       {
@@ -1054,9 +1055,10 @@
   {
     "path": ["Turning Point", "Additional Documents"],
     "item": 2,
-    "title": "April 1998, Training Institutes",
+    "title": "Training Institutes",
     "author": "Commissioned by the Universal House of Justice",
     "years": [1998.0401, 1998.0401],
+    "date": "April 1998",
     "epoch": "Fourth Epoch",
     "paragraphs": [
       {
@@ -1329,9 +1331,10 @@
   {
     "path": ["Turning Point", "Additional Documents"],
     "item": 3,
-    "title": "February 2000, Training Institutes and Systematic Growth",
+    "title": "Training Institutes and Systematic Growth",
     "author": "The International Teaching Centre",
     "years": [2000.0201, 2000.0201],
+    "date": "February 2000",
     "epoch": "Fourth Epoch",
     "paragraphs": [
       {
@@ -1708,9 +1711,10 @@
   {
     "path": ["Turning Point", "Additional Documents"],
     "item": 4,
-    "title": "April 2003, Building Momentum: A Coherent Approach to Growth",
+    "title": "Building Momentum: A Coherent Approach to Growth",
     "author": "The International Teaching Centre",
     "years": [2003.0401, 2003.0401],
+    "date": "April 2003",
     "epoch": "Fifth Epoch",
     "paragraphs": [
       {
@@ -2241,9 +2245,10 @@
   {
     "path": ["Turning Point", "Additional Documents"],
     "item": 5,
-    "title": "July 2005, Impact of Growth on Administration Processes",
+    "title": "Impact of Growth on Administration Processes",
     "author": "The International Teaching Centre",
     "years": [2005.0701, 2005.0701],
+    "date": "July 2005",
     "epoch": "Fifth Epoch",
     "paragraphs": [
       {

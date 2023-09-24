@@ -1,6 +1,7 @@
-30 September 2007, Message on clusters, institutes, and growth
+Message on clusters, institutes, and growth
 author="The International Teaching Centre"
 years=[2007.0930,2007.0930]
+date="30 September 2007"
 
 * To all Continental Counsellors
 

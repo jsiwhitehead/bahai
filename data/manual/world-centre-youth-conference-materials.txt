@@ -1,6 +1,7 @@
-July 2013, Youth Conference Materials
+Youth Conference Materials
 author="The World Centre"
 years=[2013.0701,2013.1001]
+date="July 2013"
 
 # The Period of Youth
 
