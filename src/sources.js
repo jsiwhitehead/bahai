@@ -2027,6 +2027,10 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         "Let not man glory in this that he loveth his country, let him rather glory in this that he loveth his kind.",
       ],
       [/and you shall have another/g, "and ye shall have another"],
+      [
+        "may become the upholders of one order",
+        "become the upholders of one Order",
+      ],
     ],
     "decisive-hour": [
       [/^Messages from Shoghi Effendi to.*/m, ""],
