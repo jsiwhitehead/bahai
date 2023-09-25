@@ -2,9 +2,9 @@
   {
     "path": ["Additional"],
     "item": 1,
-    "title": "10 February 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.021, 1926.021],
+    "source": "10 February 1926, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -15,9 +15,9 @@
   {
     "path": ["Additional"],
     "item": 2,
-    "title": "5 September 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0905, 1936.0905],
+    "source": "5 September 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -28,9 +28,9 @@
   {
     "path": ["Additional"],
     "item": 3,
-    "title": "25 November 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.1125, 1938.1125],
+    "source": "25 November 1938, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -44,9 +44,9 @@
   {
     "path": ["Additional"],
     "item": 4,
-    "title": "4 February 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.0204, 1950.0204],
+    "source": "4 February 1950, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -57,9 +57,9 @@
   {
     "path": ["Additional"],
     "item": 5,
-    "title": "30 July 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.073, 1956.073],
+    "source": "30 July 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -70,9 +70,9 @@
   {
     "path": ["Additional"],
     "item": 6,
-    "title": "30 October 1924, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1924.103, 1924.103],
+    "source": "30 October 1924, to a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -83,9 +83,9 @@
   {
     "path": ["Additional"],
     "item": 7,
-    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
+    "source": "19 October 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -96,9 +96,9 @@
   {
     "path": ["Additional"],
     "item": 8,
-    "title": "30 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
+    "source": "30 June 1952, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -109,9 +109,9 @@
   {
     "path": ["Additional"],
     "item": 9,
-    "title": "5 September 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0905, 1938.0905],
+    "source": "5 September 1938, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -125,9 +125,9 @@
   {
     "path": ["Additional"],
     "item": 10,
-    "title": "13 December 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.1213, 1940.1213],
+    "source": "13 December 1940, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -138,9 +138,9 @@
   {
     "path": ["Additional"],
     "item": 11,
-    "title": "28 September 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.0928, 1941.0928],
+    "source": "28 September 1941, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -154,9 +154,9 @@
   {
     "path": ["Additional"],
     "item": 12,
-    "title": "30 September 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.093, 1949.093],
+    "source": "30 September 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -167,9 +167,9 @@
   {
     "path": ["Additional"],
     "item": 13,
-    "title": "21 May 1954, to an individual",
     "author": "Shoghi Effendi",
     "years": [1954.0521, 1954.0521],
+    "source": "21 May 1954, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -183,9 +183,9 @@
   {
     "path": ["Additional"],
     "item": 14,
-    "title": "6 September 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0906, 1946.0906],
+    "source": "6 September 1946, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -199,9 +199,9 @@
   {
     "path": ["Additional"],
     "item": 15,
-    "title": "8 December 1923, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1923.1208, 1923.1208],
+    "source": "8 December 1923, to the Bahá’ís of a Nation",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -212,9 +212,9 @@
   {
     "path": ["Additional"],
     "item": 16,
-    "title": "19 December 1923, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1923.1219, 1923.1219],
+    "source": "19 December 1923, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -225,9 +225,9 @@
   {
     "path": ["Additional"],
     "item": 17,
-    "title": "18 November 1933, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1933.1118, 1933.1118],
+    "source": "18 November 1933, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -238,9 +238,9 @@
   {
     "path": ["Additional"],
     "item": 18,
-    "title": "23 October 1926, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1926.1023, 1926.1023],
+    "source": "23 October 1926, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -251,9 +251,9 @@
   {
     "path": ["Additional"],
     "item": 19,
-    "title": "12 November 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.1112, 1930.1112],
+    "source": "12 November 1930, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -264,9 +264,9 @@
   {
     "path": ["Additional"],
     "item": 20,
-    "title": "16 June 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0616, 1932.0616],
+    "source": "16 June 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -277,9 +277,9 @@
   {
     "path": ["Additional"],
     "item": 21,
-    "title": "30 August 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.083, 1933.083],
+    "source": "30 August 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -290,9 +290,9 @@
   {
     "path": ["Additional"],
     "item": 22,
-    "title": "28 October 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1028, 1935.1028],
+    "source": "28 October 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -306,9 +306,9 @@
   {
     "path": ["Additional"],
     "item": 23,
-    "title": "18 April 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0418, 1939.0418],
+    "source": "18 April 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -319,9 +319,9 @@
   {
     "path": ["Additional"],
     "item": 24,
-    "title": "23 April 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.0423, 1941.0423],
+    "source": "23 April 1941, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -332,9 +332,9 @@
   {
     "path": ["Additional"],
     "item": 25,
-    "title": "20 November 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.112, 1941.112],
+    "source": "20 November 1941, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -348,9 +348,9 @@
   {
     "path": ["Additional"],
     "item": 26,
-    "title": "25 January 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.0125, 1943.0125],
+    "source": "25 January 1943, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -361,9 +361,9 @@
   {
     "path": ["Additional"],
     "item": 27,
-    "title": "14 February 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0214, 1945.0214],
+    "source": "14 February 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -374,9 +374,9 @@
   {
     "path": ["Additional"],
     "item": 28,
-    "title": "1 February 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0201, 1946.0201],
+    "source": "1 February 1946, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -387,9 +387,9 @@
   {
     "path": ["Additional"],
     "item": 29,
-    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
+    "source": "19 October 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -403,9 +403,9 @@
   {
     "path": ["Additional"],
     "item": 30,
-    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
+    "source": "30 June 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -416,9 +416,9 @@
   {
     "path": ["Additional"],
     "item": 31,
-    "title": "19 March 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.0319, 1950.0319],
+    "source": "19 March 1950, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -429,9 +429,9 @@
   {
     "path": ["Additional"],
     "item": 32,
-    "title": "5 July 1950, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0705, 1950.0705],
+    "source": "5 July 1950, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -442,9 +442,9 @@
   {
     "path": ["Additional"],
     "item": 33,
-    "title": "19 December 1923, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1923.1219, 1923.1219],
+    "source": "19 December 1923, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -455,9 +455,9 @@
   {
     "path": ["Additional"],
     "item": 34,
-    "title": "1924, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1924, 1924],
+    "source": "1924, to the Bahá’ís of the World",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -468,9 +468,9 @@
   {
     "path": ["Additional"],
     "item": 35,
-    "title": "30 October 1924, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1924.103, 1924.103],
+    "source": "30 October 1924, to a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -481,9 +481,9 @@
   {
     "path": ["Additional"],
     "item": 36,
-    "title": "November 1927, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1927.1101, 1927.1101],
+    "source": "November 1927, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -494,9 +494,9 @@
   {
     "path": ["Additional"],
     "item": 37,
-    "title": "26 April 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0426, 1928.0426],
+    "source": "26 April 1928, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -507,9 +507,9 @@
   {
     "path": ["Additional"],
     "item": 38,
-    "title": "27 November 1929, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1929.1127, 1929.1127],
+    "source": "27 November 1929, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -526,9 +526,9 @@
   {
     "path": ["Additional"],
     "item": 39,
-    "title": "12 January 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0112, 1933.0112],
+    "source": "12 January 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -539,9 +539,9 @@
   {
     "path": ["Additional"],
     "item": 40,
-    "title": "17 June 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0617, 1933.0617],
+    "source": "17 June 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -552,9 +552,9 @@
   {
     "path": ["Additional"],
     "item": 41,
-    "title": "6 July 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0706, 1935.0706],
+    "source": "6 July 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -565,9 +565,9 @@
   {
     "path": ["Additional"],
     "item": 42,
-    "title": "25 December 1939, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1939.1225, 1939.1225],
+    "source": "25 December 1939, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -578,9 +578,9 @@
   {
     "path": ["Additional"],
     "item": 43,
-    "title": "27 May 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.0527, 1940.0527],
+    "source": "27 May 1940, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -591,9 +591,9 @@
   {
     "path": ["Additional"],
     "item": 44,
-    "title": "19 December 1943, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1943.1219, 1943.1219],
+    "source": "19 December 1943, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -604,9 +604,9 @@
   {
     "path": ["Additional"],
     "item": 45,
-    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
+    "source": "19 October 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -617,9 +617,9 @@
   {
     "path": ["Additional"],
     "item": 46,
-    "title": "31 March 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0331, 1949.0331],
+    "source": "31 March 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -630,9 +630,9 @@
   {
     "path": ["Additional"],
     "item": 47,
-    "title": "25 February 1951, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1951.0225, 1951.0225],
+    "source": "25 February 1951, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -643,9 +643,9 @@
   {
     "path": ["Additional"],
     "item": 48,
-    "title": "21 March 1954, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1954.0321, 1954.0321],
+    "source": "21 March 1954, to the Bahá’ís of the East",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -656,9 +656,9 @@
   {
     "path": ["Additional"],
     "item": 49,
-    "title": "21 March 1954, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1954.0321, 1954.0321],
+    "source": "21 March 1954, to the Bahá’ís of the East",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -681,9 +681,9 @@
   {
     "path": ["Additional"],
     "item": 51,
-    "title": "30 October 1924, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1924.103, 1924.103],
+    "source": "30 October 1924, to a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -700,9 +700,9 @@
   {
     "path": ["Additional"],
     "item": 52,
-    "title": "12 October 1924, to an individual",
     "author": "Shoghi Effendi",
     "years": [1924.1012, 1924.1012],
+    "source": "12 October 1924, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -713,9 +713,9 @@
   {
     "path": ["Additional"],
     "item": 53,
-    "title": "January 1929, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1929.0101, 1929.0101],
+    "source": "January 1929, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -726,9 +726,9 @@
   {
     "path": ["Additional"],
     "item": 54,
-    "title": "6 September 1934, to a youth council",
     "author": "Shoghi Effendi",
     "years": [1934.0906, 1934.0906],
+    "source": "6 September 1934, to a youth council",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -739,9 +739,9 @@
   {
     "path": ["Additional"],
     "item": 55,
-    "title": "6 June 1941, to the Bahá’í youth of a Nation",
     "author": "Shoghi Effendi",
     "years": [1941.0606, 1941.0606],
+    "source": "6 June 1941, to the Bahá’í youth of a Nation",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -752,9 +752,9 @@
   {
     "path": ["Additional"],
     "item": 56,
-    "title": "25 December 1941, to a Bahá’í community",
     "author": "Shoghi Effendi",
     "years": [1941.1225, 1941.1225],
+    "source": "25 December 1941, to a Bahá’í community",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -765,9 +765,9 @@
   {
     "path": ["Additional"],
     "item": 57,
-    "title": "5 April 1942",
     "author": "Shoghi Effendi",
     "years": [1942.0405, 1942.0405],
+    "source": "5 April 1942",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -778,9 +778,9 @@
   {
     "path": ["Additional"],
     "item": 58,
-    "title": "25 August 1944, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1944.0825, 1944.0825],
+    "source": "25 August 1944, to those gathered",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -791,9 +791,9 @@
   {
     "path": ["Additional"],
     "item": 59,
-    "title": "23 January 1945",
     "author": "Shoghi Effendi",
     "years": [1945.0123, 1945.0123],
+    "source": "23 January 1945",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -804,9 +804,9 @@
   {
     "path": ["Additional"],
     "item": 60,
-    "title": "27 January 1945",
     "author": "Shoghi Effendi",
     "years": [1945.0127, 1945.0127],
+    "source": "27 January 1945",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -817,9 +817,9 @@
   {
     "path": ["Additional"],
     "item": 61,
-    "title": "22 February 1945",
     "author": "Shoghi Effendi",
     "years": [1945.0222, 1945.0222],
+    "source": "22 February 1945",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -830,9 +830,9 @@
   {
     "path": ["Additional"],
     "item": 62,
-    "title": "20 October 1945, to a National Youth Committee",
     "author": "Shoghi Effendi",
     "years": [1945.102, 1945.102],
+    "source": "20 October 1945, to a National Youth Committee",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -843,9 +843,9 @@
   {
     "path": ["Additional"],
     "item": 63,
-    "title": "26 May 1946",
     "author": "Shoghi Effendi",
     "years": [1946.0526, 1946.0526],
+    "source": "26 May 1946",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -856,9 +856,9 @@
   {
     "path": ["Additional"],
     "item": 64,
-    "title": "19 September 1946, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1946.0919, 1946.0919],
+    "source": "19 September 1946, to those gathered",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -869,9 +869,9 @@
   {
     "path": ["Additional"],
     "item": 65,
-    "title": "5 August 1955, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1955.0805, 1955.0805],
+    "source": "5 August 1955, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -882,9 +882,9 @@
   {
     "path": ["Additional"],
     "item": 66,
-    "title": "20 March 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.032, 1928.032],
+    "source": "20 March 1928, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -898,9 +898,9 @@
   {
     "path": ["Additional"],
     "item": 67,
-    "title": "15 July 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0715, 1928.0715],
+    "source": "15 July 1928, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -911,9 +911,9 @@
   {
     "path": ["Additional"],
     "item": 68,
-    "title": "19 June 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.0619, 1931.0619],
+    "source": "19 June 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -924,9 +924,9 @@
   {
     "path": ["Additional"],
     "item": 69,
-    "title": "27 January 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.0127, 1935.0127],
+    "source": "27 January 1935, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -937,9 +937,9 @@
   {
     "path": ["Additional"],
     "item": 70,
-    "title": "29 May 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0529, 1935.0529],
+    "source": "29 May 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -950,9 +950,9 @@
   {
     "path": ["Additional"],
     "item": 71,
-    "title": "14 October 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1014, 1935.1014],
+    "source": "14 October 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -963,9 +963,9 @@
   {
     "path": ["Additional"],
     "item": 72,
-    "title": "23 July 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0723, 1937.0723],
+    "source": "23 July 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -976,9 +976,9 @@
   {
     "path": ["Additional"],
     "item": 73,
-    "title": "23 November 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.1123, 1937.1123],
+    "source": "23 November 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -989,9 +989,9 @@
   {
     "path": ["Additional"],
     "item": 74,
-    "title": "8 September 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0908, 1947.0908],
+    "source": "8 September 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1002,9 +1002,9 @@
   {
     "path": ["Additional"],
     "item": 75,
-    "title": "5 July 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0705, 1949.0705],
+    "source": "5 July 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1018,9 +1018,9 @@
   {
     "path": ["Additional"],
     "item": 76,
-    "title": "17 February 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.0217, 1950.0217],
+    "source": "17 February 1950, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1043,9 +1043,9 @@
   {
     "path": ["Additional"],
     "item": 78,
-    "title": "29 May 1929, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1929.0529, 1929.0529],
+    "source": "29 May 1929, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1059,9 +1059,9 @@
   {
     "path": ["Additional"],
     "item": 79,
-    "title": "21 July 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0721, 1938.0721],
+    "source": "21 July 1938, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1072,9 +1072,9 @@
   {
     "path": ["Additional"],
     "item": 80,
-    "title": "10 November 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.111, 1939.111],
+    "source": "10 November 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1085,9 +1085,9 @@
   {
     "path": ["Additional"],
     "item": 81,
-    "title": "16 November 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.1116, 1939.1116],
+    "source": "16 November 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1098,9 +1098,9 @@
   {
     "path": ["Additional"],
     "item": 82,
-    "title": "13 November 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.1113, 1940.1113],
+    "source": "13 November 1940, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1111,9 +1111,9 @@
   {
     "path": ["Additional"],
     "item": 83,
-    "title": "14 December 1940, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1940.1214, 1940.1214],
+    "source": "14 December 1940, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1124,9 +1124,9 @@
   {
     "path": ["Additional"],
     "item": 84,
-    "title": "8 May 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0508, 1942.0508],
+    "source": "8 May 1942, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1140,9 +1140,9 @@
   {
     "path": ["Additional"],
     "item": 85,
-    "title": "18 January 1943, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1943.0118, 1943.0118],
+    "source": "18 January 1943, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1153,9 +1153,9 @@
   {
     "path": ["Additional"],
     "item": 86,
-    "title": "25 October 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.1025, 1947.1025],
+    "source": "25 October 1947, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1166,9 +1166,9 @@
   {
     "path": ["Additional"],
     "item": 87,
-    "title": "23 July 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.0723, 1954.0723],
+    "source": "23 July 1954, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1179,9 +1179,9 @@
   {
     "path": ["Additional"],
     "item": 88,
-    "title": "28 October 1955, to an individual",
     "author": "Shoghi Effendi",
     "years": [1955.1028, 1955.1028],
+    "source": "28 October 1955, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1204,9 +1204,9 @@
   {
     "path": ["Additional"],
     "item": 90,
-    "title": "6 November 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.1106, 1932.1106],
+    "source": "6 November 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1217,9 +1217,9 @@
   {
     "path": ["Additional"],
     "item": 91,
-    "title": "4 October 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.1004, 1933.1004],
+    "source": "4 October 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1230,9 +1230,9 @@
   {
     "path": ["Additional"],
     "item": 92,
-    "title": "6 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1206, 1935.1206],
+    "source": "6 December 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1243,9 +1243,9 @@
   {
     "path": ["Additional"],
     "item": 93,
-    "title": "17 March 1937, to a group of Bahá’í youth",
     "author": "Shoghi Effendi",
     "years": [1937.0317, 1937.0317],
+    "source": "17 March 1937, to a group of Bahá’í youth",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1256,9 +1256,9 @@
   {
     "path": ["Additional"],
     "item": 94,
-    "title": "20 February 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.022, 1940.022],
+    "source": "20 February 1940, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1269,9 +1269,9 @@
   {
     "path": ["Additional"],
     "item": 95,
-    "title": "9 March 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0309, 1942.0309],
+    "source": "9 March 1942, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1282,9 +1282,9 @@
   {
     "path": ["Additional"],
     "item": 96,
-    "title": "4 August 1943, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1943.0804, 1943.0804],
+    "source": "4 August 1943, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1301,9 +1301,9 @@
   {
     "path": ["Additional"],
     "item": 97,
-    "title": "14 October 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.1014, 1943.1014],
+    "source": "14 October 1943, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1317,9 +1317,9 @@
   {
     "path": ["Additional"],
     "item": 98,
-    "title": "9 March 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0309, 1946.0309],
+    "source": "9 March 1946, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1336,9 +1336,9 @@
   {
     "path": ["Additional"],
     "item": 99,
-    "title": "10 April 1947, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1947.041, 1947.041],
+    "source": "10 April 1947, to selected individuals",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1349,9 +1349,9 @@
   {
     "path": ["Additional"],
     "item": 100,
-    "title": "2 April 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.0402, 1950.0402],
+    "source": "2 April 1950, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1362,9 +1362,9 @@
   {
     "path": ["Additional"],
     "item": 101,
-    "title": "12 July 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.0712, 1952.0712],
+    "source": "12 July 1952, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1375,9 +1375,9 @@
   {
     "path": ["Additional"],
     "item": 102,
-    "title": "23 May 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.0523, 1956.0523],
+    "source": "23 May 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1388,9 +1388,9 @@
   {
     "path": ["Additional"],
     "item": 103,
-    "title": "5 June 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.0605, 1956.0605],
+    "source": "5 June 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1401,9 +1401,9 @@
   {
     "path": ["Additional"],
     "item": 104,
-    "title": "15 August 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0815, 1957.0815],
+    "source": "15 August 1957, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1414,9 +1414,9 @@
   {
     "path": ["Additional"],
     "item": 105,
-    "title": "19 December 1923, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1923.1219, 1923.1219],
+    "source": "19 December 1923, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1430,9 +1430,9 @@
   {
     "path": ["Additional"],
     "item": 106,
-    "title": "25 April 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0425, 1945.0425],
+    "source": "25 April 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1443,9 +1443,9 @@
   {
     "path": ["Additional"],
     "item": 107,
-    "title": "4 October 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.1004, 1950.1004],
+    "source": "4 October 1950, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1459,9 +1459,9 @@
   {
     "path": ["Additional"],
     "item": 108,
-    "title": "3 August 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0803, 1932.0803],
+    "source": "3 August 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1472,9 +1472,9 @@
   {
     "path": ["Additional"],
     "item": 109,
-    "title": "26 February 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0226, 1933.0226],
+    "source": "26 February 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1485,9 +1485,9 @@
   {
     "path": ["Additional"],
     "item": 110,
-    "title": "12 May 1925, to an individual",
     "author": "Shoghi Effendi",
     "years": [1925.0512, 1925.0512],
+    "source": "12 May 1925, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1507,9 +1507,9 @@
   {
     "path": ["Additional"],
     "item": 111,
-    "title": "26 October 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.1026, 1941.1026],
+    "source": "26 October 1941, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1520,9 +1520,9 @@
   {
     "path": ["Additional"],
     "item": 112,
-    "title": "13 May 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.0513, 1945.0513],
+    "source": "13 May 1945, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1533,9 +1533,9 @@
   {
     "path": ["Additional"],
     "item": 113,
-    "title": "5 November 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.1105, 1931.1105],
+    "source": "5 November 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1546,9 +1546,9 @@
   {
     "path": ["Additional"],
     "item": 114,
-    "title": "23 August 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0823, 1939.0823],
+    "source": "23 August 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1559,9 +1559,9 @@
   {
     "path": ["Additional"],
     "item": 115,
-    "title": "18 December 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1218, 1945.1218],
+    "source": "18 December 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1572,9 +1572,9 @@
   {
     "path": ["Additional"],
     "item": 116,
-    "title": "30 September 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.093, 1949.093],
+    "source": "30 September 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1585,9 +1585,9 @@
   {
     "path": ["Additional"],
     "item": 117,
-    "title": "25 November 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.1125, 1956.1125],
+    "source": "25 November 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1598,9 +1598,9 @@
   {
     "path": ["Additional"],
     "item": 118,
-    "title": "30 January 1925, to an individual",
     "author": "Shoghi Effendi",
     "years": [1925.013, 1925.013],
+    "source": "30 January 1925, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1611,9 +1611,9 @@
   {
     "path": ["Additional"],
     "item": 119,
-    "title": "27 November 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.1127, 1954.1127],
+    "source": "27 November 1954, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1630,9 +1630,9 @@
   {
     "path": ["Additional"],
     "item": 120,
-    "title": "9 December 1931, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1931.1209, 1931.1209],
+    "source": "9 December 1931, to the Bahá’ís of a Nation",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1643,9 +1643,9 @@
   {
     "path": ["Additional"],
     "item": 121,
-    "title": "28 January 1932, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0128, 1932.0128],
+    "source": "28 January 1932, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1656,9 +1656,9 @@
   {
     "path": ["Additional"],
     "item": 122,
-    "title": "16 February 1932, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0216, 1932.0216],
+    "source": "16 February 1932, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1669,9 +1669,9 @@
   {
     "path": ["Additional"],
     "item": 123,
-    "title": "15 January 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0115, 1933.0115],
+    "source": "15 January 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1682,9 +1682,9 @@
   {
     "path": ["Additional"],
     "item": 124,
-    "title": "25 September 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0925, 1933.0925],
+    "source": "25 September 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1695,9 +1695,9 @@
   {
     "path": ["Additional"],
     "item": 125,
-    "title": "6 November 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.1106, 1933.1106],
+    "source": "6 November 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1708,9 +1708,9 @@
   {
     "path": ["Additional"],
     "item": 126,
-    "title": "17 March 1934, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1934.0317, 1934.0317],
+    "source": "17 March 1934, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1721,9 +1721,9 @@
   {
     "path": ["Additional"],
     "item": 127,
-    "title": "15 November 1935, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1935.1115, 1935.1115],
+    "source": "15 November 1935, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1734,9 +1734,9 @@
   {
     "path": ["Additional"],
     "item": 128,
-    "title": "26 July 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0726, 1936.0726],
+    "source": "26 July 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1747,9 +1747,9 @@
   {
     "path": ["Additional"],
     "item": 129,
-    "title": "12 October 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.1012, 1936.1012],
+    "source": "12 October 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1760,9 +1760,9 @@
   {
     "path": ["Additional"],
     "item": 130,
-    "title": "14 March 1939, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1939.0314, 1939.0314],
+    "source": "14 March 1939, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1773,9 +1773,9 @@
   {
     "path": ["Additional"],
     "item": 131,
-    "title": "12 April 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0412, 1942.0412],
+    "source": "12 April 1942, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1786,9 +1786,9 @@
   {
     "path": ["Additional"],
     "item": 132,
-    "title": "24 March 1945, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1945.0324, 1945.0324],
+    "source": "24 March 1945, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1799,9 +1799,9 @@
   {
     "path": ["Additional"],
     "item": 133,
-    "title": "19 November 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1119, 1945.1119],
+    "source": "19 November 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1812,9 +1812,9 @@
   {
     "path": ["Additional"],
     "item": 134,
-    "title": "20 November 1955, to an individual",
     "author": "Shoghi Effendi",
     "years": [1955.112, 1955.112],
+    "source": "20 November 1955, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1828,9 +1828,9 @@
   {
     "path": ["Additional"],
     "item": 135,
-    "title": "15 August 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0815, 1957.0815],
+    "source": "15 August 1957, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1841,9 +1841,9 @@
   {
     "path": ["Additional"],
     "item": 136,
-    "title": "1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946, 1946],
+    "source": "1946, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1854,9 +1854,9 @@
   {
     "path": ["Additional"],
     "item": 137,
-    "title": "18 December 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.1218, 1945.1218],
+    "source": "18 December 1945, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1867,9 +1867,9 @@
   {
     "path": ["Additional"],
     "item": 138,
-    "title": "6 September 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0906, 1949.0906],
+    "source": "6 September 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1880,9 +1880,9 @@
   {
     "path": ["Additional"],
     "item": 139,
-    "title": "8 October 1952, to the Bahá’ís of the West",
     "author": "Shoghi Effendi",
     "years": [1952.1008, 1952.1008],
+    "source": "8 October 1952, to the Bahá’ís of the West",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1893,9 +1893,9 @@
   {
     "path": ["Additional"],
     "item": 140,
-    "title": "April 1956, to all National Assemblies",
     "author": "Shoghi Effendi",
     "years": [1956.0401, 1956.0401],
+    "source": "April 1956, to all National Assemblies",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1906,9 +1906,9 @@
   {
     "path": ["Additional"],
     "item": 141,
-    "title": "27 June 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0627, 1957.0627],
+    "source": "27 June 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1919,9 +1919,9 @@
   {
     "path": ["Additional"],
     "item": 142,
-    "title": "2 July 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0702, 1957.0702],
+    "source": "2 July 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -1935,9 +1935,9 @@
   {
     "path": ["Additional"],
     "item": 143,
-    "title": "31 March 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0331, 1932.0331],
+    "source": "31 March 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1954,9 +1954,9 @@
   {
     "path": ["Additional"],
     "item": 144,
-    "title": "18 March 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0318, 1934.0318],
+    "source": "18 March 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1967,9 +1967,9 @@
   {
     "path": ["Additional"],
     "item": 145,
-    "title": "22 September 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0922, 1936.0922],
+    "source": "22 September 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1980,9 +1980,9 @@
   {
     "path": ["Additional"],
     "item": 146,
-    "title": "3 February 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0203, 1937.0203],
+    "source": "3 February 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -1993,9 +1993,9 @@
   {
     "path": ["Additional"],
     "item": 147,
-    "title": "30 June 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.063, 1937.063],
+    "source": "30 June 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2006,9 +2006,9 @@
   {
     "path": ["Additional"],
     "item": 148,
-    "title": "27 March 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0327, 1938.0327],
+    "source": "27 March 1938, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2019,9 +2019,9 @@
   {
     "path": ["Additional"],
     "item": 149,
-    "title": "29 June 1941, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.0629, 1941.0629],
+    "source": "29 June 1941, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2032,9 +2032,9 @@
   {
     "path": ["Additional"],
     "item": 150,
-    "title": "23 November 1941, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1941.1123, 1941.1123],
+    "source": "23 November 1941, to the Bahá’ís of a Nation",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2045,9 +2045,9 @@
   {
     "path": ["Additional"],
     "item": 151,
-    "title": "4 May 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0504, 1942.0504],
+    "source": "4 May 1942, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2061,9 +2061,9 @@
   {
     "path": ["Additional"],
     "item": 152,
-    "title": "27 March 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.0327, 1945.0327],
+    "source": "27 March 1945, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2074,9 +2074,9 @@
   {
     "path": ["Additional"],
     "item": 153,
-    "title": "9 August 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.0809, 1945.0809],
+    "source": "9 August 1945, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2087,9 +2087,9 @@
   {
     "path": ["Additional"],
     "item": 154,
-    "title": "18 February 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0218, 1947.0218],
+    "source": "18 February 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2100,9 +2100,9 @@
   {
     "path": ["Additional"],
     "item": 155,
-    "title": "13 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1013, 1947.1013],
+    "source": "13 October 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2113,9 +2113,9 @@
   {
     "path": ["Additional"],
     "item": 156,
-    "title": "12 October 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.1012, 1949.1012],
+    "source": "12 October 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2126,9 +2126,9 @@
   {
     "path": ["Additional"],
     "item": 157,
-    "title": "6 November 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.1106, 1949.1106],
+    "source": "6 November 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2139,9 +2139,9 @@
   {
     "path": ["Additional"],
     "item": 158,
-    "title": "12 December 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.1212, 1950.1212],
+    "source": "12 December 1950, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2152,9 +2152,9 @@
   {
     "path": ["Additional"],
     "item": 159,
-    "title": "28 March 1953, to an individual",
     "author": "Shoghi Effendi",
     "years": [1953.0328, 1953.0328],
+    "source": "28 March 1953, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2165,9 +2165,9 @@
   {
     "path": ["Additional"],
     "item": 160,
-    "title": "2 February 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.0202, 1956.0202],
+    "source": "2 February 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2178,9 +2178,9 @@
   {
     "path": ["Additional"],
     "item": 161,
-    "title": "11 August 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0811, 1957.0811],
+    "source": "11 August 1957, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2191,9 +2191,9 @@
   {
     "path": ["Additional"],
     "item": 162,
-    "title": "9 July 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.0709, 1931.0709],
+    "source": "9 July 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2204,9 +2204,9 @@
   {
     "path": ["Additional"],
     "item": 163,
-    "title": "14 December 1924, to an individual",
     "author": "Shoghi Effendi",
     "years": [1924.1214, 1924.1214],
+    "source": "14 December 1924, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2217,9 +2217,9 @@
   {
     "path": ["Additional"],
     "item": 164,
-    "title": "21 October 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.1021, 1943.1021],
+    "source": "21 October 1943, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2230,9 +2230,9 @@
   {
     "path": ["Additional"],
     "item": 165,
-    "title": "30 January 1926, to the National Assemblies of the East",
     "author": "Shoghi Effendi",
     "years": [1926.013, 1926.013],
+    "source": "30 January 1926, to the National Assemblies of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2258,9 +2258,9 @@
   {
     "path": ["Additional"],
     "item": 166,
-    "title": "20 March 1929, to an individual",
     "author": "Shoghi Effendi",
     "years": [1929.032, 1929.032],
+    "source": "20 March 1929, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2271,9 +2271,9 @@
   {
     "path": ["Additional"],
     "item": 167,
-    "title": "11 March 1929, to an individual",
     "author": "Shoghi Effendi",
     "years": [1929.0311, 1929.0311],
+    "source": "11 March 1929, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2284,9 +2284,9 @@
   {
     "path": ["Additional"],
     "item": 168,
-    "title": "25 September 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0925, 1942.0925],
+    "source": "25 September 1942, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2297,9 +2297,9 @@
   {
     "path": ["Additional"],
     "item": 169,
-    "title": "28 November 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.1128, 1926.1128],
+    "source": "28 November 1926, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2310,9 +2310,9 @@
   {
     "path": ["Additional"],
     "item": 170,
-    "title": "5 May 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0505, 1934.0505],
+    "source": "5 May 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2323,9 +2323,9 @@
   {
     "path": ["Additional"],
     "item": 171,
-    "title": "12 May 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0512, 1944.0512],
+    "source": "12 May 1944, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2336,9 +2336,9 @@
   {
     "path": ["Additional"],
     "item": 172,
-    "title": "5 July 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0705, 1949.0705],
+    "source": "5 July 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2352,9 +2352,9 @@
   {
     "path": ["Additional"],
     "item": 173,
-    "title": "10 December 1942, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1942.121, 1942.121],
+    "source": "10 December 1942, to those gathered",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2365,9 +2365,9 @@
   {
     "path": ["Additional"],
     "item": 174,
-    "title": "13 March 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
+    "source": "13 March 1944, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2378,9 +2378,9 @@
   {
     "path": ["Additional"],
     "item": 175,
-    "title": "22 April 1954, to an individual",
     "author": "Shoghi Effendi",
     "years": [1954.0422, 1954.0422],
+    "source": "22 April 1954, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2430,9 +2430,9 @@
   {
     "path": ["Additional"],
     "item": 179,
-    "title": "5 January 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0105, 1930.0105],
+    "source": "5 January 1930, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2443,9 +2443,9 @@
   {
     "path": ["Additional"],
     "item": 180,
-    "title": "15 February 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0215, 1947.0215],
+    "source": "15 February 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2459,9 +2459,9 @@
   {
     "path": ["Additional"],
     "item": 181,
-    "title": "30 November 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.113, 1932.113],
+    "source": "30 November 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2475,9 +2475,9 @@
   {
     "path": ["Additional"],
     "item": 182,
-    "title": "9 November 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.1109, 1931.1109],
+    "source": "9 November 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2488,9 +2488,9 @@
   {
     "path": ["Additional"],
     "item": 183,
-    "title": "4 May 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0504, 1946.0504],
+    "source": "4 May 1946, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2501,9 +2501,9 @@
   {
     "path": ["Additional"],
     "item": 184,
-    "title": "3 July 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0703, 1949.0703],
+    "source": "3 July 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2514,9 +2514,9 @@
   {
     "path": ["Additional"],
     "item": 185,
-    "title": "27 August 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.0827, 1951.0827],
+    "source": "27 August 1951, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2527,9 +2527,9 @@
   {
     "path": ["Additional"],
     "item": 186,
-    "title": "1924, to an individual",
     "author": "Shoghi Effendi",
     "years": [1924, 1924],
+    "source": "1924, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2540,9 +2540,9 @@
   {
     "path": ["Additional"],
     "item": 187,
-    "title": "7 November 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.1107, 1931.1107],
+    "source": "7 November 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2553,9 +2553,9 @@
   {
     "path": ["Additional"],
     "item": 188,
-    "title": "September 1926, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1926.0901, 1926.0901],
+    "source": "September 1926, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2569,9 +2569,9 @@
   {
     "path": ["Additional"],
     "item": 189,
-    "title": "17 February 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0217, 1933.0217],
+    "source": "17 February 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2585,9 +2585,9 @@
   {
     "path": ["Additional"],
     "item": 190,
-    "title": "6 November 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.1106, 1940.1106],
+    "source": "6 November 1940, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2598,9 +2598,9 @@
   {
     "path": ["Additional"],
     "item": 191,
-    "title": "26 March 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.0326, 1943.0326],
+    "source": "26 March 1943, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2611,9 +2611,9 @@
   {
     "path": ["Additional"],
     "item": 192,
-    "title": "29 March 1945, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1945.0329, 1945.0329],
+    "source": "29 March 1945, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2624,9 +2624,9 @@
   {
     "path": ["Additional"],
     "item": 193,
-    "title": "13 March 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0313, 1932.0313],
+    "source": "13 March 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2637,9 +2637,9 @@
   {
     "path": ["Additional"],
     "item": 194,
-    "title": "15 February 1922, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1922.0215, 1922.0215],
+    "source": "15 February 1922, to a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2650,9 +2650,9 @@
   {
     "path": ["Additional"],
     "item": 195,
-    "title": "30 May 1937, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1937.053, 1937.053],
+    "source": "30 May 1937, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2663,9 +2663,9 @@
   {
     "path": ["Additional"],
     "item": 196,
-    "title": "8 June 1925, to the National Assemblies of the East",
     "author": "Shoghi Effendi",
     "years": [1925.0608, 1925.0608],
+    "source": "8 June 1925, to the National Assemblies of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2685,9 +2685,9 @@
   {
     "path": ["Additional"],
     "item": 197,
-    "title": "22 May 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0522, 1928.0522],
+    "source": "22 May 1928, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2701,9 +2701,9 @@
   {
     "path": ["Additional"],
     "item": 198,
-    "title": "9 July 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.0709, 1931.0709],
+    "source": "9 July 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2714,9 +2714,9 @@
   {
     "path": ["Additional"],
     "item": 199,
-    "title": "7 June 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0607, 1939.0607],
+    "source": "7 June 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2730,9 +2730,9 @@
   {
     "path": ["Additional"],
     "item": 200,
-    "title": "2 March 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0302, 1932.0302],
+    "source": "2 March 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2743,9 +2743,9 @@
   {
     "path": ["Additional"],
     "item": 201,
-    "title": "20 December 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.122, 1931.122],
+    "source": "20 December 1931, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2756,9 +2756,9 @@
   {
     "path": ["Additional"],
     "item": 202,
-    "title": "22 May 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0522, 1935.0522],
+    "source": "22 May 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2769,9 +2769,9 @@
   {
     "path": ["Additional"],
     "item": 203,
-    "title": "26 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1226, 1935.1226],
+    "source": "26 December 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2794,9 +2794,9 @@
   {
     "path": ["Additional"],
     "item": 204,
-    "title": "30 June 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.063, 1937.063],
+    "source": "30 June 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2807,9 +2807,9 @@
   {
     "path": ["Additional"],
     "item": 205,
-    "title": "10 June 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.061, 1939.061],
+    "source": "10 June 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2820,9 +2820,9 @@
   {
     "path": ["Additional"],
     "item": 206,
-    "title": "12 March 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0312, 1934.0312],
+    "source": "12 March 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2833,9 +2833,9 @@
   {
     "path": ["Additional"],
     "item": 207,
-    "title": "30 May 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.053, 1935.053],
+    "source": "30 May 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2846,9 +2846,9 @@
   {
     "path": ["Additional"],
     "item": 208,
-    "title": "24 November 1924, to an individual",
     "author": "Shoghi Effendi",
     "years": [1924.1124, 1924.1124],
+    "source": "24 November 1924, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2859,9 +2859,9 @@
   {
     "path": ["Additional"],
     "item": 209,
-    "title": "18 December 1925, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1925.1218, 1925.1218],
+    "source": "18 December 1925, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2872,9 +2872,9 @@
   {
     "path": ["Additional"],
     "item": 210,
-    "title": "21 January 1928",
     "author": "Shoghi Effendi",
     "years": [1928.0121, 1928.0121],
+    "source": "21 January 1928",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2885,9 +2885,9 @@
   {
     "path": ["Additional"],
     "item": 211,
-    "title": "8 March 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0308, 1948.0308],
+    "source": "8 March 1948",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2898,9 +2898,9 @@
   {
     "path": ["Additional"],
     "item": 212,
-    "title": "31 October 1938",
     "author": "Shoghi Effendi",
     "years": [1938.1031, 1938.1031],
+    "source": "31 October 1938",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2911,9 +2911,9 @@
   {
     "path": ["Additional"],
     "item": 213,
-    "title": "4 November 1940",
     "author": "Shoghi Effendi",
     "years": [1940.1104, 1940.1104],
+    "source": "4 November 1940",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2924,9 +2924,9 @@
   {
     "path": ["Additional"],
     "item": 214,
-    "title": "12 January 1946",
     "author": "Shoghi Effendi",
     "years": [1946.0112, 1946.0112],
+    "source": "12 January 1946",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -2946,9 +2946,9 @@
   {
     "path": ["Additional"],
     "item": 215,
-    "title": "20 October 1953",
     "author": "Shoghi Effendi",
     "years": [1953.102, 1953.102],
+    "source": "20 October 1953",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -2959,9 +2959,9 @@
   {
     "path": ["Additional"],
     "item": 216,
-    "title": "6 June 1954",
     "author": "Shoghi Effendi",
     "years": [1954.0606, 1954.0606],
+    "source": "6 June 1954",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3008,9 +3008,9 @@
   {
     "path": ["Additional"],
     "item": 220,
-    "title": "10 January 1936, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1936.011, 1936.011],
+    "source": "10 January 1936, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3027,9 +3027,9 @@
   {
     "path": ["Additional"],
     "item": 221,
-    "title": "10 January 1936",
     "author": "Shoghi Effendi",
     "years": [1936.011, 1936.011],
+    "source": "10 January 1936",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3040,9 +3040,9 @@
   {
     "path": ["Additional"],
     "item": 222,
-    "title": "31 December 1937",
     "author": "Shoghi Effendi",
     "years": [1937.1231, 1937.1231],
+    "source": "31 December 1937",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3053,9 +3053,9 @@
   {
     "path": ["Additional"],
     "item": 223,
-    "title": "28 February 1942, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0228, 1942.0228],
+    "source": "28 February 1942, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3066,9 +3066,9 @@
   {
     "path": ["Additional"],
     "item": 224,
-    "title": "19 July 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.0719, 1956.0719],
+    "source": "19 July 1956, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3079,9 +3079,9 @@
   {
     "path": ["Additional"],
     "item": 225,
-    "title": "30 January 1923, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1923.013, 1923.013],
+    "source": "30 January 1923, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3092,9 +3092,9 @@
   {
     "path": ["Additional"],
     "item": 226,
-    "title": "September 1926",
     "author": "Shoghi Effendi",
     "years": [1926.0901, 1926.0901],
+    "source": "September 1926",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3105,9 +3105,9 @@
   {
     "path": ["Additional"],
     "item": 227,
-    "title": "1 September 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0901, 1933.0901],
+    "source": "1 September 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3118,9 +3118,9 @@
   {
     "path": ["Additional"],
     "item": 228,
-    "title": "8 August 1957, to a group of Bahá’í youth",
     "author": "Shoghi Effendi",
     "years": [1957.0808, 1957.0808],
+    "source": "8 August 1957, to a group of Bahá’í youth",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3131,9 +3131,9 @@
   {
     "path": ["Additional"],
     "item": 229,
-    "title": "28 December 1925, to a group of Bahá’í youth",
     "author": "Shoghi Effendi",
     "years": [1925.1228, 1925.1228],
+    "source": "28 December 1925, to a group of Bahá’í youth",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3144,9 +3144,9 @@
   {
     "path": ["Additional"],
     "item": 230,
-    "title": "March 1955",
     "author": "Shoghi Effendi",
     "years": [1955.0301, 1955.0301],
+    "source": "March 1955",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3157,9 +3157,9 @@
   {
     "path": ["Additional"],
     "item": 231,
-    "title": "4 May 1953",
     "author": "Shoghi Effendi",
     "years": [1953.0504, 1953.0504],
+    "source": "4 May 1953",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3170,9 +3170,9 @@
   {
     "path": ["Additional"],
     "item": 232,
-    "title": "30 June 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.063, 1957.063],
+    "source": "30 June 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3183,9 +3183,9 @@
   {
     "path": ["Additional"],
     "item": 233,
-    "title": "17 April 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0417, 1936.0417],
+    "source": "17 April 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3196,9 +3196,9 @@
   {
     "path": ["Additional"],
     "item": 234,
-    "title": "27 March 1933, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1933.0327, 1933.0327],
+    "source": "27 March 1933, to a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3209,9 +3209,9 @@
   {
     "path": ["Additional"],
     "item": 235,
-    "title": "16 February 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0216, 1932.0216],
+    "source": "16 February 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3225,9 +3225,9 @@
   {
     "path": ["Additional"],
     "item": 236,
-    "title": "8 November 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.1108, 1956.1108],
+    "source": "8 November 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3238,9 +3238,9 @@
   {
     "path": ["Additional"],
     "item": 237,
-    "title": "1 September 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0901, 1933.0901],
+    "source": "1 September 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3263,9 +3263,9 @@
   {
     "path": ["Additional"],
     "item": 239,
-    "title": "9 May 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0509, 1933.0509],
+    "source": "9 May 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3276,9 +3276,9 @@
   {
     "path": ["Additional"],
     "item": 240,
-    "title": "17 November 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.1117, 1932.1117],
+    "source": "17 November 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3289,9 +3289,9 @@
   {
     "path": ["Additional"],
     "item": 241,
-    "title": "8 June 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0608, 1933.0608],
+    "source": "8 June 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3302,9 +3302,9 @@
   {
     "path": ["Additional"],
     "item": 242,
-    "title": "19 January 1922, to the Bahá’ís of Írán",
     "author": "Shoghi Effendi",
     "years": [1922.0119, 1922.0119],
+    "source": "19 January 1922, to the Bahá’ís of Írán",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3321,9 +3321,9 @@
   {
     "path": ["Additional"],
     "item": 243,
-    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
+    "source": "16 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3334,9 +3334,9 @@
   {
     "path": ["Additional"],
     "item": 244,
-    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
+    "source": "16 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3347,9 +3347,9 @@
   {
     "path": ["Additional"],
     "item": 245,
-    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
+    "source": "16 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3360,9 +3360,9 @@
   {
     "path": ["Additional"],
     "item": 246,
-    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
+    "source": "16 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3373,9 +3373,9 @@
   {
     "path": ["Additional"],
     "item": 247,
-    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
+    "source": "16 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3386,9 +3386,9 @@
   {
     "path": ["Additional"],
     "item": 248,
-    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
+    "source": "16 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3399,9 +3399,9 @@
   {
     "path": ["Additional"],
     "item": 249,
-    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
+    "source": "16 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3412,9 +3412,9 @@
   {
     "path": ["Additional"],
     "item": 250,
-    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
+    "source": "16 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3425,9 +3425,9 @@
   {
     "path": ["Additional"],
     "item": 251,
-    "title": "16 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1216, 1922.1216],
+    "source": "16 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3438,9 +3438,9 @@
   {
     "path": ["Additional"],
     "item": 252,
-    "title": "18 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1218, 1922.1218],
+    "source": "18 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3451,9 +3451,9 @@
   {
     "path": ["Additional"],
     "item": 253,
-    "title": "19 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1219, 1922.1219],
+    "source": "19 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3464,9 +3464,9 @@
   {
     "path": ["Additional"],
     "item": 254,
-    "title": "19 December 1922",
     "author": "Shoghi Effendi",
     "years": [1922.1219, 1922.1219],
+    "source": "19 December 1922",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3477,9 +3477,9 @@
   {
     "path": ["Additional"],
     "item": 255,
-    "title": "27 February 1923, to the Bahá’ís of Írán",
     "author": "Shoghi Effendi",
     "years": [1923.0227, 1923.0227],
+    "source": "27 February 1923, to the Bahá’ís of Írán",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3490,9 +3490,9 @@
   {
     "path": ["Additional"],
     "item": 256,
-    "title": "27 December 1923, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1923.1227, 1923.1227],
+    "source": "27 December 1923, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3503,9 +3503,9 @@
   {
     "path": ["Additional"],
     "item": 257,
-    "title": "11 August 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0811, 1933.0811],
+    "source": "11 August 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3516,9 +3516,9 @@
   {
     "path": ["Additional"],
     "item": 258,
-    "title": "4 February 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0204, 1935.0204],
+    "source": "4 February 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3529,9 +3529,9 @@
   {
     "path": ["Additional"],
     "item": 259,
-    "title": "30 August 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.083, 1930.083],
+    "source": "30 August 1930, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3542,9 +3542,9 @@
   {
     "path": ["Additional"],
     "item": 260,
-    "title": "21 March 1934, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1934.0321, 1934.0321],
+    "source": "21 March 1934, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3555,9 +3555,9 @@
   {
     "path": ["Additional"],
     "item": 261,
-    "title": "19 March 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0319, 1930.0319],
+    "source": "19 March 1930, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3571,9 +3571,9 @@
   {
     "path": ["Additional"],
     "item": 262,
-    "title": "19 March 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0319, 1930.0319],
+    "source": "19 March 1930, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3596,9 +3596,9 @@
   {
     "path": ["Additional"],
     "item": 264,
-    "title": "12 February 1947",
     "author": "Shoghi Effendi",
     "years": [1947.0212, 1947.0212],
+    "source": "12 February 1947",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3609,9 +3609,9 @@
   {
     "path": ["Additional"],
     "item": 265,
-    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
+    "source": "30 June 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3646,9 +3646,9 @@
   {
     "path": ["Additional"],
     "item": 268,
-    "title": "9 April 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0409, 1949.0409],
+    "source": "9 April 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3659,9 +3659,9 @@
   {
     "path": ["Additional"],
     "item": 269,
-    "title": "17 February 1943, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1943.0217, 1943.0217],
+    "source": "17 February 1943, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3672,9 +3672,9 @@
   {
     "path": ["Additional"],
     "item": 270,
-    "title": "30 January 1948, to an individual",
     "author": "Shoghi Effendi",
     "years": [1948.013, 1948.013],
+    "source": "30 January 1948, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3685,9 +3685,9 @@
   {
     "path": ["Additional"],
     "item": 271,
-    "title": "9 January 1951, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1951.0109, 1951.0109],
+    "source": "9 January 1951, to the Bahá’ís of the World",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3698,9 +3698,9 @@
   {
     "path": ["Additional"],
     "item": 272,
-    "title": "20 December 1937, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1937.122, 1937.122],
+    "source": "20 December 1937, to the Bahá’ís of a Nation",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3711,9 +3711,9 @@
   {
     "path": ["Additional"],
     "item": 273,
-    "title": "4 May 1953, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1953.0504, 1953.0504],
+    "source": "4 May 1953, to the Bahá’ís of the World",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3724,9 +3724,9 @@
   {
     "path": ["Additional"],
     "item": 274,
-    "title": "28 May 1953, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1953.0528, 1953.0528],
+    "source": "28 May 1953, to the Bahá’ís of the World",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3737,9 +3737,9 @@
   {
     "path": ["Additional"],
     "item": 275,
-    "title": "7 October 1953, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1953.1007, 1953.1007],
+    "source": "7 October 1953, to those gathered",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3750,9 +3750,9 @@
   {
     "path": ["Additional"],
     "item": 276,
-    "title": "April 1955, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1955.0401, 1955.0401],
+    "source": "April 1955, to the Bahá’ís of the World",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3763,9 +3763,9 @@
   {
     "path": ["Additional"],
     "item": 277,
-    "title": "8 October 1952, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1952.1008, 1952.1008],
+    "source": "8 October 1952, to the Bahá’ís of the World",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3776,9 +3776,9 @@
   {
     "path": ["Additional"],
     "item": 278,
-    "title": "4 June 1957, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1957.0604, 1957.0604],
+    "source": "4 June 1957, to the Bahá’ís of the World",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3792,9 +3792,9 @@
   {
     "path": ["Additional"],
     "item": 279,
-    "title": "October 1957, to the Bahá’ís of the World",
     "author": "Shoghi Effendi",
     "years": [1957.1001, 1957.1001],
+    "source": "October 1957, to the Bahá’ís of the World",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3805,9 +3805,9 @@
   {
     "path": ["Additional"],
     "item": 280,
-    "title": "11 February 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0211, 1934.0211],
+    "source": "11 February 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3818,9 +3818,9 @@
   {
     "path": ["Additional"],
     "item": 281,
-    "title": "19 February 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0219, 1934.0219],
+    "source": "19 February 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3831,9 +3831,9 @@
   {
     "path": ["Additional"],
     "item": 282,
-    "title": "6 September 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0906, 1934.0906],
+    "source": "6 September 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3844,9 +3844,9 @@
   {
     "path": ["Additional"],
     "item": 283,
-    "title": "5 November 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1105, 1935.1105],
+    "source": "5 November 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3857,9 +3857,9 @@
   {
     "path": ["Additional"],
     "item": 284,
-    "title": "5 July 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0705, 1944.0705],
+    "source": "5 July 1944, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3870,9 +3870,9 @@
   {
     "path": ["Additional"],
     "item": 285,
-    "title": "26 April 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.0426, 1940.0426],
+    "source": "26 April 1940, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3883,9 +3883,9 @@
   {
     "path": ["Additional"],
     "item": 286,
-    "title": "30 November 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.113, 1940.113],
+    "source": "30 November 1940, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3896,9 +3896,9 @@
   {
     "path": ["Additional"],
     "item": 287,
-    "title": "7 April 1947, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1947.0407, 1947.0407],
+    "source": "7 April 1947, to selected individuals",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3909,9 +3909,9 @@
   {
     "path": ["Additional"],
     "item": 288,
-    "title": "22 September 1948, to an individual",
     "author": "Shoghi Effendi",
     "years": [1948.0922, 1948.0922],
+    "source": "22 September 1948, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3922,9 +3922,9 @@
   {
     "path": ["Additional"],
     "item": 289,
-    "title": "April 1936, to a National Teaching Committee",
     "author": "Shoghi Effendi",
     "years": [1936.0401, 1936.0401],
+    "source": "April 1936, to a National Teaching Committee",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3935,9 +3935,9 @@
   {
     "path": ["Additional"],
     "item": 290,
-    "title": "20 November 1951",
     "author": "Shoghi Effendi",
     "years": [1951.112, 1951.112],
+    "source": "20 November 1951",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -3948,9 +3948,9 @@
   {
     "path": ["Additional"],
     "item": 291,
-    "title": "1944",
     "author": "Shoghi Effendi",
     "years": [1944, 1944],
+    "source": "1944",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3961,9 +3961,9 @@
   {
     "path": ["Additional"],
     "item": 292,
-    "title": "1944",
     "author": "Shoghi Effendi",
     "years": [1944, 1944],
+    "source": "1944",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3974,9 +3974,9 @@
   {
     "path": ["Additional"],
     "item": 293,
-    "title": "24 June 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0624, 1936.0624],
+    "source": "24 June 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -3993,9 +3993,9 @@
   {
     "path": ["Additional"],
     "item": 294,
-    "title": "4 June 1957",
     "author": "Shoghi Effendi",
     "years": [1957.0604, 1957.0604],
+    "source": "4 June 1957",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4006,9 +4006,9 @@
   {
     "path": ["Additional"],
     "item": 295,
-    "title": "7 July 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.0707, 1947.0707],
+    "source": "7 July 1947, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4019,9 +4019,9 @@
   {
     "path": ["Additional"],
     "item": 296,
-    "title": "2 October 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.1002, 1935.1002],
+    "source": "2 October 1935, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4032,9 +4032,9 @@
   {
     "path": ["Additional"],
     "item": 297,
-    "title": "25 October 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.1025, 1947.1025],
+    "source": "25 October 1947, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4045,9 +4045,9 @@
   {
     "path": ["Additional"],
     "item": 298,
-    "title": "Riḍván 1957, to those gathered",
     "author": "Shoghi Effendi",
     "years": [1957, 1957],
+    "source": "Riḍván 1957, to those gathered",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4058,9 +4058,9 @@
   {
     "path": ["Additional"],
     "item": 299,
-    "title": "4 November 1931",
     "author": "Shoghi Effendi",
     "years": [1931.1104, 1931.1104],
+    "source": "4 November 1931",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4071,9 +4071,9 @@
   {
     "path": ["Additional"],
     "item": 300,
-    "title": "14 October 1941, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1941.1014, 1941.1014],
+    "source": "14 October 1941, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4084,9 +4084,9 @@
   {
     "path": ["Additional"],
     "item": 301,
-    "title": "30 August 1930, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1930.083, 1930.083],
+    "source": "30 August 1930, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4112,9 +4112,9 @@
   {
     "path": ["Additional"],
     "item": 303,
-    "title": "14 December 1940, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1940.1214, 1940.1214],
+    "source": "14 December 1940, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4125,9 +4125,9 @@
   {
     "path": ["Additional"],
     "item": 304,
-    "title": "17 September 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.0917, 1952.0917],
+    "source": "17 September 1952, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4138,9 +4138,9 @@
   {
     "path": ["Additional"],
     "item": 305,
-    "title": "Riḍván 1957",
     "author": "Shoghi Effendi",
     "years": [1957, 1957],
+    "source": "Riḍván 1957",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4157,9 +4157,9 @@
   {
     "path": ["Additional"],
     "item": 306,
-    "title": "20 June 1942",
     "author": "Shoghi Effendi",
     "years": [1942.062, 1942.062],
+    "source": "20 June 1942",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4170,9 +4170,9 @@
   {
     "path": ["Additional"],
     "item": 307,
-    "title": "5 July 1947",
     "author": "Shoghi Effendi",
     "years": [1947.0705, 1947.0705],
+    "source": "5 July 1947",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4222,9 +4222,9 @@
   {
     "path": ["Additional"],
     "item": 310,
-    "title": "22 July 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.0722, 1943.0722],
+    "source": "22 July 1943, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4235,9 +4235,9 @@
   {
     "path": ["Additional"],
     "item": 311,
-    "title": "5 April 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.0405, 1956.0405],
+    "source": "5 April 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4281,9 +4281,9 @@
   {
     "path": ["Additional"],
     "item": 314,
-    "title": "1933",
     "author": "Shoghi Effendi",
     "years": [1933, 1933],
+    "source": "1933",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4294,9 +4294,9 @@
   {
     "path": ["Additional"],
     "item": 315,
-    "title": "8 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1208, 1935.1208],
+    "source": "8 December 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4316,9 +4316,9 @@
   {
     "path": ["Additional"],
     "item": 316,
-    "title": "17 June 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0617, 1933.0617],
+    "source": "17 June 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4329,9 +4329,9 @@
   {
     "path": ["Additional"],
     "item": 317,
-    "title": "19 November 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1119, 1945.1119],
+    "source": "19 November 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4342,9 +4342,9 @@
   {
     "path": ["Additional"],
     "item": 318,
-    "title": "23 January 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0123, 1944.0123],
+    "source": "23 January 1944, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4355,9 +4355,9 @@
   {
     "path": ["Additional"],
     "item": 319,
-    "title": "4 December 1954, to an individual",
     "author": "Shoghi Effendi",
     "years": [1954.1204, 1954.1204],
+    "source": "4 December 1954, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4371,9 +4371,9 @@
   {
     "path": ["Additional"],
     "item": 320,
-    "title": "15 August 1957",
     "author": "Shoghi Effendi",
     "years": [1957.0815, 1957.0815],
+    "source": "15 August 1957",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4384,9 +4384,9 @@
   {
     "path": ["Additional"],
     "item": 321,
-    "title": "19 March 1938",
     "author": "Shoghi Effendi",
     "years": [1938.0319, 1938.0319],
+    "source": "19 March 1938",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4397,9 +4397,9 @@
   {
     "path": ["Additional"],
     "item": 322,
-    "title": "11 January 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0111, 1942.0111],
+    "source": "11 January 1942, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4410,9 +4410,9 @@
   {
     "path": ["Additional"],
     "item": 323,
-    "title": "19 February 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0219, 1947.0219],
+    "source": "19 February 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4423,9 +4423,9 @@
   {
     "path": ["Additional"],
     "item": 324,
-    "title": "30 May 1930, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1930.053, 1930.053],
+    "source": "30 May 1930, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4436,9 +4436,9 @@
   {
     "path": ["Additional"],
     "item": 325,
-    "title": "28 July 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0728, 1936.0728],
+    "source": "28 July 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4449,9 +4449,9 @@
   {
     "path": ["Additional"],
     "item": 326,
-    "title": "11 January 1923, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1923.0111, 1923.0111],
+    "source": "11 January 1923, to the Bahá’ís of a Nation",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4462,9 +4462,9 @@
   {
     "path": ["Additional"],
     "item": 327,
-    "title": "2 January 1930, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1930.0102, 1930.0102],
+    "source": "2 January 1930, to the Bahá’ís of a Nation",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4475,9 +4475,9 @@
   {
     "path": ["Additional"],
     "item": 328,
-    "title": "6 July 1944",
     "author": "Shoghi Effendi",
     "years": [1944.0706, 1944.0706],
+    "source": "6 July 1944",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4491,9 +4491,9 @@
   {
     "path": ["Additional"],
     "item": 329,
-    "title": "The Light of Divine Guidance: The Messages from the Guardian of the Bahá’í Faith to the Bahá’ís of Germany and Austria, p. 67",
     "author": "Shoghi Effendi",
     "years": [1921, 1957],
+    "source": "The Light of Divine Guidance: The Messages from the Guardian of the Bahá’í Faith to the Bahá’ís of Germany and Austria, p. 67",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4504,9 +4504,9 @@
   {
     "path": ["Additional"],
     "item": 330,
-    "title": "14 May 1927",
     "author": "Shoghi Effendi",
     "years": [1927.0514, 1927.0514],
+    "source": "14 May 1927",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4517,9 +4517,9 @@
   {
     "path": ["Additional"],
     "item": 331,
-    "title": "15 November 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.1115, 1956.1115],
+    "source": "15 November 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4584,9 +4584,9 @@
   {
     "path": ["Additional"],
     "item": 336,
-    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
+    "source": "19 October 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4597,9 +4597,9 @@
   {
     "path": ["Additional"],
     "item": 337,
-    "title": "24 October 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.1024, 1947.1024],
+    "source": "24 October 1947, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4610,9 +4610,9 @@
   {
     "path": ["Additional"],
     "item": 338,
-    "title": "1931",
     "author": "Shoghi Effendi",
     "years": [1931, 1931],
+    "source": "1931",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4623,9 +4623,9 @@
   {
     "path": ["Additional"],
     "item": 339,
-    "title": "30 September 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.093, 1949.093],
+    "source": "30 September 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4648,9 +4648,9 @@
   {
     "path": ["Additional"],
     "item": 341,
-    "title": "30 November 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.113, 1930.113],
+    "source": "30 November 1930, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4661,9 +4661,9 @@
   {
     "path": ["Additional"],
     "item": 342,
-    "title": "19 November 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.1119, 1939.1119],
+    "source": "19 November 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4674,9 +4674,9 @@
   {
     "path": ["Additional"],
     "item": 343,
-    "title": "19 April 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.0419, 1941.0419],
+    "source": "19 April 1941, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4687,9 +4687,9 @@
   {
     "path": ["Additional"],
     "item": 344,
-    "title": "19 March 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0319, 1946.0319],
+    "source": "19 March 1946, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4703,9 +4703,9 @@
   {
     "path": ["Additional"],
     "item": 345,
-    "title": "18 April 1941",
     "author": "Shoghi Effendi",
     "years": [1941.0418, 1941.0418],
+    "source": "18 April 1941",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4716,9 +4716,9 @@
   {
     "path": ["Additional"],
     "item": 346,
-    "title": "30 April 1953, to an Intercontinental Teaching Conference",
     "author": "Shoghi Effendi",
     "years": [1953.043, 1953.043],
+    "source": "30 April 1953, to an Intercontinental Teaching Conference",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4729,9 +4729,9 @@
   {
     "path": ["Additional"],
     "item": 347,
-    "title": "July 1925, to the Bahá’ís of Írán",
     "author": "Shoghi Effendi",
     "years": [1925.0701, 1925.0701],
+    "source": "July 1925, to the Bahá’ís of Írán",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4754,9 +4754,9 @@
   {
     "path": ["Additional"],
     "item": 349,
-    "title": "18 August 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0818, 1949.0818],
+    "source": "18 August 1949",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4767,9 +4767,9 @@
   {
     "path": ["Additional"],
     "item": 350,
-    "title": "August 1936",
     "author": "Shoghi Effendi",
     "years": [1936.0801, 1936.0801],
+    "source": "August 1936",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4816,9 +4816,9 @@
   {
     "path": ["Additional"],
     "item": 354,
-    "title": "1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957, 1957],
+    "source": "1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4829,9 +4829,9 @@
   {
     "path": ["Additional"],
     "item": 355,
-    "title": "Riḍván 1948, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1948, 1948],
+    "source": "Riḍván 1948, to the Bahá’ís of the East",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4842,9 +4842,9 @@
   {
     "path": ["Additional"],
     "item": 356,
-    "title": "30 June 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.063, 1957.063],
+    "source": "30 June 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4855,9 +4855,9 @@
   {
     "path": ["Additional"],
     "item": 357,
-    "title": "18 February 1932",
     "author": "Shoghi Effendi",
     "years": [1932.0218, 1932.0218],
+    "source": "18 February 1932",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4868,9 +4868,9 @@
   {
     "path": ["Additional"],
     "item": 358,
-    "title": "19 March 1954",
     "author": "Shoghi Effendi",
     "years": [1954.0319, 1954.0319],
+    "source": "19 March 1954",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4881,9 +4881,9 @@
   {
     "path": ["Additional"],
     "item": 359,
-    "title": "25 March 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0325, 1949.0325],
+    "source": "25 March 1949",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4894,9 +4894,9 @@
   {
     "path": ["Additional"],
     "item": 360,
-    "title": "11 May 1934",
     "author": "Shoghi Effendi",
     "years": [1934.0511, 1934.0511],
+    "source": "11 May 1934",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4907,9 +4907,9 @@
   {
     "path": ["Additional"],
     "item": 361,
-    "title": "20 December 1932",
     "author": "Shoghi Effendi",
     "years": [1932.122, 1932.122],
+    "source": "20 December 1932",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4920,9 +4920,9 @@
   {
     "path": ["Additional"],
     "item": 362,
-    "title": "2 August 1942",
     "author": "Shoghi Effendi",
     "years": [1942.0802, 1942.0802],
+    "source": "2 August 1942",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4933,9 +4933,9 @@
   {
     "path": ["Additional"],
     "item": 363,
-    "title": "13 March 1944",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
+    "source": "13 March 1944",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4946,9 +4946,9 @@
   {
     "path": ["Additional"],
     "item": 364,
-    "title": "17 February 1945",
     "author": "Shoghi Effendi",
     "years": [1945.0217, 1945.0217],
+    "source": "17 February 1945",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -4959,9 +4959,9 @@
   {
     "path": ["Additional"],
     "item": 365,
-    "title": "3 July 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0703, 1948.0703],
+    "source": "3 July 1948",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4972,9 +4972,9 @@
   {
     "path": ["Additional"],
     "item": 366,
-    "title": "25 October 1949",
     "author": "Shoghi Effendi",
     "years": [1949.1025, 1949.1025],
+    "source": "25 October 1949",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4985,9 +4985,9 @@
   {
     "path": ["Additional"],
     "item": 367,
-    "title": "15 September 1951",
     "author": "Shoghi Effendi",
     "years": [1951.0915, 1951.0915],
+    "source": "15 September 1951",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -4998,9 +4998,9 @@
   {
     "path": ["Additional"],
     "item": 368,
-    "title": "30 June 1952",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
+    "source": "30 June 1952",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5011,9 +5011,9 @@
   {
     "path": ["Additional"],
     "item": 369,
-    "title": "5 October 1953",
     "author": "Shoghi Effendi",
     "years": [1953.1005, 1953.1005],
+    "source": "5 October 1953",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5024,9 +5024,9 @@
   {
     "path": ["Additional"],
     "item": 370,
-    "title": "April 1956",
     "author": "Shoghi Effendi",
     "years": [1956.0401, 1956.0401],
+    "source": "April 1956",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5037,9 +5037,9 @@
   {
     "path": ["Additional"],
     "item": 371,
-    "title": "12 August 1957",
     "author": "Shoghi Effendi",
     "years": [1957.0812, 1957.0812],
+    "source": "12 August 1957",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5053,9 +5053,9 @@
   {
     "path": ["Additional"],
     "item": 372,
-    "title": "25 March 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0325, 1930.0325],
+    "source": "25 March 1930, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5066,9 +5066,9 @@
   {
     "path": ["Additional"],
     "item": 373,
-    "title": "To an individual believer",
     "author": "Shoghi Effendi",
     "years": [1921, 1957],
+    "source": "To an individual believer",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5079,9 +5079,9 @@
   {
     "path": ["Additional"],
     "item": 374,
-    "title": "7 January 1923, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1923.0107, 1923.0107],
+    "source": "7 January 1923, to the Bahá’ís of a Nation",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5092,9 +5092,9 @@
   {
     "path": ["Additional"],
     "item": 375,
-    "title": "13 March 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0313, 1934.0313],
+    "source": "13 March 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5105,9 +5105,9 @@
   {
     "path": ["Additional"],
     "item": 376,
-    "title": "22 November 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.1122, 1941.1122],
+    "source": "22 November 1941, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5118,9 +5118,9 @@
   {
     "path": ["Additional"],
     "item": 377,
-    "title": "28 June 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0628, 1945.0628],
+    "source": "28 June 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5131,9 +5131,9 @@
   {
     "path": ["Additional"],
     "item": 378,
-    "title": "30 September 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.093, 1951.093],
+    "source": "30 September 1951, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5144,9 +5144,9 @@
   {
     "path": ["Additional"],
     "item": 379,
-    "title": "19 October 1925, to an individual",
     "author": "Shoghi Effendi",
     "years": [1925.1019, 1925.1019],
+    "source": "19 October 1925, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5157,9 +5157,9 @@
   {
     "path": ["Additional"],
     "item": 380,
-    "title": "30 October 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.103, 1936.103],
+    "source": "30 October 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5170,9 +5170,9 @@
   {
     "path": ["Additional"],
     "item": 381,
-    "title": "19 October 1925, to an individual",
     "author": "Shoghi Effendi",
     "years": [1925.1019, 1925.1019],
+    "source": "19 October 1925, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5183,9 +5183,9 @@
   {
     "path": ["Additional"],
     "item": 382,
-    "title": "15 June 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0615, 1935.0615],
+    "source": "15 June 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5196,9 +5196,9 @@
   {
     "path": ["Additional"],
     "item": 383,
-    "title": "6 July 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0706, 1935.0706],
+    "source": "6 July 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5209,9 +5209,9 @@
   {
     "path": ["Additional"],
     "item": 384,
-    "title": "6 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1206, 1935.1206],
+    "source": "6 December 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5222,9 +5222,9 @@
   {
     "path": ["Additional"],
     "item": 385,
-    "title": "26 October 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.1026, 1938.1026],
+    "source": "26 October 1938, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5238,9 +5238,9 @@
   {
     "path": ["Additional"],
     "item": 386,
-    "title": "16 March 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0316, 1946.0316],
+    "source": "16 March 1946, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5251,9 +5251,9 @@
   {
     "path": ["Additional"],
     "item": 387,
-    "title": "31 January 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0131, 1949.0131],
+    "source": "31 January 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5264,9 +5264,9 @@
   {
     "path": ["Additional"],
     "item": 388,
-    "title": "14 January 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.0114, 1942.0114],
+    "source": "14 January 1942, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5277,9 +5277,9 @@
   {
     "path": ["Additional"],
     "item": 389,
-    "title": "25 January 1943, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1943.0125, 1943.0125],
+    "source": "25 January 1943, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5296,9 +5296,9 @@
   {
     "path": ["Additional"],
     "item": 390,
-    "title": "19 November 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1119, 1945.1119],
+    "source": "19 November 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5309,9 +5309,9 @@
   {
     "path": ["Additional"],
     "item": 391,
-    "title": "27 January 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.0127, 1952.0127],
+    "source": "27 January 1952, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5322,9 +5322,9 @@
   {
     "path": ["Additional"],
     "item": 392,
-    "title": "15 May 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0515, 1944.0515],
+    "source": "15 May 1944, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5335,9 +5335,9 @@
   {
     "path": ["Additional"],
     "item": 393,
-    "title": "29 October 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.1029, 1952.1029],
+    "source": "29 October 1952, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5348,9 +5348,9 @@
   {
     "path": ["Additional"],
     "item": 394,
-    "title": "6 October 1954, to an individual",
     "author": "Shoghi Effendi",
     "years": [1954.1006, 1954.1006],
+    "source": "6 October 1954, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5361,9 +5361,9 @@
   {
     "path": ["Additional"],
     "item": 395,
-    "title": "30 May 1956, to the Hands of the Cause in a Continent",
     "author": "Shoghi Effendi",
     "years": [1956.053, 1956.053],
+    "source": "30 May 1956, to the Hands of the Cause in a Continent",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5374,9 +5374,9 @@
   {
     "path": ["Additional"],
     "item": 396,
-    "title": "30 May 1956, to the Hands of the Cause in a Continent",
     "author": "Shoghi Effendi",
     "years": [1956.053, 1956.053],
+    "source": "30 May 1956, to the Hands of the Cause in a Continent",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5387,9 +5387,9 @@
   {
     "path": ["Additional"],
     "item": 397,
-    "title": "22 August 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0822, 1957.0822],
+    "source": "22 August 1957, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5400,9 +5400,9 @@
   {
     "path": ["Additional"],
     "item": 398,
-    "title": "25 October 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.1025, 1934.1025],
+    "source": "25 October 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5416,9 +5416,9 @@
   {
     "path": ["Additional"],
     "item": 399,
-    "title": "4 January 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0104, 1936.0104],
+    "source": "4 January 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5429,9 +5429,9 @@
   {
     "path": ["Additional"],
     "item": 400,
-    "title": "30 January 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.013, 1937.013],
+    "source": "30 January 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5442,9 +5442,9 @@
   {
     "path": ["Additional"],
     "item": 401,
-    "title": "23 February 1939, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1939.0223, 1939.0223],
+    "source": "23 February 1939, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5458,9 +5458,9 @@
   {
     "path": ["Additional"],
     "item": 402,
-    "title": "7 December 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.1207, 1939.1207],
+    "source": "7 December 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5471,9 +5471,9 @@
   {
     "path": ["Additional"],
     "item": 403,
-    "title": "24 June 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0624, 1949.0624],
+    "source": "24 June 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5487,9 +5487,9 @@
   {
     "path": ["Additional"],
     "item": 404,
-    "title": "17 February 1955, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1955.0217, 1955.0217],
+    "source": "17 February 1955, to a Local Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5500,9 +5500,9 @@
   {
     "path": ["Additional"],
     "item": 405,
-    "title": "8 November 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.1108, 1931.1108],
+    "source": "8 November 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5513,9 +5513,9 @@
   {
     "path": ["Additional"],
     "item": 406,
-    "title": "23 November 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1123, 1947.1123],
+    "source": "23 November 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5526,9 +5526,9 @@
   {
     "path": ["Additional"],
     "item": 407,
-    "title": "28 March 1953, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1953.0328, 1953.0328],
+    "source": "28 March 1953, to selected individuals",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5539,9 +5539,9 @@
   {
     "path": ["Additional"],
     "item": 408,
-    "title": "10 April 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.041, 1939.041],
+    "source": "10 April 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5552,9 +5552,9 @@
   {
     "path": ["Additional"],
     "item": 409,
-    "title": "27 April 1937, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1937.0427, 1937.0427],
+    "source": "27 April 1937, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5565,9 +5565,9 @@
   {
     "path": ["Additional"],
     "item": 410,
-    "title": "14 October 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.1014, 1937.1014],
+    "source": "14 October 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5581,9 +5581,9 @@
   {
     "path": ["Additional"],
     "item": 411,
-    "title": "24 July 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.0724, 1946.0724],
+    "source": "24 July 1946, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5594,9 +5594,9 @@
   {
     "path": ["Additional"],
     "item": 412,
-    "title": "31 January 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0131, 1949.0131],
+    "source": "31 January 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5607,9 +5607,9 @@
   {
     "path": ["Additional"],
     "item": 413,
-    "title": "28 July 1950, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0728, 1950.0728],
+    "source": "28 July 1950, to a Local Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5620,9 +5620,9 @@
   {
     "path": ["Additional"],
     "item": 414,
-    "title": "23 April 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0423, 1957.0423],
+    "source": "23 April 1957, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5633,9 +5633,9 @@
   {
     "path": ["Additional"],
     "item": 415,
-    "title": "29 October 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.1029, 1938.1029],
+    "source": "29 October 1938, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5646,9 +5646,9 @@
   {
     "path": ["Additional"],
     "item": 416,
-    "title": "8 August 1942, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0808, 1942.0808],
+    "source": "8 August 1942, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5659,9 +5659,9 @@
   {
     "path": ["Additional"],
     "item": 417,
-    "title": "27 September 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.0927, 1947.0927],
+    "source": "27 September 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5672,9 +5672,9 @@
   {
     "path": ["Additional"],
     "item": 418,
-    "title": "18 March 1950, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0318, 1950.0318],
+    "source": "18 March 1950, to a Local Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5685,9 +5685,9 @@
   {
     "path": ["Additional"],
     "item": 419,
-    "title": "18 March 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.0318, 1951.0318],
+    "source": "18 March 1951, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5704,9 +5704,9 @@
   {
     "path": ["Additional"],
     "item": 420,
-    "title": "11 June 1956, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1956.0611, 1956.0611],
+    "source": "11 June 1956, to selected individuals",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5717,9 +5717,9 @@
   {
     "path": ["Additional"],
     "item": 421,
-    "title": "5 November 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.1105, 1934.1105],
+    "source": "5 November 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5730,9 +5730,9 @@
   {
     "path": ["Additional"],
     "item": 422,
-    "title": "15 November 1935, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1935.1115, 1935.1115],
+    "source": "15 November 1935, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5743,9 +5743,9 @@
   {
     "path": ["Additional"],
     "item": 423,
-    "title": "20 November 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.112, 1937.112],
+    "source": "20 November 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5756,9 +5756,9 @@
   {
     "path": ["Additional"],
     "item": 424,
-    "title": "1 May 1938, to an individual and a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1938.0501, 1938.0501],
+    "source": "1 May 1938, to an individual and a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5769,9 +5769,9 @@
   {
     "path": ["Additional"],
     "item": 425,
-    "title": "8 June 1948, to an individual",
     "author": "Shoghi Effendi",
     "years": [1948.0608, 1948.0608],
+    "source": "8 June 1948, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5782,9 +5782,9 @@
   {
     "path": ["Additional"],
     "item": 426,
-    "title": "12 August 1933, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1933.0812, 1933.0812],
+    "source": "12 August 1933, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5795,9 +5795,9 @@
   {
     "path": ["Additional"],
     "item": 427,
-    "title": "1 July 1943, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1943.0701, 1943.0701],
+    "source": "1 July 1943, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5808,9 +5808,9 @@
   {
     "path": ["Additional"],
     "item": 428,
-    "title": "15 November 1935, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1935.1115, 1935.1115],
+    "source": "15 November 1935, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5821,9 +5821,9 @@
   {
     "path": ["Additional"],
     "item": 429,
-    "title": "14 May 1927, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1927.0514, 1927.0514],
+    "source": "14 May 1927, to a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5834,9 +5834,9 @@
   {
     "path": ["Additional"],
     "item": 430,
-    "title": "28 September 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.0928, 1941.0928],
+    "source": "28 September 1941, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5850,9 +5850,9 @@
   {
     "path": ["Additional"],
     "item": 431,
-    "title": "17 November 1933, to selected Local Assemblies",
     "author": "Shoghi Effendi",
     "years": [1933.1117, 1933.1117],
+    "source": "17 November 1933, to selected Local Assemblies",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5866,9 +5866,9 @@
   {
     "path": ["Additional"],
     "item": 432,
-    "title": "20 November 1941, to an individual",
     "author": "Shoghi Effendi",
     "years": [1941.112, 1941.112],
+    "source": "20 November 1941, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5879,9 +5879,9 @@
   {
     "path": ["Additional"],
     "item": 433,
-    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
+    "source": "30 June 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -5898,9 +5898,9 @@
   {
     "path": ["Additional"],
     "item": 434,
-    "title": "16 February 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.0216, 1935.0216],
+    "source": "16 February 1935, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5911,9 +5911,9 @@
   {
     "path": ["Additional"],
     "item": 435,
-    "title": "18 April 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0418, 1939.0418],
+    "source": "18 April 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5924,9 +5924,9 @@
   {
     "path": ["Additional"],
     "item": 436,
-    "title": "30 August 1930, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1930.083, 1930.083],
+    "source": "30 August 1930, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5940,9 +5940,9 @@
   {
     "path": ["Additional"],
     "item": 437,
-    "title": "9 March 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0309, 1934.0309],
+    "source": "9 March 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5953,9 +5953,9 @@
   {
     "path": ["Additional"],
     "item": 438,
-    "title": "28 October 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1028, 1935.1028],
+    "source": "28 October 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5966,9 +5966,9 @@
   {
     "path": ["Additional"],
     "item": 439,
-    "title": "12 March 1923, to the Bahá’ís of selected Nations",
     "author": "Shoghi Effendi",
     "years": [1923.0312, 1923.0312],
+    "source": "12 March 1923, to the Bahá’ís of selected Nations",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5979,9 +5979,9 @@
   {
     "path": ["Additional"],
     "item": 440,
-    "title": "12 August 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0812, 1933.0812],
+    "source": "12 August 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -5992,9 +5992,9 @@
   {
     "path": ["Additional"],
     "item": 441,
-    "title": "17 October 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.1017, 1944.1017],
+    "source": "17 October 1944, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6005,9 +6005,9 @@
   {
     "path": ["Additional"],
     "item": 442,
-    "title": "13 March 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
+    "source": "13 March 1944, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6018,9 +6018,9 @@
   {
     "path": ["Additional"],
     "item": 443,
-    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
+    "source": "30 June 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6031,9 +6031,9 @@
   {
     "path": ["Additional"],
     "item": 444,
-    "title": "From letter dated 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949, 1949],
+    "source": "From letter dated 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6044,9 +6044,9 @@
   {
     "path": ["Additional"],
     "item": 445,
-    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
+    "source": "19 October 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6057,9 +6057,9 @@
   {
     "path": ["Additional"],
     "item": 446,
-    "title": "29 July 1942, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0729, 1942.0729],
+    "source": "29 July 1942, to a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6070,9 +6070,9 @@
   {
     "path": ["Additional"],
     "item": 447,
-    "title": "14 October 1941, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1941.1014, 1941.1014],
+    "source": "14 October 1941, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6083,9 +6083,9 @@
   {
     "path": ["Additional"],
     "item": 448,
-    "title": "27 March 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0327, 1938.0327],
+    "source": "27 March 1938, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6096,9 +6096,9 @@
   {
     "path": ["Additional"],
     "item": 449,
-    "title": "10 July 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.071, 1939.071],
+    "source": "10 July 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6109,9 +6109,9 @@
   {
     "path": ["Additional"],
     "item": 450,
-    "title": "16 January 1932, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0116, 1932.0116],
+    "source": "16 January 1932, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6122,9 +6122,9 @@
   {
     "path": ["Additional"],
     "item": 451,
-    "title": "8 March 1932, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0308, 1932.0308],
+    "source": "8 March 1932, to a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6135,9 +6135,9 @@
   {
     "path": ["Additional"],
     "item": 452,
-    "title": "9 April 1932, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0409, 1932.0409],
+    "source": "9 April 1932, to a Local Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6148,9 +6148,9 @@
   {
     "path": ["Additional"],
     "item": 453,
-    "title": "4 February 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0204, 1935.0204],
+    "source": "4 February 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6164,9 +6164,9 @@
   {
     "path": ["Additional"],
     "item": 454,
-    "title": "14 March 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.0314, 1947.0314],
+    "source": "14 March 1947, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6177,9 +6177,9 @@
   {
     "path": ["Additional"],
     "item": 455,
-    "title": "29 June 1941, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.0629, 1941.0629],
+    "source": "29 June 1941, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6190,9 +6190,9 @@
   {
     "path": ["Additional"],
     "item": 456,
-    "title": "10 October 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.101, 1932.101],
+    "source": "10 October 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6203,9 +6203,9 @@
   {
     "path": ["Additional"],
     "item": 457,
-    "title": "8 December 1923, to a Bahá’í community",
     "author": "Shoghi Effendi",
     "years": [1923.1208, 1923.1208],
+    "source": "8 December 1923, to a Bahá’í community",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6216,9 +6216,9 @@
   {
     "path": ["Additional"],
     "item": 458,
-    "title": "February 1927, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1927.0201, 1927.0201],
+    "source": "February 1927, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6229,9 +6229,9 @@
   {
     "path": ["Additional"],
     "item": 459,
-    "title": "22 March 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0322, 1928.0322],
+    "source": "22 March 1928, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6242,9 +6242,9 @@
   {
     "path": ["Additional"],
     "item": 460,
-    "title": "22 March 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0322, 1928.0322],
+    "source": "22 March 1928, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6255,9 +6255,9 @@
   {
     "path": ["Additional"],
     "item": 461,
-    "title": "15 November 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.1115, 1932.1115],
+    "source": "15 November 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6268,9 +6268,9 @@
   {
     "path": ["Additional"],
     "item": 462,
-    "title": "17 March 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0317, 1935.0317],
+    "source": "17 March 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6284,9 +6284,9 @@
   {
     "path": ["Additional"],
     "item": 463,
-    "title": "7 April 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0407, 1935.0407],
+    "source": "7 April 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6297,9 +6297,9 @@
   {
     "path": ["Additional"],
     "item": 464,
-    "title": "4 November 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.1104, 1937.1104],
+    "source": "4 November 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6310,9 +6310,9 @@
   {
     "path": ["Additional"],
     "item": 465,
-    "title": "20 July 1946, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1946.072, 1946.072],
+    "source": "20 July 1946, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6323,9 +6323,9 @@
   {
     "path": ["Additional"],
     "item": 466,
-    "title": "20 August 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.082, 1956.082],
+    "source": "20 August 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6336,9 +6336,9 @@
   {
     "path": ["Additional"],
     "item": 467,
-    "title": "21 September 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0921, 1957.0921],
+    "source": "21 September 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6349,9 +6349,9 @@
   {
     "path": ["Additional"],
     "item": 468,
-    "title": "24 October 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.1024, 1957.1024],
+    "source": "24 October 1957, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6362,9 +6362,9 @@
   {
     "path": ["Additional"],
     "item": 469,
-    "title": "7 January 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.0107, 1931.0107],
+    "source": "7 January 1931, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6375,9 +6375,9 @@
   {
     "path": ["Additional"],
     "item": 470,
-    "title": "28 July 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0728, 1936.0728],
+    "source": "28 July 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6388,9 +6388,9 @@
   {
     "path": ["Additional"],
     "item": 471,
-    "title": "19 June 1931",
     "author": "Shoghi Effendi",
     "years": [1931.0619, 1931.0619],
+    "source": "19 June 1931",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6401,9 +6401,9 @@
   {
     "path": ["Additional"],
     "item": 472,
-    "title": "6 July 1952",
     "author": "Shoghi Effendi",
     "years": [1952.0706, 1952.0706],
+    "source": "6 July 1952",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6414,9 +6414,9 @@
   {
     "path": ["Additional"],
     "item": 473,
-    "title": "31 July 1953",
     "author": "Shoghi Effendi",
     "years": [1953.0731, 1953.0731],
+    "source": "31 July 1953",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6430,9 +6430,9 @@
   {
     "path": ["Additional"],
     "item": 474,
-    "title": "9 November 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.1109, 1956.1109],
+    "source": "9 November 1956, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6443,9 +6443,9 @@
   {
     "path": ["Additional"],
     "item": 475,
-    "title": "10 November 1930, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1930.111, 1930.111],
+    "source": "10 November 1930, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6456,9 +6456,9 @@
   {
     "path": ["Additional"],
     "item": 476,
-    "title": "27 December 1923, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1923.1227, 1923.1227],
+    "source": "27 December 1923, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6478,9 +6478,9 @@
   {
     "path": ["Additional"],
     "item": 477,
-    "title": "April 1954",
     "author": "Shoghi Effendi",
     "years": [1954.0401, 1954.0401],
+    "source": "April 1954",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6693,9 +6693,9 @@
   {
     "path": ["Additional"],
     "item": 487,
-    "title": "23 June 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0623, 1945.0623],
+    "source": "23 June 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6709,9 +6709,9 @@
   {
     "path": ["Additional"],
     "item": 488,
-    "title": "April/May 1927, to an individual",
     "author": "Shoghi Effendi",
     "years": [1927.0501, 1927.0501],
+    "source": "April/May 1927, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6722,9 +6722,9 @@
   {
     "path": ["Additional"],
     "item": 489,
-    "title": "16 December 1927, to an individual",
     "author": "Shoghi Effendi",
     "years": [1927.1216, 1927.1216],
+    "source": "16 December 1927, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6735,9 +6735,9 @@
   {
     "path": ["Additional"],
     "item": 490,
-    "title": "17 November 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.1117, 1937.1117],
+    "source": "17 November 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6748,9 +6748,9 @@
   {
     "path": ["Additional"],
     "item": 491,
-    "title": "29 September 1942, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0929, 1942.0929],
+    "source": "29 September 1942, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6761,9 +6761,9 @@
   {
     "path": ["Additional"],
     "item": 492,
-    "title": "12 October 1946, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1946.1012, 1946.1012],
+    "source": "12 October 1946, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -6774,9 +6774,9 @@
   {
     "path": ["Additional"],
     "item": 493,
-    "title": "15 January 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0115, 1933.0115],
+    "source": "15 January 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6787,9 +6787,9 @@
   {
     "path": ["Additional"],
     "item": 494,
-    "title": "25 March 1925, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1925.0325, 1925.0325],
+    "source": "25 March 1925, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6806,9 +6806,9 @@
   {
     "path": ["Additional"],
     "item": 495,
-    "title": "24 November 1925, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1925.1124, 1925.1124],
+    "source": "24 November 1925, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6822,9 +6822,9 @@
   {
     "path": ["Additional"],
     "item": 496,
-    "title": "25 May 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.0525, 1926.0525],
+    "source": "25 May 1926, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6835,9 +6835,9 @@
   {
     "path": ["Additional"],
     "item": 497,
-    "title": "9 July 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.0709, 1926.0709],
+    "source": "9 July 1926, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6848,9 +6848,9 @@
   {
     "path": ["Additional"],
     "item": 498,
-    "title": "7 September 1926, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1926.0907, 1926.0907],
+    "source": "7 September 1926, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6861,9 +6861,9 @@
   {
     "path": ["Additional"],
     "item": 499,
-    "title": "7 September 1926, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1926.0907, 1926.0907],
+    "source": "7 September 1926, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6874,9 +6874,9 @@
   {
     "path": ["Additional"],
     "item": 500,
-    "title": "14 April 1932, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1932.0414, 1932.0414],
+    "source": "14 April 1932, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6887,9 +6887,9 @@
   {
     "path": ["Additional"],
     "item": 501,
-    "title": "4 May 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0504, 1932.0504],
+    "source": "4 May 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6900,9 +6900,9 @@
   {
     "path": ["Additional"],
     "item": 502,
-    "title": "28 May 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0528, 1932.0528],
+    "source": "28 May 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6919,9 +6919,9 @@
   {
     "path": ["Additional"],
     "item": 503,
-    "title": "30 December 1933, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1933.123, 1933.123],
+    "source": "30 December 1933, to selected individuals",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6932,9 +6932,9 @@
   {
     "path": ["Additional"],
     "item": 504,
-    "title": "25 September 1934, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1934.0925, 1934.0925],
+    "source": "25 September 1934, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6945,9 +6945,9 @@
   {
     "path": ["Additional"],
     "item": 505,
-    "title": "29 July 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.0729, 1935.0729],
+    "source": "29 July 1935, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6958,9 +6958,9 @@
   {
     "path": ["Additional"],
     "item": 506,
-    "title": "31 December 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.1231, 1935.1231],
+    "source": "31 December 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6974,9 +6974,9 @@
   {
     "path": ["Additional"],
     "item": 507,
-    "title": "17 July 1937, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1937.0717, 1937.0717],
+    "source": "17 July 1937, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -6987,9 +6987,9 @@
   {
     "path": ["Additional"],
     "item": 508,
-    "title": "3 February 1941, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.0203, 1941.0203],
+    "source": "3 February 1941, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7000,9 +7000,9 @@
   {
     "path": ["Additional"],
     "item": 509,
-    "title": "4 May 1941, to the Treasurer of a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.0504, 1941.0504],
+    "source": "4 May 1941, to the Treasurer of a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7016,9 +7016,9 @@
   {
     "path": ["Additional"],
     "item": 510,
-    "title": "26 October 1941, to the Treasurer of a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1941.1026, 1941.1026],
+    "source": "26 October 1941, to the Treasurer of a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7029,9 +7029,9 @@
   {
     "path": ["Additional"],
     "item": 511,
-    "title": "26 October 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1026, 1945.1026],
+    "source": "26 October 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7042,9 +7042,9 @@
   {
     "path": ["Additional"],
     "item": 512,
-    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
+    "source": "19 October 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7055,9 +7055,9 @@
   {
     "path": ["Additional"],
     "item": 513,
-    "title": "8 December 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1208, 1947.1208],
+    "source": "8 December 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7068,9 +7068,9 @@
   {
     "path": ["Additional"],
     "item": 514,
-    "title": "23 June 1950, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0623, 1950.0623],
+    "source": "23 June 1950, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7081,9 +7081,9 @@
   {
     "path": ["Additional"],
     "item": 515,
-    "title": "19 September 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.0919, 1951.0919],
+    "source": "19 September 1951, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7094,9 +7094,9 @@
   {
     "path": ["Additional"],
     "item": 516,
-    "title": "29 September 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.0929, 1951.0929],
+    "source": "29 September 1951, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7107,9 +7107,9 @@
   {
     "path": ["Additional"],
     "item": 517,
-    "title": "12 July 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.0712, 1952.0712],
+    "source": "12 July 1952, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7120,9 +7120,9 @@
   {
     "path": ["Additional"],
     "item": 518,
-    "title": "25 March 1953, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1953.0325, 1953.0325],
+    "source": "25 March 1953, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7139,9 +7139,9 @@
   {
     "path": ["Additional"],
     "item": 519,
-    "title": "20 June 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.062, 1954.062],
+    "source": "20 June 1954, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7152,9 +7152,9 @@
   {
     "path": ["Additional"],
     "item": 520,
-    "title": "10 August 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.081, 1956.081],
+    "source": "10 August 1956, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7165,9 +7165,9 @@
   {
     "path": ["Additional"],
     "item": 521,
-    "title": "10 June 1956, to a Hand of the Cause in a Continent",
     "author": "Shoghi Effendi",
     "years": [1956.061, 1956.061],
+    "source": "10 June 1956, to a Hand of the Cause in a Continent",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7178,9 +7178,9 @@
   {
     "path": ["Additional"],
     "item": 522,
-    "title": "15 December 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.1215, 1956.1215],
+    "source": "15 December 1956, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7191,9 +7191,9 @@
   {
     "path": ["Additional"],
     "item": 523,
-    "title": "8 August 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0808, 1957.0808],
+    "source": "8 August 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7204,9 +7204,9 @@
   {
     "path": ["Additional"],
     "item": 524,
-    "title": "19 December 1929, to an individual",
     "author": "Shoghi Effendi",
     "years": [1929.1219, 1929.1219],
+    "source": "19 December 1929, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7217,9 +7217,9 @@
   {
     "path": ["Additional"],
     "item": 525,
-    "title": "14 November 1936, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1936.1114, 1936.1114],
+    "source": "14 November 1936, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7230,9 +7230,9 @@
   {
     "path": ["Additional"],
     "item": 526,
-    "title": "17 July 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0717, 1937.0717],
+    "source": "17 July 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7243,9 +7243,9 @@
   {
     "path": ["Additional"],
     "item": 527,
-    "title": "8 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.0608, 1952.0608],
+    "source": "8 June 1952, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7259,9 +7259,9 @@
   {
     "path": ["Additional"],
     "item": 528,
-    "title": "8 August 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0808, 1957.0808],
+    "source": "8 August 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7272,9 +7272,9 @@
   {
     "path": ["Additional"],
     "item": 529,
-    "title": "27 February 1927, to the Bahá’ís of the East",
     "author": "Shoghi Effendi",
     "years": [1927.0227, 1927.0227],
+    "source": "27 February 1927, to the Bahá’ís of the East",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7285,9 +7285,9 @@
   {
     "path": ["Additional"],
     "item": 530,
-    "title": "4 January 1929, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1929.0104, 1929.0104],
+    "source": "4 January 1929, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7298,9 +7298,9 @@
   {
     "path": ["Additional"],
     "item": 531,
-    "title": "14 April 1934, to an individual",
     "author": "Shoghi Effendi",
     "years": [1934.0414, 1934.0414],
+    "source": "14 April 1934, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7311,9 +7311,9 @@
   {
     "path": ["Additional"],
     "item": 532,
-    "title": "12 July 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0712, 1938.0712],
+    "source": "12 July 1938, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7324,9 +7324,9 @@
   {
     "path": ["Additional"],
     "item": 533,
-    "title": "8 May 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.0508, 1947.0508],
+    "source": "8 May 1947, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7337,9 +7337,9 @@
   {
     "path": ["Additional"],
     "item": 534,
-    "title": "18 August 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0818, 1949.0818],
+    "source": "18 August 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7350,9 +7350,9 @@
   {
     "path": ["Additional"],
     "item": 535,
-    "title": "5 July 1950, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0705, 1950.0705],
+    "source": "5 July 1950, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7363,9 +7363,9 @@
   {
     "path": ["Additional"],
     "item": 536,
-    "title": "4 October 1950, to an individual",
     "author": "Shoghi Effendi",
     "years": [1950.1004, 1950.1004],
+    "source": "4 October 1950, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7376,9 +7376,9 @@
   {
     "path": ["Additional"],
     "item": 537,
-    "title": "30 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
+    "source": "30 June 1952, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7389,9 +7389,9 @@
   {
     "path": ["Additional"],
     "item": 538,
-    "title": "21 June 1953, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1953.0621, 1953.0621],
+    "source": "21 June 1953, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7402,9 +7402,9 @@
   {
     "path": ["Additional"],
     "item": 539,
-    "title": "6 November 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.1106, 1949.1106],
+    "source": "6 November 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7415,9 +7415,9 @@
   {
     "path": ["Additional"],
     "item": 540,
-    "title": "15 February 1922, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1922.0215, 1922.0215],
+    "source": "15 February 1922, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7428,9 +7428,9 @@
   {
     "path": ["Additional"],
     "item": 541,
-    "title": "13 March 1944",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
+    "source": "13 March 1944",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7441,9 +7441,9 @@
   {
     "path": ["Additional"],
     "item": 542,
-    "title": "August 1927, to selected National Assemblies",
     "author": "Shoghi Effendi",
     "years": [1927.0801, 1927.0801],
+    "source": "August 1927, to selected National Assemblies",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7454,9 +7454,9 @@
   {
     "path": ["Additional"],
     "item": 543,
-    "title": "8 April 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.0408, 1931.0408],
+    "source": "8 April 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7467,9 +7467,9 @@
   {
     "path": ["Additional"],
     "item": 544,
-    "title": "20 December 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.122, 1931.122],
+    "source": "20 December 1931, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7480,9 +7480,9 @@
   {
     "path": ["Additional"],
     "item": 545,
-    "title": "25 June 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.0625, 1954.0625],
+    "source": "25 June 1954, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7493,9 +7493,9 @@
   {
     "path": ["Additional"],
     "item": 546,
-    "title": "13 December 1928, to the Bahá’ís of a Nation",
     "author": "Shoghi Effendi",
     "years": [1928.1213, 1928.1213],
+    "source": "13 December 1928, to the Bahá’ís of a Nation",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7506,9 +7506,9 @@
   {
     "path": ["Additional"],
     "item": 547,
-    "title": "11 April 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.0411, 1931.0411],
+    "source": "11 April 1931, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7519,9 +7519,9 @@
   {
     "path": ["Additional"],
     "item": 548,
-    "title": "6 May 1931, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1931.0506, 1931.0506],
+    "source": "6 May 1931, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7532,9 +7532,9 @@
   {
     "path": ["Additional"],
     "item": 549,
-    "title": "15 June 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.0615, 1935.0615],
+    "source": "15 June 1935, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7545,9 +7545,9 @@
   {
     "path": ["Additional"],
     "item": 550,
-    "title": "14 May 1936, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1936.0514, 1936.0514],
+    "source": "14 May 1936, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7558,9 +7558,9 @@
   {
     "path": ["Additional"],
     "item": 551,
-    "title": "26 June 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0626, 1936.0626],
+    "source": "26 June 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7571,9 +7571,9 @@
   {
     "path": ["Additional"],
     "item": 552,
-    "title": "28 January 1939, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1939.0128, 1939.0128],
+    "source": "28 January 1939, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7587,9 +7587,9 @@
   {
     "path": ["Additional"],
     "item": 553,
-    "title": "20 July 1946, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1946.072, 1946.072],
+    "source": "20 July 1946, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7615,9 +7615,9 @@
   {
     "path": ["Additional"],
     "item": 554,
-    "title": "25 June 1954, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1954.0625, 1954.0625],
+    "source": "25 June 1954, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7628,9 +7628,9 @@
   {
     "path": ["Additional"],
     "item": 555,
-    "title": "10 February 1955, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1955.021, 1955.021],
+    "source": "10 February 1955, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7641,9 +7641,9 @@
   {
     "path": ["Additional"],
     "item": 556,
-    "title": "9 November 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.1109, 1956.1109],
+    "source": "9 November 1956, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7654,9 +7654,9 @@
   {
     "path": ["Additional"],
     "item": 557,
-    "title": "19 July 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0719, 1957.0719],
+    "source": "19 July 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7667,9 +7667,9 @@
   {
     "path": ["Additional"],
     "item": 558,
-    "title": "25 April 1926, to an individual",
     "author": "Shoghi Effendi",
     "years": [1926.0425, 1926.0425],
+    "source": "25 April 1926, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7680,9 +7680,9 @@
   {
     "path": ["Additional"],
     "item": 559,
-    "title": "12 October 1946",
     "author": "Shoghi Effendi",
     "years": [1946.1012, 1946.1012],
+    "source": "12 October 1946",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7693,9 +7693,9 @@
   {
     "path": ["Additional"],
     "item": 560,
-    "title": "3 May 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0503, 1936.0503],
+    "source": "3 May 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7706,9 +7706,9 @@
   {
     "path": ["Additional"],
     "item": 561,
-    "title": "15 April 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0415, 1939.0415],
+    "source": "15 April 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7719,9 +7719,9 @@
   {
     "path": ["Additional"],
     "item": 562,
-    "title": "20 January 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.012, 1943.012],
+    "source": "20 January 1943, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7732,9 +7732,9 @@
   {
     "path": ["Additional"],
     "item": 563,
-    "title": "5 January 1948, to an individual",
     "author": "Shoghi Effendi",
     "years": [1948.0105, 1948.0105],
+    "source": "5 January 1948, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7745,9 +7745,9 @@
   {
     "path": ["Additional"],
     "item": 564,
-    "title": "13 March 1944, to an individual",
     "author": "Shoghi Effendi",
     "years": [1944.0313, 1944.0313],
+    "source": "13 March 1944, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7758,9 +7758,9 @@
   {
     "path": ["Additional"],
     "item": 565,
-    "title": "28 March 1941, Preface to The Promised Day Is Come",
     "author": "Shoghi Effendi",
     "years": [1941.0328, 1941.0328],
+    "source": "28 March 1941, Preface to The Promised Day Is Come",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7783,9 +7783,9 @@
   {
     "path": ["Additional"],
     "item": 566,
-    "title": "30 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
+    "source": "30 June 1952, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7796,9 +7796,9 @@
   {
     "path": ["Additional"],
     "item": 567,
-    "title": "2 July 1956, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1956.0702, 1956.0702],
+    "source": "2 July 1956, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7809,9 +7809,9 @@
   {
     "path": ["Additional"],
     "item": 568,
-    "title": "20 January 1935, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1935.012, 1935.012],
+    "source": "20 January 1935, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7822,9 +7822,9 @@
   {
     "path": ["Additional"],
     "item": 569,
-    "title": "31 July 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0731, 1935.0731],
+    "source": "31 July 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7838,9 +7838,9 @@
   {
     "path": ["Additional"],
     "item": 570,
-    "title": "31 August 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0831, 1937.0831],
+    "source": "31 August 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7851,9 +7851,9 @@
   {
     "path": ["Additional"],
     "item": 571,
-    "title": "25 May 1938, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1938.0525, 1938.0525],
+    "source": "25 May 1938, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7864,9 +7864,9 @@
   {
     "path": ["Additional"],
     "item": 572,
-    "title": "7 February 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.0207, 1945.0207],
+    "source": "7 February 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7880,9 +7880,9 @@
   {
     "path": ["Additional"],
     "item": 573,
-    "title": "19 June 1957, to an individual",
     "author": "Shoghi Effendi",
     "years": [1957.0619, 1957.0619],
+    "source": "19 June 1957, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7893,9 +7893,9 @@
   {
     "path": ["Additional"],
     "item": 574,
-    "title": "14 August 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0814, 1957.0814],
+    "source": "14 August 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7909,9 +7909,9 @@
   {
     "path": ["Additional"],
     "item": 575,
-    "title": "4 April 1930, to an individual",
     "author": "Shoghi Effendi",
     "years": [1930.0404, 1930.0404],
+    "source": "4 April 1930, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7925,9 +7925,9 @@
   {
     "path": ["Additional"],
     "item": 576,
-    "title": "30 August 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.083, 1937.083],
+    "source": "30 August 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -7938,9 +7938,9 @@
   {
     "path": ["Additional"],
     "item": 577,
-    "title": "21 October 1946, to an individual",
     "author": "Shoghi Effendi",
     "years": [1946.1021, 1946.1021],
+    "source": "21 October 1946, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7951,9 +7951,9 @@
   {
     "path": ["Additional"],
     "item": 578,
-    "title": "30 June 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.063, 1949.063],
+    "source": "30 June 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7964,9 +7964,9 @@
   {
     "path": ["Additional"],
     "item": 579,
-    "title": "26 January 1950, to a Local Assembly",
     "author": "Shoghi Effendi",
     "years": [1950.0126, 1950.0126],
+    "source": "26 January 1950, to a Local Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7977,9 +7977,9 @@
   {
     "path": ["Additional"],
     "item": 580,
-    "title": "8 April 1951, to selected individuals",
     "author": "Shoghi Effendi",
     "years": [1951.0408, 1951.0408],
+    "source": "8 April 1951, to selected individuals",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -7990,9 +7990,9 @@
   {
     "path": ["Additional"],
     "item": 581,
-    "title": "26 September 1955, to an individual",
     "author": "Shoghi Effendi",
     "years": [1955.0926, 1955.0926],
+    "source": "26 September 1955, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8003,9 +8003,9 @@
   {
     "path": ["Additional"],
     "item": 582,
-    "title": "August 1927, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1927.0801, 1927.0801],
+    "source": "August 1927, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8016,9 +8016,9 @@
   {
     "path": ["Additional"],
     "item": 583,
-    "title": "22 August 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0822, 1949.0822],
+    "source": "22 August 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8029,9 +8029,9 @@
   {
     "path": ["Additional"],
     "item": 584,
-    "title": "24 October 1947, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1947.1024, 1947.1024],
+    "source": "24 October 1947, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8042,9 +8042,9 @@
   {
     "path": ["Additional"],
     "item": 585,
-    "title": "4 June 1957, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1957.0604, 1957.0604],
+    "source": "4 June 1957, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8061,9 +8061,9 @@
   {
     "path": ["Additional"],
     "item": 586,
-    "title": "24 May 1927, to an individual",
     "author": "Shoghi Effendi",
     "years": [1927.0524, 1927.0524],
+    "source": "24 May 1927, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8074,9 +8074,9 @@
   {
     "path": ["Additional"],
     "item": 587,
-    "title": "12 July 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0712, 1937.0712],
+    "source": "12 July 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8087,9 +8087,9 @@
   {
     "path": ["Additional"],
     "item": 588,
-    "title": "28 September 1928, to an individual",
     "author": "Shoghi Effendi",
     "years": [1928.0928, 1928.0928],
+    "source": "28 September 1928, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8100,9 +8100,9 @@
   {
     "path": ["Additional"],
     "item": 589,
-    "title": "2 July 1942, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1942.0702, 1942.0702],
+    "source": "2 July 1942, to a National Assembly",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8122,9 +8122,9 @@
   {
     "path": ["Additional"],
     "item": 590,
-    "title": "11 May 1948, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1948.0511, 1948.0511],
+    "source": "11 May 1948, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8135,9 +8135,9 @@
   {
     "path": ["Additional"],
     "item": 591,
-    "title": "15 April 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0415, 1949.0415],
+    "source": "15 April 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8148,9 +8148,9 @@
   {
     "path": ["Additional"],
     "item": 592,
-    "title": "18 August 1949, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1949.0818, 1949.0818],
+    "source": "18 August 1949, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8161,9 +8161,9 @@
   {
     "path": ["Additional"],
     "item": 593,
-    "title": "11 December 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.1211, 1931.1211],
+    "source": "11 December 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8174,9 +8174,9 @@
   {
     "path": ["Additional"],
     "item": 594,
-    "title": "2 January 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0102, 1932.0102],
+    "source": "2 January 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8187,9 +8187,9 @@
   {
     "path": ["Additional"],
     "item": 595,
-    "title": "3 April 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0403, 1932.0403],
+    "source": "3 April 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8200,9 +8200,9 @@
   {
     "path": ["Additional"],
     "item": 596,
-    "title": "20 June 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.062, 1932.062],
+    "source": "20 June 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8219,9 +8219,9 @@
   {
     "path": ["Additional"],
     "item": 597,
-    "title": "10 October 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.101, 1932.101],
+    "source": "10 October 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8238,9 +8238,9 @@
   {
     "path": ["Additional"],
     "item": 598,
-    "title": "6 August 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0806, 1933.0806],
+    "source": "6 August 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8251,9 +8251,9 @@
   {
     "path": ["Additional"],
     "item": 599,
-    "title": "25 July 1936, to an individual",
     "author": "Shoghi Effendi",
     "years": [1936.0725, 1936.0725],
+    "source": "25 July 1936, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8264,9 +8264,9 @@
   {
     "path": ["Additional"],
     "item": 600,
-    "title": "4 November 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.1104, 1937.1104],
+    "source": "4 November 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8277,9 +8277,9 @@
   {
     "path": ["Additional"],
     "item": 601,
-    "title": "23 December 1942, to an individual",
     "author": "Shoghi Effendi",
     "years": [1942.1223, 1942.1223],
+    "source": "23 December 1942, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8290,9 +8290,9 @@
   {
     "path": ["Additional"],
     "item": 602,
-    "title": "22 December 1948, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1948.1222, 1948.1222],
+    "source": "22 December 1948, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8303,9 +8303,9 @@
   {
     "path": ["Additional"],
     "item": 603,
-    "title": "1 March 1951, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1951.0301, 1951.0301],
+    "source": "1 March 1951, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8316,9 +8316,9 @@
   {
     "path": ["Additional"],
     "item": 604,
-    "title": "3 February 1952, to an individual",
     "author": "Shoghi Effendi",
     "years": [1952.0203, 1952.0203],
+    "source": "3 February 1952, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8332,9 +8332,9 @@
   {
     "path": ["Additional"],
     "item": 605,
-    "title": "30 June 1952, to a National Assembly",
     "author": "Shoghi Effendi",
     "years": [1952.063, 1952.063],
+    "source": "30 June 1952, to a National Assembly",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8345,9 +8345,9 @@
   {
     "path": ["Additional"],
     "item": 606,
-    "title": "3 July 1949, to an individual",
     "author": "Shoghi Effendi",
     "years": [1949.0703, 1949.0703],
+    "source": "3 July 1949, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8358,9 +8358,9 @@
   {
     "path": ["Additional"],
     "item": 607,
-    "title": "27 May 1932, to an individual",
     "author": "Shoghi Effendi",
     "years": [1932.0527, 1932.0527],
+    "source": "27 May 1932, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8371,9 +8371,9 @@
   {
     "path": ["Additional"],
     "item": 608,
-    "title": "24 September 1933, to an individual",
     "author": "Shoghi Effendi",
     "years": [1933.0924, 1933.0924],
+    "source": "24 September 1933, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8384,9 +8384,9 @@
   {
     "path": ["Additional"],
     "item": 609,
-    "title": "6 July 1935, to an individual",
     "author": "Shoghi Effendi",
     "years": [1935.0706, 1935.0706],
+    "source": "6 July 1935, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8397,9 +8397,9 @@
   {
     "path": ["Additional"],
     "item": 610,
-    "title": "23 July 1937, to an individual",
     "author": "Shoghi Effendi",
     "years": [1937.0723, 1937.0723],
+    "source": "23 July 1937, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8410,9 +8410,9 @@
   {
     "path": ["Additional"],
     "item": 611,
-    "title": "11 September 1938, to an individual",
     "author": "Shoghi Effendi",
     "years": [1938.0911, 1938.0911],
+    "source": "11 September 1938, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8432,9 +8432,9 @@
   {
     "path": ["Additional"],
     "item": 612,
-    "title": "8 May 1939, to an individual",
     "author": "Shoghi Effendi",
     "years": [1939.0508, 1939.0508],
+    "source": "8 May 1939, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8451,9 +8451,9 @@
   {
     "path": ["Additional"],
     "item": 613,
-    "title": "16 December 1940, to an individual",
     "author": "Shoghi Effendi",
     "years": [1940.1216, 1940.1216],
+    "source": "16 December 1940, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8464,9 +8464,9 @@
   {
     "path": ["Additional"],
     "item": 614,
-    "title": "10 November 1943, to an individual",
     "author": "Shoghi Effendi",
     "years": [1943.111, 1943.111],
+    "source": "10 November 1943, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8483,9 +8483,9 @@
   {
     "path": ["Additional"],
     "item": 615,
-    "title": "10 August 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.081, 1945.081],
+    "source": "10 August 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8496,9 +8496,9 @@
   {
     "path": ["Additional"],
     "item": 616,
-    "title": "16 November 1945, to an individual",
     "author": "Shoghi Effendi",
     "years": [1945.1116, 1945.1116],
+    "source": "16 November 1945, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {
@@ -8512,9 +8512,9 @@
   {
     "path": ["Additional"],
     "item": 617,
-    "title": "19 October 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1019, 1947.1019],
+    "source": "19 October 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8525,9 +8525,9 @@
   {
     "path": ["Additional"],
     "item": 618,
-    "title": "19 December 1947, to an individual",
     "author": "Shoghi Effendi",
     "years": [1947.1219, 1947.1219],
+    "source": "19 December 1947, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8544,9 +8544,9 @@
   {
     "path": ["Additional"],
     "item": 619,
-    "title": "5 April 1951, to an individual",
     "author": "Shoghi Effendi",
     "years": [1951.0405, 1951.0405],
+    "source": "5 April 1951, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8563,9 +8563,9 @@
   {
     "path": ["Additional"],
     "item": 620,
-    "title": "6 March 1953, to an individual",
     "author": "Shoghi Effendi",
     "years": [1953.0306, 1953.0306],
+    "source": "6 March 1953, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8582,9 +8582,9 @@
   {
     "path": ["Additional"],
     "item": 621,
-    "title": "13 January 1956, to an individual",
     "author": "Shoghi Effendi",
     "years": [1956.0113, 1956.0113],
+    "source": "13 January 1956, to an individual",
     "epoch": "Second Epoch",
     "paragraphs": [
       {
@@ -8607,9 +8607,9 @@
   {
     "path": ["Additional"],
     "item": 623,
-    "title": "20 June 1931, to an individual",
     "author": "Shoghi Effendi",
     "years": [1931.062, 1931.062],
+    "source": "20 June 1931, to an individual",
     "epoch": "First Epoch",
     "paragraphs": [
       {

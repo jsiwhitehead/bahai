@@ -2099,7 +2099,6 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         years: [1938, 1938],
         collection: true,
       }),
-      title("", "#", { author: "Bahá’u’lláh", years: [1873, 1873] }),
       [
         "\nThe World Order of Bahá’u’lláh",
         '\n# The World Order of Bahá’u’lláh\ndate="27 February 1929"',

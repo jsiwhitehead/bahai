@@ -126,9 +126,9 @@ const process = (source, id) => {
     if (
       id.startsWith("additional-") &&
       !id.startsWith("additional-other") &&
-      d.title
+      d.source
     ) {
-      const match = d.title.match(dateRegex);
+      const match = d.source.match(dateRegex);
       if (match) {
         const [_, dd, mm, yy] = match;
         if (parseInt(yy, 10) >= 1800 && parseInt(yy, 10) <= 2050) {
