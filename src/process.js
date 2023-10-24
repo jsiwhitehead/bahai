@@ -168,8 +168,12 @@ const process = (source, id) => {
     }
     return { ...d, paragraphs };
   });
-  return id === "the-universal-house-of-justice-messages"
-    ? result.reverse()
+  return [
+    "bahaullah-additional-tablets-extracts-from-tablets-revealed-bahaullah",
+    "abdul-baha-additional-tablets-extracts-talks",
+    "the-universal-house-of-justice-messages",
+  ].includes(id)
+    ? result.reverse().map((d, i) => ({ ...d, item: i + 1 }))
     : result;
 };
 

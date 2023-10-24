@@ -950,6 +950,7 @@ export const files = {
         collection: true,
       }),
       [/^—Bahá’u’lláh$/gm, ""],
+      [/^Mírzá Muḥammad‑‘Alí Zunúzí.*/m, ""],
       [/^Bahá’u’lláh states in another Tablet.*/m, ""],
       [/^In a Tablet Bahá’u’lláh states.*/m, ""],
       [/^Zaynu’l‑Muqarrabín./m, ""],
