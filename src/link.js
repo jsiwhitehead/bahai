@@ -122,7 +122,7 @@ const getQuoteParts = (doc, paraIndex, source, simplified, parts) => ({
     const pos = getQuotePosition(source.paragraph, simplified[i], text);
     source.paragraph.citations = source.paragraph.citations || [];
     source.paragraph.citations.push({
-      doc: doc.id,
+      doc: doc.index,
       paragraph: paraIndex,
       ...pos,
     });
@@ -167,7 +167,8 @@ const documents = (
       return -1;
     }
     return a.years[0] - b.years[0] || a.id.localeCompare(b.id);
-  });
+  })
+  .map((d, index) => ({ ...d, index }));
 // .filter(
 //   (d) =>
 //     ["‘Abdu’l‑Bahá"].includes(d.author) ||
@@ -186,8 +187,6 @@ const findSource = (doc, simplified, parts) => {
   for (const d of documents) {
     if (
       d.id !== doc.id &&
-      !["bible", "quran"].some((s) => doc.id.startsWith(s)) &&
-      !["bible", "quran"].some((s) => d.id.startsWith(s)) &&
       d.id !== "bahaullah-days-remembrance-037" &&
       !(
         d.id.startsWith("prayers-bahai-prayers-0") &&
@@ -272,7 +271,6 @@ const textToChunks = (doc, paraIndex, splitText, min, inline) => {
 
 for (const doc of documents) {
   if (
-    !["bible", "quran"].some((s) => doc.id.startsWith(s)) &&
     doc.type !== "Prayer" &&
     ![
       "the-universal-house-of-justice-messages-333",
@@ -377,7 +375,7 @@ for (const doc of documents) {
               return c.parts.map((p) => {
                 if (typeof p === "string") return p;
                 return {
-                  doc: c.source.doc.id,
+                  doc: c.source.doc.index,
                   paragraph: c.source.index,
                   text: c.source.paragraph.text.slice(p.start, p.end),
                   ...p,
@@ -418,11 +416,7 @@ for (const doc of documents) {
 }
 
 const processInlineQuotes = (doc) => {
-  if (
-    !["bible", "quran"].some((s) => doc.id.startsWith(s)) &&
-    doc.type !== "Prayer" &&
-    !doc.processed
-  ) {
+  if (doc.type !== "Prayer" && !doc.processed) {
     console.log(doc.id);
     doc.processed = true;
     doc.paragraphs.forEach((para, paraIndex) => {
@@ -506,7 +500,7 @@ const processInlineQuotes = (doc) => {
               return c.parts.map((p) => {
                 if (typeof p === "string") return p;
                 return {
-                  doc: c.source.doc.id,
+                  doc: c.source.doc.index,
                   paragraph: c.source.index,
                   text: c.source.paragraph.text.slice(p.start, p.end),
                   ...p,
@@ -536,40 +530,38 @@ const processInlineQuotes = (doc) => {
 };
 for (const doc of documents) processInlineQuotes(doc);
 
-const documentMap = documents.reduce((res, d) => {
+const linkedData = documents.map((d) => {
   let counter = 1;
   const allLines = d.paragraphs.every((p) => p.type || p.lines);
   return {
-    ...res,
-    [d.id]: {
-      ...d,
-      paragraphs: d.paragraphs.map((p) => ({
-        ...(p.quote || p.section || p.type || (p.lines && !allLines)
-          ? {}
-          : { index: counter++ }),
-        ...p,
-        parts:
-          p.parts.length === 0
-            ? undefined
-            : p.parts.map((part) =>
-                typeof part === "string" ? part : { ...part, text: undefined }
-              ),
-        citations: p.citations?.sort(
-          (a, b) =>
-            documents.findIndex((x) => x.id === a.doc) -
-            documents.findIndex((x) => x.id === b.doc)
-        ),
-        indices: undefined,
-        text: undefined,
-        simplified: undefined,
-      })),
-      processed: undefined,
-    },
+    ...d,
+    paragraphs: d.paragraphs.map((p) => ({
+      ...(p.quote || p.section || p.type || (p.lines && !allLines)
+        ? {}
+        : { index: counter++ }),
+      ...p,
+      parts:
+        p.parts.length === 0
+          ? undefined
+          : p.parts.map((part) =>
+              typeof part === "string" ? part : { ...part, text: undefined }
+            ),
+      citations: p.citations?.sort(
+        (a, b) =>
+          documents.findIndex((x) => x.id === a.doc) -
+          documents.findIndex((x) => x.id === b.doc)
+      ),
+      indices: undefined,
+      text: undefined,
+      simplified: undefined,
+    })),
+    processed: undefined,
+    index: undefined,
   };
-}, {});
+});
 
 await fs.promises.writeFile(
   `./data/data.json`,
-  await prettify(JSON.stringify(documentMap, null, 2), "json"),
+  await prettify(JSON.stringify(linkedData, null, 2), "json"),
   "utf-8"
 );
