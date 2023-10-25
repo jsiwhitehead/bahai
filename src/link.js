@@ -272,7 +272,7 @@ const textToChunks = (doc, paraIndex, splitText, min, inline) => {
 
 for (const doc of documents) {
   if (
-    !["bible", "quran", "additional-"].some((s) => doc.id.startsWith(s)) &&
+    !["bible", "quran"].some((s) => doc.id.startsWith(s)) &&
     doc.type !== "Prayer" &&
     ![
       "the-universal-house-of-justice-messages-333",

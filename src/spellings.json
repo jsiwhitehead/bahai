@@ -448,7 +448,7 @@
         "erable": "rable",
         "erings": "rings",
         "ering": "ring",
-        "ereth": "ereth",
+        "ereth": "reth",
         "ered": "red",
         "ers": "res",
         "er": "re"
@@ -903,6 +903,8 @@
 
     "bevy": "bevvy",
     "bevies": "bevvies",
+
+    "benefiteth": "benefitteth",
 
     "behooveth": "behoveth",
     "behooves": "behoves",
