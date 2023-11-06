@@ -297,6 +297,7 @@ export const files = {
       prefix(/^O my God, O my Lord, O my Master!/gm, "\n\n#\n\n"),
       prefix(/^Thou seest, O my Lord, my/gm, "\n\n#\n\n"),
       prefix(/^Is there any Remover of difficulties/gm, "\n\n#\n\n"),
+      ["We cause whomsover We desire", "We cause whomsoever We desire"],
     ],
   },
   bahaullah: {
@@ -554,6 +555,7 @@ export const files = {
       prefix(/^In the name of God, the Most Wondrous/m, "* "),
       prefix(/^This is a remembrance of that which was/m, "* "),
       prefix(/^In the name of the One born on this day/m, "* "),
+      ["Bahá proferreth in", "Bahá proffereth in"],
     ],
     "epistle-son-wolf": [
       removeAfter("This document has been downloaded"),
@@ -937,6 +939,7 @@ export const files = {
       [/"\n+([A-Z].{0,120})$/gm, (_, s) => `"\n\n^ ${s}`],
       [/\*\*\*\n+(.*)\n+\*\*\*/g, (_, s) => `* ${s}`],
       prefix(/^He is God, exalted is He/m, "^ "),
+      ["that wherefor thou hast", "that wherefore thou hast"],
     ],
     "additional-tablets-extracts-from-tablets-revealed-bahaullah": [
       removeAfter("This document has been downloaded"),
@@ -1317,6 +1320,7 @@ It followeth that in this world too he must prepare for the world beyond. That w
         "blest in the East and the West for the triumph of its democracy",
         "blest in both the East and the West for the triumph of its people",
       ],
+      ["written presupposses and", "written presupposes and"],
     ],
     "secret-divine-civilization": [
       ["‘Abdu’l‑Bahá", ""],
@@ -1533,6 +1537,8 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
         author: "‘Abdu’l‑Bahá",
         years: [1921, 1921],
       }),
+      ["and transfereth them from", "and transferreth them from"],
+      ["and transfereth these", "and transferreth these"],
     ],
     "tablets-divine-plan": [
       ["‘Abdu’l‑Bahá", ""],
@@ -1544,6 +1550,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       }),
       [/^\d+$\n\n(.*)\n\n\*\*\*\n\n/gm, (_, a) => `# ${a}\n\n * `],
       [/^\*\*\*$/gm, ""],
+      ["Liechtenstein, Luxemburg, Monaco", "Liechtenstein, Luxembourg, Monaco"],
     ],
     "tablets-hague-abdul-baha": [
       removeAfter("Notes"),
@@ -2002,6 +2009,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       ["racialism, ecclesiasticism", "racialism and ecclesiasticism"],
       ["in diverse theatres and in", "in divers theatres and in"],
       ["how my soul gloweth", "how my soul glows"],
+      ["Kazakhstan, Macao Island", "Kazakhstan, Macau Island"],
     ],
     "god-passes-by": [
       [/^Shoghi Effendi[\s\S]*Foreword$/m, "Foreword"],
@@ -2027,6 +2035,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         "unity of mankind. May it be the first to unfurl",
         "universality of mankind. May it be the first to upraise",
       ],
+      ["even as a loadstone", "even as a lodestone"],
     ],
     "promised-day-come": [
       ["By Shoghi Effendi", ""],
@@ -2057,6 +2066,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         "may become the upholders of one order",
         "become the upholders of one Order",
       ],
+      ["He to answer whosover calleth", "He to answer whosoever calleth"],
     ],
     "decisive-hour": [
       [/^Messages from Shoghi Effendi to.*/m, ""],
@@ -2609,7 +2619,7 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       [/^[A-Z]{1,5}$/gm, "***"],
       [
         "Today nothing but the power of the Word of God which encompasses the realities of things can bring the thoughts, the minds, the hearts and the spirits under the shade of one Tree. He is the potent in all things, the vivifier of souls, the preserver and the controller of the world of mankind.",
-        "Naught but the celestial potency of the Word of God, which rules and transcends the realities of all things, is capable of harmonizing the divergent thoughts, sentiments, ideas, and convictions of the children of men. Verily, it is the penetrating power in all things, the mover of souls and the binder and regulator in the world of humanity.",
+        "Naught but the celestial potency of the Word of God, which rules and transcends the realities of all things, is capable of harmonising the divergent thoughts, sentiments, ideas, and convictions of the children of men. Verily, it is the penetrating power in all things, the mover of souls and the binder and regulator in the world of humanity.",
       ],
       [
         "All of us know that international peace is good, that it is the cause of life, but volition and action are necessary. Inasmuch as this century is the century of light, capacity for achieving peace has been assured. It is certain that these ideas will be spread among men to such a degree that they will result in action.",
@@ -2662,6 +2672,7 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       [/^[IV]{1,5}\. (.*)$/gm, (_, a) => `# ${a}`],
       [/^[A-D]{1,5}\. (.*)$/gm, (_, a) => `## ${a}`],
       [/^\d+\. (.*)$/gm, (_, a) => `### ${a}`],
+      ["on the commonalties inherent", "on the commonalities inherent"],
     ],
   },
   prayers: {
@@ -3247,6 +3258,7 @@ Now, observe that these events did not take place in the Christian Dispensation,
         years: [1989.0101, 1989.0101],
       }),
       [/^I+\./gm, "#"],
+      ["done the moneys you have", "done the monies you have"],
     ],
     "bahai-meetings": [
       removeAfter("Notes"),

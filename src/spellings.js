@@ -90,7 +90,9 @@ const correctSpelling = (s) =>
     .replace(/\bRe‑/g, "Re")
     .replace(/\bPre‑/g, "Pre")
     .replace(/Co‑operation/g, "Cooperation")
-    .replace(/PreExistent/g, "Preexistent");
+    .replace(/PreExistent/g, "Preexistent")
+    .replace(/All‑Mighty/g, "Almighty")
+    .replace(/all‑mighty/g, "almighty");
 
 (async () => {
   fs.emptyDirSync("./data/spellings");

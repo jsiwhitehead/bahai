@@ -85,10 +85,12 @@
         "lously": "llously",
         "lous": "llous",
         "lingly": "llingly",
+        "lings": "llings",
         "ling": "lling",
         "lists": "llists",
         "list": "llist",
         "lers": "llers",
+        "leth": "lleth",
         "ler": "ller",
         "led": "lled"
       },
@@ -110,6 +112,8 @@
         "drive",
         "due",
         "ename",
+        "equa",
+        "fue",
         "funne",
         "gambo",
         "grave",
@@ -227,6 +231,7 @@
         "crystalli",
         "customi",
         "decentrali",
+        "dechristiani",
         "decriminali",
         "deemphasi",
         "dehumani",
@@ -325,6 +330,7 @@
         "optimi",
         "organi",
         "ostraci",
+        "overcentrali",
         "overemphasi",
         "oxidi",
         "paraly",
@@ -438,6 +444,7 @@
     {
       "changes": {
         "erability": "rability",
+        "eredness": "redness",
         "erglass": "reglass",
         "erpieces": "repieces",
         "erpiece": "repiece",
@@ -524,9 +531,12 @@
         "ll": "l"
       },
       "roots": [
+        "trave",
+        "nonfulfi",
         "insti",
         "insta",
         "fulfi",
+        "exto",
         "enthra",
         "enro",
         "disti",
@@ -557,12 +567,19 @@
     "woolens": "woollens",
     "woolen": "woollen",
 
+    "willfully": "wilfully",
+    "willful": "wilful",
+
     "wagons": "waggons",
     "wagon": "waggon",
 
     "unshakable": "unshakeable",
 
     "tranquility": "tranquillity",
+
+    "threshhold": "threshold",
+
+    "thralldom": "thraldom",
 
     "terrific": "terrible",
 
@@ -590,6 +607,9 @@
 
     "sheik": "sheikh",
 
+    "splendorous": "splendrous",
+
+    "skillfully": "skilfully",
     "skillful": "skilful",
 
     "skeptics": "sceptics",
@@ -597,6 +617,10 @@
     "skeptically": "sceptically",
     "skeptical": "sceptical",
     "skeptic": "sceptic",
+
+    "sizable": "sizeable",
+
+    "shouldest": "shouldst",
 
     "pizzazz": "pzazz",
 
@@ -607,6 +631,8 @@
     "presidium": "praesidium",
 
     "praiséd": "praised",
+
+    "practicing": "practising",
 
     "poufs": "pouffes",
     "pouf": "pouffe",
@@ -698,8 +724,17 @@
 
     "misspelled": "misspelt",
 
+    "millenia": "millennia",
+    "millenial": "millennial",
+    "millenium": "millennium",
+    "milleniums": "millenniums",
+
+    "miniscule": "minuscule",
+
     "medieval": "mediaeval",
     "primeval": "primaeval",
+
+    "magellanes": "magallanes",
 
     "loath": "loth",
 
@@ -717,6 +752,10 @@
     "insured": "ensured",
     "insures": "ensures",
     "insuring": "ensuring",
+
+    "imposter": "impostor",
+
+    "immovable": "immoveable",
 
     "homeopathy": "homoeopathy",
     "homeopaths": "homoeopaths",
@@ -836,10 +875,14 @@
     "videodisks": "videodiscs",
     "videodisk": "videodisc",
 
+    "discernable": "discernible",
+
     "diarrhea": "diarrhoea",
 
     "descendents": "descendants",
     "descendent": "descendant",
+
+    "dependents": "dependants",
 
     "cruelest": "cruellest",
     "crueler": "crueller",
@@ -862,6 +905,11 @@
     "councilors": "councillors",
     "councilor": "councillor",
 
+    "conferrest": "conferreth",
+
+    "combating": "combatting",
+    "combated": "combatted",
+
     "cognizance": "cognisance",
     "cognizant": "cognisant",
     "recognizance": "recognisance",
@@ -882,6 +930,8 @@
 
     "calipers": "callipers",
     "caliper": "calliper",
+
+    "caldron": "cauldron",
 
     "cesareans": "caesareans",
     "cesarean": "caesarean",
@@ -905,8 +955,11 @@
     "bevies": "bevvies",
 
     "benefiteth": "benefitteth",
+    "benefiting": "benefitting",
+    "benefited": "benefitted",
 
     "behooveth": "behoveth",
+    "behooving": "behoving",
     "behooves": "behoves",
     "behooved": "behoved",
     "behoove": "behove",
@@ -922,8 +975,12 @@
     "banisters": "bannisters",
     "banister": "bannister",
 
+    "ascendency": "ascendancy",
+
     "artifacts": "artefacts",
     "artifact": "artefact",
+
+    "archipelagos": "archipelagoes",
 
     "archeology": "archaeology",
     "archeologists": "archaeologists",
@@ -953,6 +1010,8 @@
     "esthetic": "aesthetic",
     "esthetes": "aesthetes",
     "esthete": "aesthete",
+
+    "advisors": "advisers",
 
     "acknowledgment": "acknowledgement",
 
