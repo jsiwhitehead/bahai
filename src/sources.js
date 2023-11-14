@@ -2481,6 +2481,9 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       ["no doubt. You should, therefore", "no doubt. Ye should, therefore"],
       ["grasp and practice it properly", "grasp and practise it properly"],
       ["activities, and ability to", "activities, and the ability to"],
+      ["increased as ‑consciousness", "increased as consciousness"],
+      ["institutional ‑developments", "institutional developments"],
+      ["and ‑development of the", "and development of the"],
     ],
     "turning-point": [
       removeAfter("Notes"),
@@ -3409,6 +3412,7 @@ Now, observe that these events did not take place in the Christian Dispensation,
       splitLines(/High‑spirited souls by the.*/m, "To lay down a hundred"),
       splitLines(/From the outset love was.*/m, "So as to put every"),
       splitLines(/The worldly wise who garner.*/m, "For unto none was"),
+      ["His good‑ pleasure", "His good‑pleasure"],
     ],
     "give-me-thy-grace-serve-thy-loved-ones": [
       removeAfter("This document has been downloaded"),
