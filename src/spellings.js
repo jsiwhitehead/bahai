@@ -50,6 +50,7 @@ const correctSpelling = (s) =>
         .replace(/Á/g, "Á")
         .replace(/í/g, "í")
         .replace(/Í/g, "Í")
+        .replace(/œ/g, "oe")
     )
     .replace(/ /g, " ")
     .replace(/-/g, "‑")
