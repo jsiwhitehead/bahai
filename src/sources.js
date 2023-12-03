@@ -1271,6 +1271,7 @@ export const files = {
         years: [1914, 1915],
       }),
       [/^— .* —$\n\n/gm, "# "],
+      ["of Jum‘ih‑Bazaar, to", "of Jum‘ih‑Bázár, to"],
     ],
     "paris-talks": [
       removeAfter("Notes"),
