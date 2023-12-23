@@ -1019,7 +1019,7 @@ export const files = {
       [/^—Bahá’u’lláh$/gm, ""],
       [/^Revealed for the recipient on the occasion.*/m, ""],
       [/^Revealed for the recipient on the occasion.*/m, ""],
-      [/^Qur’án 21:89/m, ""],
+      [/^Qur’án 21:89\./m, ""],
       title("", "Additional Prayers Revealed by Bahá’u’lláh", {
         author: "Bahá’u’lláh",
         years: authorYears["Bahá’u’lláh"],
@@ -1389,6 +1389,8 @@ It followeth that in this world too he must prepare for the world beyond. That w
       prefix(/^Those European intellectuals who are/m, "\n\n***\n\n"),
       prefix(/^Among those matters which require thorough/m, "\n\n***\n\n"),
       prefix(/^As to that element who believe that/m, "\n\n***\n\n"),
+      ["your own forbears", "your own forebears"],
+      ["was its forbears", "was its forebears"],
     ],
     "selections-writings-abdul-baha": [
       [/^Compiled by the Research Department.*/m, ""],
@@ -2013,6 +2015,8 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       ["in diverse theatres and in", "in divers theatres and in"],
       ["how my soul gloweth", "how my soul glows"],
       ["Kazakhstan, Macao Island", "Kazakhstan, Macau Island"],
+      ["spiritual forbears have", "spiritual forebears have"],
+      ["their spiritual forbears", "their spiritual forebears"],
     ],
     "god-passes-by": [
       [/^Shoghi Effendi[\s\S]*Foreword$/m, "Foreword"],
@@ -2069,7 +2073,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         "may become the upholders of one order",
         "become the upholders of one Order",
       ],
-      ["He to answer whosover calleth", "He to answer whosoever calleth"],
+      ["immense My forebearance", "immense My forbearance"],
     ],
     "decisive-hour": [
       [/^Messages from Shoghi Effendi to.*/m, ""],
@@ -3031,7 +3035,6 @@ By God! Though weariness lay Me low, and hunger consume Me, and the bare rock be
         "none except the Most Mighty Branch [‘Abdu’l‑Bahá].",
       ],
       ["pledged Ourselves to secure", "pledged Ourself to secure"],
-      ["Should any kind take up arms", "Should any king take up arms"],
       ["O Oppressors of Earth! Withdraw", "O Oppressors on Earth! Withdraw"],
       ["sealed it with My seal", "sealed with My seal"],
       ["being. We see among us men", "being.\n\nWe see amongst us men"],
