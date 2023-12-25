@@ -1272,6 +1272,7 @@ export const files = {
       }),
       [/^— .* —$\n\n/gm, "# "],
       ["of Jum‘ih‑Bazaar, to", "of Jum‘ih‑Bázár, to"],
+      ["They harkened to", "They hearkened to"],
     ],
     "paris-talks": [
       removeAfter("Notes"),
@@ -2074,6 +2075,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         "become the upholders of one Order",
       ],
       ["immense My forebearance", "immense My forbearance"],
+      ["philoprogenetive", "philoprogenitive"],
     ],
     "decisive-hour": [
       [/^Messages from Shoghi Effendi to.*/m, ""],
@@ -2493,6 +2495,7 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       ["institutional ‑developments", "institutional developments"],
       ["and ‑development of the", "and development of the"],
       ["noted that ther are", "noted that there are"],
+      ["preColumbian", "pre‑Columbian"],
     ],
     "turning-point": [
       removeAfter("Notes"),

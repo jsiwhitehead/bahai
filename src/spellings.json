@@ -698,6 +698,9 @@
     "mustached": "moustached",
     "mustache": "moustache",
 
+    "moslems": "muslims",
+    "moslem": "muslim",
+
     "molts": "moults",
     "molting": "moulting",
     "molted": "moulted",
@@ -762,6 +765,11 @@
 
     "immovable": "immoveable",
 
+    "imbed": "embed",
+    "imbeds": "embeds",
+    "imbedded": "embedded",
+    "imbedding": "embedding",
+
     "homeopathy": "homoeopathy",
     "homeopaths": "homoeopaths",
     "homeopathic": "homoeopathic",
@@ -814,6 +822,9 @@
     "gonorrhea": "gonorrhoea",
 
     "gluing": "glueing",
+
+    "genuflexions": "genuflections",
+    "genuflexion": "genuflection",
 
     "gaging": "gauging",
     "gages": "gauges",
