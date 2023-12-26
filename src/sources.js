@@ -298,6 +298,7 @@ export const files = {
       prefix(/^Thou seest, O my Lord, my/gm, "\n\n#\n\n"),
       prefix(/^Is there any Remover of difficulties/gm, "\n\n#\n\n"),
       ["We cause whomsover We desire", "We cause whomsoever We desire"],
+      ["rarified", "rarefied"],
     ],
   },
   bahaullah: {
@@ -1510,6 +1511,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ],
       ["thought were wellnigh impossible", "thought were well nigh impossible"],
       ["bestow on them heavenly", "bestow upon them heavenly"],
+      ["rarified", "rarefied"],
     ],
     "some-answered-questions": [
       removeAfter("Notes"),
@@ -2618,6 +2620,8 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       ],
       ["and you shall have another", "and ye shall have another"],
       ["other station is the station", "other is the station"],
+      ["Templers", "Templars"],
+      ["Templer", "Templar"],
     ],
     "century-light": [
       ["The Universal House of Justice", ""],
