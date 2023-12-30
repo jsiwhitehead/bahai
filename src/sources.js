@@ -2046,6 +2046,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         "universality of mankind. May it be the first to upraise",
       ],
       ["even as a loadstone", "even as a lodestone"],
+      ["means of order to be", "means of order be"],
     ],
     "promised-day-come": [
       ["By Shoghi Effendi", ""],
