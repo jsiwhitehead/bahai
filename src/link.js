@@ -184,6 +184,12 @@ const findSource = (doc, simplified, parts) => {
   ) {
     return null;
   }
+  if (
+    simplified ===
+    "thatwhichisbornofthefleshisfleshandthatwhichisbornofthespiritisspirit"
+  ) {
+    return null;
+  }
   for (const d of documents) {
     if (
       d.id !== doc.id &&
