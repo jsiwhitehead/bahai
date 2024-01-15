@@ -1813,8 +1813,8 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         years: [1938, 1938],
         date: "25 December 1938",
       }),
-      prefix(/^To the beloved of God and/m, "* "),
-      prefix(/^Best‑beloved brothers and/m, "* "),
+      prefix(/^To the beloved of God and/m, "@ "),
+      prefix(/^Best‑beloved brothers and/m, "@ "),
       prefix(/^Dearly beloved friends! Great as is my love/m, "\n\n***\n\n"),
       prefix(/^Dearly beloved friends! I have attempted/m, "\n\n***\n\n"),
       prefix(/^Such, dearly beloved friends, is the vista/m, "\n\n***\n\n"),
@@ -1950,8 +1950,17 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       [/^.*19\d\d\.?\n+#/gm, "#"],
       [/^.*19\d\d\.?\n+P\.S\./gm, "P.S."],
       ["April 11, 1933.", ""],
-      [/\]\n+(T.*)\n+(.*)/g, (_, a, b) => `]\n\n* ${a}\n\n* ${b}`],
-      [/\]\n+([A-Z].*)/g, (_, a) => `]\n\n* ${a}`],
+      [/\]\n+(T.*)\n+(.*)/g, (_, a, b) => `]\n\n@ ${a}\n\n@ ${b}`],
+      [/\]\n+([A-Z].*)/g, (_, a) => `]\n\n@ ${a}`],
+      ["@ IN THE NAME OF GOD", "* IN THE NAME OF GOD"],
+      [
+        /^([A-Z].{0,50}\n\n+){1,3}##/gm,
+        (a) =>
+          a
+            .split(/\n\n/)
+            .map((s) => (s.startsWith("#") ? s : `@ ${s}`))
+            .join("\n\n"),
+      ],
       ["be offered for His loved ones", "be offered up for His loved ones"],
       ["stronghold of Thy Cause", "stronghold of Thy care"],
       ["days and night in promoting", "days and nights in promoting"],
@@ -2005,6 +2014,14 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
           )}${dd.padStart(2, "0")}`;
           return `## ${dd} ${mm} ${yy}\nyears=[${date},${date}]\nsummary="${b}"`;
         },
+      ],
+      [
+        /(Circa June 1947)\n\n(.*)/,
+        (_, a, b) => `## ${a}\nyears=[1947.0601,1947.0601]\nsummary="${b}"`,
+      ],
+      [
+        /(Circa May 1954)\n\n(.*)/,
+        (_, a, b) => `## ${a}\nyears=[1954.0501,1954.0501]\nsummary="${b}"`,
       ],
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `### ${a}`],
       ["### Citadel of Faith", "Citadel of Faith"],
@@ -2060,7 +2077,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       }),
       [/^[A-Z].{1,80}[a-z?]$/gm, (a) => `# ${a}`],
       ["# The Promised Day Is Come", "The Promised Day Is Come"],
-      prefix(/^Friends and fellow‑heirs/m, "* "),
+      prefix(/^Friends and fellow‑heirs/m, "@ "),
       [
         "“Movements,” is the warning sounded by ‘Abdu’l‑Bahá, “newly born and worldwide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“Modern universal movements,” is the warning sounded by ‘Abdu’l‑Bahá, “will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
@@ -2156,11 +2173,17 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
       ],
       [/^[A-Z].{1,80}[a-z]$/gm, (a) => `## ${a}`],
       ["## The World Order of Bahá’u’lláh", "The World Order of Bahá’u’lláh"],
-      [/^.*19\d\d\.?\n+#/gm, "#"],
-      ["March 11, 1936.", ""],
-      [/"\n+(T.*)\n+(.*)/g, (_, a, b) => `"\n\n* ${a}\n\n* ${b}`],
-      [/^(To the beloved.*)\n+(.*)/m, (_, a, b) => `* ${a}\n\n* ${b}`],
-      prefix(/^Fellow‑believers in/m, "* "),
+      [/"\n+(T.*)\n+(.*)/g, (_, a, b) => `"\n\n@ ${a}\n\n@ ${b}`],
+      [/^(To the beloved.*)\n+(.*)/m, (_, a, b) => `@ ${a}\n\n@ ${b}`],
+      prefix(/^Fellow‑believers in/m, "@ "),
+      [
+        /^([A-Z].{0,50}\n\n){1,3}(# |$)/gm,
+        (a) =>
+          a
+            .split(/\n\n/)
+            .map((s) => (!s.trim() || s.startsWith("#") ? s : `@ ${s}`))
+            .join("\n\n"),
+      ],
       [
         "“The ills from which the world now suffers,” wrote ‘Abdu’l‑Bahá in January, 1920, “will multiply; the gloom which envelops it will deepen. The Balkans will remain discontented. Its restlessness will increase. The vanquished Powers will continue to agitate. They will resort to every measure that may rekindle the flame of war. Movements, newly‑born and world‑wide in their range, will exert their utmost effort for the advancement of their designs. The Movement of the Left will acquire great importance. Its influence will spread.”",
         "“This darkness,” wrote ‘Abdu’l‑Bahá in January, 1920, “shall never vanish, these chronic diseases shall never be healed; nay, they shall grow fiercer from day to day. The Balkans will remain restless, and its condition will aggravate. The vanquished will not keep still, but will seize every means to kindle anew the flame of war. Modern universal movements will do their utmost to carry out their purpose and intentions. The Movement of the Left will acquire great importance, and its influence will spread.”",
@@ -2236,6 +2259,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
         author="The Universal House of Justice"
         collection\n\n`,
       ],
+      [/^Last modified:.*/gm, ""],
       [
         /^#\n(.*)\n(.*)\n(.*)\n(.*)/gm,
         (_, id, title, addressee, summary) => {
@@ -2288,13 +2312,26 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
           if (index !== -1) {
             return parts
               .map((s, i) =>
-                i === 0 || !s.trim() || i >= parts.length - index ? s : `* ${s}`
+                i === 0 || !s.trim() || i >= parts.length - index ? s : `@ ${s}`
               )
               .join("\n\n");
           }
           return a;
         },
       ],
+      [/^With loving Bahá’í greetings,$/gm, (a) => `@ ${a}`],
+      [/^With all good wishes,$/gm, (a) => `@ ${a}`],
+      [/^Deepest Bahá’í love,$/gm, (a) => `@ ${a}`],
+      [/^With loving greetings,$/gm, (a) => `@ ${a}`],
+      [/^\[signed: The Universal House of Justice\]$/gm, (a) => `@ ${a}`],
+      [/^The Universal House of Justice$/gm, (a) => `@ ${a}`],
+      [/^UNIVERSAL HOUSE OF JUSTICE$/gm, (a) => `@ ${a}`],
+      [/^Department of the Secretariat$/gm, (a) => `@ ${a}`],
+      [
+        /^\(signed\) The National Spiritual Assembly of the Bahá’ís of Írán$/gm,
+        (a) => `@ ${a}`,
+      ],
+      [/^Respectfully,$/gm, (a) => `@ ${a}`],
       [
         /^[A-Z].{1,80}[a-z]$/gm,
         (a) => {
@@ -2693,6 +2730,27 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       [/^[A-D]{1,5}\. (.*)$/gm, (_, a) => `## ${a}`],
       [/^\d+\. (.*)$/gm, (_, a) => `### ${a}`],
       ["on the commonalties inherent", "on the commonalities inherent"],
+    ],
+    "aqdas-place-literature": [
+      removeAfter("This document has been downloaded"),
+      [
+        "THE KITÁB‑I‑AQDAS\n\nITS PLACE IN BAHÁ’Í LITERATURE",
+        "The Kitáb-i-Aqdas: Its Place in Bahá’í Literature",
+      ],
+      title("", "The Kitáb-i-Aqdas: Its Place in Bahá’í Literature", {
+        author: "Commissioned by the Universal House of Justice",
+        years: [1993.0101, 1993.0101],
+        date: "1993",
+      }),
+      [
+        "THE KITÁB‑I‑AQDAS AND THE BAHÁ’Í COMMUNITY",
+        "The Kitáb‑i‑Aqdas and the Bahá’í Community",
+      ],
+      [/^[A-Z].{1,80}[a-z]$/gm, (a) => `# ${a}`],
+      [
+        "# The Kitáb-i-Aqdas: Its Place in Bahá’í Literature",
+        "The Kitáb-i-Aqdas: Its Place in Bahá’í Literature",
+      ],
     ],
   },
   prayers: {

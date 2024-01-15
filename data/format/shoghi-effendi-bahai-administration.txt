@@ -88,7 +88,7 @@ collection
 ## 21 January 1922
 years=[1922.0121,1922.0121]
 
-* Dearly beloved brethren and sisters in ‘Abdu’l‑Bahá:
+@ Dearly beloved brethren and sisters in ‘Abdu’l‑Bahá:
 
 At this early hour when the morning light is just breaking upon the Holy Land, whilst the gloom of the dear Master’s bereavement is still hanging thick upon the hearts, I feel as if my soul turns in yearning love and full of hope to that great company of His loved ones across the seas, who now share with us all the agonies of His separation.
 
@@ -102,16 +102,16 @@ How dearly all the Holy Leaves cherish that memory of the departed Master, as He
 
 And finally, the ladies of the Sacred Household and we, the rest of His kindred and family, will pray at His Hallowed Shrine for every one of you and He will surely watch over and enhance in the course of time that noble part of His heritage that He has bequeathed to His friends in the Far West; friends from whom in return He expects so much and whom He has loved and still doth love so dearly.
 
-Your sincere coworker in His Cause,
+@ Your sincere coworker in His Cause,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
 
 ## 5 March 1922
 years=[1922.0305,1922.0305]
 
-* Dear fellow‑workers in the Cause of Bahá’u’lláh:—
+@ Dear fellow‑workers in the Cause of Bahá’u’lláh:—
 
 It is with words of regret and disappointment that I desire to open this letter because of my inability, in view of my manifold and pressing duties, to respond individually and in writing to the many messages of love and sympathy and of hope that you have so affectionately sent me since our Beloved’s passing from this World. I am sure I am voicing the sentiments of the bereaved ladies of the Household when I say that however desirous we may be to correspond separately with every one of you, the grave responsibilities and manifold duties now devolved upon us make it regrettably impossible to express in written messages to every friend what we constantly feel in our hearts, and pray for when visiting His sacred Shrine.
 
@@ -153,11 +153,11 @@ Large issues in such spiritual activities that affect the Cause in general in th
 
 The time is indeed ripe for the manifold activities, wherein the servants and handmaids of Bahá’u’lláh are so devoutly and earnestly engaged, to be harmonised and conducted with unity, cooperation and efficiency, that the effect of such a combined and systematised effort, through which an All‑powerful Spirit is steadily pouring, may transcend every other achievement of the past, however glorious it has been, and may stand, now that, to the eyes of the outside world the glorious Person of the Master is no more, a convincing testimony of the potency of His everliving Spirit.
 
-Your brother and coworker in His Cause,
+@ Your brother and coworker in His Cause,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
 
 ## May 1922 (Undated)
 years=[1922.0501,1922.0501]
@@ -168,11 +168,13 @@ This servant, after that grievous event and great calamity, the ascension of His
 
 For this reason, unable to do otherwise, I have left for a time the affairs of the Cause both at home and abroad, under the supervision of the Holy Family and the headship of the Greatest Holy Leaf until, by the Grace of God, having gained health, strength, self‑confidence and spiritual energy, and having taken into my hands, in accordance with my aim and desire, entirely and regularly the work of service I shall attain to my utmost spiritual hope and aspiration.
 
-The servant of His Threshold,
+@ The servant of His Threshold,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
+
+@
 
 ## May 1922 (Undated)
 years=[1922.0501,1922.0501]
@@ -181,14 +183,16 @@ years=[1922.0501,1922.0501]
 
 May I also express my heartfelt desire that the friends of God in every land regard me in no other light but that of a true brother, united with them in our common servitude to the Master’s Sacred Threshold, and refer to me in their letters and verbal addresses always as Shoghi Effendi, for I desire to be known by no other name save the one our Beloved Master was wont to utter, a name which of all other designations is the most conducive to my spiritual growth and advancement.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
+
+@
 
 ## 16 December 1922
 years=[1922.1216,1922.1216]
 
-* To the loved ones of ‘Abdu’l‑Bahá throughout the continent of America.
+@ To the loved ones of ‘Abdu’l‑Bahá throughout the continent of America.
 
-* Dear fellow‑workers in the Holy Vineyard of Bahá!
+@ Dear fellow‑workers in the Holy Vineyard of Bahá!
 
 Now that my long hours of rest and meditation are happily at an end, I turn my face with renewed hope and vigour to that vast continent the soil of which is pregnant with those seeds that our beloved Master has so tenderly and so profusely scattered in the past. Prolonged though this period has been, yet I have strongly felt ever since the New Day has dawned upon me that such a needed retirement, despite the temporary dislocations it might entail, would far outweigh in its results any immediate service I could have humbly tendered at the Threshold of Bahá’u’lláh.
 
@@ -200,18 +204,18 @@ But it behoves us not to dwell for a moment on these doomed and darkened efforts
 
 We have, not a long time ago, with tearful eyes commemorated the world over the passing hour of our beloved Master. Would to God it has marked in our lives, which we all have consecrated to His service, a fresh, solemn and unswerving resolution of devotion and fidelity to His Cause.
 
-Your brother and coworker,
+@ Your brother and coworker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 23 December 1922
 years=[1922.1223,1922.1223]
 
-* To the members of the National Spiritual Assembly, the elected representatives of all believers throughout the continent of America.
+@ To the members of the National Spiritual Assembly, the elected representatives of all believers throughout the continent of America.
 
-* Esteemed coworkers in the Vineyard of God:
+@ Esteemed coworkers in the Vineyard of God:
 
 To have been unable, owing to unforeseen and unavoidable circumstances, to correspond with you ever since you entered upon your manifold and arduous duties is to me a cause of deep regret and sad surprise! I am however assured and sustained by the conviction, never dimmed in my mind, that whatsoever comes to pass in the Cause of God, however disquieting in its immediate effects, is fraught with infinite Wisdom and tends ultimately to promote its interests in the world. Indeed, our experiences of the distant past, as well as of recent events, are too numerous and varied to permit of any misgiving or doubt as to the truth of this basic principle—a principle which throughout the vicissitudes of our sacred mission in this world we must never disregard or forget.
 
@@ -245,14 +249,14 @@ Haifa, Palestine,
 
 P.S. I would be pleased and gratified if you could inform all the various local spiritual assemblies of my wish and desire to receive as soon as possible from every local assembly a detailed and official report on their spiritual activities, the character and organisation of their respective assemblies, accounts of their public and private gatherings, of the actual position of the Cause in their province, and of their plans and arrangements for the future. Pray convey to all of them my best wishes and the assurance of my hearty assistance in their noble work of service to mankind.
 
-Shoghi.
+@ Shoghi.
 
 ## 12 January 1923
 years=[1923.0112,1923.0112]
 
-* To the members of the National Spiritual Assembly.
+@ To the members of the National Spiritual Assembly.
 
-* Beloved coworkers in the Cause of God!
+@ Beloved coworkers in the Cause of God!
 
 In the midst of your unceasing labours for the progress of the Movement in that country, I am sure you would welcome every now and then such news as shall breathe a fresh spirit into your activities and stimulate you to further effort for the promotion of His Cause.
 
@@ -268,18 +272,18 @@ I trust that this measure will react favourably on the Star of the West and will
 
 Awaiting eagerly your letters and wishing you the fullest success in your very arduous duties,
 
-I am your devoted brother,
+@ I am your devoted brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 16 January 1923
 years=[1923.0116,1923.0116]
 
-* The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
+@ The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
 
-* Beloved brothers and sisters in ‘Abdu’l‑Bahá:
+@ Beloved brothers and sisters in ‘Abdu’l‑Bahá:
 
 Our dear friend, Jináb‑i‑Fádil‑i‑Mázindarání, accompanied by his family, has gladly and gratefully responded to the kind invitation of the American friends to visit them once more and extend his helping hand to the many friends who are so faithfully labouring throughout that continent for the Cause of Bahá’u’lláh.
 
@@ -291,18 +295,18 @@ That all the friends may realise more fully the urgent and supreme necessity of 
 
 May his second visit to your shores mark, in its character and results, a new and memorable era in the history of the Cause in that great country!
 
-Your brother and coworker,
+@ Your brother and coworker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
 
 ## 17 January 1923
 years=[1923.0117,1923.0117]
 
-* To the members of the National Spiritual Assembly.
+@ To the members of the National Spiritual Assembly.
 
-* Dear friends:
+@ Dear friends:
 
 It is a great pleasure for me to share with you the translation of some of the prayers and Tablets of our beloved Master, the reading of which I trust will inspire you and strengthen you in your work of service to His Cause.
 
@@ -310,18 +314,18 @@ I trust that in the course of time I will be enabled to send you regularly corre
 
 I shall await very eagerly any suggestions you would like to give me on this point and on all other matters that pertain to the interests of the Cause in America, and I assure you again of my readiness and wish to be of help and service to those faithful and devoted servants of Bahá’u’lláh in that land.
 
-Your brother and coworker,
+@ Your brother and coworker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 13 February 1923
 years=[1923.0213,1923.0213]
 
-* To the members of the National Spiritual Assembly.
+@ To the members of the National Spiritual Assembly.
 
-* Dearest friends:
+@ Dearest friends:
 
 I have just completed the translation of a number of selections from the Master’s soul‑stirring Words to His loved ones in Persia, revealed some twenty‑five years ago, and during the darkest days of His incarceration in the prison city of Akká.
 
@@ -329,18 +333,18 @@ You will realise, as you read them, the unshakeable confidence of ‘Abdu’l‑
 
 May they contribute their share to the unfolding of the Spirit of the Cause in that land, and may they infuse in all the friends that ardent spirit of service and fellowship that will enable them to fulfil their glorious destiny in this world!
 
-Your brother and coworker,
+@ Your brother and coworker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 12 March 1923
 years=[1923.0312,1923.0312]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout America, Great Britain, Germany, France, Switzerland, Italy, Japan and Australasia.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout America, Great Britain, Germany, France, Switzerland, Italy, Japan and Australasia.
 
-* Fellow‑workers in the Vineyard of God!
+@ Fellow‑workers in the Vineyard of God!
 
 Over a year has elapsed since that calamitous Hour, when the glorious Person of ‘Abdu’l‑Bahá was veiled from mortal eyes and His Spirit ascended to the Kingdom of Glory; and I feel that the time is now ripe to take those fresh and momentous decisions which will enable us to fulfil, speedily and faithfully, the last wishes of our departed Master.
 
@@ -448,9 +452,9 @@ To His valiant combatants on earth, who at times may feel disheartened, our ever
 
 With such inspiring words as these, are we to remain any longer unmoved and inactive? His trumpet‑call resounds on every side, and summons us to service; are we to tarry and hesitate? His voice is calling aloud from every land; let us march on, unfettered and unafraid, and fulfil our glorious Destiny.
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ### Transliteration of Bahá’í Terms
 
@@ -459,9 +463,9 @@ P.S. On another page is given the list of the best known and most current Bahá�
 ## 8 April 1923
 years=[1923.0408,1923.0408]
 
-* To the beloved of the Lord and the handmaids of the Merciful, the accredited delegates to the Annual Convention of America, Chicago, Illinois.
+@ To the beloved of the Lord and the handmaids of the Merciful, the accredited delegates to the Annual Convention of America, Chicago, Illinois.
 
-* Dearly beloved brothers and sisters in ‘Abdu’l‑Bahá:
+@ Dearly beloved brothers and sisters in ‘Abdu’l‑Bahá:
 
 On this auspicious occasion, when the elected representatives of the Bahá’í Community throughout the continent of America, gathered for the first time within the Foundation Hall of the stately edifice of the Mashriqu’l‑Adhkár, are assembled to take counsel together regarding those vital issues that confront the Cause of Bahá’u’lláh in that land, may I, as one of your humble fellow‑workers in the field of service, offer you from the very depths of my heart my brotherly love and sincere greetings, and assure you of my fervent prayers for the success of your deliberations and the attainments of your hearts’ desire.
 
@@ -471,18 +475,18 @@ Forgetful of the past and its vicissitudes, conscious of the need for renewed an
 
 May the all‑pervading Spirit of Bahá’u’lláh so permeate the souls of its members as to cause it to mirror forth the glories and the splendours of the Celestial Concourse.
 
-Your devoted brother,
+@ Your devoted brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
 
 ## 9 April 1923
 years=[1923.0409,1923.0409]
 
-* To the members of the American National Spiritual Assembly.
+@ To the members of the American National Spiritual Assembly.
 
-* Dearest friends:
+@ Dearest friends:
 
 I have lately received your long‑awaited reports on the present situation of the Movement in that land, and have read them all, together with their enclosures, with the utmost care and deepest interest.
 
@@ -520,18 +524,18 @@ I am enclosing on a separate sheet the full authoritative code, widely adopted b
 
 Remembering you all in my hours of visit and prayer at the Three Holy Shrines, and wishing you success from all my heart,
 
-I am your brother and fellow‑worker,
+@ I am your brother and fellow‑worker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
 
 ## 27 April 1923
 years=[1923.0427,1923.0427]
 
-* To the members of the National Spiritual Assembly.
+@ To the members of the National Spiritual Assembly.
 
-* Beloved fellow‑workers in the Cause:
+@ Beloved fellow‑workers in the Cause:
 
 I am not sure whether I have sent you before a copy of this glorious Tablet revealed by Bahá’u’lláh for His beloved ‘Abdu’l‑Bahá, written in His own blessed handwriting, and which we found among his papers and documents soon after the Master’s Ascension. It reveals in terms of touching tenderness the unique station of ‘Abdu’l‑Bahá, and constitutes an unchallengeable evidence of His supreme authority.
 
@@ -539,18 +543,18 @@ I am also enclosing my rendering of various passages of the Kitáb‑i‑Aqdas w
 
 Wishing you all success in your work,
 
-I am your devoted brother,
+@ I am your devoted brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 6 May 1923
 years=[1923.0506,1923.0506]
 
-* To the members of the National Spiritual Assembly.
+@ To the members of the National Spiritual Assembly.
 
-* My friends and fellow‑workers in the Cause of God!
+@ My friends and fellow‑workers in the Cause of God!
 
 Your most welcome message, imparting the glad news of a successful Convention, has rejoiced my heart and fortified my hope in this year of active service, that has just unfolded itself before you.
 
@@ -577,9 +581,9 @@ P.S. I enclose a copy of my translation of Bahá’u’lláh’s Words of Wisdom
 ## 14 November 1923
 years=[1923.1114,1923.1114]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout America, care of the members of the American National Spiritual Assembly.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout America, care of the members of the American National Spiritual Assembly.
 
-* Fellow‑labourers in the Divine Vineyard:
+@ Fellow‑labourers in the Divine Vineyard:
 
 Upon my return, after a forced and prolonged absence, to the Holy Land, it is my first and most ardent wish to renew and strengthen those ties of brotherly love and fellowship that bind our hearts together in our common servitude to His sacred Threshold.
 
@@ -607,18 +611,18 @@ I cherish the hope that, from now on, the Beloved may bestow upon me all the str
 
 Let us pray to God that in these days of world‑encircling gloom, when the dark forces of nature, of hate, rebellion, anarchy and reaction are threatening the very stability of human society, when the most precious fruits of civilisation are undergoing severe and unparalleled tests, we may all realise, more profoundly than ever, that though but a mere handful amidst the seething masses of the world, we are in this day the chosen instruments of God’s grace, that our mission is most urgent and vital to the fate of humanity, and, fortified by these sentiments, arise to achieve God’s holy purpose for mankind.
 
-Your brother in His Service,
+@ Your brother in His Service,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
 
 ## 26 November 1923
 years=[1923.1126,1923.1126]
 
-* To the members of the American National Spiritual Assembly.
+@ To the members of the American National Spiritual Assembly.
 
-* Friends and fellow‑workers in the Vineyard of God!
+@ Friends and fellow‑workers in the Vineyard of God!
 
 After a long and unbroken silence, it gives me the greatest joy to be enabled to correspond again with my dearly‑beloved coworkers of the National Spiritual Assembly.
 
@@ -676,16 +680,16 @@ The sum of 100 English pounds which you have offered to the Cause through me, I 
 
 With deep gratitude, and hoping to hear from you, singly and collectively, I am your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
 
 ## 4 January 1924
 years=[1924.0104,1924.0104]
 
-* To the members of the American National Spiritual Assembly.
+@ To the members of the American National Spiritual Assembly.
 
-* My dearest friends:
+@ My dearest friends:
 
 On November 28th I received the following communication from the President of the National Spiritual Assembly of Great Britain:
 
@@ -711,18 +715,18 @@ I am enclosing recent translations of the prophetic and most remarkable words of
 
 May this great project yield an abundant harvest for the Cause, and your efforts be richly blessed by the guiding Spirit of ‘Abdu’l‑Bahá.
 
-Your fellow‑worker,
+@ Your fellow‑worker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 23 February 1924
 years=[1924.0223,1924.0223]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout America.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout America.
 
-* My dear fellow‑workers:
+@ My dear fellow‑workers:
 
 I gather from various sources that the Cause of Bahá’u’lláh, in the course of its sure yet toilsome march towards the salvation of the world, has encountered of late further obstacles, which in the eyes of some appear to retard its progress and hinder its growth. I have learned with feelings of sadness and surprise that some vague sense of apprehension, a strange misconception of its immediate purpose and methods, is slowly gaining ground, steadily affecting its wholesome growth and vigorous development throughout the continent.
 
@@ -764,18 +768,18 @@ Again I earnestly appeal to every one of you, and renew my only request with all
 
 Let us first strive to fulfil these conditions, difficult yet essential, in our lives, so that, contented and assured, we may make of this new year of activity a year of abundant blessings, of unprecedented achievements.
 
-May this dearest wish be fulfilled!
+@ May this dearest wish be fulfilled!
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 24 September 1924
 years=[1924.0924,1924.0924]
 
-* The beloved of the Lord and the handmaids of the Merciful throughout the Continent of America:
+@ The beloved of the Lord and the handmaids of the Merciful throughout the Continent of America:
 
-* Dear friends:
+@ Dear friends:
 
 I return to the Holy Land with an overpowering sense of the gravity of the spiritual state of the Cause in the world. Much as I deplore the disturbing effect of my forced and repeated withdrawals from the field of service, I can unhesitatingly assure you that my last and momentous step was taken with extreme reluctance and only after mature and anxious reflection as to the best way to safeguard the interests of a precious Cause.
 
@@ -797,16 +801,16 @@ I can well imagine the degree of uneasiness, nay of affliction, that must have a
 
 And now as I look into the future, I hope to see the friends at all times, in every land, and of every shade of thought and character, voluntarily and joyously rallying round their local and in particular their national centres of activity, upholding and promoting their interests with complete unanimity and contentment, with perfect understanding, genuine enthusiasm, and sustained vigour. This indeed is the one joy and yearning of my life, for it is the fountainhead from which all future blessings will flow, the broad foundation upon which the security of the Divine Edifice must ultimately rest. May we not hope that now at last the dawn of a brighter day is breaking upon our beloved Cause?
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
 
 ## 24 November 1924
 years=[1924.1124,1924.1124]
 
-* To my dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá: care of the American National Spiritual Assembly.
+@ To my dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá: care of the American National Spiritual Assembly.
 
-* Dearest friends:
+@ Dearest friends:
 
 The day is drawing near when, for the third time, we shall commemorate the world over the passing of our well‑beloved ‘Abdu’l‑Bahá. May we not pause for a moment, and gather our thoughts? How has it fared with us, His little band of followers, since that day? Whither are we now marching? What has been our achievement?
 
@@ -832,16 +836,16 @@ I entreat you, dear friends, to continue, nay, to redouble your efforts, to keep
 
 In this fervent plea joins me the Greatest Holy Leaf. Though chagrined in the evening of her life at the sorrowful tales of repression in Persia, she still turns with the deepest longings of her heart to your land where freedom reigns, eager and expectant to behold, ere she is called away, the signs of the universal triumph of the Cause she loves so dearly.
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 27 November 1924
 years=[1924.1127,1924.1127]
 
-* To my dear friends and fellow‑workers, the members of the American National Spiritual Assembly.
+@ To my dear friends and fellow‑workers, the members of the American National Spiritual Assembly.
 
-* My friends and fellow‑workers:—
+@ My friends and fellow‑workers:—
 
 The letters which our able and devoted friend, Mr. Horace Holley, has addressed in your behalf to the Greatest Holy Leaf and myself have all been received, and, together with their enclosures, read with the closest attention. It is indeed highly gratifying to observe that notwithstanding the strain and stress of the critical period through which our beloved Cause is passing, the elected representatives of the friends in America have, with unflinching faith, undaunted courage, and conspicuous ability, persevered in their task and fulfilled their arduous duties.
 
@@ -881,18 +885,18 @@ I am sending through my dear brother, Mr. M. Mills, various relics and Tablets o
 
 I wish to assure you in conclusion of my readiness and genuine desire to help you and serve you to the utmost of my ability. I fully realise the enormous burden that weighs on your shoulders, and am constantly mindful of the distinct and eminent share you are contributing to the advancement of the Cause. I wish you from the depths of my heart entire satisfaction in your glorious work. Our beloved Master is surely watching from the Realm Beyond over His children whom He nurtured and loved so well, and will certainly guide you in every step you take, and crown your patient efforts with signal success.
 
-Your brother and fellow‑worker,
+@ Your brother and fellow‑worker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 16 January 1925
 years=[1925.0116,1925.0116]
 
-* To my dearly‑beloved friends, the members of the American National Spiritual Assembly.
+@ To my dearly‑beloved friends, the members of the American National Spiritual Assembly.
 
-* My dear and precious fellow‑workers:
+@ My dear and precious fellow‑workers:
 
 The three communications dated November 19, November 22 and December 22, which I have recently received from that indefatigable servant of Bahá’u’lláh, my esteemed spiritual brother, Mr. Holley, have given me great satisfaction and have cheered and sustained me in my work. I have read most carefully the minutes of your December meeting and am particularly pleased to note in many respects the notable advance you have made in establishing the Cause upon a wider and surer foundation.
 
@@ -920,18 +924,18 @@ With reference to the matter of meeting in the Foundation Hall of the Mashriqu�
 
 May the blessings of our Almighty Master rest upon your deliberations.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 29 January 1925
 years=[1925.0129,1925.0129]
 
-* To the esteemed members of the American National Spiritual Assembly.
+@ To the esteemed members of the American National Spiritual Assembly.
 
-* My well‑beloved and precious fellow‑workers:
+@ My well‑beloved and precious fellow‑workers:
 
 I have perused your recent communication, dated December 29th, and signed on your behalf by your vigilant and capable secretary, with an interest and attention worthy of the paramount importance of the issues it raises.
 
@@ -955,18 +959,18 @@ My dearly‑beloved friend and fellow‑worker, Mr. Mountfort Mills, is now with
 
 I wish you success from all my heart.
 
-Your brother and fellow‑worker,
+@ Your brother and fellow‑worker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 10 April 1925
 years=[1925.0410,1925.0410]
 
-* To the members of the American National Spiritual Assembly.
+@ To the members of the American National Spiritual Assembly.
 
-* My dearly‑beloved fellow‑workers:
+@ My dearly‑beloved fellow‑workers:
 
 The communications lately received from your distinguished secretary, dated January 8th, February 6th and 13th, and March 17th, together with the enclosed minutes, reports and letters, have been read with profound interest and genuine satisfaction. The methods you pursue, the new measures for publicity which you have adopted, the increasing confidence you have achieved, and the degree of support, both moral and financial, which you have deservedly earned from the body of the believers are all encouraging signs that testify to the growing solidarity of a Cause destined to confer inestimable benefits upon mankind.
 
@@ -992,18 +996,18 @@ Regarding the Mashriqu’l‑Adhkár, I would again most emphatically urge the b
 
 In conclusion I wish to renew the assurance of my ardent prayers for you and for those whom you represent in safeguarding and promoting the sacred interests of so precious a Cause. I am fully alive to the vastness and delicacy of your task, I heartily appreciate your indefatigable efforts and unflinching determination, I am continually reminded of our Master’s assurances of a dazzling future before you. May His love enfold you, His Spirit guide you, and His power enable you to achieve signal victory.
 
-Your brother in the Master’s service,
+@ Your brother in the Master’s service,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 12 May 1925
 years=[1925.0512,1925.0512]
 
-* To the members of the American National Assembly.
+@ To the members of the American National Assembly.
 
-* Dearly‑beloved fellow‑workers:
+@ Dearly‑beloved fellow‑workers:
 
 I have read with deep interest your two recent communications dated April 4th and 18th, and am gratified to learn of the steady expansion of your manifold activities.
 
@@ -1025,18 +1029,18 @@ However desirable these steps may be, it is evident that they are secondary in t
 
 I wish to assure you, in conclusion, of my heartfelt appreciation of your devoted labours in the Divine Vineyard.
 
-Your brother and fellow‑worker,
+@ Your brother and fellow‑worker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 3 June 1925
 years=[1925.0603,1925.0603]
 
-* To the beloved of God and the handmaids of the Merciful, the delegates and visitors to the Bahá’í Convention, Green Acre, Maine, U.S.A.
+@ To the beloved of God and the handmaids of the Merciful, the delegates and visitors to the Bahá’í Convention, Green Acre, Maine, U.S.A.
 
-* Fellow‑labourers in the Vineyard of God:
+@ Fellow‑labourers in the Vineyard of God:
 
 Once again the hand of divine power has gathered together the chosen representatives of the American believers, assembled this time amid the pleasant surroundings of a blest and beloved spot, to deliberate upon the most effective measures that will ensure the advancement of the Cause of Bahá’u’lláh. I feel it a pleasure and privilege to offer you these few thoughts as my humble contribution to the proceedings of your annual Convention.
 
@@ -1060,18 +1064,18 @@ One word more in conclusion. Let the West, and particularly the Great Republic o
 
 Persia, the cradle of an unfolding world civilisation, is still bereft of her freedom, sunk in ignorance, a prey to contending policies and factions, beset on one hand by the powers of orthodoxy and sectarian fanaticism and assailed on the other by the forces of materialism and unbelief. In her evil plight she is radiantly confident that the Flame she had kindled in the world will, in the fullness of time, blaze forth in the heart of the mighty West and shed redeeming illumination upon the silent sufferers of a distracted country. Will it be America, will it be one of the nations of Europe, that will seize the torch of Divine Guidance from Persia’s fettered hands and with it set the western world aflame? May your Convention, by its spirit, its resolutions and its accomplishments, give to that country’s urgent call a noble and decisive answer.
 
-Your brother and fellow‑worker,
+@ Your brother and fellow‑worker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 24 October 1925
 years=[1925.1024,1925.1024]
 
-* To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
+@ To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
-* My well‑beloved friends:
+@ My well‑beloved friends:
 
 The numerous communications which your distinguished Secretary has lately addressed on your behalf to the Greatest Holy Leaf and myself, have been eagerly perused and their contents carefully noted. The news they imparted and the spirit they revealed have caused us both genuine satisfaction, and have served to intensify the feelings of joyous confidence, of pride and gratitude with which we have greeted the inauguration of your term of service.
 
@@ -1101,18 +1105,18 @@ The compilation of newspaper clippings with regard to recent persecutions in Per
 
 Wishing you success from all my heart, and assuring you of my continued prayers for the steady expansion and consolidation of your work,
 
-I am, your brother and fellow‑worker,
+@ I am, your brother and fellow‑worker,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 6 November 1925
 years=[1925.1106,1925.1106]
 
-* To the members of the American National Spiritual Assembly.
+@ To the members of the American National Spiritual Assembly.
 
-* My dear fellow‑workers:
+@ My dear fellow‑workers:
 
 Two recent communications of your able secretary, dated Oct. 14th and 15th, have been received and read with deep gratitude and pleasure.
 
@@ -1146,18 +1150,18 @@ Concerning the election of alternate members to the National Spiritual Assembly,
 
 Assuring you of my deep appreciation of your continued efforts, and of my unceasing prayers on your behalf,
 
-I am your grateful brother,
+@ I am your grateful brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 30 November 1925
 years=[1925.1130,1925.1130]
 
-* To the beloved of God and the handmaids of the Merciful in the East and in the West.
+@ To the beloved of God and the handmaids of the Merciful in the East and in the West.
 
-* Dear fellow‑workers:
+@ Dear fellow‑workers:
 
 It is with feelings of overwhelming sorrow that I communicate to you the news of yet another loss which the Almighty, in His inscrutable wisdom, has chosen to inflict upon our beloved Cause. On the 22nd of November, 1925, that memorable and sacred day in which the Bahá’ís of the Orient celebrated the twin Festivals of the Declaration of the Báb and the birthday of ‘Abdu’l‑Bahá, Dr. John E. Esslemont passed on to the Abhá Kingdom. His end was as swift as it was unexpected. Suffering from the effects of a chronic and insidious disease, he fell at last a victim to the inevitable complications that ensued, the fatal course of which neither the efforts of vigilant physicians nor the devoted cares of his many friends could possibly deflect.
 
@@ -1167,18 +1171,18 @@ With tearful eyes I supplicate at the Threshold of Bahá’u’lláh—and reque
 
 He has been laid to rest in the heart of that beautifully situated Bahá’í burial ground at the foot of Carmel, close to the mortal remains of that venerable soul, Ḥájí Mírzá Vakílu’d‑Dawlih, the illustrious cousin of the Báb and chief builder of the Mashriqu’l‑Adhkár of Ishqábád. Pilgrims visiting his grave from far and near will, with pride and gratitude, do honour to a name that adorned the annals of an Immortal Cause.
 
-May he eternally rest in peace.
+@ May he eternally rest in peace.
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 10 January 1926
 years=[1926.0110,1926.0110]
 
-* To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
+@ To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
-* Dearly‑beloved fellow‑workers in the Vineyard of God!
+@ Dearly‑beloved fellow‑workers in the Vineyard of God!
 
 Your letter dated Nov. 9, 1925, has been received and read with feelings of deep satisfaction and gratitude. It is most unfortunate that, owing to unavoidable circumstances, I have been prevented from communicating more fully and frequently with the distinguished representatives of those dear fellow‑workers of mine, the progress of whose accomplishments I am continually following with the liveliest expectations, loving sympathy and cheerful hope.
 
@@ -1216,18 +1220,18 @@ As the administrative work of the Cause steadily expands, as its various branche
 
 May the year that has just dawned upon us witness in such a glorious field many a signal victory.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 22 April 1926
 years=[1926.0422,1926.0422]
 
-* To the beloved of the Lord and the handmaids of the Merciful through the West.
+@ To the beloved of the Lord and the handmaids of the Merciful through the West.
 
-* Fellow‑labourers in the Divine Vineyard:
+@ Fellow‑labourers in the Divine Vineyard:
 
 In the midst of the many vicissitudes which the creative Word of God is destined to encounter in the course of its onward march towards the redemption of the world, there breaks upon us the news of still another loss, more bewildering in its character, yet more inspiring in its challenge, than any of the gravest happenings of recent times. Once again the woeful tale of unabated persecution, involving this time the martyrdom of twelve of our long‑suffering brethren in Jahrum, southern Persia, has reached our ears, and filled us with a gloom which all the joys and ennobling memories of Riḍván have failed to dispel.
 
@@ -1249,18 +1253,18 @@ Though grief‑stricken and horrified at this cruel blow, let us be on our guard
 
 Ours is this supreme opportunity; may we fulfil our trust.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 11 May 1926
 years=[1926.0511,1926.0511]
 
-* To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
+@ To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
-* Fellow‑labourers in the Vineyard of God:
+@ Fellow‑labourers in the Vineyard of God:
 
 Various happenings of recent months, highly disquieting in their suddenness, their complexity and consequences, have time and again, to my regret, compelled me to defer correspondence with you, my highly valued coworkers, who are destined to share no small a part of the burden that now weighs so heavily upon me. The prolonged and delicate negotiations arising out of the critical situation of Bahá’u’lláh’s house in Baghdád; the shameful recrudescence of unrestrained barbarism in stricken Persia; the unexpected reverse recently sustained in our legal transactions for the deliverance of Bahá’u’lláh’s mansion at Bahjí from the hands of the enemy; the unprecedented increase in the volume of work resulting from the rise and expansion of the Movement in various parts of the world—these and other issues, no less pressing in their demand upon my time and energy, have gradually affected my health and impaired the efficiency required in the discharge of my arduous duties. But, though body and mind be sorely strained by cares and perplexities which a Movement such as ours just emerging from obscurity must needs encounter, yet the spirit continues to draw fresh inspiration from the manner in which the chosen deliverers of the Faith in the Western world, and particularly in the American continent, are proving themselves increasingly worthy of such a stupendous yet so noble a task.
 
@@ -1290,18 +1294,18 @@ May America’s national representatives arise with clear vision, with unswervin
 
 Assuring you of my continued and earnest prayers for the success of your efforts,
 
-I am your true brother,
+@ I am your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 7 October 1926
 years=[1926.1007,1926.1007]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout the West.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
-* Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá:
+@ Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá:
 
 In the course of the few months that have elapsed since my last communication to you regarding the appalling circumstances that have culminated in the martyrdom of our Persian brethren in Jahrum, events of the highest importance to the future welfare of our beloved Cause have transpired, and with startling suddenness conferred abiding solace upon those who still have to face the pains and terrors of unmitigated and shameless tyranny.
 
@@ -1327,18 +1331,18 @@ And as we call to mind the circumstances that have led to such a notable advance
 
 Let such remarkable revelations of the reality and continuity of the divine purpose, made manifest from time to time to us His feeble children, serve to fortify our faith in Him, to warm the chill which fleeting misfortunes may leave behind, and fill us with that celestial potency which alone can enable us to withstand the storm and stress that lives dedicated to His service must needs encounter.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 29 October 1926
 years=[1926.1029,1926.1029]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout the West.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
-* Dear fellow‑workers in the Divine Vineyard:
+@ Dear fellow‑workers in the Divine Vineyard:
 
 It will gladden and rejoice every one of you to learn that from various quarters there has of late reached the Holy Land tidings of fresh developments that are a clear indication of those hidden and transforming influences which, from the source of Bahá’u’lláh’s mystic strength, continue to flow with ever‑increasing vitality into the heart of this troubled world.
 
@@ -1352,18 +1356,18 @@ From Baghdád, moreover, where the sacred habitation of Bahá’u’lláh has be
 
 For the present, we cannot but rejoice and feel profoundly thankful as we witness in so many directions the welcome signs of the gradual emancipation of the struggling Faith of Bahá’u’lláh, of the increasing recognition on the part of both the high and lowly of its universal principles—all so rich in their promise of ultimate victory.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 31 October 1926
 years=[1926.1031,1926.1031]
 
-* To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
+@ To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
-* Dearly‑beloved fellow‑workers:
+@ Dearly‑beloved fellow‑workers:
 
 I have on two recent occasions given expression to the profound sense of inspiring confidence and joyous gratitude which recent happenings in the Cause—evident manifestations of the steady evolution of a living Faith—must needs evoke in the heart of every thoughtful and observing believer. And as I contemplate the far‑reaching possibilities involved in a careful handling of those forces which Bahá’u’lláh’s almighty arm has now released, I cannot help reflecting upon the dominant share which the American friends, at home as well as in distant lands, have contributed to this rejuvenation of the Cause of God, and the decisive part it is theirs to play in its eventual victory.
 
@@ -1389,18 +1393,18 @@ I have already expressed my grateful appreciation of the prompt and wise measure
 
 It is sad and distressing to reflect that, notwithstanding the repeated appeals addressed to the authorities concerned, and so powerfully reinforced by the spontaneous action of some of the leading Governments of the West, Persia, still heedless and unaware of the spiritual forces that are at work, continues to treat with indifference and contempt the most loyal, innocent and law‑abiding subjects of its realm. The chronic instability of its affairs, the changing fortunes of factions and shadowy personalities that sap its vitality and tarnish its name, the acute and widespread economic depression that is now prevailing, and the grave discontent of the masses of the people, all tend to aggravate a situation already highly threatening to the security of its sorely tried children. What else can we do but pray most fervently that the almighty power of Bahá’u’lláh may soon triumph over this petty strife, this age‑long tyranny, and make, as He prophesied, of the land of His birth, “the most honoured of all governments, the pride, the admiration and the envy of the peoples of the world.”
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 14 November 1926
 years=[1926.1114,1926.1114]
 
-* The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
+@ The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
 
-* Dearly‑beloved friends:
+@ Dearly‑beloved friends:
 
 The progress of various events, both within and outside the Bahá’í world, as well as the perusal of the able and illuminating report recently submitted by the Committee of the Persian National Spiritual Assembly in charge of the Tarbíyat School in Ṭihrán, have served to reinforce a gradually growing idea as to the desirability of arranging for the settlement in the capital of that country of one or two American believers who, having the means, the freedom and the capacity, can adequately meet the pressing requirements of a responsible position. Judging from their report, the situation in Ṭihrán though much confused and perplexing, is fraught with rich possibilities for the future of the Cause, both as affecting the national fortunes of Persia, as well as its influence upon the international development of the Cause.
 
@@ -1412,18 +1416,18 @@ The gradual expansion of foreign as well as officially subsidised educational sc
 
 Whoever steps into this field will find, as he settles down to his work, that the environment is extremely disheartening, that restrictions are oppressive, that the amenities of social life are lacking, that the forces of opposition are determined and organised. But let him realise also that, however tedious and exacting his labours, however precarious and thankless his task, the pioneer services it is his unique privilege to render in this time of stress will forever live in the annals of God’s living Faith, and will prove a source of inspiration to the countless workers who, in happier times and with better means at their disposal, will consummate the spiritual regeneration and material rehabilitation of Bahá’u’lláh’s native land.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 12 February 1927
 years=[1927.0212,1927.0212]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout the West.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
-* Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá:
+@ Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá:
 
 The trend of various events, affecting directly and indirectly the interests of the Bahá’í Cause, have of late served to bring into further prominence the character as well as the significance of a Faith destined to regenerate the world.
 
@@ -1449,18 +1453,18 @@ We cannot believe that as the Movement grows in strength, in authority and in in
 
 Dearly beloved friends, upon us devolves the supreme obligation to stand by His side, to fight His battles and to win His victory. May we prove ourselves worthy of this trust.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 20 February 1927
 years=[1927.0220,1927.0220]
 
-* To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
+@ To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
-* Dear and precious fellow‑workers in the Vineyard of God:—
+@ Dear and precious fellow‑workers in the Vineyard of God:—
 
 The communications addressed to me by your indefatigable and distinguished secretary, dated October 28, November 8, 11, 18, December 4, 16 and January 27th, have been received, and together with their enclosures read and carefully noted. I cannot but admire the spirit of unrelaxing resolve and harmonious cooperation with which you are conducting the ever‑expanding activities of the Cause in a land upon which our Beloved has lavished His richest blessings, and for the spiritual potentialities of which He cherished the brightest hopes. The vigorous efforts you are exerting to consolidate the forces which the Almighty has placed in your hands; the resourcefulness you display by the measures you have initiated for the furtherance of the Cause; the magnificent response with which you have met the piteous call of your suffering brethren of the East—all proclaim your worthiness of the unexampled efforts which, in your country more than in any other land, ‘Abdu’l‑Bahá has exerted for the spread of the Revelation of Bahá’u’lláh.
 
@@ -1492,18 +1496,18 @@ It is the duty and privilege of the National and Local Assemblies if they find t
 
 In my hours of prayer at the holy Shrines, I will supplicate that the light of Divine Guidance may illumine your path, and enable you to utilise in the most effective manner that spirit of individual enterprise which, once kindled in the breasts of each and every believer and directed by the discipline of the majestic Law of Bahá’u’lláh, imposed upon us, will carry our beloved Cause forward to achieve its glorious destiny.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 12 April 1927
 years=[1927.0412,1927.0412]
 
-* To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada:
+@ To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada:
 
-* Dearly‑beloved friends:
+@ Dearly‑beloved friends:
 
 Your recent communications, dated February 17 and March 2, 17 and 21, have been received, and their perusal has served to heighten my admiration for the unflinching determination which characterises the concerted efforts which you are exerting for the spread and consolidation of the Bahá’í Faith.
 
@@ -1533,18 +1537,18 @@ We can prove ourselves worthy of our Cause only if in our individual conduct and
 
 Such is the path of servitude, such is the way of holiness He chose to tread to the very end of His life. Nothing short of the strictest adherence to His glorious example can safely steer our course amid the pitfalls of this perilous age, and lead us on to fulfil our high destiny.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 27 April 1927
 years=[1927.0427,1927.0427]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
 
-* Dearly‑beloved friends:
+@ Dearly‑beloved friends:
 
 With feelings of horror and indignation I communicate to you the tale of yet another tragedy involving the shedding of the blood of a martyr of the Faith on Persia’s sacred soil. I have before me, as I pen these lines, the report of the local Spiritual Assembly of Ardibíl, a town on the north‑east confines of the province of Ádhirbayján, not far distant from those hallowed spots where the Báb suffered His last confinement and martyrdom. Addressed to the National Spiritual Assembly of the Bahá’ís of Persia, this report recounts in simple but moving language the circumstances that have led to the cowardly crime committed in the darkness of the night at the instigation of the fanatical clergy—the deadliest opponents of the Faith in that town.
 
@@ -1560,18 +1564,18 @@ It appears from the above‑mentioned report that the merciless assailant has be
 
 Dearest friends! Any measure of publicity the concerted efforts of the Bahá’í Spiritual Assemblies of the West, on whom almighty Providence has conferred the inestimable benefits of religious toleration and freedom, can accord to this latest manifestation of unbridled barbarism in Persia will be most opportune and valuable. It will, I am certain, confer abiding solace to those disconsolate sufferers who with sublime heroism continue to uphold the traditions of their beloved Faith. Our one weapon lies in our prayerful efforts, intelligently and persistently pursued, to arouse by every means at our disposal the conscience of unheeding humanity, and to direct the attention of men of vision and authority to these incredibly odious acts which in their ferocity and frequency cannot but constitute in the eyes of every fair‑minded observer the gravest challenge to all that is sacred and precious in our present‑day civilisation.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 27 May 1927
 years=[1927.0527,1927.0527]
 
-* To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada:
+@ To the members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada:
 
-* Dearly‑beloved coworkers:
+@ Dearly‑beloved coworkers:
 
 Your communications dated April 15th and May 6th and 9th have been received, with their enclosures, and carefully perused.
 
@@ -1591,18 +1595,18 @@ I would recommend these observations to your earnest consideration, and whatever
 
 Wishing you success from all my heart,
 
-I am, your true brother,
+@ I am, your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 17 October 1927
 years=[1927.1017,1927.1017]
 
-* To the Honoured Members of the Bahá’í National Spiritual Assemblies throughout the West.
+@ To the Honoured Members of the Bahá’í National Spiritual Assemblies throughout the West.
 
-* My dear fellow‑workers:
+@ My dear fellow‑workers:
 
 With feelings of burning indignation I find myself impelled to acquaint you with various events that have recently transpired in Persia. Though in their immediate effect these happenings may prove gravely disquieting to the followers of the Faith in Persia and elsewhere, yet they cannot but eventually contribute to the strengthening and purification of the Cause we steadfastly love and serve.
 
@@ -1622,18 +1626,18 @@ But, alas! he has laboured in vain, oblivious of the fact that all the pomp and 
 
 Should ever his book secure widespread circulation in the West, should it ever confuse the mind of the misinformed and stranger, I have no doubt that the various Bahá’í National Spiritual Assemblies, throughout the Western world, will with the wholehearted and sustained support of local Assemblies and individual believers arise with heart and soul for the defence of the impregnable stronghold of the Cause of God, for the vindication of the sacredness and sublimity of the Bahá’í Teachings, and for the condemnation, in the eyes of those who are in authority, of one who has so basely dared to assail, not only the tenets, but the holy person of the recognised Founder of an established and world‑wide Faith.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine;
+@ Haifa, Palestine;
 
 ## 18 October 1927
 years=[1927.1018,1927.1018]
 
-* To the Members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
+@ To the Members of the National Spiritual Assembly of the Bahá’ís of the United States and Canada.
 
-* Dearly‑beloved coworkers:
+@ Dearly‑beloved coworkers:
 
 I have already expressed indirectly my views with regard to various secondary issues raised in your latest communications to me dated May 23, June 10, 21, July 11, 14, 15 and 25, August 7 and September 28; and I wish in this letter to deal more particularly with such matters of primary importance as affect the conduct and the growth of Bahá’í administration. The perusal of these communications replete with the news of steadily multiplying activities and newly conceived plans, all of which I as heretofore appreciate and welcome, has made me feel however that the time seems now opportune to utter a word of caution and warning to those who with unceasing zest labour to give befitting embodiment to those latent energies released by the Message of Bahá’u’lláh.
 
@@ -1661,18 +1665,18 @@ The warm hospitality accorded by the National Spiritual Assembly and the America
 
 And now in conclusion, may I be permitted to direct your attention to the lesson which the trend of world events brings home to us, the little band of His chosen workers who, according to the intelligent efforts we exert, can prove ourselves the determining factor in the immediate fortunes of the society we live in? As we witness on all sides the growing restlessness of a restless age, we are filled with mixed feelings of fear and hope—fear, at the prospect of yet another deadly encounter, the inevitability of which is alas! becoming increasingly manifest; hope, in the serene assurance that whatever cataclysm may yet visit humanity, it cannot but hasten the approaching era of universal and lasting peace so emphatically proclaimed by the Pen of Bahá’u’lláh. In the political domain, where we have lately witnessed, in the council of the leading nations of the world, the surrender of humanity’s noblest conception to what may be regarded only as a transient phase in the life of peoples and nations; in the industrial world, where the representatives of the wage‑earning classes, either through violence or persuasion, are capturing the seats of authority and wielding the sceptre of power: in the field of religion, where we have lately witnessed widespread and organised attempts to broaden and simplify the basis of man’s faith, to achieve unity in Christendom and restore the regenerating vigour of Islám; in the heart of society itself, where the ominous signs of increasing extravagance and profligacy are but lending fresh impetus to the forces of revolt and reaction that are growing more distinct every day—in these as in many others we have much cause for alarm, but much to be hopeful and thankful for also. To take but one instance more fully: Observe the fierce and as yet unsilenced dispute which the proposal for the introduction of a binding and universal pact of non‑aggression among the nations of Europe has aroused among the avowed supporters of the League of Nations—a League so auspiciously welcomed for the ideal that prompted its birth, yet now so utterly inadequate in the actual principles that underlie its present‑day structure and working. And yet, in the great outcry raised by post‑war nationalism in blindly defending and upholding the unfettered supremacy of its own sovereignty, and in repudiating unreservedly the conception of a world super‑state, can we not discern the reenactment only on a larger scale of the dramatic struggles that heralded the birth of the reconstructed and unified nations of the West? Has not authentic history clearly revealed in the case of these nations the painful yet inevitable merging of rival, particularistic and independent cities and principalities into one unified national entity, the evolving of a crude and narrow creed into a nobler and wider conception? Is not a parallel struggle being now manifested on the world stage of ever‑advancing humanity? Can it lead to any other result than that which shall reaffirm the truth of humanity’s onward march towards an ever‑widening conception, and the ever‑brightening glory of its destiny? Reverses and setbacks, such as we have already witnessed, no doubt will retard the ripening of the choicest fruit on the tree of human development. Yet the fierceness of controversy, the weight of argument advanced in its disfavour, cannot but contribute to the broadening of the basis and the consolidation of the foundations upon which the stately edifice of unified mankind must ultimately rest. Let us take heart therefore, and labour with renewed vigour and deepened understanding to contribute our share to those forces which, whether or not cognisant of the regenerating Faith of Bahá’u’lláh in this age, are operating, each in its respective sphere and under His all‑encompassing guidance, for the uplift and the salvation of humanity.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 6 December 1928
 years=[1928.1206,1928.1206]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout the West.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
-* Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá:
+@ Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá:
 
 Events, of a startling character and of the utmost significance to the Faith of Bahá’u’lláh, have recently transpired throughout the Near and Middle East in such rapid succession, that I feel moved to write about them to those who, in distant lands and with eager hearts, are waiting to witness the fulfilment of the prophecies of Bahá’u’lláh. You will, I am certain, rejoice with me to learn that the quickening forces of internal reform are swiftly awakening from their age‑long slumber of negligence those lands which, trodden by the feet of Bahá’u’lláh and wherein are enshrined the memorable scenes of His birth, His ministry, His exiles, His banishments, His suffering and His ascension, are destined in the fullness of time to play a preeminent role in the regeneration of the East—nay of all mankind.
 
@@ -1712,18 +1716,18 @@ In the mid‑watches of the night, commemorating the passing of Him Who with His
 
 And in closing, dearly‑beloved friends, what more appropriate thought with which to conclude my fervent plea than these pregnant words fallen from the lips of Bahá’u’lláh: “O My friends! I bear witness that the Divine Bounty has been vouchsafed unto you, His Argument has been made manifest, His Proof has been revealed, and His Guidance has shone forth upon you. Let it now be seen what your endeavours in the path of renunciation can reveal.”
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 6 December 1928
 years=[1928.1206,1928.1206]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout the East and West.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout the East and West.
 
-* Dear fellow‑workers:
+@ Dear fellow‑workers:
 
 I desire to convey to you in a few words my impressions of the recently published “Bahá’í World,” copies of which, I understand, have already, thanks to the assiduous care and indefatigable efforts displayed by the Publishing Committee of the American National Spiritual Assembly, been widely distributed among the Bahá’í countries of East and West.
 
@@ -1735,18 +1739,18 @@ I confidently and emphatically recommend it to every thoughtful and eager follow
 
 I earnestly request you, dearly‑beloved friends, to exert the utmost effort for the prompt and widespread circulation of a book that so faithfully and vividly portrays, in all its essential features, its far‑reaching ramifications and most arresting aspects, the all‑encompassing Faith of Bahá’u’lláh. Whatever assistance, financial or moral, extended by Bahá’í Spiritual Assemblies and individual believers, to those who have been responsible for such a highly valuable and representative production will, it should be remembered, be directly utilised to advance the interests and reinforce the funds that are being raised in behalf of the Mashriqu’l‑Adhkár, and will indirectly serve to exert a most powerful stimulus in removing the malicious misrepresentations and unfortunate misunderstandings that have so long and so grievously clouded the luminous Faith of Bahá’u’lláh.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 21 December 1928
 years=[1928.1221,1928.1221]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout the West.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
-* Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá!
+@ Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá!
 
 With feelings of profound sorrow I am moved to address you these few lines mourning the loss which the Cause has undoubtedly sustained by the passing of one who, for many years and in circumstances of exceptional significance, rendered the sacred Threshold distinctive and inestimable services. The hand of Divine Decree has removed, by the death of our talented and dearly‑beloved friend, Mr. Hippolyte Dreyfus‑Barney, yet another outstanding figure in the Cause of Bahá’u’lláh, who, by his brilliant gifts of mind and heart as well as by the divers achievements of his life, has truly enriched the annals of God’s immortal Faith.
 
@@ -1762,18 +1766,18 @@ Suffering as he did in his last days from the effects of a slow and painful illn
 
 With much emotion and the deepest sense of gratitude I supplicate at the holy Threshold—and request you to join with me in my prayers—for the spiritual advancement in the realms above of a soul who by the sheer merit of the signal services he rendered already deserves to rank highly among the departed faithful.
 
-May he forever rest in peace.
+@ May he forever rest in peace.
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 1 January 1929
 years=[1929.0101,1929.0101]
 
-* The beloved of the Lord and the handmaids of the Merciful throughout the West.
+@ The beloved of the Lord and the handmaids of the Merciful throughout the West.
 
-* Dearly‑beloved coworkers:
+@ Dearly‑beloved coworkers:
 
 Whilst the Bahá’ís of Persia, constituting the overwhelming majority of the adherents of the Bahá’í Faith in eastern lands, are tasting the first‑fruits of their long‑dreamed emancipation, a not inconsiderable section of Bahá’u’lláh’s following in the East, inhabiting the provinces of Caucasus and Turkistán, are being subjected to trials and tribulations not very dissimilar, though inferior in intensity, to the afflictions borne so long and so heroically by their Persian brethren.
 
@@ -1805,18 +1809,18 @@ Surely, if we read the history of this case aright, we cannot but discern the di
 
 “In truth I declare, it shall be so abased in the days to come as to cause tears to flow from every discerning eye. . . . And in the fullness of time shall the Lord, by the power of truth, exalt it in the eyes of all the world, cause it to become the mighty standard of His Dominion, the Shrine round which shall circle the concourse of the faithful.”
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 12 February 1929
 years=[1929.0212,1929.0212]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout the West.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
-* Fellow‑labourers in the Divine Vineyard:
+@ Fellow‑labourers in the Divine Vineyard:
 
 I feel impelled by the force of various circumstances to share with you the news of recent happenings in those countries of the Near and Middle East which, by the ruling of Providence, are in these days undergoing a transformation which is as startling in its features as it is significant in its bearings upon the interests of our beloved Faith.
 
@@ -1864,18 +1868,18 @@ And in conclusion, I wish, in a few words, to pay a tribute, however inadequate,
 
 I appeal to individual believers and Bahá’í Assemblies alike to reinforce by every possible means the earnest strivings of such a precious soul, to respond speedily and entirely to every request that from time to time she feels moved to address to her fellow‑workers in every land, to strive to attain the high standard of stewardship that she has set, and to pray from the very depths of their hearts for the uninterrupted continuance of her noble endeavours.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 20 March 1929
 years=[1929.0320,1929.0320]
 
-* To the beloved of the Lord and the handmaids of the Merciful throughout the West.
+@ To the beloved of the Lord and the handmaids of the Merciful throughout the West.
 
-* Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá:
+@ Dearly‑beloved brothers and sisters in ‘Abdu’l‑Bahá:
 
 With a heart overflowing with thankfulness and joy I take my pen to share with you tidings that eloquently testify to the triumphant majesty and unconquerable spirit of the Faith of Bahá’u’lláh. From Geneva, the seat of the League of Nations, there comes the news that the fervent plea addressed by the Bahá’ís of ‘Iráq to the world’s supreme Tribunal regarding an issue that for a time has stirred the Bahá’í world to its foundation has at last met with a noble and most gratifying response.
 
@@ -1895,18 +1899,18 @@ I will, if deemed proper and advisable, inform you of the manner in which the ad
 
 I must not fail in conclusion to refer once again to the decisive role played by that distinguished and international champion of the Faith of Bahá’u’lláh, our dearly‑beloved Mountfort Mills, in the negotiations that have paved the way for the signal success already achieved. The text of the Bahá’í petition, which he conceived and drafted, has been recognised by the members of the Mandates Commission as “a document well‑drafted, clear in its argument and moderate in tone.” He has truly acquitted himself in this most sacred task with exemplary distinction and proved himself worthy of so noble a mission. I request you to join with me in my prayers for him, that the Spirit of Bahá’u’lláh may continue to guide and sustain him in the final settlement of this most mighty issue.
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 25 October 1929
 years=[1929.1025,1929.1025]
 
-* The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
+@ The beloved of the Lord and the handmaids of the Merciful throughout the United States and Canada.
 
-* My well‑beloved friends:
+@ My well‑beloved friends:
 
 Ever since that remarkable manifestation of Bahá’í solidarity and self‑sacrifice which has signalised the proceedings of last year’s memorable Convention, I have been expectantly awaiting the news of a steady and continuous support of the Plan which can alone ensure, ere the present year draws to its close, the resumption of building operations on our beloved Temple.
 
@@ -1932,18 +1936,18 @@ But however inspiring the conception of Bahá’í worship, as witnessed in the 
 
 Dearly‑beloved friends! May we not as the trustees of so priceless a heritage, arise to fulfil our high destiny?
 
-Your true brother,
+@ Your true brother,
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine,
+@ Haifa, Palestine,
 
 ## 17 July 1932
 years=[1932.0717,1932.0717]
 
-* The beloved of God and the handmaids of the Merciful throughout the United States and Canada.
+@ The beloved of God and the handmaids of the Merciful throughout the United States and Canada.
 
-* Brethren and fellow‑mourners in the Faith of Bahá’u’lláh:
+@ Brethren and fellow‑mourners in the Faith of Bahá’u’lláh:
 
 A sorrow, reminiscent in its poignancy, of the devastating grief caused by ‘Abdu’l‑Bahá’s sudden removal from our midst, has stirred the Bahá’í world to its foundations. The Greatest Holy Leaf, the well‑beloved and treasured Remnant of Bahá’u’lláh entrusted to our frail and unworthy hands by our departed Master, has passed to the Great Beyond, leaving a legacy that time can never dim.
 
@@ -2015,9 +2019,9 @@ Whatever betide us, however distressing the vicissitudes which the nascent Faith
 
 In the innermost recesses of our hearts, O thou exalted Leaf of the Abhá Paradise, we have reared for thee a shining mansion that the hand of time can never undermine, a shrine which shall frame eternally the matchless beauty of thy countenance, an altar whereon the fire of thy consuming love shall burn forever.
 
-Shoghi.
+@ Shoghi.
 
-Haifa, Palestine.
+@ Haifa, Palestine.
 
 ## 16 March 1933
 years=[1933.0316,1933.0316]

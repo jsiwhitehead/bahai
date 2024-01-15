@@ -42,9 +42,9 @@ Moreover, the number of countries opened to the onsweeping Faith, and the number
 
 Such remarkable multiplication of dynamic institutions, such thrilling deployment of world‑regenerating forces, North, South, East and West, endow the preeminent goal of the Second Seven Year Plan in Europe with extraordinary urgency and peculiar significance. I am impelled to appeal to all American believers possessing independent means to arise and supplement the course of the second year of the Second Seven Year Plan through personal participation or appointment of deputies, the superb exertions of the heroic vanguard of the hosts destined, through successive decades, to achieve the spiritual conquest of the continent unconquered by Islám, rightly regarded as the mother of Christendom, the fountainhead of American culture, the mainspring of western civilisation, and the recipient of the unique honour of two successive visits to its shores by the Centre of Bahá’u’lláh’s Covenant.
 
-Circa June 1947
-
-### NSA Must Control Credentials of Foreigners
+## Circa June 1947
+years=[1947.0601,1947.0601]
+summary="NSA Must Control Credentials of Foreigners"
 
 Owing to arrival of disloyal so‑called Bahá’ís your Assembly’s control of credentials should be strictly exercised, otherwise corruptive influences will spread and injure the magnificent services being achieved by the American Bahá’í Community.
 
@@ -964,9 +964,9 @@ summary="Safeguarding American Primacy"
 
 Overjoyed by remarkable achievements of American Bahá’í Community, safeguarding primacy, enhancing prestige, setting magnificent example to sister communities East and West. Assure three Assembly members, also Lofoten valiant pioneer of abiding appreciation, fervent loving prayers.
 
-Circa May 1954
-
-### Temple Site Purchased in Panama
+## Circa May 1954
+years=[1954.0501,1954.0501]
+summary="Temple Site Purchased in Panama"
 
 Heartfelt congratulations on acquisition of Temple site; notable achievement of World Crusade.
 

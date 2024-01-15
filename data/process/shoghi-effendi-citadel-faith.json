@@ -70,14 +70,18 @@
       },
       {
         "text": "Such remarkable multiplication of dynamic institutions, such thrilling deployment of world‑regenerating forces, North, South, East and West, endow the preeminent goal of the Second Seven Year Plan in Europe with extraordinary urgency and peculiar significance. I am impelled to appeal to all American believers possessing independent means to arise and supplement the course of the second year of the Second Seven Year Plan through personal participation or appointment of deputies, the superb exertions of the heroic vanguard of the hosts destined, through successive decades, to achieve the spiritual conquest of the continent unconquered by Islám, rightly regarded as the mother of Christendom, the fountainhead of American culture, the mainspring of western civilisation, and the recipient of the unique honour of two successive visits to its shores by the Centre of Bahá’u’lláh’s Covenant."
-      },
-      {
-        "text": "Circa June 1947"
-      },
-      {
-        "section": [1],
-        "title": "NSA Must Control Credentials of Foreigners"
-      },
+      }
+    ]
+  },
+  {
+    "path": ["Citadel of Faith", "Citadel of Faith"],
+    "item": 5,
+    "title": "Circa June 1947",
+    "author": "Shoghi Effendi",
+    "years": [1947.0601, 1947.0601],
+    "summary": "NSA Must Control Credentials of Foreigners",
+    "epoch": "Second Epoch",
+    "paragraphs": [
       {
         "text": "Owing to arrival of disloyal so‑called Bahá’ís your Assembly’s control of credentials should be strictly exercised, otherwise corruptive influences will spread and injure the magnificent services being achieved by the American Bahá’í Community."
       }
@@ -85,7 +89,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 5,
+    "item": 6,
     "title": "5 June 1947",
     "author": "Shoghi Effendi",
     "years": [1947.0605, 1947.0605],
@@ -401,7 +405,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 6,
+    "item": 7,
     "title": "13 July 1947",
     "author": "Shoghi Effendi",
     "years": [1947.0713, 1947.0713],
@@ -415,7 +419,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 7,
+    "item": 8,
     "title": "10 September 1947",
     "author": "Shoghi Effendi",
     "years": [1947.091, 1947.091],
@@ -432,7 +436,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 8,
+    "item": 9,
     "title": "25 October 1947",
     "author": "Shoghi Effendi",
     "years": [1947.1025, 1947.1025],
@@ -478,7 +482,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 9,
+    "item": 10,
     "title": "15 December 1947",
     "author": "Shoghi Effendi",
     "years": [1947.1215, 1947.1215],
@@ -498,7 +502,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 10,
+    "item": 11,
     "title": "10 January 1948",
     "author": "Shoghi Effendi",
     "years": [1948.011, 1948.011],
@@ -512,7 +516,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 11,
+    "item": 12,
     "title": "1 February 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0201, 1948.0201],
@@ -526,7 +530,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 12,
+    "item": 13,
     "title": "13 February 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0213, 1948.0213],
@@ -540,7 +544,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 13,
+    "item": 14,
     "title": "6 April 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0406, 1948.0406],
@@ -554,7 +558,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 14,
+    "item": 15,
     "title": "16 April 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0416, 1948.0416],
@@ -580,7 +584,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 15,
+    "item": 16,
     "title": "26 April 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0426, 1948.0426],
@@ -600,7 +604,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 16,
+    "item": 17,
     "title": "4 May 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0504, 1948.0504],
@@ -617,7 +621,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 17,
+    "item": 18,
     "title": "14 May 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0514, 1948.0514],
@@ -634,7 +638,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 18,
+    "item": 19,
     "title": "18 May 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0518, 1948.0518],
@@ -672,7 +676,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 19,
+    "item": 20,
     "title": "23 June 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0623, 1948.0623],
@@ -686,7 +690,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 20,
+    "item": 21,
     "title": "9 August 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0809, 1948.0809],
@@ -700,7 +704,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 21,
+    "item": 22,
     "title": "14 September 1948",
     "author": "Shoghi Effendi",
     "years": [1948.0914, 1948.0914],
@@ -714,7 +718,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 22,
+    "item": 23,
     "title": "21 October 1948",
     "author": "Shoghi Effendi",
     "years": [1948.1021, 1948.1021],
@@ -728,7 +732,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 23,
+    "item": 24,
     "title": "3 November 1948",
     "author": "Shoghi Effendi",
     "years": [1948.1103, 1948.1103],
@@ -754,7 +758,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 24,
+    "item": 25,
     "title": "8 November 1948",
     "author": "Shoghi Effendi",
     "years": [1948.1108, 1948.1108],
@@ -801,7 +805,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 25,
+    "item": 26,
     "title": "25 November 1948",
     "author": "Shoghi Effendi",
     "years": [1948.1125, 1948.1125],
@@ -815,7 +819,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 26,
+    "item": 27,
     "title": "10 December 1948",
     "author": "Shoghi Effendi",
     "years": [1948.121, 1948.121],
@@ -829,7 +833,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 27,
+    "item": 28,
     "title": "13 December 1948",
     "author": "Shoghi Effendi",
     "years": [1948.1213, 1948.1213],
@@ -843,7 +847,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 28,
+    "item": 29,
     "title": "22 December 1948",
     "author": "Shoghi Effendi",
     "years": [1948.1222, 1948.1222],
@@ -857,7 +861,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 29,
+    "item": 30,
     "title": "13 January 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0113, 1949.0113],
@@ -874,7 +878,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 30,
+    "item": 31,
     "title": "19 January 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0119, 1949.0119],
@@ -888,7 +892,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 31,
+    "item": 32,
     "title": "26 February 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0226, 1949.0226],
@@ -902,7 +906,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 32,
+    "item": 33,
     "title": "28 February 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0228, 1949.0228],
@@ -916,7 +920,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 33,
+    "item": 34,
     "title": "16 March 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0316, 1949.0316],
@@ -945,7 +949,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 34,
+    "item": 35,
     "title": "21 March 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0321, 1949.0321],
@@ -959,7 +963,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 35,
+    "item": 36,
     "title": "11 April 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0411, 1949.0411],
@@ -991,7 +995,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 36,
+    "item": 37,
     "title": "25 April 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0425, 1949.0425],
@@ -1005,7 +1009,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 37,
+    "item": 38,
     "title": "29 June 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0629, 1949.0629],
@@ -1019,7 +1023,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 38,
+    "item": 39,
     "title": "20 July 1949",
     "author": "Shoghi Effendi",
     "years": [1949.072, 1949.072],
@@ -1033,7 +1037,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 39,
+    "item": 40,
     "title": "7 August 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0807, 1949.0807],
@@ -1047,7 +1051,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 40,
+    "item": 41,
     "title": "18 August 1949",
     "author": "Shoghi Effendi",
     "years": [1949.0818, 1949.0818],
@@ -1088,7 +1092,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 41,
+    "item": 42,
     "title": "6 November 1949",
     "author": "Shoghi Effendi",
     "years": [1949.1106, 1949.1106],
@@ -1102,7 +1106,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 42,
+    "item": 43,
     "title": "13 November 1949",
     "author": "Shoghi Effendi",
     "years": [1949.1113, 1949.1113],
@@ -1116,7 +1120,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 43,
+    "item": 44,
     "title": "19 December 1949",
     "author": "Shoghi Effendi",
     "years": [1949.1219, 1949.1219],
@@ -1130,7 +1134,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 44,
+    "item": 45,
     "title": "25 February 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0225, 1950.0225],
@@ -1144,7 +1148,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 45,
+    "item": 46,
     "title": "21 March 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0321, 1950.0321],
@@ -1158,7 +1162,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 46,
+    "item": 47,
     "title": "29 March 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0329, 1950.0329],
@@ -1172,7 +1176,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 47,
+    "item": 48,
     "title": "17 June 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0617, 1950.0617],
@@ -1189,7 +1193,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 48,
+    "item": 49,
     "title": "4 July 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0704, 1950.0704],
@@ -1224,7 +1228,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 49,
+    "item": 50,
     "title": "5 July 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0705, 1950.0705],
@@ -1260,7 +1264,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 50,
+    "item": 51,
     "title": "15 July 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0715, 1950.0715],
@@ -1274,7 +1278,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 51,
+    "item": 52,
     "title": "24 July 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0724, 1950.0724],
@@ -1288,7 +1292,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 52,
+    "item": 53,
     "title": "5 August 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0805, 1950.0805],
@@ -1308,7 +1312,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 53,
+    "item": 54,
     "title": "12 September 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0912, 1950.0912],
@@ -1331,7 +1335,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 54,
+    "item": 55,
     "title": "19 September 1950",
     "author": "Shoghi Effendi",
     "years": [1950.0919, 1950.0919],
@@ -1345,7 +1349,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 55,
+    "item": 56,
     "title": "3 November 1950",
     "author": "Shoghi Effendi",
     "years": [1950.1103, 1950.1103],
@@ -1359,7 +1363,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 56,
+    "item": 57,
     "title": "8 November 1950",
     "author": "Shoghi Effendi",
     "years": [1950.1108, 1950.1108],
@@ -1373,7 +1377,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 57,
+    "item": 58,
     "title": "8 December 1950",
     "author": "Shoghi Effendi",
     "years": [1950.1208, 1950.1208],
@@ -1390,7 +1394,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 58,
+    "item": 59,
     "title": "17 January 1951",
     "author": "Shoghi Effendi",
     "years": [1951.0117, 1951.0117],
@@ -1404,7 +1408,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 59,
+    "item": 60,
     "title": "17 January 1951",
     "author": "Shoghi Effendi",
     "years": [1951.0117, 1951.0117],
@@ -1418,7 +1422,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 60,
+    "item": 61,
     "title": "29 March 1951",
     "author": "Shoghi Effendi",
     "years": [1951.0329, 1951.0329],
@@ -1492,7 +1496,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 61,
+    "item": 62,
     "title": "19 October 1951",
     "author": "Shoghi Effendi",
     "years": [1951.1019, 1951.1019],
@@ -1506,7 +1510,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 62,
+    "item": 63,
     "title": "4 November 1951",
     "author": "Shoghi Effendi",
     "years": [1951.1104, 1951.1104],
@@ -1520,7 +1524,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 63,
+    "item": 64,
     "title": "23 November 1951",
     "author": "Shoghi Effendi",
     "years": [1951.1123, 1951.1123],
@@ -1576,7 +1580,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 64,
+    "item": 65,
     "title": "3 May 1952",
     "author": "Shoghi Effendi",
     "years": [1952.0503, 1952.0503],
@@ -1590,7 +1594,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 65,
+    "item": 66,
     "title": "29 April 1953",
     "author": "Shoghi Effendi",
     "years": [1953.0429, 1953.0429],
@@ -1685,7 +1689,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 66,
+    "item": 67,
     "title": "13 May 1953",
     "author": "Shoghi Effendi",
     "years": [1953.0513, 1953.0513],
@@ -1699,7 +1703,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 67,
+    "item": 68,
     "title": "18 July 1953",
     "author": "Shoghi Effendi",
     "years": [1953.0718, 1953.0718],
@@ -1802,7 +1806,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 68,
+    "item": 69,
     "title": "5 September 1953",
     "author": "Shoghi Effendi",
     "years": [1953.0905, 1953.0905],
@@ -1811,14 +1815,18 @@
     "paragraphs": [
       {
         "text": "Overjoyed by remarkable achievements of American Bahá’í Community, safeguarding primacy, enhancing prestige, setting magnificent example to sister communities East and West. Assure three Assembly members, also Lofoten valiant pioneer of abiding appreciation, fervent loving prayers."
-      },
-      {
-        "text": "Circa May 1954"
-      },
-      {
-        "section": [1],
-        "title": "Temple Site Purchased in Panama"
-      },
+      }
+    ]
+  },
+  {
+    "path": ["Citadel of Faith", "Citadel of Faith"],
+    "item": 70,
+    "title": "Circa May 1954",
+    "author": "Shoghi Effendi",
+    "years": [1954.0501, 1954.0501],
+    "summary": "Temple Site Purchased in Panama",
+    "epoch": "Second Epoch",
+    "paragraphs": [
       {
         "text": "Heartfelt congratulations on acquisition of Temple site; notable achievement of World Crusade."
       }
@@ -1826,7 +1834,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 69,
+    "item": 71,
     "title": "23 July 1954",
     "author": "Shoghi Effendi",
     "years": [1954.0723, 1954.0723],
@@ -1843,7 +1851,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 70,
+    "item": 72,
     "title": "28 July 1954",
     "author": "Shoghi Effendi",
     "years": [1954.0728, 1954.0728],
@@ -1961,7 +1969,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 71,
+    "item": 73,
     "title": "22 October 1954",
     "author": "Shoghi Effendi",
     "years": [1954.1022, 1954.1022],
@@ -1978,7 +1986,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 72,
+    "item": 74,
     "title": "15 August 1955",
     "author": "Shoghi Effendi",
     "years": [1955.0815, 1955.0815],
@@ -1992,7 +2000,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 73,
+    "item": 75,
     "title": "20 August 1955",
     "author": "Shoghi Effendi",
     "years": [1955.082, 1955.082],
@@ -2116,7 +2124,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 74,
+    "item": 76,
     "title": "5 January 1956",
     "author": "Shoghi Effendi",
     "years": [1956.0105, 1956.0105],
@@ -2130,7 +2138,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 75,
+    "item": 77,
     "title": "2 February 1956",
     "author": "Shoghi Effendi",
     "years": [1956.0202, 1956.0202],
@@ -2144,7 +2152,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 76,
+    "item": 78,
     "title": "22 June 1956",
     "author": "Shoghi Effendi",
     "years": [1956.0622, 1956.0622],
@@ -2158,7 +2166,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 77,
+    "item": 79,
     "title": "19 July 1956",
     "author": "Shoghi Effendi",
     "years": [1956.0719, 1956.0719],
@@ -2250,7 +2258,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 78,
+    "item": 80,
     "title": "29 April 1957",
     "author": "Shoghi Effendi",
     "years": [1957.0429, 1957.0429],
@@ -2264,7 +2272,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 79,
+    "item": 81,
     "title": "7 May 1957",
     "author": "Shoghi Effendi",
     "years": [1957.0507, 1957.0507],
@@ -2278,7 +2286,7 @@
   },
   {
     "path": ["Citadel of Faith", "Citadel of Faith"],
-    "item": 80,
+    "item": 82,
     "title": "21 September 1957",
     "author": "Shoghi Effendi",
     "years": [1957.0921, 1957.0921],

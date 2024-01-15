@@ -118,7 +118,19 @@ const process = (source, id) => {
 
       titlePath[level] = title;
     } else {
-      documents[documents.length - 1].paragraphs.push(getItem(s));
+      if (s.startsWith("@")) {
+        if (documents[documents.length - 1].paragraphs.length === 0) {
+          documents[documents.length - 1].open =
+            documents[documents.length - 1].open || [];
+          documents[documents.length - 1].open.push(s.slice(2));
+        } else {
+          documents[documents.length - 1].close =
+            documents[documents.length - 1].close || [];
+          documents[documents.length - 1].close.push(s.slice(2));
+        }
+      } else {
+        documents[documents.length - 1].paragraphs.push(getItem(s));
+      }
     }
   });
 
