@@ -650,6 +650,7 @@ export const files = {
       ["inmost selves. . . . That the", "inmost selves. . . .\n\nThat the"],
       ["of glory, and will aid", "of glory, and shall aid"],
       ["caught a lightening glimpse", "caught a lightning glimpse"],
+      ["an answerer of the cry", "an answerer to the cry"],
     ],
     "hidden-words": [
       [/^Bahá’u’lláh/m, ""],
@@ -1041,6 +1042,8 @@ export const files = {
       [/^—‘Abdu’l‑Bahá$/gm, ""],
       [/\*\*\*/g, ""],
       ["Ibn‑i‑Abhar,\n\nupon", "Ibn‑i‑Abhar, upon"],
+      [/^The Báb\.$/m, ""],
+      [/^Cf. “Tablets of Abdu’l‑Bahá.*/m, ""],
       [/^Cf. Qur’án, 56:62; also 29:20 and 53:47..*/m, ""],
       [/^Mark 9:35..*/m, ""],
       [/^Matthew 20:27..*/m, ""],
