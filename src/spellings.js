@@ -51,6 +51,7 @@ const correctSpelling = (s) =>
         .replace(/í/g, "í")
         .replace(/Í/g, "Í")
         .replace(/œ/g, "oe")
+        .replace(/Lawh\.-/g, 'Lawḥ-')
     )
     .replace(/ /g, " ")
     .replace(/-/g, "‑")

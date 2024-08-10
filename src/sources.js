@@ -23,7 +23,7 @@ const months = [
 const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const prefix = (line, pre) => [line, (s) => `${pre}${s}`];
 const getTitle = (s, t, translated) => {
-  if (!translated) return s;
+  if (!translated) return t;
   if (s.toLowerCase().includes("excerpts")) return `Excerpts from the ${t}`;
   if (s.toLowerCase().includes("excerpt")) return `Excerpt from the ${t}`;
   return t;
@@ -34,7 +34,7 @@ const title = (level, title, { collection, translated, ...config } = {}) => [
       .filter((x) => x)
       .map((x) => `^(Excerpt.*|)${escapeRegex(x)}.*$`)
       .join("|")})(\n\n^\\(.*\\)$)?`,
-    "m"
+    "mi"
   ),
   (s) =>
     [
@@ -510,7 +510,7 @@ export const files = {
       prefix(/^He is the Ever‑Living/gm, "^ "),
     ],
     "days-remembrance": [
-      removeAfter("Notes"),
+      removeAfter("Key to Passages Translated by Shoghi Effendi"),
       title("", "Days of Remembrance", {
         author: "Bahá’u’lláh",
         years: authorYears["Bahá’u’lláh"],
@@ -521,7 +521,7 @@ export const files = {
         author: "The Universal House of Justice",
         years: [2017, 2017],
       }),
-      [/^— .* —$/gm, "#"],
+      [/^\d+$/gm, "#"],
       title("#", "Naw‑Rúz", { collection: true }),
       title("#", "Riḍván", { collection: true }),
       title("#", "Declaration of the Báb", { collection: true }),
@@ -956,6 +956,9 @@ export const files = {
         collection: true,
       }),
       [/^—Bahá’u’lláh$/gm, ""],
+      [/^Muḥammad./m, ""],
+      [/^Jesus./m, ""],
+      [/^Moses./m, ""],
       [/^Mírzá Muḥammad‑‘Alí Zunúzí.*/m, ""],
       [/^Bahá’u’lláh states in another Tablet.*/m, ""],
       [/^In a Tablet Bahá’u’lláh states.*/m, ""],
@@ -1208,6 +1211,7 @@ export const files = {
       prefix(/^The Lamp of the assemblage/m, "^ "),
       prefix(/^A prayer beseeching forgiveness/m, "^ "),
       prefix(/^He is God/gm, "^ "),
+      ['^ Religion and science', 'Religion and science'],
       ["^ Seize thy chance", "Seize thy chance"],
     ],
     "light-of-the-world": [
