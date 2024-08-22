@@ -2543,6 +2543,7 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       ["and ‑development of the", "and development of the"],
       ["noted that ther are", "noted that there are"],
       ["preColumbian", "pre‑Columbian"],
+      ["Naw‑Rúz 177", "Naw‑Rúz 2020"]
     ],
     "turning-point": [
       removeAfter("Notes"),
