@@ -745,6 +745,7 @@ export const files = {
         "establishes the Nineteen Day Feasts",
       ],
       ["and the “keys” of His", "as the “keys” of His"],
+      ["verse is none other", "verse is none"],
     ],
     "kitab-i-iqan": [
       removeAfter("Notes"),
@@ -1211,7 +1212,7 @@ export const files = {
       prefix(/^The Lamp of the assemblage/m, "^ "),
       prefix(/^A prayer beseeching forgiveness/m, "^ "),
       prefix(/^He is God/gm, "^ "),
-      ['^ Religion and science', 'Religion and science'],
+      ["^ Religion and science", "Religion and science"],
       ["^ Seize thy chance", "Seize thy chance"],
     ],
     "light-of-the-world": [
@@ -1269,6 +1270,7 @@ export const files = {
       ["early dawn! The Glory", "early dawn!\n\nThe Glory"],
       splitLines(/Await the break of His sovereign.*/m, "These are but"),
       [/#\n+([A-Z].{0,120})$/gm, (_, s) => `#\n\n^ ${s}`],
+      ["sacred verse is none other than", "sacred verse is none except"],
     ],
     "memorials-faithful": [
       ["by ‘Abdu’l‑Bahá", ""],
@@ -1519,6 +1521,7 @@ Wherefore, endeavour that with an illumined heart, a heavenly spirit, and a divi
       ["thought were wellnigh impossible", "thought were well nigh impossible"],
       ["bestow on them heavenly", "bestow upon them heavenly"],
       ["rarified", "rarefied"],
+      ["faces toward Him", "faces towards Him"],
     ],
     "some-answered-questions": [
       removeAfter("Notes"),
@@ -2543,7 +2546,7 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       ["and ‑development of the", "and development of the"],
       ["noted that ther are", "noted that there are"],
       ["preColumbian", "pre‑Columbian"],
-      ["Naw‑Rúz 177", "Naw‑Rúz 2020"]
+      ["Naw‑Rúz 177", "Naw‑Rúz 2020"],
     ],
     "turning-point": [
       removeAfter("Notes"),
@@ -2553,7 +2556,7 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
       ],
       ["Part III", ""],
       title("", "Turning Point", {
-        author: "Palabra Publications",
+        author: "Bahá’í Publishing",
         years: [1996, 2006],
         collection: true,
       }),
@@ -2967,20 +2970,19 @@ Whatsoever they decide is of God. Whoso obeyeth him not, neither obeyeth them, h
         collection: true,
       }),
       title("#", "Foreword", {
-        author:
-          "The National Spiritual Assembly of the Bahá’ís of the United States",
+        author: "Bahá’í Publishing",
         years: [2006, 2006],
       }),
       title("#", "Preface to 1937 Edition", {
-        author: "Bahá’í Publishing Committee",
+        author: "Bahá’í Publishing",
         years: [1937, 1937],
       }),
       title("#", "Preface to 1950 Edition", {
-        author: "Bahá’í Publishing Committee",
+        author: "Bahá’í Publishing",
         years: [1950, 1950],
       }),
       title("#", "Preface to 1970 Edition", {
-        author: "Bahá’í Publishing Trust",
+        author: "Bahá’í Publishing",
         years: [1970, 1970],
       }),
       title("#", "Preface to 2006 Edition", {
@@ -3394,6 +3396,10 @@ Now, observe that these events did not take place in the Christian Dispensation,
       [/^[^#\n].*\n\n^\d+\. ?/gm, ""],
       [/^\d+\. ?/gm, ""],
       [/^3 January 1982, from a letter written.*/gm, ""],
+      ["faces toward Him", "faces towards Him"],
+      ["verse is none other", "verse is none"],
+      ["Gracious, the All‑Powerful.", "Gracious, the All‑Bountiful."],
+      ["prolonged consultation which included", "prolonged"],
     ],
     "crisis-victory": [
       removeAfter("Index"),
@@ -3942,6 +3948,7 @@ But the grace of the Holy Spirit is the true criterion regarding which there is 
       ],
       ["being but a mindless animal", "being but is even as a mindless animal"],
       ["which God has “endowed each", "which God “hast endowed each"],
+      ["therein lies the secret", "therein lieth the secret"],
     ],
     trustworthiness: [
       removeAfter("Notes"),

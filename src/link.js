@@ -177,6 +177,7 @@ const documents = (
 
 const findSource = (doc, simplified, parts) => {
   if (!simplified) return null;
+  if (doc.id === 'additional-bahaullah-017') return null;
   if (
     parts[0].startsWith(
       "Hallowed be the Lord, the most excellent of all creators"

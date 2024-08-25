@@ -4,7 +4,7 @@ years=[2006,2006]
 collection
 
 # Foreword
-author="The National Spiritual Assembly of the Bahá’ís of the United States"
+author="Bahá’í Publishing"
 years=[2006,2006]
 
 First published in 1923, Bahá’u’lláh and the New Era offers readers a thorough introduction to the Bahá’í Faith written by one of its early adherents. Through studious investigation of the young religion, aided by a close relationship with ‘Abdu’l‑Bahá—the son and successor of Bahá’u’lláh, its Prophet and Founder—Dr. John E. Esslemont gained rare insight into the history and teachings of a religion still in its infant stages.
@@ -14,7 +14,7 @@ Since its first publication, Dr. Esslemont’s book, now translated into sixty�
 October 2006
 
 # Preface to 1937 Edition
-author="Bahá’í Publishing Committee"
+author="Bahá’í Publishing"
 years=[1937,1937]
 
 With the publication of “Bahá’u’lláh and the New Era” more than ten years ago, the Bahá’í Faith was given its first well‑conceived, thorough exposition by a student of the teachings. Recognising its value as the most satisfactory introduction to the Cause, Bahá’ís in both East and West have found Dr. Esslemont’s book so helpful that it has been translated into some thirty different languages.
@@ -28,7 +28,7 @@ These revisions in no respect alter the original plan of Dr. Esslemont’s book,
 January 1937
 
 # Preface to 1950 Edition
-author="Bahá’í Publishing Committee"
+author="Bahá’í Publishing"
 years=[1950,1950]
 
 With this edition the American Bahá’í Publishing Committee takes over copyright and other interests in “Bahá’u’lláh and the New Era” from Messrs. George Allen & Unwin Ltd., of London, England, through whom the late Dr. J. E. Esslemont published his famous book more than twenty years ago. Under arrangement with the British publishers, the Committee has since 1928 brought out eleven printings, in addition to the first American edition imported by Brentano’s of New York.
@@ -40,7 +40,7 @@ It should be added that any further revision of the text in the future is subjec
 December 1950
 
 # Preface to 1970 Edition
-author="Bahá’í Publishing Trust"
+author="Bahá’í Publishing"
 years=[1970,1970]
 
 Since 1937 no revision has been made to the text of Dr. Esslemont’s book, although in 1950 some minor corrections were introduced. On the other hand, the diffusion and development of the Bahá’í Faith since that time have been tremendous, and there has been added to Bahá’í bibliography a rich legacy of incomparable expositions, translations and historical accounts from the pen of Shoghi Effendi, Guardian of the Faith and the appointed interpreter of its Sacred Writings.

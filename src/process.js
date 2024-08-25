@@ -62,6 +62,7 @@ const process = (source, id) => {
   let configPath = [];
   let indexPath = [];
   let sectionPath = [];
+  let lastTitleLevel = 0;
   source.split("\n\n").forEach((s, i) => {
     if (i === 0 || s.startsWith("#") || s === "***") {
       const [titleLine, ...configLines] = s.split("\n");
@@ -69,13 +70,14 @@ const process = (source, id) => {
         i === 0
           ? 0
           : titleLine === "#"
-          ? collectionLevel
-          : titleLine === "***"
-          ? collectionLevel + 1
-          : titleLine.indexOf(" ");
+            ? collectionLevel
+            : titleLine === "***"
+              ? lastTitleLevel + 1
+              : titleLine.indexOf(" ");
       const title = ["#", "***"].includes(titleLine)
         ? undefined
         : titleLine.slice(i === 0 ? 0 : level + 1);
+      if (titleLine !== "***") lastTitleLevel = level;
       const { collection, translated, ...config } = configLines.reduce(
         (res, c) => {
           const [key, value = "true"] = c.split("=");
