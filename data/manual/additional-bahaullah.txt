@@ -1391,11 +1391,6 @@ O God, my God! Thou hast lighted the lamp of Thy Cause with the oil of wisdom; p
 #
 type="Prayer"
 
-O God, my God! I yield Thee thanks inasmuch as Thou hast made me to drink of Thy Sealed Wine from the hand of the bounty of Thy Name, the Self‑Subsisting. I entreat Thee by the splendours of the Dayspring of Thy Revelation, and by the potency of Thy Most Sublime Word, and by the might of Thy Most Exalted Pen, through Whose movement the realities of all created things have been enraptured, to aid His Majesty the Sháh to render Thy Cause victorious, and to turn towards the horizon of Thy Revelation, and to set his face in the direction of the lights of Thy countenance. Assist him, O my Lord, to draw nigh unto Thee. Help him, then, with the hosts of the heavens and of earth. I implore Thee, O Thou Who art the Lord of all Names and the Maker of the heavens, by the light of Thy Cause, and by the fire of the Lote‑Tree of Thy loving‑kindness, to help His Majesty to reveal Thy Cause amidst Thy creatures. Open, then, before his face the doors of Thy grace, and Thy mercy, and Thy bounty. Potent art Thou to do what pleaseth Thee by Thy word: ‘Be, and it is.’
-
-#
-type="Prayer"
-
 O God, my God! I beseech Thee by the sun of Thy grace, and the sea of Thy knowledge, and the heaven of Thy justice, to aid them that have denied Thee to confess, and such as have turned aside from Thee to return, and those who have calumniated Thee to be just and fair‑minded. Assist them, O my Lord, to return unto Thee, and to repent before the door of Thy grace. Powerful art Thou to do what Thou willest, and in Thy grasp are the reins of all that is in the heavens and all that is on earth. Praise be unto God, the Lord of the worlds.
 
 #
@@ -1611,17 +1606,6 @@ I entreat Thee, O Lord of Names and Creator of the heavens, by the blood spilt i
 #
 type="Prayer"
 
-* He is the Eternal, the One, the Single, the All‑Possessing, the Most Exalted.
-
-All praise be to Thee, O my God, inasmuch as Thou hast adorned the world with the splendour of the dawn following the night wherein was born the One Who heralded the Manifestation of Thy transcendent sovereignty, the Dayspring of Thy divine Essence and the Revelation of Thy supreme Lordship. I beseech Thee, O Creator of the heavens and Fashioner of names, to graciously aid those who have sheltered beneath the shadow of Thine abounding mercy and have raised their voices amidst the peoples of the world for the glorification of Thy Name.
-
-O my God! Thou beholdest the Lord of all mankind confined in His Most Great Prison, calling aloud Thy Name, gazing upon Thy face, proclaiming that which hath enraptured the denizens of Thy kingdoms of revelation and of creation. O my God! I behold Mine own Self captive in the hands of Thy servants, yet the light of Thy sovereignty and the revelations of Thine invincible power shine resplendent from His face, enabling all to know of a certainty that Thou art God, and that there is none other God but Thee. Neither can the power of the powerful frustrate Thee, nor the ascendancy of the rulers prevail against Thee. Thou doest whatsoever Thou willest by virtue of Thy sovereignty which encompasseth all created things, and ordainest that which Thou pleasest through the potency of Thy behest which pervadeth the entire creation.
-
-I implore Thee by the glory of Thy Manifestation and by the power of Thy might, Thy sovereignty and Thine exaltation to render victorious those who have arisen to serve Thee, who have aided Thy Cause and humbled themselves before the splendour of the light of Thy face. Make them then, O my God, triumphant over Thine enemies and cause them to be steadfast in Thy service, that through them the evidences of Thy dominion may be established throughout Thy realms and the tokens of Thine indomitable power be manifested in Thy lands. Verily Thou art potent to do what Thou willest; no God is there but Thee, the Help in Peril, the Self‑Subsisting.
-
-#
-type="Prayer"
-
 Glorified art Thou, O my God! I implore Thee by the Dawning‑Place of Thy signs and by the Revealer of Thy clear tokens to grant that I may, under all conditions, hold fast the cord of Thy loving providence and cling tenaciously to the hem of Thy generosity. Reckon me then with those whom the changes and chances of the world have failed to deter from serving Thee and from bearing allegiance unto Thee, whom the onslaught of the people hath been powerless to hinder from magnifying Thy Name and celebrating Thy praise. Graciously assist me, O my Lord, to do whatever Thou lovest and desirest. Enable me then to fulfil that which will exalt Thy Name and will set ablaze the fire of Thy love.
 
 Thou art, in truth, the Forgiving, the Bountiful.
@@ -1807,3 +1791,7 @@ type="Prayer"
 All praise be to Thee, O Lord my God! This is one of the days of Thy Riḍván Festival whereon a servant of Thine hath extended an invitation to the Manifestation of Thine Essence and the Revealer of Thy Sovereignty, and hath decked forth a place in the prison to receive Thine all‑glorious Beauty, O Thou Who art the Lord of earth and heaven! All glory be to this hour wherein He Who is the Dayspring of Thy transcendent might hath directed His steps from one room of the prison to another. I beseech Thee, O Thou Who art the King of Names and Creator of earth and heaven, to write down for such of Thy loved ones as have been debarred from entering the precincts of Thy mercy and standing before the throne of Thy might the recompense decreed for such as have attained Thy presence and beheld Him Who is Thy Beauty.
 
 Thou hearest, O Lord, their sighs and lamentations in their separation and remoteness from Thee. I beseech Thee to ordain for them all the good Thou dost possess. Potent art Thou to do as Thou willest. No God is there but Thee, the Almighty, the All‑Praised.
+
+#
+
+Beware lest ye exchange the Wine of God for your own wine, for it will stupefy your minds, and turn your faces away from the Countenance of God, the All‑Glorious, the Peerless, the Inaccessible. Approach it not, for it hath been forbidden unto you by the behest of God, the Exalted, the Almighty.
